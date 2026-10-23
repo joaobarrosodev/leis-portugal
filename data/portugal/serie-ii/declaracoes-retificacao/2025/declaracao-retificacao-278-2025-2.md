@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/056000000/0049400495.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/278-2025-911688749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e132f7a4f2ac072e122a3845b85a89999a06898e087cab9ac43bb34454a405c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa3c02e345c4863e49ae1d058daf66d2495bfdbe9356c805b2ced7466628389c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:17Z'
   warnings: []
   errors: []
 ---
@@ -123,12 +123,12 @@ QUADRO 1
 
 Estrutura Curricular do Curso de Aprofundamento em Análise de Políticas Públicas
 
-| Área científica | Sigla | Créditos | Créditos |
+| Área científica | Sigla | Créditos |  |
 | --- | --- | --- | --- |
-| Área científica | Sigla | Obrigatórios | Opcionais |
+| Obrigatórios | Opcionais |  |  |
 | Ciências da Administração | CA | 5 |  |
 | Subtotal |  | 5 |  |
-| Total |  | 5 | 5 |
+| Total |  | 5 |  |
 
 12 - Plano de estudos
 
@@ -136,10 +136,12 @@ QUADRO 2
 
 Plano de Estudos do Curso de Aprofundamento em Análise de Políticas Públicas
 
-| Módulos | Área Científica | Duração | ECTS | Total | T | TP | PL | TC | S | E | OT | Síncrono | Autónomo | Assíncrono | Prático |
+| Módulos | Área Científica | Duração | ECTS | Componente Presencial | Componente a Distância |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Módulos | Área Científica | Duração | ECTS | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente a Distância | Componente a Distância | Componente a Distância | Componente a Distância |
-| Módulos | Área Científica | Duração | ECTS | Total | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho |
+| Total | Horas de trabalho | Horas de trabalho |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | Síncrono | Autónomo | Assíncrono | Prático |  |  |  |  |  |
 | Teorias, Modelos e Aplicação da Análise de Políticas Públicas | CA | 1 Mês | 5 | 125 |  | 30 |  |  |  |  |  | 30 | 30 | 35 |  |
-| Casos Reais de Análise de Políticas Públicas | CA | 1 Mês | 5 | 5 |  | 5 |  |  |  |  |  |  |  |  |  |
-| Análise de Dados | CA | 1 Mês | 5 | 10 |  | 5 |  |  |  |  |  | 5 |  |  |  |
+| Casos Reais de Análise de Políticas Públicas | 5 |  | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Análise de Dados | 10 |  | 5 |  |  |  |  |  | 5 |  |  |  |  |  |  |
+
+318804404

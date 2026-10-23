@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/049000000/0032700329.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/253-2025-910331651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c25b176f5b793d6623f842d20aea4714f1ebec53bebc43ebdc76e5f324c6cf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd90386922359f0515bed636e491a12d24b9ae38a5afc206d5bb7168297d9205
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:07Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ deve ler-se:
 
 «- O Presidente do Instituto Politécnico de Viana do Castelo, Professor Carlos Manuel da Silva Rodrigues.»
 
-**Publique-se no Diário da República.**
+Publique-se no Diário da República.
 
 28 de fevereiro de 2025. - O Reitor, Prof. Doutor Rui Manuel Costa Vieira de Castro.
 
@@ -169,3 +169,5 @@ e) Prestar a colaboração que lhes for solicitada pela Comissão Executiva.
 O presente despacho produz efeitos imediatos, sendo divulgado no sistema de informação das Instituições de Ensino Superior consorciadas e publicado no Diário da República.
 
 10 de dezembro de 2024. - O Reitor da Universidade do Minho, Professor Rui Vieira de Castro. - O Reitor da Universidade de Aveiro, Professor Paulo Jorge Ferreira. - O Reitor da Universidade da Beira Interior, Professor Mário Raposo. - O Presidente do Instituto Politécnico de Leiria, Professor Carlos Rabadão. - O Presidente do Instituto Politécnico de Viana do Castelo, Professor Carlos Manuel da Silva Rodrigues. - A Presidente do Instituto Politécnico do Cávado e do Ave, Professora Maria José Fernandes.
+
+318755538

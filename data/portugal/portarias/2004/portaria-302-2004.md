@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/302/2004/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/302-2004-541826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22026c52918558ccf13e8d3940bb0bccf7597bcd0ca140f78379c3e2e0e2f79e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 750fe15a9d1881a1576cf5394536da3a9f07edbf84d44a5b6d98d2692375fd79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,25 @@ relationships:
   target: pt:dre:610246:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:610246:por
+  label: "Alterado o art. 2º do presente diploma, pela PORT.137/2010.03.03.2010.MADRP, DR.IS [43] de 03.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2010-610246
+  date: '2010-03-03'
+- type: cites
+  target: pt:dre:333336:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:25Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +121,4 @@ Nascente - limite da freguesia de Maiorca e estrada Santa Eulália-Ereira (troç
 
 Poente - vala da Veia, vala do Simonte e A 14 (troço entre o morro dos Varinos e o morro de Sanfins).
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 26 de Fevereiro de 2004.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 26 de Fevereiro de 2004.

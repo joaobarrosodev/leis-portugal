@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/336/2004/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/336-2004-217552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95f6c71a8c3fab6a3f96a0b254811099e0c123953407744934dcdbe3dbbf9559
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d636efb6622680335d4924f9a41ff1a73f1c3c97b11429bbc41beefd16be19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Escola Náutica Infante Dom Henrique
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/2002/01/29/p/dre
@@ -85,16 +85,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413-t/1998/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413-t/1998/07/17/p/dre
+- type: cites
+  target: pt:dre:276032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:37Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +215,7 @@ As alterações introduzidas pela presente portaria aplicam-se a partir do ano l
 
 Em 1 de Março de 2004.
 
-**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.**
+A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.
 
 ## ANEXO — ([Portaria n.º 413-T/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-t-1998-429627), de 17 de Julho, alterada pela [Portaria n.º 252/99](https://diariodarepublica.pt/dr/detalhe/portaria/252-1999-542251), de 9 de Abril - alteração)
 
@@ -211,37 +231,37 @@ QUADRO N.º 1
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
 
 QUADRO N.º 2
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
 
 QUADRO N.º 3
 
 3.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
 
 QUADRO N.º 4
 
 4.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
 
 QUADRO N.º 5
 
 5.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
 
 QUADRO N.º 6
 
 6.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
 
 2.º ciclo
 
@@ -251,10 +271,10 @@ QUADRO N.º 1
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
 
 QUADRO N.º 2
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)](https://files.diariodarepublica.pt/1s/2004/03/077b00/20562059.pdf)

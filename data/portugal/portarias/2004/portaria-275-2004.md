@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/275/2004/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/275-2004-539584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8c6e53dcf6f0d9c044165392913c3308cafbe4a8b0894ef1404953a79e69f20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1e632e8724168a9b84775e33c22df3a086ee71c2b5cfa4c72f73c0b4d0924a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:594160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500472:por
+  label: "Suspenso o exerc&#237;cio da ca&#231;a e de actividades de car&#225;cter venat&#243;rio na zona de ca&#231;a associativa\
+    \ concessionada pela Port 667-Q1/93, de 14-Jul, alterada pelo presente diploma, pela PORT.965/2004.30.07.2004.MADRP, DR.IS-B\
+    \ [178] de 30.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/965-2004-500472
+  date: '2004-07-30'
+- type: amended_by
+  target: pt:dre:594160:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça concessionada pela Port 667-Q1/93 de 14-Jul, alterada\
+    \ pelo presente diploma, pela PORT.1077/2005.21.10.2005.MAOTDR, DR.IS-B [203] de 21.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1077-2005-594160
+  date: '2005-10-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-q1/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-q1/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:402483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:15Z'
   warnings: []
   errors: []
 ---

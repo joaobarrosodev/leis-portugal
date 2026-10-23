@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/2004/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-2004-541844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 436b717e8eff6e88767fa1d7ea5f427979128e028ddc16da5439cd8349a9b9cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb25cf9d7ac95f0b953adce991dc0e167b2bc8bd2f033d3082fb6430702a6afd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,35 @@ subjects:
 - Alcobaça
 - Aveiro
 - Caldas da Rainha
-- Extinção de Lugares
 - Centro de Saúde
+- Coimbra
+- Extinção de Lugares
+- Guarda
 - Leiria
+- Marinha Grande
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Pombal
-- Coimbra
 - Quadro de Pessoal
-- Marinha Grande
-- Guarda
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:673273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157784:por
+  label: "Alterado o quadro de pessoal da Administração Regional de Saúde do Centro e Sub-Região de Saúde de Coimbra, aprovado\
+    \ pela Port 772-B/96 de 31-Dez, alterado pelo presente diploma, pela PORT.982/2005.06.10.2005.MFAP, DR.IS-B [192] de 06.10.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/982-2005-157784
+  date: '2005-10-06'
+- type: amended_by
+  target: pt:dre:673273:por
+  label: "Alterado o quadro de pessoal da Administração Regional de Saúde do Centro (Sub-Região de Saúde de Coimbra) aprovado\
+    \ pela Port 772-B/96 de 31-Dez, com as alterações constantes do presente diploma, pela PORT.316/2006.05.04.2006.MFAP,\
+    \ DR.IS-B [68] de 05.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-2006-673273
+  date: '2006-04-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1374/2002/10/22/p/dre
   label: null
@@ -93,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/772-b/1996/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/772-b/1996/12/31/p/dre
+- type: cites
+  target: pt:dre:432183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622997:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:20Z'
   warnings: []
   errors: []
 ---

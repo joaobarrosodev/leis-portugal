@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/081b00/21562156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/356/2004/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/356-2004-218308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5df883824ac24268995557a1347cfe73cb7755a631fa3282adba08481c731d0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76a4cebf3efe5756ae682b3238e26f844b25d32a91d596b39dd9c63055df8167
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,35 +69,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Doença Animal
-- Gado Caprino
-- Direção Geral de Veterinária
-- Controlo Sanitário
-- Gado Bovino
 - Abate de Animais
-- Organização de Produtores
+- Controlo Sanitário
+- Direção Geral de Veterinária
+- Doença Animal
+- Gado Bovino
+- Gado Caprino
 - Gado Ovino
+- Organização de Produtores
 - Pecuária
+- Produção Animal
 relationships:
 - type: amended_by
   target: pt:dre:518028:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667160:por
+  label: "Alterada a Port 122/2003, de 05-Fev, na redacção do presente diploma, pela PORT.266/2006.17.03.2006.MADRP, DR.IS-B\
+    \ [55] de 17.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-2006-667160
+  date: '2006-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/122/2003/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/122/2003/02/05/p/dre
+- type: cites
+  target: pt:dre:200418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518028:por
+  label: "Revogada a Port 122/2003 de 05-Fev, com a redacção que lhe foi dada no presente diploma, pela PORT.178/2007.09.02.2007.MADRP,\
+    \ DR.IS [29] de 09.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-2007-518028
+  date: '2007-02-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:44Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/365/2004/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/365-2004-218759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bfbc1139af1202f68fe599205306b415911d0412822fc02bf448cfde904b77e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b8eaaba36368fd9c6138f0ca8074906031484db681279823cc6417e8db92e8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,11 @@ reuse:
 subjects:
 - Educação dos Adultos
 relationships:
+- type: amends
+  target: pt:numero:portaria:302/2003
+  label: "Altera o n.º 4.4 da Portaria n.º 302/2003, de 12 de Abril DR.IS-B [87]\0\0"
+  source: null
+  date: '2003-04-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26/2003/02/07/p/dre
   label: null
@@ -95,16 +100,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/302/2003/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/302/2003/04/12/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:46Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +176,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 10 de Março de 2004.
 
-**O Ministro da Educação, José David Gomes Justino. - A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho.**
+O Ministro da Educação, José David Gomes Justino. - A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho.

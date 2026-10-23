@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/063000000/0036900375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/328-2025-913052300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffa455d76504a7e303fb042d8b58bf1b50f78365aa8d389d68ea126b59e3cf41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6349fbc86236a982aafaf4ba124eb85428847eb5dfc3c8624a1bb0bffd4ab531
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:34Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 328/2025/2
 
-Para os devidos efeitos, observado o disposto nos n.<sup>os</sup>2, 3, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., em 2 de janeiro de 2025, e obtido parecer favorável da entidade emitente, declara-se que o Despacho n.º 2032/2025, publicado no Diário da República, 2.ª série, n.º 30, de 12 de fevereiro de 2025, referente à criação da licenciatura em Engenharia Geral (GENI) do Instituto Superior Técnico da Universidade de Lisboa, saiu com algumas inexatidões no texto, pelo que se procede à sua retificação, nos seguintes termos:
+Para os devidos efeitos, observado o disposto nos n.os2, 3, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., em 2 de janeiro de 2025, e obtido parecer favorável da entidade emitente, declara-se que o Despacho n.º 2032/2025, publicado no Diário da República, 2.ª série, n.º 30, de 12 de fevereiro de 2025, referente à criação da licenciatura em Engenharia Geral (GENI) do Instituto Superior Técnico da Universidade de Lisboa, saiu com algumas inexatidões no texto, pelo que se procede à sua retificação, nos seguintes termos:
 
 No quadro n.º 61, onde se lê:
 
@@ -91,10 +95,10 @@ No quadro n.º 61, onde se lê:
 
 Unidades Curriculares Opcionais - Opções - Percurso Livre
 
-| Unidades curriculares opcionais | Unidades curriculares opcionais | Área científica | Ano curricular | Organização do ano anterior | Total | T | TP | PL | TC | S | E | OT | O | ECTS |
+| Unidades curriculares opcionais | Área científica | Ano curricular | Organização do ano anterior | Horas de trabalho | ECTS |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidades curriculares opcionais | Unidades curriculares opcionais | Área científica | Ano curricular | Organização do ano anterior | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | ECTS |
-| Unidades curriculares opcionais | Unidades curriculares opcionais | Área científica | Ano curricular | Organização do ano anterior | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | ECTS |
+| Contacto |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total | T | TP | PL | TC | S | E | OT | O |  |  |  |  |  |  |
 | Opções 1* | Algoritmos para Lógica Computacional | MTP | 3.º | 1.º semestre | 168.0 | 28 |  | 21 |  |  |  |  |  | 6.0 |
 |  | Análise e Modelação de Sistemas | SI | 3.º | 1.º semestre | 168.0 | 28 |  | 21 |  |  |  |  |  | 6.0 |
 |  | Armazenamento de Energia | EPP | 3.º | 1.º semestre | 168.0 | 21 |  |  |  | 28 |  |  |  | 6.0 |
@@ -159,10 +163,10 @@ deve ler-se:
 
 Unidades Curriculares Opcionais - Opções - Percurso Livre
 
-| Unidades curriculares opcionais | Unidades curriculares opcionais | Áreacientífica | Ano curricular | Organização do ano curricular | Total | T | TP | PL | TC | S | E | OT | O | ECTS |
+| Unidades curriculares opcionais | Áreacientífica | Ano curricular | Organização do ano curricular | Horas de trabalho | ECTS |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidades curriculares opcionais | Unidades curriculares opcionais | Áreacientífica | Ano curricular | Organização do ano curricular | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | ECTS |
-| Unidades curriculares opcionais | Unidades curriculares opcionais | Áreacientífica | Ano curricular | Organização do ano curricular | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | ECTS |
+| Contacto |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total | T | TP | PL | TC | S | E | OT | O |  |  |  |  |  |  |
 | Opções 1* | Algoritmos para Lógica Computacional | MTP | 3.º | 1.º semestre | 168.0 | 28 |  | 21 |  |  |  |  |  | 6.0 |
 |  | Análise e Modelação de Sistemas | SI | 3.º | 1.º semestre | 168.0 | 28 |  | 21 |  |  |  |  |  | 6.0 |
 |  | Armazenamento de Energia | EPP | 3.º | 1.º semestre | 168.0 | 21 |  |  |  | 28 |  |  |  | 6.0 |
@@ -222,3 +226,7 @@ Unidades Curriculares Opcionais - Opções - Percurso Livre
 **Escolher 24 ECTS»
 
 21 de março de 2025. - O Diretor da Unidade do Diário da República da Imprensa Nacional-Casa da Moeda, S. A., Bruno Pereira.
+
+318871327
+
+.Tbl2 { height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { height:21px; } .Tbl8 { height:26px; } .Tbl9 { min-height:18px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl13 { min-height:27px; } .Tbl14 { min-height:28px; } .Tbl15 { border-collapse:collapse; border-width:1px; border-style:none; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl17 { margin-top:0px; text-align:center; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl19 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl22 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

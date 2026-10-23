@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/360/2004/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-2004-218360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f71d43493a5bc7e2f2366e3ba24b435668fb1c74bd07833b689b0f153a99ca5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 565a2a74fd931b18e65dc281e9734393fe6cb504fa9b8a5dcb8ed84a634063c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Apoio ao Investimento
-- Projeto de Investimento
-- Ruris
-- Produção Agrícola
-- Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
 - Agricultura
+- Apoio ao Investimento
+- Financiamento
+- Produção Agrícola
+- Projeto de Investimento
+- Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
+- Ruris
 relationships:
 - type: amended_by
   target: pt:dre:540048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481352:por
+  label: "Alterado o nº 4 da Port 1212/2003 de 16-Out, bem como os arts 12º, 31º, 32º e 35º e o anexo X do Regulamento de\
+    \ Aplicação da Intervenção “Medidas Agro-Ambientais”, aprovado pelo mesmo diploma, na redacção do presente diploma, pela\
+    \ PORT.1043/2004.14.08.2004.MADRP, DR.IS-B [191] de 14.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1043-2004-481352
+  date: '2004-08-14'
+- type: amended_by
+  target: pt:dre:575307:por
+  label: "Alterados os arts. 3.º, 10.º, 13.º, 14.º, 15.º, 17.º, 18.º, 22.º, 24.º, 28.º, 29.º, 31.º, 34.º, 35.º, 36.º, 37.º,\
+    \ 38.º, 65.º, 71.º, 79.º, 85.º, 88.º, 90.º, 91.º, 92.º, 94.º, anexos VII, VIII e X e revogado o art. 42º(sem prejuízo\
+    \ do disposto no art. 3.º), todos do Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Port\
+    \ 1212/2003, de 16-Out, pela PORT.254/2005.14.03.2005.MAPF, DR.IS-B [51] de 14.03.2005, sem prejuízo do disposto no seu\
+    \ art. 3.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-2005-575307
+  date: '2005-03-14'
+- type: amended_by
+  target: pt:dre:220160:por
+  label: "Alterados os artigos 3.º, 9.º, 10.º, 13.º, 14.º, 17.º, 24.º, 34.º, 65.º, 89.º, 90.º, 91.º e 92.º do Regulamento\
+    \ de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Portaria n.º 1212/2003, de 16-Out, alterado pelo\
+    \ presente diploma, pela PORT.500/2005.02.06.2005.MADRP, DR.IS-B [106] de 02.06.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/500-2005-220160
+  date: '2005-06-02'
+- type: amended_by
+  target: pt:dre:676839:por
+  label: "Permitida a prorrogação por mais um ano das candidaturas, cujo termo tenha ocorrido em 2005, aos beneficiários com\
+    \ candidaturas à ajudas previstas no Regulamento de Aplicação da Intervenção \"Medidas Agro-Ambientais\", aprovado pela\
+    \ Port 1212/2003 de 16-Out, com a redacção constante do presente diploma, pela PORT.143/2006.20.02.2006.MADRP, DR.IS-B\
+    \ [36] de 20.02.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-2006-676839
+  date: '2006-02-20'
+- type: amended_by
+  target: pt:dre:540048:por
+  label: "Permitida a transferência para os herdeiros dos beneficiários falecidos em 2005 ou em 2006 das ajudas previstas\
+    \ no Regulamento de Aplicação aprovado pela Port 1212/003 de 16-Out, com a redacção do presente diploma, pela PORT.949/2006.11.09.2006.MADRP,\
+    \ DR.IS [175] de 11.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/949-2006-540048
+  date: '2006-09-11'
 - type: cites
   target: celex:32003R2237
   label: null
@@ -87,15 +125,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1212/2003/10/16/p/dre
 article_structure:
-  article_count: 42
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:45Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +214,9 @@ x) 'Agricultor seareiro' - agricultor que pratica um tipo de agricultura de cara
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Para efeitos de concessão das ajudas à medida prevista nesta secção devem ser consideradas, por parcela, as seguintes densidades mínimas:
 
@@ -202,7 +242,9 @@ j) ...
 
 l) Olival - 61 árvores/ha, excepto no caso das candidaturas já apresentadas a esta medida em que a densidade é de 60 árvores/ha.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +284,9 @@ e) ...
 
 8 - Os beneficiários que se candidataram nos anos de 2001 e 2002 devem, obrigatoriamente, apresentar o respectivo comprovativo da frequência da acção de formação referida na alínea e) do n.º 1, durante o período de confirmação anual que decorrerá no ano de 2004.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +304,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Para efeitos de concessão das ajudas à medida prevista nesta secção devem ser consideradas, por parcela, as seguintes densidades mínimas:
 
@@ -276,7 +322,9 @@ e) ...
 
 f) ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -308,7 +356,9 @@ e) ...
 
 7 - Os beneficiários que se candidataram nos anos de 2001 e 2002 devem, obrigatoriamente, apresentar o respectivo comprovativo da frequência da acção de formação referida na alínea e) do n.º 1, durante o período de confirmação anual que decorrerá no ano de 2004.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -332,7 +382,9 @@ b) ...
 
 c) ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -352,7 +404,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Para efeitos de concessão das ajudas à medida prevista nesta secção devem ser consideradas, por parcela, as seguintes densidades mínimas:
 
@@ -384,7 +438,9 @@ n) ...
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -456,7 +512,9 @@ c) ...
 
 8 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -484,7 +542,9 @@ c) ...
 
 8 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Podem beneficiar das ajudas previstas nesta subsecção os beneficiários que semeiem anualmente uma cultura na área de compromisso e cujas unidades de produção reúnam as seguintes condições:
 
@@ -498,7 +558,9 @@ ii) ...
 
 iii) ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -536,7 +598,9 @@ ii) ...
 
 d) ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Para efeitos de concessão das ajudas à medida prevista nesta subsecção devem ser consideradas, por parcela, as seguintes densidades mínimas:
 
@@ -552,11 +616,15 @@ e) ...
 
 f) ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 Podem beneficiar das ajudas previstas nesta subsecção os beneficiários que semeiem anualmente uma área mínima de 0,30 ha, na área de compromisso, onde nesse ano sejam feitas culturas arvenses de regadio de Primavera-Verão até ao limite da área declarada para efeitos de atribuição das ajudas previstas no regime de apoio aos produtores de determinadas culturas arvenses.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -572,7 +640,9 @@ e) ...
 
 2 - Sem prejuízo dos compromissos acima referidos, os beneficiários podem, ainda, subscrever para toda a área de compromisso o compromisso de utilizar, durante o período de concessão da ajuda, técnicas de mobilização vertical, sem reviramento do solo ou levantamento do torrão - nunca usar charrua e alfaias rotativas, podendo utilizar grade de discos (uma passagem) quando na sequência da cultura anterior se tenha optado pela manutenção da palha sobre o solo.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Podem beneficiar das ajudas previstas nesta secção os beneficiários que apresentem um plano de gestão de pastagens na DRA respectiva, e cujas unidades de produção reúnam as seguintes condições:
 
@@ -602,7 +672,9 @@ c) No caso de povoamentos mistos das espécies referidas na alínea anterior e s
 
 6 - Para efeitos da alínea a) do n.º 1, a tabela de conversão dos bovinos, ovinos, caprinos e suínos em cabeças normais consta do anexo IV a este Regulamento.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -626,7 +698,9 @@ i) ...
 
 2 - Para efeitos da alínea d) do número anterior, a sementeira com mobilização e revestimento do solo em parcelas com IQFP maior ou igual a 3 só será autorizada se feita segundo as curvas de nível, em faixas com o máximo de 50 m de largura, a mobilizar alternadamente, umas num ano, outras no ano seguinte.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -680,7 +754,9 @@ f) Fornecer ao IDRHa informação necessária para elaboração do modelo de aco
 
 8 - Excepcionalmente no corrente ano, as organizações de agricultores devem apresentar até 31 de Dezembro a delimitação dos perímetros de intervenção e respectivo plano de gestão, os quais são aprovados pelo IDRHa até 15 de Março, sob parecer prévio da DRA emitido no prazo de 15 dias a contar da data da sua recepção.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -704,7 +780,9 @@ i) ...
 
 j) No caso de sistemas culturais de regadio, de culturas arvenses de Primavera-Verão (excepto arroz) ou horto-industriais, introduzir uma cultura intercalar (gramínea) para grão, feno, silagem ou pastoreio, de forma a cobrir, pelo menos, 90% do solo a partir do mês de Novembro, a qual não poderá ser objecto de corte ou pastoreio antes de 1 de Março.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -782,7 +860,9 @@ ii) 60 árvores/ha, no caso de olival, amendoal, figueiral e outras fruteiras;
 
 iii) 50 árvores/ha, no caso de povoamentos mistos de espécies integradas nos dois grupos anteriores.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 Podem beneficiar das ajudas previstas nesta secção os beneficiários que semeiem na área de compromisso culturas arvenses anuais de sequeiro - cereais para grão (excepto trigo-duro), leguminosas secas para grão (excepto feijão), girassol, colza e linho oleaginoso e cujas unidades de produção reúnam as seguintes condições:
 
@@ -798,7 +878,9 @@ iii) ...
 
 c) ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -832,7 +914,9 @@ l) ...
 
 2 - Sem prejuízo dos compromissos referidos no número anterior, os beneficiários podem ainda subscrever o compromisso de utilizar, durante o período de concessão da ajuda, em toda a área de compromisso, técnicas de mobilização vertical - sem reviramento do solo ou levantamento do torrão, não sendo permitida a utilização de charrua e alfaias rotativas, podendo utilizar grade de discos (uma passagem) quando na sequência da cultura anterior se tenha optado pela manutenção da palha sobre o solo ou pelo estabelecimento de cultura de cobertura não sujeita a pastoreio.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 ...
 
@@ -844,7 +928,9 @@ c) ...
 
 d) ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -852,7 +938,9 @@ d) ...
 
 3 - O plano de gestão referido no n.º 1 pode ser revisto anualmente, devendo a sua alteração ser validada pela DRA respectiva.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -882,7 +970,9 @@ g) ...
 
 3 - Para efeitos da alínea f) do n.º 1, a tabela de conversão dos bovinos, ovinos, caprinos e suínos em cabeças normais consta do anexo IV a este Regulamento.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -896,7 +986,9 @@ c) ...
 
 3 - No caso das áreas de pastagens espontâneas herbáceas e ou arbustivas permanentes, a ajuda é atribuída a uma área calculada em função do número de caprinos declarados anualmente, na relação de 1 CN de caprinos para 1 ha.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Podem beneficiar das ajudas previstas nesta secção os beneficiários cujas unidades de produção reúnam as seguintes condições:
 
@@ -916,7 +1008,9 @@ ii) ...
 
 2 - Para efeitos da alínea b) do número anterior, a tabela de conversão dos bovinos, ovinos, caprinos e suínos em cabeças normais consta do anexo IV a este Regulamento.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Para efeitos de atribuição das ajudas e para toda a área objecto da mesma, os beneficiários devem comprometer-se, durante o período de concessão, a:
 
@@ -936,7 +1030,9 @@ g) ...
 
 2 - Excepcionalmente, os beneficiários que se candidataram nos anos de 2001 e 2002 devem, obrigatoriamente, apresentar o respectivo comprovativo da frequência da acção de sensibilização referida na alínea b) do número anterior, durante o período de confirmação anual que decorrerá no ano de 2004.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -952,7 +1048,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -986,7 +1084,9 @@ i) ...
 
 ii) Ter uma densidade, por parcela, entre 10 e 100 árvores castanheiros por hectare.
 
-###### Artigo 71.º — Condições de acesso
+Artigo 71.º
+
+Condições de acesso
 
 1 - ...
 
@@ -1004,7 +1104,9 @@ b) ...
 
 c) ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Podem beneficiar das ajudas previstas nesta secção os beneficiários que apresentem, na data de candidatura, um plano de manutenção aprovado pela respectiva DRA e se comprometam durante o período de concessão da ajuda a:
 
@@ -1026,7 +1128,9 @@ g) ...
 
 3 - O plano de manutenção referido no número anterior pode ser revisto anualmente, devendo a sua alteração ser apresentada, na DRA respectiva, até um mês antes da data da confirmação anual, para efeitos de validação.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
@@ -1052,7 +1156,9 @@ j) ...
 
 2 - Para efeitos do número anterior, o arrozal é explorado de forma tradicional nos termos a definir pelo despacho de aplicação do Regulamento (CE) n.º [2237/2003](http://data.europa.eu/eli/reg/2003/2237/oj?locale=pt), de 26 de Dezembro, excepto no que se refere às áreas de vegetação ripícola, caniço ou tabua.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 ...
 
@@ -1068,7 +1174,9 @@ ii) 2 CN/ha de SF para efeitos de encabeçamento, nos restantes casos;
 
 d) ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -1110,7 +1218,9 @@ ii) Uma fêmea no caso de efectivos inferiores a cinco fêmeas reprodutoras.
 
 4.º As fêmeas e machos reprodutores de raças ameaçadas.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - ...
 
@@ -1138,7 +1248,9 @@ ii) ...
 
 4 - ...
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - ...
 
@@ -1146,7 +1258,9 @@ ii) ...
 
 3 - No caso de áreas de pastagem objecto de ajuda no âmbito das medidas 'Agricultura biológica', 'Preservação de pastagens de montanha integradas em baldios' e 'Sistemas policulturais tradicionais', o pagamento das ajudas é efectuado em função do número de animais anualmente declarados.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -1158,7 +1272,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - ...
 
@@ -1192,7 +1308,9 @@ b) ...
 
 6 - Os beneficiários devem, no momento da confirmação anual a que se refere a alínea c) do artigo anterior, proceder à alteração da sua candidatura no caso de redução de área ou animais objecto de ajuda, havendo neste caso a devolução das ajudas recebidas indevidamente, sendo o montante a devolver calculado, por medida, com base na aplicação, ao montante de cada anuidade anteriormente paga, do valor percentual, correspondente à diferença entre as áreas determinadas e ou animais verificados nesse ano e em cada um dos anos anteriores.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -1218,7 +1336,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -1256,7 +1376,9 @@ b) No caso das alíneas e) e f) do número anterior, à devolução das ajudas, 
 
 6 - O incumprimento pelos beneficiários de um dos compromissos classificados como A no anexo X a este Regulamento ou de vários compromissos classificados como B desde que o somatório do valor da redução referido na alínea e) do n.º 2 ultrapasse 100% determina a devolução das ajudas, aplicando-se, com as necessárias adaptações, o disposto no artigo 15.º do Decreto-Lei n.º 8/2001, de 22 de Janeiro, quanto ao reembolso das ajudas, para além da aplicação de outras sanções legalmente previstas.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - ...
 
@@ -1334,17 +1456,23 @@ m) A medida 'Apoio à apicultura' do grupo II é cumulável com as medidas do gr
 
 2 - ...
 
-## ANEXO IV — Tabela de conversão em cabeças normais (CN)
+ANEXO IV
+
+Tabela de conversão em cabeças normais (CN)
 
 (a que se referem os artigos 18.º, 31.º, 59.º, 62.º, 71.º e 83.º e o anexo VIII)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
 
-## ANEXO VII — (a que se refere o n.º 2 do artigo 87.º)
+ANEXO VII
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
+(a que se refere o n.º 2 do artigo 87.º)
 
-## ANEXO VIII — [...]
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
+
+ANEXO VIII
+
+[...]
 
 A) Boas práticas agrícolas para todas as zonas
 
@@ -1392,22 +1520,28 @@ c) ...
 
 B) ...
 
-## ANEXO IX — [a que se refere a alínea a) do n.º 1 do artigo 90.º]
+ANEXO IX
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
+[a que se refere a alínea a) do n.º 1 do artigo 90.º]
+
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
 
 3.º No anexo I do Regulamento de Aplicação da Intervenção «Medidas Agro-Ambientais», aprovado pela Portaria n.º 1212/2003, de 16 de Outubro, a coluna referente ao âmbito geográfico de aplicação das medidas «Protecção integrada», no que se refere à zona piloto para a produção da batata-semente no âmbito da Direcção Regional de Agricultura de Trás-os-Montes, «Sistemas policulturais tradicionais» no âmbito da Direcção Regional de Agricultura de Trás-os-Montes e «Pomares tradicionais» no que respeita aos castanheiros no âmbito da Direcção Regional de Agricultura de Trás-os-Montes e da Direcção Regional de Agricultura da Beira Litoral, passa a ter a seguinte redacção:
 
-## ANEXO I — (a que se refere o artigo 5.º)
+ANEXO I
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
+(a que se refere o artigo 5.º)
+
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
 
 4.º No anexo X do Regulamento de Aplicação da Intervenção «Medidas Agro-Ambientais», aprovado pela Portaria n.º 1212/2003, de 16 de Outubro, a coluna referente aos compromissos das medidas «Produção integrada», «Redução da lixiviação de agro-químicos para os aquíferos» e «Sistemas arvenses sequeiro» e das submedidas «Sementeira directa ou mobilização na zona ou na linha» e «Cultura forrageira complementar de Outono-Inverno» da medida «Melhoramento do solo e luta contra a erosão» passa a ter a seguinte redacção:
 
-## ANEXO X — [a que se refere a alínea e) do n.º 2 e o n.º 5 do artigo 92.º]
+ANEXO X
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
+[a que se refere a alínea e) do n.º 2 e o n.º 5 do artigo 92.º]
+
+[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)](https://files.diariodarepublica.pt/1s/2004/04/083b00/21822196.pdf)
 
 5.º O presente diploma aplica-se às candidaturas apresentadas no corrente ano.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 18 de Março de 2004.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 18 de Março de 2004.

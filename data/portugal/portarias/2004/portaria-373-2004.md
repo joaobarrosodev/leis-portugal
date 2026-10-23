@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/373/2004/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/373-2004-219091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0528108805654528b946d75e4a30135563f3b99143bd90bf34641d07d99ddac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff78b951f63f145842a73f4f5d715fc81f73954c969dbf5a76e2116cdfbf87ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livro de Reclamações
 - Campo de Férias
 - Definição de Competências
 - Instituto Português da Juventude
+- Livro de Reclamações
 - Preço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/304/2003/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/304/2003/12/09/p/dre
+- type: cites
+  target: pt:dre:429175:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:49Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +203,7 @@ Entrada em vigor
 
 O presente diploma entra em vigor no dia imediatamente seguinte ao da sua publicação.
 
-**O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte, em 26 de Março de 2004.**
+O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte, em 26 de Março de 2004.
 
 ## ANEXO
 
@@ -349,4 +353,4 @@ Vila Real - Avenida do Dr. Manuel Cardona, 5000-558 Vila Real; telefone: 2593209
 
 Viseu - Portal do Fontelo, Carreira dos Carvalhos, 3500 Viseu; telefone: 232483410; fax: 232431070; e-mail: ipj.viseu@ipj.pt.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/04/087b00/22562259.pdf))](https://files.diariodarepublica.pt/1s/2004/04/087b00/22562259.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/04/087b00/22562259.pdf)

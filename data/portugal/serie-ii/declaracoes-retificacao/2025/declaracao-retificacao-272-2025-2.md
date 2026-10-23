@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/056000000/0009500096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/272-2025-911650062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfa7d98f64122a47d1de4c26eb4db34642f2c6a3bd0aaf6f0394a2fe8788a69c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 300025f26b41ddecfc06a2b5a8cf350ab53008918b710fb378be2613dc6a6c73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910469462:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:16Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 272/2025/2
 
-Para os devidos efeitos, observado o disposto nos n.<sup>os</sup>2, 3, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., em 2 de janeiro de 2025, e obtido parecer favorável da entidade emitente, declara-se que o [Aviso n.º 6592/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso/6592-2025-910469462), publicado no Diário da República, 2.ª série, n.º 50, de 12 de março de 2025, referente à abertura do procedimento concursal prévio à eleição do diretor do Agrupamento de Escolas Nuno de Santa Maria, Tomar, saiu sem numeração pelo que se procede à sua retificação através da republicação integral do ato, em anexo à presente declaração de retificação.
+Para os devidos efeitos, observado o disposto nos n.os2, 3, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., em 2 de janeiro de 2025, e obtido parecer favorável da entidade emitente, declara-se que o [Aviso n.º 6592/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso/6592-2025-910469462), publicado no Diário da República, 2.ª série, n.º 50, de 12 de março de 2025, referente à abertura do procedimento concursal prévio à eleição do diretor do Agrupamento de Escolas Nuno de Santa Maria, Tomar, saiu sem numeração pelo que se procede à sua retificação através da republicação integral do ato, em anexo à presente declaração de retificação.
 
 17 de março de 2025. - O Diretor da Unidade do Diário da República da Imprensa Nacional-Casa da Moeda, S. A., Bruno Pereira.
 
@@ -92,7 +108,7 @@ Para os devidos efeitos, observado o disposto nos n.<sup>os</sup>2, 3, 4, 6 e 7 
 
 1 - Nos termos do disposto nos artigos 21.º e 22.º do [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, com a redação dada pelo [Decreto-Lei n.º 137/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), de 2 de julho, torna-se público que se encontra aberto o procedimento concursal prévio à eleição do diretor do Agrupamento de Escolas Nuno de Santa Maria, pelo prazo de 10 (dez) dias úteis, a contar do dia seguinte ao da publicação do presente aviso no Diário da República, 2.ª série.
 
-2 - Os requisitos de admissão ao concurso são os estipulados nos n.<sup>os</sup>3, 4 e 5 do artigo 21.º, do [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, com a redação dada pelo [Decreto-Lei n.º 137/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), de 2 de julho.
+2 - Os requisitos de admissão ao concurso são os estipulados nos n.os3, 4 e 5 do artigo 21.º, do [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, com a redação dada pelo [Decreto-Lei n.º 137/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), de 2 de julho.
 
 3 - A formalização das candidaturas ao procedimento concursal ocorre mediante a apresentação de um requerimento, dirigido à presidente do conselho geral do Agrupamento de Escolas Nuno de Santa Maria, em modelo próprio, disponibilizado na página eletrónica do Agrupamento (www.aensm.pt) e nos serviços administrativos da escola sede do Agrupamento, podendo ser entregues pessoalmente, em envelope fechado, nos referidos serviços administrativos ou enviados, por correio registado, com aviso de receção, expedido até ao termo do prazo fixado para apresentação das candidaturas ao cuidado da presidente do conselho geral do Agrupamento de Escolas Nuno de Santa Maria, Alameda dos Templários, 2300-303 Tomar.
 
@@ -129,3 +145,5 @@ c) Entrevista individual, para apreciar se o perfil do candidato está adequado 
 Visto e aprovado na reunião do conselho geral de 6 de março de 2025.
 
 7 de março de 2025. - A Presidente do Conselho Geral, Maria Lisete Vicente Lapa.
+
+318825708

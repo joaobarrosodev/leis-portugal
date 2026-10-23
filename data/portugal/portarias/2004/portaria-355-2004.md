@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/355/2004/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-2004-218304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c316794392eda1d90e605d524398a6b9da453a8ea51e5880bf714a8ad9c0261b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c492941ea25b354694b8b526447f79a7257261ab4b726a896a5cd940aea56ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Gratificação
 - Jogos de Fortuna e Azar
 - Pessoal dos Casinos
-- Gratificação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/129/1994/03/01/p/dre
@@ -78,16 +78,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/63/2002/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/63/2002/01/16/p/dre
+- type: cites
+  target: pt:dre:234365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564807:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:44Z'
   warnings: []
   errors: []
 ---
@@ -144,4 +164,4 @@ n) Operador.»
 
 3.º É revogada a [Portaria n.º 63/2002](https://diariodarepublica.pt/dr/detalhe/portaria/63-2002-234365), de 16 de Janeiro, com efeitos à data de entrada em vigor da presente portaria.
 
-**O Secretário de Estado do Turismo, Luís Manuel Miguel Correia da Silva, em 8 de Março de 2004.**
+O Secretário de Estado do Turismo, Luís Manuel Miguel Correia da Silva, em 8 de Março de 2004.

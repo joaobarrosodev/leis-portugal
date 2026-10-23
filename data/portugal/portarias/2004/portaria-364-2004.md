@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/364/2004/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-2004-218765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f1c86972a92ff12a6c5829ff213b54863ae60f3ba44e96fafad3ea0468e027f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 892716969dd988a3b24cce92d8c6c7dc5da37932543681f245ed51bc28a8e721
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Vinho
-- Regulamento
-- Regulamento de Aplicação da Medida Nº 2-transformação e Comercialização de Produtos Agrícolas
-- Programa AGRO
 - Comércio
 - Produto Agrícola
-- Vitivinicultor
-- Vinificação
+- Programa AGRO
+- Regulamento
+- Regulamento de Aplicação da Medida Nº 2-transformação e Comercialização de Produtos Agrícolas
 - Vinha
+- Vinho
+- Vinificação
+- Vitivinicultor
 relationships:
 - type: cites
   target: celex:31999R1473
@@ -90,15 +90,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/533-c/2000/08/01/p/dre
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:45Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +145,9 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 7 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 ...
 
@@ -167,7 +169,9 @@ h) ...
 
 i) Produtos à base de carne com DOP ou IGP.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - ...
 
@@ -189,4 +193,4 @@ São excluídos os investimentos que conduzam a um aumento da capacidade de vini
 
 2.º O disposto no presente diploma aplica-se às candidaturas já apresentadas e ainda não decididas.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 29 de Março de 2004.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 29 de Março de 2004.

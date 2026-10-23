@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/289/2004/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/289-2004-541840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1810c32e6a1e008da7b2ee9c90beed6d5319e829bf5da944d6f6dfa0ebc333de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 221c53f1855e5e91b67fe12cabe9b6fe449428348228ad30b098914a7a9e9c05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alijó
-- Julgado de Paz
 - Instalação de Serviços
+- Julgado de Paz
 - Murça
 - PESO da Régua
-- Vila Real
 - Regulamento Interno
 - Sabrosa
+- Vila Real
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/9/2004/01/09/p/dre
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
+- type: cites
+  target: pt:dre:241184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:20Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +117,7 @@ Manda o Governo, pela Ministra da Justiça, o seguinte:
 
 2.º É aprovado o respectivo Regulamento Interno, em anexo à presente portaria.
 
-**A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 3 de Março de 2004.**
+A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 3 de Março de 2004.
 
 ## ANEXO
 
@@ -155,7 +163,9 @@ e) No concelho de Vila Real, das 9 horas e 30 minutos às 12 horas e 30 minutos 
 
 2 - Nas ausências e impedimentos do juiz de paz-coordenador, este será substituído pelo que, de entre os que exerçam funções no Julgado de Paz, tenha obtido melhor classificação no concurso de recrutamento e selecção.
 
-###### Artigo 4.º — Secção
+###### Artigo 4.º
+
+#### Secção
 
 O Julgado de Paz dispõe de uma secção dirigida pelo juiz de paz a quem competir a respectiva coordenação nos termos do artigo anterior.
 
