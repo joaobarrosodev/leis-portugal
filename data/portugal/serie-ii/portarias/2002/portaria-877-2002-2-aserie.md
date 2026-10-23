@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:885717:por
-title: Portaria n.º 877/2002(2.ªsérie)
+title: Portaria n.º 877/2002 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/877-2002-885717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T16:34:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f3edbcbdfd2f5f9e6e225e9f57db31671d2f6a1c059ce7bc61162c8392a8828
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8cca54ca697ef998ebabb86052f7b1dad02a0e9292b3780580f8af8f09f19f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:34:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Beja
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
+relationships:
+- type: cites
+  target: pt:dre:301654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546975:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:34:31Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 877/2002(2.ªsérie)
+# Portaria n.º 877/2002 (2.ª série)
 
 Portaria n.º 877/2002 (2.ª série). - Pela portaria n.º 740/75 (2.ª série), de 13 de Dezembro, foi expropriado o prédio rústico denominado "Herdade dos Machados", inscrito na matriz cadastral sob o artigo 1.º da secção 1 a 1-8, da freguesia de Santo Agostinho, do concelho de Moura, com a área de 6101,0825 ha, em nome de Ermelinda Neves Bernardino Santos Jorge.
 

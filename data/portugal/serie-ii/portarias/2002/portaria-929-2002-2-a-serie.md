@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/929-2002-2538918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T16:34:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa552a6c3d43d02524a1b3eadc748ec46ad241fb53c79bdf19659613f999fb44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6c27b11251a548c58a39ac909068d0ec365b8783d17bcdc197a85a61b4412b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:34:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abrantes
+- CAÇA
+- Conselho Cinegético
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:2715013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2715013:por
+  label: "Alterada a Port 1450/2001(2ªSérie) de 07-Ago do MADRP DR.IIS [199] de 28/Ago/2001, alterada pelo presente diploma\
+    \ e pela Port. 1269/2002, de 23-Ago, pela PORT.194/2004(2ªSérie).21.01.2004.MADRP, DR.IIS [29] de 04.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/194-2004-2715013
+  date: '2004-01-21'
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:34:48Z'
   warnings: []
   errors: []
 ---
