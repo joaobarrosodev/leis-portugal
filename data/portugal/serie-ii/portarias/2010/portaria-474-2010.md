@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/126000000/3586735871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,25 +46,30 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/474-2010-1451307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T17:26:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 389cc8ec71d2b8f92d1a26ccd94ba682c1fd5575adc1316350bcf74a69705d3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 281bf26c324cc25f893f822ca79a93edab34f5cbbdca7bb6b425a7bd8be5031e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:26:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Normalização Contabilística da Administração Pública
+- Contabilidade Pública
+- Plano Oficial de Contabilidade Pública
+- Sector Público Administrativo
+- Sistema de Normalização Contabilística
 relationships:
 - type: amended_by
   target: pt:dre:70262478:por
@@ -74,16 +79,42 @@ relationships:
   target: celex:31983L0349
   label: null
   source: null
+- type: cites
+  target: pt:dre:1720120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641123:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70262478:por
+  label: Revogada, com efeitos a 01.01.2017, a presente Portaria, pelo(a) Decreto-Lei n.º 192/2015 - Diário da República n.º
+    178/2015, Série I de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2015-70262478
+  date: '2015-09-11'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:26:08Z'
   warnings: []
   errors: []
 ---
@@ -359,3 +390,5 @@ As demonstrações financeiras consolidadas devem ser elaboradas anualmente, com
 8 - Divulgação
 
 Os documentos de prestação de contas consolidadas devem ser publicitados no sítio da Internet da respectiva entidade consolidante, sem prejuízo de outras obrigações de publicidade legalmente estabelecidas.
+
+203405145

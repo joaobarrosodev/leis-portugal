@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/093000000/2070220702.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/537-2011-2887585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T17:31:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66c48ca5fb2bd765452b36d419f2f5360b1748933e27f28cdfe2293e2ad7acbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdf0c5f2568579d4654af0c195ee89301a9e760c2f1956b6050e7a9470d5e325
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:31:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:31:25Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ validation:
 Declara-se que fica sem efeito a transição para a reforma nos termos da alínea c) do n.º 1 do Artigo 159.º do EMFAR, conjugado com o Decreto-Lei n.º 166/05 do MGEN NIM 08837864 Fernando Pereira Aguda, constante da Portaria n.º 90/2011 Publicado no Diário da República, 2.ª série, n.º 06 de 10 de Janeiro de 2011, em virtude de ter sido revogado o acto que lhe concedeu a reforma.
 
 2 de Maio de 2011. - Por delegação do Comandante do Pessoal do Exército, após delegação do Chefe do Estado-Maior do Exército, o Chefe da Repartição de Reserva, Reforma e Disponibilidade, Jorge Ferreira de Brito, COR INF.
+
+204657382

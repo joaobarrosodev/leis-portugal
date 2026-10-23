@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-2010-1224491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a7d88f9304849b4fb870d31124b02691770d1f9ce705452d5030ee652b46b7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22b7e5bdd927ed1745f22916c8acd3da2742734fbe5e91979c1f4aa0dbd25fcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ASAE
+- Cartão de Identificação
+- Simbolo de Identificação
 relationships:
 - type: amended_by
   target: pt:dre:3674847:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:473500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693073:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3674847:por
+  label: "Declarada sem efeito pela DECL-RECT.822/2010.27.04.2010.SG-MEID, DR.IIS [81] de 27.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/822-2010-3674847
+  date: '2010-04-27'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:25:09Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +170,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — Cartão de identificação profissional e de livre-trânsito a que se refere o n.º 1 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf))](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf)
 
 Texto do verso:
 
@@ -164,17 +192,17 @@ O Titular
 
 ## ANEXO II — Crachá de metal a que se refere o n.º 2 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf))](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf)
 
 Dimensões: 50 mm x 67,7 mm.
 
 ## ANEXO III — Crachá de cartão a que se refere o n.º 2 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf))](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf)
 
 ## ANEXO IV — Cartão de identificação profissional a que se refere o n.º 3 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf))](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/069000000/1831218313.pdf)
 
 Texto do verso:
 
@@ -183,3 +211,5 @@ Todas as autoridades a quem este documento for apresentado devem prestar todo o 
 O Inspector-Geral
 
 O Titular
+
+203099469

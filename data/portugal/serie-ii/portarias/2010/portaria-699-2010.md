@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/699-2010-1597568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:27:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 063ddd5f47158592ca3115958474ce1387470372f98afdbabf38fd39a8ceba64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 394850d86b97826c4e28add584e92a4ad66e61831f897c9ef83ebab9e7dc9fcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:27:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Direcção Geral das Contribuições e Impostos
+- Ministério das Finanças e da Administração Pública
+relationships:
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:27:24Z'
   warnings: []
   errors: []
 ---
@@ -109,3 +121,5 @@ Ano de 2015 - (euro) 222 373,80, com IVA incluído.
 3.º Os encargos financeiros resultantes da execução da presente portaria são satisfeitos por conta das verbas inscritas ou a inscrever nos orçamentos de funcionamento da DGCI para os anos de 2010 a 2015, sob a rubrica orçamental com a classificação económica 020219C000, «Aquisição de serviços - Assistência técnica».
 
 17 de Setembro de 2010. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos.
+
+203718381

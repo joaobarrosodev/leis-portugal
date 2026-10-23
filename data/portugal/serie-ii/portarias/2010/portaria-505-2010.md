@@ -48,36 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-2010-3251846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T17:26:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9a9b3b0b2d5e9988c4fd3436446550ffdae64538652b5a10852f15f584871d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a27be7cc387ba004dc259e9291322b164c5a0670e6e3700df22a360b14e3160c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:26:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autoridade da Concorrência
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Entidade Reguladora dos Serviços Energéticos
+- Instituto da Construção e do Imobiliário
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Instituto das Comunicações de Portugal
+- Instituto de Seguros de Portugal
+- Instituto Nacional de Aviação Civil
+- Receita Própria
+- Taxa
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:26:19Z'
   warnings: []
   errors: []
 ---
@@ -121,3 +164,5 @@ d) No caso do INAC, no início de Junho e de Setembro, até ao dia 15 de cada m�
 3 - O disposto na presente portaria produz efeitos desde o dia 1 de Janeiro de 2010.
 
 5 de Julho de 2010. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro.
+
+203453795

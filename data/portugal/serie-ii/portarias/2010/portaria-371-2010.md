@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/371-2010-828016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T17:25:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90df260ce035519f7ed5e36121327d0fdf98bad41cb7f4c8220db05404436c4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48025b0be2e137c101c2ab1d96df6fd57fdb5e9f912937ecc5041e762f327fdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:25:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Acompanhamento
+- Fundo de Acidentes de Trabalho
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:332442:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:25:39Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +98,5 @@ Assim:
 Manda o Governo, pelo Ministro de Estado e das Finanças, nos termos do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 142/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1999-332442), de 30 de Abril, que a comissão de acompanhamento do Fundo dos Acidentes de Trabalho passe a integrar o Dr. José Emílio Pires como representante das associações representativas dos trabalhadores.
 
 17 de Maio de 2010. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos.
+
+203290628

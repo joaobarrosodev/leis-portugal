@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/976-2009-2778009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T17:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee95f1685fa0f8384994fbe3cb26e4b75da15c29a4d473ce5bb2a326e472fdde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ace3a25c1545d2a0f4f6e8193eef3dffb3c4dcd79d822b68b18d806bf2b10d12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Marinha
+- Unidade Naval
 relationships:
 - type: amended_by
   target: pt:dre:2444633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2444633:por
+  label: "Alterado o anexo do presente diploma, pela PORT.402/2011.03.03.2011.GCEMA-MDN, DR.IIS [44] de 03.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/402-2011-2444633
+  date: '2011-03-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:23:17Z'
   warnings: []
   errors: []
 ---
@@ -261,3 +269,5 @@ Total...139
 (24) Três TFD e um TFP.
 
 (25) Até que o sargento e todas as praças sejam oriundas de TA, deverão ser considerados sargentos e praças da classe de Artilheiros.
+
+202419805

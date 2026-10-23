@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-2012-2539164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89d28485df20158e31e133384865037edcd3ca86920dbae4361814105d9de7bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de95ba403b236d7625ccd009b924d11fa1acc993495e011e4f213d3c2c23ae70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Água Mineral
+- Proteção do Ambiente
+- Recursos Hídricos
+- são Pedro do SUL
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:37Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +115,15 @@ Para efeitos do disposto nos artigos 42.º, 43.º e 44.º do [Decreto-Lei n.º 9
 
 Zona imediata - delimitada pelo polígono 1-2-3-4-5-6-7-8, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf))](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf)
 
 Zona intermédia - delimitada pelo polígono E-D-C-B-A-F, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf))](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf)
 
 Zona alargada - delimitada pelo polígono 1-2-3-4-5-6-7-8, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf))](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf)
 
 27 de fevereiro de 2012. - O Secretário de Estado da Energia, Henrique Joaquim Gomes. - O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo.
 
@@ -118,4 +131,6 @@ Zonas do Perímetro de Proteção para a concessão de água mineral natural, de
 
 Extrato das cartas n.os 166 e 177 do Instituto Geográfico do Exército à escala 1/25 000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf))](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308684.pdf)
+
+205810279

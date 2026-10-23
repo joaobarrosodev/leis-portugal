@@ -49,36 +49,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-2011-2854253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48534430e69dac6ae3daa37048b862859a29e5983dd8e5fb5e5810a35674cede
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5af189dbb4a34dd12e819a553ea8c47a6a61457848456a87978bce79492ed59a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arganil
+- Imóvel Classificado
+- Interesse Público
+- Património Arquitectónico
+- Património Cultural
+- Santarém
+- Tabuaço
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:30:01Z'
   warnings: []
   errors: []
 ---
@@ -153,8 +177,10 @@ A classificação da Igreja da Misericórdia de Pernes, freguesia de Pernes, con
 
 A delimitação da zona especial de protecção da Igreja da Misericórdia de Pernes parte do entendimento que se verifica existir entre o imóvel e o espaço arquitectónico-urbanístico histórico e o actual. Fundamenta-se, ainda, no valor arquitectónico e urbanístico do edifício que assume um papel de referência na paisagem urbana de Pernes, e na necessidade de preservar também a malha urbana próxima que se desenvolveu em torno do antigo Hospital da Misericórdia. «Não havia em Pernes pessoa alguma que não tivesse parte nesta obra, a qual se fez com esmolas do povo, e com os sobejos das rendas das Confrarias, como temos dito, e ficou este templo servindo de hermida do Espírito Santo, e juntamente caza da Misericórdia com sua Irmandade confirmada por El Rey D. Felipe primeyro de Portugal por sua Provizão passada aos 23 de Mayo de 1594 por Ambrozio de Aguilar, e suscrita por Francisco Nunes de Payva, assignada por El Rey, e pelo Bispo de Lisboa».
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/019000000/0543805440.pdf))](https://files.diariodarepublica.pt/2s/2011/01/019000000/0543805440.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/019000000/0543805440.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/019000000/0543805440.pdf))](https://files.diariodarepublica.pt/2s/2011/01/019000000/0543805440.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/019000000/0543805440.pdf)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/019000000/0543805440.pdf))](https://files.diariodarepublica.pt/2s/2011/01/019000000/0543805440.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/019000000/0543805440.pdf)
+
+204241243

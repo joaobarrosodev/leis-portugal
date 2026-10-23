@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/152000000/4213342133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/602-2010-1483254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T17:26:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2278a04ee58d52dece4144da6d66baf4b59b618b3dbadd52fa1c3b50bec16cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe141b4ec00d742aae6f1092af7aa74b382503637e3d836c036c821300b326af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:26:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:223182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543702:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:26:45Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +103,5 @@ Manda o Governo, pelos Ministros de Estado e dos Negócios Estrangeiros e da Def
 A presente portaria produz efeitos a partir de 23 de Julho de 2010 e termina em 25 de Setembro de 2011. (Isenta de visto do Tribunal de Contas.)
 
 20 de Julho de 2010. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.
+
+203554364

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/009000000/0186401864.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-2010-2365688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T17:25:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0be6626e418222f2cdd1cb2df2c7ea0b10e1c84178e9b41b83cd63361769ccef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 621b14df88d55d036c002b6bbc8c65f19bf39387c02f4c58ff9506eca0bb7826
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:25:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:25:59Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ Manda o Almirante Chefe do Estado-Maior da Armada, ao abrigo da alínea c) do n.
 Este oficial uma vez promovido, deverá ficar colocado na lista de antiguidade do seu posto e classe à esquerda do 64282 capitão-de-mar-e-guerra da classe de Médicos Navais Carlos Manuel Sena Andrade Brízido.
 
 Ministério da Defesa Nacional - Marinha, 06-01-2010. - O Almirante Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, almirante.
+
+202772706

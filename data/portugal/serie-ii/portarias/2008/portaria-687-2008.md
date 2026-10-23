@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/687-2008-2534161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T17:15:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 899d7ab1372652f4a14158f8db64e1a58cf78a5fe4aef2870527f1b4b40fcbcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6639742d2efffe1d7a0633e20b5aab00d6077d96b4e3df45ebd5f458606ad47b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:15:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento de Água
+- Águas Subterrâneas
+- Algarve
+- Poluição
+- Proteção do Ambiente
+- Recursos Hídricos
+- Silves
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:15:01Z'
   warnings: []
   errors: []
 ---
@@ -190,31 +206,31 @@ iv) Pedreiras e explorações mineiras em início de actividade, ficando sujeita
 
 Círculo com raio de 7 m, com centro na captação cujas coordenadas são:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas no sistema Gauss-Militar.
 
 Círculo com raio de 8 m, com centro na captação cujas coordenadas são:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas no sistema Gauss-Militar.
 
 Círculo com raio de 11 metros, com centro na captação cujas coordenadas são:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas no sistema Gauss-Militar.
 
 Círculo com raio de 12 m, com centro na captação cujas coordenadas são:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas no sistema Gauss-Militar.
 
 Círculo com raio de 13 m, com centro na captação cujas coordenadas são:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas no sistema Gauss-Militar.
 
@@ -222,74 +238,74 @@ Nota. - As coordenadas indicadas são coordenadas no sistema Gauss-Militar.
 
 Extracto da carta n.º 595 à escala 1:25000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Zonas do perímetro de protecção à captação HID-2
 
 Extracto da carta n.º 595 à escala 1:25000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Zonas do perímetro de protecção à captação SL-1
 
 Extracto da carta n.º 595 à escala 1:25000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Zonas do perímetro de protecção à captação SJS-1
 
 Extracto da carta n.º 595 à escala 1:25000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Zonas do perímetro de protecção à captação SJS-2
 
 Extracto da carta n.º 595 à escala 1:25000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Zonas do perímetro de protecção à captação SJS-3
 
 Extracto da carta n.º 595 à escala 1:25000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Zonas do perímetro de protecção à captação SJS-4
 
 Extracto da carta n.º 595 à escala 1:25000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 ## ANEXO III — Zonas de protecção alargada
 
 Captação HID-1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas no sistema Gauss-Militar
 
 Captação HID-2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas no sistema Gauss-Militar
 
 Captação SL-1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Captação SJS-1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Captação SJS-2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Captação SJS-3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
 
 Captação SJS-4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3242932433.pdf)

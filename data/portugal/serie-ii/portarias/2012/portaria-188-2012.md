@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-2012-2898263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d404654a91e5ea2d83b1e1795a6c369b16b609232b64b366ff0eae705b134f56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de0cc9b5b6371ada127c2f39b1cda270322253b71497a33d24c480e248f58ff8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe do Estado Maior General das Forças Armadas
+- Exército
+- Forças Armadas
+- Islândia
+- Militar
+- Missão Militar
+- NATO
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:46Z'
   warnings: []
   errors: []
 ---
@@ -107,3 +119,5 @@ b) Pessoal de apoio à atividade aérea em terra e tripulações, num total até
 3 - A missão tem início em agosto e término em setembro de 2012.
 
 16 de abril de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+205997544

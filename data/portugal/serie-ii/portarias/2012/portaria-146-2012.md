@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/146-2012-2539163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b946e65e6687106a14dcbb5d565d9ed02603e0d9bd3ef7c326706636d2fdf7e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc4db5cd75afa5dd8c647ca51401f85048e4be97a3391bb8fbdd203155c50194
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Água Mineral
+- Recursos Geológicos
+- Recursos Naturais
+- Terras de Bouro
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:37Z'
   warnings: []
   errors: []
 ---
@@ -104,19 +117,19 @@ Zona imediata - delimitada pelos Blocos Norte e Sul que a seguir se referem:
 
 Bloco norte - delimitado pelo polígono 1-2-3-4, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf))](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
 
 Bloco sul - delimitado pelo polígono 5-6-7-8-9, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf))](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
 
 Zona intermédia - delimitada pelo polígono 10-11-12-13-14-15-16, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf))](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
 
 Zona alargada - delimitada pelo polígono 17-18-19-20-21-22-23, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf))](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
 
 27 de fevereiro de 2012. - O Secretário de Estado da Energia, Henrique Joaquim Gomes. - O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo.
 
@@ -124,4 +137,6 @@ Zona alargada - delimitada pelo polígono 17-18-19-20-21-22-23, cujos vértices 
 
 Extrato das cartas n.os 30 e 43 do Instituto Geográfico do Exército à escala de 1/25 000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf))](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/049000000/0868308683.pdf)
+
+205810579

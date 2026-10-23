@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/149-2011-3407039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T17:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d7e64f43495fd68bc68f10aa684fd78d5e5ea9e64cf0dceac3967a4ae3275a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d16344322e7ce62ba18b93f56ba3f26e61bbe302da13d34c015a3a48602f190c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Banco Africano de Desenvolvimento
+- Fundo Africano de Desenvolvimento
+- Lisboa
+- Ministério das Finanças e da Administração Pública
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:29:25Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +105,12 @@ Manda o Governo, pelo Ministro de Estado e das Finanças, ao abrigo do disposto 
 
 Fica autorizada a Secretaria-Geral do Ministério das Finanças e da Administração Pública a assumir os encargos orçamentais decorrentes dos compromissos do Governo Português para acolhimento, organização e realização das reuniões anuais de 2011, do Banco Africano de Desenvolvimento e do Fundo Africano de Desenvolvimento, em Lisboa, que não poderão exceder a quantia total de (euro) 4 071 650, assim repartida:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/008000000/0207802078.pdf))](https://files.diariodarepublica.pt/2s/2011/01/008000000/0207802078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/008000000/0207802078.pdf)
 
 As importâncias fixadas para o ano económico de 2011 poderão ser acrescidas do saldo que se apurar na execução orçamental do ano anterior.
 
 Os encargos financeiros resultantes da execução da presente portaria serão satisfeitos por conta das verbas a inscrever nos encargos gerais do orçamento da Secretaria-Geral do Ministério das Finanças e da Administração Pública.
 
 20 de Setembro de 2010. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos.
+
+204162722

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/083000000/1714017140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/522-2009-2611396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:20:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a0f9b8c3ed392206cb6a805c7bb7a43f87c5c35c8ac77a9ba89e05a7faa09a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21697c92bd04f84003297a6e57b9b8133582c1726191e09fb5bde3a506f9f1d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:20:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:20:43Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ Manda o Almirante Chefe do Estado-Maior da Armada, ao abrigo da alínea c) do n�
 Este oficial uma vez promovido, deverá ficar colocado na lista de antiguidade do seu posto e classe à esquerda do 232074 capitão-de-mar-e-guerra da classe de Serviço Especial António Proença Martins.
 
 17 de Abril de 2009. - O Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, almirante.
+
+201716441

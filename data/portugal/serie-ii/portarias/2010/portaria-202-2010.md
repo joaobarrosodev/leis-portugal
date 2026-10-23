@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/202-2010-2103943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T17:24:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66ca5435a37f7d9e25a1b2ab56d1ae1b3dfdb65717ce9ba4cb5621c700b67d14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d242b1ff2e032242518595638fdcfea23f42c1fdfb02b27da8da4ebbafe82c3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:24:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Livre Trânsito
+- Polícia Judiciária Militar
+- Simbolo de Identificação
+relationships:
+- type: cites
+  target: pt:dre:410519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482846:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:161386569:por
+  label: Revogado, a partir de 16.04.2021, o presente diploma, pelo(a) Portaria n.º 150/2021 - Diário da República n.º 73/2021,
+    Série II de 2021-04-15 nos termos do art. 8.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/150-2021-161386569
+  date: '2021-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:24:50Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +133,7 @@ Ao abrigo do n.º 4 do artigo 13.º da [Lei n.º 97-A/2009](https://diariodarepu
 
 ## ANEXO I — Distintivo metálico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf))](https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf)
 
 Medidas: 41 mm x 51 mm.
 
@@ -123,7 +141,7 @@ Descrição: distintivo metálico tombak dourado em fundo azul, com a legenda «
 
 ## ANEXO II — Cartão de livre trânsito
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf))](https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf)
 
 Texto do verso:
 
@@ -139,7 +157,7 @@ Assinatura do titular:»
 
 ## ANEXO III — Cartão de identificação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf))](https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/053000000/1272212723.pdf)
 
 Texto do verso (todas as carreiras):
 
@@ -150,3 +168,5 @@ Lisboa, ... de ... de 20...
 Director-Geral:
 
 Assinatura do titular:»
+
+203011014

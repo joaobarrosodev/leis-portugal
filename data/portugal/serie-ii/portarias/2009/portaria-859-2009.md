@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/859-2009-1720125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T17:22:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f6fcc0f76eb6cfa49499634245ebbb8f8bc8f0dbe9548dc3e71c616fa369ea6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69925cec1460c90d4af60f64a40a1474844486cca011cb6a0077d74b21a02c21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:22:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Informática
+- Instituto das Tecnologias de Informação na Justiça
 relationships:
 - type: amended_by
   target: pt:dre:2878993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2878993:por
+  label: "Alterada pela PORT.598/2010.03.08.2010.MFAP, MJ, DR.IIS [149] de 03.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/598-2010-2878993
+  date: '2010-08-03'
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:22:29Z'
   warnings: []
   errors: []
 ---
@@ -117,3 +130,5 @@ A importância fixada para cada ano pode ser acrescida do saldo apurado no ano q
 ###### Artigo 3.º — Os encargos decorrentes da presente portaria são suportados por verbas a inscrever no orçamento do Instituto das Tecnologias de Informação na Justiça, I. P.
 
 21 de Agosto de 2009. - Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento. - Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça.
+
+202253828

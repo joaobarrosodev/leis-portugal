@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-2012-3056418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a51a1fd6f758fa87007853573139b0430674b8e49d38fdac5b7cb5e82ae0a66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3303c70f18a2c8b091f5ebd3c8b57a0dc9d24e42609ff3cc31d7ee22cab6f608
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Água Mineral
+- Guimarães
+- Recursos Geológicos
+- Recursos Naturais
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3678081:por
+  label: "Retificada pela DECL-RECT.547/2012.24.04.2012.DGEG-MEE, DR.IIS [81] de 24.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/547-2012-3678081
+  date: '2012-04-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:35Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +120,15 @@ Para efeitos do disposto nos artigos 42.º, 43.º e 44.º do [Decreto-Lei n.º 9
 
 Zona imediata - delimitada pelo polígono 1'-2'-3'-4', cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf))](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf)
 
 Zona intermédia - delimitada pelo polígono A-B-C-D, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf))](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf)
 
 Zona alargada - delimitada pelo polígono 1-2-3-4-5-6-7, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf))](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf)
 
 27 de fevereiro de 2012. - O Secretário de Estado da Energia, Henrique Joaquim Gomes. - O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo.
 
@@ -118,4 +136,6 @@ Zonas do perímetro de proteção para a concessão de água mineral natural, de
 
 Extrato da carta n.º 70 do Instituto Geográfico do Exército à escala de 1/25 000
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf))](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/03/048000000/0842108422.pdf)
+
+205809623

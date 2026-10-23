@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/579-2009-2382326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T17:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f0ba778400ff08c9a2d92f85e6c0d35cfe186d442511833846c87a854390d4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90b3582e77e237438f7cdece4b7356fca9172c822b7ed78e027cc544a3c0454c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Comércio
+- Homologação
+- Medicamento
+- Preço
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:309281:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493760:por
+  label: "Aditados contratos públicos de aprovisionamento ao anexo do presente diploma, pela PORT.925/2009.18.08.2009.MS,\
+    \ DR.IS [159] de 18.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-2009-493760
+  date: '2009-08-18'
+- type: amended_by
+  target: pt:dre:482466:por
+  label: "Determinado que sejam aditados contratos públicos de aprovisionamento ao anexo da presente portaria, pela PORT.1389/2009.13.11.2009.MS,\
+    \ DR.IS [221] de 13.11.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1389-2009-482466
+  date: '2009-11-13'
+- type: amended_by
+  target: pt:dre:482473:por
+  label: "Aditados novos contratos públicos de aprovisonamento ao anexo do presente diploma pela PORT.1390/2009.16.11.2009.MS,\
+    \ DR.IS [222] de 16.11.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1390-2009-482473
+  date: '2009-11-16'
+- type: amended_by
+  target: pt:dre:612665:por
+  label: "Aditados ao anexo ao presente diploma, os contratos públicos de aprovisionamento a que se refere o anexo ii, pela\
+    \ PORT.186/2010.31.03.2010.MS, DR.IS [63] de 31.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-2010-612665
+  date: '2010-03-31'
+- type: amended_by
+  target: pt:dre:309281:por
+  label: "Aditados novos contratos públicos de aprovisionamento ao anexo do presente diploma pela PORT.1147/2010.03.11.2010.MS,\
+    \ DR.IS [213] de 03.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1147-2010-309281
+  date: '2010-11-03'
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347964:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:20:59Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +163,6 @@ Manda o Governo, pelo Secretário de Estado Adjunto e da Saúde, ao abrigo do di
 
 27 de Abril de 2009. - O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/06/105000000/2186721905.pdf))](https://files.diariodarepublica.pt/2s/2009/06/105000000/2186721905.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/06/105000000/2186721905.pdf)
+
+201729386

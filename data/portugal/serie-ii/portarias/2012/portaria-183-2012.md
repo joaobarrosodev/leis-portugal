@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/071000000/1270312704.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-2012-1088968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a0c164c0df56add1ad4c3039b1f5c2e02214f0e61d3b64e63c1c63686ff37dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b04e0ea4c4cfc11ebdd1f7ef575b1f715162a62db713262ea6ba07e9792cef94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:42Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Manda o Chefe do Estado-Maior da Armada, em harmonia com a proposta do Diretor do Instituto de Socorros a Náufragos, que seja concedida a medalha de filantropia e dedicação grau cobre, ao Centro de Educação Física da Armada pelos importantes serviços prestados ao Instituto de Socorros a Náufragos.
 
 30 de março de 2012. - O Almirante Chefe do Estado-Maior da Armada, José Carlos Torrado Saldanha Lopes, almirante.
+
+205940998

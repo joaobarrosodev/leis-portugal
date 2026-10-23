@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,30 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-2008-1363131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T17:15:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d1c82f6090d3ef33142f555a02a73939299c400bfa9a87ade5e2eb1e0f2ee99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 098f3dbe97a2fb70199c63ed49c8add55f0d8dcdf7032fbe64c7304d749ce1eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:15:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Lisboa e Vale do Tejo
+- Poluição
+- Proteção do Ambiente
+- Qualidade do AR
 relationships:
 - type: amended_by
   target: pt:dre:342123:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342123:por
+  label: "Determinada a manutenção em vigor da presente portaria, pelo DEC LEI.102/2010.23.09.2010.MAOT, DR.IS [186] de 23.09.2010,\
+    \ até à adopção das portarias a publicar ao abrigo dos seus artigos 26º e 43º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2010-342123
+  date: '2010-09-23'
+- type: cites
+  target: pt:dre:304328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637229:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:119190178:por
+  label: Revogada pelo(a) Portaria n.º 116-A/2019 - Diário da República n.º 24/2019, 1º Suplemento, Série II de 2019-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-a-2019-119190178
+  date: '2019-02-04'
 - type: transposes
   target: celex:31996L0062
   label: null
@@ -78,13 +114,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:15:11Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +167,7 @@ Para além de algumas P&M já em curso, as P&M que se estima mais contribuírem 
 
 De acordo com o estipulado na referida Directiva-Quadro os Estados-Membros devem definir as unidades territoriais de gestão da qualidade do ar - zonas e aglomerações - e estabelecer a lista das zonas e aglomerações em que os níveis de um ou mais dos poluentes anteriormente citados excedam o valor limite acrescido da margem de tolerância (MT) ou o VL quando a MT não tenha sido fixada ou não se aplique. Nestas zonas e aglomerações, os Estados-Membros devem tomar medidas para garantir que seja elaborado ou aplicado um Plano ou Programa destinado a fazer cumprir os VL dentro do prazo fixado (figura 1). Estes PPar devem ser enviados à Comissão Europeia, no máximo, no prazo de dois anos após o final do ano no qual se registam estas excedências.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Figura 1 - Esquema ilustrativo dos valores normativos e instrumentos implementados de acordo com o [Decreto-Lei n.º 276/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1999-352526).
 
@@ -149,7 +185,7 @@ Com o objectivo de desenvolver Planos e Programas para a sua área de jurisdiç�
 
 2 - Diagnóstico da qualidade do ar. - A região de LVT engloba cinco zonas (1) das quais três são aglomerações (2).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Figura 2 - Enquadramento das Aglomerações relativamente à Área Metropolitana de Lisboa e Portugal Continental.
 
@@ -157,13 +193,13 @@ Na figura 2 são apresentadas as zonas (Península de Setúbal/Alcácer do Sal e
 
 Tabela 1 - Zona e aglomerações definidas na região de LVT
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Na tabela 2 apresentam-se os concelhos que fazem parte de cada uma das aglomerações definidas para a região de LVT.
 
 Tabela 2 - Concelhos abrangidos em cada uma das aglomerações
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 O diagnóstico da qualidade do ar efectuado assentou em diversos elementos, tais como:
 
@@ -183,11 +219,11 @@ Deste conjunto de informação apenas os principais resultados serão referidos.
 
 A rede de monitorização da qualidade do ar da RLVT é composta por 24 estações (em funcionamento em 2005), representadas na figura 3. Na figura 4 estão identificadas as estações existentes nas aglomerações da área da CCDR-LVT.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Figura 3 - Estações de monitorização da qualidade do ar na área da CCDR-LVT.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Figura 4 - Identificação das estações de monitorização da qualidade do ar nas aglomerações da área da CCDR-LVT.
 
@@ -213,23 +249,23 @@ A tabela 3 resume esta avaliação, poluente a poluente, para os diferentes anos
 
 Tabela 3 - Resumo das situações de excedências ocorridas na região da LVT que implicam a realização dos PPar (eficiência superior a 85 %).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 A análise do mapa seguinte (figura 5) permite concluir que para as partículas PM10 todas as estações apresentaram, para algum dos anos em análise, excedências ao VL diário ou ao VL anual. A única excepção foi a estação de Mem-Martins que, no entanto, só tem um ano de dados com eficiência superior a 85 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Figura 5 - Resumo dos resultados de PM10 entre 2001 e 2004 (eficiência superior a 85 %).
 
 Para o NO(índice 2) a ultrapassagem ao VL para a média anual ocorreu sistematicamente na estação da Avenida da Liberdade e nos últimos dois anos na estação de Entrecampos (figura 6). Em 2002 esta situação verificou-se também na estação de Alfragide.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Figura 6 - Evolução dos resultados de NO(índice 2) entre 2001 e 2004 (eficiência superior a 85 %).
 
 Finalmente no que ao SO(índice 2) diz respeito a estação a Lavradio suscita preocupações a este nível, sobretudo em 2001 e 2002, ano em que se verificaram excedências ao VL - figura 7. De notar que em 2003 foi ultrapassado o VL + MT, no entanto, neste ano, a eficiência da estação foi inferior a 85 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Figura 7 - Evolução dos resultados de SO(índice 2) entre 2001 e 2004 (eficiência superior a 85 %).
 
@@ -243,7 +279,7 @@ Concentrações máximas de partículas PM10 no eixo central da cidade de Lisboa
 
 O inventário de emissões regional confirma, grosso modo, estes padrões espaciais.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Figura 8 - Concentrações médias semanais de dióxido de azoto e de dióxido de enxofre e respectiva distribuição espacial.
 
@@ -265,7 +301,7 @@ Assim, no desenvolvimento dos PPar para a RLVT, as P&M foram inicialmente identi
 
 As P&M integradas nos «Planos e Programas para a melhoria da qualidade do ar na Região de Lisboa e Vale do Tejo», de aplicação permanente ou pontual, foram subdivididas em função do grau de implementação associado a cada uma, nos conjuntos de P&M apresentados na figura 9.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Figura 9 - Resumo dos conjuntos de P&M preconizados os PPar da RLVT.
 
@@ -273,13 +309,13 @@ Nas P&M em curso, quer estejam em implementação quer sejam previstas, foram en
 
 Tabela 4 - Todas as P&M preconizadas nos PPar da RLVT
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Do conjunto anterior, algumas P&M foram avaliadas em detalhe, dado que se considerou que era importante estimar alguns aspectos caracterizadores das mesmas, nomeadamente os apresentados na tabela 5.
 
 Tabela 5 - Caracterização das principais P&M constantes nos PPar da RLVT
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Por se tratar de um elemento fundamental da avaliação, importa explicar através de que metodologia foram estimadas as reduções de emissões inerentes à implementação de cada uma das P&M estudada em detalhe.
 
@@ -287,7 +323,7 @@ Foi dado especial enfoque às emissões de PM10 e de NO(índice 2), por serem as
 
 A estimativa dos efeitos em termos de redução de emissões das P&M foi efectuada seguindo a metodologia descrita na figura 10.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Fonte: Adaptado de Moura, 2001.
 
@@ -315,7 +351,7 @@ Foi produzida uma ordenação, na qual os valores mais baixos identificam as med
 
 Tabela 6 - Hierarquização de P&M propostas para a aglomeração AML Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Aplicando os critérios de análise descritos, para a aglomeração AML Norte, a medida mais prioritária será a do aumento do número de corredores BUS, que se espera poder aumentar a velocidade média de circulação dos TCR, dos actuais 14,9 km/h para 25 km/h.
 
@@ -329,11 +365,11 @@ Relativamente às aglomerações AML Sul e Setúbal, a hierarquia das P&M avalia
 
 Tabela 7 - Hierarquização de P&M propostas para a aglomeração AML Sul
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Tabela 8 - Hierarquização de P&M propostas para a aglomeração Setúbal
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 Uma vez que não foi possível estimar o efeito de medidas não técnicas, dada a inexistência de dados de tráfego para estas aglomerações (ao contrário do que aconteceu para a cidade de Lisboa), as medidas técnicas associadas às frotas cativas aparecem como as medidas com hierarquia superior. No topo desta surge o plano de retrofit das frotas de TCR, isto é a introdução de filtros de partículas (FP) e de sistemas de recirculação de gases de escape (SRGE) nos autocarros dos operadores de transportes. De referir ainda que a introdução das medidas não técnicas na cidade de Lisboa terá impacte não só ao nível da AML Norte mas também na AML Sul e Setúbal, visto que estas aglomerações também são pontos de origem importantes de deslocações de cariz pendular para Lisboa.
 
@@ -343,7 +379,7 @@ Finalmente, é de destacar que a hierarquização apresentada é o resultado das
 
 Tabela 9 - Alguns indicadores de monitorização futura dos PPar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3495934968.pdf)
 
 6 - Conclusões. - A qualidade do ar ambiente na Região de Lisboa e Vale do Tejo, em particular nas aglomerações da região, apresenta concentrações genericamente elevadas de partículas (medidas como PM10) e, pontualmente no interior da cidade de Lisboa, de NO(índice 2). Estas concentrações são essencialmente resultado de elevadas emissões inerentes à circulação do tráfego automóvel no seio da Área Metropolitana de Lisboa (AML), resultando igualmente de condições meteorológicas muito particulares, as quais entre outros efeitos induzem o transporte de poeiras de desertos norte-africanos com alguma frequência.
 

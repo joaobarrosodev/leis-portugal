@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/230000000/5778957789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/854-2010-2007112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T17:28:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60994917cd4071f0dc98ae7f2e5b3b13cfbc9a1e5d57580907c2c4355fa0d6ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 552654376c55e98eb1cffbc128a29f4b888549056f4ba2115c568848fa3825af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:28:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:28:16Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +91,5 @@ Manda o Almirante Chefe do Estado-Maior da Armada, ao abrigo da alínea c) do n.
 Esta oficial, uma vez promovida, deverá ser colocada na lista de antiguidade do seu posto e classe à esquerda do 24698 primeiro-tenente da classe de Marinha Pedro Miguel Costa Caetano e à direita do 21698 primeiro-tenente da classe de Marinha André da Costa Lamego.
 
 Ministério da Defesa Nacional - Marinha, 11-11-2010. - O Almirante Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, almirante.
+
+203963528

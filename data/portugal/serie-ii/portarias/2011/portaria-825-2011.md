@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/825-2011-3022657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb80d973e7abd8b7b096c6c9bd289851f0d4294a153022697596e90dec437932
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6ad76488d5c06501268c0e44a52c9b4f0f442890bcdaeaba3832a20793e07af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- BENS Classificados
+- Classificação de Obras
+- Interesse Público
+- Obra de Arte
+- Património Cultural
+- Protecção do Património
+relationships:
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671600:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:05Z'
   warnings: []
   errors: []
 ---
@@ -108,4 +122,6 @@ Contador holandês de dois corpos (198 cm x 198 cm x 62,5 cm), em madeira de car
 
 ## ANEXO II — Imagem do bem móvel classificado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/11/219000000/4519145191.pdf))](https://files.diariodarepublica.pt/2s/2011/11/219000000/4519145191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/11/219000000/4519145191.pdf)
+
+205330742

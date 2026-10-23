@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 25/2011, 2º Suplemento, Série II de 2011-02-04
   number: '25'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6774-(6) a 6774-(7)
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/025000002/0000600007.pdf
 entry_into_force_dates: []
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/328-a-2011-2581550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T17:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db70f8d8ddf5d5ffa9555a29f37a885ad526d0e1b849c13c863f8bde01ef0fcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d1d6544a485180c4135e5e88e2fe5ff56dada3fb90def8304e151ed642040cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conta Poupança-habitação
+- Declaração de Rendimentos
+- Impresso
+- IRS
+- Plano Poupança-reforma
+- Prémio de Seguro
+- Seguro de VIDA
+relationships:
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:1297/2009
+  label: "Revoga as anteriores instruções de preenchimento aprovadas pela Portaria n.º 1297/2009 de 17-Dez, DR.IIS[243]\0\0"
+  source: null
+  date: '2009-12-17'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:30:21Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +178,7 @@ Coluna 08 - Identificação das operações (código):
 
 Devem identificar-se os encargos suportados e as entregas efectuadas, através da indicação do respectivo código.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/025000002/0000600007.pdf))](https://files.diariodarepublica.pt/2s/2011/02/025000002/0000600007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/025000002/0000600007.pdf)
 
 Coluna 09 - Número da apólice:
 
@@ -178,7 +198,7 @@ Deve ser indicado o número de identificação fiscal do sujeito passivo, que co
 
 Coluna 12 - Identificação das operações (código):
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/025000002/0000600007.pdf))](https://files.diariodarepublica.pt/2s/2011/02/025000002/0000600007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/025000002/0000600007.pdf)
 
 Coluna 13 - Número da apólice:
 
@@ -191,3 +211,5 @@ Nesta coluna devem ser indicados os anos em que foram pagos os prémios ou feita
 Coluna 15 - Valor das entregas:
 
 O valor a indicar deve corresponder ao somatório das entregas efectuadas em cada um dos anos identificados na mesma linha da coluna 14.
+
+204304991

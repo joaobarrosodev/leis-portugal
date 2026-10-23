@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/469-2009-1151473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T17:20:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 187360af84727687753ba56f8ff06cb0f4feb5a383e120e38443ba1ad34e34a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b86af39d7bbfa01118ad7ff1817f231524c1ab0ee11b1b53b7781f526a69570b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:20:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lista
+- Recenseamento Eleitoral
+- Residente no Estrangeiro
+relationships:
+- type: cites
+  target: pt:dre:150518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453269:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:20:23Z'
   warnings: []
   errors: []
 ---
@@ -183,3 +194,5 @@ Zimbabwe:
 Blantyre (Malawi), dependente da CR de Harare.
 
 31 de Dezembro de 2008. - Pelo Ministro de Estado e dos Negócios Estrangeiros, António Fernandes da Silva Braga, Secretário de Estado das Comunidades Portuguesas.
+
+201529234

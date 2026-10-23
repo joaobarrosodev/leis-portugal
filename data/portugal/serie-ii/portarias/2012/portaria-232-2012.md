@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/232-2012-2357825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T17:34:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b3254900ec2c11a69c943d95c44bb1917e94e5fb7261689580d654cdb8c2f9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c49ff8f95ef6f09e7841d5a1a403c5a054279ae064a8064d7b6daab58ae6ae5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:34:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência Portuguesa do Ambiente
+- Comissão
+- Domínio Público Hídrico
+- Domínio Público Marítimo
+- Ílhavo
+relationships:
+- type: cites
+  target: pt:dre:3533302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628870:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:34:01Z'
   warnings: []
   errors: []
 ---
@@ -113,3 +130,5 @@ c) Um representante do requerente.
 2 - O auto de delimitação a que se refere o número anterior e a planta de delimitação a ele anexa são remetidos à Agência Portuguesa do Ambiente, I. P., para prosseguimento do processo, nos termos dos n.os 6 e 7 do Regulamento de Procedimento dos Processos de Delimitação do Domínio Público Marítimo Pendentes em 27 de outubro de 2007.
 
 10 de maio de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça.
+
+206135056

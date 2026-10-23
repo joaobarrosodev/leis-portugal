@@ -49,36 +49,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/582-2011-1194256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T17:31:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f534285471e87c2703814f69831bf991aee7d18f7ec52c204541ea281cf4796
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a205b465ee6e750a0ae324048d30a977c7bcf13f56706df48a4baa129c76e62c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:31:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Imóvel Classificado
+- Interesse Público
+- Património Cultural
+- Porto
+- Vila Real
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:31:45Z'
   warnings: []
   errors: []
 ---
@@ -181,6 +198,8 @@ A importância do conjunto para a identidade colectiva, constituindo uma referê
 
 A zona especial de protecção, que é conjunta à Garagem do Jornal O Comércio do Porto, visa salvaguardar a envolvente do conjunto classificado, a partir da identificação de uma área contígua com relevância histórica e paisagística. Os limites da zona especial de protecção tiveram em consideração critérios de razoabilidade, proporcionalidade, coerência e estabilidade.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/06/113000000/2512025122.pdf))](https://files.diariodarepublica.pt/2s/2011/06/113000000/2512025122.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/06/113000000/2512025122.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/06/113000000/2512025122.pdf))](https://files.diariodarepublica.pt/2s/2011/06/113000000/2512025122.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/06/113000000/2512025122.pdf)
+
+204765396

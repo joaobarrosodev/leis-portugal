@@ -49,40 +49,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/401-2011-2046771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T17:30:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94e67b5906e48697138110127b0287f8087af989fa387aa1ffd7aba011c58f03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cf3235020282831ba92405a2f082064e6f280c68665835101d9a4f7550b54f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:30:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aljustrel
+- Coimbra
+- Elvas
+- Imóvel Classificado
+- Interesse Público
+- Património Arquitectónico
+- Património Cultural
+- Protecção do Património
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:1185362:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1185362:por
+  label: "Rectificado o art. 1º pela DECL-RECT.558/2011.17.03.2011.SECU-MC, DR.IIS [54] de 17.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/558-2011-1185362
+  date: '2011-03-17'
+- type: corrected_by
+  target: pt:dre:1247008:por
+  label: "Retificados o sumário e a al. a) do art. 1º, pela DECL-RECT.775/2012.15.06.2012.SG-PCM, DR.IIS [115] de 15.06.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/775-2012-1247008
+  date: '2012-06-15'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:30:45Z'
   warnings: []
   errors: []
 ---
@@ -165,8 +201,10 @@ Teve também em atenção, de forma geral, o contexto espacial, os «pontos de v
 
 A relação do imóvel com a envolvente encontra-se devidamente preservada pela fixação da zona especial de protecção.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/03/043000000/1045210453.pdf))](https://files.diariodarepublica.pt/2s/2011/03/043000000/1045210453.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/03/043000000/1045210453.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/03/043000000/1045210453.pdf))](https://files.diariodarepublica.pt/2s/2011/03/043000000/1045210453.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/03/043000000/1045210453.pdf)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/03/043000000/1045210453.pdf))](https://files.diariodarepublica.pt/2s/2011/03/043000000/1045210453.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/03/043000000/1045210453.pdf)
+
+204394853

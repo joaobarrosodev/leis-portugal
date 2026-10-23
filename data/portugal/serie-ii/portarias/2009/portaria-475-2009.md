@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/04/067000000/1343613436.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/475-2009-958678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T17:20:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4b991d605933e4c2bbd376e0d215b2d358c35f76d1bc37d0cd018e854d9d2e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8de846a457664a07044873859d54789f5e165e798fd2ff7ec1a6e683a64af1be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:20:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autoridade Nacional de Segurança Rodoviária
+- Ministério da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:1515124:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520462:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1515124:por
+  label: "REVOGADA PELA PORT.658/2010.09.09.2010.MFAP, DR.IIS [176] de 09.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/658-2010-1515124
+  date: '2010-09-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:20:24Z'
   warnings: []
   errors: []
 ---
@@ -118,3 +146,5 @@ Nestes termos, manda o Governo, pelos Ministros de Estado e das Finanças e da A
 5 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 27 de Março de 2009. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Administração Interna, Rui Carlos Pereira.
+
+201624085

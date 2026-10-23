@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/076000000/1372713727.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/184-2012-2166753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 917997f273a7fce8fc9db1373eb734dceac19e7625560992d22e9a56b9f0517d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8124f1f3f6d226263afeef2ae6242846da77ccd1c40459bad530d519ccbe3fb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:44Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +103,5 @@ COR PILAV Q-e 062310-F José Manuel Baptista - CPESFA
 Conta esta situação desde 20 de fevereiro de 2012.
 
 20 de fevereiro de 2012. - Por subdelegação do Comandante do Pessoal da Força Aérea, após delegação do Chefe do Estado-Maior da Força Aérea, o Diretor, Interino, José Alberto Fangueiro da Mata, COR/PILAV.
+
+205966829

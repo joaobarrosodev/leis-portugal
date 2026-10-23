@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/188000000/4835648356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/700-2010-1597779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:27:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f944770ff1440fefaf955e9f68ba399ffd6e2a459b5e1240d6136c66c4819c55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b835203b099192f25e15876402f092153ad1c1e30c4e7f8ee74f442b5c52072
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:27:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:27:23Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Manda o Chefe do Estado-Maior da Armada, em harmonia com a proposta do Director do Instituto de Socorros a Náufragos, que seja concedida a medalha de coragem, abnegação e humanidade, grau cobre, aos 11524608 motorista de embarcação salva-vidas Adriano Esteves Martins Vinagre e 11521199 marinheiro de embarcação salva-vidas António Fernando Gomes Oliveira, tripulantes da embarcação salva-vidas "SR 28", pelo importante serviço prestado na salvação de náufragos, quando do salvamento da jovem, de quinze anos, que se encontrava inanimada a cerca de quatro metros de profundidade, em frente à praia Internacional, em Matosinhos.
 
 Ministério da Defesa Nacional - Marinha, 09-09-2010. - O Almirante Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, almirante.
+
+203719094

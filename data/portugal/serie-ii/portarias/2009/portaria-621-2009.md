@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/621-2009-1752221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T17:21:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55b981456d0bd4793efa13c84cd0cac2c5c1e10dc65aea51fd140d7fe3b19bf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91fc8b34d62ae47d38798435c0ee5101e87d62fb32289752dca10671b41c176f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:21:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Afeganistão
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
+- Missão Militar
+- NATO
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:3054339:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3054339:por
+  label: "Alterado o nº 3º pela PORT.175/2010.10.03.2010.MDN, DR.IIS [48] de 10.03.2010 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/175-2010-3054339
+  date: '2010-03-10'
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656130:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:21:13Z'
   warnings: []
   errors: []
 ---
@@ -125,3 +150,5 @@ d) Uma equipa de saúde militar para integrar a estrutura hospitalar do KAIA - A
 8.º De acordo com o disposto no n.º 5.º da portaria n.º 87/99, de 30 de Dezembro de 1998, publicada no Diário da República, 2.ª série, n.º 23, de 28 de Janeiro de 1999, os militares que integram os contingentes nacionais desempenham funções em países de classe C.
 
 27 de Abril de 2009. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira.
+
+201917184

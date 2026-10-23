@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/147000000/3063630636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/690-2009-1433063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T17:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88f18b9a847bb3c56ee31ff0fd91d4760e5196ff1943c4652a481ccf6deedbc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1becfa5b80ab89c67d92d1e88065676de05f145d35ff8440b8399a20945305c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:21:29Z'
   warnings: []
   errors: []
 ---
@@ -104,3 +104,5 @@ ASP RC NIM 11937400 Joaquim Manuel Sousa Pinheiro - EPE;
 ASP RC NIM 05463598 João Paulo Reis da Costa - UnAp/BrigInt.
 
 18 de Maio de 2009. - Por subdelegação do Major-General DARH, após subdelegação do Tenente-General AGE, por delegação do General CEME, o Chefe da Repartição, Óscar Humberto Almeida Megre Barbosa, COR INF.
+
+202110587

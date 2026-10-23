@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/222000000/5629056290.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/813-2010-2793406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T17:28:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2336c5cca47da068bfbdcf3cbccee904c95271511e0738cc224caaaf4ce8493e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81f83023a314b59392f6ba3c67b75573c06e5cb480ab9ba705b5512af24f6145
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:28:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:28:03Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +94,5 @@ Asp RC NIM 07819605, Sara Maria Carreira Paulino - UnAp/CID;
 Asp RC NIM 07999599, Bruno Gonçalo dos Santos Adão - UnAp/CmdLog.
 
 Ministério da Defesa Nacional, 25 de Agosto de 2010. - Por subdelegação do Exmo. MGEN DARH, após subdelegação do Exmo TGEN AGE, por delegação de S. Exa. o GEN CEME, o Chefe da Repartição de Pessoal Militar, Francisco Xavier Ferreira de Sousa, COR CAV.
+
+203791938

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/010000000/0295502955.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-2011-2148098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T17:29:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06a919c0920cd13f857932d54d1cc6d8525ad28fe755e951478967eb8111944a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0484c117d6ff74f1544d6eb54fa64896151247f8f5f89e3b6b7bfe3be38edc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:29:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:29:40Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Manda o Almirante Chefe do Estado-Maior da Armada, ao abrigo das disposições c
 60089 Mário Júlio Teixeira Pinto (no quadro), que satisfaz as condições gerais de promoção previstas no artigo 56.º e as condições especiais a que se referem as alíneas do n.º 1 do artigo 227.º do EMFAR, com excepção da prevista na alínea d), a contar de 09 de Outubro de 2010, data a partir da qual lhe são devidos os vencimentos correspondentes à 1.ª posição remuneratória do posto de graduação, nos termos do n.º 2 do artigo 68.º e do n.º 2 do artigo 69.º do mencionado estatuto.
 
 Ministério da Defesa Nacional - Marinha, 30-12-2010. - O Almirante Chefe do Estado-Maior da Armada, José Carlos Torrado Saldanha Lopes, almirante.
+
+204180786

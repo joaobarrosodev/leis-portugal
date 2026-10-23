@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/146-2009-2635674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:18:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d34e93716fd2e39d25d2ac6a49ae77bfaadc22d56152c3f04f61d33f4c2428c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4f2cfa491a3d19efee1c711e0525aff4cb531e4c3a7d635b856ccab87af163b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:18:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central do Sistema de Saúde
+- Aquisição de Bens e Serviços
+- Código dos Contratos Públicos
+- Comércio
+- Contratação Pública
+- Contrato
+- Homologação
+- Material Médico-Cirúrgico
+- Ministério da Saúde
+- Página na Internet
+- Serviço Nacional de Saúde
+relationships:
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347964:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:18:31Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +132,4 @@ Assim, manda o Governo, pelo Secretário de Estado Adjunto da Saúde, ao abrigo 
 
 20 de Janeiro de 2009. - O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/01/018000000/0394903976.pdf))](https://files.diariodarepublica.pt/2s/2009/01/018000000/0394903976.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/01/018000000/0394903976.pdf)

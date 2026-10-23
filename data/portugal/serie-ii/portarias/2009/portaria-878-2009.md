@@ -46,36 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/878-2009-1895854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T17:22:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b6744bd485b5ded64cdf1d92533317e27542845b0a96304c2ea7d001c6ac34e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8089df69d31ab2edd8abf6f2170f228d12e0a19c0dbc7e6105ac725048a68c8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:22:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Património
+- BENS Imóveis do Estado
+- Direção Geral do Tesouro e Finanças
+- Património do Estado
+relationships:
+- type: cites
+  target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66517101:por
+  label: Revogada pela Portaria n.º 96/2015 - Diário da República n.º 32/2015, Série II de 2015-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-2015-66517101
+  date: '2015-02-16'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:22:39Z'
   warnings: []
   errors: []
 ---
@@ -109,3 +142,5 @@ Pode o director-geral do Tesouro e Finanças definir, através de instruções a
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 3 de Setembro de 2009. - O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina.
+
+202306072

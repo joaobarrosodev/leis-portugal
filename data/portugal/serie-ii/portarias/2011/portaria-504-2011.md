@@ -48,36 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/504-2011-2167676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T17:31:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74c05a9f6008099b9445b902327d5507ffcfe4e6360c3046c5f6d3b3ab5d9c3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cd0f18dfb5c250678fd117eb41e5a136011e39bddf5a4bfc40d3d88bc8952aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:31:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Évora
+- Imóvel Classificado
+- Interesse Público
+- Património Arquitectónico
+- Património Cultural
+- Santo Tirso
+- Viana do Alentejo
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:31:21Z'
   warnings: []
   errors: []
 ---
@@ -142,8 +166,10 @@ A zona especial de protecção é também uma forma de valorização não só do
 
 A classificação da Capela de Santa Cruz, adro e espaço fronteiro fundamenta-se no valor arquitectónico e artístico do imóvel e na integridade do espaço religioso, incluindo a área fronteira à Capela, onde se realiza a romaria do Bom Jesus e que constitui um espaço de coexistência entre o sagrado e o profano. A zona especial de protecção visa a protecção dos valores devocional, simbólico e sócio-cultural que implicam a envolvente do monumento.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/076000000/1760617608.pdf))](https://files.diariodarepublica.pt/2s/2011/04/076000000/1760617608.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/076000000/1760617608.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/076000000/1760617608.pdf))](https://files.diariodarepublica.pt/2s/2011/04/076000000/1760617608.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/076000000/1760617608.pdf)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/076000000/1760617608.pdf))](https://files.diariodarepublica.pt/2s/2011/04/076000000/1760617608.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/076000000/1760617608.pdf)
+
+204570736

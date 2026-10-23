@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/688-2008-2534162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T17:15:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b18ae2944e938b5cd1fc0842332c587ca643bf8e20eb4cb47fafb95dcb35879
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e737405ef4063cdcc117f62de5da2d9a0e69f4380c82d0707d81b4c6c93170c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:15:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Águas Subterrâneas
+- Batalha
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:553598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553598:por
+  label: "Alteradas as zonas do perímetro de proteção às captações SL2, JK3, JK4, JK5 e JK6A do pólo da Calvaria de Baixo\
+    \ constantes do anexo II, e substituído o anexo IV pela PORT.56/2012.09.03.2012.MAMAOT, DR.IS [50] de 09.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-2012-553598
+  date: '2012-03-09'
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:15:01Z'
   warnings: []
   errors: []
 ---
@@ -200,13 +219,13 @@ Pólo da Golpilheira
 
 Círculo com 10 m de raio com centro nas captações
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
 
 Pólo da Calvaria de Baixo
 
 Círculo com 5 m de raio com centro nas captações
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistema Hayford Gauss - datum Lisboa.
 
@@ -214,21 +233,21 @@ Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistem
 
 Extracto da folha n.º 297 da carta topográfica à escala 1:25 000 (SCE)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
 
 Zonas do perímetro de protecção às captações SL2, JK3, JK4, JK5 e JK6A do pólo da Calvaria de Baixo Extractos das folhas n.os 297 e 308 das cartas topográficas à escala 1:25 000 (SCE).
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
 
 ## ANEXO III — Zonas de protecção intermédia
 
 Pólo da Golpilheira
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
 
 Pólo da Calvaria de Baixo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistema Hayford Gauss - datum Lisboa.
 
@@ -236,10 +255,10 @@ Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistem
 
 Pólo da Golpilheira
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
 
 Pólo da Calvaria de Baixo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243332435.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistema Hayford Gauss - datum Lisboa.

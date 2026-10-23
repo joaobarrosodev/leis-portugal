@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/023000000/0490404904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-2009-3184130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T17:18:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f23ffe8d1e5c85e48ea1ca44ba9136b25876dbf2d66ca64682eb497189646b73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 500b85c4b7b09d04c951e1f941dbc1a7a2c5edea8270a0c97e67bc754d222116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:18:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governador Civil
+- Governo Civil
+- Prestação de Serviços
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:3164370:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600143:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3164370:por
+  label: "Revogada, com produção de efeitos a 01.03.2011, pela PORT.387/2011.22.02.2011.MAI, DR.IIS [37] de 22.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-2011-3164370
+  date: '2011-02-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:18:42Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +131,4 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 14/20
 
 ## ANEXO — Tabela da taxa prevista na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 14/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2009-397363), de 14 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/02/023000000/0490404904.pdf))](https://files.diariodarepublica.pt/2s/2009/02/023000000/0490404904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/02/023000000/0490404904.pdf)

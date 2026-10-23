@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/227000000/5727757278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/846-2010-893965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T17:28:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 611cbaf58c1efbc8a7bf7332945dd9a3709b53c1f85d4c9d0bcc301591fc692d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6f9b592160f1221ebdbf35113a6a8c141dac57da2fee37c426191766ec3b772
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:28:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:28:15Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Manda o Chefe do Estado-Maior da Armada, em harmonia com a proposta do Director do Instituto de Socorros a Náufragos, que seja concedida a medalha de cobre de filantropia e dedicação, ao 1.º Sargento CM MEF RES José Manuel Brito dos Anjos pelas suas qualidades profissionais e virtudes pessoais e humanas, pelo constante empenho em bem servir e pela afirmação de dotes de carácter, dedicação, camaradagem e disponibilidade para o serviço, qualidades estas que se reflectiram num desempenho de excelência que considero ter contribuído muito significativamente para a melhoria do nível da formação ministrada aos Nadadores Salvadores prestando um importante serviço ao Instituto de Socorros a Náufragos e à Marinha.
 
 Ministério da Defesa Nacional - Marinha, 11-11-2010. - O Almirante Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, almirante.
+
+203950981

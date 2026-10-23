@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/204000000/5186251862.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/744-2010-1252845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T17:27:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29bc0c1f34b004773649acfc083da4802ddcaab0714e56e5ee8eac6d0ec693b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f7b67ff860bc5fd00b7a0b5221b6b5999a3b5efd26bca95fd36c78fc974ac24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:27:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:3605785:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:27:40Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por portaria de 06 de Outubro de 2010 do Ajudante General do Exército, no uso da delegação de competências conferida pelo [Despacho n.º 3686/2010](https://diariodarepublica.pt/dr/detalhe/despacho/3686-2010-3605785) de 27JAN10 de S. Ex.ª o GEN CEME, inserto no DR n. 41 - 2.ª série - de 01MAR10, é abatido aos Quadros Permanentes o 1SAR INF NIM 03871194 Nuno Duarte Gonçalves Rodrigues da UALE, nos termos do n.º 7 do Artigo 206.º conjugado com a alínea e) do n.º 1 do Artigo 170.º, ambos do EMFAR, a partir de 06 de Outubro de 2010, por o ter requerido.
 
 DARH em Porto, 11 de Outubro de 2010. - O Chefe da Repartição, Francisco Xavier Ferreira de Sousa, COR CAV.
+
+203809311

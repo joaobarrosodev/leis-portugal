@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/623-2011-3286102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:31:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 375d1174bc463ed46b50fa89654662c5abf7d14a6ec4b7f5a4c9d30f317f5068
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e1995251a170348c5483827353d9cca1f3cfad621b203c54aa952dde859c6b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:31:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Imóvel Classificado
+- Interesse Público
+- Miranda do Douro
+- Protecção do Património
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:31:57Z'
   warnings: []
   errors: []
 ---
@@ -135,4 +152,6 @@ Ao abrigo do disposto no n.º 5 do artigo 15.º, no artigo 18.º, no n.º 2 do a
 
 17 de Junho de 2011. - O Secretário de Estado da Cultura, Elísio Costa Santos Summavielle.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/06/123000000/2733727338.pdf))](https://files.diariodarepublica.pt/2s/2011/06/123000000/2733727338.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/06/123000000/2733727338.pdf)
+
+204823594

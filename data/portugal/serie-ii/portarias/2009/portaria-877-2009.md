@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/877-2009-1321824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T17:22:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abef568a43ccdea98889fb651057556698980a9a2388b83aff092d579f5472b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff684958d711ac343f2069c0246792c033f668307b96122aa9c6dab094d5bc0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:22:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CASA do POVO
+- Centro Regional de Segurança Social
+- Instituto da Segurança Social
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:485910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663139:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:22:38Z'
   warnings: []
   errors: []
 ---
@@ -99,3 +115,5 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 2.º O Instituto da Segurança Social, I. P., desenvolverá as acções conducentes à concretização deste objectivo, nomeadamente as previstas nos n.os 3 e 4 do artigo 5.º do [Decreto-Lei n.º 245/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1990-573109), de 27 de Julho.
 
 8 de Setembro de 2009. - O Secretário de Estado da Segurança Social, Pedro Manuel Dias de Jesus Marques.
+
+202280825

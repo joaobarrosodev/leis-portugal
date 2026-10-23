@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/130000000/3674036740.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/485-2010-3082435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T17:26:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f31a96ec87814d61a9741a426df74d798f46e8c0601b515bd9a3488eff031b71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4000de27b2ccd2e1343e41c42c55746e5731045158ce348dc81fd3a67989052e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:26:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exoneração
+- Harare
+- Malawi
+- Maputo
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:3038353:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3038353:por
+  label: "Exonerado o capitão de mar e guerra (20878) Américo Rui Martinho Prata de Almeida, pela PORT.683/2013.15.10.2013.MNE,\
+    \ DR.IIS [199] de 15.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-2013-3038353
+  date: '2013-10-15'
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683041:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:26:10Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +129,5 @@ Nos termos do n.º 1 do artigo 10.º do [Decreto-Lei n.º 56/81](https://diariod
 A presente portaria produz efeitos a partir de 1 de Outubro de 2010. (Isenta de visto do Tribunal de Contas.)
 
 14 de Junho de 2010. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.
+
+203435804

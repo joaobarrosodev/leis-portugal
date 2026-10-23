@@ -46,36 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/829-2008-2478723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T17:15:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0943e6938a5947df8f7a5baae3e84c151440690d66e887d450c307a02b3555f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6b97bdbd1aa28367c003e890b72b4b5e83c3140d4f6c7def40fdc0076bfac08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:15:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Afeganistão
+- Cooperação Militar
+- Missão de PAZ
+- Missão Humanitária
+- Missão Militar
+- Missão no Estrangeiro
+- Política de Cooperação
+relationships:
+- type: amended_by
+  target: pt:dre:70510006:por
+  label: Alterado, com efeitos desde 01.10.2015, o 2.º § pelo(a) Portaria n.º 781/2015 - Diário da República n.º 200/2015,
+    Série II de 2015-10-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/781-2015-70510006
+  date: '2015-10-13'
+- type: amended_by
+  target: pt:dre:75702038:por
+  label: Alterado, com efeitos a partir de 15.11.2016, o 1.º parágrafo, pela Portaria n.º 391/2016 - Diário da República n.º
+    216/2016, Série II de 2016-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-2016-75702038
+  date: '2016-11-10'
+- type: cites
+  target: pt:dre:184957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656130:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:15:47Z'
   warnings: []
   errors: []
 ---

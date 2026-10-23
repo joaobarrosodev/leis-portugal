@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/119000000/3385433854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/432-2010-1734445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T17:25:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e41ae683a8c1bb8b0018abc472f3ce115679258ec9838ab5681fa0164ea707fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49628b6bf3f85eb7b9d5e2730709abe9e794d3f12589e0af1c61b8f1644084d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:25:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:25:54Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Manda o Chefe do Estado-Maior do Exército que o TCOR INF NIM 14679284 Carlos Manuel Borrego Cevada, transite para a situação de reserva nos termos da alínea b) do n.º 1 do Artigo 152.º do EMFAR, conjugado com o n.º 2 do Artigo 3.º do Decreto-Lei n.º 166/05 de 23 de Setembro, devendo ser considerado nesta situação desde 31 de Dezembro de 2009.
 
 28 de Abril de 2010. - Por delegação do Chefe do Estado-Maior do Exército, o Comandante do Pessoal do Exército, Eduardo Manuel de Lima Pinto, tenente-general.
+
+203378749

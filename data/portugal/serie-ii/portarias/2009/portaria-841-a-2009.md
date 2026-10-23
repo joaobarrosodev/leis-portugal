@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 169/2009, 2º Suplemento, Série II de 2009-09-01
   number: '169'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 35562-(6) a 35562-(6)
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/169000002/0000600006.pdf
 entry_into_force_dates: []
@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/841-a-2009-3081346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T17:22:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f76faef48edc1e58f09a1af9082fe1746d121ffbe04b2cb6205ef6ad977e0a8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cabe3f195f4756adb562c00707b181ae44ef5399648f0396189edf4230f24d62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:22:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Concurso Público
+- Gado Caprino
+- Gado Ovino
+- Gestão de Resíduos
+- Ifadap
+relationships:
+- type: cites
+  target: pt:dre:239616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:22:24Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +109,5 @@ Fica o IFAP, I. P., autorizado a alterar a repartição dos encargos previstos n
 2009 - (euro) 260 065.
 
 31 de Agosto de 2009. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
+
+202253277

@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-2011-1271592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T17:29:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18f8463c1da68b753edad1e5be8f89baf3b54604e5505649ff87353f5d5b64b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6edbc2347cdbb7bfb7cd234ad1ba191a9b414943f4977dfc677f13eb10883295
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:29:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aveiro
+- Coimbra
+- Imóvel Classificado
+- Protecção do Património
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:29:50Z'
   warnings: []
   errors: []
 ---
@@ -179,8 +199,10 @@ Relacionada com esta Capela regista-se a existência de uma longa tradição rel
 
 A relação urbana do templo, classificado como monumento de interesse público, com o espaço edificado envolvente, consubstanciada no conjunto urbano e arquitectónico coeso de expressão dominantemente vernacular, encontra-se devidamente salvaguardada e preservada pela zona especial de protecção.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/012000000/0365703659.pdf))](https://files.diariodarepublica.pt/2s/2011/01/012000000/0365703659.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/012000000/0365703659.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/012000000/0365703659.pdf))](https://files.diariodarepublica.pt/2s/2011/01/012000000/0365703659.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/012000000/0365703659.pdf)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/012000000/0365703659.pdf))](https://files.diariodarepublica.pt/2s/2011/01/012000000/0365703659.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/012000000/0365703659.pdf)
+
+204201059

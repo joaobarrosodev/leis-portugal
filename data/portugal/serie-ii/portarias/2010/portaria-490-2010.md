@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-2010-3082440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T17:26:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5fc39666ffeb156162a304e4dcec18c4ac09cc8f0572486dee62408a5ccfe7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb13b584f722aabc4a5327955806c4841f36ecae8269d61f8bd4b244d8295865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:26:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adido Militar
+- Embaixada
+- Exoneração
+- Marrocos
+- Nomeação
+- Rabat
+- Tunes
+- Tunísia
 relationships:
 - type: amended_by
   target: pt:dre:2585695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1457101:por
+  label: "Exonerado do cargo de Adido de Defesa da embaixada de Portugal em Rabat, Marrocos, pela PORT.690/2013.16.10.2013.MNE,\
+    \ DR.IIS [200] de 16.10.2013, na data em que o nomeado por esse diploma assuma funções\0es\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/690-2013-1457101
+  date: '2013-10-16'
+- type: amended_by
+  target: pt:dre:2585695:por
+  label: "Exonerado do cargo de Adido de Defesa junto da Embaixada de Portugal em Tunes, Tunísia, pela PORT.846/2013.03.12.2013.MNE,\
+    \ DR.IIS [234] de 03.12.2013, na data em que o nomeado por esse diploma assuma funções \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/846-2013-2585695
+  date: '2013-12-03'
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683041:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:26:14Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +138,5 @@ Nos termos do n.º 1 do artigo 10.º do [Decreto-Lei n.º 56/81](https://diariod
 A presente portaria produz efeitos a partir de 9 de Outubro de 2010. (Isenta de visto do Tribunal de Contas.)
 
 14 de Junho de 2010. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.
+
+203435829

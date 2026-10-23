@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/05/105000000/1947219472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-2396685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fa3564371df1e92e168a6687dfdf8324958b7b5e35af9c538d8e4a4c519e742
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0cf493b5e0707f78f60727e6ea6c08be5f28e490f750c3f9e433d1d39059396
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:57Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +91,5 @@ Louvo o 22388, capitão-tenente Nelson Pedrosa Ruivo da Silva pela forma excecio
 Pelas razões expostas, é com profundo agrado e da mais elementar justiça que faço público reconhecimento da elevada competência técnico-profissional, extraordinário desempenho e relevantes qualidades pessoais evidenciados pelo comandante Nelson Pedrosa Ruivo da Silva no exercício das suas funções, considerando que da sua ação resultou um contributo muito significativo para a eficiência, prestígio e cumprimento da missão do Ministério da Defesa Nacional. Assim, nos termos da competência que me é conferida pelo n.º 3 do artigo 34.º e atento o disposto no artigo 25.º, na alínea a) do n.º 1 do artigo 26.º e na alínea b) do n.º 1 do artigo 27.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, concedo a medalha da defesa nacional, de 2.ª classe, ao 22388, capitão-tenente Nelson Pedrosa Ruivo da Silva.
 
 18 de maio de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+206125693

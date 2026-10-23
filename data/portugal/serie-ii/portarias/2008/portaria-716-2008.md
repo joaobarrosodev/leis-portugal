@@ -48,32 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/716-2008-1363132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T17:15:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63311f0343eafb2b1b742774323a4758da274ec98af3f42a13c1fc01e44ef1fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 743f055792c449af193baf3c6fc8199fadd676b1276311aee40e9dfdd49bbc80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:15:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
+- Poluição
+- Poluição Atmosférica
+- Proteção do Ambiente
+- Qualidade do AR
+- Região Norte
 relationships:
 - type: amended_by
   target: pt:dre:342123:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342123:por
+  label: "Determinada a manutenção em vigor da presente portaria, pelo DEC LEI.102/2010.23.09.2010.MAOT, DR.IS [186] de 23.09.2010,\
+    \ até à adopção das portarias a publicar ao abrigo dos seus artigos 26º e 43º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2010-342123
+  date: '2010-09-23'
 - type: cites
   target: celex:31998L0069
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653499:por
   label: null
   source: null
 - type: transposes
@@ -83,13 +115,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:15:11Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +172,7 @@ Os diagnósticos da qualidade do ar desta Região para os anos de 2001-2004 iden
 
 2.1 - Rede de qualidade do ar da Região Norte - a figura 2.1 apresenta a rede de qualidade do ar da Região Norte e no quadro n.º 2.1 são descritas algumas das características das estações de qualidade do ar em funcionamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
 
 Figura 2.1 - Rede de monitorização da qualidade do ar da Região Norte.
 
@@ -148,7 +180,7 @@ QUADRO N.º 2.1
 
 Caracterização das estações de monitorização da qualidade do ar da Região Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
 
 2.2 - Identificação das situações de incumprimento - da análise dos dados e parâmetros estatísticos apresentados nos Relatórios da Qualidade do Ar dos anos em estudo, verifica-se que, à excepção do ozono (O(índice 3)) e PM(índice 10), os níveis de concentração dos poluentes atmosféricos monitorizados em toda a rede da Região Norte cumpriram as determinações legais em vigor.
 
@@ -158,7 +190,7 @@ QUADRO N.º 2.2
 
 Valores limite de concentrações atmosféricas de PM(índice 10) para protecção da saúde humana, de acordo com o [Decreto-Lei n.º 111/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2002-304328)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
 
 Da avaliação efectuada constata-se que na aglomeração Porto Litoral em 2001, 2002 e 2003 o VL diário para as PM(índice 10), acrescido da MT, é excedido para além do número de vezes permitido em cada ano civil (35). Da mesma forma, o VL anual acrescido da respectiva MT é também ultrapassado. Para o ano de 2004, encontram-se em incumprimento as aglomerações Vale do Ave, Vale do Sousa e Porto Litoral.
 
@@ -168,7 +200,7 @@ QUADRO N.º 2.3
 
 Estações em incumprimento e número total de ultrapassagens expressas em relação ao VL diário + MT e em relação ao VL diário em 2001-2004
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
 
 Algumas das estações em incumprimento ao VL diário + MT apresentadas no quadro n.º 2.3 encontram-se também em incumprimento ao VL anual + MT, apresentando-se no quadro n.º 2.4 estas situações.
 
@@ -176,7 +208,7 @@ QUADRO N.º 2.4
 
 Estações em incumprimento em relação ao VL anual + MT em 2001-2004
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
 
 3 - Avaliação fenomenológica das ultrapassagens ao VL - a matéria particulada (PM) é constituída por partículas sólidas e ou líquidas que entram na atmosfera, emitidas por uma variedade de fontes naturais e antropogénicas que influenciam as suas propriedades físicas (massa, tamanho, densidade...) e químicas. As partículas podem ser classificadas como primárias ou secundárias, de acordo com o seu mecanismo de formação. As partículas primárias são emitidas directamente para a atmosfera e as partículas secundárias são formadas no ar rapidamente por condensação ou por transformação química de moléculas gasosas emitidas (precursores).
 
@@ -268,7 +300,7 @@ QUADRO N.º 5.1
 
 Resumo das medidas de melhoria da qualidade do ar adicionais, definidas para a Região Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf))](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/151000000/3496834973.pdf)
 
 5.2 - Análise custo-eficácia de políticas e medidas - para as políticas e medidas definidas serem passíveis de aplicação, elas devem, para além de provar eficácia na melhoria da qualidade do ar (através de modelação), ser economicamente viáveis. Isto significa que as vantagens que elas trarão devem ser inferiores aos custos que implicam ou, pelo menos, que estes devem ser compensadores em termos de melhoria da qualidade de vida da população. Deste modo, foi feita uma avaliação dos custos médios que algumas das medidas mencionadas anteriormente implicarão, caso sejam aplicadas. Para tal, usaram-se valores tais como preços de equipamento e de implementação, taxas de diminuição de veículos em circulação ou externalidades do tráfego automóvel, oriundos de pesquisa bibliográfica e baseados em exemplos de países estrangeiros e em médias europeias.
 

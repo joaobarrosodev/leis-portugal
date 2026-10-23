@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/924-2009-2078917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T17:22:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac6bcea494830dc4984d36538ce7612c45996f6dfff332dccae312a00c7e3d2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71342a6c1e730ccea13dd4dcd060e5e243622078fc226b218fb6239b22e19bae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:22:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Águas Residuais
+- Águas Subterrâneas
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:105347310:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105347310:por
+  label: Revogada pelo(a) Portaria n.º 313/2016 - Diário da República n.º 236/2016, Série I de 2016-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-2016-105347310
+  date: '2016-12-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:22:55Z'
   warnings: []
   errors: []
 ---
@@ -191,20 +209,22 @@ iii) Execução de quaisquer novas sondagens para captação de água subterrân
 
 ## ANEXO — Representação das zonas do perímetro de protecção às captações da Boavista
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf)
 
 Base: Extracto da Carta Militar n.º 241 dos S. C. E.
 
 Coordenadas das zonas de protecção imediata
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf)
 
 Coordenadas das zonas de protecção intermédia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf)
 
 Coordenadas da zona de protecção alargada
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976239764.pdf)
 
 Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistema Hayford-Gauss - datum Lisboa.
+
+201036268

@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/573-2011-829178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T17:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5a6af3dcfb3449612aa911e263c2811cab3bf370f080130c876e7c0460a75d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbaa044319cbec96a4272b85f938a6ac23a6be77d337cdab9d82256c3f47ead9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alvito
+- Évora
+- Imóvel Classificado
+- Ponte
+- Protecção do Património
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:31:41Z'
   warnings: []
   errors: []
 ---
@@ -158,8 +176,10 @@ Merece destaque a igreja conventual, à qual se tem acesso por portal renascenti
 
 O claustro é uma peça arquitectónica muito interessante com arcadas renascentistas e cobertura por abóbada de tipologia idêntica à utilizada no templo.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/05/104000000/2328423285.pdf))](https://files.diariodarepublica.pt/2s/2011/05/104000000/2328423285.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/104000000/2328423285.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/05/104000000/2328423285.pdf))](https://files.diariodarepublica.pt/2s/2011/05/104000000/2328423285.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/104000000/2328423285.pdf)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/05/104000000/2328423285.pdf))](https://files.diariodarepublica.pt/2s/2011/05/104000000/2328423285.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/104000000/2328423285.pdf)
+
+204717192

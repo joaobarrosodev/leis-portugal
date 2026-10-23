@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/50-2010-2149929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T17:26:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32a803f0496574c8af805e142def4e5d7c7ccd741568f67417e513e347d7127b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4563a0a341b088eace6b5f0fd65f0312e094cace2f13dd0da931961994b757cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:26:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Europol
+- Nomeação
+- Oficial de Ligação
 relationships:
 - type: amended_by
   target: pt:dre:2224247:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:55025018:por
+  label: Prorrogada, a partir de 22.01.2013, e por um período de três anos, a comissão de serviço do inspetor António José
+    Coelho Duarte Alves, como oficial de ligação para a EUROPOL, nomeado pela Port 193/2007 de 07-fev, com a prorrogação efetuada
+    presente, pelo(a) Portaria n.º 560/2014 - Diário da República n.º 133/2014, Série II de 2014-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/560-2014-55025018
+  date: '2014-07-14'
+- type: amended_by
+  target: pt:dre:73301245:por
+  label: Prorrogada, a partir de 22.01.2016 e por um período de três anos, a comissão de serviço do Inspetor António José
+    Coelho Duarte Alves, como oficial de ligação para a EUROPOL, cuja nomeação foi efetuada pela Port 192/2007 de 07-fev,
+    posteriormente prorrogada pela presente, pelo(a) Portaria n.º 16/2016 - Diário da República n.º 18/2016, Série II de 2016-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-2016-73301245
+  date: '2016-01-27'
+- type: cites
+  target: pt:dre:353541:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2224247:por
+  label: "Rectificado o presente diploma [corrigido o nome do nomeado] que prorroga a comissão de serviço do nomeado pela\
+    \ Port 193/2007, de 07-Fev, pela DECL-RECT.517/2010.16.03.2010.MJ, DR.IIS [52] de 16.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/517-2010-2224247
+  date: '2010-03-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:26:15Z'
   warnings: []
   errors: []
 ---
@@ -100,3 +127,5 @@ Assim, ao abrigo do disposto no artigo 145.º do [Decreto-Lei n.º 275-A/2000](h
 É prorrogada, a partir de 22 de Janeiro de 2010 e por um período de três anos, a comissão de serviço do inspector José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL pela portaria n.º 193/2007, de 22 de Janeiro.
 
 5 de Janeiro de 2010. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Justiça, Alberto de Sousa Martins.
+
+202776198

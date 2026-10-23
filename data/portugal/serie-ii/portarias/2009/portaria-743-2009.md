@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/743-2009-1364328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T17:21:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd0d02e4054ab5d6a9a2e85f566ba2ef539ac9d61e8e27e59665a6e4862908a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 750d882ad0da8bdbcbb9f68a67993a44764b17455501f34e1a6edc19d120d9f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:21:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Direcção Geral de Reinserção Social
+- Madeira.região Autónoma
+- Ministério da Justiça
+relationships:
+- type: amended_by
+  target: pt:dre:55028906:por
+  label: Reescalonada a despesa autorizada pela Portaria n.º 629/2014 - Diário da República n.º 144/2014, Série II de 2014-07-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-2014-55028906
+  date: '2014-07-29'
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:21:49Z'
   warnings: []
   errors: []
 ---
@@ -120,3 +137,5 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, o segu
 5 - A orçamentação das despesas em cada ano será precedida pela apresentação de programas anuais de execução, elaborados de acordo com as normas definidas pelo Ministério das Finanças e da Administração Pública.
 
 23 de Julho de 2009. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Justiça, José Manuel Vieira Conde Rodrigues, Secretário de Estado Adjunto e da Justiça.
+
+202132473

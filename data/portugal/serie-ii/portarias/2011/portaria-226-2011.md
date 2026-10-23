@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2011-1271594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T17:29:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73121577b955918a7390a7c4701d8348124b135679fbcfb8fec5b32a31af5355
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d43c8b53157b6f5e7a942de9449f1a3d69fd7cb5c4b5f7ad185e94d9be35ca42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:29:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Imóvel Classificado
+- Porto
+- Protecção do Património
+- Vila Real
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:29:51Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +142,10 @@ c) É fixada a zona especial de protecção (ZEP) da Escola Secundária Clara de
 
 10 de Janeiro de 2011. - O Secretário de Estado da Cultura, Elísio Costa Santos Summavielle.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/012000000/0366003661.pdf))](https://files.diariodarepublica.pt/2s/2011/01/012000000/0366003661.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/012000000/0366003661.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/012000000/0366003661.pdf))](https://files.diariodarepublica.pt/2s/2011/01/012000000/0366003661.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/012000000/0366003661.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/012000000/0366003661.pdf))](https://files.diariodarepublica.pt/2s/2011/01/012000000/0366003661.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/012000000/0366003661.pdf)
+
+204201278

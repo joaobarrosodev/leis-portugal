@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/110000000/2293522936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/597-2009-2942914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T17:21:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3742fa8c41004968c2f96bee7d99cd60f2a3d17b61bd0990251c662fac7186af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e887ca1fd672d63145a5ccf7e2ebe4f7e656f8c0397eb96c12808cc0b8e9c054
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:21:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:21:07Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Por portaria de 19 de Fevereiro de 2009 do Ajudante General do Exército, no uso da delegação de competências conferida pelo despacho n.º 4316/2007 de 22SET06 de S. Ex.ª o GEN CEME, inserto no Diário da República n. 49 - 2.ª série - de 09MAR07, é abatido aos Quadros Permanentes o 1SAR SGE NIM 09476387 Álvaro David Esteves Pires, da RRD/CMDPESS, nos termos do n.º 6 do artigo 206.º conjugado com a alínea e) do n.º 1 do artigo 170.º, ambos do EMFAR, a partir de 01 de Fevereiro de 2009, por não ter efectuado a sua apresentação da situação de licença ilimitada.
 
 29 de Abril de 2009. - O Chefe da Repartição, Óscar Humberto Almeida Megre Barbosa, COR INF.
+
+201868252

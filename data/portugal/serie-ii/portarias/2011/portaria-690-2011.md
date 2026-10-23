@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/153000000/3295332953.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/690-2011-1077711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T17:32:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a94c3385b1ca4f271b09f3b483714e3c895d4bf7b42818bb2a5c65138d52d71b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e07ade8eb73ef1228e437fd8ff2478228d539974db33753e4f2886331e3c50d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:32:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:32:20Z'
   warnings: []
   errors: []
 ---
@@ -84,6 +84,8 @@ validation:
 
 Manda o Chefe do Estado-Maior do Exército que os oficiais abaixo discriminados transitem para a situação de reserva, nos termos da alínea d) do n.º 2 do Artigo 154.º do EMFAR, devendo ser considerados nesta situação na data que cada um se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/153000000/3295332953.pdf))](https://files.diariodarepublica.pt/2s/2011/08/153000000/3295332953.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/153000000/3295332953.pdf)
 
 14 de Junho de 2011. - Por delegação do Chefe do Estado-Maior do Exército Português, o Comandante do Pessoal do Exército, Luís Miguel de Negreiros Morais de Medeiros, tenente-general.
+
+204990438

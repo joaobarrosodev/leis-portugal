@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 231/2010, 2º Suplemento, Série II de 2010-11-29
   number: '231'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 58226-(4) a 58226-(5)
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/231000002/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/879-a-2010-3106149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T17:28:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adf6dad8a9a3cdd0444f70c07270fc58056766b7d19d1f567ec3fba411d4ee47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86a02c05e21fb2896f1d1c73c88153985ca639e60458e9218b2e21c4161df0e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:28:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Documento Eletrónico
+- Impresso
+- IRS
+- IVA
+- Recibo
 relationships:
 - type: amended_by
   target: pt:dre:401017:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401017:por
+  label: "Revogada a partir de 01.01.2013 pela PORT.426-B/2012.28.12.2012.MF, DR.IS [251-2ºSupl] de 28.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-b-2012-401017
+  date: '2012-12-28'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:28:25Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +175,7 @@ c) Modelo de recibo sem preenchimento.
 
 23 de Novembro de 2010. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/231000002/0000400005.pdf))](https://files.diariodarepublica.pt/2s/2010/11/231000002/0000400005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/231000002/0000400005.pdf)
 
 INSTRUÇÕES
 
@@ -191,3 +210,5 @@ Caso o recibo verde electrónico seja utilizado como documento de quitação de 
 respectivo número e data de emissão, utilizando-se para o efeito o campo da descrição.
 
 A utilização dos recibos verdes electrónicos não determina a qualificação do serviço prestado como trabalho independente.
+
+204008969

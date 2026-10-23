@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/09/170000000/3558735587.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/844-2009-3203303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T17:22:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2e1b19b4047831e68caa88f0be224e5cf166629cb2ec90ce73d8e76bf32d706
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acdf0977f754876195734f3b02d9c50d0b0242e2b1d172e372d6521158daa2f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:22:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:274233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576960:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:22:25Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +93,5 @@ validation:
 Manda o Governo, pelos Ministros de Estado e dos Negócios Estrangeiros e da Defesa Nacional, que, nos termos do disposto na alínea e) do n.º 1 do artigo 1.º, no artigo 3.º e no n.º 1 do artigo 8.º do [Decreto-Lei n.º 233/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1981-576960), de 1 de Agosto, e na [Portaria n.º 265/2000](https://diariodarepublica.pt/dr/detalhe/portaria/265-2000-274233), de 17 de Maio, sob proposta do general Chefe do Estado-Maior do Exército, seja nomeado o sargento-ajudante de infantaria NIM 19190684, Amílcar do Nascimento, para o cargo de auxiliar do oficial de ligação junto à NAMSA (Pólo NAMSA), no Luxemburgo, em substituição do primeiro-sargento ABST 083104-C, Alcides António Rouquinho Miranda, que fica exonerado do referido cargo pela presente portaria, na data em que o sargento agora nomeado assuma funções, a qual produz efeitos a partir de 1 de Setembro de 2009. (Não carece de fiscalização prévia do Tribunal de Contas.)
 
 27 de Julho de 2009. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira.
+
+202240576

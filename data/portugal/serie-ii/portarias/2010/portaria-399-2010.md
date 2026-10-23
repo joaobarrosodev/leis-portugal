@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/399-2010-1193925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T17:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dc6f3f6a9ad8f0c011ed6682937288e3bf5e98eab9340b1d759ebb4bf95f02d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abe916317784806b8590a93bbd340b390af235eb94a39a86003dc5e7751b51d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:25:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Imóvel Classificado
+- Protecção do Património
+- são Pedro do SUL
+- Zona de Proteção
+relationships:
+- type: amended_by
+  target: pt:dre:71006133:por
+  label: Alterada a designação de Convento de São Cristóvão de Lafões, para Mosteiro de São Cristóvão de Lafões, classificado
+    como monumento de interesse público (MIP) pela presente Portaria, pelo(a) Portaria n.º 837/2015 - Diário da República
+    n.º 223/2015, Série II de 2015-11-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-2015-71006133
+  date: '2015-11-13'
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:25:49Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +132,6 @@ Ao abrigo do disposto no n.º 5 do artigo 15.º, no artigo 18.º, no n.º 2 do a
 
 2 de Junho de 2010. - Pela Ministra da Cultura, Elísio Costa Santos Summavielle, Secretário de Estado da Cultura.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2010/06/113000000/3236632366.pdf))](https://files.diariodarepublica.pt/2s/2010/06/113000000/3236632366.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/113000000/3236632366.pdf)
+
+203350754

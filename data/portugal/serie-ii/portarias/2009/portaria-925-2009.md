@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-2009-2078918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T17:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3784d972e38deb537a357b791a7048d735ee2fbd1d43622a4265131c473400d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2830aa2ad022635a01ecba68b18bb0a2c92e7ca626f2ba4eb1b3ba8b0f86e63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento de Água
+- Águas Residuais
+- Águas Subterrâneas
+- Leiria
+- Recursos Hídricos
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:22:59Z'
   warnings: []
   errors: []
 ---
@@ -193,40 +207,42 @@ vii) Estações de tratamento de águas residuais e estações elevatórias de �
 
 ## ANEXO — Coordenadas da localização das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
 
 Coordenadas das zonas de protecção imediata
 
 Furo n.º 1 (SL10)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
 
 Furo n.º 2 (SL13)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
 
 Furo n.º 3 (SL14)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
 
 Coordenadas da zona de protecção alargada
 
 Furos n.º 1 (SL10) E n.º 2 (SL13)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
 
 Furo n.º 3 (SL14)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
 
 Representação das zonas dos perímetros de protecção dos furos n.º 1 (SL10) e n.º 2 (SL13)
 
 Base: extractos das fls. 284 e 285 da Carta Militar de Portugal (SCE)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
 
 Representação das zonas do perímetro de protecção do furo n.º 3 (SL14)
 
 Base: extracto da fl. 284 da Carta Militar de Portugal (SCE)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976439766.pdf)
+
+201036098

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/076000000/1749617496.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/503-2011-2167409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T17:31:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab3993b905ec7389569ae3ee7a4986b5a7b1833acd44d1d94774e5ebae464e41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1b4d6a66ef92cb6de2aeae1e1c51f94bc520c8342521927dd25da44578f3354
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:31:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507658:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:31:20Z'
   warnings: []
   errors: []
 ---
@@ -107,3 +131,5 @@ Fica integrado no 2.º escalão, índice 500 da estrutura remuneratória, ao abr
 Transita para a Reforma Extraordinária desde 23Mar2004, (data em que perfez 57 anos) por ter atingido o limite de idade fixado para posto de Coronel, nos termos da alínea a) do art.º 153.º do EMFAR, aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000) de 25Jun, conjugado com o n.º 17.º da [Portaria n.º 162/76](https://diariodarepublica.pt/dr/detalhe/portaria/162-1976-500908), de 24 de Março.
 
 29 de Março de 2011. - O Chefe da Repartição, Francisco Xavier Ferreira de Sousa, COR CAV.
+
+204282327

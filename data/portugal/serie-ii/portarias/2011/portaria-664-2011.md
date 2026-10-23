@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/664-2011-1742056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:32:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57b85867ae6032bb0ea2253ac5a5357bde08705565f2250e9bc8ffcb62c0b32b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6e870b749654568728349cc0975c92f9bc1ec9848b3d398f5bc24759d0b4584
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:32:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão
+- Domínio Público Marítimo
+- Santa CRUZ
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628870:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:32:11Z'
   warnings: []
   errors: []
 ---
@@ -106,3 +118,5 @@ c) Um representante dos requerentes.
 O auto de delimitação que vier a ser produzido pela comissão ora nomeada, no seguimento do parecer n.º 6187, de 23 de Outubro de 2008, da comissão do domínio público marítimo, observará as normas procedimentais constantes do citado despacho normativo n.º 32/2008, de 20 de Junho, sendo remetido ao Instituto da Água, I. P., para, depois de colhido o parecer da comissão do domínio público marítimo, caso seja favorável, ser objecto de subsequente homologação do Governo, nos termos do n.º 4 do artigo 17.º da [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), de 15 de Novembro, e respectiva publicação.
 
 7 de Junho de 2011. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro.
+
+204795171

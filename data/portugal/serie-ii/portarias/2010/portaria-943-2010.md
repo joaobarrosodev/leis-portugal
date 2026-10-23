@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/943-2010-1132661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T17:28:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 867cdbdec50dd416b6dd8f0d93741cbc017035bca9360523c1f95470d97e9d8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e361f8ab640dbcf4a13faca01a138aa19ce2f26449739deff53c36e8f647d86d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:28:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2221782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3605785:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:28:48Z'
   warnings: []
   errors: []
 ---
@@ -87,46 +95,48 @@ Por portaria de 07 de Outubro de 2010 do Major-General Director de Administraç�
 
 Infantaria
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Artilharia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Cavalaria
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Engenharia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Transmissões
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Administração militar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Material
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Medicina
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Farmácia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Medicina veterinária
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5845858458.pdf)
 
 Estes oficiais contam a antiguidade do novo posto desde 01 de Outubro de 2010, data a partir da qual lhes são devidos os respectivos vencimentos, ficando integrados na primeira posição da estrutura remuneratória do novo posto conforme previsto no n.º 1 do artigo 8.º do Decreto-Lei 296/2009 de 14 de Outubro.
 
 Ficam inscritos na lista geral de antiguidades do seu Quadro Especial nos termos do n.º 2 do artigo 177.º do EMFAR.
 
 DARH, em Porto, 05 de Novembro de 2010. - O Chefe da Repartição Francisco Xavier Ferreira de Sousa COR CAV.
+
+203982839

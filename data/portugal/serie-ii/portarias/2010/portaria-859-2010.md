@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/231000000/5801658016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/859-2010-2403665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:28:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e75e9a15d42c2dc48aeb60587b3d64e07b82d3ac7d513d3904df9d41be128f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a1444343ec54aae8e877c989383d6f72fe798a27fa672a86ca23d664cf1beac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:28:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:28:19Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Manda o Almirante Chefe do Estado-Maior da Armada, ao abrigo das disposições c
 (no quadro), que satisfaz as condições gerais de promoção previstas no artigo 56.º e as condições especiais a que se referem as alíneas do n.º 1 do artigo 227.º do EMFAR, com excepção da prevista na alínea d), a contar de 01 de Outubro de 2010, data a partir da qual lhe são devidos os vencimentos correspondentes à 1.ª posição remuneratória do posto de graduação, nos termos do n.º 2 do artigo 68.º e do n.º 2 do artigo 69.º do mencionado estatuto.
 
 Ministério da Defesa Nacional - Marinha, 12-11-2010. - O Almirante Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, almirante.
+
+203967692

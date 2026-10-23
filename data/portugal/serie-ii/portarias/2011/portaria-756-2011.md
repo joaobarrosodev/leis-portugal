@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/200000000/4131041310.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/756-2011-1459228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T17:32:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e65a32590be81d83ef3f79012ef70a635742eb831186b6a961ca00af20978d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee097b14a73a7dc0c93abed5f50ce2b3ab6170576019b5215599af3f2ebe25ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:32:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1125043:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:32:42Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por Portaria de 03 de Outubro de 2011 de SExa o Ajudante General do Exército, no uso da delegação de competências conferida pelo [Despacho n.º 2202/2011](https://diariodarepublica.pt/dr/detalhe/despacho/2202-2011-1125043) de 19 Jan 11 de S. Ex.ª o GEN CEME, inserto no DR n.º 21 - 2.ª série - de 31 Jan 11, foi abatido aos Quadros Permanentes o CAP TM (Eng) NIM 07509196 Paulo Miguel Ramires dos Santos, da EPT, nos termos da alínea d) do n.º 1 do artigo 170.º do EMFAR, a partir de 01 de Outubro de 2011, por o ter requerido.
 
 10 de Outubro de 2011. - O Chefe da Repartição, Francisco Xavier Ferreira de Sousa, COR CAV.
+
+205229858

@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-2012-1402739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 683da841ef3674c56f04e7ce2ee86993fb18c383d3edeb0a5a1f166f5bd257ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2fb0210f4d4d5796150d069ae2d9d16dfcf51259576174a668aeef22628df9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe do Estado Maior General das Forças Armadas
+- Governo XIX
+- Ministro da Defesa Nacional
+- Missão de PAZ
+- Missão Humanitária
+relationships:
+- type: cites
+  target: pt:dre:184957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656130:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:56Z'
   warnings: []
   errors: []
 ---
@@ -109,3 +126,5 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 4 - De acordo com o n.º 5 da [Portaria n.º 87/99](https://diariodarepublica.pt/dr/detalhe/portaria/87-1999-184957), de 28 de janeiro (2.ª série), os militares que integram a guarnição do navio, quando empenhados na «Operação Atalanta», desempenham missões em zonas que se configuram na classe C.
 
 25 de janeiro de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+205700167

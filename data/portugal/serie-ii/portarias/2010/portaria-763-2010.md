@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/211000000/5399553996.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/763-2010-3282912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T17:27:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f8ab7d071dcb58b8a674a6c7a37ff128fe3bc93e6a8f6ef22eb66f4eab43206
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b18b050d5cd043e9b0fcbb7ed6bf2a9a0d063b0b02fa449608cd9db845ddf98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:27:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:27:45Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Manda o Chefe do Estado-Maior do Exército que o COR ADMIL NIM 00186677, Rui Cas
 Nos termos da alínea b) do n.º 1 do Artigo 159.º do EMFAR, conjugado com o Dec Lei n.º 166/05 de 23Set., devendo ser considerado nesta situação desde 13 de Maio de 2010.
 
 18 de Outubro de 2010. - Por delegação do Director de Administração dos Recursos Humanos, após delegação do Comandante do Pessoal do Exército, após delegação do Chefe do Estado-Maior do Exército, o Chefe da Repartição de Reserva Reforma e Disponibilidade, Jorge Ferreira de Brito, COR INF.
+
+203852922

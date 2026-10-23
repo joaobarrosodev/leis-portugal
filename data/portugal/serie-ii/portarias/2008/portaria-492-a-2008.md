@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 89/2008, 1º Suplemento, Série II de 2008-05-08
   number: '89'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 20844-(2) a 20844-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2008/05/089000001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-a-2008-1415732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T17:13:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 247d7f787c577d226c70cd7517305267c10cabe6ba4d2237d7d32e21664d78da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a612414835f39c891e2ed159eeb16f95695b9b7c8cc11a7784247b924c79e8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:13:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Fiscal
+- Benefícios Fiscais
+- Contribuições e Impostos
+- Direcção Geral dos Impostos
+- Impresso
+- Planeamento
+relationships:
+- type: cites
+  target: pt:dre:247717:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3694581:por
+  label: "Declarada nula e sem efeito pela RECT.1087-A/2008.14.05.2008.SG-MFAP, DR.IIS [93-Supl] de 14.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1087-a-2008-3694581
+  date: '2008-05-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:13:56Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +115,4 @@ Manda o Governo, pelo Ministro de Estado e das Finanças, nos termos do artigo 2
 
 30 de Abril de 2008. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/05/089000001/0000200002.pdf))](https://files.diariodarepublica.pt/2s/2008/05/089000001/0000200002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/05/089000001/0000200002.pdf)

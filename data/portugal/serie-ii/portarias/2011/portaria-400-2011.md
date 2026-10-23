@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/400-2011-2046728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T17:30:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff719810eb839051d2e14163282f3bc6b944f597b90106c0b0c50d0d0cc98230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d5499f8c59cb499aa619f4b4d18211b90aab4338053da618c2b0b5eeb140a08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:30:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armazenagem
+- Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos
+- Petróleo
+- Reservas de Combustível
+relationships:
+- type: cites
+  target: pt:dre:344926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421437:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:30:45Z'
   warnings: []
   errors: []
 ---
@@ -96,3 +108,5 @@ Assim, manda o Governo, pelo Secretário de Estado da Energia e da Inovação, a
 A autorização a que respeita o parágrafo anterior é concedida pelo prazo de 12 meses.
 
 23 de Fevereiro de 2011. - O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho.
+
+204393354

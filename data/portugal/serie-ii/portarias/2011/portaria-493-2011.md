@@ -46,26 +46,36 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-2011-1413174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T17:31:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7434b8e5e5e2c68f0d04ffcf386ce6fc1aed43a877945da6f72e0bec16a7bced
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02bf0f471b061b93859564483df9d33ef0d29cd95ed27333ea4cb79b94a720f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:31:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Águas Balneares
+- Praia Fluvial
+- Praia Marítima
+- ZONA Balnear
+- ZONA Fluvial
+- ZONA Marítima
 relationships:
+- type: cites
+  target: pt:dre:494253:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0007
   label: null
@@ -73,13 +83,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:31:16Z'
   warnings: []
   errors: []
 ---
@@ -116,10 +126,12 @@ A presente portaria vigora durante a época balnear estabelecida para cada água
 
 Identificação de águas balneares costeiras e de transição para o ano de 2011
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/072000000/1692416930.pdf))](https://files.diariodarepublica.pt/2s/2011/04/072000000/1692416930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/072000000/1692416930.pdf)
 
 ## ANEXO II — (a que se refere o artigo 3.º)
 
 Identificação de águas balneares interiores para o ano de 2011
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/072000000/1692416930.pdf))](https://files.diariodarepublica.pt/2s/2011/04/072000000/1692416930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/072000000/1692416930.pdf)
+
+204549611

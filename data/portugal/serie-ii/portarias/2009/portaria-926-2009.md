@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/926-2009-2078920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T17:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4fb1f732ab5a510387e8ce7db1c1d6e7c2771f97eefc0edc5970b79ac52d5f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18a61fe73fab624d445c5798789568f090f3f69f6f597609fa11cc3edd41a3d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Água Mineral
+- Recursos Geológicos
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:22:59Z'
   warnings: []
   errors: []
 ---
@@ -100,12 +111,14 @@ Distância à perpendicular (m) - 104 155.
 
 Zona intermédia: delimitada pelo polígono 1-2-3-4, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976639767.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976639767.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976639767.pdf)
 
 Zona alargada: delimitada pelo polígono A-B-C-D, cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976639767.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976639767.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976639767.pdf)
 
 9 de Janeiro de 2008. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976639767.pdf))](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976639767.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/09/190000000/3976639767.pdf)
+
+200414455

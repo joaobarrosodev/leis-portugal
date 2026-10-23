@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/06/107000000/1994719948.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-2012-962859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T17:33:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3a9bb0097e11bfc1ca2d05f13e73caedee0a77730bb25c7a7a8ee8192bd17b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32c90e39fc23084eac99b596d82bbbc5c146a5da1bf3547ae575bae621aaab13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:33:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434415:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:33:57Z'
   warnings: []
   errors: []
 ---
@@ -96,3 +112,5 @@ Fica posicionado na lista geral de antiguidades do seu quadro especial à esquer
 A presente promoção é efetuada ao abrigo da exceção prevista no n.º 4 do artigo 24.º da [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro (Orçamento do Estado para 2011), conjugado com o n.º 1 do artigo 20.º da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro (Orçamento do Estado para 2012), e em conformidade com o despacho de 14 de outubro de 2011, de S. Ex.ª o Secretário de Estado Adjunto e da Defesa Nacional, exarado no Oficio n.º 5640, de 12 de outubro de 2011, da Direção-Geral de Pessoal e Recrutamento Militar.
 
 11 de maio de 2012. - O Chefe do Estado-Maior do Exército, Artur Neves Pina Monteiro, general.
+
+206134992

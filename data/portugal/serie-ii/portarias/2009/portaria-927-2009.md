@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/192000000/4005740057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/927-2009-1533915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T17:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df2adab14de875eb7848c3116247bcca2d19f4d79a23beddfa81b0d41dca61b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c71a7e53d9a7f574c29ee2ee212c1772494981a5b1d902f8c7eb60e50941652
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:22:59Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Manda o Chefe do Estado Maior da Armada, em harmonia com a proposta do Director do Instituto de Socorros a Náufragos, que seja concedida a medalha de ouro de filantropia e dedicação, ao Coronel da Polícia Militar do Estado do Paraná, Brasil, Jorge Luiz Thais Martins, pela sua dedicação à causa da salvaguarda da vida humana no mar e pela forma empenhada como abraçou e impulsionou o desenvolvimento da cooperação entre a DGAM-ISN e a SOBRASA, muito contribuindo para uma maior eficácia e sucesso da actividade de salvamento marítimo, socorro a náufragos e assistência a banhistas em Portugal, prestando um relevante serviço ao Instituto de Socorros a Náufragos, à DGAM e à Marinha.
 
 8 de Setembro de 2009. - O Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, almirante.
+
+202359071

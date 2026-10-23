@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/153000000/3295432954.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-2011-1077716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T17:32:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1d5bf2db5967a94f45a8091ffd1a246b1a2f8ba6cf00687649a3820dafda3e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5269b64327e09e7de3385298abf917957a8b5b53546564881e2d343d2330bd52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:32:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:32:21Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Manda o Chefe do Estado-Maior do Exército que o COR INF NIM 17634176, Cláudio Martins Lopes, transite para a situação de reserva, nos termos da alínea a) do N.º 1 do Artigo 152.º do EMFAR, conjugado com o n.º 2 do Artigo 3.º do Decreto-Lei n.º 166/05 de 23Set., devendo ser considerado nesta situação desde 12 de Junho de 2011.
 
 21 de Julho de 2011. - Por delegação do Comandante do Pessoal do Exército, após delegação do Chefe do Estado-Maior do Exército, o Director de Administração de Recursos Humanos, Henrique Augusto Fernandes de Melo Gomes, major-general.
+
+204990981

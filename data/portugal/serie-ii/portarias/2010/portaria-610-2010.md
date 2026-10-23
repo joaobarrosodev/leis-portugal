@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/155000000/4311743117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/610-2010-1237190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T17:26:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66d91bac2a23ff18c5470e6104e58cb42f821b8b02078cd21ae984376b38573d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c335e672e59a3b6402ac978f5b42590abf9430aa9c34636440e23ea6c9607989
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:26:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:26:47Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Situação de reserva
 nos termos da alínea b) do n.º 1 do Artigo 152.º do EMFAR, conjugado com o n.º 2 do Artigo 3.º do Decreto-Lei n.º 166/05 de 23Set., devendo ser considerado nesta situação desde 30 de Abril de 2010.
 
 27 de Julho de 2010. - Por delegação do Chefe do Estado-Maior do Exército, o Comandante do Pessoal do Exército, Eduardo Manuel de Lima Pinto, Tenente-General.
+
+203571544

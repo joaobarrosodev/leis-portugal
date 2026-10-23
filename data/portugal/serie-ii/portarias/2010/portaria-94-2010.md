@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-2010-2013993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T17:28:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 751aa7ae3d577592e132ec4a570f59a06a428bb37284c5467dda6d4cc8a642a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc35d69e943906376409317dcb96e341bd9f03fc738b423e9681eec4a92351d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:28:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Afeganistão
+- Chefe do Estado Maior General das Forças Armadas
+- Deslocação em Serviço
+- Exército
+- Força Aérea
+- Forças Armadas
+- Militar
+- Missão Militar
+- Missão no Estrangeiro
+- NATO
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656130:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:28:46Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +118,5 @@ Ao abrigo do disposto no n.º 1 do artigo 12.º e da alínea n) do n.º 3 do art
 2 - A missão tenha uma duração de seis meses, prorrogáveis por iguais períodos, com efeitos a partir de Janeiro de 2010.
 
 22 de Janeiro de 2010. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.
+
+202844107

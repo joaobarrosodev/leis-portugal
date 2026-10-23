@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/602-2008-3290483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:14:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e010b8cbea39001d359bbee969856868fd5f520a16c1ec581a64686c9e4481e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aad3793324e579d92f1c92d4a36185404123a7633d89ada09a865457d7879af1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:14:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Ifadap
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
-  article_count: 0
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:14:32Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +102,7 @@ Considerando que, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/
 
 Manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas o seguinte:
 
-Artigo Primeiro
+###### Artigo Primeiro
 
 Fica o Instituto de Financiamento da Agricultura e Pescas, I. P., autorizado à repartição de encargos relativos ao contrato a celebrar com a(s) entidade(s) a quem vier a adjudicar o concurso aberto para aquisição de serviços de recepção e controlo administrativo de candidaturas aos apoios comunitários, documentos de identificação de beneficiários e recolha de certificados de entrega do tomate, bem como de inserção no sistema informático das candidaturas recebidas em papel para a campanha 2008-2009, nos seguintes termos:
 
@@ -103,11 +110,11 @@ Fica o Instituto de Financiamento da Agricultura e Pescas, I. P., autorizado à 
 
 2009 - (euro) 100 000.
 
-Artigo Segundo
+###### Artigo Segundo
 
 Aos referidos montantes acrescerá IVA à taxa legal que vigorar.
 
-Artigo Terceiro
+###### Artigo Terceiro
 
 Fica ainda o IFAP autorizado, se tal se mostrar necessário, a transferir os eventuais saldos para os anos seguintes.
 

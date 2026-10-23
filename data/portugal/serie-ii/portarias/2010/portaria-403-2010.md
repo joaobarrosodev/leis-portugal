@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/403-2010-3339211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T17:25:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 521c7aa44f5a0ca9b3293525877942e8392dc889e731136714a1e44080bf4102
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d0b80713636a4c5b7fee1156c31777a5273d422d19995a47f5335a8e985724a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:25:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Imóvel Classificado
+- Lisboa
+- Património Arquitectónico
+- Servidão Administrativa
+relationships:
+- type: cites
+  target: pt:dre:232774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:25:50Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +114,5 @@ Ao abrigo do disposto nos artigos 28.º e 30.º da [Lei n.º 107/2001](https://d
 É desclassificado o edifício sito na Calçada das Necessidades, 6 a 6-A, freguesia dos Prazeres, concelho e distrito de Lisboa, que havia sido classificado como imóvel de interesse público (IIP) pelo [Decreto n.º 2/96](https://diariodarepublica.pt/dr/detalhe/decreto/2-1996-621157), de 6 de Março, mantendo-se em vigor as servidões administrativas decorrentes de se encontrar abrangido pela zona especial de protecção fixada pela [Portaria n.º 552/96](https://diariodarepublica.pt/dr/detalhe/portaria/552-1996-232774), publicada no Diário da República, 1.ª série-B, n.º 232, de 7 de Outubro de 1996.
 
 2 de Junho de 2010. - Pela Ministra da Cultura, Elísio Costa Santos Summavielle, Secretário de Estado da Cultura.
+
+203352414

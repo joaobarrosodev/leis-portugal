@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/727-2008-3187549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T17:15:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fa29fa3f3f716d391145315a1ceb8bf1e779df77163ed9664d0feed3ed1a1cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a859dd6c91e8d01a79240d1abf1923ba089e4742e9c2fb1049e2448762ef70a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:15:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia de Seguros
+- Cooperativa de Habitação
+- Direcção Geral dos Impostos
+- Habitação
+- Impresso
+- Instituição de Crédito
+- Internet
+- IRS
+- Plano Poupança-reforma
+- Prémio de Seguro
 relationships:
 - type: amended_by
   target: pt:dre:577694:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:992343:por
+  label: "Revogadas as instruções de preenchimento da declaração modelo nº 37 pela PORT.392/2009.13.03.2009.MFAP, DR.IIS [51]\
+    \ de 13.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/392-2009-992343
+  date: '2009-03-13'
+- type: repealed_by
+  target: pt:dre:577694:por
+  label: "Revogada a partir de 01.01.2012, pela PORT.311-C/2011.27.12.2011.MF, DR.IS [247-Supl] de 27.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-c-2011-577694
+  date: '2011-12-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:15:15Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +131,7 @@ c) Efectuar o envio de acordo com os procedimentos indicados na mesma página.
 
 24 de Julho de 2008. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/154000000/3549435495.pdf))](https://files.diariodarepublica.pt/2s/2008/08/154000000/3549435495.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/154000000/3549435495.pdf)
 
 Declaração Modelo 37
 
@@ -154,7 +179,7 @@ Coluna 08 - Identificação das Operações (código)
 
 Devem identificar-se os encargos suportados e as entregas efectuadas, através da indicação do respectivo código.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/154000000/3549435495.pdf))](https://files.diariodarepublica.pt/2s/2008/08/154000000/3549435495.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/154000000/3549435495.pdf)
 
 Coluna 09 - Número da apólice
 
@@ -174,7 +199,7 @@ Deve ser indicado o número de identificação fiscal do sujeito passivo, que co
 
 Coluna 12 - Identificação das Operações (código)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/08/154000000/3549435495.pdf))](https://files.diariodarepublica.pt/2s/2008/08/154000000/3549435495.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/154000000/3549435495.pdf)
 
 Coluna 13 - Número da apólice
 

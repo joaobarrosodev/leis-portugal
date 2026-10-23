@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/689-2008-2534163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T17:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4fa2da9acf4fb03eb4e57e118d4564dbfda69d3d4cb4ae6238b920fe4bfb5ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7385e0ffff69555813e42d5f2cc08f4ed635885995b3501e0e59c3440981091
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Águas Subterrâneas
+- Proteção do Ambiente
+- Recursos Hídricos
+- Setúbal
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:279441:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279441:por
+  label: "Substituídos os quadros relativos às captações designadas por JK14, do pólo de captação de Pinhal de Negreiros,\
+    \ JK9, do pólo de capatação de Poço de Mouro, constantes do anexo ii, e os quadros relativos à captação designada por\
+    \ PS2, do pólo de captação de Pinhal das Espanholas, constantes do anexo iv, pela PORT.97/2011.09.03.2011.MAOT, DR.IS\
+    \ [48] de 09.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2011-279441
+  date: '2011-03-09'
+- type: amended_by
+  target: pt:dre:70208835:por
+  label: Aprovada, a partir de 09.09.2015, a delimitação dos perímetros de proteção das captações designadas por CBR5 e CBR6
+    do polo de captação de Pinhal de Negreiros e da zona de proteção alargada das captações JK4, JK14, JK15 e PS1, que constam
+    do anexo I da presente portaria, e revogada a zona de proteção alargada das captações JK4, JK14, JK15 e PS1 do polo de
+    captação de Pinhal de Negreiros constante do anexo V, do presente diploma, pelo(a) Portaria n.º 670/2015 - Diário da República
+    n.º 175/2015, Série II de 2015-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/670-2015-70208835
+  date: '2015-09-08'
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:15:02Z'
   warnings: []
   errors: []
 ---
@@ -210,97 +241,97 @@ viii) Nos depósitos de sucata existentes deve ser assegurada a impermeabilizaç
 
 ## ANEXO I — Coordenadas das captações
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 ## ANEXO II — Zona de protecção imediata
 
 Pólo de captação de Pinhal de Negreiros Captação JK4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK14
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK15
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação da Quinta do Peru
 
 Captação JK12 e JK13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Poço Mouro
 
 Captação JK5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Santas
 
 Captação AC1 e AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Faralhão
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Algeruz
 
 Captação AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK10
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação PS3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Pinhal das Espanholas
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação PS2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação PS3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 ## ANEXO III — Planta de localização das zonas de protecção
 
@@ -310,31 +341,31 @@ Série M888 - 1/25 000 (IGeoE)
 
 Pólo de captação de Pinhal de Negreiros
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Quinta do Peru
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Poço Mouro
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Santas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Faralhão
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Algeruz
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Pinhal das Espanholas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 ## ANEXO IV — Zona de protecção intermédia
 
@@ -342,91 +373,91 @@ Pólo de captação de Pinhal de Negreiros
 
 Captação JK4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK14
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK15
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação da Quinta do Peru
 
 Captação JK12 e JK13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Poço Mouro
 
 Captação JK5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Santas
 
 Captação AC1 e AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Faralhão
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Algeruz
 
 Captação AC1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação JK10
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação PS3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Pinhal das Espanholas
 
 Captação PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação PS2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Captação PS3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 ## ANEXO V — Zona de protecção alargada
 
@@ -434,42 +465,42 @@ Pólo de captação de Pinhal de Negreiros
 
 Captação JK4, JK5, JK15 e PS1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação da Quinta do Peru
 
 Captação JK12 e JK13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Poço Mouro
 
 Captação JK5, JK6 e JK9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Santas
 
 Captação AC1 e AC2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Faralhão
 
 Captação JK1 e JK11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Algeruz
 
 Captação AC1, JK1, JK2, JK10 e PS3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Pólo de captação de Pinhal das Espanholas
 
 Captação PS1, PS2 e PS3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf))](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)
 
 Nota: As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas rectangulares planas, Hayford-Gauss Militar, datum de Lisboa.

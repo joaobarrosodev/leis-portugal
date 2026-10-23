@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/07/147000000/3063530635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/686-2009-1433059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T17:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e4b7dccdfcb9568605e8cbb423bd8d28a0adb5e687e5e8b56014064569c393c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cfe1763d34c3fe1b75a7dbe348e63b46210f9305f950adc40b0272c9deaa6a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:21:29Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Manda S. Ex.a. o Chefe de Estado-Maior do Exército promover ao Posto de Tenente
 ALF RC NIM 19972494 - Pedro António Alfaiate de Vigueira Lourenço - UnAp/EME.
 
 29 de Abril de 2009. - Por delegação do General Chefe do Estado-Maior do Exército, por subdelegação do Major-General DARH, após subdelegação do Tenente-General AGE, o Chefe da Repartição, Óscar Humberto Almeida Megre Barbosa, COR INF.
+
+202110254
