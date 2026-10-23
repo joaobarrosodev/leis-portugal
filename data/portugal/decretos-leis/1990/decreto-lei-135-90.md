@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09500/19321933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1990-332258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3afbe289a13245b2a4383fe3ff646e8b4e0a29102a7c25c6653f912ef83cab4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d59d18d51e26d0cdb8602115cf45ef25d95d6dbdd1741b1dd2804393d83f06e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Benefícios Fiscais
+- CE Países
+- Circulação de Mercadorias
+- Contribuições e Impostos
+- Definição de Competências
+- Direcção Geral das Alfândegas
+- Importação
+- Isenção Fiscal
+- IVA
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:274031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621714:por
+  label: "Alterado o art. 6º e revogados os arts. 3º e 4º, nº 2 e as als. b) e c) do nº 3 do art. 7º, pelo DEC LEI.290/92.1992.12.28.MF,\
+    \ DR.IS-S [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1992-621714
+  date: '1992-12-28'
+- type: repealed_by
+  target: pt:dre:274031:por
+  label: "Revogado pelo DEC LEI.82/94.1994.03.14.MF, DR.IS-A [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1994-274031
+  date: '1994-03-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:34Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +117,11 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea b) do artigo 2.º da Lei n.º 96/89, de 12 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [85/362/CEE](https://data.europa.eu/eli/dir/1985/362/oj?locale=pt), do Conselho, de 16 de Julho de 1985, estabelecendo o regime de importação temporária com isenção do imposto sobre o valor acrescentado, aplicável à importação de bens destinados a permanecer temporariamente no território nacional, com vista à sua posterior reexportação.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [85/362/CEE](https://data.europa.eu/eli/dir/1985/362/oj?locale=pt), do Conselho, de 16 de Julho de 1985, estabelecendo o regime de importação temporária com isenção do imposto sobre o valor acrescentado, aplicável à importação de bens destinados a permanecer temporariamente no território nacional, com vista à sua posterior reexportação.
 
-###### Art. 2.º Ficam excluídos do âmbito de aplicação do regime de isenção previsto no presente diploma os meios de transporte, os estrados e os contentores.
+Art. 2.º Ficam excluídos do âmbito de aplicação do regime de isenção previsto no presente diploma os meios de transporte, os estrados e os contentores.
 
-###### Art. 3.º Beneficiam da isenção os bens importados em proveniência de um Estado membro das Comunidades Europeias desde que preencham cumulativamente as seguintes condições:
+Art. 3.º Beneficiam da isenção os bens importados em proveniência de um Estado membro das Comunidades Europeias desde que preencham cumulativamente as seguintes condições:
 
 a) Sejam destinados a ser reexportados, sem terem sofrido qualquer transformação;
 
@@ -111,15 +133,15 @@ d) Pertençam a uma pessoa singular ou colectiva estabelecida fora do territóri
 
 e) Não sejam bens consumíveis.
 
-###### Art. 4.º - 1 - Os bens importados temporariamente em proveniência de um Estado membro que não preencham as condições de isenção previstas no artigo anterior beneficiam da isenção nos casos em que a importação seria isenta nos termos do artigo 5.º se tivesse sido efectuada em proveniência de um Estado terceiro.
+Art. 4.º - 1 - Os bens importados temporariamente em proveniência de um Estado membro que não preencham as condições de isenção previstas no artigo anterior beneficiam da isenção nos casos em que a importação seria isenta nos termos do artigo 5.º se tivesse sido efectuada em proveniência de um Estado terceiro.
 
 2 - A isenção não é aplicável nos casos em que, embora os bens estejam em livre prática, não tenham sido adquiridos de acordo com as regras de aplicação do imposto sobre o valor acrescentado do Estado membro de exportação ou tenham beneficiado de uma isenção do imposto devido à sua exportação e o importador não seja um sujeito passivo de entre os referidos na alínea a) do n.º 1 do artigo 2.º do Código do Imposto sobre o Valor Acrescentado ou seja um sujeito passivo que não beneficie do direito à dedução total.
 
-###### Art. 5.º - 1 - Beneficiam da isenção os bens importadas em proveniência de um Estado terceiro constantes do título II do Regulamento n.º [3599/82](https://data.europa.eu/eli/reg/1982/3599/oj?locale=pt), do Conselho das Comunidades Europeias, de 21 de Dezembro, desde que verificadas as condições ali previstas.
+Art. 5.º - 1 - Beneficiam da isenção os bens importadas em proveniência de um Estado terceiro constantes do título II do Regulamento n.º [3599/82](https://data.europa.eu/eli/reg/1982/3599/oj?locale=pt), do Conselho das Comunidades Europeias, de 21 de Dezembro, desde que verificadas as condições ali previstas.
 
 2 - A isenção é ainda aplicável aos bens importados temporariamente de Estados terceiros para fins não comerciais e a título ocasional, por um período máximo de seis meses, quando o importador não for um sujeito passivo de entre os referidos na alínea a) do n.º 1 do artigo 2.º do Código do Imposto sobre o Valor Acrescentado ou for um sujeito passivo que não beneficia do direito à dedução total.
 
-###### Art. 6.º - 1 - Beneficiam da isenção seja qual for a sua origem, por um período máximo de seis meses:
+Art. 6.º - 1 - Beneficiam da isenção seja qual for a sua origem, por um período máximo de seis meses:
 
 a) Bens em segunda mão importados com vista a uma venda em leilão;
 
@@ -141,7 +163,7 @@ V) Obras originais de cerâmica e de mosaico de madeira.
 
 3 - Se os bens referidos no presente artigo deixarem de beneficiar da isenção o valor tributável será o preço pago pelo primeiro comprador dos bens em território nacional.
 
-###### Art. 7.º - 1 - Para a concessão da isenção pode ser exigida a constituição de uma garantia nos termos previstos no artigo 95.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965.
+Art. 7.º - 1 - Para a concessão da isenção pode ser exigida a constituição de uma garantia nos termos previstos no artigo 95.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965.
 
 2 - Não é exigida qualquer garantia quando aos bens objecto de importação temporária se aplicar o procedimento previsto no Regulamento (CEE) n.º [3/84](https://data.europa.eu/eli/reg/1984/3/oj?locale=pt), do Conselho, de 19 de Dezembro de 1983, que instituiu um regime de circulação intracomunitária para bens expedidos de um Estado membro, tendo em vista a sua utilização temporária num ou em vários outros Estados membros.
 
@@ -165,7 +187,7 @@ h) Materiais destinados a serem utilizados na luta contra os efeitos de catástr
 
 i) Equipamento para produção e transmissão de programas de rádio e televisão e os veículos especialmente adaptados para esse efeito, desde que sejam importados por organismos públicos ou privados estabelecidos fora das Comunidades Europeias.
 
-###### Art. 8.º - 1 - A Direcção-Geral das Alfândegas tomará todas as medidas que considere necessárias para assegurar a identificação dos bens importados a submeter ao regime e o controlo da sua utilização.
+Art. 8.º - 1 - A Direcção-Geral das Alfândegas tomará todas as medidas que considere necessárias para assegurar a identificação dos bens importados a submeter ao regime e o controlo da sua utilização.
 
 2 - Pode ser recusada a concessão da isenção nos seguintes casos:
 
@@ -173,15 +195,15 @@ a) Quando se considere impossível proceder à identificação ou controlo de ut
 
 b) Quando o importador não ofereça todas as garantias consideradas necessárias e, nomeadamente, quando anteriormente tenha feito uma utilização irregular da isenção.
 
-###### Art. 9.º - 1 - Sob reserva dos prazos especiais previstos no n.º 2 do artigo 5.º e no artigo 6.º do presente diploma, bem como no Regulamento n.º [3599/82](https://data.europa.eu/eli/reg/1982/3599/oj?locale=pt) do Conselho das Comunidades Europeis, de 21 de Dezembro, o período de permanência dos bens no regime é fixado no momento da concessão do benefício, dentro do limite máximo de dois anos.
+Art. 9.º - 1 - Sob reserva dos prazos especiais previstos no n.º 2 do artigo 5.º e no artigo 6.º do presente diploma, bem como no Regulamento n.º [3599/82](https://data.europa.eu/eli/reg/1982/3599/oj?locale=pt) do Conselho das Comunidades Europeis, de 21 de Dezembro, o período de permanência dos bens no regime é fixado no momento da concessão do benefício, dentro do limite máximo de dois anos.
 
 2 - O período de permanência originariamente fixado pode ser prorrogado, a título excepcional, pelo director-geral das Alfândegas, excepto no que respeita aos bens referidos no n.º 2 do artigo 5.º
 
-###### Art. 10.º É concedida a transferência do benefício da isenção às pessoas singulares ou colectivas abrangidas pelas condições previstas no presente diploma que assumam as obrigações do titular da autorização originária, nomeadamente as que respeitam à fixação dos prazos de permanência dos bens.
+Art. 10.º É concedida a transferência do benefício da isenção às pessoas singulares ou colectivas abrangidas pelas condições previstas no presente diploma que assumam as obrigações do titular da autorização originária, nomeadamente as que respeitam à fixação dos prazos de permanência dos bens.
 
-###### Art. 11.º A transmissão dos bens abrangidos pela isenção é autorizada pelo director-geral das Alfândegas, desde que o comprador seja pessoa estabelecida no estrangeiro e os bens possam continuar a dele beneficiar.
+Art. 11.º A transmissão dos bens abrangidos pela isenção é autorizada pelo director-geral das Alfândegas, desde que o comprador seja pessoa estabelecida no estrangeiro e os bens possam continuar a dele beneficiar.
 
-###### Art. 12.º - 1 - O benefício da isenção termina, sem que haja facto gerador do imposto, se os bens que beneficiam da isenção forem:
+Art. 12.º - 1 - O benefício da isenção termina, sem que haja facto gerador do imposto, se os bens que beneficiam da isenção forem:
 
 a) Exportados;
 
@@ -209,12 +231,12 @@ c) Quando os bens referidos no artigo 5.º forem objecto de uma declaração par
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 5 de Abril de 1990.**
+Promulgado em 5 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1990.**
+Referendado em 11 de Abril de 1990.
 
-**O Primeiro-ministro, Aníbal António Cavaco Silva.**
+O Primeiro-ministro, Aníbal António Cavaco Silva.

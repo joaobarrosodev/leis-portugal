@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21900/42424252.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1989-547635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6892fd2be81a71a0e766868a5ad4874a9706057588aaf5c4028ba67d67c3b62e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53afbba94e95c28c0e5672d48a9abbb6886c5184b284b5ebb828849aa97dbcd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Marinha do Comércio
+- Direcção Geral da Navegação e dos Transportes Marítimos
+- Direcção Geral do Pessoal do MAR e Estudos Náuticos
+- Extinção de Serviços
+- Inspecção Geral de Navios
+- Orgânica
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELO DECRETO LEI 451/91, PUBLICADO NO DR.IS-A, 279, SUPL, DE 911204, RELATIVAMENTE A TUTELA DA DIRECÇÃO\
+    \ GERAL DA NAVEGAÇÃO E DOS TRANSPORTES MARÍTIMOS. REVOGADO PELO DECRETO LEI 154/92, PUBLICADO NO DR.IS-A, 170, DE 920725.\
+    \ EXTINTA A DIRECÇÃO GERAL DA NAVEGAÇÃO E DOS TRANSPORTES MARÍTIMOS, PELO DECRETO LEI 154/92, PUBLICADO NO DR.IS-A, 170,\
+    \ DE 920725. ALTERADO O QUADRO DE PESSOAL, CONSTANTE DO ANEXO I, PELO DESPACHO NORMATIVO 188/93, DE 6 DE JULHO, PUBLICADO\
+    \ NO DR.IS-B, 184, DE 930807. ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DA NAVEGAÇÃO E DOS TRANSPORTES MARÍTIMOS,\
+    \ CONSTANTE DO ANEXO I, PELO DESPACHO NORMATIVO 195/93, DE 2 DE JULHO, PUBLICADO NO DR.IS-B, 185, DE 930809. ALTERADO\
+    \ O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DA NAVEGAÇÃO E DOS TRANSPORTES MARÍTIMOS, CONSTANTE DO ANEXO I, PELO DESPACHO\
+    \ NORMATIVO 196/93, DE 14 DE JULHO, PUBLICADO NO DR.IS-B, 185, DE 930809. ALTERADO O QUADRO DE PESSOAL DA EX-DIRECCAO\
+    \ GERAL DA NAVEGAÇÃO E DOS TRANSPORTES MARÍTIMOS, CONSTANTE DO ANEXO I, PELO DESPACHO NORMATIVO 5/94, DE 6 DE DEZEMBRO,\
+    \ PUBLICADO NO DR.IS-B, 1, DE 940103.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:305260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:555390:por
+  label: "Alterado, no referente ao pessoal técnico-profissional, o quadro de pessoal da Direcção-Geral da Navegação e dos\
+    \ Transportes Marítimos, constante do anexo I, pela PORT.1056/90.16.10.1990.MF, DR.IS [239] de 16.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1056-1990-555390
+  date: '1990-10-16'
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma, relativamente à Tutela da Direcção Geral da Navegação e dos Transportes Marítimos, pelo(a)
+    Decreto-Lei n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:305260:por
+  label: Extinta a Direcção-Geral da Navegação e dos Transportes Marítimos, criada pelo presente diploma, que é revogado,
+    na data de entrada em vigor do diploma que aprovar a orgânica da Direcção-Geral de Portos, Navegação e Transportes Marítimos,
+    conforme o estabelecido na al. a) do n.º 3 do art. 21.º pelo (a) Decreto-Lei n.º 154/92 - Diário da República n.º 170/1992,
+    1º Suplemento, Série I-A de 1992-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1992-305260
+  date: '1992-07-25'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688589:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:192991:por
+  label: Rectificado pela DECL.DD3565.1989.11.29.PCM DR.IS [276]SUPL DE 30/NOV/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-192991
+  date: '1989-11-29'
 article_structure:
   article_count: 35
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:18Z'
   warnings: []
   errors: []
 ---
@@ -643,19 +732,19 @@ O direito de regresso da situação de licença ilimitada de funcionários que f
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1989. - Aníbal António Cavaco Silva Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 8 de Setembro de 1989.**
+Promulgado em 8 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1989.**
+Referendado em 12 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21900/42424252.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21900/42424252.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21900/42424252.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

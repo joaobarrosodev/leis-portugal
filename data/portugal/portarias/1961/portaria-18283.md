@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18283-1961-554981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f7c52a1f9c3a24782b9b49ab54518a9bebb579cda2fa5703084bbcaccbfae8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f4a4e94d9a72f3b51e851b2787c3123a035c627df5a19a142a8dd2bac4318be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678578:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:40Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +99,19 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 4.º — Mocidade Portuguesa
 
-###### Artigo 95.º, n.º 1) «Diversos encargos - Encargos administrativos - Subsídio global, nos termos do artigo 14.º do [Decreto-Lei n.º 39837](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39837-1954-678578)» ... 92500$00
+Artigo 95.º, n.º 1) «Diversos encargos - Encargos administrativos - Subsídio global, nos termos do artigo 14.º do [Decreto-Lei n.º 39837](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39837-1954-678578)» ... 92500$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 229.º, n.º 3) «Deslocações do pessoal - Passagens dentro da província» ... 40000$00
+Artigo 229.º, n.º 3) «Deslocações do pessoal - Passagens dentro da província» ... 40000$00
 
-###### Artigo 230.º «Diversas despesas»:
+Artigo 230.º «Diversas despesas»:
 
 N.º 3) «Passagens, alimentação e vestuário de presos, condenados e degredados» ... 60000$00
 
 N.º 6), alínea b) «Despesas eventuais - Não especificadas - A pagar na província» ... 50000$00
 
-###### Artigo 231.º «Abono de família - Para pagamento do abono de família, nos termos do Estatuto do Funcionalismo Ultramarino e da reforma de vencimentos, aprovados pelos Decretos n.os 40708 e 40709, ambos de 31 de Julho de 1956» ... 100000$00
+Artigo 231.º «Abono de família - Para pagamento do abono de família, nos termos do Estatuto do Funcionalismo Ultramarino e da reforma de vencimentos, aprovados pelos Decretos n.os 40708 e 40709, ambos de 31 de Julho de 1956» ... 100000$00
 
 ... 342500$00
 

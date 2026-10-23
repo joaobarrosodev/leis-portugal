@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/25800/49104911.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1989-549993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cadadfd3db30c0dfe009c7140340fd6a93b14b03e4d506b1b389f1765991bf99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a58ce81c0bba4caf6a185b059e0f12ebddd13ac94ce41ea4a98300cc8b80821a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Livre Prestação de Serviços
+- Mediação de Seguros
+- Profissional de Seguros
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:288062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:288062:por
+  label: "Revogado pelo DEC LEI.388/91.10.10.1991.MF, DR.IS-A [233] de 10.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/388-1991-288062
+  date: '1991-10-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:53Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +112,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma aplica-se à actividade de medição de seguros exercida, em regime de livre prestação de serviços, por pessoas, singulares ou colectivas, estabelecidas num outro Estado membro da Comunidade Económica Europeia, em relação a contratos de seguro celebrados com seguradoras estabelecidas em Portugal.
+Artigo 1.º O presente diploma aplica-se à actividade de medição de seguros exercida, em regime de livre prestação de serviços, por pessoas, singulares ou colectivas, estabelecidas num outro Estado membro da Comunidade Económica Europeia, em relação a contratos de seguro celebrados com seguradoras estabelecidas em Portugal.
 
-###### Art. 2.º O exercício de mediação referido no artigo anterior fica subordinado à obtenção de uma autorização, a conceder, para o efeito, pelo Instituto de Seguros de Portugal (ISP).
+Art. 2.º O exercício de mediação referido no artigo anterior fica subordinado à obtenção de uma autorização, a conceder, para o efeito, pelo Instituto de Seguros de Portugal (ISP).
 
-###### Art. 3.º - 1 - Para a obtenção da autorização referida no artigo anterior devem as pessoas singulares apresentar os seguintes documentos:
+Art. 3.º - 1 - Para a obtenção da autorização referida no artigo anterior devem as pessoas singulares apresentar os seguintes documentos:
 
 a) Prova de honorabilidade, através da apresentação de um certificado de registo criminal ou de um documento equivalente emitido pela autoridade competente do Estado de origem ou de proveniência;
 
@@ -130,16 +140,16 @@ b) Estatutos ou pacto social.
 
 5 - O ISP dispõe de um prazo de 30 dias, contado a partir da data da recepção dos documentos referidos nos números anteriores, para conceder ou negar a autorização solicitada.
 
-###### Art. 4.º O exercício da actividade de mediação de seguros previsto no presente diploma encontra-se subordinado, em tudo o que não o contrarie, às regras específicas estabelecidas para a mediação de seguros em Portugal, nomeadamente no que respeita a comissionamento, bem como a fiscalização e acção disciplinar do ISP.
+Art. 4.º O exercício da actividade de mediação de seguros previsto no presente diploma encontra-se subordinado, em tudo o que não o contrarie, às regras específicas estabelecidas para a mediação de seguros em Portugal, nomeadamente no que respeita a comissionamento, bem como a fiscalização e acção disciplinar do ISP.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Outubro de 1989.**
+Promulgado em 26 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1989.**
+Referendado em 28 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

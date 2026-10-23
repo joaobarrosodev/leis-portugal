@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18260-1961-555663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79ec0ccf53ebc3fb1f9cbc5e151deb185bf973437e2378aad6e1526b4f7860f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 307f7407ed0325f99e1fbec40e9b5ce67b487337077bf2b904d64933f675ba76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:10Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 220.º, n.º 4) «Deslocações do pessoal - Passagens de ou para o exterior»:
+Artigo 220.º, n.º 4) «Deslocações do pessoal - Passagens de ou para o exterior»:
 
 Alínea a), 1.ª «Por motivo de licença graciosa - A pagar na metrópole» ... 100000$00
 
@@ -103,15 +115,15 @@ tomando como contrapartida as disponibilidades existentes na verba do mesmo cap�
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 246.º, n.º 4), alínea a) «Despesas de comunicações fora da província - Transporte de material, fretes e seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 12000$00
+Artigo 246.º, n.º 4), alínea a) «Despesas de comunicações fora da província - Transporte de material, fretes e seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 12000$00
 
-###### Artigo 247.º, n.º 4) «Deslocações do pessoal - Passagens de ou para o exterior»:
+Artigo 247.º, n.º 4) «Deslocações do pessoal - Passagens de ou para o exterior»:
 
 Alínea a), 1.ª «Por motivo de licença graciosa - A pagar na metrópole» ... 140000$00
 
 Alínea b), 1.ª «Por quaisquer outros motivos - A pagar na metrópole» ... 140000$00
 
-###### Artigo 248.º, n.º 8), alínea b), 1.ª «Diversas despesas - Despesas eventuais (artigo 1.º e 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na metrópole» ... 20000$00
+Artigo 248.º, n.º 8), alínea b), 1.ª «Diversas despesas - Despesas eventuais (artigo 1.º e 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na metrópole» ... 20000$00
 
 ... 312000$00
 
@@ -119,13 +131,13 @@ tomando como contrapartida as verbas que se discriminam da referida tabela de de
 
 ### CAPÍTULO 7.º — Serviços dos correios, telégrafos e telefones
 
-###### Artigo 205.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 12000$00
+Artigo 205.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 12000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 242.º, n.º 6), alínea a) «Quota-parte da província em encargos na metrópole - Junta de Investigações do Ultramar - Missão Geográfica» ... 280000$00
+Artigo 242.º, n.º 6), alínea a) «Quota-parte da província em encargos na metrópole - Junta de Investigações do Ultramar - Missão Geográfica» ... 280000$00
 
-###### Artigo 248.º, n.º 8), alínea b), 2.ª «Diversas despesas - Despesas eventuais (artigo 1.º e 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na província» ... 20000$00
+Artigo 248.º, n.º 8), alínea b), 2.ª «Diversas despesas - Despesas eventuais (artigo 1.º e 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na província» ... 20000$00
 
 ... 312000$00
 

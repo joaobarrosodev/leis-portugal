@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 69/1990, 1º Suplemento, Série I de 1990-03-23
   number: '69'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1456-(2) a 1456-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06901/00020006.pdf
 entry_into_force_dates: []
@@ -46,40 +46,149 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-a-1990-147594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17ff2ce5c471bd6ca251c23bbf15a1ea7788915a661377bb5f8b1032a5720a85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 466c3d091e43bf68c8cbf87d6ba0a532bee83e4ccfea3166bcd0fad46429cd06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alteração Orçamental
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Comissariado de Portugal para a Exposição Universal de Sevilha de 1992
+- Conservação de Estradas
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Direcção Geral de Apoio Médico
+- Direcção Geral do Tesouro
+- Dotação Orçamental
+- Empresa Pública
+- Estabelecimento de Ensino
+- Execução do Orçamento
+- FEDER
+- Fundo Permanente
+- Fundos Autónomos
+- Gestão Financeira
+- Gestão Orçamental
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Ministério da Defesa Nacional
+- Ministério da Justiça
+- Ministério das Obras Públicas Transportes e Comunicações
+- Ministro da Educação
+- Ministro das Finanças
+- Ministro do Planeamento e da Administração do Território
+- Ministro dos Negócios Estrangeiros
+- Orçamento Geral do Estado
+- Piddac
+- Remuneração
+- Serviço Nacional de Saúde
+- Serviços de Registo e Notariado
+- Subsídio
+- Tribunal de Contas
+- Visto do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:272009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:272009:por
+  label: "Prorrogadas até 21.03.1991 e 30.03.1991, respectivamente, as datas fixadas nas al.s b) e c) do nº 3 do art. 11º\
+    \ pelo DEC LEI.72-A/91.08.02.1991.MF, DR.IS-A [33-Supl] de 08.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-1991-272009
+  date: '1991-02-08'
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660512:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:54Z'
   warnings: []
   errors: []
 ---
@@ -306,12 +415,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eugénio Manuel dos Santos Ramos - Manuel Joaquim Dias Loureiro - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Manuel Pereira - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos - Fernando Nunes Ferreira Real.
 
-**Promulgado em 23 de Março de 1990.**
+Promulgado em 23 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Março de 1990.**
+Referendado em 23 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

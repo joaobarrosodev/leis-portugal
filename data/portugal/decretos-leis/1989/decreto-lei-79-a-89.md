@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 60/1989, 1º Suplemento, Série I de 1989-03-13
   number: '60'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1090-(2) a 1090-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/06001/00020010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41a40f1ad6906d6c34e40fd9ee82981f5bf8033a59bd9d0a1ad84a1f23cd1ac4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e9efaba83ab7738c7f3bad806adbb160fda5d16195ca30ce620f1401fb7eb33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Caixa de Abono de Família dos Empregados Bancários
+- Caixa de Previdência
+- Centro de Emprego
+- Centro Regional de Segurança Social
+- Contra-ordenação
+- Definição de Competências
+- Desemprego
+- Madeira.região Autónoma
+- Multa
+- Prestações da Segurança Social
+- Proteção no Desemprego
+- Proteção Social
+- Radio Marconi
+- Regime Geral da Segurança Social
+- Regime Jurídico
+- Segurança Social
+- Subsídio de Desemprego
+- Subsídio Social de Desemprego
 relationships:
 - type: amended_by
   target: pt:dre:544611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541979:por
+  label: "Alterados os artigos 3.º, 5.º, 10.º, 13.º, 16.º, 17.º, 20.º, 25.º, 26.º, 29.º, 30.º, 32.º, 36.º, 37.º, 41.º, 42.º,\
+    \ 44.º, 45.º, 47.º, 50.º, 51.º, 52.º, 54.º, 55.º, 56.º e aditados os artigos 25.º-A, 26.º-A, 28.º-A, 41.º-A e 54.º-A,\
+    \ pelo DEC LEI.418/93.24.12.1993.MESS, DR.IS-A [299] de 24.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/418-1993-541979
+  date: '1993-12-24'
+- type: amended_by
+  target: pt:dre:456868:por
+  label: "Alterado o art. 24.º, bem como o art. 25.º com a redacção que lhe foi dada pelo art. 1.º do 418/93 de 24-Dez DR.IS-A\
+    \ [299], pelo DEC LEI.57/96.1996.05.22.MSSS DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-1996-456868
+  date: '1996-05-22'
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660561:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670553:por
+  label: "Rectificado, no referente ao art. 13º e á al. a) do art. 48º, pela DECL.DD3947.1989.05.24.PCM DR.IS [124] 31.05.1989\0\
+    9"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670553
+  date: '1989-05-24'
+- type: repealed_by
+  target: pt:dre:544611:por
+  label: "Revogado pelo DEC LEI.119/99.1999.04.14.MTS, DR.IS-A [87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1999-544611
+  date: '1999-04-14'
 article_structure:
   article_count: 64
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:14Z'
   warnings: []
   errors: []
 ---
@@ -622,12 +697,12 @@ O presente diploma entra em vigor em todo o território nacional no dia da entra
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
 
-**Promulgado em 18 de Fevereiro de 1989.**
+Promulgado em 18 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1989.**
+Referendado em 18 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

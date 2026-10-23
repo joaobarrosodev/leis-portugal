@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04400/07490753.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1989-612417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 238a16a27b29947009cdbca2eccb5800b7b620e6182ff4d5855d019eb5be0ea1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa2f587c321617c8b18a98ef20b43d0ab5c4b0ff64286fa15ccdd2c6608bc7b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Café
+- Comércio
+- Contra-ordenação
+- Controlo de Qualidade
+- Definição de Competências
+- Embalagem
+- Especificação Técnica
+- Etiquetagem
+- Instituto Português da Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:496707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:381294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674809:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348498:por
+  label: Rectificado [no referente aos arts. 4º, 5º e 7º] pela DECL.DD1261.1989.03.22.PCM, DR.IS [75]Supl de 31.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348498
+  date: '1989-03-23'
+- type: repealed_by
+  target: pt:dre:164208:por
+  label: "Revogada a al b) do art. 2º, as als f), g), h), l), m) e n) do art. 4º e os arts. 3º, 7º e 8º, no que respeita aos\
+    \ extractos de café e extractos de chicória, pelo DEC LEI.124/2001.2001.04.17.MADRP,DR.IS-A [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2001-164208
+  date: '2001-04-17'
+- type: repealed_by
+  target: pt:dre:496707:por
+  label: "Revogado pelo DEC LEI.78/2013.11.06.2013.MAMAOT, DR.IS [111] de 11.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2013-496707
+  date: '2013-06-11'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:39Z'
   warnings: []
   errors: []
 ---
@@ -336,12 +393,12 @@ O presente diploma entra em vigor seis meses após a data da sua publicação, c
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 9 de Fevereiro de 1989.**
+Promulgado em 9 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1989.**
+Referendado em 9 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

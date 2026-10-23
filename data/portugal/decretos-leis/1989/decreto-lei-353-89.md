@@ -46,40 +46,163 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02d49fafae7a2616d0f99b12102633bb9c81971d08cbf4230803c15d91649383
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb4010396561c70687ca8146b0ab55dc5f4c6b585f1d3112736af9d0c7762412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Inspeção Geral de Finanças
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:438072:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 154/91 DE 21-FEV DR.IS-B [43]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-02-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 266/91 DE 04-ABR DR.IS-B [78]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 992/91 DE 30-SET DR.IS-B [255]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-09-30'
+- type: amended_by
+  target: pt:dre:216493:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 360/92 DE 24-ABR DR.IS-B [96]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/360-1992-216493
+  date: '1992-04-24'
+- type: amended_by
+  target: pt:dre:624267:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA ANEXO AO PRESENTE DIPLOMA PELA PORT 1173/92 DE 22-DEZ DR.IS-B [294]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1173-1992-624267
+  date: '1992-12-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA INSPECÇÃO GERAL DE FINANÇAS, PELO DEC LEI 324/93 DE 25-SET DR.IS-A [226]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-09-25'
+- type: amended_by
+  target: pt:dre:653126:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma, pelo DEC LEI.324/93.25.09.1993.MF, DR.IS-A\
+    \ [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1993-653126
+  date: '1993-09-25'
+- type: amended_by
+  target: pt:dre:653128:por
+  label: "Alterado o artigo 8.º, eliminadas as referências ao Núcleo de Fiscalização de Tabacos (NUFT), às delegações nas\
+    \ fábricas de tabaco e aos chefes de delegação constantes do n.º 1 do artigo 20.º, da alínea b) do n.º 1 do artigo 23.º,\
+    \ do n.º 4 do artigo 25.º, da alínea f) do artigo 29.º, do n.º 1 do artigo 34.º e revogada a alínea d) do n.º 1 do artigo\
+    \ 3.º, o n.º 3 do artigo 6.º, o artigo 9.º, o n.º 3 do artigo 23.º, o artigo 32.º e o n.º 2 do artigo 36.º, pelo DEC LEI.325/93.25.09.1993.MF,\
+    \ DR.IS-A [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-1993-653128
+  date: '1993-09-25'
+- type: amended_by
+  target: pt:dre:618564:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 716/94 DE 28-JUL DR.IS-B [238] DE 14/OUT/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/716-1994-618564
+  date: '1994-10-14'
+- type: amended_by
+  target: pt:dre:463652:por
+  label: Alterados os arts. 29.° e 42.° pelo(a) Decreto-Lei n.º 162/95 - Diário da República n.º 154/1995, Série I-A de 1995-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-1995-463652
+  date: '1995-07-06'
+- type: amended_by
+  target: pt:dre:468801:por
+  label: "Aditado o artº 35º-A pelo Dec Lei.82/97.1997.04.09.MF DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1997-468801
+  date: '1997-04-09'
+- type: cites
+  target: pt:dre:147386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662500:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:505240:por
+  label: Rectificado pela DECL.DD3526.1989.10.31.PCM, DR.IS [251]2ºSupl de 31/Out/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505240
+  date: '1989-10-31'
+- type: repealed_by
+  target: pt:dre:438072:por
+  label: "Revogado, com excepção do n.º 2 do art. 35.º e do art. 35.º-A, esta introduzido pelo Dec Lei 82/97 de 09-Abr, pelo\
+    \ DEC LEI.249/98.1998.08.11.MF DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-1998-438072
+  date: '1998-08-11'
 article_structure:
   article_count: 54
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:13Z'
   warnings: []
   errors: []
 ---
@@ -692,18 +815,18 @@ b) O [Decreto-Lei n.º 94/87](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Setembro de 1989.**
+Promulgado em 26 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1989.**
+Referendado em 2 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro do pessoal
 
 Mapa a que se refere o n.º 1 do artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23800/45164528.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23800/45164528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23800/45164528.pdf)

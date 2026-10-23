@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 268/1989, 1º Suplemento, Série I de 1989-11-21
   number: '268'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5112-(2) a 5112-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1989-658882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae78883363d34386298b5aa9ff28da967e8384d53ccd3c0dec3f0de8951eb58d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cb07b8e8da33a791c3fc3984e75e9dcadaab86a6c996d6806a650123677b825
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contabilidade
+- Plano Oficial de Contabilidade
 relationships:
 - type: amended_by
   target: pt:dre:492428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:649958:por
+  label: "Introduzidos os caps. 13 e 14 e alterados os caps. 2.7, 5.4, 6, 7, 8, 10, 11 e 12 do Plano Oficial de Contabilidade,\
+    \ aprovado pelo presente diploma, pelo DEC LEI.238/91.02.07.1991.MF, DR.IS-A [149] de 02.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1991-649958
+  date: '1991-07-02'
+- type: amended_by
+  target: pt:dre:648479:por
+  label: "Determinado o alargamento, para quatro anos, do prazo de suspensão previsto no art. 4º, pelo DEC LEI.29/93.12.02.1993.MF,\
+    \ DR.IS-A [36] de 12.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1993-648479
+  date: '1993-02-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "INTRODUZIDOS ADITAMENTOS AO NUM 2.11 DO CAP 2, AS NOTAS 4 E 16 DO CAP 8 E A NOTA 24 DO CAP 14.4 DO PLANO OFICIAL\
+    \ DE CONTABILIDADE, PELO DEC LEI 127/95 DE 01-JUN DR.IS-A [127]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-01'
+- type: amended_by
+  target: pt:dre:170309:por
+  label: "Alterado pelo DEC LEI.44/99.1999.02.12.MF DR.IS-A [36]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1999-170309
+  date: '1999-02-12'
+- type: amended_by
+  target: pt:dre:239795:por
+  label: "Introduzidas no Plano Oficial de Contabilidade aprovado pelo presente diploma, as alterações constantes do anexo\
+    \ ao Dec Lei 79/2003, de 23-Abr, pelo mesmo diploma, pelo DEC LEI.79/2003.2003.04.23.MF DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2003-239795
+  date: '2003-04-23'
+- type: amended_by
+  target: pt:dre:605330:por
+  label: "Alterado o art. 3.º do corpo do diploma, bem como o Plano Oficial de Contabilidade, e legislação complementar, (na\
+    \ redacção do Dec lei 127/95, de 01-Jun, Dec Lei 238/91, de 02-Jul, Dec Lei 44/99, de 12-Fev, e Dec Lei 79/2003, de 23-Abr),pelo\
+    \ DEC LEI.35/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2005-605330
+  date: '2005-02-17'
+- type: repealed_by
+  target: pt:dre:569883:por
+  label: "Revogados os nºs 2 e 3 do art. 6º pelo DEC LEI.367/99.1999.09.18.MF,DR.IS-A [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1999-569883
+  date: '1999-09-18'
+- type: repealed_by
+  target: pt:dre:492428:por
+  label: "Revogado pelo DEC LEI.158/2009.13.07.2009.MFAP, DR.IS [133] de 13.07.2009, nos termos do estabelecido no seu art.\
+    \ 16º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2009-492428
+  date: '2009-07-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:23Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +152,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Plano Oficial de Contabilidade, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Plano Oficial de Contabilidade, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º - 1 - O Plano Oficial de Contabilidade é obrigatoriamente aplicável às seguintes entidades:
+Art. 2.º - 1 - O Plano Oficial de Contabilidade é obrigatoriamente aplicável às seguintes entidades:
 
 a) Sociedades nacionais e estrangeiras abrangidas pelo Código das Sociedades Comerciais;
 
@@ -123,7 +172,7 @@ g) Outras entidades que, por legislação específica, já se encontrem sujeitas
 
 2 - O Plano Oficial de Contabilidade não é aplicável aos bancos, às empresas de seguros e a outras entidades do sector financeiro para as quais esteja prevista a aplicação de planos de contabilidade específicos.
 
-###### Art. 3.º - 1 - As empresas individuais reguladas pelo Código Comercial, os estabelecimentos individuais de responsabilidade limitada, as sociedades por quotas, as sociedades anónimas e as cooperativas que, à data do encerramento das contas, não tenham ultrapassado dois dos três limites referidos no artigo 262.º do Código das Sociedades Comerciais poderão apresentar somente os modelos menos desenvolvidos de balanço, demonstração dos resultados líquidos e anexo indicados no Plano Oficial de Contabilidade.
+Art. 3.º - 1 - As empresas individuais reguladas pelo Código Comercial, os estabelecimentos individuais de responsabilidade limitada, as sociedades por quotas, as sociedades anónimas e as cooperativas que, à data do encerramento das contas, não tenham ultrapassado dois dos três limites referidos no artigo 262.º do Código das Sociedades Comerciais poderão apresentar somente os modelos menos desenvolvidos de balanço, demonstração dos resultados líquidos e anexo indicados no Plano Oficial de Contabilidade.
 
 2 - Sempre que os limites referidos no número anterior sejam excedidos durante dois anos consecutivos, deixa de ser aplicável a faculdade nele referida.
 
@@ -133,29 +182,29 @@ g) Outras entidades que, por legislação específica, já se encontrem sujeitas
 
 5 - Ficam dispensados do previsto no n.º 1 aqueles que, exercendo a título individual qualquer actividade comercial, industrial ou agrícola, não realizem na média dos últimos três anos um volume de negócios superior a 30000 contos.
 
-###### Art. 4.º Enquanto não for alterado o plano de contas para as empresas que se dediquem a operações de locação financeira, fica suspensa, por um período máximo de três anos, a entrada em vigor da contabilização previstas no capítulo 12, «Notas explicativas», conta 42.
+Art. 4.º Enquanto não for alterado o plano de contas para as empresas que se dediquem a operações de locação financeira, fica suspensa, por um período máximo de três anos, a entrada em vigor da contabilização previstas no capítulo 12, «Notas explicativas», conta 42.
 
-###### Art. 5.º Compete aos Ministros das Finanças e da tutela, ouvida a Comissão de Normalização Contabilística, a aprovação dos planos sectoriais das diversas actividades e das normas regulamentares necessárias à aplicação do Plano Oficial de Contabilidade.
+Art. 5.º Compete aos Ministros das Finanças e da tutela, ouvida a Comissão de Normalização Contabilística, a aprovação dos planos sectoriais das diversas actividades e das normas regulamentares necessárias à aplicação do Plano Oficial de Contabilidade.
 
-###### Art. 6.º - 1 - É revogado o Decreto-Lei n.º 47/77, de 7 de Fevereiro.
+Art. 6.º - 1 - É revogado o Decreto-Lei n.º 47/77, de 7 de Fevereiro.
 
 2 - Mantém-se em funções a Comissão de Normalização Contabilística, a quem compete assegurar o funcionamento e aperfeiçoamento da normalização contabilística nacional, como órgão independente, que funcionará administrativa e financeiramente no âmbito do Ministério das Finanças.
 
 3 - As entidades a integrar a Comissão serão designadas por portaria do Ministro das Finanças e representarão, à escala nacional, as instituições nacionais e particulares directamente interessadas e tecnicamente mais válidas.
 
-###### Art. 7.º O presente diploma entra em vigor em 1 de Janeiro de 1990.
+Art. 7.º O presente diploma entra em vigor em 1 de Janeiro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 28 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 31 de Outubro de 1989.**
+Promulgado em 31 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Novembro de 1989.**
+Referendado em 6 de Novembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PLANO OFICIAL DE CONTABILIDADE
 
@@ -209,7 +258,7 @@ Prevendo a 4.ª Directiva quatro modelos de demonstração de resultados, foi es
 
 O modelo adoptado privilegia uma classificação que permite comparabilidade dos resultados no tempo e no espaço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 Para melhor informação dos utentes, esta demonstração financeira também inclui as quantias correspondentes ao ano anterior.
 
@@ -517,29 +566,29 @@ Se a construção for por partes isoláveis, logo que cada parte estiver complet
 
 Balanço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 Balanço
 
 (Artigo 3.º do Decreto-Lei n.º 408/89)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 7 - Demonstrações dos resultados
 
 Demonstração dos resultados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 Demonstração dos resultados
 
 (Artigo 3.º do Decreto-Lei n.º 408/89)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 Demonstração dos resultados (por funções)(ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 (nota a) Em conformidade com o artigo 25.º da 4.ª Directiva da CEE.
 
@@ -573,11 +622,11 @@ c) Por provisões extraordinárias respeitantes ao activo.
 
 Activo bruto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 Amortizações e provisões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 11 - Indicação dos custos incorridos no exercício e respeitantes a empréstimos obtidos para financiar imobilizações, durante a construção, que tenham sido capitalizados nesse período.
 
@@ -587,7 +636,7 @@ Quando tiver havido outros modelos de reavaliação, explicitação dos métodos
 
 13 - Elaboração de um quadro discriminativo das reavaliações, do tipo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 14 - Com relação às imobilizações corpóreas e em curso:
 
@@ -653,7 +702,7 @@ Devem ser mencionadas separadamente as situações descritas que digam respeito 
 
 34 - Desobramento das contas de provisões acumuladas e explicitação dos movimentos ocorridos no exercício, de acordo com um quadro do seguinte tipo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 35 - Forma como se realizou o capital social e seus aumentos ou reduções, apenas no exercício em que tiveram lugar. Indicação do capital subscrito ainda não realizado.
 
@@ -677,11 +726,11 @@ O saldo no termo do exercício.
 
 41 - Demonstração do custo das mercadorias vendidas e das matérias consumidas, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 42 - Demonstração da variação da produção, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 43 - Indicação, global para cada um dos órgãos, das remunerações atribuídas aos membros dos órgãos sociais que estejam relacionadas com o exercício das respectivas funções.
 
@@ -691,17 +740,17 @@ Responsabilidades assumidas relativamente a pensões de reforma dos antigos memb
 
 45 - Demonstração dos resultados financeiros, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 46 - Demonstração dos resultados extraordinários, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 47 - Informações exigidas por diplomas legais.
 
 48 - Outras informações consideradas relevantes para melhor compreensão da posição financeira e dos resultados.
 
-## Anexo ao balanço e à demonstração dos resultados
+Anexo ao balanço e à demonstração dos resultados
 
 (Artigo 3.º do Decreto-Lei n.º 408/89)
 
@@ -731,7 +780,7 @@ c) Por provisões extraordinárias respeitantes ao activo.
 
 10-A - Movimentos ocorridos nas rubricas do activo imobilizado constantes do balanço e nas respectivas amortizações e provisões, de acordo com um quadro do tipo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 11 - Indicação dos custos incorridos no exercício e respeitantes a empréstimos obtidos para financiar imobilizações, durante a construção, que tenham sido capitalizados nesse período.
 
@@ -741,7 +790,7 @@ Quando tiver havido outros modelos de reavaliação, explicitação dos métodos
 
 13-A - Elaboração de um quadro discriminativo das reavaliações do tipo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 14 - Com relação às imobilizações corpóreas e em curso:
 
@@ -805,7 +854,7 @@ Devem ser mencionadas separadamente as situações descritas que digam respeito 
 
 34 - Desdobramento das contas de provisões acumuladas e explicitação dos movimentos ocorridos no exercício, de acordo com um quadro do seguinte tipo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 35 - Forma como se realizou o capital social, e seus aumentos ou reduções, apenas no exercício em que tal tiveram lugar. Indicação do capital subscrito ainda não realizado.
 
@@ -829,11 +878,11 @@ O saldo no termo do exercício.
 
 41 - Demonstração do custo das mercadorias vendidas e das matérias consumidas, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 42 - Demonstração da variação da produção, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 43 - Indicação, global para cada um dos órgãos, das remunerações atribuídas aos membros dos órgãos sociais que estejam relacionadas com o exercício das respectivas funções.
 
@@ -851,15 +900,15 @@ Responsabilidades assumidas relativamente a pensões de reforma dos antigos memb
 
 9 - Origem e aplicação de fundos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 10 - Quadro de contas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 11 - Código de contas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 12 - Notas explicativas
 
@@ -903,7 +952,7 @@ Classe 2 - Terceiros
 
 A arrumação das contas desta classe obedece à concepção que se apresenta no esquema seguinte, a qual pretende atender simultaneamente às diferentes espécies de entidades e às diversas naturezas de operações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26801/00020032.pdf)
 
 1 - Operações relacionadas com vendas de bens e prestações de serviços, respeitantes à actividade da empresa.
 

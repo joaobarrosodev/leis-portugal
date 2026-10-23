@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/25500/48784880.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,132 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1989-550178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b39887cc306730bb1a8bfbc76e996f3f507ddd02d782aac2c774edfe84cafed3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9946518dc5904d671de7d18017d696ed9e84106865408e5963cee4125d834acd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Conta Poupança-habitação
+- Crédito à Habitação
+- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:315565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626237:por
+  label: "Alterado o n.º 3 do art. 11.º pela LEI.2/92.1992.03.09.AR DR.IS-A [57]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1992-626237
+  date: '1992-03-09'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Alterado o n.º 3 do art. 11.º pela LEI.30-C/92.1992.12.28.AR DR.IS-A [298]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "LD ALTERADOS OS ART 3, 6, 11 E 12 PELO DEC LEI 294/93 25-AGOS DR.IS-A [199]R LL\0 LL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-25'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterado o art. 11º pela LEI.75/93.1993.12.20.AR,DR.IS-A [295]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterados os arts. 5º e 11º, pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:429399:por
+  label: "Alterada a redacção do art. 12º, na redacção que lhe foi dada pelo Dec Lei 294/93, pelo DEC LEI.211/95.1995.08.17.MF,\
+    \ DR.I-A [189]\0189]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1995-429399
+  date: '1995-08-17'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterados os arts. 5º e 11º pela LEI.10-B/96.1996.03.23.AR, DR.IS-A [71]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterada a redacção do art 11º pela LEI.52-C/96.1996.12.27.AR DR.IS-A [299]3ºSupl (OE 1997 - Art 48º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterada a redacção do art. 11º, pelo art. 44º da LEI.127-B/97.1997.12.20.AR DR.IS-A [293]2ºSupl (OE 1998)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterada a redacção do art. 11.º, pela LEI.87-B/98.1998.12.31.AR DR.IS-A [301]5.ºSUPL (OE 1999 - Art. 43.º)\0º)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:368070:por
+  label: "Alterado o art. 11º pela LEI.176-A/99.1999.12.30.AR DR.IS-A [302]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/176-a-1999-368070
+  date: '1999-12-30'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterado o art. 11º pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterado o nº 1 do art. 11º pela LEI.30-C/2000.2000.12.29.AR,DR.IS-A [299]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: cites
+  target: pt:dre:193618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692274:por
+  label: "Revogado o nº 5 do art. 8º e art. 9º pelo DEC LEI.449-A/99.1999.11.04.MTS, DR.IS-A [257] Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/449-a-1999-692274
+  date: '1999-11-04'
+- type: repealed_by
+  target: pt:dre:315565:por
+  label: "Revogado pelo DEC LEI.27/2001.2001.02.03.MF,DR.IS-A [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2001-315565
+  date: '2001-02-03'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:48Z'
   warnings: []
   errors: []
 ---
@@ -250,12 +342,12 @@ O período posterior ao acordo formal do titular da conta relativamente às entr
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 26 de Outubro de 1989.**
+Promulgado em 26 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1989.**
+Referendado em 28 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

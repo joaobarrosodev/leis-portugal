@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1989-549995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46abde62fdc327af615b77eabc99062b55027a4585eed2c2b2c026e1ec024330
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1085a67ce5a0868d10a36a3a540885471a85f5c24985baa52414d026377fb91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Integrado de Formação de Professores
+- Comissão Coordenadora
+- Criação de Serviços
+- Ensino Superior
+- Escola Superior de Educação
+- Extinção de Serviços
+- Formação Profissional
+- Madeira.região Autónoma
+- Pessoal Docente
+- Universidade da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:344198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507642:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:03Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +137,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criado na Universidade da Madeira o Centro Integrado de Formação de Professores adiante designado por Centro.
+Artigo 1.º - 1 - É criado na Universidade da Madeira o Centro Integrado de Formação de Professores adiante designado por Centro.
 
 2 - O Centro é uma unidade interdisciplinar vocacionada para a formação de professores de todos os níveis de ensino do sistema escolar e de agentes de educação para os sectores pré, extra e pós-escolar, bem como para a investigação e prestação de serviços à comunidade na área científica da educação.
 
-###### Art. 2.º O Centro goza de autonomia científica e pedagógica, sem prejuízo da orientação geral da política de ensino, investigação e prestação de serviços à comunidade definida pelos órgãos competentes da Universidade.
+Art. 2.º O Centro goza de autonomia científica e pedagógica, sem prejuízo da orientação geral da política de ensino, investigação e prestação de serviços à comunidade definida pelos órgãos competentes da Universidade.
 
-###### Art. 3.º - 1 - O Centro tem por objectivos:
+Art. 3.º - 1 - O Centro tem por objectivos:
 
 a) Promover a criação e funcionamento de cursos de formação inicial de professores para todos os níveis do sistema escolar, de técnicos de ensino-aprendizagem extra-escolar e de agentes de educação pré e pós-escolar;
 
@@ -131,7 +165,7 @@ i) Colaborar directamente no desenvolvimento integrado da Região.
 
 2 - Para a prossecução dos seus objectivos o Centro funcionará em colaboração com as unidades orgânicas que integram a Universidade, tendo em vista a gestão racional dos recursos disponíveis.
 
-###### Art. 4.º - 1 - O Centro funcionará em regime de instalação durante dois anos.
+Art. 4.º - 1 - O Centro funcionará em regime de instalação durante dois anos.
 
 2 - Por despacho conjunto dos Ministros da Educação e da República para a Região Autónoma da Madeira, ouvido o Governo Regional, será nomeada uma comissão coordenadora do Centro, a qual será constituída pelos seguintes elementos:
 
@@ -145,7 +179,7 @@ c) Três membros do corpo docente.
 
 4 - É aplicável aos membros da comissão coordenadora do Centro o disposto no artigo 1.º do [Decreto-Lei n.º 244/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), de 11 de Julho.
 
-###### Art. 5.º Compete à comissão coordenadora do Centro:
+Art. 5.º Compete à comissão coordenadora do Centro:
 
 a) Elaborar o regulamento do Centro, que deve ser aprovado pelos órgãos competentes da Universidade e proposto à homologação do Ministro da Educação;
 
@@ -165,9 +199,9 @@ h) Propor a aquisição de equipamento e mobiliário;
 
 i) Promover, periodicamente, a elaboração de esquemas de avaliação dos programas e das actividades do Centro, elaborando os respectivos relatórios para apreciação dos órgãos competentes da Universidade da Madeira.
 
-###### Art. 6.º Passa a competir ao Centro a prossecução das atribuições cometidas pelo [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, com a redacção dada pela [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), de 28 de Julho, e demais legislação complementar, à Escola Superior de Educação da Madeira, que é extinta pelo presente diploma.
+Art. 6.º Passa a competir ao Centro a prossecução das atribuições cometidas pelo [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, com a redacção dada pela [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), de 28 de Julho, e demais legislação complementar, à Escola Superior de Educação da Madeira, que é extinta pelo presente diploma.
 
-###### Art. 7.º - 1 - O pessoal docente pertencente ao quadro do pessoal da Escola Superior de Educação da Madeira à data da publicação deste diploma transitará para o quadro do pessoal da Universidade da Madeira, logo que aprovado, nas respectivas situações e categorias, lugares esses a extinguir quando vagarem, mantendo todos os direitos e regalias que lhe são inerentes, independentemente de quaisquer formalidades, salvo anotação do Tribunal de Contas.
+Art. 7.º - 1 - O pessoal docente pertencente ao quadro do pessoal da Escola Superior de Educação da Madeira à data da publicação deste diploma transitará para o quadro do pessoal da Universidade da Madeira, logo que aprovado, nas respectivas situações e categorias, lugares esses a extinguir quando vagarem, mantendo todos os direitos e regalias que lhe são inerentes, independentemente de quaisquer formalidades, salvo anotação do Tribunal de Contas.
 
 2 - Até à data da aprovação do quadro referido no número anterior permanecerá em vigor o quadro provisório de pessoal da Escola Superior de Educação da Madeira, com os lugares actualmente preenchidos, o qual se extinguirá com a transição efectiva do referido pessoal.
 
@@ -177,32 +211,32 @@ i) Promover, periodicamente, a elaboração de esquemas de avaliação dos progr
 
 5 - Os contratos do actual pessoal docente não pertencente ao quadro consideram-se denunciados para o seu termo, não podendo, em hipótese alguma, ser renovados, sem prejuízo da celebração de novos contratos, nos termos da legislação aplicável.
 
-###### Art. 8.º - 1 - Os docentes que tenham exercido ou se encontrem a exercer funções na comissão instaladora da Escola Superior de Educação da Madeira e que transitem para a Universidade da Madeira beneficiam da dispensa de funções docentes, a fim de prepararem os respectivos doutoramentos, por um período idêntico ao de exercício de funções nessa comissão, nunca superior a um prazo máximo de três anos.
+Art. 8.º - 1 - Os docentes que tenham exercido ou se encontrem a exercer funções na comissão instaladora da Escola Superior de Educação da Madeira e que transitem para a Universidade da Madeira beneficiam da dispensa de funções docentes, a fim de prepararem os respectivos doutoramentos, por um período idêntico ao de exercício de funções nessa comissão, nunca superior a um prazo máximo de três anos.
 
 2 - A dispensa de serviço referida no número anterior carece da aprovação prévia do conselho científico da Universidade, mediante apreciação do programa de doutoramento do candidato, sem prejuízo do normal funcionamento da Escola.
 
-###### Art. 9.º - 1 - O pessoal não docente do quadro da Escola Superior de Educação em serviço à data da publicação do presente diploma transita para o quadro da Universidade na mesma categoria, independentemente de quaisquer formalidades, salvo anotação do Tribunal de Contas.
+Art. 9.º - 1 - O pessoal não docente do quadro da Escola Superior de Educação em serviço à data da publicação do presente diploma transita para o quadro da Universidade na mesma categoria, independentemente de quaisquer formalidades, salvo anotação do Tribunal de Contas.
 
 2 - O pessoal não docente não pertencente ao quadro da Escola Superior de Educação em serviço à data da publicação do presente diploma transita para o quadro da Universidade em idêntica categoria, desde que observados os requisitos habilitacionais legalmente previstos, independentemente de quaisquer outras formalidades, salvo anotação do Tribunal de Contas, sem prejuízo do disposto na alínea b) do artigo 5.º do [Decreto Legislativo Regional n.º 13/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1985-181419), de 18 de Junho.
 
-###### Art. 10.º - 1 - O património da Escola Superior de Educação, incluindo as instalações e equipamento, é integrado na Universidade e afectado ao funcionamento do Centro, independentemente de quaisquer formalidades, com os direitos e deveres de que a Escola era titular.
+Art. 10.º - 1 - O património da Escola Superior de Educação, incluindo as instalações e equipamento, é integrado na Universidade e afectado ao funcionamento do Centro, independentemente de quaisquer formalidades, com os direitos e deveres de que a Escola era titular.
 
 2 - São ainda transferidos para a Universidade os saldos das dotações do orçamento da Escola Superior de Educação para o corrente ano económico.
 
-###### Art. 11.º Durante o período de instalação será inscrita no orçamento da Universidade uma verba global destinada ao desenvolvimento do Centro, a qual será gerida, nos termos da lei, pelos órgãos competentes da Universidade, sob proposta da comissão coordenadora para a instalação do Centro.
+Art. 11.º Durante o período de instalação será inscrita no orçamento da Universidade uma verba global destinada ao desenvolvimento do Centro, a qual será gerida, nos termos da lei, pelos órgãos competentes da Universidade, sob proposta da comissão coordenadora para a instalação do Centro.
 
-###### Art. 12.º Durante o período de instalação da Universidade as funções atribuídas por este diploma aos órgãos da Universidade são provisoriamente assumidas pela comissão instaladora ou pelo conselho administrativo, consoante a sua natureza.
+Art. 12.º Durante o período de instalação da Universidade as funções atribuídas por este diploma aos órgãos da Universidade são provisoriamente assumidas pela comissão instaladora ou pelo conselho administrativo, consoante a sua natureza.
 
-###### Art. 13.º É revogado o [Decreto-Lei n.º 395/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1982-375869), de 21 de Setembro.
+Art. 13.º É revogado o [Decreto-Lei n.º 395/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1982-375869), de 21 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1989. - Aníbal António Cavaco Silva - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 26 de Outubro de 1989.**
+Promulgado em 26 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1989.**
+Referendado em 28 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

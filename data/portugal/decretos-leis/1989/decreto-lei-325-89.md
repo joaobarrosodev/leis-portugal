@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22200/42824282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1989-548211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a026b20823fccb8d2d7eb2d59b3f2714dda4c67bdb66a7c690fca7446c8649a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aabf136639bc8d414c2e57072a3beed4888871debda64206ae01e4314888d4af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Identificação Civil e Criminal
+- Isenção Fiscal
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:437236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:506818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640075:por
+  label: Revogado pela LEI.12/91.1991.05.21.AR DR.IS-A [116], a partir da entrada em vigor do Dec Lei que regulamentar a referida
+    Lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-1991-640075
+  date: '1991-05-21'
+- type: repealed_by
+  target: pt:dre:437236:por
+  label: "Revogados os arts. 13.&#186; e 14.&#186; do Dec Lei 63/76 de 24-Jan, na redac&#231;&#227;o do presente diploma,\
+    \ pela LEI.57/98.1998.08.18.AR, DR.IS-A [189], a partir da entrada em vigor da regulamenta&#231;&#227;o nela prevista\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/57-1998-437236
+  date: '1998-08-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:28Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +127,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 13.º e 14.º do [Decreto-Lei n.º 63/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1976-506821), de 24 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 13.º e 14.º do [Decreto-Lei n.º 63/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1976-506821), de 24 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 13.º - 1 - Os montantes das taxas a cobrar pelos serviços de identificação por meio de inutilização de estampilhas fiscais e da sobretaxa devida pela realização de serviço externo, nas condições previstas no n.º 1 do artigo 68.º do Regulamento do Centro de Identificação Civil e Criminal, aprovado pelo [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro, são fixados por portaria conjunta dos Ministros das Finanças e da Justiça.
+Art. 13.º - 1 - Os montantes das taxas a cobrar pelos serviços de identificação por meio de inutilização de estampilhas fiscais e da sobretaxa devida pela realização de serviço externo, nas condições previstas no n.º 1 do artigo 68.º do Regulamento do Centro de Identificação Civil e Criminal, aprovado pelo [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro, são fixados por portaria conjunta dos Ministros das Finanças e da Justiça.
 
 2 - O montante da sobretaxa a que se refere o número anterior não é cobrado nos casos em que o serviço externo seja solicitado por dirigentes dos estabelecimentos prisionais, em situações de reconhecida urgência e impossibilidade de deslocação dos requerentes.
 
-###### Art. 14.º - 1 - Beneficiam de isenção de taxa:
+Art. 14.º - 1 - Beneficiam de isenção de taxa:
 
 a) Os requerentes de bilhete de identidade que comprovem encontrar-se em situação de probreza ou de insuficiência económica, mediante certidão emitida pela junta de freguesia onde tenham a sua residência;
 
@@ -115,18 +143,18 @@ c) Os requerentes internados em instituições de assistência ou beneficência,
 
 2 - Em caso de falsidade de declarações, os requerentes ficam obrigados ao pagamento do quíntuplo do montante da taxa normalmente devida, sem prejuízo da responsabilidade criminal em que possam incorrer.
 
-###### Art. 2.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 2 - Até à data de entrada em vigor da portaria a que se refere o n.º 1 do artigo 13.º do [Decreto-Lei n.º 63/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1976-506821), de 24 de Janeiro, na redacção que lhe é dada pelo artigo 1.º do presente diploma, serão aplicáveis as taxas previstas pelo [Decreto-Lei n.º 295/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1981-562423), de 24 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1989. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Pedro João Dias Alves.
 
-**Promulgado em 13 de Setembro de 1989.**
+Promulgado em 13 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1989.**
+Referendado em 15 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1989-549457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41f5192a16d863a52aab248cd1f73f38cad6f624b03cdc387146b0f22448ba0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eaf78c1996230c99a9bec2d3ff584dc88a889df135cdcf035bf9731444795e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CAÇA
+- Moura
+- Regime Florestal
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:43Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +106,18 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É criada a Zona de Caça Nacional do Perímetro Florestal da Contenda, situada na freguesia de Santo Aleixo da Restauração, Município de Moura, pertencente à Câmara Municipal de Moura, com uma área total de 5267 ha, cujos limites constam da planta anexa ao presente diploma, de que faz parte integrante, propriedade que foi submetida ao regime florestal parcial facultativo por decreto publicado no Diário do Governo, 2.ª série, n.º 88, de 13 de Abril de 1963.
+Artigo único. É criada a Zona de Caça Nacional do Perímetro Florestal da Contenda, situada na freguesia de Santo Aleixo da Restauração, Município de Moura, pertencente à Câmara Municipal de Moura, com uma área total de 5267 ha, cujos limites constam da planta anexa ao presente diploma, de que faz parte integrante, propriedade que foi submetida ao regime florestal parcial facultativo por decreto publicado no Diário do Governo, 2.ª série, n.º 88, de 13 de Abril de 1963.
 
 Visto e aprovado em Conselho de Ministros de 28 de Setembro de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 13 de Outubro de 1989.**
+Promulgado em 13 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1989.**
+Referendado em 17 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24700/47444744.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24700/47444744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24700/47444744.pdf)

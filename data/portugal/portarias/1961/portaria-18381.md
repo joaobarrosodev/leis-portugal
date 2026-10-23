@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18381-1961-559045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd2f7e0e11b1609af21eff717fa881ed224f066ab9d3ef0e517132a183918015
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fdb0ce475a697c0ceaa3f8d2e43bc125794624f1fe743a6d9dc5d315bd2e0d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,35 @@ relationships:
   target: pt:dre:688050:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:688050:por
+  label: "Tornadas extensivas às províncias ultramarinas as alterações introduzidas pelo Decreto-Lei n.º 45279, de 30 de Setembro\
+    \ de 1963 ao Decreto-Lei n.º 41204, de 24 de Julho de 1957, posto em vigor no ultramar pelo presente diploma, pela PORT.20148.05.11.1963.MU,\
+    \ DG.IS [259] de 05.11.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20148-1963-688050
+  date: '1963-11-05'
+- type: cites
+  target: pt:dre:186902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:46Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +110,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Os artigos 7.º, 8.º, 13.º, 19.º, 24.º, 28.º, 31.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 41.º, 46.º, 47.º, 48.º, 52.º e 54.º passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1. ...
+Art. 7.º - 1. ...
 
 2. ...
 
@@ -101,11 +120,11 @@ b) ...
 
 c) A suspensão do exercício dos direitos provenientes da inscrição no grémio respectivo ou organismo de coordenação económica.
 
-###### Art. 8.º As medidas de segurança podem ser impostas cumulativamente com as sanções de carácter penal ou ser isoladamente decretadas, nos termos da legislação respectiva, devendo a sua aplicação ser proposta pelo Ministério Público em processo organizado por esta entidade ou à mesma remetido pelos serviços provinciais competentes.
+Art. 8.º As medidas de segurança podem ser impostas cumulativamente com as sanções de carácter penal ou ser isoladamente decretadas, nos termos da legislação respectiva, devendo a sua aplicação ser proposta pelo Ministério Público em processo organizado por esta entidade ou à mesma remetido pelos serviços provinciais competentes.
 
 ...
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 2. ...
 
@@ -113,11 +132,11 @@ c) A suspensão do exercício dos direitos provenientes da inscrição no grémi
 
 ...
 
-###### Art. 19.º A declaração da existência de géneros alimentícios falsificados, avariados ou corruptos, com indicação das respectivas quantidades, características e do local em que se encontram, feita por escrito, em papel comum, perante os serviços provinciais de economia ou autoridade administrativa, que a comunicará, dentro do prazo de 48 horas, aos serviços de fiscalização sanitária competentes, desde que anterior a qualquer intervenção oficial ou denúncia, livra das penas cominadas nos artigos antecedentes, ficando, porém, os géneros sujeitos à conveniente beneficiação, transformação ou inutilização.
+Art. 19.º A declaração da existência de géneros alimentícios falsificados, avariados ou corruptos, com indicação das respectivas quantidades, características e do local em que se encontram, feita por escrito, em papel comum, perante os serviços provinciais de economia ou autoridade administrativa, que a comunicará, dentro do prazo de 48 horas, aos serviços de fiscalização sanitária competentes, desde que anterior a qualquer intervenção oficial ou denúncia, livra das penas cominadas nos artigos antecedentes, ficando, porém, os géneros sujeitos à conveniente beneficiação, transformação ou inutilização.
 
 ...
 
-###### Art. 24.º - 1. Constitui crime de especulação:
+Art. 24.º - 1. Constitui crime de especulação:
 
 a) A venda de produtos ou mercadorias por preço superior ao legalmente fixado ou, na falta de tabelamento, com margem de lucro líquido superior à que, em relação a cada província, for estabelecida em portaria pelo respectivo governador ou pelo Ministro do Ultramar quando for da sua competência, neste caso sob proposta ou ouvidos os respectivos governos.
 
@@ -131,7 +150,7 @@ c) ...
 
 ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 a) ...
 
@@ -139,7 +158,7 @@ b) A falta de afixação nos estabelecimentos da mesma natureza da relação dos
 
 ...
 
-###### Art. 31.º - 1. Quando a exportação de mercadorias estiver, por determinação publicada no Boletim Oficial, dependente de licença do governo da província, a exportação ou reexportação não autorizada das mercadorias sujeitas a esse regime é punível com a pena de prisão de três dias a dois anos e multa correspondente, sem prejuízo do procedimento a que houver lugar por contrabando, descaminho ou outras infracções de natureza fiscal.
+Art. 31.º - 1. Quando a exportação de mercadorias estiver, por determinação publicada no Boletim Oficial, dependente de licença do governo da província, a exportação ou reexportação não autorizada das mercadorias sujeitas a esse regime é punível com a pena de prisão de três dias a dois anos e multa correspondente, sem prejuízo do procedimento a que houver lugar por contrabando, descaminho ou outras infracções de natureza fiscal.
 
 2. ...
 
@@ -147,27 +166,27 @@ b) A falta de afixação nos estabelecimentos da mesma natureza da relação dos
 
 ...
 
-###### Art. 34.º Sempre que certas actividades ou a actividade comercial ou industrial relativa a quaisquer produtos sejam limitadas, por determinação publicada no Boletim Oficial, às pessoas singulares ou colectivas inscritas em determinados organismos, a prática de actos sem a inscrição exigida constitui contravenção punível com a pena de multa de 500$00 a 3000$00.
+Art. 34.º Sempre que certas actividades ou a actividade comercial ou industrial relativa a quaisquer produtos sejam limitadas, por determinação publicada no Boletim Oficial, às pessoas singulares ou colectivas inscritas em determinados organismos, a prática de actos sem a inscrição exigida constitui contravenção punível com a pena de multa de 500$00 a 3000$00.
 
-###### Art. 35.º A preparação e julgamento dos processos por infracções a que este decreto-lei se refere são regulados pelo Código de Processo Penal e legislação complementar, salvas as seguintes disposições especiais.
+Art. 35.º A preparação e julgamento dos processos por infracções a que este decreto-lei se refere são regulados pelo Código de Processo Penal e legislação complementar, salvas as seguintes disposições especiais.
 
-###### Art. 36.º Sem prejuízo do disposto no [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, compete especialmente aos serviços provinciais de economia, aos serviços de saúde e aos de veterinária ou aos organismos de coordenação económica, em conformidade com a respectiva lei orgânica, e ainda aos organismos corporativos, segundo as regras legais da sua própria disciplina, conforme os casos, a fiscalização das actividades económicas destinadas a impedir a prática ou promover a repressão das infracções previstas neste decreto-lei, e bem assim o exercício da acção penal para as que tenham a natureza de contravenções.
+Art. 36.º Sem prejuízo do disposto no [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, compete especialmente aos serviços provinciais de economia, aos serviços de saúde e aos de veterinária ou aos organismos de coordenação económica, em conformidade com a respectiva lei orgânica, e ainda aos organismos corporativos, segundo as regras legais da sua própria disciplina, conforme os casos, a fiscalização das actividades económicas destinadas a impedir a prática ou promover a repressão das infracções previstas neste decreto-lei, e bem assim o exercício da acção penal para as que tenham a natureza de contravenções.
 
-###### Art. 37.º - 1. Considera-se delegada, conforme os casos, nos serviços provinciais de economia, nos de veterinária ou nos de saúde a competência para proceder à instrução preparatória dos processos correspondentes a crimes ou contravenções previstos neste diploma, sem prejuízo da respectiva direcção por parte do Ministério Público.
+Art. 37.º - 1. Considera-se delegada, conforme os casos, nos serviços provinciais de economia, nos de veterinária ou nos de saúde a competência para proceder à instrução preparatória dos processos correspondentes a crimes ou contravenções previstos neste diploma, sem prejuízo da respectiva direcção por parte do Ministério Público.
 
 2. A competência a que se refere o número anterior pode ser delegada na Guarda Fiscal, Polícia de Segurança Pública ou corpos de polícia e nas autoridades administrativas da respectiva área.
 
 3. ...
 
-###### Art. 38.º - 1. As autoridades competentes para proceder à instrução preparatória enviarão sempre, e dentro do prazo de 48 horas, ao agente do Ministério Público da respectiva comarca ou julgado, cópia dos autos ou denúncias relativos às infracções previstas no presente decreto-lei, as quais serão registadas em livro próprio, ficando a aguardar a remessa dos respectivos processos.
+Art. 38.º - 1. As autoridades competentes para proceder à instrução preparatória enviarão sempre, e dentro do prazo de 48 horas, ao agente do Ministério Público da respectiva comarca ou julgado, cópia dos autos ou denúncias relativos às infracções previstas no presente decreto-lei, as quais serão registadas em livro próprio, ficando a aguardar a remessa dos respectivos processos.
 
 2. A falta de comunicação referida no n.º 1 deste artigo é punível nos termos do § 2.º do artigo 168.º do Código de Processo Penal.
 
-###### Art. 39.º Findo o prazo estabelecido no artigo 22.º do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), é lícito ao agente do Ministério Público evocar o processo que estiver em poder de qualquer autoridade para lhe dar o destino legal.
+Art. 39.º Findo o prazo estabelecido no artigo 22.º do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), é lícito ao agente do Ministério Público evocar o processo que estiver em poder de qualquer autoridade para lhe dar o destino legal.
 
 ...
 
-###### Art. 41.º - 1. As mercadorias apreendidas, logo que se tornem desnecessárias para a instrução preparatória, poderão ser vendidas por ordem do Ministério Público, por sua própria iniciativa ou por proposta dos serviços provinciais de economia, observando-se o disposto nos artigos 884.º e seguintes do Código de Processo Civil, desde que relativamente a elas haja:
+Art. 41.º - 1. As mercadorias apreendidas, logo que se tornem desnecessárias para a instrução preparatória, poderão ser vendidas por ordem do Ministério Público, por sua própria iniciativa ou por proposta dos serviços provinciais de economia, observando-se o disposto nos artigos 884.º e seguintes do Código de Processo Civil, desde que relativamente a elas haja:
 
 a) ...
 
@@ -177,9 +196,9 @@ c) ...
 
 2. O produto da venda será depositado nos estabelecimentos de crédito onde têm lugar os depósitos judiciais, à ordem do tribunal, a fim de ser levantado, sem quaisquer encargos, por quem se mostre ter direito a ele ou dar entrada no cofre de Fazenda, conforme o resultado do julgamento.
 
-###### Art. 46.º Constitui infracção disciplinar no domínio da actividade económica toda a conduta ofensiva, por acção ou omissão, dos princípios reguladores da vida económica inscritos na Constituição Política ou na legislação disciplinadora da actividade económica vigente na respectiva província.
+Art. 46.º Constitui infracção disciplinar no domínio da actividade económica toda a conduta ofensiva, por acção ou omissão, dos princípios reguladores da vida económica inscritos na Constituição Política ou na legislação disciplinadora da actividade económica vigente na respectiva província.
 
-###### Art. 47.º Constituem infracções disciplinares, entre outros, os seguintes eventos:
+Art. 47.º Constituem infracções disciplinares, entre outros, os seguintes eventos:
 
 1. A desobediência às determinações dos organismos corporativos e de coordenação económica competentes, aos de economia, veterinária ou saúde.
 
@@ -201,7 +220,7 @@ c) ...
 
 10. ...
 
-###### Art. 48.º - 1. Às infracções disciplinares relacionadas com a actividade económica são aplicáveis as seguintes penas:
+Art. 48.º - 1. Às infracções disciplinares relacionadas com a actividade económica são aplicáveis as seguintes penas:
 
 1.ª ...
 
@@ -223,11 +242,11 @@ c) ...
 
 ...
 
-###### Art. 52.º Das decisões que apliquem sanção mais grave do que a terceira do artigo 48.º cabe recurso hierárquico, nos termos da legislação comum, para os governadores de província, e das decisões destes que apliquem sanções mais graves do que a quarta do artigo 48.º cabe recurso contencioso para o Conselho Ultramarino, nos termos da lei geral.
+Art. 52.º Das decisões que apliquem sanção mais grave do que a terceira do artigo 48.º cabe recurso hierárquico, nos termos da legislação comum, para os governadores de província, e das decisões destes que apliquem sanções mais graves do que a quarta do artigo 48.º cabe recurso contencioso para o Conselho Ultramarino, nos termos da lei geral.
 
 ...
 
-###### Art. 54.º Fica revogada por este diploma toda a legislação em contrário e especialmente o [Decreto-Lei n.º 29964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29964-1939-186902), de 10 de Outubro de 1939, na parte em vigor no ultramar, e a Portaria Ministerial n.º 9355, de 26 de Outubro de 1939.
+Art. 54.º Fica revogada por este diploma toda a legislação em contrário e especialmente o [Decreto-Lei n.º 29964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29964-1939-186902), de 10 de Outubro de 1939, na parte em vigor no ultramar, e a Portaria Ministerial n.º 9355, de 26 de Outubro de 1939.
 
 2.º É eliminado o artigo 42.º
 

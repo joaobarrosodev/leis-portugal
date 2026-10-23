@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1989-548778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 942fec8af3fcdca32a39202320e8b632fd9650fd20ef286b536d0baae439256b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3747c4d165db71db87105cc2b9068b72d947e56df25efc95a1bcde9f1c4d9c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Preparatório
+- Nomeação
+- Pessoal Docente
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:48Z'
   warnings: []
   errors: []
 ---
@@ -92,26 +112,26 @@ Considerando, finalmente, que urge uniformizar a situação de todos aqueles doc
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os docentes colocados em regime de contrato plurianual que fizeram a opção prevista no n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, alterado, por ratificação, pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril, e obtiveram colocação no concurso extraordinário ou, ao abrigo do diploma citado, no concurso para professores efectivos no ano de 1986-1987 e seguintes, são considerados, desde 1 de Outubro de 1985, professores efectivos de nomeação provisória em lugares dos quadros, que se consideram criados, para todos os efeitos legais, desde aquela data e que constam do mapa anexo ao presente diploma, de que faz parte integrante.
+Artigo 1.º - 1 - Os docentes colocados em regime de contrato plurianual que fizeram a opção prevista no n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, alterado, por ratificação, pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril, e obtiveram colocação no concurso extraordinário ou, ao abrigo do diploma citado, no concurso para professores efectivos no ano de 1986-1987 e seguintes, são considerados, desde 1 de Outubro de 1985, professores efectivos de nomeação provisória em lugares dos quadros, que se consideram criados, para todos os efeitos legais, desde aquela data e que constam do mapa anexo ao presente diploma, de que faz parte integrante.
 
 2 - A nomeação provisória dos docentes referidos no número anterior converte-se em definitiva logo que concluída a profissionalização.
 
 3 - A conversão da nomeação provisória em definitiva determina a atribuição das fases da respectiva carreira, a que, nos termos legais, os docentes tenham direito.
 
-###### Art. 2.º Os docentes abrangidos pelo disposto no artigo anterior e que concluíram a profissionalização até ao ano lectivo de 1987-1988 são considerados providos definitivamente em lugares dos quadros das escolas em que se encontrem colocados no ano escolar de 1988-1989, com efeitos reportados à data da conclusão da respectiva profissionalização.
+Art. 2.º Os docentes abrangidos pelo disposto no artigo anterior e que concluíram a profissionalização até ao ano lectivo de 1987-1988 são considerados providos definitivamente em lugares dos quadros das escolas em que se encontrem colocados no ano escolar de 1988-1989, com efeitos reportados à data da conclusão da respectiva profissionalização.
 
 Visto e aprovado em Conselho de Ministros de 3 de Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 20 de Setembro de 1989.**
+Promulgado em 20 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Setembro de 1989.**
+Referendado em 22 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 339/89
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23000/43734378.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23000/43734378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23000/43734378.pdf)

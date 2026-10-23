@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07100/12981299.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1989-614590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6c43c129f9ad70955365fc9628eaa281e337fa93c23f550e30e7e73828f8e94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29110963dc1088873f30d024999f05ac02a4255381f8199156fb76ac2962ec64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Imóveis
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Contribuições e Impostos
+- Habitação
+- Imposto sobre Sucessões e Doações
+- Isenção Fiscal
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469072:por
+  label: Alterado o nº 22º do art. 11º e o nº 2º e o § único do art. 33.º do Código da Sisa e do Imposto sobre as Sucessões
+    e Doações, aprovado pelo Dec Lei 41969 de 24-Nov de 1958, na redacção do presente diploma, pela LEI.65/90.28.12.1990.AR,
+    DR.IS [298-3ºSupl] de 28.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/65-1990-469072
+  date: '1990-12-28'
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:34Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +123,9 @@ Assim:
 
 No caso da autorização legislativa concedida pelo n.º 1 e pelas alíneas b), c), d) e e) do n.º 2 do artigo 26.º da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O n.º 22.º do artigo 11.º, os parágrafos 1.º e 2.º do artigo 13.º-A, o parágrafo 1.º e o seu n.º 2.º do artigo 15.º, o n.º 1.º do artigo 16.º e o artigo 33.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
+Artigo 1.º O n.º 22.º do artigo 11.º, os parágrafos 1.º e 2.º do artigo 13.º-A, o parágrafo 1.º e o seu n.º 2.º do artigo 15.º, o n.º 1.º do artigo 16.º e o artigo 33.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 ...
 
@@ -110,13 +133,13 @@ No caso da autorização legislativa concedida pelo n.º 1 e pelas alíneas b), 
 
 ...
 
-###### Art. 13.º-A ...
+Art. 13.º-A ...
 
 1.º Para efeitos do disposto na parte final do corpo deste artigo, considera-se que o contribuinte exerce normal e habitualmente a actividade quando comprove o seu exercício do ano anterior mediante certidão passada pela repartição de finanças competente, devendo constar sempre daquela certidão se, no ano anterior, foi adquirido para revenda ou revendido algum prédio antes adquirido para esse fim.
 
 2.º Quando o prédio tenha sido revendido sem ser novamente para revenda, no prazo de três anos, e haja sido paga a sisa, esta será anulada pela repartição de finanças, a requerimento do interessado, acompanhado de documento comprovativo de transacção.
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 1.º As isenções a que se referem os n.os 16.º do artigo 11.º, 11.º do artigo 12.º, 3.º e 14.º do artigo 13.º serão concedidas pelo director-geral das Contribuições e Impostos e as previstas na parte final do corpo do n.º 20.º do artigo 11.º e no n.º 11.º do artigo 13.º, pelo Ministro das Finanças, devendo o requerimento ser instruído com os documentos necessários para comprovar os factos alegados e, designadamente:
 
@@ -126,40 +149,40 @@ No caso da autorização legislativa concedida pelo n.º 1 e pelas alíneas b), 
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 1.º Que aos prédios adquiridos para revenda foi dado destino diferente ou que os mesmos não foram revendidos dentro do prazo de três anos ou o foram novamente para revenda;
 
 ...
 
-###### Art. 33.º As taxas da sisa são as seguintes:
+Art. 33.º As taxas da sisa são as seguintes:
 
 1.º De 10% nas transmissões de prédios urbanos ou terrenos para construção e de 8% nos restantes casos;
 
 2.º Tratando-se de transmissões de prédio ou fracção autónoma de prédio urbano destinado exclusivamente a habitação, serão as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/07100/12981299.pdf))](https://files.diariodarepublica.pt/1s/1989/03/07100/12981299.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/07100/12981299.pdf)
 
 § único. O valor sobre que incide a sisa, quando superior a 5000000$00, será dividido em duas partes, uma igual ao limite do maior dos escalões que nela couber, à qual se aplicará a taxa média correspondente a esse escalão, e outra igual ao excedente, a que se aplicará a taxa marginal respeitante ao escalão imediatamente superior.
 
-###### Art. 2.º É aditado o n.º 14.º ao artigo 13.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, com a seguinte redacção:
+Art. 2.º É aditado o n.º 14.º ao artigo 13.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, com a seguinte redacção:
 
 14.º As aquisições de bens efectuadas por instituições de carácter religioso, quando destinados à directa e imediata realização dos seus fins.
 
-###### Art. 3.º - 1 - É revogado o n.º 21.º do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, com efeitos a partir de 31 de Agosto de 1989, podendo os adquirentes de habitação própria e permanente optar até àquela data por este regime de isenção ou pelo estabelecido no n.º 22.º do artigo 11.º do mesmo Código.
+Art. 3.º - 1 - É revogado o n.º 21.º do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, com efeitos a partir de 31 de Agosto de 1989, podendo os adquirentes de habitação própria e permanente optar até àquela data por este regime de isenção ou pelo estabelecido no n.º 22.º do artigo 11.º do mesmo Código.
 
 2 - São revogados o § 2.º do artigo 16.º e os artigos 34.º e 35.º do Código referido no número anterior.
 
-###### Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1989.**
+Referendado em 11 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

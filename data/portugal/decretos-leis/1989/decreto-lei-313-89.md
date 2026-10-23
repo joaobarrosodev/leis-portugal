@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1989-547665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d017fdd4791074bff80aec2b81d24a45364a966c64d96ff003d3c59f4f123f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47d35bde3e1e3c487e003f3784f83f242e1998722dab3a80024a4b81dea4b9b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Edm-empresa de Desenvolvimento Mineiro
+- Empresa Pública
+- Estatuto
+- Privatização
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:1055043916:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:229081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1055043916:por
+  label: Revogado, a partir de 25 de fevereiro de 2025, o presente diploma, em que transforma a EDM - Empresa de Desenvolvimento
+    Mineiro, E. P., em sociedade anónima de capitais maioritariamente públicos, sendo as suas atribuições integradas, por
+    fusão, nos termos do n.º 1 do anexo III, na Agência de Geologia e Energia, I. P. (AGE, I.P.), pelo(a) Decreto-Lei n.º
+    58/2026 - Diário da República n.º 36/2026, Série I de 2026-02-20, nos termos da sua alínea a) do n.º 1 do artigo 17.º
+    e sem prejuízo do seu n.º 2 do artigo 17.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2026-1055043916
+  date: '2026-02-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:18Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +127,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A EDM - Empresa de Desenvolvimento Mineiro, E. P., criada pelo [Decreto-Lei n.º 148/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1986-229081), de 18 de Junho, é transformada, pelo presente diploma, em pessoa colectiva de direito privado, sob a forma de sociedade anónima, com maioria de capitais públicos, e passa a denominar-se EDM - Empresa de Desenvolvimento Mineiro, S. A.
+Artigo 1.º - 1 - A EDM - Empresa de Desenvolvimento Mineiro, E. P., criada pelo [Decreto-Lei n.º 148/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1986-229081), de 18 de Junho, é transformada, pelo presente diploma, em pessoa colectiva de direito privado, sob a forma de sociedade anónima, com maioria de capitais públicos, e passa a denominar-se EDM - Empresa de Desenvolvimento Mineiro, S. A.
 
 2 - A EDM - Empresa de Desenvolvimento Mineiro, S. A., rege-se pela [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, pelo presente diploma, pelos seus estatutos e pelas normas de direito privado aplicáveis às sociedades anónimas.
 
-###### Art. 2.º - 1 - A EDM - Empresa de Desenvolvimento Mineiro, S. A., sucede automaticamente e globalmente à EDM - Empresa de Desenvolvimento Mineiro, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
+Art. 2.º - 1 - A EDM - Empresa de Desenvolvimento Mineiro, S. A., sucede automaticamente e globalmente à EDM - Empresa de Desenvolvimento Mineiro, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação do previsto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da EDM - Empresa de Desenvolvimento Mineiro, S. A.
 
-###### Art. 3.º - 1 - A EDM - Empresa de Desenvolvimento Mineiro, S. A., tem inicialmente um capital social de 12500000000$00, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
+Art. 3.º - 1 - A EDM - Empresa de Desenvolvimento Mineiro, S. A., tem inicialmente um capital social de 12500000000$00, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
 
 2 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
 
@@ -116,9 +143,9 @@ a) As acções do tipo A são nominativas e delas apenas podem ser titulares o E
 
 b) As acções do tipo B são nominativas ou ao portador em regime de registo, podendo delas ser titulares entidades públicas ou privadas.
 
-###### Art. 4.º A EDM - Empresa de Desenvolvimento Mineiro, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 4.º A EDM - Empresa de Desenvolvimento Mineiro, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -134,33 +161,33 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 6 - Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia, salvo quando a gestão das acções tenha sido cometida a outra entidade, nos termos do n.º 3 do presente artigo.
 
-###### Art. 6.º - 1 - Os trabalhadores e pensionistas da EDM - Empresa de Desenvolvimento Mineiro, E. P., mantêm perante a EDM - Empresa de Desenvolvimento Mineiro, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
+Art. 6.º - 1 - Os trabalhadores e pensionistas da EDM - Empresa de Desenvolvimento Mineiro, E. P., mantêm perante a EDM - Empresa de Desenvolvimento Mineiro, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer quaisquer cargos ou funções na sociedade, em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outras regalias.
 
 3 - A situação dos trabalhadores da EDM - Empresa de Desenvolvimento Mineiro, S. A., que sejam chamados a ocupar cargos nos órgãos da empresa, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou o tempo de requisição.
 
-###### Art. 7.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituções financeiras que celebraram contratos com a EDM - Empresa de Desenvolvimento Mineiro, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+Art. 7.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituções financeiras que celebraram contratos com a EDM - Empresa de Desenvolvimento Mineiro, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 8.º - 1 - São aprovados os estatutos da EDM - Empresa de Desenvolvimento Mineiro, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+Art. 8.º - 1 - São aprovados os estatutos da EDM - Empresa de Desenvolvimento Mineiro, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
 2 - As eventuais alterações aos estatutos, que em caso algum poderão contrariar o disposto na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, produzirão todos os seus efeitos desde que deliberadas segundo o próprio regime estatutário vigente e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo e publicação.
 
-###### Art. 9.º - 1 - É por esta forma convocada a assembleia geral da EDM - Empresa de Desenvolvimento Mineiro, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 9.º - 1 - É por esta forma convocada a assembleia geral da EDM - Empresa de Desenvolvimento Mineiro, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de administração e da comissão de fiscalização da EDM - Empresa de Desenvolvimento Mineiro, E. P., mantêm-se em funções, e até à data da posse dos titulares dos órgãos sociais da EDM - Empresa de Desenvolvimento Mineiro, S. A., com as competências fixadas nos estatutos para o conselho de administração e o conselho fiscal, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1989. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral.
 
-**Promulgado em 8 de Setembro de 1989.**
+Promulgado em 8 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1989.**
+Referendado em 12 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da EDM - Empresa de Desenvolvimento Mineiro, S. A.
 
@@ -168,11 +195,11 @@ Visto e aprovado em Conselho de Ministros de 1 de Junho de 1989. - Eurico Silva 
 
 Denominação, duração, sede e objectoArtigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação social de EDM - Empresa de Desenvolvimento Mineiro, S. A.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa.
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa.
 
 2 - Por deliberação do conselho de administração, a sociedade pode criar e manter sucursais, agências, delegações ou quaisquer outras formas de representação no território nacional ou no estrangeiro.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto principal:
+Art. 3.º - 1 - A sociedade tem por objecto principal:
 
 a) A prospecção, pesquisa, extracção, beneficiação e processamento de substâncias minerais metálicas e não metálicas, bem como a comercialização das mesmas e dos produtos e subprodutos resultantes do seu tratamento;
 
@@ -188,7 +215,7 @@ d) A promoção de projectos de investimento e da constituição de sociedades c
 
 ### CAPÍTULO II — Capital social e acções
 
-###### Art. 4.º - 1 - O capital social é de 12500000000$00 e acha-se integralmente realizado e divide-se em 6375000 acções do tipo A e 6125000 acções do tipo B com o valor nominal de 1000$00 cada uma.
+Art. 4.º - 1 - O capital social é de 12500000000$00 e acha-se integralmente realizado e divide-se em 6375000 acções do tipo A e 6125000 acções do tipo B com o valor nominal de 1000$00 cada uma.
 
 2 - As acções que, nos termos do número anterior, representam o capital social revestem as seguintes características:
 
@@ -202,7 +229,7 @@ b) As do tipo B são nominativas ou ao portador em regime de registo, podendo de
 
 5 - O custo das operações de registo das transmissões, desdobramentos, conversões ou outras relativas aos títulos referidos no número anterior será suportado pelos interessados, segundo critério a fixar pela assembleia geral.
 
-###### Art. 5.º - 1 - As acções representativas do capital social da EDM - Empresa de Desenvolvimento Mineiro, S. A., e as novas acções emitidas por força de aumentos de capital poderão ser alienadas, nos termos da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
+Art. 5.º - 1 - As acções representativas do capital social da EDM - Empresa de Desenvolvimento Mineiro, S. A., e as novas acções emitidas por força de aumentos de capital poderão ser alienadas, nos termos da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 2 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem.
 
@@ -210,13 +237,13 @@ b) As do tipo B são nominativas ou ao portador em regime de registo, podendo de
 
 4 - O conselho de administração fica autorizado a aumentar o capital social referido no n.º 1 do artigo 4.º dos presentes estatutos, por uma ou mais vezes, até ao montante de 17000000000$00.
 
-###### Art. 6.º - 1 - A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+Art. 6.º - 1 - A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - A sociedade pode emitir acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social e respeitanto sempre as disposições de [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O mandato dos titulares dos órgãos sociais tem a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.
 
@@ -226,7 +253,7 @@ b) As do tipo B são nominativas ou ao portador em regime de registo, podendo de
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
+Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
 
 2 - A cada 1000 acções corresponde um voto.
 
@@ -242,7 +269,7 @@ b) As do tipo B são nominativas ou ao portador em regime de registo, podendo de
 
 8 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 9.º - 1 - Compete à assembleia geral:
+Art. 9.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -262,7 +289,7 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - As votações poderão ser efectuadas nominalmente ou por sinais convencionais, conforme seja decidido pelo presidente.
 
-###### Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda composta por um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei comercial.
+Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda composta por um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com antecedência mínima de 30 dias, com indicação expressa dos assuntos a tratar.
 
@@ -270,17 +297,17 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - Para efeitos do número anterior, as acções deverão manter-se registadas em nome dos accionistas ou depositadas, pelo menos, até ao encerramento da reunião da assembleia geral.
 
-###### Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
+Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
 
 2 - Para efeitos das alíneas b) e c) do n.º 1 do artigo 9.º, a assembleia geral só pode deliberar encontrando-se presentes ou representados accionistas que sejam titulares de acções correspondentes a, pelo menos, 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 12.º - 1 - O conselho de administração é composto por um presidente, um vice-presidente e três vogais.
+Art. 12.º - 1 - O conselho de administração é composto por um presidente, um vice-presidente e três vogais.
 
 2 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos por nomeação do próprio conselho até que em assembleia geral se proceda à competente eleição.
 
-###### Art. 13.º - 1 - Ao conselho de administração compete:
+Art. 13.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -296,7 +323,7 @@ f) Exercer as demais competências que lhe sejam atribuídas por lei ou pela ass
 
 2 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, com maioria de representantes do sector público, parte dos poderes que lhe são conferidos no número anterior, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 14.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 14.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo e fora dele;
 
@@ -308,7 +335,7 @@ d) Zelar pela correcta execução das deliberações do conselho.
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vice-presidente e, na falta ou impedimento de ambos, pelo administrador que aquele designar.
 
-###### Art. 15.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne-se extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+Art. 15.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne-se extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração só poderá deliberar estando presentes ou representados a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -318,7 +345,7 @@ d) Zelar pela correcta execução das deliberações do conselho.
 
 5 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido.
 
-###### Art. 16.º - 1 - A sociedade obriga-se:
+Art. 16.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -332,17 +359,17 @@ c) Pela assinatura de mandatário constituído, no âmbito dos poderes que lhe f
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente.
+Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
 3 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos e estando presente a maioria dos membros em exercício e o presidente tem voto de qualidade.
+Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos e estando presente a maioria dos membros em exercício e o presidente tem voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados e liquidação
 
-###### Art. 19.º Os resultados positivos do exercício, devidamente aprovados, terão a seguinte aplicação:
+Art. 19.º Os resultados positivos do exercício, devidamente aprovados, terão a seguinte aplicação:
 
 a) 15%, pelo menos, para a reserva legal, até atingir o montante legal exigível;
 
@@ -352,6 +379,6 @@ c) Uma percentagem a atribuir, como participação nos lucros, aos membros do co
 
 d) O restante, conforme for deliberado pela assembleia geral.
 
-###### Art. 20.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+Art. 20.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.

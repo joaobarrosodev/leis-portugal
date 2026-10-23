@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf20772bb51b5934c6457327c19f217999fabd7caa0162b994dd87ace1c2b836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f95193ed84bedce4127ae6f292cefdb75a094eebe78714362c5cc0a9156197a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Ministério da Defesa Nacional
+- Pessoal Docente
+- Universidade Aberta
 relationships:
 - type: amended_by
   target: pt:dre:72909748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301017:por
+  label: "Alterados os arts. 14º e 42º do Dec Lei 287/88 de 19-Ago, na redacção dada pelo presente diploma, pelo DEC LEI.127/2000.2000.07.06.ME,DR.IS-A\
+    \ [154]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2000-301017
+  date: '2000-07-06'
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:03Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +117,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 36.º, 43.º e 50.º do [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 36.º, 43.º e 50.º do [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 36.º — [...]
 
@@ -131,22 +149,22 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - Dos 25 docentes anualmente chamados por força do disposto no número anterior, 20 serão docentes dos estabelecimentos oficiais dependentes do Ministério do Emprego e da Segurança Social e 5 dos estabelecimentos oficiais dependentes do Ministério da Defesa Nacional.
 
-###### Art. 2.º Consideram-se dispensados da profissionalização em serviço, sendo-lhes, nesses termos, aplicável o disposto no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, os professores do ensino particular e cooperativo que em 30 de Setembro de 1987 possuíam uma das condições a seguir indicadas:
+Art. 2.º Consideram-se dispensados da profissionalização em serviço, sendo-lhes, nesses termos, aplicável o disposto no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, os professores do ensino particular e cooperativo que em 30 de Setembro de 1987 possuíam uma das condições a seguir indicadas:
 
 a) Ter 50 anos de idade e, pelo menos, 10 anos de serviço docente; ou
 
 b) Ter, pelo menos, 15 anos de serviço docente.
 
-###### Art. 3.º O disposto no artigo anterior, no n.º 1 do artigo 36.º e no n.º 1 do artigo 43.º, ambos do [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, na redacção que lhe é dada pelo presente diploma, aplica-se aos professores colocados para o ano escolar de 1989-1990.
+Art. 3.º O disposto no artigo anterior, no n.º 1 do artigo 36.º e no n.º 1 do artigo 43.º, ambos do [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, na redacção que lhe é dada pelo presente diploma, aplica-se aos professores colocados para o ano escolar de 1989-1990.
 
 Visto e aprovado em Conselho de Ministros de 10 de Agosto de 1989. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 26 de Setembro de 1989.**
+Promulgado em 26 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1989.**
+Referendado em 2 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 238/1989, 1º Suplemento, Série I de 1989-10-16
   number: '238'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4530-(2) a 4530-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23801/00020018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,257 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13f9f26c6f2883c0991e8c73f016d950bed0fdc554cdf46f88123dc573d46713
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 696b453d8a952b69822e600db69dd35b9691dda101d5c0fa266202d7214373ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Local
+- Assembleia da República
+- Carreira Profissional
+- Extinção de Carreiras
+- Função Pública
+- Fusão de Carreiras
+- Pessoal de Inspecção
+- Pessoal de Justiça
+- Pessoal Dirigente
+- Política Salarial
+- Presidência da República
+- Profissão Diplomática
+- Reforma da Administração Pública
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:456561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:565270:por
+  label: "Alterados os arts. 11º, 38º e 39º e o anexo I do presente diploma, pelo DEC LEI.393/90.11.12.1990.MF, DR.IS [284]\
+    \ de 11.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/393-1990-565270
+  date: '1990-12-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELO DEC LEI 167/91 DE 09-MAI DR.IS-A [106][ V
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-09'
+- type: amended_by
+  target: pt:dre:658220:por
+  label: "Alterado o art. 21º, pelo DEC LEI.204/91.07.06.1991.MF, DR.IS-A [130] de 07.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-1991-658220
+  date: '1991-06-07'
+- type: amended_by
+  target: pt:dre:343890:por
+  label: "Alterados os arts. 18º, 21º (este último na redacção do Dec Lei 204/91, de 07-Jun) e 33º, revogado o nº4 do art.\
+    \ 42º e acrescentadas as categorias de chefe de polícia florestal, subchefe de polícia florestal e técnico de educação\
+    \ ao anexo n.º 3, pelo DEC LEI.420/91.29.10.1991.MF, DR.IS-A [249] de 29.10.1991, com o desenvolvimento indiciário constante\
+    \ do mapa VIII\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/420-1991-343890
+  date: '1991-10-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ANEXO 3 PELO DEC LEI 137/92 DE 16-JUL DR.IS-A [162]\062]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-07-16'
+- type: amended_by
+  target: pt:dre:407288:por
+  label: "Alteradas as escalas salariais das categorias de assessor principal e de chefe de secção constantes dos anexos 1\
+    \ e 2 pelo DEC LEI.109/96.1996.08.01.MF, DR.IS-A [177]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1996-407288
+  date: '1996-08-01'
+- type: amended_by
+  target: pt:dre:197076:por
+  label: "Alterados os arts. 17º e 18º e revogados os nºs 1 a 5, 7 a 10, 13 e 14 do art. 21º e os nºs 1 a 7 do art. 42º pelo\
+    \ DEC LEI.404-A/98.1998.12.18.PCM DR.IS-A [291)Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-a-1998-197076
+  date: '1998-12-18'
+- type: amended_by
+  target: pt:dre:265706:por
+  label: "Alteradas as escalas salariais das carreiras e categorias do pessoal não docente constantes do anexo 6 deste diploma,\
+    \ pelo DR.30-A/98.1998.12.31.ME DR.IS-B [301]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-a-1998-265706
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:265707:por
+  label: "Alteradas as escalas salariais das carreiras do pessoal dos serviços gerais dos estabelecimentos e serviços dependentes\
+    \ do Ministério da Saúde pelo DR.30-B/98.1998.12.31.MS DR.IS-B [301Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-b-1998-265707
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:265708:por
+  label: "Alteradas as escalas salariais das carreiras do pessoal auxiliar dos serviços e estabelecimentos da segurança social,\
+    \ pelo DR.30-C/98.1998.12.31.MTS DR.IS-B [301]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-c-1998-265708
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:508819:por
+  label: "Alterada a estrutura salarial da carreira técnica superior de inspecção da IGAT constante do anexo nº 7 do presente\
+    \ diploma, pelo DR.5/2000.2000.02.10.PCM DR.IS-B [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-2000-508819
+  date: '2000-02-10'
+- type: amended_by
+  target: pt:dre:510265:por
+  label: "Alterado o art. 41º pelo DEC LEI.70-A/2000.2000.05.05.MF,DR.IS-A [104]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-a-2000-510265
+  date: '2000-05-05'
+- type: amended_by
+  target: pt:dre:371212:por
+  label: "Alterados alguns índices da escala salarial das carreiras de regime geral e de regime especial, pelo DEC LEI.77/2001.05.03.2001.MF,\
+    \ DR.IS-A [54] de 05.03.2001, nos termos do seu artigo 49.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2001-371212
+  date: '2001-03-05'
+- type: amended_by
+  target: pt:dre:347166:por
+  label: "Alteradas as escalas salariais da carreira técnica superior de inspecção da Inspecção-Geral das Obras Públicas,\
+    \ Transportes e Comunicações, constantes do anexo I.º do presente diploma, pelo DR.13/2001.2001.06.30.MES DR.IS-B [150]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-2001-347166
+  date: '2001-06-30'
+- type: amended_by
+  target: pt:dre:156632:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral, da norma constante do nº 3 do art. 17.º do presente\
+    \ diploma, pela AC.323/2005.15.06.2005.TCS, DR.IS-A [198] de 14.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/323-2005-156632
+  date: '2005-06-15'
+- type: amended_by
+  target: pt:dre:245295:por
+  label: "Determinada a não contagem do tempo de serviço para efeitos de progressão nas carreiras e o congelamento do montante\
+    \ de todos os suplementos remuneratórios de todos os funcionários, agentes e demais servidores do Estado até 31 de Dezembro\
+    \ de 2006, pela LEI.43/2005.29.08.2005.AR, DR.IS-A [165] de 29.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/43-2005-245295
+  date: '2005-08-29'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Suspensas, até 31.12.2006, as revisões de carreiras do pessoal da administração pública nos termos do disposto no\
+    \ nº 4 do art. 15º da LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a carreira Geral de Técnico Superior, nos termos do art. 2º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma e extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620320:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:261952:por
+  label: Rectificado pela DECL.DD3389.1989.12.30.PCM, DR.IS [299]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-261952
+  date: '1989-12-30'
+- type: corrected_by
+  target: pt:dre:176767:por
+  label: "Rectificado o art. 3º do Dec Lei 420/91 de 29-out, na parte em que altera os arts. 18º, 21º e 33º do presente diploma,\
+    \ pela DECL-RECT.263/91.31.12.1991.SG-PCM, DR.IS-A [301-4ºSupl] de 31.12.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/263-1991-176767
+  date: '1991-12-31'
+- type: repealed_by
+  target: pt:dre:214240:por
+  label: "Revogados os nºs 11 e 12 do art. 21º e os nºs 8 e 15 do art. 48º pelo DEC LEI.412-A/98.1998.12.30.MEPAT, DR.IS-A\
+    \ [300]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-a-1998-214240
+  date: '1998-12-30'
+- type: repealed_by
+  target: pt:dre:634931:por
+  label: "Revogados os nºs 9, 10 e 13 do art. 42º pelo DEC LEI.498/99.1999.11.19.MEPAT,DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/498-1999-634931
+  date: '1999-11-19'
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 45
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:13Z'
   warnings: []
   errors: []
 ---
@@ -633,16 +850,16 @@ O disposto no presente diploma prevalece sobre quaisquer normas gerais ou especi
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 5 de Outubro de 1989.**
+Promulgado em 5 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Outubro de 1989.**
+Referendado em 5 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Do ANEXO N.º 1 ao ANEXO N.º 10
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23801/00020018.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23801/00020018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23801/00020018.pdf)

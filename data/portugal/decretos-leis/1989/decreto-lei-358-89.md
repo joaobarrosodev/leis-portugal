@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23900/45534560.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1989-548993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 801b87ea63d9ab263a924fe1bc35438939142724f855be11d49d44f83c5fdb99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3140ed8e407b02a31ffb966d7f8dca77e59268f5f699b7af1bbb0c0f989b2808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa de Trabalho Temporário
+- Regime Jurídico
+- Trabalho
+- Trabalho Temporário
 relationships:
 - type: amended_by
   target: pt:dre:520602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241402:por
+  label: "Alterado o art. 16º pela LEI.39/96.1996.08.31.AR, DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-1996-241402
+  date: '1996-08-31'
+- type: amended_by
+  target: pt:dre:581618:por
+  label: "Alterados os arts. 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 10º, 11º, 12º, 13º, 16º, 17º, 18º, 19º, 20º, 21º, 24º, 26º, 28º,\
+    \ 31º, 32º e 34º e revogados os arts. 35º e 37º pela LEI.146/99.1999.09.01.AR,DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/146-1999-581618
+  date: '1999-09-01'
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:192865:por
+  label: Rectificado pela DECL.DD3572.1989.11.30.PCM DR.IS [276]SUPL DE 30/NOV/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-192865
+  date: '1989-11-30'
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogados os arts. 26º. a 30º. com a entrada em vigor do Código do Trabalho, aprovado pela LEI.99/2003.2003.08.27.AR\
+    \ DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
+- type: repealed_by
+  target: pt:dre:520602:por
+  label: "Revogado, na redacção das Leis 39/96 de 31-Ago, 146/99 de 01-Set e 99/2003 de 27-Ago, pela LEI.19/2007.22.05.2007.AR,\
+    \ DR.IS [98] de 22.05.2007, a partir de 21.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2007-520602
+  date: '2007-05-22'
 article_structure:
   article_count: 38
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:18Z'
   warnings: []
   errors: []
 ---
@@ -536,12 +580,12 @@ A aplicação do presente diploma nas Regiões Autónomas dos Açores e da Madei
 
 Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1989. - Aníbal António Cavaco Silva - José António da Silveira Godinho - João de Deus Rogado Salvador Pinheiro - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Setembro de 1989.**
+Promulgado em 26 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1989.**
+Referendado em 2 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

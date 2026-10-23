@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 42/1989, 1º Suplemento, Série I de 1989-02-20
   number: '42'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 706-(7) a 706-(122)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-a-1989-244740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7c6b57e9565da013fcf9b900c9a4993d2594ccc4a013d3c427d3ad2c60e2e29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2343a40adf318e195bd4dedf417a790760d1728d360cdd7e9decf47c543b433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Embalagem
+- Etiquetagem
+- Produto Químico
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:223464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:223464:por
+  label: "Revogado pelo DEC LEI.82/95.22.04.1995.MARN, DR.IS-A [95] de 22.04.1995, a partir da entrada em vigor da portaria\
+    \ a que se refere o art. 4º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1995-223464
+  date: '1995-04-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:24Z'
   warnings: []
   errors: []
 ---
@@ -99,37 +110,37 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A designação, número CAS, classificação e rotulagem de algumas substâncias constantes do anexo I ao Decreto-Lei n.º 280-A/87, de 17 de Julho, são alterados de acordo com o especificado no anexo I ao presente diploma, de que faz parte integrante.
+Artigo 1.º - 1 - A designação, número CAS, classificação e rotulagem de algumas substâncias constantes do anexo I ao Decreto-Lei n.º 280-A/87, de 17 de Julho, são alterados de acordo com o especificado no anexo I ao presente diploma, de que faz parte integrante.
 
 2 - As substâncias enumeradas no anexo II ao presente diploma, de que faz parte integrante, são aditadas ao anexo I ao Decreto-Lei n.º 280-A/87, de 17 de Julho.
 
-###### Art. 2.º É aditado ao anexo V ao Decreto-Lei n.º 280-A/87, de 17 de Julho, o constante do anexo III ao presente diploma, de que faz parte integrante.
+Art. 2.º É aditado ao anexo V ao Decreto-Lei n.º 280-A/87, de 17 de Julho, o constante do anexo III ao presente diploma, de que faz parte integrante.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 30 de Junho de 1989.
+Art. 3.º O presente diploma entra em vigor no dia 30 de Junho de 1989.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 9 de Fevereiro de 1989.**
+Promulgado em 9 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1989.**
+Referendado em 9 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — (ARTIGO 1, No. 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 ## ANEXO II — (Artigo 1, No. 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 ## ANEXO III — (Artigo 2º)
 
-# PARTE B: MÉTODOS PARA DETERMINAÇÃO DA TOXICIDADE
+PARTE B: MÉTODOS PARA DETERMINAÇÃO DA TOXICIDADE
 
 INTRODUÇÃO GERAL: PARTE B
 
@@ -3469,7 +3480,7 @@ Ver Introdução geral, Parte B.
 
 Ver Introdução geral, Parte B.
 
-# PARTE C: MÉTODOS PARA DETERMINAÇÃO DA ECOTOXICIDADE
+PARTE C: MÉTODOS PARA DETERMINAÇÃO DA ECOTOXICIDADE
 
 INTRODUÇÃO GERAL: PARTE C
 
@@ -3561,13 +3572,13 @@ O desaparecimento da substância de ensaio da água devido à sua fixação na b
 
 Recomenda-se o seguinte meio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 Quando o meio entra em equilíbrio com o ar, o seu pH é aproximadamente 8.
 
 A recomendação anterior não obsta à utilização de outros meios de cultura que respeitem, contudo, os seguintes limita para os constituintes essenciais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 O meio de cultura recomendado e o meio indicado na referência (1) satisfazem esta exigência.
 
@@ -3723,9 +3734,9 @@ O relatório do ensaio, deve incluir, se possível, as seguintes informações:
 
 (1) OCDE, Paris 1981, Test Guideline 201, Decisão c(81) 30 final do Conselho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
-## Apêndice
+Apêndice
 
 EXEMPLO DE UM MÉTODO PARA A CULTURA DE ALGAS
 
@@ -3925,7 +3936,7 @@ O relatório do ensaio deve incluir, se possível, as seguintes informações:
 
 (6) Umweltbundesamt/Biologische Bundesanstalt für Land - und Forstwirtschaft, Berlin, 1984, Verfahrens-vorschlag «Toxizitätstest am Regenwurm Eisenia foetida in künstlichem Boden», in: Rudolph/Boje, Ökotoxikologie, ecomed. Landsberg, 1986.
 
-## Apêndice
+Apêndice
 
 Reprodução e manutenção das minhocas antes do ensaio
 
@@ -4165,7 +4176,7 @@ A validade do método analítico deve ser acompanhada da indicação da resposta
 
 (2) Annex V C.9 Degradation: Chemical Oxygen Demand, Directiva [84/449/CEE](http://data.europa.eu/eli/dir/1984/449/oj?locale=pt) da Comissão, Jornal Oficial das Comunidades Europeias n.º L 251 de 19.9.1984.
 
-## Apêndice
+Apêndice
 
 EXEMPLO DE UMA AVALIAÇÃO
 
@@ -4191,7 +4202,7 @@ Toxicidade do composto: sem efeitos tóxicos para valores inferiores a 1000 mg/l
 
 Ensaio realizado: ensaio em tubos de fermentação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 BIODEGRADAÇÃO
 
@@ -4457,13 +4468,13 @@ TRc = (4/3) TR - (100/3) [3]
 
 Calcula-se a media das séries dos valores TRc e ainda o desvio padrão de acordo com a equação 4:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 Rejeitam-se os valores discrepantes das séries TRc segundo um processo estatístico adequado, por exemplo, o de Nalimov [6] para um nível de probabilidade de 95% e calcula-se de novo a média e o desvio padrão do conjunto de dados TRc sem os valores discrepantes.
 
 Calcula-se então o resultado final recorrendo à equação [5]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 O resultado é expresso pela média com limites de tolerância ao nível de probabilidade de 95%, o desvio padrão e o número de dados da série das TRc menos os valores discrepantes, e o número de valores discrepantes, por exemplo:
 
@@ -4489,13 +4500,13 @@ A taxa diária de remoção em % TR calcula-se segundo 1.2.1.
 
 Calcula-se a média da série de valores TR e ainda o seu desvio padrão segundo a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 Eliminam-se os valores discrepantes da série TR de acordo com um método estatístico adequado, por exemplo, o de Nalimov [6], ao nível de probabilidade de 95% e calcula-se de novo o desvio padrão da série de dados TR, menos os valores discrepantes.
 
 O resultado final é calculado por meio de equação [7]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 O resultado é expresso como a média com limites de tolerância ao nível de probabilidade de 95%, o respectivo desvio padrão e o número de dados da série dos TR menos os valores discrepantes, e o número de valores discrepantes, por exemplo:
 
@@ -4577,7 +4588,7 @@ No caso de uma análise específica, é conveniente ter em atenção a relação
 
 (6) Streuli. H., Feherhafte Interpretation und Anwendung von Ausrei(beta)ertests, insbesondere bei Ringversuchen zur Überprüfung analytisch-chemischer Untersuchungsmethoden, Fresenius-Zeitschrift für Analytische Chemie 303(1980), pp. 406 a 408.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 BIODEGRADAÇÃO
 
@@ -4869,11 +4880,11 @@ No presente método a biodegradação é definida como o desaparecimento de carb
 
 1. Remoção em percentagem D(índice ad) da quantidade de substância adicionada diariamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 2. A remoção em percentagem D(índice sid) da quantidade de substância presente no início de cada dia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
 1.3. Substâncias de referência
 
@@ -4979,16 +4990,16 @@ A validação do método analítico deve ser fornecida conjuntamente com a respo
 
 (1) OCDE, Paris, 1981, Test Guideline 302 A, Decisão C(81) 30 final do Conselho.
 
-## Apêndice 1
+Apêndice 1
 
 Ensaio L.A.S.C.: EXEMPLOS DE RESULTADOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
 
-## Apêndice 2
+Apêndice 2
 
 Exemplo de equipamento
 
 Figura 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04201/00070122.pdf)

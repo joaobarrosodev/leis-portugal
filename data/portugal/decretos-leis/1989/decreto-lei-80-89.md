@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/06900/12641264.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1989-613939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40cb4a25193f15d9edf99102ecf7a4c15b37558126617fecaba92f748f10383b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e19799dba60ac30d01af106baad3d640f08fd25c4194c23accd1eb191b259b5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Departamento Central de Planeamento
+- Modernização Administrativa
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:632406:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:612258:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632406:por
+  label: "Revogado, a partir de 31.08.1993, pelo DEC LEI.297/93.26.08.1993.PCM, DR.IS-A [200] de 26.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-1993-632406
+  date: '1993-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:19Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +110,16 @@ Considerando o regime vigente no que concerne à aquisição de bens e à transf
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. A afectação patrimonial de bens móveis, adquiridos através de verbas do PIDDAC inscritas no orçamento do Departamento Central de Planeamento e efectuada ao abrigo de protocolos entre serviços públicos, para efeitos de modernização das instalações de atendimento público, está isenta da realização de autos de transferência, nos termos legalmente exigidos.
+Artigo único. A afectação patrimonial de bens móveis, adquiridos através de verbas do PIDDAC inscritas no orçamento do Departamento Central de Planeamento e efectuada ao abrigo de protocolos entre serviços públicos, para efeitos de modernização das instalações de atendimento público, está isenta da realização de autos de transferência, nos termos legalmente exigidos.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1989.**
+Referendado em 11 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

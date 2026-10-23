@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26400/50175031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1989-549814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcf7a846c4b8801d8d221768cbc8015b607e89042878645e24e66fe7b688bb79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 453db0d5c574e798aa63ac0ca1acb6b14a67634bdcc7d0ffd0d31bc93ee24a25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Colocação de Professores
+- Contratação de Docentes
+- Disciplina de Educação Moral e Religiosa Católica
+- Ensino
+- Ensino Básico
+- Formação de Professores
+- Habilitações Literárias
+- Igreja Católica
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:261111:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222609:por
+  label: "Alterado o art. 4.º pelo DEC LEI.329/98.1998.11.02.ME DR.IS-A [253]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1998-222609
+  date: '1998-11-02'
+- type: amended_by
+  target: pt:dre:544667:por
+  label: "Mantido em vigor o presente diploma pelo DEC LEI.20/2006.31.01.2006.ME, DR.IS-A [22] de 31.01.2006, e remetidas\
+    \ para aquele diploma as referências feitas no presente ao Dec Lei 18/88 de 21-Jan\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2006-544667
+  date: '2006-01-31'
+- type: amended_by
+  target: pt:dre:178492:por
+  label: "Mantido em vigor, nos termos do art. 52º, pelo DEC LEI.132/2012.27.06.2012.MECI, DR.IS [123] de 27.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2012-178492
+  date: '2012-06-27'
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261111:por
+  label: "Revogado, a partir de 24.05.2013, o presente diploma, alterado pelo Dec Lei 329/98 de 02-nov, pelo DEC LEI.70/2013.23.05.2013.MECI,\
+    \ DR.IS [99] de 23.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2013-261111
+  date: '2013-05-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:19Z'
   warnings: []
   errors: []
 ---
@@ -115,19 +195,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Nas escolas dos 2.º e 3.º ciclos do ensino básico e nas escolas do ensino secundário são criados os lugares do quadro para professores da disciplina de Educação Moral e Religiosa Católica constantes do mapa anexo ao presente diploma e do qual faz parte integrante.
+Artigo 1.º - 1 - Nas escolas dos 2.º e 3.º ciclos do ensino básico e nas escolas do ensino secundário são criados os lugares do quadro para professores da disciplina de Educação Moral e Religiosa Católica constantes do mapa anexo ao presente diploma e do qual faz parte integrante.
 
 2 - Os lugares do quadro previstos no número anterior são anualmente determinados, de acordo com as regras estabelecidas no artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
 
 3 - Os lugares referidos no n.º 1 serão preenchidos através do concurso a que se refere o presente diploma.
 
-###### Art. 2.º As habilitações próprias e suficientes para leccionação da disciplina de Educação Moral e Religiosa Católica, bem como as suas alterações, serão fixadas em despacho normativo dos Ministros das Finanças e da Educação, sob proposta da Conferência Episcopal Portuguesa.
+Art. 2.º As habilitações próprias e suficientes para leccionação da disciplina de Educação Moral e Religiosa Católica, bem como as suas alterações, serão fixadas em despacho normativo dos Ministros das Finanças e da Educação, sob proposta da Conferência Episcopal Portuguesa.
 
-###### Art. 3.º - 1 - O concurso para preenchimento dos lugares previstos neste diploma é o concurso para a primeira parte a que se refere o n.º 5 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
+Art. 3.º - 1 - O concurso para preenchimento dos lugares previstos neste diploma é o concurso para a primeira parte a que se refere o n.º 5 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
 
 2 - Sem prejuízo do disposto no número anterior, o concurso para os lugares do quadro de Educação Moral e Religiosa Católica possuirá no respectivo aviso de abertura indicações específicas determinadas pelo disposto neste decreto-lei.
 
-###### Art. 4.º - 1 - Podem ser opositores ao concurso referido no artigo anterior os candidatos que, cumulativamente, reunirem as seguintes condições:
+Art. 4.º - 1 - Podem ser opositores ao concurso referido no artigo anterior os candidatos que, cumulativamente, reunirem as seguintes condições:
 
 a) Serem portadores de habilitação própria para a disciplina de Educação Moral e Religiosa Católica à data da abertura do concurso;
 
@@ -155,13 +235,13 @@ b) O tipo de complemento de formação necessária para que professores já prof
 
 c) As condições de acesso ao quadro criado pelo presente diploma por parte dos que adquiriram a respectiva formação inicial.
 
-###### Art. 5.º Os candidatos referidos no artigo anterior serão ordenados pela seguinte forma:
+Art. 5.º Os candidatos referidos no artigo anterior serão ordenados pela seguinte forma:
 
 a) Primeira prioridade - os candidatos que já sejam docentes do quadro para a disciplina de Educação Moral e Religiosa Católica;
 
 b) Segunda prioridade - os candidatos que, reunindo as demais condições legais, ainda não sejam docentes do quadro, nos termos do presente diploma.
 
-###### Art. 6.º - 1 - Dentro de cada uma das prioridades definidas no artigo anterior, os opositores ao concurso são ordenados de acordo com os escalões das habilitações próprias fixadas nos termos estabelecidos no artigo 2.º do presente diploma.
+Art. 6.º - 1 - Dentro de cada uma das prioridades definidas no artigo anterior, os opositores ao concurso são ordenados de acordo com os escalões das habilitações próprias fixadas nos termos estabelecidos no artigo 2.º do presente diploma.
 
 2 - Dentro de cada um dos escalões referidos no número anterior, os candidatos são seriados por ordem decrescente da sua graduação profissional ou graduação na docência, conforme se trate, respectivamente, de candidatos incluídos na alínea a) ou na alínea b) do artigo anterior.
 
@@ -171,7 +251,7 @@ b) Segunda prioridade - os candidatos que, reunindo as demais condições legais
 
 5 - Em caso de igualdade na graduação profissional ou na graduação na docência, o desempate far-se-á aplicando-se, respectivamente, as regras contidas sobre a matéria nos artigos 7.º e 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
 
-###### Art. 7.º - 1 - A apresentação ao concurso far-se-á mediante o preenchimento de um boletim normalizado, do qual constarão obrigatoriamente:
+Art. 7.º - 1 - A apresentação ao concurso far-se-á mediante o preenchimento de um boletim normalizado, do qual constarão obrigatoriamente:
 
 a) Elementos legais de identificação;
 
@@ -187,7 +267,7 @@ d) Código dos estabelecimentos de ensino, dos concelhos e dos distritos a que o
 
 4 - O boletim de concurso referido neste artigo será entregue no conselho directivo da escola onde o docente presta serviço e será remetido à Direcção-Geral de Administração e Pessoal depois de confirmado pelo mencionado conselho directivo.
 
-###### Art. 8.º - 1 - Os candidatos a que se refere o presente diploma indicarão as suas preferências, por ordem de prioridade, de acordo com o previsto numa ou mais das seguintes alíneas:
+Art. 8.º - 1 - Os candidatos a que se refere o presente diploma indicarão as suas preferências, por ordem de prioridade, de acordo com o previsto numa ou mais das seguintes alíneas:
 
 a) Código dos estabelecimentos de ensino do continente, no máximo de 50;
 
@@ -203,27 +283,27 @@ c) Código de um distrito do continente.
 
 5 - Quando um candidato concorrer por concelhos ou por distrito, considera-se que manifesta igual preferência por todos os estabelecimentos de ensino desses concelhos ou desse distrito.
 
-###### Art. 9.º - 1 - Ao boletim de concurso cada candidato anexará proposta do bispo da diocese em que se situam os estabelecimentos de ensino, os concelhos e o distrito a que o mesmo se candidata.
+Art. 9.º - 1 - Ao boletim de concurso cada candidato anexará proposta do bispo da diocese em que se situam os estabelecimentos de ensino, os concelhos e o distrito a que o mesmo se candidata.
 
 2 - A proposta referida no número anterior corresponde, para os devidos efeitos, à declaração do bispo da diocese de que está de acordo com a nomeação do candidato, bem como manifestará o entendimento de que o opositor ao concurso possui os requisitos exigidos pela Igreja Católica para o exercício das respectivas funções docentes.
 
 3 - A proposta referida no número anterior deverá ter aposto o selo branco ou o carimbo a óleo em uso na respectiva diocese.
 
-###### Art. 10.º São excluídos os candidatos que preencherem irregularmente o respectivo boletim de concurso ou não dêem cumprimento exacto ao disposto nos artigos 8.º e 9.º deste diploma.
+Art. 10.º São excluídos os candidatos que preencherem irregularmente o respectivo boletim de concurso ou não dêem cumprimento exacto ao disposto nos artigos 8.º e 9.º deste diploma.
 
-###### Art. 11.º - 1 - O concurso referido neste diploma realiza-se com recuperação automática de vagas, sem prejuízo de, por excesso de lugares relativamente às necessidades reais existentes, algumas delas não serem recuperadas.
+Art. 11.º - 1 - O concurso referido neste diploma realiza-se com recuperação automática de vagas, sem prejuízo de, por excesso de lugares relativamente às necessidades reais existentes, algumas delas não serem recuperadas.
 
 2 - As vagas a não recuperar constarão do aviso de abertura do concurso.
 
-###### Art. 12.º É da competência da Direcção-Geral de Administração e Pessoal a realização do concurso a que se refere o presente diploma.
+Art. 12.º É da competência da Direcção-Geral de Administração e Pessoal a realização do concurso a que se refere o presente diploma.
 
-###### Art. 13.º - 1 - Sempre que uma secção de um estabelecimento dos 2.º e 3.º ciclos do ensino básico ou de um estabelecimento de ensino secundário der origem à criação de uma nova escola, os professores da escola de origem pertencentes ao quadro de Educação Moral e Religiosa Católica poderão requerer a sua integração no quadro da nova escola.
+Art. 13.º - 1 - Sempre que uma secção de um estabelecimento dos 2.º e 3.º ciclos do ensino básico ou de um estabelecimento de ensino secundário der origem à criação de uma nova escola, os professores da escola de origem pertencentes ao quadro de Educação Moral e Religiosa Católica poderão requerer a sua integração no quadro da nova escola.
 
 2 - A integração referida no número anterior far-se-á independentemente de concurso e será requerida até 30 de Novembro imediatamente anterior à data de abertura do primeiro concurso previsto neste diploma em que os lugares da nova escola sejam postos a concurso.
 
 3 - Caso o número de docentes interessados na integração seja superior ao número de vagas existentes, estes serão graduados de acordo com as regras estabelecidas neste diploma, preferindo sempre os professores do quadro melhor posicionados.
 
-###### Art. 14.º - 1 - Sempre que numa escola surjam situações de excesso de professores do quadro, poderá a Administração, com a anuência expressa do bispo da respectiva diocese, transferi-los para o quadro de outra escola do mesmo nível de ensino da mesma freguesia, vila ou cidade.
+Art. 14.º - 1 - Sempre que numa escola surjam situações de excesso de professores do quadro, poderá a Administração, com a anuência expressa do bispo da respectiva diocese, transferi-los para o quadro de outra escola do mesmo nível de ensino da mesma freguesia, vila ou cidade.
 
 2 - Caso o número de docentes interessados na transferência seja superior ao número de lugares providos em excesso, aplica-se o n.º 3 do artigo anterior.
 
@@ -233,19 +313,19 @@ c) Código de um distrito do continente.
 
 5 - As vagas resultantes da concretização dos reingressos a que se refere o número anterior só serão consideradas no concurso seguinte.
 
-###### Art. 15.º A aplicação do disposto nos artigos 13.º e 14.º deste diploma determina a transferência, para todos os efeitos legais, dos docentes do quadro para o novo estabelecimento de ensino, procedendo-se, como consequência, ao respectivo provimento, independentemente de quaisquer formalidades legais, excepto anotação do Tribunal de Contas.
+Art. 15.º A aplicação do disposto nos artigos 13.º e 14.º deste diploma determina a transferência, para todos os efeitos legais, dos docentes do quadro para o novo estabelecimento de ensino, procedendo-se, como consequência, ao respectivo provimento, independentemente de quaisquer formalidades legais, excepto anotação do Tribunal de Contas.
 
-###### Art. 16.º - 1 - Poderá o bispo da diocese, em proposta fundamentada, acompanhada da anuência do professor, solicitar ao Ministro da Educação o destacamento para outra escola do mesmo distrito de qualquer professor de Educação Moral e Religiosa Católica, desde que se encontre provido no quadro.
+Art. 16.º - 1 - Poderá o bispo da diocese, em proposta fundamentada, acompanhada da anuência do professor, solicitar ao Ministro da Educação o destacamento para outra escola do mesmo distrito de qualquer professor de Educação Moral e Religiosa Católica, desde que se encontre provido no quadro.
 
 2 - Ao destacamento referido no número anteior aplica-se o que se encontra contido sobre a matéria na lei geral.
 
-###### Art. 17.º - 1 - Os professores do quadro para a disciplina de Educação Moral e Religiosa Católica integram-se, para todos os efeitos, na carreira definida do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, nomeadamente no estabelecido nos seus artigos 1.º, 11.º e 13.º, tendo em conta as alterações introduzidas pelo artigo 89.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro.
+Art. 17.º - 1 - Os professores do quadro para a disciplina de Educação Moral e Religiosa Católica integram-se, para todos os efeitos, na carreira definida do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, nomeadamente no estabelecido nos seus artigos 1.º, 11.º e 13.º, tendo em conta as alterações introduzidas pelo artigo 89.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro.
 
 2 - O ingresso na 2.ª fase depende do provimento definitivo do professor no quadro criado pelo presente diploma.
 
 3 - Os professores referidos neste artigo integram-se no regime geral de atribuição de diuturnidades e demais subsídios, aposentação, subsídio por doença, prestações complementares e subsídio por morte.
 
-###### Art. 18.º - 1 - O professor do quadro deixará de exercer funções docentes na disciplina de Educação Moral e Religiosa Católica em resultado de proposta apresentada pelo bispo da diocese, devidamente fundamentada, na qual se manifeste que o docente deixou de possuir as condições específicas para a leccionação da referida disciplina.
+Art. 18.º - 1 - O professor do quadro deixará de exercer funções docentes na disciplina de Educação Moral e Religiosa Católica em resultado de proposta apresentada pelo bispo da diocese, devidamente fundamentada, na qual se manifeste que o docente deixou de possuir as condições específicas para a leccionação da referida disciplina.
 
 2 - Os professores referidos no número anterior que se encontrem providos no quadro, nos termos do n.º 1 do artigo 4.º, serão integrados no quadro de efectivos interdepartamentais (QEI) ou, se assim o requererem, ser-lhes-á aplicado o regime disposto nos artigos 14.º, 15.º e 16.º do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
 
@@ -257,7 +337,7 @@ c) Código de um distrito do continente.
 
 6 - Os professores previstos no n.º 7 do artigo 4.º, quando abrangidos pelo disposto no n.º 1 do presente artigo, transitarão para o exercício de outras funções docentes para que se encontrem devida e legalmente habilitados.
 
-###### Art. 19.º - 1 - À Secretaria-Geral do Ministério da Educação compete, relativamente aos excedentes constituídos ao abrigo da integração operada nos termos do artigo anterior:
+Art. 19.º - 1 - À Secretaria-Geral do Ministério da Educação compete, relativamente aos excedentes constituídos ao abrigo da integração operada nos termos do artigo anterior:
 
 a) A gestão administrativa;
 
@@ -269,7 +349,7 @@ c) A colocação dos excedentes.
 
 3 - Em tudo o que não estiver previsto neste diploma sobre gestão de excedentes aplicam-se as regras estabelecidas no [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
 
-###### Art. 20.º - 1 - O preenchimento de necessidades transitórias de pessoal docente para leccionação na disciplina de Educação Moral e Religiosa Católica é feito por contrato, sujeito às regras estabelecidas nos números seguintes.
+Art. 20.º - 1 - O preenchimento de necessidades transitórias de pessoal docente para leccionação na disciplina de Educação Moral e Religiosa Católica é feito por contrato, sujeito às regras estabelecidas nos números seguintes.
 
 2 - O docente a contratar é proposto pelo bispo da respectiva diocese, caducando o mesmo contrato no termo do ano escolar, salvo se o mencionado bispo propuser a sua renovação.
 
@@ -279,13 +359,13 @@ c) A colocação dos excedentes.
 
 5 - Ao pessoal referido neste artigo são aplicáveis as correspondentes disposições do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio.
 
-###### Art. 21.º Em tudo o que não se encontre previsto pelo presente diploma aplica-se, com as adaptações adequadas, o disposto no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, nomeadamente no que respeita à publicação de listas provisórias e definitivas dos candidatos, prazos de reclamação das mesmas, desistências do concurso e tomadas de posse e regime de provimento dos lugares.
+Art. 21.º Em tudo o que não se encontre previsto pelo presente diploma aplica-se, com as adaptações adequadas, o disposto no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, nomeadamente no que respeita à publicação de listas provisórias e definitivas dos candidatos, prazos de reclamação das mesmas, desistências do concurso e tomadas de posse e regime de provimento dos lugares.
 
-###### Art. 22.º O regime jurídico constante do artigo 18.º deste diploma produz efeitos a partir da entrada em vigor do Orçamento do Estado para o ano de 1990.
+Art. 22.º O regime jurídico constante do artigo 18.º deste diploma produz efeitos a partir da entrada em vigor do Orçamento do Estado para o ano de 1990.
 
-###### Art. 23.º Os docentes referidos no presente diploma ficam sujeitos ao Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro.
+Art. 23.º Os docentes referidos no presente diploma ficam sujeitos ao Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro.
 
-###### Art. 24.º - 1 - Os encargos resultantes da execução do presente diploma, excepção feita aos artigos 18.º e 19.º, serão suportados por verbas inscritas nas competentes rubricas do orçamento do Ministério da Educação para vencimentos e demais abonos de pessoal docente do ensino não superior.
+Art. 24.º - 1 - Os encargos resultantes da execução do presente diploma, excepção feita aos artigos 18.º e 19.º, serão suportados por verbas inscritas nas competentes rubricas do orçamento do Ministério da Educação para vencimentos e demais abonos de pessoal docente do ensino não superior.
 
 2 - Os encargos resultantes da execução dos artigos 18.º e 19.º serão suportados:
 
@@ -293,19 +373,19 @@ a) Pelas verbas próprias dos estabelecimentos de ensino a cujos quadros os resp
 
 b) Por verbas a inscrever no orçamento da Secretaria-Geral do Ministério da Educação especialmente para esse efeito, a partir do início do ano económico imediato.
 
-###### Art. 25.º O primeiro concurso para provimento no quadro previsto neste diploma reportar-se-á ao ano escolar de 1990-1991.
+Art. 25.º O primeiro concurso para provimento no quadro previsto neste diploma reportar-se-á ao ano escolar de 1990-1991.
 
 Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 26 de Outubro de 1989.**
+Promulgado em 26 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1989.**
+Referendado em 28 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo ao Decreto-Lei n.º 407/89, de 16 de Novembro
 
@@ -317,4 +397,4 @@ Escolas
 
 Horários da disciplina de Religião e Moral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26400/50175031.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26400/50175031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26400/50175031.pdf)

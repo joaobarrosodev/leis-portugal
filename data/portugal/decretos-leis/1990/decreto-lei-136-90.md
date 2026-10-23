@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09500/19341934.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1990-332259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09ed817f3feb76bb3824bd9180824a40e1256d7826aa84de8a1dcd43dd155409
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52481967782a01794708412202fe2146387bc6bd208368dd85a7c77b193c2ce8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe de Delegação
+- Instituto Português de Conservas e Pescado
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:220103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:34Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +120,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A escala salarial da categoria de chefe de delegação do Instituto Português de Conservas e Pescado a que se refere o artigo 47.º do respectivo estatuto, anexo ao [Decreto-Lei n.º 266/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1986-220103), de 3 de Setembro, integra os índices 405, 440, 450, 465, 485, 510 e 535, correspondentes aos escalões, 0, 1, 2, 3, 4, 5 e 6, respectivamente, fazendo-se a progressão segundo módulos de três anos.
+Artigo 1.º A escala salarial da categoria de chefe de delegação do Instituto Português de Conservas e Pescado a que se refere o artigo 47.º do respectivo estatuto, anexo ao [Decreto-Lei n.º 266/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1986-220103), de 3 de Setembro, integra os índices 405, 440, 450, 465, 485, 510 e 535, correspondentes aos escalões, 0, 1, 2, 3, 4, 5 e 6, respectivamente, fazendo-se a progressão segundo módulos de três anos.
 
-###### Art. 2.º Em tudo o que não estiver especialmente previsto neste diploma, designadamente o regime de transição para a nova estrutura salarial, aplica-se subsidiariamente a esta categoria o [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e legislação complementar.
+Art. 2.º Em tudo o que não estiver especialmente previsto neste diploma, designadamente o regime de transição para a nova estrutura salarial, aplica-se subsidiariamente a esta categoria o [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e legislação complementar.
 
-###### Art. 3.º O disposto no presente diploma produz efeitos a contar de 1 de Outubro de 1989.
+Art. 3.º O disposto no presente diploma produz efeitos a contar de 1 de Outubro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 5 de Abril de 1990.**
+Promulgado em 5 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1990.**
+Referendado em 11 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

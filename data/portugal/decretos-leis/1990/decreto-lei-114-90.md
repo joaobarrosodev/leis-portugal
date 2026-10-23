@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08000/16691677.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1990-332180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ae861d3c6e001d3f9ea9f826511adba7affd8d92c0a519fb826015bf2a009ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6ff9244d5c182fb85d5644e05a5187e76c2597e8abce886defe8441ed2e4bd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Convenção
+- Espécie Protegida
+- Importação
+- Multa
+- Países Terceiros
+- Proteção do Ambiente
+- Regulamento CE
+- Sanção
+- Troca Intracomunitária
+- Vida Selvagem
+- Washington
 relationships:
 - type: amended_by
   target: pt:dre:489487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:385434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472556:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:182464:por
+  label: Rectificado [no referente ao nº 2 do art. 4º e ao nº 2 do art 33º] pela DECL.DD3363.1990.04.27.PCM DR.IS [99]2ºSupl
+    de 30.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-182464
+  date: '1990-04-27'
+- type: repealed_by
+  target: pt:dre:489487:por
+  label: "Revogado, a partir de 18.09.2009, pelo DEC LEI.211/2009.03.09.2009.MAOTDR, DR.IS [171] de 03.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2009-489487
+  date: '2009-09-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:04Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +136,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Definições
 
-###### Artigo 1.º Para efeitos do presente diploma, entende-se por:
+Artigo 1.º Para efeitos do presente diploma, entende-se por:
 
 a) Convenção - a Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção, também designada por Convenção de Washington, aprovada, para ratificação, pelo [Decreto n.º 50/80](https://diariodarepublica.pt/dr/detalhe/decreto/50-1980-472556), de 23 de Julho;
 
@@ -143,9 +174,9 @@ r) Data de aquisição - considera-se para animais ou plantas, vivos ou mortos, 
 
 ### CAPÍTULO II — Circulação de espécimes na Comunidade
 
-###### Art. 2.º A prova do cumprimento do disposto no Regulamento n.º 3626/82 e no Regulamento n.º 3418/83, no tocante à circulação de espécimes inscritos nos anexos da Convenção, e no Regulamento n.º 3626/82 será efectuada mediante a apresentação pelo interessado da cópia da licença de importação ou do certificado de importação visados pelos serviços aduaneiros do país de entrada dos mesmos ou de um dos certificados previstos nos artigos 19.º e 22.º do Regulamento n.º 3418/83.
+Art. 2.º A prova do cumprimento do disposto no Regulamento n.º 3626/82 e no Regulamento n.º 3418/83, no tocante à circulação de espécimes inscritos nos anexos da Convenção, e no Regulamento n.º 3626/82 será efectuada mediante a apresentação pelo interessado da cópia da licença de importação ou do certificado de importação visados pelos serviços aduaneiros do país de entrada dos mesmos ou de um dos certificados previstos nos artigos 19.º e 22.º do Regulamento n.º 3418/83.
 
-###### Art. 3.º - 1 - O transporte dos animais vivos das espécies inscritas nos anexos I da Convenção e C1 do Regulamento n.º 3626/82 depende de autorização prévia, concedida pela autoridade administrativa competente.
+Art. 3.º - 1 - O transporte dos animais vivos das espécies inscritas nos anexos I da Convenção e C1 do Regulamento n.º 3626/82 depende de autorização prévia, concedida pela autoridade administrativa competente.
 
 2 - A autorização prevista no número anterior não é necessária relativamente a espécimes referidos no n.º 4 do artigo VII da Convenção.
 
@@ -153,19 +184,19 @@ r) Data de aquisição - considera-se para animais ou plantas, vivos ou mortos, 
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 4.º - 1 - Toda a pessoa que exporte, reexporte ou importe, para fins comerciais, espécimes vivos ou mortos, partes e produtos de animais e de plantas constantes de lista a publicar por portaria do Ministro do Ambiente e dos Recursos Naturais ou por portaria conjunta com outros ministros competentes em razão da matéria é obrigada a manter actualizado o registo, de acordo com o modelo a publicar na mesma portaria.
+Art. 4.º - 1 - Toda a pessoa que exporte, reexporte ou importe, para fins comerciais, espécimes vivos ou mortos, partes e produtos de animais e de plantas constantes de lista a publicar por portaria do Ministro do Ambiente e dos Recursos Naturais ou por portaria conjunta com outros ministros competentes em razão da matéria é obrigada a manter actualizado o registo, de acordo com o modelo a publicar na mesma portaria.
 
 2 - As autoridades referidas do n.º 1 do artigo 34.º examinarão o registo referido no número anterior, que, para tal, deve ser prontamente exibido.
 
-###### Art. 5.º O comércio com países terceiros de espécimes inscritos nos anexos I, II e III da Convenção e B e C do Regulamento n.º 3626/82 fica sujeito ao regime de licenciamento prévio e à apresentação dos documentos previstos nas secções I e II do presente capítulo.
+Art. 5.º O comércio com países terceiros de espécimes inscritos nos anexos I, II e III da Convenção e B e C do Regulamento n.º 3626/82 fica sujeito ao regime de licenciamento prévio e à apresentação dos documentos previstos nas secções I e II do presente capítulo.
 
 #### SECÇÃO II — Importação de países terceiros
 
-###### Art. 6.º - 1 - É proibida a importação de quaisquer espécimes de espécies da fauna e da flora efectuada em violação das disposições legais relativas à sua exportação do país de origem.
+Art. 6.º - 1 - É proibida a importação de quaisquer espécimes de espécies da fauna e da flora efectuada em violação das disposições legais relativas à sua exportação do país de origem.
 
 2 - É obrigatória a apresentação de um documento de exportação ou reexportação, emitido pelas autoridades competentes do país de proveniência, como prova do cumprimento do disposto nos n.os 1, 2 e 4 do artigo III, nos n.os 1, 2 e 5 do artigo IV e nos n.os 1, 2, 3 e 4 do artigo V da Convenção.
 
-###### Art. 7.º - 1 - A licença de importação a que se referem os artigos 5.º, § 1.º, e 10.º, §§ 1.º e 2.º, do Regulamento n.º 3626/82 é emitida pela autoridade administrativa em formulário próprio e a requerimento do interessado, para o efeito do disposto na Convenção, e nos termos do Regulamento n.º 3418/83.
+Art. 7.º - 1 - A licença de importação a que se referem os artigos 5.º, § 1.º, e 10.º, §§ 1.º e 2.º, do Regulamento n.º 3626/82 é emitida pela autoridade administrativa em formulário próprio e a requerimento do interessado, para o efeito do disposto na Convenção, e nos termos do Regulamento n.º 3418/83.
 
 2 - Relativamente a espécimes inscritos nos anexos I da Convenção e C1 do Regulamento n.º 3626/82, a emissão da respectiva licença de importação depende da verificação cumulativa das seguintes condições:
 
@@ -189,7 +220,7 @@ d) Que não se lhe oponham outros interesses, nomeadamente os estabelecidos no a
 
 5 - Relativamente a espécimes inscritos no anexo III da Convenção, com excepção dos referidos nos anexos C1 e C2 do Regulamento n.º 3626/82, a licença de importação será emitida se o requerimento a que se refere o n.º 1 for acompanhado de um certificado de origem ou, no caso de o espécime ser proveniente de um país que tenha inscrito a espécie respectiva no anexo III, de uma licença de exportação emitida pela autoridade competente desse país.
 
-###### Art. 8.º Relativamente aos espécimes cuja introdução seja proveniente do mar, a emissão da respectiva licença de importação depende da verificação das seguintes condições:
+Art. 8.º Relativamente aos espécimes cuja introdução seja proveniente do mar, a emissão da respectiva licença de importação depende da verificação das seguintes condições:
 
 a) O requerente prove quue os espécimes vivos serão transportados de forma a evitar riscos de ferimentos, doença ou mau trato;
 
@@ -199,7 +230,7 @@ c) No caso de espécimes inscritos no anexo C2 do Regulamento n.º 3626/82, as c
 
 d) No caso de espécimes inscritos no anexo II da Convenção, as condições previstas nas alíneas a) e b) do n.º 2 do artigo anterior se encontrem preenchidas.
 
-###### Art. 9.º - 1 - Quando se trate de animais vivos, o interessado deverá informar a autoridade administrativa do dia e hora previstos para a chegada do espécime com, pelo menos, 18 horas de antecedência em relação a esta.
+Art. 9.º - 1 - Quando se trate de animais vivos, o interessado deverá informar a autoridade administrativa do dia e hora previstos para a chegada do espécime com, pelo menos, 18 horas de antecedência em relação a esta.
 
 2 - No caso de se verificarem dificuldades na identificação ou dúvidas acerca, quer da conformidade do expedido, quer dos documentos que o acompanhem, a alfândega informará de imediato a autoridade administrativa, a qual tomará as medidas necessárias para proceder a uma peritagem.
 
@@ -213,7 +244,7 @@ d) No caso de espécimes inscritos no anexo II da Convenção, as condições pr
 
 #### SECÇÃO III — Exportação e reexportação
 
-###### Art. 10.º - 1 - A licença de exportação ou o certificado de reexportação referidos no n.º 1 do artigo 5.º e no artigo 10.º do Regulamento n.º 3626/82 são emitidos pelas autoridades administrativas, a requerimento do interessado.
+Art. 10.º - 1 - A licença de exportação ou o certificado de reexportação referidos no n.º 1 do artigo 5.º e no artigo 10.º do Regulamento n.º 3626/82 são emitidos pelas autoridades administrativas, a requerimento do interessado.
 
 2 - Relativamente a espécimes inscritos nos anexos I da Convenção e C1 do Regulamento n.º 3626/82, a emissão da respectiva licença de exportação ou do certificado de reexportação depende da verificação cumulativa das seguintes condições:
 
@@ -231,7 +262,7 @@ d) A autoridade administrativa tenha a prova de que uma licença de importação
 
 5 - Relativamente à reexportação de espécimes vivos de espécies inscritas nos anexos II e III, o certificado de reexportação será emitido após o requerente provar que as formalidades legais relativas à quarentena sanitária foram cumpridas.
 
-###### Art. 11.º - 1 - Quando se trate de animais vivos, o interessado deverá informar a autoridade administrativa, com, pelo menos, 18 horas de antecedência, do dia e hora da partida do espécime a exportar ou reexportar.
+Art. 11.º - 1 - Quando se trate de animais vivos, o interessado deverá informar a autoridade administrativa, com, pelo menos, 18 horas de antecedência, do dia e hora da partida do espécime a exportar ou reexportar.
 
 2 - Sempre que a autoridade administrativa o julgue necessário, poderá proceder ao controlo da expedição de qualquer espécime incluído em todos os anexos.
 
@@ -243,13 +274,13 @@ d) A autoridade administrativa tenha a prova de que uma licença de importação
 
 6 - Aquando do cumprimento das formalidades alfandegárias, a alfândega verificará os selos apostos, nos termos do número anterior.
 
-###### Art. 12.º - 1 - Nos casos de expedições que não tenham sido objecto de controlo em conformidade com o disposto no artigo anterior, a alfândega procederá ao controlo da conformidade da licença de exportação ou do certificado de reexportação e da sua concordância com os espécimes apresentados.
+Art. 12.º - 1 - Nos casos de expedições que não tenham sido objecto de controlo em conformidade com o disposto no artigo anterior, a alfândega procederá ao controlo da conformidade da licença de exportação ou do certificado de reexportação e da sua concordância com os espécimes apresentados.
 
 2 - Em caso de dificuldades de identificação ou dúvidas sobre a conformidade do expedido ou dos documentos, a alfândega informará sem demora a autoridade administrativa de que tomará as medidas necessárias para proceder a uma peritagem.
 
 ### CAPÍTULO IV — Detenção
 
-###### Art. 13.º - 1 - É proibida a detenção de espécimes vivos de espécies inscritas nos anexos I da Convenção do C1 do Regulamento n.º 3626/82.
+Art. 13.º - 1 - É proibida a detenção de espécimes vivos de espécies inscritas nos anexos I da Convenção do C1 do Regulamento n.º 3626/82.
 
 2 - Por razões de conservação das espécies, de origem hígio-sanitárias ou outras, pode ser proibida a detenção de espécimes de quaisquer espécies da fauna e da flora, que constarão da lista a publicar por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e do Ambiente e dos Recursos Naturais.
 
@@ -289,29 +320,29 @@ c) Apreender os animais em causa quando os respectivos proprietários notificado
 
 10 - Carece de autorização da autoridade administrativa a deslocação para local diferente dos animais referidos nos n.os 3 e 4.
 
-###### Art. 14.º - 1 - É proibida a detenção de espécimes de espécies inscritas nos anexos da Convenção e do Regulamento n.º 3626/82 que tenham sido adquiridos em infracção ao disposto nos artigos 2.º e 5.º
+Art. 14.º - 1 - É proibida a detenção de espécimes de espécies inscritas nos anexos da Convenção e do Regulamento n.º 3626/82 que tenham sido adquiridos em infracção ao disposto nos artigos 2.º e 5.º
 
 2 - A prova da data de aquisição dos espécimes, bem como a prova do cumprimento do disposto nos artigos 2.º e 5.º, nos termos e para os efeitos do disposto no número anterior, é da responsabilidade do proprietário dos mesmos.
 
-###### Art. 15.º - 1 - A exposição com fins comerciais, a venda, a detenção e o transporte para venda ou a compra de qualquer espécime de uma espécie constante dos anexos I da Convenção e C1 do Regulamento n.º 3626/82, ou partes ou produtos de animais ou plantas dessas espécies, serão objecto de regulamentação a aprovar por portaria do Ministro do Ambiente e dos Recursos Naturais.
+Art. 15.º - 1 - A exposição com fins comerciais, a venda, a detenção e o transporte para venda ou a compra de qualquer espécime de uma espécie constante dos anexos I da Convenção e C1 do Regulamento n.º 3626/82, ou partes ou produtos de animais ou plantas dessas espécies, serão objecto de regulamentação a aprovar por portaria do Ministro do Ambiente e dos Recursos Naturais.
 
 2 - No caso de espécimes das espécies inscritas nos anexos II e III da Convenção e B do Regulamento n.º 3626/82 ou qualquer outra mercadoria introduzidos em infracção ao imposto nos artigos 2.º e 5.º, a sua exposição, compra ou venda serão regulamentadas por portaria do Ministro do Ambiente e dos Recursos Naturais.
 
-###### Art. 16.º - 1 - Salvo autorização especial da autoridade administrativa, é proibida a taxidermia para fins comerciais em espécimes das espécies inscritas nos anexos I da Convenção e C1 do Regulamento n.º 3626/82 e outros que constarão de lista a publicar por portaria do Ministro do Ambiente e dos Recursos Naturais.
+Art. 16.º - 1 - Salvo autorização especial da autoridade administrativa, é proibida a taxidermia para fins comerciais em espécimes das espécies inscritas nos anexos I da Convenção e C1 do Regulamento n.º 3626/82 e outros que constarão de lista a publicar por portaria do Ministro do Ambiente e dos Recursos Naturais.
 
 2 - Exceptua-se do disposto no número anterior a taxidermia em troféus de caça importados ao abrigo das disposições da Convenção.
 
-###### Art. 17.º - 1 - É obrigatória a marcação, para efeitos de identificação, dos espécimes de espécies, partes ou produtos deles derivados constantes de listas a publicar por portaria do Ministro do Ambiente e dos Recursos Naturais.
+Art. 17.º - 1 - É obrigatória a marcação, para efeitos de identificação, dos espécimes de espécies, partes ou produtos deles derivados constantes de listas a publicar por portaria do Ministro do Ambiente e dos Recursos Naturais.
 
 2 - A portaria referida no número anterior definirá os termos em que será efectuada a marcação e respectivo registo, nomeadamente no tocante aos tipos de marcação a usar e códigos a adoptar.
 
-###### Art. 18.º - 1 - O transporte de espécimes de espécies da fauna selvagem deve efectuar-se em condições que assegurem o bem-estar dos animais, evitando quaisquer riscos de ferimentos e mau trato.
+Art. 18.º - 1 - O transporte de espécimes de espécies da fauna selvagem deve efectuar-se em condições que assegurem o bem-estar dos animais, evitando quaisquer riscos de ferimentos e mau trato.
 
 2 - O transporte aéreo dos animais vivos será efectuado de acordo com o Regulamento sobre Animais Vivos, adoptado pela Associação Internacional de Transporte Aéreo.
 
 ### CAPÍTULO V — Excepções
 
-###### Art. 19.º - 1 - As disposições relativas à circulação, importação, exportação e reexportação dos espécimes das espécies inscritas nos anexos da Convenção e do Regulamento n.º 3626/82 não se aplicam nos seguintes casos:
+Art. 19.º - 1 - As disposições relativas à circulação, importação, exportação e reexportação dos espécimes das espécies inscritas nos anexos da Convenção e do Regulamento n.º 3626/82 não se aplicam nos seguintes casos:
 
 a) Espécimes colocados em regime de trânsito comunitário, desde que acompanhados de formulário T2 ou equivalente;
 
@@ -331,7 +362,7 @@ a) De espécimes de espécies inscritas nos anexos I da Convenção e C1 do Regu
 
 b) De espécimes de uma espécie inscrita nos anexos II da Convenção e C2 do Regulamento n.º 3626/82 adquiridos pelo proprietário num Estado, que não o da sua residência habitual, e que exija a prévia concessão de uma licença de exportação para espécimes capturados ou recolhidos no seu meio selvagem.
 
-###### Art. 20.º A autoridade administrativa pode conceder licenças especiais à circulação, importação e reexportação de espécies pertencentes a um parque zoológico, circo, colecção ou exposição itinerante de animais ou plantas quando observadas as seguintes condições:
+Art. 20.º A autoridade administrativa pode conceder licenças especiais à circulação, importação e reexportação de espécies pertencentes a um parque zoológico, circo, colecção ou exposição itinerante de animais ou plantas quando observadas as seguintes condições:
 
 a) O interessado forneça à autoridade administrativa um inventário completo de tais espécimes;
 
@@ -341,27 +372,27 @@ c) Que cada espécime vivo seja acondicionado e transportado por forma a evitar 
 
 ### CAPÍTULO VI — Documentos
 
-###### Art. 21.º O modelo das licenças e certificados concedidos ao abrigo do presente diploma, bem como o processamento para a sua concessão, serão aprovados por portaria do Ministro do Ambiente e dos Recursos Naturais.
+Art. 21.º O modelo das licenças e certificados concedidos ao abrigo do presente diploma, bem como o processamento para a sua concessão, serão aprovados por portaria do Ministro do Ambiente e dos Recursos Naturais.
 
-###### Art. 22.º - 1 - Não podem ser emitidas licenças de reexportação com efeitos retroactivos à data da operação de reexportação, sob pena de nulidade.
+Art. 22.º - 1 - Não podem ser emitidas licenças de reexportação com efeitos retroactivos à data da operação de reexportação, sob pena de nulidade.
 
 2 - Quando se trate de espécimes de uso pessoal, uso doméstico ou lembranças turísticas, e verificando-se a falta dos documentos necessários, pode a autoridade administrativa conceder um prazo até 60 dias para a apresentação da licença ou do certificado, findo o qual os espécimes são apreendidos.
 
 3 - O prazo referido no número anterior poderá, em casos especiais, ser prorrogado por períodos sucessivos de 30 dias, até ao limite de 120 dias.
 
-###### Art. 23.º - 1 - Constituem receitas da autoridade administrativa as importâncias pagas pelos interessados para cobertura dos encargos decorrentes da emissão de licenças, certificados, autorizações e peritagens.
+Art. 23.º - 1 - Constituem receitas da autoridade administrativa as importâncias pagas pelos interessados para cobertura dos encargos decorrentes da emissão de licenças, certificados, autorizações e peritagens.
 
 2 - As taxas a cobrar serão fixadas por portaria conjunta dos Ministros das Finanças e do Ambiente e dos Recursos Naturais.
 
-###### Art. 24.º - 1 - O prazo de validade das licenças de importação e de exportação, certificados de importação e reexportação e autorização concedidos pela autoridade administrativa não pode ser superior a seis meses, contados da data da sua emissão.
+Art. 24.º - 1 - O prazo de validade das licenças de importação e de exportação, certificados de importação e reexportação e autorização concedidos pela autoridade administrativa não pode ser superior a seis meses, contados da data da sua emissão.
 
 2 - No que se refere a licenças ou certificados de importação, o respectivo prazo de validade não pode ultrapassar a data de validade constante dos documentos correspondentes emitidos pelo país de reexportação.
 
-###### Art. 25.º - 1 - No caso de uma licença ou certificado terem caducado sem ter sido utilizados, o respectivo titular deve devolvê-los à autoridade administrativa no prazo de 30 dias contados do termo do respectivo prazo de validade.
+Art. 25.º - 1 - No caso de uma licença ou certificado terem caducado sem ter sido utilizados, o respectivo titular deve devolvê-los à autoridade administrativa no prazo de 30 dias contados do termo do respectivo prazo de validade.
 
 2 - Após o decurso do prazo previsto no número anterior devem os respectivos documentos ser apreendidos.
 
-###### Art. 26.º - 1 - As licenças e certificados emitidos por outros países em aplicação do disposto nos capítulos II e III devem estar conformes ao disposto na Convenção.
+Art. 26.º - 1 - As licenças e certificados emitidos por outros países em aplicação do disposto nos capítulos II e III devem estar conformes ao disposto na Convenção.
 
 2 - Os documentos referidos no número anterior devem estar isentos de quaisquer rasuras ou emendas que possam pôr em causa a sua validade.
 
@@ -371,7 +402,7 @@ c) Que cada espécime vivo seja acondicionado e transportado por forma a evitar 
 
 ### CAPÍTULO VII — Entidades competentes
 
-###### Art. 27.º - 1 - Para efeito da aplicação da Convenção, do Regulamento n.º 3626/82, do Regulamento n.º 3481/83 e do presente diploma, o Serviço Nacional de Parques, Reservas e Conservação da Natureza é a autoridade administrativa e a autoridade científica, sem prejuízo do disposto no n.º 3.
+Art. 27.º - 1 - Para efeito da aplicação da Convenção, do Regulamento n.º 3626/82, do Regulamento n.º 3481/83 e do presente diploma, o Serviço Nacional de Parques, Reservas e Conservação da Natureza é a autoridade administrativa e a autoridade científica, sem prejuízo do disposto no n.º 3.
 
 2 - São autoridades administrativas regionais, para efeitos da aplicação do presente diploma, o Parque Natural da Madeira e a Direcção Regional de Ambiente, para as Regiões Autónomas dos Açores e da Madeira, respectivamente.
 
@@ -379,7 +410,7 @@ c) Que cada espécime vivo seja acondicionado e transportado por forma a evitar 
 
 4 - A autoridade administrativa, que preside, as autoridades administrativas regionais, a autoridade científica, a Direcção-Geral das Alfândegas e a Direcção-Geral de Florestas reunirão, pelo menos, uma vez por ano para coordenação de acções, uniformização de critérios de actuação, licenciamento e apreciação dos respectivos relatórios.
 
-###### Art. 28.º Compete à autoridade administrativa:
+Art. 28.º Compete à autoridade administrativa:
 
 a) Emitir licenças e certificados e conceder derrogações especiais para o comércio e movimento de espécimes das espécies constantes dos anexos I, II e III da Convenção, C1 e C2 do Regulamento n.º 3626/82 e da portaria referida no artigo 36.º;
 
@@ -417,13 +448,13 @@ r) Aplicar as coimas e as sanções acessórias;
 
 s) Chefiar a delegação nas reuniões das conferências das partes e no comité referido no artigo 19.º do Regulamento n.º 3626/82.
 
-###### Art. 29.º - 1 - São igualmente da competência das autoridades administrativas regionais, nas respectivas regiões, os poderes conferidos nas alíneas a), d), e), f), g), h), p) e r) do artigo anterior.
+Art. 29.º - 1 - São igualmente da competência das autoridades administrativas regionais, nas respectivas regiões, os poderes conferidos nas alíneas a), d), e), f), g), h), p) e r) do artigo anterior.
 
 2 - As autoridades administrativas regionais, nas áreas sob sua jurisdição devem ainda proceder ao registo das licenças, certificados e derrogações que concedam e sejam utilizados para o comércio e movimento dos espécimes das espécies inscritas nos anexos da Convenção, e do Regulamento n.º 3626/82.
 
 3 - As autoridades administrativas regionais devem comunicar à autoridade administrativa o conteúdo do registo efectuado nos termos do número anterior, para efeitos do disposto na alínea c) do artigo anterior.
 
-###### Art. 30.º Compete à autoridade científica:
+Art. 30.º Compete à autoridade científica:
 
 a) Zelar para que o comércio dos espécimes das espécies inscritas nos anexos da Convenção, do Regulamento n.º 3626/82 e da portaria referida no artigo 36.º não prejudique a sobrevivência das respectivas espécies;
 
@@ -443,7 +474,7 @@ h) Participar nas conferências de partes;
 
 i) Dar parecer acerca das instalações destinadas ao albergue de animais vivos.
 
-###### Art. 31.º - 1 - O desalfandegamento dos espécimes das espécies constantes dos anexos I da Convenção e C1 do Regulamento n.º 3626/82 apenas pode processar-se nas sedes das Alfândegas de Lisboa, Funchal e Ponta Delgada e delegações urbanas da Alfândega de Lisboa.
+Art. 31.º - 1 - O desalfandegamento dos espécimes das espécies constantes dos anexos I da Convenção e C1 do Regulamento n.º 3626/82 apenas pode processar-se nas sedes das Alfândegas de Lisboa, Funchal e Ponta Delgada e delegações urbanas da Alfândega de Lisboa.
 
 2 - O desalfandegamento dos espécimes das espécies constantes dos anexos II e III da Convenção e C2 do Regulamento n.º 3626/82 apenas pode processar-se nas sedes e delegações urbanas das Alfândegas de Lisboa e Porto e nas delegações extra-urbanas de Faro, Funchal e Ponta Delgada.
 
@@ -455,7 +486,7 @@ i) Dar parecer acerca das instalações destinadas ao albergue de animais vivos.
 
 ### CAPÍTULO VIII — Contra-ordenações
 
-###### Art. 32.º - 1 - As infracções ao disposto nos artigos 2.º, 3.º, 5.º e 6.º do presente diploma constituem contra-ordenações e são puníveis com coimas:
+Art. 32.º - 1 - As infracções ao disposto nos artigos 2.º, 3.º, 5.º e 6.º do presente diploma constituem contra-ordenações e são puníveis com coimas:
 
 a) De 80000$00 a 500000$00 no caso de espécimes de espécies inscritas nos anexos I da Convenção, C1 do Regulamento n.º 3626/82 e I da portaria referida no artigo 36.º;
 
@@ -469,7 +500,7 @@ c) De 15000$00 a 300000$00 no caso de espécies inscritas no anexo III da Conven
 
 4 - A tentativa e a negligência são puníveis.
 
-###### Art. 33.º - 1 - Para além das coimas referidas no artigo anterior e nos termos da legislação aplicável, podem ser impostas, a título de sanção acessória, a proibição de emissão a seu favor das licenças e dos certificados referidos no capítulo VI e a apreensão dos espécimes que estiverem na origem de infracção ao disposto no presente diploma ou a obrigação de devolução ao país de proveniência dos espécimes em infracção.
+Art. 33.º - 1 - Para além das coimas referidas no artigo anterior e nos termos da legislação aplicável, podem ser impostas, a título de sanção acessória, a proibição de emissão a seu favor das licenças e dos certificados referidos no capítulo VI e a apreensão dos espécimes que estiverem na origem de infracção ao disposto no presente diploma ou a obrigação de devolução ao país de proveniência dos espécimes em infracção.
 
 2 - Relativamente aos espécimes apreendidos nos termos do número anterior, compete à autoridade administrativa dar-lhes o destino que entender por mais conveniente, podendo proceder à sua venda, à excepção dos pertencentes a espécies inscritas nos anexos I da Convenção e C2 do Regulamento n.º 3626/82.
 
@@ -477,7 +508,7 @@ c) De 15000$00 a 300000$00 no caso de espécies inscritas no anexo III da Conven
 
 4 - No caso de o infractor não cumprir voluntariamente a devolução dos espécimes ao país de proveniência, a autoridade administrativa substituir-se-á ao mesmo, a expensas deste.
 
-###### Art. 34.º - 1 - A receita das coimas previstas no presente diploma reverte:
+Art. 34.º - 1 - A receita das coimas previstas no presente diploma reverte:
 
 a) 15% para a entidade autuante;
 
@@ -485,7 +516,7 @@ b) 45% para a autoridade administrativa do local onde se verificou a infracção
 
 c) 40% para o Estado.
 
-###### Art. 35.º - 1 - As funções de fiscalização, para efeitos do presente diploma, competem especialmente à autoridade administrativa, em colaboração com a Direcção-Geral das Alfândegas, a Direcção-Geral das Florestas, a Direcção-Geral da Inspecção Económica, a Direcção-Geral de Pecuária e autoridades policiais.
+Art. 35.º - 1 - As funções de fiscalização, para efeitos do presente diploma, competem especialmente à autoridade administrativa, em colaboração com a Direcção-Geral das Alfândegas, a Direcção-Geral das Florestas, a Direcção-Geral da Inspecção Económica, a Direcção-Geral de Pecuária e autoridades policiais.
 
 2 - Nas regiões autónomas tais funções de fiscalização competem às autoridades administrativas regionais, em colaboração com as alfândegas locais, autoridades regionais competentes e autoridades policiais.
 
@@ -497,20 +528,20 @@ c) 40% para o Estado.
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Art. 36.º As alterações aos anexos da Convenção e do Regulamento n.º 3626/82, as notificações do secretariado da Convenção e as decisões do comité serão publicadas no Diário da República, sob a forma de avisos.
+Art. 36.º As alterações aos anexos da Convenção e do Regulamento n.º 3626/82, as notificações do secretariado da Convenção e as decisões do comité serão publicadas no Diário da República, sob a forma de avisos.
 
-###### Art. 37.º É revogado o [Decreto-Lei n.º 219/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1984-385434), de 4 de Julho.
+Art. 37.º É revogado o [Decreto-Lei n.º 219/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1984-385434), de 4 de Julho.
 
-###### Art. 38.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 38.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Joaquim Fernando Nogueira - Arlindo Marques Cunha - Joaquim Martins Ferreira do Amaral - Fernando Nunes Ferreira Real.
 
-**Promulgado em 23 de Março de 1990.**
+Promulgado em 23 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Março de 1990.**
+Referendado em 27 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

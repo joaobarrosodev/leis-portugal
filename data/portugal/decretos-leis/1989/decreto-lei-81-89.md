@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1989-613935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ef30d88de926d0f48a742aa2c5c03a028fbaa41399735a24f4e44085e69ebe8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f79a30ccc62b227e009917059a8738eed96a63e22ecc957d749d13ac22fcaa80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Coordenação Regional
+- Parecer
+- Prazo de Validade
+- Urbanismo
+relationships:
+- type: cites
+  target: pt:dre:420614:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:19Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +98,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os pareceres, informações ou autorizações das comissões de coordenação regional (CCRs) que devam instruir os processos relativos a empreendimentos promovidos por entidades privadas caducam decorridos três anos a contar da respectiva notificação ou comunicação à entidade que promoveu a consulta àquelas comissões, excepto quando o próprio parecer, informação ou autorização fixar prazo superior.
+Artigo 1.º Os pareceres, informações ou autorizações das comissões de coordenação regional (CCRs) que devam instruir os processos relativos a empreendimentos promovidos por entidades privadas caducam decorridos três anos a contar da respectiva notificação ou comunicação à entidade que promoveu a consulta àquelas comissões, excepto quando o próprio parecer, informação ou autorização fixar prazo superior.
 
-###### Art. 2.º - 1 - Operada a caducidade prevista no artigo anterior, terá de ser promovida a obtenção de novo parecer, informação ou autorização da CCR para poder ser emitida ou renovada a licença dos referidos empreendimentos.
+Art. 2.º - 1 - Operada a caducidade prevista no artigo anterior, terá de ser promovida a obtenção de novo parecer, informação ou autorização da CCR para poder ser emitida ou renovada a licença dos referidos empreendimentos.
 
 2 - As CCRs, ao pronunciarem-se, deverão ter em consideração o estado de avanço dos trabalhos, de modo a evitar injustificados prejuízos ao particular, nomeadamente se a obra estiver em adiantada fase de execução.
 
@@ -100,12 +108,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1989.**
+Referendado em 11 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

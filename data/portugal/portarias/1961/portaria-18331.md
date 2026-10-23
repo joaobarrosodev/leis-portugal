@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18331-1961-560602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27b74929fe2fdc738d38739acea2b9f9949e1e77d139ae20304e4c012c600e91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 452392b0ec71f37535fb6f717cfad31ef5c712bd5f404ba2d95caa45ac46c67c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:45Z'
   warnings: []
   errors: []
 ---
@@ -89,33 +93,33 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 250000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 250000$00
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 1500000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 1500000$00
 
-###### Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo dentro da província» ... 1500000$00
+Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo dentro da província» ... 1500000$00
 
-###### Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 150000$00
+Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 150000$00
 
-###### Artigo 3.º, n.º 6), alínea b) «Outras despesas com o pessoal - Subsídios de interrupção de viagens - A pagar na metrópole» ... 50000$00
+Artigo 3.º, n.º 6), alínea b) «Outras despesas com o pessoal - Subsídios de interrupção de viagens - A pagar na metrópole» ... 50000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento e outros artigos não especificados nas alíneas seguintes» ... 2000000$00
+Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento e outros artigos não especificados nas alíneas seguintes» ... 2000000$00
 
-###### Artigo 4.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 150000$00
+Artigo 4.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 150000$00
 
-###### Artigo 4.º, n.º 2), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... 200000$00
+Artigo 4.º, n.º 2), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... 200000$00
 
-###### Artigo 5.º, n.º 1), alínea b) «Despesas de conservação e aproveitamento de material - Imóveis - Habitações» ... 150000$00
+Artigo 5.º, n.º 1), alínea b) «Despesas de conservação e aproveitamento de material - Imóveis - Habitações» ... 150000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1), alínea a) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização - Despesas das enfermarias e postos de socorros com tratamento de pessoal» ... 250000$00
+Artigo 7.º, n.º 1), alínea a) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização - Despesas das enfermarias e postos de socorros com tratamento de pessoal» ... 250000$00
 
-###### Artigo 10.º, n.º 2), alínea b) «Encargos administrativos - Inspecção complementar de quadros milicianos - Primeiros-cabos milicianos em estágio» ... 1200000$00
+Artigo 10.º, n.º 2), alínea b) «Encargos administrativos - Inspecção complementar de quadros milicianos - Primeiros-cabos milicianos em estágio» ... 1200000$00
 
-###### Artigo 12.º «Abono de família» ... 1100000$00
+Artigo 12.º «Abono de família» ... 1100000$00
 
 ... 8500000$00
 
@@ -123,13 +127,13 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 2250000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 2250000$00
 
-###### Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - Fardamentos, resguardos e calçado às praças - Das tabelas gerais» ... 1500000$00
+Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - Fardamentos, resguardos e calçado às praças - Das tabelas gerais» ... 1500000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 1) «Encargos administrativos - Preparação militar do pessoal a incorporar na província» ... 4750000$00
+Artigo 10.º, n.º 1) «Encargos administrativos - Preparação militar do pessoal a incorporar na província» ... 4750000$00
 
 ... 8500000$00
 

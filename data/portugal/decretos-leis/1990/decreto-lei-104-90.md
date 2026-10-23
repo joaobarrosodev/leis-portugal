@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06900/14471448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1990-333348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 258070710c03bc1531732db7d2b125e1e441d1c3bff87a75696dcd1132b1269b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fb5f4cf400ff69b96a98aee8d273d2e5ab90e87ade7e1fa76b7ef482cdd1981
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abate de Animais
+- Controlo Sanitário
+- Decisão CE
+- Definição de Competências
+- Direcção Geral da Pecuária
+- Direcção Regional de Agricultura
+- Doença Animal
+- Financiamento
+- Gado Bovino
+- Ifadap
+- Indemnização
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Piddac
+- Plano Reforçado para a Erradicação da Peripneumonia Contagiosa dos Bovinos
+relationships:
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 138/95 DE 14-JUN DR.IS-A [136]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:49Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +116,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Compete à Direcção-Geral da Pecuária (DGP), a nível central, a coordenação, acompanhamento e avaliação da execução do Plano Reforçado para a Erradicação da Peripneumonia Contagiosa dos Bovinos (PREPCB).
+Artigo 1.º Compete à Direcção-Geral da Pecuária (DGP), a nível central, a coordenação, acompanhamento e avaliação da execução do Plano Reforçado para a Erradicação da Peripneumonia Contagiosa dos Bovinos (PREPCB).
 
-###### Art. 2.º O controlo de execução das acções do PREPCB compete às autoridades sanitárias veterinárias das direcções regionais de agricultura (DRA).
+Art. 2.º O controlo de execução das acções do PREPCB compete às autoridades sanitárias veterinárias das direcções regionais de agricultura (DRA).
 
-###### Art. 3.º As acções de campanha do Plano serão levadas a efeito pelas brigadas dos serviços oficiais, agrupamentos de defesa sanitária, cooperativas ou por médicos veterinários para o efeito ajuramentados pela DGP.
+Art. 3.º As acções de campanha do Plano serão levadas a efeito pelas brigadas dos serviços oficiais, agrupamentos de defesa sanitária, cooperativas ou por médicos veterinários para o efeito ajuramentados pela DGP.
 
-###### Art. 4.º Para efeito do disposto no artigo 1.º, compete à DGP:
+Art. 4.º Para efeito do disposto no artigo 1.º, compete à DGP:
 
 a) Promover e assegurar, em colaboração com as DRA, a elaboração do PREPCB específica, bem como o necessário apoio técnico aos serviços envolventes;
 
@@ -119,7 +138,7 @@ b) Colaborar com a DGP, na respectiva área de influência, na elaboração do P
 
 c) Executar e promover, na respectiva área de influência, o PREPCB no âmbito da alínea c) do artigo anterior.
 
-###### Art. 6.º Compete ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP):
+Art. 6.º Compete ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP):
 
 a) Centralizar, como interlocutor do Fundo Europeu de Orientação e Garantia Agrícola, Secção Orientação, a documentação necessária à obtenção do reembolso das despesas efectuadas no âmbito do presente diploma;
 
@@ -131,22 +150,22 @@ d) Proceder a quaisquer acções de fiscalização da execução dos movimentos 
 
 e) Prestar todas as informações que lhe forem solicitadas pela DGP.
 
-###### Art. 7.º - 1 - A responsabilidade financeira relativa ao Plano é do Instituto Nacional de Intervenção e Garantia Agrícola (INGA) até 31 de Dezembro de 1989.
+Art. 7.º - 1 - A responsabilidade financeira relativa ao Plano é do Instituto Nacional de Intervenção e Garantia Agrícola (INGA) até 31 de Dezembro de 1989.
 
 2 - Em 1990 e até ao termo do período em que vigorar, competirá ao IFADAP movimentar as verbas que anualmente foram afectadas ao Plano no PIDDAC, adicionadas dos reembolsos ou suas antecipações.
 
-###### Art. 8.º As normas técnico-sanitárias de execução do PREPCB serão aprovadas por portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 8.º As normas técnico-sanitárias de execução do PREPCB serão aprovadas por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 9.º O presente diploma produz efeitos desde 1 de Março de 1989.
+Art. 9.º O presente diploma produz efeitos desde 1 de Março de 1989.
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 6 de Março de 1990.**
+Promulgado em 6 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Março de 1990.**
+Referendado em 8 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

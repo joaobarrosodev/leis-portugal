@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18288-1961-554833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b72813952a827a2ae5af69b5874aeb7da4a4ffcfa20aed5b9fee7af6925949e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bea7ebf4e58c10d54cf2ace9e05ad10baffb6fd8138a8f893303856ffdf11f77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:469251:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:45Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ REGIMENTO DO CONSELHO SUPERIOR DE AGRICULTURA
 
 ### CAPÍTULO I — Fins do Conselho
 
-###### Artigo 1.º O Conselho Superior de Agricultura funciona na dependência da Secretaria de Estado da Agricultura, cabendo-lhe, especialmente, emitir parecer sobre assuntos que, por imposição legal ou determinação do Secretário de Estado da Agricultura, sejam submetidos à sua apreciação.
+Artigo 1.º O Conselho Superior de Agricultura funciona na dependência da Secretaria de Estado da Agricultura, cabendo-lhe, especialmente, emitir parecer sobre assuntos que, por imposição legal ou determinação do Secretário de Estado da Agricultura, sejam submetidos à sua apreciação.
 
 Compete-lhe também:
 
@@ -104,7 +108,7 @@ Compete-lhe também:
 
 3.º Quaisquer outras atribuições que as leis ou regulamentos venham a cometer-lhe.
 
-###### Art. 2.º Em execução do disposto na segunda parte do corpo do artigo anterior, o Conselho poderá propor o que julgar conveniente em benefício das actividades agrícolas e trabalho rural, definido a sua orientação no que se refere a:
+Art. 2.º Em execução do disposto na segunda parte do corpo do artigo anterior, o Conselho poderá propor o que julgar conveniente em benefício das actividades agrícolas e trabalho rural, definido a sua orientação no que se refere a:
 
 a) Política de preços e sua repercussão nas actividades agrícolas;
 
@@ -126,11 +130,11 @@ h) Linhas gerais de colaboração entre os diferentes serviços do Estado nele r
 
 ### CAPÍTULO II — Constituição do Conselho
 
-###### Art. 3.º O Conselho é presidido pelo Secretário de Estado da Agricultura e tem como vice-presidente o secretário-geral do Ministério da Economia.
+Art. 3.º O Conselho é presidido pelo Secretário de Estado da Agricultura e tem como vice-presidente o secretário-geral do Ministério da Economia.
 
 § único. Servirá de secretário do Conselho um funcionário superior da Secretaria de Estado da Agricultura, designado pelo Secretário de Estado da Agricultura.
 
-###### Art. 4.º O Conselho é constituído pelos seguintes vogais permanentes:
+Art. 4.º O Conselho é constituído pelos seguintes vogais permanentes:
 
 a) O presidente da Corporação da Lavoura;
 
@@ -148,7 +152,7 @@ e) Os directores do Instituto Superior de Agronomia e da Escola Superior de Medi
 
 § 3.º Nas sessões das secções e subsecções os vogais do Conselho poderão fazer-se representar por delegados especializados nos assuntos ali a tratar.
 
-###### Art. 5.º O Conselho Superior de Agricultura, para maior eficiência da sua acção, divide-se nas secções e subsecções seguintes:
+Art. 5.º O Conselho Superior de Agricultura, para maior eficiência da sua acção, divide-se nas secções e subsecções seguintes:
 
 1.ª secção - Estrutura agrária.
 
@@ -208,9 +212,9 @@ e) Os directores do Instituto Superior de Agronomia e da Escola Superior de Medi
 
 15.ª secção - Problemas de regadio.
 
-###### Art. 6.º A apreciação de qualquer assunto cujo estudo se não enquadre nas secções definidas neste artigo será confiada a uma secção eventual para o efeito designada por despacho do Secretário de Estado da Agricultura sob proposta do Conselho.
+Art. 6.º A apreciação de qualquer assunto cujo estudo se não enquadre nas secções definidas neste artigo será confiada a uma secção eventual para o efeito designada por despacho do Secretário de Estado da Agricultura sob proposta do Conselho.
 
-###### Art. 7.º Os vogais referidos nas alíneas a), c), d) e e) do artigo 4.º são distribuídos pelas secções e subsecções como segue:
+Art. 7.º Os vogais referidos nas alíneas a), c), d) e e) do artigo 4.º são distribuídos pelas secções e subsecções como segue:
 
 1.ª secção - O presidente da Corporação da Lavoura, os directores-gerais dos Serviços Hidráulicos, dos Serviços Agrícolas, dos Serviços Florestais e Aquícolas, dos Serviços Industriais, dos Serviços Pecuários, do Trabalho e Corporações, o presidente da Junta de Colonização Interna e o director do Instituto Superior de Agronomia.
 
@@ -270,11 +274,11 @@ e) Os directores do Instituto Superior de Agronomia e da Escola Superior de Medi
 
 15ª secção - O presidente da Corporação da Lavoura, os directores-gerais dos Serviços Agrícolas, dos Serviços Eléctricos, de Minas e serviços Geológicos, dos Serviços Hidráulicos, o director do Instituto Superior de Agronomia e o presidente da Junta de Colonização Interna.
 
-###### Art. 8.º Das comissões ou das subcomissões farão parte vogais representantes dos grémios da lavoura ou das suas federações, indicados pela Corporação da Lavoura, em número pelo menos igual ao número dos vogais mencionados no artigo 7.º para cada uma das secções e de maneira tal que representem os interesses económicos a estudar nas respectivas secções ou subsecções.
+Art. 8.º Das comissões ou das subcomissões farão parte vogais representantes dos grémios da lavoura ou das suas federações, indicados pela Corporação da Lavoura, em número pelo menos igual ao número dos vogais mencionados no artigo 7.º para cada uma das secções e de maneira tal que representem os interesses económicos a estudar nas respectivas secções ou subsecções.
 
 ### CAPÍTULO III — Sessões do Conselho
 
-###### Art. 9.º O Conselho Superior de Agricultura reúne em sessão plenária, por secções ou por subsecções.
+Art. 9.º O Conselho Superior de Agricultura reúne em sessão plenária, por secções ou por subsecções.
 
 § 1.º O Conselho reúne em sessão plenária nos seguintes casos:
 
@@ -284,41 +288,41 @@ e) Os directores do Instituto Superior de Agronomia e da Escola Superior de Medi
 
 § 2.º O vice-presidente assegura o funcionamento das secções e subsecções distribuindo-lhes os assuntos que pela sua especialidade lhes estejam naturalmente adstritos.
 
-###### Art. 10.º As secções e as subsecções são presididas pelo vice-presidente do Conselho Superior de Agricultura, que, nas suas faltas e impedimentos, será substituído pelo presidente da Corporação da Lavoura ou pelo director-geral mais antigo que delas faça parte.
+Art. 10.º As secções e as subsecções são presididas pelo vice-presidente do Conselho Superior de Agricultura, que, nas suas faltas e impedimentos, será substituído pelo presidente da Corporação da Lavoura ou pelo director-geral mais antigo que delas faça parte.
 
 § único. Não estando presente quem nos termos do corpo deste artigo deva assumir a presidência a secção ou subsecção elegerá quem deverá presidir.
 
-###### Art. 11.º Quando o assunto a apreciar for da competência de duas ou mais secções ou subsecções, estas reunirão conjuntamente para dar o seu parecer.
+Art. 11.º Quando o assunto a apreciar for da competência de duas ou mais secções ou subsecções, estas reunirão conjuntamente para dar o seu parecer.
 
-###### Art. 12.º As convocações do Conselho ou de qualquer das suas secções ou subsecções serão feitas por ordem do presidente ou vice-presidente e expedidas pelo secretário com a antecedência necessária para o estudo dos assuntos a discutir, mas nunca inferior a quinze dias, salvo caso de urgência em que este prazo poderá ser reduzido.
+Art. 12.º As convocações do Conselho ou de qualquer das suas secções ou subsecções serão feitas por ordem do presidente ou vice-presidente e expedidas pelo secretário com a antecedência necessária para o estudo dos assuntos a discutir, mas nunca inferior a quinze dias, salvo caso de urgência em que este prazo poderá ser reduzido.
 
-###### Art. 13.º As secções e as subsecções reunirão sempre que seja necessário, funcionando legalmente logo que esteja presente a maioria dos vogais convocados para a sessão.
+Art. 13.º As secções e as subsecções reunirão sempre que seja necessário, funcionando legalmente logo que esteja presente a maioria dos vogais convocados para a sessão.
 
 § único. As secções ou subsecções poderão reunir a pedido de pelo menos um terço dos seus vogais, que indicarão o assunto ou assuntos a inscrever na ordem do dia.
 
-###### Art. 14.º De todas as sessões do Conselho ou de qualquer das suas secções e subsecções serão lavradas actas, das quais deve constar tudo quanto se tiver tratado.
+Art. 14.º De todas as sessões do Conselho ou de qualquer das suas secções e subsecções serão lavradas actas, das quais deve constar tudo quanto se tiver tratado.
 
-###### Art. 15.º A presença dos vogais às reuniões é obrigatória, salvo motivo de força maior devidamente justificado.
+Art. 15.º A presença dos vogais às reuniões é obrigatória, salvo motivo de força maior devidamente justificado.
 
 a) Os vogais funcionários públicos que não justificarem as faltas ficam sujeitos às penalidades impostas por lei;
 
 b) Os vogais representantes da lavoura perdem o mandato no caso de cinco faltas seguidas ou interpoladas dentro do próprio ano.
 
-###### Art. 16.º Os assuntos submetidos à apreciação do Conselho serão resolvidos mediante votação, por forma a estabelecer pelo presidente, que terá também voto de qualidade.
+Art. 16.º Os assuntos submetidos à apreciação do Conselho serão resolvidos mediante votação, por forma a estabelecer pelo presidente, que terá também voto de qualidade.
 
 § 1.º Os vogais a que se refere o § 2.º do artigo 4.º não têm direito a voto.
 
 § 2.º O voto é obrigatório, podendo ser acompanhado de declaração.
 
-###### Art. 17.º Os pareceres do Conselho constituem matéria confidencial até decisão superior.
+Art. 17.º Os pareceres do Conselho constituem matéria confidencial até decisão superior.
 
 #### SECÇÃO I — Ordem dos trabalhos
 
-###### Art. 18.º As sessões do Conselho só poderão funcionar quando estiver presente a maioria dos vogais em exercício.
+Art. 18.º As sessões do Conselho só poderão funcionar quando estiver presente a maioria dos vogais em exercício.
 
-###### Art. 19.º Aberta a sessão proceder-se-á a apreciação da acta da sessão anterior, prèviamente enviada a todos os vogais, a qual se considerará aprovada se não houver reclamação atendível.
+Art. 19.º Aberta a sessão proceder-se-á a apreciação da acta da sessão anterior, prèviamente enviada a todos os vogais, a qual se considerará aprovada se não houver reclamação atendível.
 
-###### Art. 20.º Aprovada a acta, os trabalhos prosseguirão na ordem seguinte:
+Art. 20.º Aprovada a acta, os trabalhos prosseguirão na ordem seguinte:
 
 a) Antes da ordem do dia:
 
@@ -340,29 +344,29 @@ Explicações antes de se encerrar a sessão.
 
 #### SECÇÃO II — Uso da palavra - Discussão e votações
 
-###### Art. 21.º O presidente dirige os trabalhos com a maior liberdade, podendo negar a palavra a qualquer vogal que já a tenha usado mais de duas vezes sobre o assunto em discussão ou retirá-la se o vogal se afastar do mesmo assunto.
+Art. 21.º O presidente dirige os trabalhos com a maior liberdade, podendo negar a palavra a qualquer vogal que já a tenha usado mais de duas vezes sobre o assunto em discussão ou retirá-la se o vogal se afastar do mesmo assunto.
 
-###### Art. 22.º Nenhum vogal pode fazer uso da palavra sem a haver pedido ao presidente e este lha conceder pela ordem da inscrição.
+Art. 22.º Nenhum vogal pode fazer uso da palavra sem a haver pedido ao presidente e este lha conceder pela ordem da inscrição.
 
 § único. Os autores e relatores de propostas, projectos e pareceres interrompem a ordem de inscrição e precederem os demais oradores.
 
-###### Art. 23.º Os vogais não podem ser interrompidos no uso da palavra sem seu consentimento senão nos termos deste regulamento.
+Art. 23.º Os vogais não podem ser interrompidos no uso da palavra sem seu consentimento senão nos termos deste regulamento.
 
-###### Art. 24.º Todo o vogal tem direito a ler ou a pedir a leitura de quaisquer documentos referentes a assuntos em discussão.
+Art. 24.º Todo o vogal tem direito a ler ou a pedir a leitura de quaisquer documentos referentes a assuntos em discussão.
 
-###### Art. 25.º A discussão de qualquer matéria dada para ordem do dia pode ser adiada a pedido fundamentado de um vogal, depois de aprovado pelo Conselho.
+Art. 25.º A discussão de qualquer matéria dada para ordem do dia pode ser adiada a pedido fundamentado de um vogal, depois de aprovado pelo Conselho.
 
-###### Art. 26.º A discussão de um assunto dado para ordem do dia é antecedida pela leitura da matéria, a não ser que o Conselho resolva em contrário e pode realizar-se na generalidade e na especialidade.
+Art. 26.º A discussão de um assunto dado para ordem do dia é antecedida pela leitura da matéria, a não ser que o Conselho resolva em contrário e pode realizar-se na generalidade e na especialidade.
 
-###### Art. 27.º A discussão acaba quando se houver esgotado a inscrição ou por aprovação do requerimento para que a matéria se julgue discutida, seguindo-se imediatamente a votação, quando a houver.
+Art. 27.º A discussão acaba quando se houver esgotado a inscrição ou por aprovação do requerimento para que a matéria se julgue discutida, seguindo-se imediatamente a votação, quando a houver.
 
 § 1.º O requerimento para se julgar a matéria discutida será votado sem discussão.
 
 § 2.º No caso de o Conselho resolver que a matéria está suficientemente discutida fica prejudicado o uso da palavra dos vogais ainda inscritos.
 
-###### Art. 28.º No decurso de uma discussão todo o vogal pode levantar uma questão prévia ou propor, por escrito, quaisquer emendas, substituições, aditamentos ou eliminações sobre a matéria de que se trata.
+Art. 28.º No decurso de uma discussão todo o vogal pode levantar uma questão prévia ou propor, por escrito, quaisquer emendas, substituições, aditamentos ou eliminações sobre a matéria de que se trata.
 
-###### Art. 29.º A ordem da votação das questões será a seguinte:
+Art. 29.º A ordem da votação das questões será a seguinte:
 
 1.º Questões prévias;
 
@@ -376,39 +380,39 @@ Explicações antes de se encerrar a sessão.
 
 ### CAPÍTULO IV — Propostas, projectos e pareceres
 
-###### Art. 30.º Os processos que, por imposição legal ou determinação do Secretário de Estado da Agricultura, sejam submetidos à apreciação do Conselho devem incluir as informações existentes nas respectivas repartições ou serviços, bem como todos os documentos necessários ao completo estudo do assunto.
+Art. 30.º Os processos que, por imposição legal ou determinação do Secretário de Estado da Agricultura, sejam submetidos à apreciação do Conselho devem incluir as informações existentes nas respectivas repartições ou serviços, bem como todos os documentos necessários ao completo estudo do assunto.
 
 § único. Se por deficiência na organização de qualquer processo o Conselho reconhecer que lhe é impossível redigir um parecer, o vice-presidente comunicará ao respectivo organismo as deficiências encontradas, indicando para as suprir o prazo por ele julgado conveniente.
 
-###### Art. 31.º Para estudo dos processos submetidos à apreciação do Conselho será em regra nomeado um vogal como relator.
+Art. 31.º Para estudo dos processos submetidos à apreciação do Conselho será em regra nomeado um vogal como relator.
 
-###### Art. 32.º O vogal designado para relatar um processo elaborará o projecto de parecer devidamente fundamentado, tendo o direito de, por intermédio dos restantes vogais referidos no artigo 4.º, obter das entidades competentes os documentos ou esclarecimentos que sejam necessários ao seu trabalho.
+Art. 32.º O vogal designado para relatar um processo elaborará o projecto de parecer devidamente fundamentado, tendo o direito de, por intermédio dos restantes vogais referidos no artigo 4.º, obter das entidades competentes os documentos ou esclarecimentos que sejam necessários ao seu trabalho.
 
 § único. Os projectos de parecer serão elaborados dentro do prazo que o vice-presidente do Conselho entender necessário, em regra não superior a 30 dias, após a entrega do processo ao relator.
 
-###### Art. 33.º As propostas e projectos referidos no n.º 3.º do artigo 20.º serão lidos pelos seus autores quando da apresentação.
+Art. 33.º As propostas e projectos referidos no n.º 3.º do artigo 20.º serão lidos pelos seus autores quando da apresentação.
 
 § único. O Conselho poderá dispensar a leitura das referidas propostas e projectos no caso de terem sido distribuídas prèviamente cópias dos mesmos.
 
-###### Art. 34.º Após a leitura das propostas ou projectos, ou de ela ser dispensada, o Conselho resolverá sobre a admissão dos mesmos e a oportunidade da sua discussão.
+Art. 34.º Após a leitura das propostas ou projectos, ou de ela ser dispensada, o Conselho resolverá sobre a admissão dos mesmos e a oportunidade da sua discussão.
 
-###### Art. 35.º Resolvida a admissão, as propostas ou projectos serão submetidos a estudo e exame das secções ou subsecções, no caso de sessão plenária, ou ao de consultor ou de relator, no caso de sessão de secção ou de subsecção, para elaboração do projecto de parecer.
+Art. 35.º Resolvida a admissão, as propostas ou projectos serão submetidos a estudo e exame das secções ou subsecções, no caso de sessão plenária, ou ao de consultor ou de relator, no caso de sessão de secção ou de subsecção, para elaboração do projecto de parecer.
 
-###### Art. 36.º A não ser em caso de urgência, nenhuma proposta ou projecto e nenhum parecer poderão ser discutidos sem que tenham sido impressos ou copiados à máquina e distribuídos pelos vogais, pelo menos quinze dias antes daquele em que deverão ser discutidos.
+Art. 36.º A não ser em caso de urgência, nenhuma proposta ou projecto e nenhum parecer poderão ser discutidos sem que tenham sido impressos ou copiados à máquina e distribuídos pelos vogais, pelo menos quinze dias antes daquele em que deverão ser discutidos.
 
-###### Art. 37.º O vogal ou vogais que tiverem apresentado qualquer projecto ou proposta especial poderão retirá-la antes que sobre eles se tenha aberto discussão; depois só poderão fazê-lo com o consentimento do Conselho.
+Art. 37.º O vogal ou vogais que tiverem apresentado qualquer projecto ou proposta especial poderão retirá-la antes que sobre eles se tenha aberto discussão; depois só poderão fazê-lo com o consentimento do Conselho.
 
 § único. No primeiro caso expresso neste artigo outro qualquer vogal tem o direito de adoptar o projecto ou proposta especial, e assim prosseguem como se não houvessem sido retirados.
 
-###### Art. 38.º Os pareceres e os respectivos processos, uma vez despachados pelo Secretário de Estado da Agricultura, serão enviados ao vice-presidente do Conselho Superior de Agricultura, que os devolverá aos serviços respectivos com cópia do parecer e do despacho.
+Art. 38.º Os pareceres e os respectivos processos, uma vez despachados pelo Secretário de Estado da Agricultura, serão enviados ao vice-presidente do Conselho Superior de Agricultura, que os devolverá aos serviços respectivos com cópia do parecer e do despacho.
 
 ### CAPÍTULO V — Actas das sessões
 
-###### Art. 39.º As deliberações do Conselho só podem provar-se pelas respectivas actas.
+Art. 39.º As deliberações do Conselho só podem provar-se pelas respectivas actas.
 
-###### Art. 40.º As actas das sessões devem ser assinadas por quem a elas tiver presidido e pelo secretário.
+Art. 40.º As actas das sessões devem ser assinadas por quem a elas tiver presidido e pelo secretário.
 
-###### Art. 41.º As actas, lavradas em livro especial, devem mostrar clara e precisamente as discussões e as resoluções tomadas pelo Conselho, devendo, portanto, nelas mencionar-se:
+Art. 41.º As actas, lavradas em livro especial, devem mostrar clara e precisamente as discussões e as resoluções tomadas pelo Conselho, devendo, portanto, nelas mencionar-se:
 
 1.º O dia e hora da abertura da sessão;
 
@@ -434,7 +438,7 @@ Explicações antes de se encerrar a sessão.
 
 ### CAPÍTULO VI — Atribuições
 
-###### Art. 42.º Compete, em especial, ao vice-presidente do Conselho:
+Art. 42.º Compete, em especial, ao vice-presidente do Conselho:
 
 1.º Submeter a despacho do Secretário de Estado da Agricultura os assuntos que desse despacho careçam;
 
@@ -450,7 +454,7 @@ Explicações antes de se encerrar a sessão.
 
 7.º Rubricar todos os livros do Conselho e assinar os respectivos termos.
 
-###### Art. 43.º Cumpre aos vogais do Conselho:
+Art. 43.º Cumpre aos vogais do Conselho:
 
 1.º Assistir às sessões para que forem convocados;
 
@@ -460,7 +464,7 @@ Explicações antes de se encerrar a sessão.
 
 4.º Apresentar propostas e pareceres.
 
-###### Art. 44.º Ao secretário do Conselho incumbe:
+Art. 44.º Ao secretário do Conselho incumbe:
 
 1.º Secretariar todas as sessões do Conselho e lavrar as respectivas actas;
 
@@ -476,6 +480,6 @@ Explicações antes de se encerrar a sessão.
 
 7.º Prover todo o expediente do Conselho.
 
-###### Art. 45.º O Conselho Superior de Agricultura editará um boletim no qual serão reunidos os projectos, propostas, pareceres e despachos que o Conselho repute de interesse publicar e, bem assim, o relatório anual da sua actuação.
+Art. 45.º O Conselho Superior de Agricultura editará um boletim no qual serão reunidos os projectos, propostas, pareceres e despachos que o Conselho repute de interesse publicar e, bem assim, o relatório anual da sua actuação.
 
 Ministério da Economia, 27 de Fevereiro de 1961. - O Secretário de Estado da Agricultura, Luís Quartin Graça.

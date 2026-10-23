@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08700/18001802.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1990-332002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ac240c1bfbbaaf75cb5f07c5d3f6565079afb69127047eb85c64e3595243155
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63b8abd3e88f68ed44a8131daa3234dbbf46ec46109b172d20f67918075f4a1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização Legislativa
+- Carta de Condução
+- Código da Estrada
+- Crime
+- Definição de Competências
+- Direcção Geral de Viação
+- Fiscalização Rodoviária
+- Multa
+- Regulamento
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:354485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670072:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:19Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +141,9 @@ Assim:
 
 No uso da autorização legislativa concedida pelas alíneas c) e d) do artigo 2.º da [Lei n.º 31/89](https://diariodarepublica.pt/dr/detalhe/lei/31-1989-618503), de 23 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Quem conduzir veículos automóveis ligeiros ou pesados sem para tal estar habilitado, nos termos do artigo 46.º do Código da Estrada, será punido com prisão até um ano ou multa até 120 dias.
+Artigo 1.º Quem conduzir veículos automóveis ligeiros ou pesados sem para tal estar habilitado, nos termos do artigo 46.º do Código da Estrada, será punido com prisão até um ano ou multa até 120 dias.
 
-###### Art. 2.º - 1 - Os limites máximos de inibição de conduzir previstos no Código da Estrada e demais legislação complementar passarão para o dobro dos actualmente estabelecidos com o limite mínimo de 15 dias.
+Art. 2.º - 1 - Os limites máximos de inibição de conduzir previstos no Código da Estrada e demais legislação complementar passarão para o dobro dos actualmente estabelecidos com o limite mínimo de 15 dias.
 
 2 - Os períodos de inibição terão carácter continuado.
 
@@ -112,7 +153,7 @@ No uso da autorização legislativa concedida pelas alíneas c) e d) do artigo 2
 
 5 - Tratando-se de licença emitida em país estrangeiro, com valor internacional, a decisão de inibição de conduzir é anotada naquela ou, caso tal não seja viável, é a mesma comunicada ao organismo competente do Estado que emitiu a respectiva carta de condução.
 
-###### Art. 3.º O artigo 70.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 910/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/910-1976-391069), de 31 de Dezembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 70.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 910/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/910-1976-391069), de 31 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 70.º — [...]
 
@@ -138,42 +179,42 @@ No uso da autorização legislativa concedida pelas alíneas c) e d) do artigo 2
 
 11 - Quando as infracções previstas no n.º 1 integrem, simultaneamente, um tipo legal de crime, não haverá lugar a pagamento voluntário, sendo o agente sempre punido a título do crime, sem prejuízo da aplicação das sanções acessórias estabelecidas para a contravenção.
 
-###### Art. 4.º - 1 - É proibida a utilização e instalação de quaisquer aparelhos dispositivos ou produtos susceptíveis de revelarem a presença ou perturbarem o funcionamento de instrumentos destinados à detecção ou registo das infracções.
+Art. 4.º - 1 - É proibida a utilização e instalação de quaisquer aparelhos dispositivos ou produtos susceptíveis de revelarem a presença ou perturbarem o funcionamento de instrumentos destinados à detecção ou registo das infracções.
 
 2 - A infracção ao disposto no número anterior constitui contravenção punível com multa de 15000$00 a 75000$00 e determina ainda a apreensão dos respectivos equipamentos, aparelhos ou produtos.
 
-###### Art. 5.º - 1 - Quando os equipamentos referidos no artigo anterior estiverem instalados em veículos e não seja possível a sua imediata remoção, a entidade fiscalizadora pode apreender os respectivos documentos, emitindo documento substitutivo que permita a sua deslocação até ao local indicado pelo respectivo condutor ou proprietário onde a remoção possa ter lugar.
+Art. 5.º - 1 - Quando os equipamentos referidos no artigo anterior estiverem instalados em veículos e não seja possível a sua imediata remoção, a entidade fiscalizadora pode apreender os respectivos documentos, emitindo documento substitutivo que permita a sua deslocação até ao local indicado pelo respectivo condutor ou proprietário onde a remoção possa ter lugar.
 
 2 - A readmissão à circulação fica condicionada à apresentação do veículo à entidade fiscalizadora competente e entrega do equipamento removido.
 
-###### Art. 6.º Em caso de reincidência, a multa referida no n.º 2 do artigo 4.º será elevada nos seus limites, mínimo, e máximo, para o dobro, sendo o condutor punido com inibição de conduzir de 60 a 180 dias.
+Art. 6.º Em caso de reincidência, a multa referida no n.º 2 do artigo 4.º será elevada nos seus limites, mínimo, e máximo, para o dobro, sendo o condutor punido com inibição de conduzir de 60 a 180 dias.
 
-###### Art. 7.º Às multas referidas nos artigos anteriores aplica-se o regime definido no artigo 70.º do Código da Estrada.
+Art. 7.º Às multas referidas nos artigos anteriores aplica-se o regime definido no artigo 70.º do Código da Estrada.
 
-###### Art. 8.º - 1 - O agente que proceda à fiscalização terá acesso ao interior do aparelho tacógrafo, devendo remover o disco respectivo, o qual deverá ser recolocado no final da acção de fiscalização.
+Art. 8.º - 1 - O agente que proceda à fiscalização terá acesso ao interior do aparelho tacógrafo, devendo remover o disco respectivo, o qual deverá ser recolocado no final da acção de fiscalização.
 
 2 - O disco cujas inscrições demonstrem infracção dos limites de velocidade constantes do artigo 7.º do Código da Estrada deverá ser removido e apenso ao auto de transgressão levantado, para efeitos da sua apreciação administrativa ou judicial.
 
-###### Art. 9.º O disco removido nos termos e para os efeitos do artigo anterior deverá ser imediatamente substituído, nele se exarando anotação pela entidade autuante da remoção efectuada e do número do auto a que está apenso.
+Art. 9.º O disco removido nos termos e para os efeitos do artigo anterior deverá ser imediatamente substituído, nele se exarando anotação pela entidade autuante da remoção efectuada e do número do auto a que está apenso.
 
-###### Art. 10.º Nos casos em que não seja possível efectuar a substituição do disco, nos termos do artigo anterior, o condutor será notificado pela entidade autuante para proceder à entrega do mesmo, no prazo de 24 horas, em qualquer posto policial, sob pena de desobediência nos termos do artigo 328.º do Código Penal.
+Art. 10.º Nos casos em que não seja possível efectuar a substituição do disco, nos termos do artigo anterior, o condutor será notificado pela entidade autuante para proceder à entrega do mesmo, no prazo de 24 horas, em qualquer posto policial, sob pena de desobediência nos termos do artigo 328.º do Código Penal.
 
-###### Art. 11.º - 1 - O disposto no artigo 70.º do Código da Estrada com a redacção dada pelo presente diploma será regulamentado por portaria conjunta dos Ministros da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações.
+Art. 11.º - 1 - O disposto no artigo 70.º do Código da Estrada com a redacção dada pelo presente diploma será regulamentado por portaria conjunta dos Ministros da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações.
 
 2 - A redacção dada ao artigo 70.º do Código da Estrada entra em vigor com a regulamentação prevista no número anterior.
 
-###### Art. 12.º - 1 - É revogado o penúltimo parágrafo do n.º 1 do artigo 46.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
+Art. 12.º - 1 - É revogado o penúltimo parágrafo do n.º 1 do artigo 46.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
 
 2 - Fica revogado o n.º 1 do artigo 48.º do Regulamento do Código da Estrada, aprovado pelo Decreto-Lei n.º 39987, de 22 de Dezembro de 1954, a partir da entrada em vigor da portaria prevista no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Manuel Pereira - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 2 de Abril de 1990.**
+Promulgado em 2 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Abril de 1990.**
+Referendado em 5 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

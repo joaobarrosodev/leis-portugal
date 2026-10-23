@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22200/42824283.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1989-548203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ff87b8b28f3746008079d3dcd5a557b93dd08675715cb37c80531eab205dc04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f3f4369fa1703a5adda46f5c0fdaa28f1ad309daa862958865cf4ce600f0dc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contencioso Administrativo
+- Juiz
+- Lei de Processo nos Tribunais Administrativos
+- Supremo Tribunal Administrativo
+- Tribunal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183443:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:309363:por
+  label: Rectificado pela DECL.DD3678.1989.11.29.PCM DR.IS [226]SUPL DE 30/SET/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-309363
+  date: '1989-11-29'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:33Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +118,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 20.º da Lei de Processo nos Tribunais Administrativos, aprovada pelo [Decreto-Lei n.º 267/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1985-183443), de 16 de Julho, passa a ter a seguinte redacção:
+Artigo único. O artigo 20.º da Lei de Processo nos Tribunais Administrativos, aprovada pelo [Decreto-Lei n.º 267/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1985-183443), de 16 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 20.º — [...]
 
@@ -127,12 +146,12 @@ b) Pelos processos no número necessário para, com aqueles, preencher a média 
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 13 de Setembro de 1989.**
+Promulgado em 13 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1989.**
+Referendado em 15 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

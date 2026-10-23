@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1989-550979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dff9af03568c106b1c70ed0e2723a7c0877914698cb747a1fadab20e5da9ae8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dc9b52827f9cbfbc414ad0c8b9e974fbd8de9d2ae851ebfd41b19a379c3b0f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia de Seguros
+- Cosec
+- Cosec-companhia de Seguro de Créditos
+- Empresa Pública
+- Estatuto
+- Privatização
+- Seguro de Créditos
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:217478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620081:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:150292:por
+  label: Retificado o n.º 2 do art. 13.º dos estatutos pelo(a) Declaração - Diário da República n.º 26/1990, 2º Suplemento,
+    Série I de 1990-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-150292
+  date: '1990-01-31'
+- type: repealed_by
+  target: pt:dre:217478:por
+  label: Revogadas as disposições do presente diploma pelo(a) Decreto-Lei n.º 68/92 - Diário da República n.º 97/1992, Série
+    I-A de 1992-04-279 de 23-nov DR.IS [270] que contrariem o disposto neste último
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-1992-217478
+  date: '1992-04-27'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:24Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +128,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A COSEC - Companhia de Seguro de Créditos, E. P., resultante da nacionalização feita pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, e sendo, por força dos Decretos-Leis n.os 72/76, de 27 de Janeiro, e [572-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/572-a-1980-568086), de 26 de Dezembro, uma pessoa colectiva de direito público, com a natureza de empresa pública, é transformada pelo presente diploma em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se COSEC - Companhia de Seguro de Créditos, S. A.
+Artigo 1.º - 1 - A COSEC - Companhia de Seguro de Créditos, E. P., resultante da nacionalização feita pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, e sendo, por força dos Decretos-Leis n.os 72/76, de 27 de Janeiro, e [572-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/572-a-1980-568086), de 26 de Dezembro, uma pessoa colectiva de direito público, com a natureza de empresa pública, é transformada pelo presente diploma em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se COSEC - Companhia de Seguro de Créditos, S. A.
 
 2 - A COSEC - Companhia de Seguro de Créditos, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pelas normas gerais e especiais reguladoras da actividade seguradora e do seguro de créditos.
 
-###### Art. 2.º - 1 - A COSEC - Companhia de Seguro de Créditos, S. A., sucede automática e globalmente à empresa pública COSEC - Companhia de Seguro de Créditos, E. P., e continua, sob a forma referida no artigo anterior e sem quebra de identidade, a personalidade jurídica desta, conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais, integrantes do património de que esta era titular no momento da transformação.
+Art. 2.º - 1 - A COSEC - Companhia de Seguro de Créditos, S. A., sucede automática e globalmente à empresa pública COSEC - Companhia de Seguro de Créditos, E. P., e continua, sob a forma referida no artigo anterior e sem quebra de identidade, a personalidade jurídica desta, conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais, integrantes do património de que esta era titular no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da COSEC - Companhia de Seguro de Créditos, S. A., ou por dois membros do conselho de gestão da COSEC- Companhia de Seguro de Créditos, E. P., que se encontrem em exercício nos termos do artigo 10.º
 
-###### Art. 3.º - 1 - A COSEC - Companhia de Seguro de Créditos, S. A., tem inicialmente um capital social de 250000000$00, integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
+Art. 3.º - 1 - A COSEC - Companhia de Seguro de Créditos, S. A., tem inicialmente um capital social de 250000000$00, integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 
 2 - O capital social referido no número anterior é representado por 250000 acções com o valor nominal de 1000$00, as quais serão geridas pela Direcção-Geral do Tesouro, ou pela entidade do sector público a quem esta conferir a gestão, sem prejuízo, em qualquer caso, de o exercício dos direitos respectivos em assembleia geral se fazer sempre através de representante designado para o efeito por despacho do Ministro das Finanças.
 
-###### Art. 4.º - 1 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
+Art. 4.º - 1 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
 
 a) As acções do tipo A são nominativas e apenas podem pertencer ao Estado, a pessoas colectivas de direito público ou a outras entidades que, por imposição legal, devam pertencer ao sector público;
 
@@ -122,13 +154,13 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 3 - As acções representativas do capital social da COSEC - Companhia de Seguro de Créditos, S. A., e as novas acções emitidas por força de aumentos de capital poderão ser alienadas, nos termos da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
-###### Art. 5.º A COSEC - Companhia de Seguro de Créditos, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 5.º A COSEC - Companhia de Seguro de Créditos, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 6.º - 1 - São aprovados os estatutos iniciais da COSEC - Companhia de Seguro de Créditos, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo ser registados oficiosamente sem taxas ou emolumentos, e entram em vigor na data que começar a produzir efeitos a transformação operada por este diploma.
+Art. 6.º - 1 - São aprovados os estatutos iniciais da COSEC - Companhia de Seguro de Créditos, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo ser registados oficiosamente sem taxas ou emolumentos, e entram em vigor na data que começar a produzir efeitos a transformação operada por este diploma.
 
 2 - As alterações estatutárias podem ser deliberadas nos termos dos estatutos e com observância do disposto na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, na lei comercial e no presente diploma, não sendo dispensada a sua redução a escritura pública, registo e publicações, nos termos gerais.
 
-###### Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministro das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministro das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -138,47 +170,47 @@ b) Quaisquer elementos adequados à integral compreensão da situação económi
 
 3 - O conselho fiscal enviará trimestralmente ao Ministro das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 8.º - 1 - Os titulares dos órgãos sociais e os trabalhadores estão sujeitos às disposições legais relativas ao segredo bancário.
+Art. 8.º - 1 - Os titulares dos órgãos sociais e os trabalhadores estão sujeitos às disposições legais relativas ao segredo bancário.
 
 2 - Não poderão ser mediadores da COSEC - Companhia de Seguro de Créditos, S. A., os respectivos trabalhadores.
 
-###### Art. 9.º - 1 - Os trabalhadores e pensionistas da COSEC - Companhia de Seguro de Créditos, E. P., mantêm todos os seus direitos, obrigações e regalias emergentes dos contratos individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma, sem prejuízo de eventuais alterações posteriores nos contratos colectivos de trabalho.
+Art. 9.º - 1 - Os trabalhadores e pensionistas da COSEC - Companhia de Seguro de Créditos, E. P., mantêm todos os seus direitos, obrigações e regalias emergentes dos contratos individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma, sem prejuízo de eventuais alterações posteriores nos contratos colectivos de trabalho.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na COSEC - Companhia de Seguro de Créditos, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naquele quadro.
 
 3 - A situação dos trabalhadores da COSEC - Companhia de Seguro de Créditos, S. A., que, chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada serão prejudicados por esse facto, regressando aos seus lugares logo que terminem o mandato ou o tempo de requisição.
 
-###### Art. 10.º Fica desde já convocada a assembleia geral da COSEC - Companhia de Seguro de Créditos, S A., a qual reunirá na sede da sociedade pelas 17 horas do 30.º dia posterior à data de publicação do presente diploma, com o objectivo de eleger os titulares dos corpos sociais e deliberar sobre a respectiva remuneração, mantendo-se em funções até à tomada de posse dos novos corpos sociais os actuais membros do conselho de gestão e da comissão de fiscalização da COSEC - Companhia de Seguro de Créditos, E. P.
+Art. 10.º Fica desde já convocada a assembleia geral da COSEC - Companhia de Seguro de Créditos, S A., a qual reunirá na sede da sociedade pelas 17 horas do 30.º dia posterior à data de publicação do presente diploma, com o objectivo de eleger os titulares dos corpos sociais e deliberar sobre a respectiva remuneração, mantendo-se em funções até à tomada de posse dos novos corpos sociais os actuais membros do conselho de gestão e da comissão de fiscalização da COSEC - Companhia de Seguro de Créditos, E. P.
 
 Visto e aprovado em Conselho de Ministros de 10 de Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 14 de Novembro de 1989.**
+Promulgado em 14 de Novembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Novembro de 1989.**
+Referendado em 16 de Novembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTOS
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de COSEC - Companhia de Seguro de Créditos, S.A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de COSEC - Companhia de Seguro de Créditos, S.A.
 
-###### Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa, na Avenida da República, 58.
+Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa, na Avenida da República, 58.
 
 2 - Por deliberação do conselho de administração pode a sociedade mudar a sua sede dentro do concelho de Lisboa ou para concelho limítrofe e, bem assim, estabelecer sucursais, agências, delegações ou quaisquer outras formas locais de representação no território nacional ou no estrangeiro.
 
-###### Art. 3.º - 1 - A COSEC - Companhia de Seguro de Créditos, S. A., tem por objecto social o exercício das actividades de seguro directo no ramo de crédito, à exportação e no mercado interno, incluindo créditos financeiros e o seguro do investimento, e no ramo de caução e de resseguro, podendo ainda explorar outros ramos de seguros directos não vida e exercer actividades conexas ou complementares das de seguro e resseguro e ainda a prestação de informações comerciais no mercado interno e para o externo e a cobrança de créditos por conta de seguradoras congéneres.
+Art. 3.º - 1 - A COSEC - Companhia de Seguro de Créditos, S. A., tem por objecto social o exercício das actividades de seguro directo no ramo de crédito, à exportação e no mercado interno, incluindo créditos financeiros e o seguro do investimento, e no ramo de caução e de resseguro, podendo ainda explorar outros ramos de seguros directos não vida e exercer actividades conexas ou complementares das de seguro e resseguro e ainda a prestação de informações comerciais no mercado interno e para o externo e a cobrança de créditos por conta de seguradoras congéneres.
 
 2 - Compete à COSEC - Companhia de Seguro de Créditos, S. A., nos termos legalmente definidos, emitir e gerir as garantias e promessas de garantia do Estado relativamente aos ramos de credito e caução e ao seguro de investimento.
 
 ### CAPÍTULO II — Capital social e acções
 
-###### Art. 4.º - 1 - O capital social é, em qualquer momento, representado por acções do tipo A e do tipo B, com as seguintes características:
+Art. 4.º - 1 - O capital social é, em qualquer momento, representado por acções do tipo A e do tipo B, com as seguintes características:
 
 a) As acções do tipo A são nominativas e só podem ser detidas pelo Estado, pessoas colectivas de direito público ou outras entidades que, por imposição legal, devam pertencer ao sector público;
 
@@ -194,7 +226,7 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 4 - As acções representativas do capital social da COSEC - Companhia de Seguro de Créditos, S. A., e as novas acções emitidas por força de aumentos de capital poderão ser alienadas nos termos da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
-###### Art. 5.º - 1 - O capital social é de 250000000$00, estando integralmente subscrito e realizado pelo Estado à data da entrada em vigor dos presentes estatutos.
+Art. 5.º - 1 - O capital social é de 250000000$00, estando integralmente subscrito e realizado pelo Estado à data da entrada em vigor dos presentes estatutos.
 
 2 - O capital social referido no número anterior é representado por 250000 acções com o valor nominal de 1000$00 cada uma, sendo 127500 do tipo A e 122500 do tipo B.
 
@@ -204,7 +236,7 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 5 - As acções que vierem a ser emitidas em aumentos de capital da sociedade serão do tipo A e do tipo B, na proporção que se acha definida no n.º 2.
 
-###### Art. 6.º - 1 - O conselho de administração tem competência para deliberar o aumento do capital social referido no n.º 1 do artigo 5.º, por uma ou mais vezes, até ao montante de 500000000$00.
+Art. 6.º - 1 - O conselho de administração tem competência para deliberar o aumento do capital social referido no n.º 1 do artigo 5.º, por uma ou mais vezes, até ao montante de 500000000$00.
 
 2 - Os aumentos de capital para além do limite definido no número anterior serão deliberados pela assembleia geral.
 
@@ -216,7 +248,7 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 7.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O mandato dos membros dos órgãos sociais tem a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.
 
@@ -226,7 +258,7 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto, não sendo permitido que às suas reuniões assistam accionistas sem direito de voto.
+Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto, não sendo permitido que às suas reuniões assistam accionistas sem direito de voto.
 
 2 - A cada 100 acções corresponde 1 voto na assembleia geral.
 
@@ -244,7 +276,7 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 9 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito de voto.
 
-###### Art. 9.º - 1 - Compete à assembleia geral:
+Art. 9.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração e discutir e votar o balanço, as contas e o parecer do conselho fiscal;
 
@@ -266,17 +298,17 @@ h) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - Para efeitos de alterações estatutárias ou de eleições de titulares dos órgãos sociais, a assembleia geral só pode reunir encontrando-se presentes accionistas que representem, pelo menos, 51% do capital social.
 
-###### Art. 10.º A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda composta por um vice-presidente e dois secretários, sendo as respectivas faltas supridas nos termos da lei comercial.
+Art. 10.º A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda composta por um vice-presidente e dois secretários, sendo as respectivas faltas supridas nos termos da lei comercial.
 
-###### Art. 11.º A assembleia reúne ordinariamente uma vez por ano, para os efeitos das alíneas a), b) e c) do n.º 1 do artigo 9.º, e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 5% do capital, em carta com assinatura reconhecida pelo notário, ou autenticada por instituição de crédito, em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
+Art. 11.º A assembleia reúne ordinariamente uma vez por ano, para os efeitos das alíneas a), b) e c) do n.º 1 do artigo 9.º, e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 5% do capital, em carta com assinatura reconhecida pelo notário, ou autenticada por instituição de crédito, em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 12.º - 1 - O conselho de administração é composto por um presidente e por quatro vogais.
+Art. 12.º - 1 - O conselho de administração é composto por um presidente e por quatro vogais.
 
 2 - O conselho de administração poderá delegar numa comissão executiva constituída por três administradores algum ou alguns dos poderes que lhe são conferidos, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 13.º - 1 - Compete ao conselho de administração, além das atribuições gerais que por lei lhe são conferidas:
+Art. 13.º - 1 - Compete ao conselho de administração, além das atribuições gerais que por lei lhe são conferidas:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -298,7 +330,7 @@ i) Exercer as demais competências que lhe sejam atribuídas pela assembleia ger
 
 2 - O conselho de administração deve, pelo menos 15 dias antes da data da assembleia geral para aprovação do relatório e contas, enviar ao Ministro das Finanças, para apreciação, o relatório e contas, acompanhados de documento comprovativo da concessão do visto formal pelo Instituto de Seguros de Portugal, e de quaisquer outros elementos adequados à integral compreensão da situação económica e financeira da sociedade e perspectivas da sua evolução.
 
-###### Art. 14.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 14.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho de administração;
 
@@ -310,17 +342,17 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 15.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a solicitação de dois administradores.
+Art. 15.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a solicitação de dois administradores.
 
 2 - O conselho não pode deliberar sem que esteja presente a maioria dos seus membros, salvo por motivo de urgência, como tal reconhecido expressamente pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
 
 3 - As deliberações do conselho de administração serão tomadas por maioria dos votos expressos, tendo o presidente, ou quem o substituir, voto de qualidade.
 
-###### Art. 16.º - 1 - Das reuniões do conselho de administração devem ser elaboradas actas, nas quais são mencionados, de forma sucinta mas clara, todos os assuntos tratados, que devem ser assinadas por todos os presentes na respectiva reunião.
+Art. 16.º - 1 - Das reuniões do conselho de administração devem ser elaboradas actas, nas quais são mencionados, de forma sucinta mas clara, todos os assuntos tratados, que devem ser assinadas por todos os presentes na respectiva reunião.
 
 2 - Os participantes nas reuniões podem ditar para a acta a súmula das suas intervenções e, designadamente, as suas declarações de voto de discordância das decisões tomadas.
 
-###### Art. 17.º - 1 - A sociedade obriga-se:
+Art. 17.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração, que deverão integrar a comissão executiva, quando esta existir;
 
@@ -334,11 +366,11 @@ b) Pela assinatura de mandatário constituído no âmbito e nos termos do corres
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 18.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
+Art. 18.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
-###### Art. 19.º - 1 - O conselho fiscal tem a competência fixada na lei e em especial:
+Art. 19.º - 1 - O conselho fiscal tem a competência fixada na lei e em especial:
 
 a) Examinar, sempre que o julgue conveniente, a escrituração da sociedade;
 
@@ -352,7 +384,7 @@ d) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 3 - Compete ainda ao conselho fiscal enviar trimestralmente ao Ministro das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 20.º - 1 - O conselho fiscal reunirá, pelo menos, todos os trimestres e ainda sempre que seja convocado pelo seu presidente, por iniciativa própria ou a solicitação de outro membro.
+Art. 20.º - 1 - O conselho fiscal reunirá, pelo menos, todos os trimestres e ainda sempre que seja convocado pelo seu presidente, por iniciativa própria ou a solicitação de outro membro.
 
 2 - As deliberações do conselho fiscal serão tomadas por maioria dos votos expressos, estando presente a maioria dos seus membros em exercício.
 
@@ -360,7 +392,7 @@ d) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 ### CAPÍTULO IV — Aplicação de resultados
 
-###### Art. 21.º Anualmente será dado balanço com referência a 31 de Dezembro, a aprovar, nos termos da lei, pela assembleia geral, tendo os lucros do exercício a seguinte aplicação:
+Art. 21.º Anualmente será dado balanço com referência a 31 de Dezembro, a aprovar, nos termos da lei, pela assembleia geral, tendo os lucros do exercício a seguinte aplicação:
 
 a) Cobertura dos prejuízos de exercícios anteriores;
 
@@ -374,10 +406,10 @@ e) O restante para os fins que a assembleia geral delibere.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 22.º Enquanto não puder ser dado cumprimento ao estabelecido na alínea f) do n.º 1 do artigo 9.º, nomeadamente por existir um número de accionistas igual ou inferior a três, as remunerações dos membros do conselho de administração e do conselho fiscal serão fixadas por deliberação da própria assembleia geral.
+Art. 22.º Enquanto não puder ser dado cumprimento ao estabelecido na alínea f) do n.º 1 do artigo 9.º, nomeadamente por existir um número de accionistas igual ou inferior a três, as remunerações dos membros do conselho de administração e do conselho fiscal serão fixadas por deliberação da própria assembleia geral.
 
-###### Art. 23.º - 1 - A sociedade dissolve-se nos termos legais.
+Art. 23.º - 1 - A sociedade dissolve-se nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

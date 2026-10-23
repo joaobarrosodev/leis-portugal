@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1989-549249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: babd5e850d402781476952dba29ce8c42dfdf2f9c072f644f7b2dcd19d8ca231
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adc9f31b984ea4981bcdee593de79cd92916ae88a28666c4db71a95a7bf15d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Contratação Colectiva
+- Convenção Coletiva de Trabalho
+- Definição de Competências
+- Governo Regional
+- Madeira.região Autónoma
+- Trabalho
+relationships:
+- type: cites
+  target: pt:dre:325514:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:28Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +107,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 1.º e 2.º do [Decreto-Lei n.º 103/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1985-325514), de 10 de Abril, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º e 2.º do [Decreto-Lei n.º 103/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1985-325514), de 10 de Abril, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - (O actual artigo 1.º)
+Artigo 1.º - 1 - (O actual artigo 1.º)
 
 2 - A competência prevista no número anterior não pode ser exercida quando tenha sido publicado, pelo Governo da República, aviso para portaria de extensão cujo âmbito de aplicação compreende a área geográfica regional.
 
 3 - No caso previsto no número anterior, o Governo da República ouvirá previamente os governos regionais sobre a emissão da portaria de extensão.
 
-###### Art. 2.º - 1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no n.º 1 do artigo anterior serão emitidos pelo governo regional e objecto de publicação no Jornal Oficial de cada região autónoma.
+Art. 2.º - 1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no n.º 1 do artigo anterior serão emitidos pelo governo regional e objecto de publicação no Jornal Oficial de cada região autónoma.
 
 2 - As oposições deverão ser deduzidas junto das respectivas secretarias regionais competentes nesta matéria.
 
@@ -114,12 +125,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - José Albino da Silva Peneda.
 
-**Promulgado em 5 de Outubro de 1989.**
+Promulgado em 5 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1989.**
+Referendado em 6 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

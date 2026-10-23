@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07300/13301332.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1989-614669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48279cc7a83c7d63b4696ab40b5f96ef6c589a7b94272b46bd15f3feb99fa52f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 465c3207de4ea9fb767bbf3767e34e1d8ca6e9650b578b1b9f1a24940f137f53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Formas de Provimento
+- Inspecção Geral da Administração do Território
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:375435:por
+  label: "Alterado o art. 28º do Dec Lei 64/87 de 06-Fev, com a redacção constante do presente diploma, pelo DEC LEI.242/93.08.07.1993.MPLAT,\
+    \ DR.IS-A [158] de 08.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1993-375435
+  date: '1993-07-08'
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665754:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:39Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +132,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 13.º, 20.º, 26.º, 27.º e 28.º do [Decreto-Lei n.º 64/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893), de 6 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 13.º, 20.º, 26.º, 27.º e 28.º do [Decreto-Lei n.º 64/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893), de 6 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 13.º — Direcção, constituição e competência da Repartição Administrativa
 
@@ -212,7 +246,7 @@ b) Indivíduos possuidores de curso superior e adequada experiência profissiona
 
 8 - No caso previsto no número anterior é reservado aos secretários judiciais e escrivães de direito a faculdade de opção pelas remunerações previstas no n.º 5 do artigo 63.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, e demais regalias auferidas no quadro de origem.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 64/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893), de 6 de Fevereiro, o artigo 26.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 64/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893), de 6 de Fevereiro, o artigo 26.º-A, com a seguinte redacção:
 
 ###### Artigo 26.º-A — Classificação anual de serviço
 
@@ -220,35 +254,35 @@ b) Indivíduos possuidores de curso superior e adequada experiência profissiona
 
 2 - Enquanto não for publicada a portaria referida no número anterior, a classificação de serviço será atribuída pelo inspector-geral.
 
-###### Art. 3.º Os anexos I e II do [Decreto-Lei n.º 64/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893), de 6 de Fevereiro, são substituídos pelos anexos I, II e III deste diploma, que dele fazem parte integrante.
+Art. 3.º Os anexos I e II do [Decreto-Lei n.º 64/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893), de 6 de Fevereiro, são substituídos pelos anexos I, II e III deste diploma, que dele fazem parte integrante.
 
-###### Art. 4.º - 1 - A transição do actual pessoal técnico superior de inspecção da IGAT para as novas categorias opera-se de acordo com o quadro II anexo e, em relação aos inspectores superiores administrativos também de harmonia com o n.º 2 do artigo 8.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, e seu mapa III.
+Art. 4.º - 1 - A transição do actual pessoal técnico superior de inspecção da IGAT para as novas categorias opera-se de acordo com o quadro II anexo e, em relação aos inspectores superiores administrativos também de harmonia com o n.º 2 do artigo 8.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, e seu mapa III.
 
 2 - A transição a que se refere o número anterior está apenas sujeita a anotação da nova situação pelo Tribunal de Contas e a publicação no Diário da República, não dependendo de quaisquer outros requisitos.
 
 3 - Releva para todos os efeitos legais, com excepção dos remuneratórios, o tempo de serviço anteriormente prestado nas categorias revalorizadas ou reclassificadas pelo presente diploma.
 
-###### Art. 5.º Este diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos, no que se refere às reclassificações e revalorizações nele estabelecidas, desde 1 de Janeiro de 1988, nos termos do artigo 15.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+Art. 5.º Este diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos, no que se refere às reclassificações e revalorizações nele estabelecidas, desde 1 de Janeiro de 1988, nos termos do artigo 15.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1989.**
+Referendado em 16 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1 do artigo 27.º do [Decreto-Lei n.º 64/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/07300/13301332.pdf))](https://files.diariodarepublica.pt/1s/1989/03/07300/13301332.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/07300/13301332.pdf)
 
 ## ANEXO II — Quadro o a que se refere o n.º 1 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/07300/13301332.pdf))](https://files.diariodarepublica.pt/1s/1989/03/07300/13301332.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/07300/13301332.pdf)
 
 ## ANEXO III — Reverso do cartão modelo n.º 1
 

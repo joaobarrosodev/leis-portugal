@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18266-1961-555790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6369a13bf117809946b991def5f8e697450ec459fb808fc1e5a6ad40316dcde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d56768b59e647cd4090d82f4ff3e325cf8648106c49e7c9d8c7daefbf711525d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:479899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:15Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 É tornado extensivo às províncias ultramarinas o artigo 3.º do [Decreto-Lei n.º 43460](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43460-1960-479899), de 31 de Dezembro de 1960, na parte em que deu nova redacção ao corpo do artigo 28.º do Código de Processo Penal, com as alterações seguintes:
 
-###### Art. 28.º O defensor oficioso que recuse sem causa justificada, nos termos do § único do artigo 24.º, o patrocínio do réu, e o defensor oficioso ou constituído que o abandone, sem ter sido devidamente substituído, será suspenso do exercício da sua profissão de um mês a um ano. Se não for advogado, será condenado em multa de 100$00 a 1000$00.
+Art. 28.º O defensor oficioso que recuse sem causa justificada, nos termos do § único do artigo 24.º, o patrocínio do réu, e o defensor oficioso ou constituído que o abandone, sem ter sido devidamente substituído, será suspenso do exercício da sua profissão de um mês a um ano. Se não for advogado, será condenado em multa de 100$00 a 1000$00.
 
 Não é equiparada à recusa ou ao abandono do patrocínio a mera falta do advogado a acto a que deva comparecer. As sanções referidas serão aplicadas pelo tribunal no próprio processo.
 

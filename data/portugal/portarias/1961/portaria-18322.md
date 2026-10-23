@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18322-1961-560652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c22fbb6819e139319b4c102710be6c5e298d33762eb13c3d9304085ea494738f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3821511ea4726ca58196832cc584e60dd08fa6747a24766e2b824d1b7b3c920
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:528266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:31Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +99,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Eliminar as receitas previstas no capítulo 9.º, artigos 92.º, 93.º e 94.º, do orçamento da receita extraordinária do orçamento geral de 1960 e substituí-las pelas seguintes:
 
-###### Artigo 92.º «Rendimento das concessões petrolíferas a aplicar a»:
+Artigo 92.º «Rendimento das concessões petrolíferas a aplicar a»:
 
 I) «Aproveitamento de recursos»:
 
@@ -127,7 +135,7 @@ IV) «Equipamento de serviços públicos»:
 
 ... 37869927$17
 
-###### Artigo 93.º «Empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 39179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39179-1953-528266), de 21 de Abril de 1953, a aplicar a»:
+Artigo 93.º «Empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 39179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39179-1953-528266), de 21 de Abril de 1953, a aplicar a»:
 
 I) «Aproveitamento de recursos»:
 
@@ -143,7 +151,7 @@ II) «Comunicações e transportes»:
 
 ... 1669493$72
 
-###### Artigo 94.º «Saldos das contas de exercícios findos a aplicar a»:
+Artigo 94.º «Saldos das contas de exercícios findos a aplicar a»:
 
 I) «Aproveitamento de recursos»:
 
@@ -161,7 +169,7 @@ a) «Fomento agrário» ... 1025000$00
 
 2.º Eliminar e substituir pelas que se indicam as despesas do capítulo 12.º, artigo 279.º, da tabela de despesa extraordinária do mesmo orçamento geral:
 
-###### Artigo 279.º «II Plano de Fomento - Programa de execução, 1960»:
+Artigo 279.º «II Plano de Fomento - Programa de execução, 1960»:
 
 I) «Aproveitamento de recursos»:
 

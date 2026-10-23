@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1989-612403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8eef16c6bf9b751240ee3a293c6ab86bb9d6f27d077ed317337b370d154621d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1ce0ed2d4bf30c09edf23b448e1af1be9ff5c856db5fa0af7210342e7b47a24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- CEE
+- Comissão do Mercado de Cereais
+- Contribuições e Impostos
+- Importação
+- Imposto Compensatório
+- Preço
+- Preço Limiar
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:575689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:610018:por
+  label: Transferidas para o INGA todas as atribuições e competências da CMC previstas no presente diploma pelo(a) Decreto-Lei
+    n.º 181/89 - Diário da República n.º 123/1989, Série I de 1989-05-30, nos termos do art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1989-610018
+  date: '1989-05-30'
+- type: amended_by
+  target: pt:dre:575689:por
+  label: "Alterados os arts. 5º e 9º pelo DEC LEI.225/90.10.07.1990.MAPA, DR.IS [157] de 10.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-1990-575689
+  date: '1990-07-10'
+- type: cites
+  target: pt:dre:148778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663150:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:44Z'
   warnings: []
   errors: []
 ---
@@ -218,17 +254,17 @@ Este diploma produz efeitos no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 9 de Fevereiro de 1989.**
+Promulgado em 9 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1989.**
+Referendado em 9 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04400/07540757.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04400/07540757.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04400/07540757.pdf)
 
 ## ANEXO II
 

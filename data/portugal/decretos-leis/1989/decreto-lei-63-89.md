@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04600/08250829.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1989-612436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae7b4a69806a489e759735a03c58d7ecec7a35cd7ce26a345f64416a05a0db17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a369d559d4bb7f7fc3356f43aef64af4448a442a98b0e334c7f3a39ca8dfffb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Arrendamento Rural
+- Contrato
+- Contrato de Concessão
+- Cooperativa Agrícola
+- Exploração Agrícola
+- Exploração Agrícola Familiar
+- Exploração de Campanha
+- Exploração de Prédios Expropriados
+- Expropriação
+- Jovem Agricultor
+- Licença de Uso Privativo
+- Prédio Rústico
+- Reforma Agrária
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:144991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:355489:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:598767:por
+  label: "Revogado pelo DEC LEI.158/91.26.04.1991.MAPA, DR.IS-A [96] de 26.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1991-598767
+  date: '1991-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:54Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +123,9 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 109/88](https
 
 ### CAPÍTULO I — Tipos de contratos de entrega para exploração
 
-###### Artigo 1.º O presente diploma define o regime de entrega para exploração dos prédios expropriados ou nacionalizados no âmbito da reforma agrária.
+Artigo 1.º O presente diploma define o regime de entrega para exploração dos prédios expropriados ou nacionalizados no âmbito da reforma agrária.
 
-###### Art. 2.º - 1 - A entrega para exploração dos prédios expropriados ou nacionalizados a que se refere o artigo anterior pode ser efectuada mediante:
+Art. 2.º - 1 - A entrega para exploração dos prédios expropriados ou nacionalizados a que se refere o artigo anterior pode ser efectuada mediante:
 
 a) Concessão de exploração;
 
@@ -117,7 +141,7 @@ d) Exploração de campanha.
 
 4 - Os contratos referidos nas alíneas a) e b) do n.º 1 só excepcionalmente podem ser utilizados, devendo, preferencialmente, celebrar-se o contrato de arrendamento rural.
 
-###### Art. 3.º - 1 - Para efeitos do presente diploma, entende-se por:
+Art. 3.º - 1 - Para efeitos do presente diploma, entende-se por:
 
 a) Concessão de exploração - contrato oneroso pelo qual o Estado transfere para uma empresa agrícola a gestão de um estabelecimento agrícola, conferindo-lhe o direito de o usar, fruir e administrar sem prejuízo do disposto no capítulo da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro;
 
@@ -129,31 +153,31 @@ d) Pequeno e médio agricultor (PMA) - agricultor autónomo, jovem agricultor ou
 
 ### CAPÍTULO II — Competências para dispor do direito de exploração dos prédios
 
-###### Art. 4.º Compete às direcções regionais de agricultura ou à entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar instruir e fiscalizar o processo administrativo de contratação.
+Art. 4.º Compete às direcções regionais de agricultura ou à entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar instruir e fiscalizar o processo administrativo de contratação.
 
 ### CAPÍTULO III — Área e limites de exploração
 
-###### Art. 5.º A dimensão mínima indispensável ao estabelecimento de uma exploração agrícola do tipo familiar, para os efeitos do artigo 12.º da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, é fixada em 25000 pontos.
+Art. 5.º A dimensão mínima indispensável ao estabelecimento de uma exploração agrícola do tipo familiar, para os efeitos do artigo 12.º da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, é fixada em 25000 pontos.
 
-###### Art. 6.º A área de exploração das entidades colectivas referidas no artigo 12.º, n.º 1, alíneas b) e c), da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, não pode ser superior a 750000 pontos.
+Art. 6.º A área de exploração das entidades colectivas referidas no artigo 12.º, n.º 1, alíneas b) e c), da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, não pode ser superior a 750000 pontos.
 
-###### Art. 7.º - 1 - A área a entregar a entidades singulares, independentemente da pontuação, respeitará os limites mínimos e máximos constantes da tabela anexa ao presente diploma, que dele faz parte integrante.
+Art. 7.º - 1 - A área a entregar a entidades singulares, independentemente da pontuação, respeitará os limites mínimos e máximos constantes da tabela anexa ao presente diploma, que dele faz parte integrante.
 
 2 - Os presentes limites não se aplicam às explorações já constituídas ou lotes já entregues ao abrigo da legislação anterior à [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro.
 
 ### CAPÍTULO IV — Beneficiário da entrega para exploração
 
-###### Art. 8.º - 1 - Os prédios expropriados ou nacionalizados são entregues para exploração a beneficiários constitucionalmente susceptíveis de recebê-los e aptos a contribuírem para os objectivos da política agrícola.
+Art. 8.º - 1 - Os prédios expropriados ou nacionalizados são entregues para exploração a beneficiários constitucionalmente susceptíveis de recebê-los e aptos a contribuírem para os objectivos da política agrícola.
 
 2 - O Estado, ou qualquer outra pessoa colectiva pública, pode, sem se constituir na obrigação de indemnização, resolver unilateralmente o contrato ou rescindir a relação jurídica pela qual qualquer entidade, com a exploração de um prédio expropriado ou nacionalizado, infringe o regime imperativo do uso da terra e não execute os planos de exploração aprovados.
 
 3 - O disposto no número anterior é aplicável aos casos em que as entidades que as exploram tenham abandonado total ou parcialmente, ou cedido a outrem a sua exploração, os respectivos estabelecimentos agrícolas ou se achem em situação de inviabilidade ou insolvência económica.
 
-###### Art. 9.º Os prédios expropriados ou nacionalizados podem igualmente ser geridos pelo próprio Estado ou por outra pessoa colectiva pública desde que para fins de investigação agrária, de extensão rural ou de formação profissional agrária.
+Art. 9.º Os prédios expropriados ou nacionalizados podem igualmente ser geridos pelo próprio Estado ou por outra pessoa colectiva pública desde que para fins de investigação agrária, de extensão rural ou de formação profissional agrária.
 
-###### Art. 10.º Os prédios expropriados ou nacionalizados que não sejam geridos pelo Estado ou por qualquer outra pessoa colectiva pública, dentro dos limites da lei, serão entregues para exploração a pequenas agricultores ou pequenas e médios agricultores (PMA) ou cooperativas agrícolas.
+Art. 10.º Os prédios expropriados ou nacionalizados que não sejam geridos pelo Estado ou por qualquer outra pessoa colectiva pública, dentro dos limites da lei, serão entregues para exploração a pequenas agricultores ou pequenas e médios agricultores (PMA) ou cooperativas agrícolas.
 
-###### Art. 11.º - 1 - Na determinação do tipo de empresa que poderá candidatar-se à celebração do contrato observar-se-á a seguinte ordem de preferência:
+Art. 11.º - 1 - Na determinação do tipo de empresa que poderá candidatar-se à celebração do contrato observar-se-á a seguinte ordem de preferência:
 
 a) Pequenos agricultores da região ou PMA que vivam exclusivamente da agricultura;
 
@@ -173,7 +197,7 @@ a) Quaisquer funcionários ou agentes do Ministério da Agricultura, Pescas e Al
 
 b) Reformados com idade superior a 60 anos.
 
-###### Art. 12.º - 1 - Na determinação da área dos prédios que será afecta a cada estabelecimento agrícola para instalação de empresas economicamente viáveis ter-se-á em especial atenção a capacidade de uso do solo, as culturas nele existentes ou possíveis e a configuração do prédio expropriado ou nacionalizado no passado mais próximo, de forma a conseguir-se um ordenamento equilibrado do território.
+Art. 12.º - 1 - Na determinação da área dos prédios que será afecta a cada estabelecimento agrícola para instalação de empresas economicamente viáveis ter-se-á em especial atenção a capacidade de uso do solo, as culturas nele existentes ou possíveis e a configuração do prédio expropriado ou nacionalizado no passado mais próximo, de forma a conseguir-se um ordenamento equilibrado do território.
 
 2 - A direcção regional de agricultura ou a entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar efectuará os estudos necessários para efeitos de definição da área dos prédios que será afecta a cada estabelecimento agrícola.
 
@@ -183,39 +207,39 @@ b) Reformados com idade superior a 60 anos.
 
 ### CAPÍTULO V — Dos direitos e deveres das partes
 
-###### Art. 13.º Todos os contratos são obrigatoriamente reduzidos a escrito.
+Art. 13.º Todos os contratos são obrigatoriamente reduzidos a escrito.
 
-###### Art. 14.º Sobre os prédios expropriados ou nacionalizados não podem ser adquiridos direitos por prescrição ou acessão imobiliária.
+Art. 14.º Sobre os prédios expropriados ou nacionalizados não podem ser adquiridos direitos por prescrição ou acessão imobiliária.
 
-###### Art. 15.º Os direitos que por meio de contrato se adquiram sobre prédios expropriados ou nacionalizados são insusceptíveis de alienação, transmissão ou oneração sem prévia autorização do Ministro da Agricultura, Pescas e Alimentação e sem prejuízo do disposto na lei do arrendamento rural.
+Art. 15.º Os direitos que por meio de contrato se adquiram sobre prédios expropriados ou nacionalizados são insusceptíveis de alienação, transmissão ou oneração sem prévia autorização do Ministro da Agricultura, Pescas e Alimentação e sem prejuízo do disposto na lei do arrendamento rural.
 
-###### Art. 16.º Não são devidas indemnizações pelo desapossamento do terreno entregue para exploração que venha a ser necessário para a abertura de vias de comunicação e respectivas zonas non aedificandi, bem como para a construção de outras infra-estruturas de interesse nacional, regional ou local.
+Art. 16.º Não são devidas indemnizações pelo desapossamento do terreno entregue para exploração que venha a ser necessário para a abertura de vias de comunicação e respectivas zonas non aedificandi, bem como para a construção de outras infra-estruturas de interesse nacional, regional ou local.
 
 ### CAPÍTULO VI — Da concessão em exploração
 
-###### Art. 17.º - 1 - Compete ao Ministro da Agricultura, Pescas e Alimentação homologar, por despacho, o valor da prestação em dinheiro que as empresas agrícolas contratantes terão de pagar mensal ou anualmente, na sequência do acordo entre a direcção regional de agricultura competente e aquelas empresas, relativo à concessão e prestação correspondente.
+Art. 17.º - 1 - Compete ao Ministro da Agricultura, Pescas e Alimentação homologar, por despacho, o valor da prestação em dinheiro que as empresas agrícolas contratantes terão de pagar mensal ou anualmente, na sequência do acordo entre a direcção regional de agricultura competente e aquelas empresas, relativo à concessão e prestação correspondente.
 
 2 - O valor da prestação a que se refere o número anterior será revisto anualmente pela fixação no contrato de uma percentagem de actualização automática, considerará o valor dos géneros agrícolas predominantes na região, a diferente natureza dos solos e o seu aproveitamento e o valor do estabelecimento e não poderá ser inferior ao valor das tabelas de rendas máximas nacionais em vigor para o arrendamento rural.
 
-###### Art. 18.º As empresas agrícolas candidatas à celebração de um contrato de concessão de exploração apresentarão um plano de exploração técnico-económico elaborado com o apoio dos serviços de gestão fundiária do Ministério da Agricultura, Pescas e Alimentação, o qual, uma vez aprovado, fará parte integrante do contrato.
+Art. 18.º As empresas agrícolas candidatas à celebração de um contrato de concessão de exploração apresentarão um plano de exploração técnico-económico elaborado com o apoio dos serviços de gestão fundiária do Ministério da Agricultura, Pescas e Alimentação, o qual, uma vez aprovado, fará parte integrante do contrato.
 
-###### Art. 19.º As empresas candidatas proporão um prazo para o contrato que lhes permita amortizar os investimentos previstos no plano de exploração apresentado.
+Art. 19.º As empresas candidatas proporão um prazo para o contrato que lhes permita amortizar os investimentos previstos no plano de exploração apresentado.
 
-###### Art. 20.º A exploração de prédios expropriados ou nacionalizados poderá ser concebida pelo prazo máximo de 99 anos.
+Art. 20.º A exploração de prédios expropriados ou nacionalizados poderá ser concebida pelo prazo máximo de 99 anos.
 
-###### Art. 21.º Caso o contrato seja omisso quanto à sua duração, vigorará pelo prazo supletivo de dez anos.
+Art. 21.º Caso o contrato seja omisso quanto à sua duração, vigorará pelo prazo supletivo de dez anos.
 
-###### Art. 22.º Findo o prazo estabelecido, o contrato renovar-se-á automaticamente por períodos sucessivos de três anos, enquanto não for denunciado nos termos do presente diploma e da lei do arrendamento rural.
+Art. 22.º Findo o prazo estabelecido, o contrato renovar-se-á automaticamente por períodos sucessivos de três anos, enquanto não for denunciado nos termos do presente diploma e da lei do arrendamento rural.
 
-###### Art. 23.º Nos contratos por prazo superior a dezasseis anos, as prestações a entregar mensal ou anualmente pela empresa agrícola concessionária serão actualizadas anualmente de acordo com um coeficiente de actualização extraordinária, que será estabelecido no contrato.
+Art. 23.º Nos contratos por prazo superior a dezasseis anos, as prestações a entregar mensal ou anualmente pela empresa agrícola concessionária serão actualizadas anualmente de acordo com um coeficiente de actualização extraordinária, que será estabelecido no contrato.
 
-###### Art. 24.º A empresa agrícola concessionária poderá fazer todas as benfeitorias previstas no plano de exploração aprovado, independentemente de posterior autorização.
+Art. 24.º A empresa agrícola concessionária poderá fazer todas as benfeitorias previstas no plano de exploração aprovado, independentemente de posterior autorização.
 
-###### Art. 25.º As benfeitorias realizadas no prédio reverterão para o citado no fim do contrato e, salvo se a empresa agrícola concessionária der causa à rescisão do contrato, haverá lugar ao pagamento de uma justa indemnização relativamente às benfeitorias úteis ou necessárias cuja realização tenha sido aprovada.
+Art. 25.º As benfeitorias realizadas no prédio reverterão para o citado no fim do contrato e, salvo se a empresa agrícola concessionária der causa à rescisão do contrato, haverá lugar ao pagamento de uma justa indemnização relativamente às benfeitorias úteis ou necessárias cuja realização tenha sido aprovada.
 
-###### Art. 26.º A empresa agrícola concessionária pode denunciar o contrato para o fim do período contratual mediante aviso à direcção regional de agricultura ou à entidade locadora ou concessionária.
+Art. 26.º A empresa agrícola concessionária pode denunciar o contrato para o fim do período contratual mediante aviso à direcção regional de agricultura ou à entidade locadora ou concessionária.
 
-###### Art. 27.º O Estado poderá rescindir o contrato, sem que haja lugar ao pagamento de qualquer indemnização, sempre que a empresa agrícola concessionária não cumpra as obrigações a que contratualmente se vinculou, nomeadamente quando se encontre numa das seguintes situações:
+Art. 27.º O Estado poderá rescindir o contrato, sem que haja lugar ao pagamento de qualquer indemnização, sempre que a empresa agrícola concessionária não cumpra as obrigações a que contratualmente se vinculou, nomeadamente quando se encontre numa das seguintes situações:
 
 a) Não execução integral do plano de exploração aprovado, no caso de não ser devidamente justificado;
 
@@ -229,51 +253,51 @@ e) Cessão por qualquer título de exploração dos prédios a terceiros;
 
 f) Alteração do seu estatuto ou estrutura interna que implique a extinção das características que justificaram a concessão.
 
-###### Art. 28.º A empresa agrícola concessionária prestará anualmente contas da sua gestão à direcção regional de agricultura da respectiva área ou à entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar.
+Art. 28.º A empresa agrícola concessionária prestará anualmente contas da sua gestão à direcção regional de agricultura da respectiva área ou à entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar.
 
 ### CAPÍTULO VII — Da licença de uso privativo
 
-###### Art. 29.º O contrato de licença de uso privativo é celebrado pelo prazo máximo de um ano, aplicando-se-lhe, com as necessárias adaptações, o regime jurídico do arrendamento rural, nomeadamente as normas aplicáveis ao contrato de arrendamento a cultivador directo ou agricultor autónomo.
+Art. 29.º O contrato de licença de uso privativo é celebrado pelo prazo máximo de um ano, aplicando-se-lhe, com as necessárias adaptações, o regime jurídico do arrendamento rural, nomeadamente as normas aplicáveis ao contrato de arrendamento a cultivador directo ou agricultor autónomo.
 
 ### CAPÍTULO VIII — Do arrendamento rural
 
-###### Art. 30.º Os contratos de arrendamento rural relativos a prédios expropriados ou nacionalizados regular-se-ão pela lei do arrendamento rural, incluindo os prazos de arrendamento.
+Art. 30.º Os contratos de arrendamento rural relativos a prédios expropriados ou nacionalizados regular-se-ão pela lei do arrendamento rural, incluindo os prazos de arrendamento.
 
-###### Art. 31.º Os candidatos à celebração de um contrato de arrendamento rural apresentarão um plano ou intenção de exploração técnico-económico, elaborado com o apoio dos serviços de gestão e estruturação fundiária do Ministério da Agricultura, Pescas e Alimentação, o qual, uma vez aprovado, passará a fazer parte integrante do contrato.
+Art. 31.º Os candidatos à celebração de um contrato de arrendamento rural apresentarão um plano ou intenção de exploração técnico-económico, elaborado com o apoio dos serviços de gestão e estruturação fundiária do Ministério da Agricultura, Pescas e Alimentação, o qual, uma vez aprovado, passará a fazer parte integrante do contrato.
 
 ### CAPÍTULO IX — Da exploração de campanha
 
-###### Art. 32.º - 1 - Os contratos de exploração de campanha de prédios expropriados ou nacionalizados serão celebrados por uma campanha em especial ou por um ou mais anos, até ao máximo de um ano agrícola por cada folha de cultura.
+Art. 32.º - 1 - Os contratos de exploração de campanha de prédios expropriados ou nacionalizados serão celebrados por uma campanha em especial ou por um ou mais anos, até ao máximo de um ano agrícola por cada folha de cultura.
 
 2 - Aos contratos de exploração de campanha é aplicável o regime jurídico do arrendamento rural.
 
 ### CAPÍTULO X — Do processo
 
-###### Art. 33.º Salvo motivo ponderoso, os contratos de entrega para exploração serão precedidos de concurso público, que observará as disposições constantes dos artigos seguintes.
+Art. 33.º Salvo motivo ponderoso, os contratos de entrega para exploração serão precedidos de concurso público, que observará as disposições constantes dos artigos seguintes.
 
-###### Art. 34.º O contrato será celebrado mediante ajuste directo, com dispensa de concurso público sempre que circunstâncias sócio-económicas especiais o justifiquem, nomeadamente quando os prédios já se encontrem a ser explorados de acordo com uma gestão técnica e económica equilibrada por pequenos agricultores ou cooperativas de pequenas agricultores.
+Art. 34.º O contrato será celebrado mediante ajuste directo, com dispensa de concurso público sempre que circunstâncias sócio-económicas especiais o justifiquem, nomeadamente quando os prédios já se encontrem a ser explorados de acordo com uma gestão técnica e económica equilibrada por pequenos agricultores ou cooperativas de pequenas agricultores.
 
-###### Art. 35.º O processo inicia-se pela publicação e divulgação do programa do concurso através de editais a afixar na sede do município e nas juntas de freguesia das regiões dos prédios expropriados ou nacionalizados em causa e a publicar num dos jornais mais lidos da região, donde conste, nomeadamente, informação pormenorizada da área e localização dos prédios ou da parte deles que serão afectos a cada estabelecimento agrícola, do tipo de empresa agrícola que poderá candidatar-se e do tipo de contrato a utilizar.
+Art. 35.º O processo inicia-se pela publicação e divulgação do programa do concurso através de editais a afixar na sede do município e nas juntas de freguesia das regiões dos prédios expropriados ou nacionalizados em causa e a publicar num dos jornais mais lidos da região, donde conste, nomeadamente, informação pormenorizada da área e localização dos prédios ou da parte deles que serão afectos a cada estabelecimento agrícola, do tipo de empresa agrícola que poderá candidatar-se e do tipo de contrato a utilizar.
 
-###### Art. 36.º Dentro do prazo fixado para entrega de propostas, o qual nunca poderá ser inferior a vinte dias, qualquer interessado poderá reclamar contra a ofensa dos seus direitos.
+Art. 36.º Dentro do prazo fixado para entrega de propostas, o qual nunca poderá ser inferior a vinte dias, qualquer interessado poderá reclamar contra a ofensa dos seus direitos.
 
-###### Art. 37.º O despacho do Ministro da Agricultura, Pescas e Alimentação que, sob informação e parecer da direcção regional da agricultura da respectiva área ou da entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar, determinar a empresa à qual será entregue o estabelecimento agrícola e as condições e termos em que deve ser efectuada a exploração será publicado no Diário da República.
+Art. 37.º O despacho do Ministro da Agricultura, Pescas e Alimentação que, sob informação e parecer da direcção regional da agricultura da respectiva área ou da entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar, determinar a empresa à qual será entregue o estabelecimento agrícola e as condições e termos em que deve ser efectuada a exploração será publicado no Diário da República.
 
-###### Art. 38.º - 1 - Os contratos definitivos serão assinados pelo director regional da respectiva área ou pela entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar.
+Art. 38.º - 1 - Os contratos definitivos serão assinados pelo director regional da respectiva área ou pela entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar.
 
 2 - A minuta dos contratos definitivos é aprovada pelo Ministro da Agricultura, Pescas e Alimentação.
 
 3 - Os contratos referidos no artigo 2.º do presente diploma não carecem de exame e visto do Tribunal de Contas.
 
-###### Art. 39.º O instrumento contratual compõe-se de duas partes, sendo a primeira destinada às cláusulas contratuais especialmente aplicáveis a cada caso e a segunda à planta do prédio entregue para exploração.
+Art. 39.º O instrumento contratual compõe-se de duas partes, sendo a primeira destinada às cláusulas contratuais especialmente aplicáveis a cada caso e a segunda à planta do prédio entregue para exploração.
 
-###### Art. 40.º Os instrumentos contratuais farão prova plena, em juízo e fora dele, nomeadamente para efeitos de identificação do prédio, e constituirão título bastante para as empresas agrícolas defenderem a sua posse erga omnes.
+Art. 40.º Os instrumentos contratuais farão prova plena, em juízo e fora dele, nomeadamente para efeitos de identificação do prédio, e constituirão título bastante para as empresas agrícolas defenderem a sua posse erga omnes.
 
 ### CAPÍTULO XI — Disposições finais e transitórias
 
-###### Art. 41.º Todos os litígios emergentes dos contratos previstos no presente diploma são da competência do contencioso administrativo.
+Art. 41.º Todos os litígios emergentes dos contratos previstos no presente diploma são da competência do contencioso administrativo.
 
-###### Art. 42.º - 1 - As importâncias devidas pelos beneficiários da entrega de terras para exploração, quer ao abrigo do presente diploma, quer no domínio da legislação anterior, serão pagas directamente na direcção regional de agricultura da respectiva área ou na entidade em que o Ministro da Agricultura, Pescas e Alimentação delegar.
+Art. 42.º - 1 - As importâncias devidas pelos beneficiários da entrega de terras para exploração, quer ao abrigo do presente diploma, quer no domínio da legislação anterior, serão pagas directamente na direcção regional de agricultura da respectiva área ou na entidade em que o Ministro da Agricultura, Pescas e Alimentação delegar.
 
 2 - Para a cobrança coerciva das importâncias devidas pelos beneficiários da entrega da terra para exploração são competentes os tribunais do contencioso das contribuições e impostos, seguindo-se o processo das execuções fiscais, sendo título bastante o documento comprovativo da dívida, emitido pela direcção regional de agricultura da respectiva área ou pela entidade em quem o Ministro da Agricultura, Pescas e Alimentação delegar.
 
@@ -281,16 +305,16 @@ f) Alteração do seu estatuto ou estrutura interna que implique a extinção da
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1988. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 9 de Fevereiro de 1989.**
+Promulgado em 9 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1989.**
+Referendado em 9 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 TABELA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04600/08250829.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04600/08250829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04600/08250829.pdf)

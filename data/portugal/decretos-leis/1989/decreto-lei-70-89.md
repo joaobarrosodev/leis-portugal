@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/05100/09110915.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1989-612857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f81ea3c8a524f175c1b4dba3ccecf57b98aa8d59b54081b7391994ea46d87f19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0e3e2f3899775d546a11b0081530b4d1c7b69d3b2d0bbc9f48c8874156c8b54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência do Controle das Ajudas Comunitárias ao Sector do Azeite
+- Azeite
+- Conselho Consultivo
+- Conselho Fiscal
+- Definição de Competências
+- Orgânica
+- Pessoal Dirigente
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:469063:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571176:por
+  label: "Alterados os arts. 6º, 8º, 13º e 24º, pelo DEC LEI.303/94.1994.12.19.MA, DR.IS-A [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1994-571176
+  date: '1994-12-19'
+- type: amended_by
+  target: pt:dre:687468:por
+  label: "Alterada a redacção do art. 6º do presente diploma, na redacção do Dec Lei 303/94 de 19-Dez, pelo DEC LEI.309/97.1997.11.13.MADRP\
+    \ DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-1997-687468
+  date: '1997-11-13'
+- type: amended_by
+  target: pt:dre:469063:por
+  label: "Extinta a Agência de Controlo das Ajudas Comunitárias ao Sector do Azeite (ACACSA), criada pelo Dec Lei 259/87 de\
+    \ 26-Jun e cuja estrutura orgânica foi aprovada pelo presente diploma, determinando com a extinção dessa Agência, a caducidade\
+    \ dos contratos de trabalho por esta celebrados, pelo DEC LEI.231/2005.29.12.2005.MADRP, DR.IS-A [249] de 29.12.2005,\
+    \ nos termos dos nºs 2 e 3 do seu art. 3º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2005-469063
+  date: '2005-12-29'
 article_structure:
-  article_count: 24
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 25
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:04Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +146,9 @@ A Agência do Controle das Ajudas Comunitárias ao Sector do Azeite (ACACSA), ad
 
 2 - A Agência está sujeita às normas de direito privado nas suas relações com terceiros, não estando sujeitos a visto prévio do Tribunal de Contas os respectivos actos e contratos.
 
-### CAPÍTULO II — Artigo 4.º
+### CAPÍTULO II
+
+###### Artigo 4.º
 
 Atribuições
 
@@ -145,7 +174,9 @@ i) Exercer outras funções que lhe sejam cometidas pelo Governo, por sua inicia
 
 j) Efectuar os controlos previstos em matéria de ajuda ao consumo quando a legislação comunitária sobre a matéria for aplicável a Portugal.
 
-### CAPÍTULO III — SECÇÃO I
+### CAPÍTULO III
+
+#### SECÇÃO I
 
 Dos órgãos
 
@@ -369,12 +400,12 @@ As despesas da Agência são as que resultam da execução dos diplomas que a re
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 18 de Fevereiro de 1989.**
+Promulgado em 18 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1989.**
+Referendado em 18 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

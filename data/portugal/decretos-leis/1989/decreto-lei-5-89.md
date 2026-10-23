@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1989-234499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 641be336e8065dfc6036d1976aa520c79904708b5e18c8387306ced4cc50d577
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 211a49605b9ecc1d8727b691f4a1c087d98e8f2a8a50e73f52c29aca37eb35b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- CEE
+- Feoga
+- Financiamento
+- Ifadap
+- Pesca
+- Política Agrícola Comum
+- Produto Agrícola
+- Produtos de Pesca
+- Projeto de Investimento
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:316926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:565267:por
+  label: Revogado o presente diploma, em tudo o que se refere à apresentação de novas candidaturas relativas a investimentos
+    no âmbito da transformação e comercialização de produtos agrícolas, pelo DEC LEI.394/90.11.12.1990.MAPA, DR.IS [284] de
+    11.12.1990, nos termos do seu art. 22.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-1990-565267
+  date: '1990-12-11'
+- type: repealed_by
+  target: pt:dre:316926:por
+  label: Revogado o presente diploma, em tudo o que se refere à apresentação de novas candidaturas relativas a investimentos
+    no âmbito da transformação e comercialização de produtos da pesca e da aquicultura, pelo(a) Decreto-Lei n.º 443/91 - Diário
+    da República n.º 264/1991, Série I-A de 1991-11-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/443-1991-316926
+  date: '1991-11-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:32Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +126,19 @@ Tendo sido ouvidos os órgãos de governo próprio das Regiões Autónomas dos A
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece os mecanismos de aplicação em Portugal do Regulamento (CEE) n.º [355/77](https://data.europa.eu/eli/reg/1977/355/oj?locale=pt) do Conselho, de 15 de Fevereiro de 1977, adiante designado por Regulamento, relativo a uma acção comum para a melhoria das condições de transformação e comercialização dos produtos agrícolas e da pesca.
+Artigo 1.º O presente diploma estabelece os mecanismos de aplicação em Portugal do Regulamento (CEE) n.º [355/77](https://data.europa.eu/eli/reg/1977/355/oj?locale=pt) do Conselho, de 15 de Fevereiro de 1977, adiante designado por Regulamento, relativo a uma acção comum para a melhoria das condições de transformação e comercialização dos produtos agrícolas e da pesca.
 
-###### Art. 2.º - 1 - A elaboração dos programas específicos previstos no título I do Regulamento é da competência do Instituto de Apoio à Transformação e Comercialização dos Produtos Agro-Alimentares, adiante designado por IAPA, para os sectores que envolvam produtos agrícolas, e do Instituto Português de Conservas e Pescado, adiante designado por IPCP, para os sectores que envolvam produtos da pesca.
+Art. 2.º - 1 - A elaboração dos programas específicos previstos no título I do Regulamento é da competência do Instituto de Apoio à Transformação e Comercialização dos Produtos Agro-Alimentares, adiante designado por IAPA, para os sectores que envolvam produtos agrícolas, e do Instituto Português de Conservas e Pescado, adiante designado por IPCP, para os sectores que envolvam produtos da pesca.
 
 2 - Os programas específicos relativos às regiões autónomas serão elaborados pelos órgãos de governo próprio das respectivas regiões.
 
 3 - A elaboração dos programas específicos referidos nos números anteriores deverá ter em conta as orientações da política nacional e as decorrentes da política agrícola comum.
 
-###### Art. 3.º - 1 - As condições de elegibilidade dos projectos a financiar pelo Fundo Europeu de Orientação e Garantia Agrícola, Secção Orientação, adiante designado por FEOGA, Secção Orientação, no âmbito do Regulamento, as taxas de comparticipação financeira, nacional e comunitária, bem como os investimentos considerados prioritários, são as definidas nos respectivos programas específicos sectoriais.
+Art. 3.º - 1 - As condições de elegibilidade dos projectos a financiar pelo Fundo Europeu de Orientação e Garantia Agrícola, Secção Orientação, adiante designado por FEOGA, Secção Orientação, no âmbito do Regulamento, as taxas de comparticipação financeira, nacional e comunitária, bem como os investimentos considerados prioritários, são as definidas nos respectivos programas específicos sectoriais.
 
 2 - Sempre que a taxa de comparticipação financeira comunitária em vigor no momento da aprovação dos projectos pela Comissão das Comunidades Europeias não for ajustável à taxa de comparticipação financeira nacional aplicada ao abrigo dos programas específicos sectoriais em vigor aquando do referido envio para aquela instituição comunitária, o montante a pagar pelo Estado Português será o que decorrer da aplicação da referida taxa comunitária.
 
-###### Art. 4.º - 1 - Nos termos do disposto no Regulamento e disposições complementares, os interessados na obtenção de comparticipações financeiras em projectos de investimento deverão apresentá-los ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP.
+Art. 4.º - 1 - Nos termos do disposto no Regulamento e disposições complementares, os interessados na obtenção de comparticipações financeiras em projectos de investimento deverão apresentá-los ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP.
 
 2 - Os projectos deverão conter a identificação completa da pessoa, devidamente qualificada, que será o interlocutor exclusivo das entidades envolvidas na aplicação do presente diploma.
 
@@ -135,21 +160,21 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 11 - Compete ao IFADAP apreciar económica e financeiramente os projectos de investimento, pronunciar-se, na qualidade de interlocutor do FEOGA, Secção Orientação, quanto ao seu enquadramento nas disposições comunitárias, enviá-los atempadamente à Comissão das Comunidades Europeias devidamente instruídos, bem como apresentar os respectivos pedidos de comparticipação do FEOGA, Secção Orientação.
 
-###### Art. 5.º Os projectos apresentados no IFADAP entre 1 de Outubro e 31 de Janeiro do ano seguinte e entre 1 de Fevereiro e 30 de Setembro que respeitem as condições estabelecidas no presente diploma são enviados para o FEOGA, Secção Orientação, respectivamente, até 30 de Abril e 31 de Dezembro.
+Art. 5.º Os projectos apresentados no IFADAP entre 1 de Outubro e 31 de Janeiro do ano seguinte e entre 1 de Fevereiro e 30 de Setembro que respeitem as condições estabelecidas no presente diploma são enviados para o FEOGA, Secção Orientação, respectivamente, até 30 de Abril e 31 de Dezembro.
 
-###### Art. 6.º - 1 - O IFADAP submeterá a homologação do Ministro da Agricultura, Pescas e Alimentação a lista nacional dos projectos a enviar ao FEOGA, Secção Orientação, pelo menos até dez dias úteis antes do termo dos prazos fixados no artigo 5.º
+Art. 6.º - 1 - O IFADAP submeterá a homologação do Ministro da Agricultura, Pescas e Alimentação a lista nacional dos projectos a enviar ao FEOGA, Secção Orientação, pelo menos até dez dias úteis antes do termo dos prazos fixados no artigo 5.º
 
 2 - Por despacho do Ministro da Agricultura, Pescas e Alimentação serão estabelecidos o procedimento e a estruturação da lista a que se refere o número anterior, que deverá reflectir o grau de prioridades estabelecidas na política do sector.
 
-###### Art. 7.º Será dado conhecimento à DGCP das decisões finais e respectivos processos que permitam uma análise em termos de ajudas do Estado e da sua eventual acumulação.
+Art. 7.º Será dado conhecimento à DGCP das decisões finais e respectivos processos que permitam uma análise em termos de ajudas do Estado e da sua eventual acumulação.
 
-###### Art. 8.º O IFADAP prestará à Direcção-Geral das Contribuições e Impostos, sempre que lhe seja solicitado, todas as informações sobre o montante pecuniário despendido a título de despesas, em resultado da execução dos projectos.
+Art. 8.º O IFADAP prestará à Direcção-Geral das Contribuições e Impostos, sempre que lhe seja solicitado, todas as informações sobre o montante pecuniário despendido a título de despesas, em resultado da execução dos projectos.
 
-###### Art. 9.º - 1 - Na apreciação dos projectos o IFADAP deve considerar todas as componentes do respectivo financiamento, incluindo as não previstas pelo Regulamento, prestando, se for caso disso, a necessária informação à Comissão das Comunidades Europeias.
+Art. 9.º - 1 - Na apreciação dos projectos o IFADAP deve considerar todas as componentes do respectivo financiamento, incluindo as não previstas pelo Regulamento, prestando, se for caso disso, a necessária informação à Comissão das Comunidades Europeias.
 
 2 - No financiamento dos projectos candidatos às compartipações, nacionais e comunitárias, no âmbito do Regulamento, que vierem a ser aprovados, não poderá integrar-se nenhuma componente ou ajuda no âmbito dos outros sistemas de incentivo ao investimento legalmente consagrados.
 
-###### Art. 10.º - 1 - Compete ao IFADAP, nomeadamente:
+Art. 10.º - 1 - Compete ao IFADAP, nomeadamente:
 
 a) Receber directamente do FEOGA, Secção Orientação, todas as quantias correspondentes à comparticipação deste Fundo no financiamento dos projectos, bem como receber dos departamentos competentes da administração central ou das regiões autónomas, as quantias correspondentes à comparticipação nacional;
 
@@ -159,7 +184,7 @@ c) Acompanhar, em colaboração com os organismos referidos nos n.os 3 e 6 do ar
 
 2 - Para cumprimento do referido na alínea c) do número anterior, podem os organismos intervenientes fazer-se assessorar por consultores especializados, nos casos em que tal se justifique.
 
-###### Art. 11.º - 1 - A atribuição das comparticipações financeiras aos beneficiários será feita ao abrigo de contratos celebrados entre estes e o IFADAP, dos quais constem as obrigações de cada uma das partes.
+Art. 11.º - 1 - A atribuição das comparticipações financeiras aos beneficiários será feita ao abrigo de contratos celebrados entre estes e o IFADAP, dos quais constem as obrigações de cada uma das partes.
 
 2 - É atribuída ao IFADAP, em caso de incumprimento pelos beneficiários de qualquer das suas obrigações, a faculdade de modificar ou rescindir unilateralmente os contratos, designadamente de acordo com a decisão que a este respeito for tomada pela Comissão das Comunidades Europeias quanto à comparticipação do FEOGA, Secção Orientação.
 
@@ -173,28 +198,28 @@ c) Acompanhar, em colaboração com os organismos referidos nos n.os 3 e 6 do ar
 
 7 - Para as execuções instauradas pelo IFADAP ao abrigo do presente diploma é competente o foro cível da comarca de Lisboa.
 
-###### Art. 12.º A rescisão do contrato pelo IFADAP nos termos do artigo anterior determina ainda para os beneficiários a suspensão do direito de se recandidatarem, isolada ou colectivamente, quando participem em posição dominante, aos apoios aos investimentos previstos no Regulamento (CEE) n.º [355/77](https://data.europa.eu/eli/reg/1977/355/oj?locale=pt) do Conselho durante o restante período de vigência do programa específico em que se enquadra o projecto, mas nunca por um período inferior a três anos.
+Art. 12.º A rescisão do contrato pelo IFADAP nos termos do artigo anterior determina ainda para os beneficiários a suspensão do direito de se recandidatarem, isolada ou colectivamente, quando participem em posição dominante, aos apoios aos investimentos previstos no Regulamento (CEE) n.º [355/77](https://data.europa.eu/eli/reg/1977/355/oj?locale=pt) do Conselho durante o restante período de vigência do programa específico em que se enquadra o projecto, mas nunca por um período inferior a três anos.
 
-###### Art. 13.º - 1 - A desistência da realização do projecto de investimento aprovado pela Comunidade no âmbito do Regulamento (CEE) n.º [355/77](https://data.europa.eu/eli/reg/1977/355/oj?locale=pt) do Conselho sem justificação aceite pelo Ministro da Agricultura, Pescas e Alimentação determina a suspensão do direito de candidatura a apoios financeiros no âmbito do referido Regulamento por um período de cinco anos.
+Art. 13.º - 1 - A desistência da realização do projecto de investimento aprovado pela Comunidade no âmbito do Regulamento (CEE) n.º [355/77](https://data.europa.eu/eli/reg/1977/355/oj?locale=pt) do Conselho sem justificação aceite pelo Ministro da Agricultura, Pescas e Alimentação determina a suspensão do direito de candidatura a apoios financeiros no âmbito do referido Regulamento por um período de cinco anos.
 
 2 - No caso de projectos cujos investimentos se localizem nas Regiões Autónomas dos Açores e da Madeira e para o efeito previsto no número anterior, devem ser ouvidas as entidades referidas no n.º 6 do artigo 4.º
 
-###### Art. 14.º Os relatórios dos beneficiários sobre os resultados financeiros dos projectos serão apresentados ao IFADAP, para serem remetidos ao FEOGA, Secção Orientação, até 60 dias antes de se perfazer o prazo de dois anos contado a partir do pagamento integral das ajudas.
+Art. 14.º Os relatórios dos beneficiários sobre os resultados financeiros dos projectos serão apresentados ao IFADAP, para serem remetidos ao FEOGA, Secção Orientação, até 60 dias antes de se perfazer o prazo de dois anos contado a partir do pagamento integral das ajudas.
 
-###### Art. 15.º - 1 - Mediante portaria conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, serão fixadas as remunerações pela prestação de serviços dos organismos intervenientes no processo.
+Art. 15.º - 1 - Mediante portaria conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, serão fixadas as remunerações pela prestação de serviços dos organismos intervenientes no processo.
 
 2 - As remunerações acima referidas serão suportadas pelos beneficiários e estabelecidas em função do montante global da comparticipação financeira concedida a cada projecto.
 
-###### Art. 16.º São revogados o Decreto-Lei n.º 187/86, de 14 de Julho, e os despachos conjuntos do Ministro das Finanças e do Ministro da Agricultura, Pescas e Alimentação A-22/87-X, de 6 de Março, e A-27/88-XI, de 10 de Março.
+Art. 16.º São revogados o Decreto-Lei n.º 187/86, de 14 de Julho, e os despachos conjuntos do Ministro das Finanças e do Ministro da Agricultura, Pescas e Alimentação A-22/87-X, de 6 de Março, e A-27/88-XI, de 10 de Março.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 22 de Dezembro de 1988.**
+Promulgado em 22 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1988.**
+Referendado em 27 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

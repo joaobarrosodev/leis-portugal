@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/12/30300/29262927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18167-1960-479904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab6d369123ec5f349916fa93aa8aa34aa5aee5ab0a869ad0756a24c79b08f01b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ecf1dc021bec8257b0676a9bf18a614aede7c53ae764e4ca133e89e8e8204cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:678447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:688059:por
+  label: "Extinto o conselho administrativo e retirada a autonomia administrativa ao Serviço Médico-Social, de Invalidez e\
+    \ de Cultura, pela PORT.20145.04.11.1963.PC, DG.IS [258] de 04.11.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20145-1963-688059
+  date: '1963-11-04'
+- type: repealed_by
+  target: pt:dre:678447:por
+  label: "Revogada pelo DEC LEI.284/95.1995.10.30.MDN, DR.IS-A [251], com observância do nº 2 do art. 10º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1995-678447
+  date: '1995-10-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:15Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +110,6 @@ ORGANIZAÇÃO DO SECRETARIADO
 
 (Provisória)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/12/30300/29262927.pdf))](https://files.diariodarepublica.pt/1s/1960/12/30300/29262927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/12/30300/29262927.pdf)
 
 Gabinete do Ministro da Defesa Nacional, 31 de Dezembro de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 86/1990, 2º Suplemento, Série I de 1990-04-12
   number: '86'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1798-(4) a 1798-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08602/00040010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-b-1990-516216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2601a13e025e6707d9c26e9cb3a984b938ccdfaca6828091f0e61ffb4f1156de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16e06976f79181e5dcf39a7280bcfaf7c8708cd56ac157c6a59b9ebcb023537b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Base de Dados
+- Comissão de Acompanhamento
+- Comissão de Gestão
+- Conselho Económico e Social
+- Contrato Programa
+- Decisão CE
+- Definição de Competências
+- Fundos CE
+- Gestão Administrativa
+- Orgânica
+- Pedap
+- Pedip
+- Programa Comunitário
+- Programa Operacional
+- QCA
+- Unidade de Gestão
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
   article_count: 32
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:14Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +152,9 @@ b) Princípios da transparência e da eficácia da gestão dos recursos financei
 
 c) Princípio da circulação de informação entre as entidades envolvidas.
 
-###### Artigo 3.º — Divisão da estrutura orgânica
+###### Artigo 3.º
+
+##### Divisão da estrutura orgânica
 
 1 - A estrutura orgânica relativa à execução do QCA, divide-se nos dois seguintes níveis:
 
@@ -468,12 +492,12 @@ A estrutura orgânica relativa à gestão, acompanhamento, avaliação e control
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - José Manuel Durão Barroso - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos - Fernando Nunes Ferreira Real.
 
-**Promulgado em 2 de Abril de 1990.**
+Promulgado em 2 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Abril de 1990.**
+Referendado em 5 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

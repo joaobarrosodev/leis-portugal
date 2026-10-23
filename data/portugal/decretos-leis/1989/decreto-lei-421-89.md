@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/27600/52265231.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1989-550821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1aefd8fc1f316ee3fdf6ad5f53e54e05bb15bcf549eea0191d7ad92cae00705e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57153aa38290543c6986875ee94fc1ddf1ce097c92144bf1da22df2ffba6d456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Biotecnologia
+- Direcção Geral de Assuntos Farmacêuticos
+- Medicamento
+- Medicamento Veterinário
+- Produto Farmacêutico
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:668482:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:150282:por
+  label: Rectificado pela DECL.DD3298.1990.01.31.PCM DR.IS [26]2ºSUPL DE 31/JAN/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-150282
+  date: '1990-01-31'
+- type: repealed_by
+  target: pt:dre:668482:por
+  label: "Revogado pelo DEC LEI.272/95.1995.10.23.MS, DR.IS-A [245]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1995-668482
+  date: '1995-10-23'
 article_structure:
   article_count: 12
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:38Z'
   warnings: []
   errors: []
 ---
@@ -209,15 +225,15 @@ c) Ou que o medicamento é essencialmente similar ou outro produto autorizado na
 
 Visto e aprovado em Conselho de Ministros de 26 de Outubro de 1989. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 17 de Novembro de 1989.**
+Promulgado em 17 de Novembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Novembro de 1989.**
+Referendado em 22 de Novembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Lista dos medicamentos de alta tecnologia
 
@@ -239,7 +255,7 @@ Medicamentos cujo fabrico se baseia em processos que apresentam um avanço técn
 
 ## ANEXO II — Formulário do pedido de introdução no mercado, de especialidades farmacêuticas
 
-# Parte I: Resumo do processo
+Parte I: Resumo do processo
 
 I-A - Informações administrativas.
 
@@ -253,7 +269,7 @@ Documentação toxicológica e farmacológica.
 
 Documentação clínica.
 
-# Parte II: Documentação química, farmacêutica e biológica
+Parte II: Documentação química, farmacêutica e biológica
 
 II-A - Composição.
 
@@ -269,7 +285,7 @@ II-F - Estabilidade.
 
 II-Q - Outras informações.
 
-# Parte III: Documentação toxicológica e farmacológica
+Parte III: Documentação toxicológica e farmacológica
 
 III-A - Toxicidade por administração única.
 
@@ -289,7 +305,7 @@ III-H - Tolerância local.
 
 III-Q - Outras informações.
 
-# Parte IV: Documentação clínica
+Parte IV: Documentação clínica
 
 IV-A - Farmacologia humana.
 
@@ -297,7 +313,7 @@ IV-B - Documentação clínica.
 
 IV-Q - Outras informações.
 
-# Parte V: Informações particulares
+Parte V: Informações particulares
 
 V-A - Apresentação.
 
@@ -307,9 +323,9 @@ V-C - Autorização(ões) de fabrico.
 
 V-D - Autorização(ões) de introdução no mercado.
 
-# Parte I: Resumo do processo
+Parte I: Resumo do processo
 
-# Parte I-A - Informações administrativas
+Parte I-A - Informações administrativas
 
 1 - Denominação da especialidade farmacêutica.
 
@@ -329,7 +345,7 @@ V-D - Autorização(ões) de introdução no mercado.
 
 8 - Data e assinatura do requerente.
 
-# Parte I-B - Resumo das características do produto
+Parte I-B - Resumo das características do produto
 
 1 - Denominação da especialidade farmacêutica.
 
@@ -375,7 +391,7 @@ V-D - Autorização(ões) de introdução no mercado.
 
 6.5 - Nome ou firma e domicílio ou sede social do titular da autorização de introdução no mercado.
 
-# Parte I-C - Relatórios dos peritos
+Parte I-C - Relatórios dos peritos
 
 1 - Sobre documentação química e farmacêutica.
 
@@ -383,13 +399,13 @@ V-D - Autorização(ões) de introdução no mercado.
 
 3 - Sobre documentação clínica.
 
-# Parte II - Documentação química, farmacêutica e biológica
+Parte II - Documentação química, farmacêutica e biológica
 
-# Parte II-A - Composição
+Parte II-A - Composição
 
 1 - Composição da especialidade farmacêutica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/27600/52265231.pdf))](https://files.diariodarepublica.pt/1s/1989/11/27600/52265231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/27600/52265231.pdf)
 
 2 - Recipiente, sua natureza, composição qualitativa, processo de fecho e de abertura.
 
@@ -399,7 +415,7 @@ V-D - Autorização(ões) de introdução no mercado.
 
 4.1 - Justificação da escolha da composição, dos componentes e do recipiente, se necessário com dados relativos ao desenvolvimento galénico. Doses superiores às rotuladas, quando utilizadas, devem ser justificadas. Deverão ser descritos com pormenor os ensaios realizados durante o desenvolvimento galénico, tais como ensaios de dissolução in vitro de formas sólidas.
 
-# Parte II-B - Processo de fabrico
+Parte II-B - Processo de fabrico
 
 1 - Fórmula de fabrico (incluindo referência à dimensão do lote).
 
@@ -407,7 +423,7 @@ V-D - Autorização(ões) de introdução no mercado.
 
 3 - Validação do processo quando for usado um método de fabrico não convencional ou que seja fundamental para a qualidade do produto (dados experimentais mostrando que o processo de fabrico, com utilização de matérias-primas da qualidade testada e o equipamento específico mais indicado, dará origem a um medicamento com a qualidade desejada).
 
-# Parte II-C - Controlo das matérias-primas
+Parte II-C - Controlo das matérias-primas
 
 1 - Princípios activos:
 
@@ -585,11 +601,11 @@ Resultados.
 
 N. B. - O asterisco (*) que se encontra nesta parte assinala as disposições específicas e ou adicionais aplicáveis aos produtos biológicos.
 
-# Parte II-D - Controlo dos produtos intermédios, se necessário
+Parte II-D - Controlo dos produtos intermédios, se necessário
 
 1 - Deve ser feita distinção entre o controlo durante o fabrico (parte II-B) e o controlo dos produtos intermédios.
 
-# Parte II-E - Controlo do produto acabado
+Parte II-E - Controlo do produto acabado
 
 1 - Especificações do produto e controlo de rotina:
 
@@ -625,7 +641,7 @@ Resultados;
 
 Padrões. Boletim de análise.
 
-# Parte II-F - Estabilidade
+Parte II-F - Estabilidade
 
 1 - Ensaio de estabilidade do(s) princípio(s) activo(s):
 
@@ -689,11 +705,11 @@ Prazo de validade após reconstituição e ou primeira abertura;
 
 Ensaios de estabilidade em curso.
 
-# Parte II-Q - Outras Informações
+Parte II-Q - Outras Informações
 
 1 - Esta parte é reservada às informações não incluídas nas partes precedentes, por exemplo os métodos analíticos utilizados nos ensaios de desenvolvimento galénico do produto ou os estudos respeitantes ao metabolismo e à biodisponibilidade.
 
-# Parte III - Documentação toxicológica a farmacológica
+Parte III - Documentação toxicológica a farmacológica
 
 1 - Para cada ensaio, devem ser fornecidas as seguintes informações:
 
@@ -705,15 +721,15 @@ Ensaios de estabilidade em curso.
 
 1.4 - Resultados.
 
-# Parte III-A - Toxicidade por administração única
+Parte III-A - Toxicidade por administração única
 
-# Parte III-B - Toxicidade por administração repetida
+Parte III-B - Toxicidade por administração repetida
 
 1 - Ensaios de toxicidade subaguda (até três meses).
 
 2 - Ensaios de toxicidade crónica (para além dos três meses).
 
-# Parte III-C - Estudos de reprodução
+Parte III-C - Estudos de reprodução
 
 1 - Fertilidade e capacidade geral de reprodução.
 
@@ -721,15 +737,15 @@ Ensaios de estabilidade em curso.
 
 3 - Toxicidade peri e pós-natal.
 
-# Parte III-D - Potencial mutagénico
+Parte III-D - Potencial mutagénico
 
 1 - In vitro.
 
 2 - In vivo.
 
-# Parte III-E - Potencial carcinogénico/oncogénico
+Parte III-E - Potencial carcinogénico/oncogénico
 
-# Parte III-F - Farmacodinamia
+Parte III-F - Farmacodinamia
 
 1 - Acções farmacodinâmicas relacionadas com as indicações terapêuticas propostas.
 
@@ -737,7 +753,7 @@ Ensaios de estabilidade em curso.
 
 3 - Interacções medicamentosas.
 
-# Parte III-G - Farmacocinética
+Parte III-G - Farmacocinética
 
 1 - Farmacocinética após administração única.
 
@@ -749,17 +765,17 @@ Ensaios de estabilidade em curso.
 
 5 - Interações medicamentosas.
 
-# Parte III-H - Tolerância local, se aplicável
+Parte III-H - Tolerância local, se aplicável
 
-# Parte III-Q - Outras informações
+Parte III-Q - Outras informações
 
 1 - Esta parte é destinada a informações não incluídas nas precedentes.
 
 3 - O recurso a documentação bibliográfica deve ser justificada por perito.
 
-# Parte IV - Documentação clínica
+Parte IV - Documentação clínica
 
-# Parte IV-A - Farmacologia humana
+Parte IV-A - Farmacologia humana
 
 1 - Farmacodinamia: cada estudo comportará os elementos seguintes:
 
@@ -807,7 +823,7 @@ Grupos particulares de pacientes/condições patológicas especiais (idosos, ins
 
 Podem ser necessários quadros recapitulando os estudos feitos, segundo uma ordem lógica.
 
-# Parte IV-B - Documentação clínica
+Parte IV-B - Documentação clínica
 
 1 - A documentação clínica deve compreender uma descrição de todos os estudos efectuados, incluindo os estudos inacabados.
 
@@ -865,11 +881,11 @@ Qualquer bibliografia útil.
 
 3.2 - Qualquer outra informação.
 
-# Parte IV-Q - Outras informações
+Parte IV-Q - Outras informações
 
-# Parte V: Informações particulares
+Parte V: Informações particulares
 
-# Parte V-A - Forma de apresentação
+Parte V-A - Forma de apresentação
 
 1 - Projecto de embalagem.
 
@@ -877,13 +893,13 @@ Qualquer bibliografia útil.
 
 3 - Projecto de literatura interna.
 
-# Parte V-B - Amostras
+## Parte V-B - Amostras
 
 1 - Lista e descrição das amostras que acompanham o pedido.
 
-# Parte V-C - Certificado da existência legal do laboratório fabricante
+Parte V-C - Certificado da existência legal do laboratório fabricante
 
-# Parte V-D - Autorização(ões) de introdução no mercado
+Parte V-D - Autorização(ões) de introdução no mercado
 
 1 - Certificado de venda livre no país de origem e resumo das características do produto aprovado nesse país.
 

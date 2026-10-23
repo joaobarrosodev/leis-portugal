@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/02700/04100413.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1989-610413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6329bc6846ca303182463e748ab866e2e4d355b7a3eaf0e07c577a63f26ca97a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bf26a5f0e4088d5c2fa2e626b1a786b29c6fc5a641a65fe0e09d046c0f338cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Definição de Competências
+- Faculdade de Arquitectura
+- Formas de Provimento
+- Integração de Trabalhadores
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal não Docente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348514:por
+  label: Rectificado pela DECL.DD1269.1989.03.31.PCM, DR.IS [75]Supl de 31/Mar/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348514
+  date: '1989-03-31'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:48Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +156,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Faculdade de Arquitectura da Universidade do Porto, adiante designada por Faculdade, é uma pessoa colectiva pública dotada de autonomia administrativa, financeira, pedagógica e científica, sem prejuízo das orientações que vierem a ser definidas pelo Governo e pelos órgãos próprios de governo da Universidade, no âmbito das respectivas competências.
+Artigo 1.º A Faculdade de Arquitectura da Universidade do Porto, adiante designada por Faculdade, é uma pessoa colectiva pública dotada de autonomia administrativa, financeira, pedagógica e científica, sem prejuízo das orientações que vierem a ser definidas pelo Governo e pelos órgãos próprios de governo da Universidade, no âmbito das respectivas competências.
 
-###### Art. 2.º - 1 - A Faculdade tem por fim ministrar o ensino, promover a investigação científica e desenvolver acções de prestação de serviços à comunidade nos domínios das edificações e do urbanismo.
+Art. 2.º - 1 - A Faculdade tem por fim ministrar o ensino, promover a investigação científica e desenvolver acções de prestação de serviços à comunidade nos domínios das edificações e do urbanismo.
 
 2 - Para a prossecução das suas atribuições, compete à Faculdade:
 
@@ -118,15 +172,15 @@ d) Apoiar e promover acções de extensão cultural;
 
 e) Organizar e desenvolver formas de prestação de serviços à comunidade, numa base de valorização recíproca.
 
-###### Art. 3.º Para efeitos do número anterior, a Faculdade pode, nos termos legais, estabelecer acordos ou convénios de cooperação com entidades públicas ou privadas, nacionais ou estrangeiras, que prossigam os mesmos fins.
+Art. 3.º Para efeitos do número anterior, a Faculdade pode, nos termos legais, estabelecer acordos ou convénios de cooperação com entidades públicas ou privadas, nacionais ou estrangeiras, que prossigam os mesmos fins.
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 
-###### Art. 4.º - 1 - Além dos órgãos de gestão previstos na lei geral dos estabelecimentos do ensino superior, a Faculdade dispõe ainda de um conselho administrativo, ao qual compete assegurar a gestão administrativa, financeira e patrimonial da escola.
+Art. 4.º - 1 - Além dos órgãos de gestão previstos na lei geral dos estabelecimentos do ensino superior, a Faculdade dispõe ainda de um conselho administrativo, ao qual compete assegurar a gestão administrativa, financeira e patrimonial da escola.
 
 2 - A Faculdade dispõe dos serviços previstos nos artigos 28.º a 32.º do [Decreto-Lei n.º 148/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1988-285366), de 27 de Abril, com a organização e as competências definidas nesses preceitos, e ainda dos serviços instituídos pelo artigo 8.º do presente diploma.
 
-###### Art. 5.º - 1 - O conselho administrativo da Faculdade é constituído pelo presidente do conselho directivo, que preside, pelo secretário e pelo chefe de repartição.
+Art. 5.º - 1 - O conselho administrativo da Faculdade é constituído pelo presidente do conselho directivo, que preside, pelo secretário e pelo chefe de repartição.
 
 2 - Nas faltas ou impedimentos de qualquer membro do conselho administrativo será chamado:
 
@@ -136,7 +190,7 @@ b) Para substituir o secretário, o chefe de repartição;
 
 c) Para substituir o chefe de repartição, o seu substituto legal.
 
-###### Art. 6.º Compete ao conselho administrativo:
+Art. 6.º Compete ao conselho administrativo:
 
 a) Promover a elaboração dos projectos de orçamento a incluir na parte substancial do Orçamento do Estado e privativos, de acordo com as disposições legais aplicáveis;
 
@@ -168,7 +222,7 @@ o) Atribuir as moradias afectas à Faculdade;
 
 p) Pronunciar-se sobre qualquer assunto no âmbito da sua competência que lhe seja apresentado pelo presidente.
 
-###### Art. 7.º - 1 - O conselho administrativo reunirá ordinariamente uma vez por quinzena, em dia e hora certos, e extraordinariamente sempre que convocado pelo presidente.
+Art. 7.º - 1 - O conselho administrativo reunirá ordinariamente uma vez por quinzena, em dia e hora certos, e extraordinariamente sempre que convocado pelo presidente.
 
 2 - Poderá participar nas reuniões do conselho, sem direito a voto, qualquer docente, discente ou funcionário da Faculdade, desde que para tal seja convocado pelo presidente.
 
@@ -178,7 +232,7 @@ p) Pronunciar-se sobre qualquer assunto no âmbito da sua competência que lhe s
 
 5 - Os membros do conselho administrativo são solidários na responsabilidade dos levantamentos de fundos e dos pagamentos, desde que tenham estado presentes à reunião em que esses actos foram aprovados e não tenham feito exarar em acta declaração expressa de discordância.
 
-###### Art. 8.º Para apoio específico ao ensino, à investigação científica e à extensão, a Faculdade disporá ainda de:
+Art. 8.º Para apoio específico ao ensino, à investigação científica e à extensão, a Faculdade disporá ainda de:
 
 a) Museu;
 
@@ -188,29 +242,29 @@ c) Laboratórios;
 
 d) Serviços de Editorial e Reprografia.
 
-###### Art. 9.º - 1 - Ao Museu compete o registo, a preservação e investigação do património relacionado com as áreas de estudo da Faculdade, bem como a promoção de exposições e outras acções de divulgação desse património.
+Art. 9.º - 1 - Ao Museu compete o registo, a preservação e investigação do património relacionado com as áreas de estudo da Faculdade, bem como a promoção de exposições e outras acções de divulgação desse património.
 
 2 - O Museu é dirigido por um professor, designado pelo conselho directivo.
 
-###### Art. 10.º - 1 - As oficinas são serviços de apoio à actividade docente e de investigação da Faculdade e abrangem a carpintaria, a serralharia e o Serviço de Artes Gráficas.
+Art. 10.º - 1 - As oficinas são serviços de apoio à actividade docente e de investigação da Faculdade e abrangem a carpintaria, a serralharia e o Serviço de Artes Gráficas.
 
 2 - As oficinas são dirigidas pelo funcionário de categoria mais elevada nelas colocado e funcionam na dependência directa do conselho directivo.
 
-###### Art. 11.º - 1 - Os laboratórios são serviços de apoio à investigação de base e aplicada nos domínios do visionamento, modelos, cálculo e computorização, fotografia, cartografia, topografia, fotogrametria, física do conforto e do ensaio de materiais.
+Art. 11.º - 1 - Os laboratórios são serviços de apoio à investigação de base e aplicada nos domínios do visionamento, modelos, cálculo e computorização, fotografia, cartografia, topografia, fotogrametria, física do conforto e do ensaio de materiais.
 
 2 - Os laboratórios são dirigidos por docentes e disporão do pessoal que neles for colocado por despacho do presidente do conselho directivo.
 
-###### Art. 12.º - 1 - Aos Serviços de Editorial e Reprografia compete coordenar e promover a edição e distribuição de publicações de interesse para a Faculdade.
+Art. 12.º - 1 - Aos Serviços de Editorial e Reprografia compete coordenar e promover a edição e distribuição de publicações de interesse para a Faculdade.
 
 2 - Os Serviços de Editorial e Reprografia funcionarão na dependência directa do presidente do conselho directivo e disporão do pessoal que neles for colocado, sem prejuízo da subordinação hierárquica e disciplinar desse pessoal ao secretário.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 13.º - 1 - A Faculdade disporá do pessoal docente e não docente constante dos mapas I e II anexos ao presente diploma, do qual fazem parte integrante.
+Art. 13.º - 1 - A Faculdade disporá do pessoal docente e não docente constante dos mapas I e II anexos ao presente diploma, do qual fazem parte integrante.
 
 2 - Os quadros do pessoal não docente da Faculdade consideram-se aditados aos quadros do pessoal fixados para a Universidade do Porto.
 
-###### Art. 14.º - 1 - O provimento do pessoal não docente a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
+Art. 14.º - 1 - O provimento do pessoal não docente a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -228,9 +282,9 @@ a) No lugar de origem, quando à comissão não se seguir o provimento definitiv
 
 b) No lugar do quadro da Faculdade em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 15.º Ao pessoal docente da Faculdade é aplicável o disposto no Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e na respectiva legislação complementar.
+Art. 15.º Ao pessoal docente da Faculdade é aplicável o disposto no Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e na respectiva legislação complementar.
 
-###### Art. 16.º Ao recrutamento e provimento do pessoal não docente da Faculdade é aplicável a lei geral ou especial sobre carreiras, salvo o disposto nas alíneas seguintes:
+Art. 16.º Ao recrutamento e provimento do pessoal não docente da Faculdade é aplicável a lei geral ou especial sobre carreiras, salvo o disposto nas alíneas seguintes:
 
 a) O lugar de secretário será provido por despacho do reitor, sob proposta do conselho directivo da escola, de entre licenciados com curso superior adequado, nos termos fixados nos diplomas aplicáveis ao pessoal dirigente;
 
@@ -240,7 +294,7 @@ c) Os lugares de auxiliar de manutenção serão providos de acordo com as norma
 
 ### CAPÍTULO IV — Disposições transitórias e finais
 
-###### Art. 17.º - 1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal que à data da entrada em vigor do presente diploma presta serviço na Faculdade de Arquitectura do Porto transita para os lugares do quadro constantes do mapa II anexo ao presente diploma, de acordo com as seguintes regras:
+Art. 17.º - 1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal que à data da entrada em vigor do presente diploma presta serviço na Faculdade de Arquitectura do Porto transita para os lugares do quadro constantes do mapa II anexo ao presente diploma, de acordo com as seguintes regras:
 
 a) Para a categoria que já detém;
 
@@ -252,27 +306,27 @@ b) Para categoria correspondente às funções que desempenha, remunerado pela m
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1988. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 19 de Janeiro de 1989.**
+Promulgado em 19 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Janeiro de 1989.**
+Referendado em 20 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 FACULDADE DE ARQUITECTURA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/02700/04100413.pdf))](https://files.diariodarepublica.pt/1s/1989/02/02700/04100413.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/02700/04100413.pdf)
 
 MAPA II
 
 FACULDADE DE ARQUITECTURA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/02700/04100413.pdf))](https://files.diariodarepublica.pt/1s/1989/02/02700/04100413.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/02700/04100413.pdf)
 
 CONTEÚDO FUNCIONAL
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 291/1989, 1º Suplemento, Série I de 1989-12-20
   number: '291'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5498-(2) a 5498-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29101/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1989-677670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6fc1e0ee1a05ba3c989f4a5ba3162844db76d23802ea59ac98a63596ee4f9bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bcc9a23124f75b06f4e16a7f759cb32349bda419c313c5a93a7ecf19e224920
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cunhagem de Moeda
+- Imprensa Nacional-Casa da Moeda
+- Moeda
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:04Z'
   warnings: []
   errors: []
 ---
@@ -100,30 +120,30 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criado um novo tipo de moeda metálica corrente de 100$00, fabricada em duas ligas, com o diâmetro exterior de 25 mm, peso de 8,3 g, tolerância em peso de mais ou menos 3,5% e bordo alternadamente liso e serrilhado, constituída por um núcleo interno de 17 mm de diâmetro, de liga de cupro-alumínio-níquel, na proporção de 90% de cobre, 5% de alumínio e 5% de níquel, com a tolerância de mais ou menos 0,5% no alumínio e no níquel, e por uma coroa circular externa de liga de cuproníquel, na proporção de 75% de cobre e 25% de níquel, com a tolerância de mais ou menos de 1,5% no níquel.
+Artigo 1.º É criado um novo tipo de moeda metálica corrente de 100$00, fabricada em duas ligas, com o diâmetro exterior de 25 mm, peso de 8,3 g, tolerância em peso de mais ou menos 3,5% e bordo alternadamente liso e serrilhado, constituída por um núcleo interno de 17 mm de diâmetro, de liga de cupro-alumínio-níquel, na proporção de 90% de cobre, 5% de alumínio e 5% de níquel, com a tolerância de mais ou menos 0,5% no alumínio e no níquel, e por uma coroa circular externa de liga de cuproníquel, na proporção de 75% de cobre e 25% de níquel, com a tolerância de mais ou menos de 1,5% no níquel.
 
-###### Art. 2.º - 1 - A gravura do anverso da moeda de 100$00 apresenta, no campo do núcleo, as armas nacionais na parte superior, o valor facial «100 escudos», em duas linhas, na parte inferior, na coroa circular a legenda «República Portuguesa», da esquerda para a direita, e a era da cunhagem.
+Art. 2.º - 1 - A gravura do anverso da moeda de 100$00 apresenta, no campo do núcleo, as armas nacionais na parte superior, o valor facial «100 escudos», em duas linhas, na parte inferior, na coroa circular a legenda «República Portuguesa», da esquerda para a direita, e a era da cunhagem.
 
 2 - A gravura do reverso da moeda de 100$00 apresenta, no campo do núcleo, o busto de Pedro Nunes, de perfil, à esquerda, segurando a esfera terrestre entre as mãos, e na coroa circular a legenda «Europa», com as letras entremeadas por 12 estrelas.
 
-###### Art. 3.º - 1 - O limite da emissão desta moeda corrente é fixado em 20000000 contos.
+Art. 3.º - 1 - O limite da emissão desta moeda corrente é fixado em 20000000 contos.
 
 2 - Esta moeda é posta a circular à medida que for emitida e conforme as necessidades de circulação o aconselharem.
 
-###### Art. 4.º Dentro dos limites estabelecidos no artigo anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar, anualmente, até 50000 moedas de 100$00 de uma mesma era de cunhagem com acabamento superficial «brilhante não circulado» (BNC) e até 20000 moedas com acabamento superficial «prova numismática» (proof), destinadas a comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
+Art. 4.º Dentro dos limites estabelecidos no artigo anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar, anualmente, até 50000 moedas de 100$00 de uma mesma era de cunhagem com acabamento superficial «brilhante não circulado» (BNC) e até 20000 moedas com acabamento superficial «prova numismática» (proof), destinadas a comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
 
-###### Art. 5.º A moeda cunhada ao abrigo deste diploma tem curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 5000$00 nesta moeda.
+Art. 5.º A moeda cunhada ao abrigo deste diploma tem curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 5000$00 nesta moeda.
 
-###### Art. 6.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
+Art. 6.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 18 de Dezembro de 1989.**
+Promulgado em 18 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Dezembro de 1989.**
+Referendado em 20 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

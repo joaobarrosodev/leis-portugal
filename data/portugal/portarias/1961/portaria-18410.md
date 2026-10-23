@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18410-1961-569498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a1488dbfbd0d49e624ea52aff6c038a95a8a764f78f4cfaa3b2ec7902927b33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1284d77f31f36a7e16de7ac297836e750829adc51b3d98debf9bd2baebcbb9cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:193778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193778:por
+  label: "Tornada extensiva ao ano de 1963 a aprovação dos efectivos provisórios dos órgãos da Força Aérea, pela PORT.19687.06.02.1963.PC,\
+    \ DG.IS [31] de 06.02.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19687-1963-193778
+  date: '1963-02-06'
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342473:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:21Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +117,6 @@ Para ser publicada no Boletim Oficial de Moçambique. - Vasco Lopes Alves.
 
 Do MAPA I ao MAPA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/04/09400/04610465.pdf))](https://files.diariodarepublica.pt/1s/1961/04/09400/04610465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/04/09400/04610465.pdf)
 
 Presidência do Conselho e Ministério do Ultramar, 22 de Abril de 1961. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz. - O Ministro do Ultramar, Vasco Lopes Alves.

@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1989-549269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3489f40f81ddcb2846583ab9fb3d30bf2a444c00e32ac02bdaff10ce8b66c238
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 411cd5745ced76b0a2b97693c8b004fad7f0108c0efaace21567d0814ededbce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aumento de Capital
+- Capital Social
+- Pesca
+- Sociedade Nacional dos Armadores de Bacalhau
+relationships:
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430463:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:33Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +107,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É a SNAB - Sociedade Nacional dos Armadores de Bacalhau, S. A., autorizada a realizar um aumento de capital social, mediante subscrição pública, aberta a entidades públicas e privadas, até ao montante de 1460129000$00.
+Artigo 1.º É a SNAB - Sociedade Nacional dos Armadores de Bacalhau, S. A., autorizada a realizar um aumento de capital social, mediante subscrição pública, aberta a entidades públicas e privadas, até ao montante de 1460129000$00.
 
-###### Art. 2.º - 1 - O capital social da SNAB é representado por acções do tipo A, que são nominativas, e por acções do tipo B, que podem ser nominativas ou ao portador em regime de registo.
+Art. 2.º - 1 - O capital social da SNAB é representado por acções do tipo A, que são nominativas, e por acções do tipo B, que podem ser nominativas ou ao portador em regime de registo.
 
 2 - São obrigatoriamente do tipo A:
 
@@ -109,7 +121,7 @@ c) As acções adicionais necessárias para que 51% do capital social existente 
 
 3 - São do tipo B as acções, a emitir, correspondentes ao aumento do capital social referido no artigo anterior, podendo estar na titularidade de entidades públicas ou privadas.
 
-###### Art. 3.º - 1 - As acções reservadas a pequenos subscritores, a actuais trabalhadores da Sociedade e aos que dela o tenham sido durante mais de três anos não podem ser transaccionadas durante o período de dois anos.
+Art. 3.º - 1 - As acções reservadas a pequenos subscritores, a actuais trabalhadores da Sociedade e aos que dela o tenham sido durante mais de três anos não podem ser transaccionadas durante o período de dois anos.
 
 2 - A aquisição de acções por parte dos trabalhadores beneficiará de condições especiais, a fixar ao abrigo do n.º 4 do artigo 5.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, por portaria conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
@@ -117,23 +129,23 @@ c) As acções adicionais necessárias para que 51% do capital social existente 
 
 4 - As percentagens exactas das acções a alienar nos termos do n.º 1 serão, para cada operação de venda, fixadas por resolução do Conselho de Ministros.
 
-###### Art. 4.º - 1 - A comissão de gestão da SNAB em exercício procederá a todos os actos necessários à realização do presente aumento de capital, assegurando o exercício e representação dos direitos do Estado.
+Art. 4.º - 1 - A comissão de gestão da SNAB em exercício procederá a todos os actos necessários à realização do presente aumento de capital, assegurando o exercício e representação dos direitos do Estado.
 
 2 - A comissão de gestão referida no número anterior e a comissão de fiscalização da SNAB manter-se-ão em funções até que sejam eleitos os titulares dos órgãos sociais, nos termos do artigo 9.º
 
-###### Art. 5.º - 1 - Para efeitos do disposto no artigo 1.º, compete à comissão de gestão da SNAB propor aos Ministros das Finanças e da Agricultura, Pescas e Alimentação o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes e tecnicamente habilitadas, a escolher, pela referida comissão, de entre as que forem pré-qualificadas por despacho do Ministro das Finanças.
+Art. 5.º - 1 - Para efeitos do disposto no artigo 1.º, compete à comissão de gestão da SNAB propor aos Ministros das Finanças e da Agricultura, Pescas e Alimentação o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes e tecnicamente habilitadas, a escolher, pela referida comissão, de entre as que forem pré-qualificadas por despacho do Ministro das Finanças.
 
 2 - O valor da empresa bem como o preço, o montante, as formas e condições de subscrição do capital social serão fixados na portaria conjunta referida no n.º 2 do artigo 3.º
 
 3 - A participação no capital social de entidades não nacionais fica sujeita ao disposto no n.º 5 do artigo 5.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
-###### Art. 6.º - 1 - A eleição dos futuros titulares dos órgãos sociais, após o aumento do capital social, cabe sempre à maioria dos votos expressos em assembleia geral, consignando os estatutos a designação de alguns desses titulares aos possuidores de acções do tipo B, sem prejuízo do disposto na alínea c) do n.º 1 do artigo 2.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
+Art. 6.º - 1 - A eleição dos futuros titulares dos órgãos sociais, após o aumento do capital social, cabe sempre à maioria dos votos expressos em assembleia geral, consignando os estatutos a designação de alguns desses titulares aos possuidores de acções do tipo B, sem prejuízo do disposto na alínea c) do n.º 1 do artigo 2.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 2 - A Sociedade, após o aumento de capital, terá como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
 3 - Para efeitos de eleição dos titulares dos órgãos sociais, após o aumento de capital, a assembleia geral só pode reunir estando presentes accionistas que representem pelo menos 51% do capital social.
 
-###### Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministros das Finanças e da Agricultura, Pescas e Alimentação pelo menos com a antecedência de 30 dias relativamente à da data da assembleia geral anual:
+Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministros das Finanças e da Agricultura, Pescas e Alimentação pelo menos com a antecedência de 30 dias relativamente à da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas de exercício;
 
@@ -141,28 +153,28 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e da Agricultura, Pescas e Alimentação um relatório sucinto em que se refiram os controlos efectuados, as eventuais anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 8.º - 1 - Os estatutos da SNAB serão alterados em função do aumento de capital social autorizado pelo presente diploma.
+Art. 8.º - 1 - Os estatutos da SNAB serão alterados em função do aumento de capital social autorizado pelo presente diploma.
 
 2 - A alteração prevista no número anterior e, bem assim, todas as outras alterações aos estatutos que se tornem necessárias produzirão os seus efeitos desde que observem o disposto na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, na lei comercial e no presente diploma, sendo necessária a sua redução a escritura pública e subsequente registo.
 
-###### Art. 9.º - 1 - A assembleia geral para eleição dos membros dos diversos órgãos sociais realizar-se-á na sede da Sociedade, pelas 17 horas do 30.º dia após as operações de subscrição do aumento de capital, desde que se atinja pelo menos uma subscrição de 30% de acções do tipo B, tendo os novos accionistas o direito a eleger dois representantes que, conjuntamente com os já existentes em representação da participação do Estado, integrarão os cinco membros do conselho de administração.
+Art. 9.º - 1 - A assembleia geral para eleição dos membros dos diversos órgãos sociais realizar-se-á na sede da Sociedade, pelas 17 horas do 30.º dia após as operações de subscrição do aumento de capital, desde que se atinja pelo menos uma subscrição de 30% de acções do tipo B, tendo os novos accionistas o direito a eleger dois representantes que, conjuntamente com os já existentes em representação da participação do Estado, integrarão os cinco membros do conselho de administração.
 
 2 - A subscrição que não atinja o fixado no número anterior fica sujeita ao disposto na primeira parte do n.º 1 e no n.º 3 do artigo 457.º do Código das Sociedades Comerciais, por se considerar que não se alcançaram os objectivos pretendidos.
 
-###### Art. 10.º Na assembleia geral referida no artigo anterior e nas que se realizem posteriormente os direitos do Estado como accionista da Sociedade são exercidos através de representante especialmente designado por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 10.º Na assembleia geral referida no artigo anterior e nas que se realizem posteriormente os direitos do Estado como accionista da Sociedade são exercidos através de representante especialmente designado por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 11.º São isentos de taxas e emolumentos os actos previstos no presente diploma ou necessários à concretização do respectivo fim.
+Art. 11.º São isentos de taxas e emolumentos os actos previstos no presente diploma ou necessários à concretização do respectivo fim.
 
-###### Art. 12.º A SNAB rege-se pelas disposições do presente diploma, pela lei comercial e pelos seus estatutos, sem prejuízo das disposições aplicáveis da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
+Art. 12.º A SNAB rege-se pelas disposições do presente diploma, pela lei comercial e pelos seus estatutos, sem prejuízo das disposições aplicáveis da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 5 de Outubro de 1989.**
+Promulgado em 5 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Outubro de 1989.**
+Referendado em 12 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

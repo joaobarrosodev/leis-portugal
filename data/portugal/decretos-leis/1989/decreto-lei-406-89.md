@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26400/50145015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1989-549813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 757edfca0edbe02982cd04d0b5725ebe4cefe494ae4028e9ca308e419a0e83e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d12ea9a77a134b39516a4c4e59afb3fea8b6edbd64749252afe32d2e17a7907
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Ave de Capoeira
+- Avicultura
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:315877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469017:por
+  label: "Alterado o art. 3.º e aditado os arts. 4.º, 5.º, 6.º, 7.º, 8.º e 9.º pelo DEC LEI.49/96.1996.05.15.MADRP DR.IS-A\
+    \ [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1996-469017
+  date: '1996-05-15'
+- type: repealed_by
+  target: pt:dre:315877:por
+  label: "Revogado pelo DEC LEI.72-F/2003.2003.04.14.MADRP DR.IS-A [88]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-f-2003-315877
+  date: '2003-04-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:18Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +112,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [86/113/CEE](https://data.europa.eu/eli/dir/1986/113/oj?locale=pt), do Conselho, de 25 de Março de 1986, que estabelece as normas mínimas relativas à protecção de galinhas poedeiras em bateria.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [86/113/CEE](https://data.europa.eu/eli/dir/1986/113/oj?locale=pt), do Conselho, de 25 de Março de 1986, que estabelece as normas mínimas relativas à protecção de galinhas poedeiras em bateria.
 
-###### Art. 2.º As normas técnicas de execução regulamentar sobre a protecção das galinhas poedeiras em bateria serão aprovadas por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo, após audição dos órgãos de governo próprio das regiões autónomas.
+Art. 2.º As normas técnicas de execução regulamentar sobre a protecção das galinhas poedeiras em bateria serão aprovadas por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo, após audição dos órgãos de governo próprio das regiões autónomas.
 
-###### Art. 3.º Para efeitos do presente diploma, a autoridade sanitária central é a Direcção-Geral da Pecuária, no continente, e, nas Regiões Autónomas dos Açores e da Madeira, os serviços e organismos das administrações regionais com idênticas atribuições e competências.
+Art. 3.º Para efeitos do presente diploma, a autoridade sanitária central é a Direcção-Geral da Pecuária, no continente, e, nas Regiões Autónomas dos Açores e da Madeira, os serviços e organismos das administrações regionais com idênticas atribuições e competências.
 
 Visto e aprovado em Conselho de Ministros de 28 de Setembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Arlindo Marques Cunha - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 31 de Outubro de 1989.**
+Promulgado em 31 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Novembro de 1989.**
+Referendado em 6 de Novembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

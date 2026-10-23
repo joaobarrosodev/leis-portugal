@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08300/17451755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1990-332042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98f671592148eb26bbe64cb74d861f5c439a84fe0ecc9bc459e2c07aa95c6268
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5a14f584de7b1592b2b95644c4b9e97d2000d32fdcef0a75a81ca1841ba4b2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Armazenagem
+- Comissão de Coordenação Regional
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral da Qualidade do Ambiente
+- Embalagem
+- Etiquetagem
+- Fiscalização
+- Gestão de Resíduos
+- Importação
+- Movimento Transfronteiriço de Resíduos
+- Multa
+- Poluição Transfronteiriça
+- Proteção do Ambiente
+- Resíduo
+- Transporte de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:690176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:691048:por
+  label: "Revogado, salvo na parte relativa à definição de resíduos e de resíduos perigosos, pelo DEC LEI.296/95.1995.11.17.MARN,\
+    \ DR.IS-A [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1995-691048
+  date: '1995-11-17'
+- type: repealed_by
+  target: pt:dre:690176:por
+  label: "Revogado, no que respeita às definições de resíduos e de resíduos perigosos, pelo DEC LEI.310/95.1995.11.20.MARN,\
+    \ DR.IS-A [268]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-1995-690176
+  date: '1995-11-20'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:14Z'
   warnings: []
   errors: []
 ---
@@ -444,15 +473,15 @@ O presente diploma entra em vigor 120 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 22 de Março de 1990.**
+Promulgado em 22 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Março de 1990.**
+Referendado em 24 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Tabela n.º 1 - Identificação de grupos de resíduos
 
@@ -896,4 +925,4 @@ Campo 32 - mencionar, além do peso líquido recebido e da data, o nome, bem com
 
 Campo 33 - mencionar, além da data, o nome, bem como os números de telefone e de telex da pessoa a contactar. A assinatura deve ser a do detentor ou do seu representante mandatado. Pela sua assinatura, o declarante certifica a exactidão das informações expostas no formulário.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/08300/17451755.pdf))](https://files.diariodarepublica.pt/1s/1990/04/08300/17451755.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08300/17451755.pdf)

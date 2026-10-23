@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc34dde884dfa683c7c7d023cce6a500899557251d4ec0f26793d2c867c0e9d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5895671c0972f0bfb01c3f220c41fe72091c21b48ac47c5534ddd29113423bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Direito Penal
+- Direito Público
+- Ilícito de MERA Ordenação Social
+- Multa
+- Pagamento
+- Recurso
 relationships:
 - type: amended_by
   target: pt:dre:116152179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563986:por
+  label: Alterados os arts. 17.º, 21.º, 22.º, 26.º, 35.º, 50.º-A, 59.º e 61.º do Dec Lei 433/82 de 27-out, na redação do presente
+    diploma, pelo(a) Decreto-Lei n.º 244/95 - Diário da República n.º 213/1995, Série I-A de 1995-09-14 que republica o Dec
+    Lei 433/82
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1995-563986
+  date: '1995-09-14'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: Alterado o art. 17.º do Dec Lei 433/82 de 27-out, na redacção do presente diploma, pelo DEC LEI.323/2001.2001.12.17.MJ
+    DR.IS-A [290]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612835:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:505236:por
+  label: Rectificado pela DECL.DD3522.1989.10.24.PCM, DR.IS [251]2º Supl de 31/Out/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505236
+  date: '1989-10-24'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:18Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +144,7 @@ Assim:
 
 No uso de autorização legislativa concedida pelo artigo 1.º da [Lei n.º 4/89](https://diariodarepublica.pt/dr/detalhe/lei/4-1989-612835), de 3 de Março, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 17.º, 21.º, 22.º, 26.º, 34.º, 35.º, 59.º, 61.º e 66.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 17.º, 21.º, 22.º, 26.º, 34.º, 35.º, 59.º, 61.º e 66.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 17.º — [...]
 
@@ -201,24 +234,24 @@ b) O arguido tem a sua residência ao tempo do início ou durante qualquer fase 
 
 Salvo disposição em contrário, a audiência em 1.ª instância obedece às normas relativas ao processamento das transgressões e contravenções, não havendo lugar à redução da prova a escrito.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, o artigo 50.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, o artigo 50.º-A, com a seguinte redacção:
 
 ###### Artigo 50.º-A — Pagamento voluntário
 
 Nos casos de contra-ordenação sancionável unicamente com coima até 200000$00, é admissível, em qualquer altura do processo, mas sempre antes da decisão, o pagamento voluntário da coima, a qual, neste caso, será liquidada pelo mínimo, sem prejuízo das custas que forem devidas.
 
-###### Art. 3.º O presente diploma aplica-se aos processos pendentes à data da sua entrada em vigor, salvo quando da sua aplicabilidade puder resultar agravamento da sanção a aplicar ao agente.
+Art. 3.º O presente diploma aplica-se aos processos pendentes à data da sua entrada em vigor, salvo quando da sua aplicabilidade puder resultar agravamento da sanção a aplicar ao agente.
 
-###### Art. 4.º O presente diploma entra em vigor 90 dias após a sua publicação.
+Art. 4.º O presente diploma entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 26 de Setembro de 1989.**
+Promulgado em 26 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Outubro de 1989.**
+Referendado em 1 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

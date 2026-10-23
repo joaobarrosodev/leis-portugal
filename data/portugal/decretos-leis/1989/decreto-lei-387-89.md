@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1989-549986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe207ca7ae0012e407d05183dea6a397a145272ee08fc4c94c0878988c3d6d7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7591a7f5db88f69c3ec78fd11c748a6d847a723a86b7707e3665c2576bf44674
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atividade Seguradora
+- Capital Social
+- Constituição de Sociedade
+- Empresa Pública
+- Instituto de Seguros de Portugal
+- RAMO não VIDA
+- RAMO VIDA
+- Seguro
+- Seguro de VIDA
+- Seguro RAMO não VIDA
+- Seguro RAMO VIDA
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:496332:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:53Z'
   warnings: []
   errors: []
 ---
@@ -96,34 +112,34 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Uma seguradora que, resvestindo a natureza de empresa pública, explore cumulativamente os seguros dos ramos «Vida» e «Não vida» pode, nos termos do presente diploma, solicitar autorização para a constituição de uma sociedade anónima que tenha por objecto social exclusivo a exploração de seguros e operações do ramo «Vida» de cujas acções representativas do capital social seja inicialmente a única titular, estabelecendo-se uma relação de domínio total inicial.
+Artigo 1.º - 1 - Uma seguradora que, resvestindo a natureza de empresa pública, explore cumulativamente os seguros dos ramos «Vida» e «Não vida» pode, nos termos do presente diploma, solicitar autorização para a constituição de uma sociedade anónima que tenha por objecto social exclusivo a exploração de seguros e operações do ramo «Vida» de cujas acções representativas do capital social seja inicialmente a única titular, estabelecendo-se uma relação de domínio total inicial.
 
 2 - Ao pedido de autorização referido no número anterior aplicam-se, em tudo o que não contrarie o presente diploma, as disposições legais que regulamentam as condições de acesso à actividade seguradora.
 
 3 - Simultaneamente com o pedido de autorização previsto no n.º 1 deve ser apresentado um pedido de transferência de carteira do ramo «Vida» para a nova seguradora, o qual será igualmente analisado nos termos legais em vigor.
 
-###### Art. 2.º - 1 - No momento da constituição da seguradora dependente, a dominante deixará de explorar o ramo «Vida», transferindo para aquela a respectiva carteira de vida, acompanhada da totalidade dos valores activos e passivos que se encontravam afectos a esse mesmo ramo, devendo a correspondente contabilização merecer o acordo prévio do Instituto de Seguros de Portugal.
+Art. 2.º - 1 - No momento da constituição da seguradora dependente, a dominante deixará de explorar o ramo «Vida», transferindo para aquela a respectiva carteira de vida, acompanhada da totalidade dos valores activos e passivos que se encontravam afectos a esse mesmo ramo, devendo a correspondente contabilização merecer o acordo prévio do Instituto de Seguros de Portugal.
 
 2 - A partir da sua constituição, a nova seguradora de vida assumirá, sem interrupção, a condução de todos os negócios referentes ao ramo «Vida» praticados pela seguradora dominante, passando para o nome daquela todas as autorizações de exploração concedidas a esta.
 
-###### Art. 3.º - 1 - O capital social inicial da seguradora dependente, representado por acções do valor nominal de 1000$00 cada uma, é subscrito e realizado, na sua totalidade, pela seguradora dominante.
+Art. 3.º - 1 - O capital social inicial da seguradora dependente, representado por acções do valor nominal de 1000$00 cada uma, é subscrito e realizado, na sua totalidade, pela seguradora dominante.
 
 2 - A realização referida no número anterior obedecerá ao que sobre o assunto dispõe a legislação específica da actividade seguradora.
 
-###### Art. 4.º - 1 - Os trabalhadores que pertençam aos quadros da seguradora dominante e que transitem para a seguradora dependente manterão na nova sociedade todos os direitos e obrigações de que foram titulares.
+Art. 4.º - 1 - Os trabalhadores que pertençam aos quadros da seguradora dominante e que transitem para a seguradora dependente manterão na nova sociedade todos os direitos e obrigações de que foram titulares.
 
 2 - A situação dos trabalhadores das seguradoras de vida dependentes que sejam chamados a ocupar cargos nos órgãos sociais da sociedade em nada é prejudicada por esse facto, regressando aos seus lugares de origem logo que terminem o seu mandato.
 
-###### Art. 5.º Os estatutos das seguradoras de vida autorizadas nos termos do presente diploma devem obedecer ao disposto nos artigos anteriores, à legislação específica da actividade seguradora e à lei comercial.
+Art. 5.º Os estatutos das seguradoras de vida autorizadas nos termos do presente diploma devem obedecer ao disposto nos artigos anteriores, à legislação específica da actividade seguradora e à lei comercial.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Outubro de 1989.**
+Promulgado em 26 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1989.**
+Referendado em 28 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

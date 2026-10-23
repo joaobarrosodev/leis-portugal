@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08900/18161818.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1990-331998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc7c107b95b6bcefe6db287aa53cda1b04988cc98440b31cf3e9dd2003493773
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d94bc449719e350c3a5c9a73b3bae2793f3444bab1b55d21e76a07c0e2bea87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Informação
+- Aproximação das Legislações
+- Autoridade Nacional
+- CE Países
+- CEE
+- Contribuições e Impostos
+- Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Imposto sobre Sucessões e Doações
+- Impostos Directos
+- IRC
+- IRS
+- IVA
+- Ministro das Finanças
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:261156:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476751:por
+  label: "Alterado o art. 5.º , pelo DEC LEI.256/2003.21.10.2003.MF, DR.IS-A [244] de 21.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2003-476751
+  date: '1990-04-17'
+- type: amended_by
+  target: pt:dre:657441:por
+  label: "Alterados os arts. 1º, 2º e 6º, pelo DEC LEI.52/93.1993.02.26.MF, DR.IS-A [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-1993-657441
+  date: '1993-02-26'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Suprimido o disposto nas als. d), g) e h) do art. 4º, pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:187082:por
+  label: "Dada nova redacção ao art. 6º pelo DEC LEI.235/96.1996.12.07.MF, DR.IS-A [283]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-1996-187082
+  date: '1996-12-07'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterada a redacção do art. 6.º, pela LEI.87-B/98.1998.12.31.AR DR.IS-A [301]5.ºSUPL (OE 1999 - Art. 32.º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os arts. 1.º e 2.º, 4.º (este último na redacção da Lei 39-B/94, de 27-Dez), 5.º (na redacção do Dec Lei\
+    \ 256/2003, de 21-Out) e 6.º na redacção do Dec Lei 235/96, de 07-Dez e Lei 87-B/98, de 31-Dez) e aditados os arts. 7.º-A\
+    \ e 7.º-B ao presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 1º, 2º e 6º deste diploma, com as alterações introduzidas pelos Dec Lei 52/93 de 26-Fev, 235/96\
+    \ de 07-Dez e pelas Leis 87-B/98 de 31-Dez e 55-B/2004 de 30-Dez, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl]\
+    \ de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: repealed_by
+  target: pt:dre:261156:por
+  label: "Revogado, a partir de 11.05.2013, o presente diploma, com as alterações introduzidas pelo Dec Lei 52/93 de 26-fev,\
+    \ pela Lei 39-B/94 de 27-dez, pelo Dec Lei 235/96 de 07-dez, pela Lei 87-B/98 de 31-dez, pelo Dec Lei 256/2003 de 21-out,\
+    \ e pelas Leis 55-B/2004 de 30-dez e 60-A/2005 de 30-dez, pelo DEC LEI.61/2013.10.05.2013.MF, DR.IS [90] de 10.05.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2013-261156
+  date: '2013-05-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:24Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +168,15 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 96/89, de 12 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [77/799/CEE](https://data.europa.eu/eli/dir/1977/799/oj?locale=pt), do Conselho, de 19 de Dezembro de 1977, com as alterações que lhe foram introduzidas pelas Directiva n.º [79/1070/CEE](https://data.europa.eu/eli/dir/1979/1070/oj?locale=pt), do Conselho, de 6 de Dezembro de 1979, relativa à assistência mútua das autoridades competentes dos Estados membros no domínio dos impostos directos.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [77/799/CEE](https://data.europa.eu/eli/dir/1977/799/oj?locale=pt), do Conselho, de 19 de Dezembro de 1977, com as alterações que lhe foram introduzidas pelas Directiva n.º [79/1070/CEE](https://data.europa.eu/eli/dir/1979/1070/oj?locale=pt), do Conselho, de 6 de Dezembro de 1979, relativa à assistência mútua das autoridades competentes dos Estados membros no domínio dos impostos directos.
 
-###### Art. 2.º - 1 - A autoridade competente em Portugal prestará à autoridade competente de outro Estado membro as informações importantes e necessárias à correcta determinação dos impostos sobre o rendimento e sobre o património ou do imposto sobre o valor acrescentado, relativamente a uma situação concreta.
+Art. 2.º - 1 - A autoridade competente em Portugal prestará à autoridade competente de outro Estado membro as informações importantes e necessárias à correcta determinação dos impostos sobre o rendimento e sobre o património ou do imposto sobre o valor acrescentado, relativamente a uma situação concreta.
 
 2 - Consideram-se impostos sobre o rendimento e sobre o património os referidos nos n.os 2 e 3 do artigo 1.º da Directiva n.º [77/799/CEE](https://data.europa.eu/eli/dir/1977/799/oj?locale=pt), de 19 de Dezembro de 1977, e suas modificações.
 
 3 - A autoridade competente em Portugal é, para os efeitos deste diploma, o Ministro das Finanças ou a entidade em que este delegar tais poderes.
 
-###### Art. 3.º - 1 - A prestação de informações, referida no n.º 1 do artigo anterior, pode ocorrer nas seguintes modalidades:
+Art. 3.º - 1 - A prestação de informações, referida no n.º 1 do artigo anterior, pode ocorrer nas seguintes modalidades:
 
 a) A pedido;
 
@@ -139,7 +200,7 @@ e) Em consequência das informações comunicadas pela autoridade competente num
 
 4 - A troca de informações automática opera-se regularmente e tem por objecto apenas as categorias de informações previamente determinadas por acordo entre as respectivas autoridades competentes.
 
-###### Art. 4.º Nenhuma informação poderá ser prestada se:
+Art. 4.º Nenhuma informação poderá ser prestada se:
 
 a) Impuser a obrigação de efectuar diligências ou de transmitir informações quando a legislação ou prática administrativa nacionais não autorizem a efectivação destas diligências ou a obtenção ou utilização destas informações pela administração fiscal portuguesa;
 
@@ -159,13 +220,13 @@ h) Existirem dificuldades ou dúvidas na aplicação de uma convenção destinad
 
 i) No caso de troca a pedido, o Estado requerente não tiver esgotado as fontes habituais de informação que teria podido utilizar, consoante as circunstâncias, para obter as informações solicitadas, sem correr o risco de prejudicar a consecução do resultado procurado.
 
-###### Art. 5.º - 1 - A recolha de informações é realizada nas modalidades e nos limites previstos pelas normas portuguesas relativas à determinação dos correspondentes impostos referidos no artigo 2.º deste diploma.
+Art. 5.º - 1 - A recolha de informações é realizada nas modalidades e nos limites previstos pelas normas portuguesas relativas à determinação dos correspondentes impostos referidos no artigo 2.º deste diploma.
 
 2 - Para os fins previstos nos artigos anteriores, e dentro dos limites acordados com a autoridade competente de outro Estado membro, a autoridade competente portuguesa pode permitir a presença, no território nacional, sob condição de reciprocidade, de funcionários da administração fiscal desse outro Estado.
 
 3 - A autoridade competente portuguesa pode, para os fins previstos nos artigos anteriores, solicitar à autoridade competente de um outro Estado a presença de funcionários da administração fiscal portuguesa no território desse outro Estado.
 
-###### Art. 6.º - 1 - A autoridade competente notificará a pessoa relativamente à qual são prestadas as informações da comunicação que vai ser feita, indicando a autoridade competente a que vai ser fornecida a informação e a natureza desta.
+Art. 6.º - 1 - A autoridade competente notificará a pessoa relativamente à qual são prestadas as informações da comunicação que vai ser feita, indicando a autoridade competente a que vai ser fornecida a informação e a natureza desta.
 
 2 - As informações não devem ser fornecidas antes de decorridos 30 dias após a notificação referida no número precedente.
 
@@ -173,7 +234,7 @@ i) No caso de troca a pedido, o Estado requerente não tiver esgotado as fontes 
 
 4 - Sempre que a prestação de informação pedida deparar com obstáculos ou for recusada, deve a autoridade competente informar o requerente da natureza do impedimento ou dos fundamentos da recusa.
 
-###### Art. 7.º - 1 - Qualquer informação recebida de outro Estado membro, nos termos deste diploma, é conservada secreta, do mesmo modo que as informações recolhidas em aplicação da legislação portuguesa.
+Art. 7.º - 1 - Qualquer informação recebida de outro Estado membro, nos termos deste diploma, é conservada secreta, do mesmo modo que as informações recolhidas em aplicação da legislação portuguesa.
 
 2 - Não obstante o disposto no número anterior, pode a autoridade competente portuguesa obrigar-se a condições de sigilio mais exigentes, se tal resultar das normas vigentes no outro Estado membro.
 
@@ -185,16 +246,16 @@ i) No caso de troca a pedido, o Estado requerente não tiver esgotado as fontes 
 
 6 - As informações só podem ser utilizadas em audiências públicas ou em julgamento se a autoridade competente do Estado que as prestou não se opuser.
 
-###### Art. 8.º O disposto neste diploma será aplicável a informações relativas aos impostos correspondentes aos anos de 1986 e seguintes.
+Art. 8.º O disposto neste diploma será aplicável a informações relativas aos impostos correspondentes aos anos de 1986 e seguintes.
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Fernando Nogueira.
 
-**Promulgado em 2 de Abril de 1990.**
+Promulgado em 2 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Abril de 1990.**
+Referendado em 5 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

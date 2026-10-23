@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/06900/12691271.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1989-613933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4fd42d894eb95822174a574cbdd5246ae3ba1afc93fc9cae9ba7eddfc347c0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebe3cf4cc0907095229928cff884eedb978d321fbee5ff01517088e123494061
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação Colectiva
+- Contrato Coletivo de Trabalho
+- Convenção Coletiva de Trabalho
+- Empresa Pública
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233312:por
+  label: "Alterados os arts. 16º, 24º e 26º do Dec Lei 519-C1/79 de 29-Dez, com a redacção constante do presente diploma,\
+    \ pelo DEC LEI.209/92.02.10.1992.MESS, DR.IS-A [228] de 02.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1992-233312
+  date: '1992-10-02'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Alterada a redacção do art. 44.º do Dec Lei 519-C1/79, de 29-Dez DR.IS [299]3ºSupl, na redacção dada pelo presente\
+    \ diploma e pelo Dec Lei 209/92, de 02-Out, pela LEI.118/99.1999.08.11.AR\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: cites
+  target: pt:dre:157052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365946:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:24Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +149,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 11.º, 13.º, 16.º, 23.º, 24.º, 25.º e 26.º do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º, 13.º, 16.º, 23.º, 24.º, 25.º e 26.º do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - A convenção colectiva e a decisão arbitral mantêm-se em vigor até serem substituídas por outro instrumento de regulamentação colectiva.
 
-###### Art. 13.º Pode ser atribuída eficácia retroactiva às tabelas salariais até à data em que se tenha esgotado o prazo de resposta à proposta de negociação ou, no caso de revisão de uma convenção anterior, até ao termo do prazo de doze meses após a data da sua entrega para depósito.
+Art. 13.º Pode ser atribuída eficácia retroactiva às tabelas salariais até à data em que se tenha esgotado o prazo de resposta à proposta de negociação ou, no caso de revisão de uma convenção anterior, até ao termo do prazo de doze meses após a data da sua entrega para depósito.
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - As convenções colectivas e as decisões arbitrais não podem ser denunciadas antes de decorridos dez meses após a data da sua entrega para depósito.
 
@@ -133,7 +167,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - ...
 
-###### Art. 23.º - 1 - O texto final das convenções colectivas e das decisões arbitrais deverá referir obrigatoriamente:
+Art. 23.º - 1 - O texto final das convenções colectivas e das decisões arbitrais deverá referir obrigatoriamente:
 
 a) A designação das entidades celebrantes;
 
@@ -143,7 +177,7 @@ c) A data da celebração.
 
 2 - As tabelas salariais devem conter valores salariais expressos para todas as profissões e categorias profissionais.
 
-###### Art. 24.º - 1 - ...
+Art. 24.º - 1 - ...
 
 2 - ...
 
@@ -163,30 +197,30 @@ d) Se a convenção não for acompanhada de declaração subscrita pelos outorga
 
 6 - (Actual n.º 5.)
 
-###### Art. 25.º - 1 - ...
+Art. 25.º - 1 - ...
 
 2 - ...
 
 3 - No caso previsto no n.º 1 do presente artigo e nos casos de recusa de depósito dos instrumentos referidos no n.º 1 do artigo anterior, os efeitos previstos no presente diploma relativos à entrega para depósito passam a reportar-se à data da entrega que ocorrer, respectivamente, após a alteração ou a sanação dos vícios.
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 2 - Os instrumentos referidos no número anterior são publicados no Boletim do Trabalho e Emprego nos quinze dias seguintes ao depósito definitivo.
 
-###### Art. 2.º As referências feitas no [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, a empresas de capitais públicos consideram-se feitas a empresas de capitais exclusivamente públicos.
+Art. 2.º As referências feitas no [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, a empresas de capitais públicos consideram-se feitas a empresas de capitais exclusivamente públicos.
 
-###### Art. 3.º - 1 - São revogados o n.º 5 do artigo 1.º e o n.º 2 do artigo 36.º do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro.
+Art. 3.º - 1 - São revogados o n.º 5 do artigo 1.º e o n.º 2 do artigo 36.º do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro.
 
 2 - São revogados os Decretos-Leis n.os [121/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1978-294717), de 2 de Junho, e [490/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1979-365946), de 19 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1989. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1989.**
+Referendado em 11 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

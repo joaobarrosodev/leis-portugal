@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24600/47244730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1989-549402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57f4c9aba0ce5ea129f1b080616823558ec9d985ffdfd49e21ee6bc4b1a3fe7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bef5ea991a5fbf2290ce3c6c119211d1188c4288d9f8d29e3cd73255ea8bdddd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração dos Portos de Setúbal e Sesimbra
+- Junta Autónoma dos Portos
+- Portos
+- Sesimbra
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:1511695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELO DEC LEI 451/91 DE 04-DEZ DR.IS-A [279]SUPL RELATIVAMENTE A TUTELA DA ADMINISTRACAO DOS PORTOS DE SETUBAL
+    E SESIMBRA.E
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma, relativamente à tutela da Administração dos Portos de Setúbal e Sesimbra, pelo(a) Decreto-Lei
+    n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:265556:por
+  label: "Transferidas para as Comissões de Coordenação Regional as competências dos serviços de planeamento exercidas pela\
+    \ Direcção Geral do Ordenamento do Território, pelo DEC LEI.108/94.1994.04.23.MPLAT, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1994-265556
+  date: '1994-04-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DO EQUIPAMENTO SOCIAL PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPLP\0\
+    UPLP"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:192992:por
+  label: Rectificado pelo DECL.DD3566.1989.11.23.PCM DR.IS [276]SUPL DE 30/NOV/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-192992
+  date: '1989-11-23'
+- type: repealed_by
+  target: pt:dre:223022:por
+  label: "Revogado pelo DEC LEI.338/98.1998.11.03.MEPAT, DR.IS-A [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1998-223022
+  date: '1998-11-03'
 article_structure:
-  article_count: 53
+  article_count: 52
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:43Z'
   warnings: []
   errors: []
 ---
@@ -101,35 +169,35 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É extinta a Junta Autónoma do Porto de Setúbal e é criada, em sua substituição, a Administração dos Portos de Setúbal e Sesimbra.
+Artigo 1.º - 1 - É extinta a Junta Autónoma do Porto de Setúbal e é criada, em sua substituição, a Administração dos Portos de Setúbal e Sesimbra.
 
 2 - A nova Administração rege-se pelo estatuto orgânico que vai publicado em anexo e que faz parte integrante do presente diploma.
 
-###### Art. 2.º - 1 - São transferidos automaticamente para a Administração dos Portos de Setúbal e Sesimbra todos os direitos e obrigações, contratuais ou não, e todo o pessoal técnico, administrativo e auxiliar da agora extinta Junta Autónoma do Porto de Setúbal, salvaguardados todos os seus direitos e regalias.
+Art. 2.º - 1 - São transferidos automaticamente para a Administração dos Portos de Setúbal e Sesimbra todos os direitos e obrigações, contratuais ou não, e todo o pessoal técnico, administrativo e auxiliar da agora extinta Junta Autónoma do Porto de Setúbal, salvaguardados todos os seus direitos e regalias.
 
 2 - Mantêm-se em funções os membros dos actuais órgãos de administração e direcção até à nomeação dos novos órgãos instituídos pelo estatuto orgânico, competindo-lhes assegurar o exercício das competências nele previstos.
 
 3 - Mantêm-se igualmente em funções os titulares das chefias, de direcção de serviços e de divisão, que ficarão sujeitas a confirmação pelo novo órgão de administração a nomear no prazo de 180 dias a contar da data da entrada em vigor do presente diploma.
 
-###### Art. 3.º A Administração dos Portos de Setúbal e Sesimbra poderá manter durante o ano de 1989 a organização contabilística actual, sem prejuízo da aplicação das demais disposições do respectivo estatuto orgânico, relativas à gestão financeira e patrimonial, nomeadamente no que se refere ao julgamento de contas.
+Art. 3.º A Administração dos Portos de Setúbal e Sesimbra poderá manter durante o ano de 1989 a organização contabilística actual, sem prejuízo da aplicação das demais disposições do respectivo estatuto orgânico, relativas à gestão financeira e patrimonial, nomeadamente no que se refere ao julgamento de contas.
 
-###### Art. 4.º - 1 - É revogado o [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, no que se refere à Junta Autónoma do Porto de Setúbal, bem como toda a demais legislação geral e especial que contrarie o disposto no presente diploma.
+Art. 4.º - 1 - É revogado o [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, no que se refere à Junta Autónoma do Porto de Setúbal, bem como toda a demais legislação geral e especial que contrarie o disposto no presente diploma.
 
 2 - O Regulamento de Tarifas das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 291/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1979-377542), de 16 de Agosto, deixa de ser aplicado aos portos de Setúbal e Sesimbra a partir da entrada em vigor do Regulamento de Tarifas da Administração dos Portos de Setúbal e Sesimbra.
 
-###### Art. 5.º O presente diploma entra em vigor no dia 1 de Novembro de 1989.
+Art. 5.º O presente diploma entra em vigor no dia 1 de Novembro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 17 de Agosto de 1989. - Eurico Silva Teixeira de Melo - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins - Jorge Manuel Mendes Antas.
 
-**Promulgado em 11 de Outubro de 1989.**
+Promulgado em 11 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1989.**
+Referendado em 16 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTO ORGÂNICO DA ADMINISTRAÇÃO DOS PORTOS DE SETÚBAL E SESIMBRA
 
@@ -401,7 +469,7 @@ c) Obter de terceiros que tenham realizado operações por conta da APSS as info
 
 ###### Artigo 21.º — Assistência às reuniões do conselho de administração
 
-**O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.**
+O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.
 
 ###### Artigo 22.º — Funcionamento da comissão de fiscalização
 
@@ -771,4 +839,4 @@ Para efeitos das suas relações comerciais com a banca, a APSS é livre na esco
 
 ###### Artigo 52.º — Autofinanciamento
 
-**O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela APSS, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.**
+O ministro da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos que, como objectivo, deverá ser obtida globalmente pela APSS, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.

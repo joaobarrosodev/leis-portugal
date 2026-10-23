@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18350-1961-560226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19f4a0cefa5161aa367a9d8ffd022c60e88b0f8eeff86c86cd373efcf3aaa068
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c234a2c778a79e73d97b3bf8b959e8c87db9ef4bc1968cef96dc5066308f62d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:06Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Ouvida a Comissão Liquidatária de Responsabilidades:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo da faculdade conferida pelo artigo 4.º do [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942, que o n.º 2.º do artigo 293.º do Regulamento de Administração da Fazenda Naval, aprovado e posto em execução pelo diploma referido, passe a ter a redacção seguinte:
 
-###### Art. 293.º ...
+Art. 293.º ...
 
 1.º ...
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07200/13111313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1989-614781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc46e4d90c7c6ca3752a275cc36676fb11e0be2ec51695f5ff6ddaae403c0da0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfdb12186038a66f9617c19a13f372e71ff331e863bc6841b0c431cfc680ae27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Etiquetagem
+- Normalização
+- Proteção do Consumidor
+- Refrigerante
 relationships:
 - type: amended_by
   target: pt:dre:534654:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARACAO DD796/89, DE 28 DE ABRIL, DA PCM, PUBLICADA NO DR.IS, 99, SUPL, DE 890429.D\0.D\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-04-29'
+- type: cites
+  target: pt:dre:156042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:441492:por
+  label: Rectificada alínea e) do n.º 2 do artigo 2.º, o artigo 4.º, os n.ºs 1 e 2 do artigo 5.º, o n.º 2 do artigo 10.º e
+    o anexo (na última característica microbiológica), pela DECL.DD796.29.04.1989.PCM, DR.IS [99]Supl de 29.04.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-441492
+  date: '1989-04-29'
+- type: repealed_by
+  target: pt:dre:534654:por
+  label: "Revogado pelo DEC LEI.288/94.1994.11.14.MA, DR.IS-A [263], com efeitos reportados à data da entrada em vigor da\
+    \ Portaria referida no seu art. 1º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1994-534654
+  date: '1994-11-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:34Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +159,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma aplica-se a todas as bebidas refrigerantes, com excepção das destinadas a alimentação especial.
+Artigo 1.º O presente diploma aplica-se a todas as bebidas refrigerantes, com excepção das destinadas a alimentação especial.
 
-###### Art. 2.º - 1 - Para efeitos do disposto neste diploma, entende-se por bebida refrigerante ou simplemente refrigerante o género alimentício constituído por água contendo em solução, emulsão ou suspensão qualquer dos ingredientes previstos no artigo seguinte e, eventualmente, adoçado, acidulado e ou gaseificado com dióxido de carbono.
+Art. 2.º - 1 - Para efeitos do disposto neste diploma, entende-se por bebida refrigerante ou simplemente refrigerante o género alimentício constituído por água contendo em solução, emulsão ou suspensão qualquer dos ingredientes previstos no artigo seguinte e, eventualmente, adoçado, acidulado e ou gaseificado com dióxido de carbono.
 
 2 - É permitido o fabrico e a comercialização dos seguintes tipos de refrigerantes, cujas denominações lhes pertencem exclusivamente:
 
@@ -134,7 +191,7 @@ g) Refrigerante adicionado de bebida alcoólica - refrigerante resultante da adi
 
 3 - Os refrigerantes devem apresentar as características estabelecidas no anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 3.º No fabrico de refrigerantes podem ser utilizadas as seguintes matérias-primas estremes ou em mistura:
+Art. 3.º No fabrico de refrigerantes podem ser utilizadas as seguintes matérias-primas estremes ou em mistura:
 
 a) Sumo - o produto líquido, fermentescível mas não fermentado, extraído de frutos ou de produtos hortícolas por processos mecânicos e, bem assim, idêntico produto reconstituído a partir de sumo concentrado de frutos ou de produtos hortícolas;
 
@@ -162,9 +219,9 @@ m) Açúcares - definidos e caracterizados no [Decreto-Lei n.º 302/85](https://
 
 n) Mel - com as características estabelecidas pelo [Decreto-Lei n.º 131/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1985-324293), de 29 de Abril.
 
-###### Art. 4.º Os contaminantes e os aditivos admissíveis no fabrico de refrigerantes, bem como os respectivos teores, serão os fixados em portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e da Saúde.
+Art. 4.º Os contaminantes e os aditivos admissíveis no fabrico de refrigerantes, bem como os respectivos teores, serão os fixados em portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e da Saúde.
 
-###### Art. 5.º - 1 - Salvo o disposto no n.º 4, os refrigerantes destinados ao consumidor somente podem ser comercializados pré-embalados na origem, em recipientes hermeticamente vedados, os quais, quando recuperáveis, devem permitir lavagem e ou esterilização fáceis e ser fabricados em vidro ou outro material inerte e impermeável em relação ao conteúdo.
+Art. 5.º - 1 - Salvo o disposto no n.º 4, os refrigerantes destinados ao consumidor somente podem ser comercializados pré-embalados na origem, em recipientes hermeticamente vedados, os quais, quando recuperáveis, devem permitir lavagem e ou esterilização fáceis e ser fabricados em vidro ou outro material inerte e impermeável em relação ao conteúdo.
 
 2 - A comercialização de refrigerantes pré-embalados de 0,125 l a 2 l só pode ser efectuada nas quantidades líquidas de 0,125 l, 0,2 l, 0,25 l, 0,33 l, 0,5 l, 0,75 l, 1 l, 1,5 l e 2 l.
 
@@ -172,7 +229,7 @@ n) Mel - com as características estabelecidas pelo [Decreto-Lei n.º 131/85](ht
 
 4 - Os refrigerantes também podem ser vendidos não pré-embalados, colhidos de aparelhos distribuidores, de vidro ou outro material apropriado, que satisfaçam os necessários requisitos de inocuidade e higiene, nos quais circulem permanentemente a temperatura inferior a 8ºC.
 
-###### Art. 6.º - 1 - A legislação geral sobre rotulagem de géneros alimentícios é aplicável aos refrigerantes destinados ao consumidor, embalados em recipientes de origem ou contidos em aparelhos distribuidores, devendo observar-se, ainda, o seguinte:
+Art. 6.º - 1 - A legislação geral sobre rotulagem de géneros alimentícios é aplicável aos refrigerantes destinados ao consumidor, embalados em recipientes de origem ou contidos em aparelhos distribuidores, devendo observar-se, ainda, o seguinte:
 
 a) As denominações de venda dos refrigerantes são as estabelecidas no n.º 2 do artigo 2.º, sendo as locuções «frutos» e «vegetais», constantes, respectivamente, das suas alíneas a) e c), substituídas pelo nome das espécies utilizadas, quer se trate de uma só ou várias, devendo neste último caso fazer-se a sua indicação segundo a ordem decrescente da proporção ponderal;
 
@@ -194,9 +251,9 @@ c) O qualificativo «amargo», o qual deve seguir a denominação de venda de qu
 
 3 - A imagem de um ou mais frutos só é permitida na rotulagem dos refrigerantes de sumo provenientes de frutos dessas espécies.
 
-###### Art. 7.º São aplicáveis as disposições dos artigos 30.º do [Decreto-Lei n.º 303/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1983-452567), de 28 de Junho, e 24.º, 40.º, 58.º e 64.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+Art. 7.º São aplicáveis as disposições dos artigos 30.º do [Decreto-Lei n.º 303/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1983-452567), de 28 de Junho, e 24.º, 40.º, 58.º e 64.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
-###### Art. 8.º São revogados:
+Art. 8.º São revogados:
 
 a) O [Decreto n.º 21543](https://diariodarepublica.pt/dr/detalhe/decreto/21543-1932-558401), de 30 de Julho de 1932;
 
@@ -208,26 +265,26 @@ d) O [Decreto-Lei n.º 403/77](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 e) O despacho do Secretário de Estado da Indústria Ligeira de 10 de Janeiro de 1977, publicado no Diário da República, 2.ª série, n.º 13, de 17 de Janeiro de 1977.
 
-###### Art. 9.º O presente diploma entra em vigor no dia 1 de Agosto de 1989.
+Art. 9.º O presente diploma entra em vigor no dia 1 de Agosto de 1989.
 
-###### Art. 10.º - 1 - Durante o período de seis anos a contar da data de publicação do presente diploma, os produtos acondicionados em embalagens pirogravadas ficam dispensados da exigência de indicação no mesmo campo visual das menções referentes à denominação de venda, quantidade líquida e data de durabilidade mínima, quando inscrita.
+Art. 10.º - 1 - Durante o período de seis anos a contar da data de publicação do presente diploma, os produtos acondicionados em embalagens pirogravadas ficam dispensados da exigência de indicação no mesmo campo visual das menções referentes à denominação de venda, quantidade líquida e data de durabilidade mínima, quando inscrita.
 
 2 - Durante o período referido no número anterior é ainda admitida a comercialização de refrigerantes em embalagens com as quantidades líquidas de 0,19 l e 0,8 l.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Luís Gonzaga de Sousa Morais Cardoso - Nuno Manuel Franco Ribeiro da Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1989.**
+Referendado em 16 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere o n.º 3 do artigo 2.º
+Anexo a que se refere o n.º 3 do artigo 2.º
 
 Características
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/07200/13111313.pdf))](https://files.diariodarepublica.pt/1s/1989/03/07200/13111313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/07200/13111313.pdf)

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 92/1990, 1º Suplemento, Série I de 1990-04-20
   number: '92'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1922-(5) a 1922-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09201/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1990-182840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 297951cfdaa7a624adba67bbf2b79615374c5b0536157888a47ac22c08225765
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed3fecc3b56c6e419b3b4832dba62ab55b08f4bcaa11243a4896243fd10c72ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Crédito Agrícola Mútuo
+- Disponibilidade Monetária
+- Instituição de Crédito
+- Instituição Financeira
+- Instituição Financeira de Crédito
+- Operações de Caixa
+- Orgânica
+- Política Financeira
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:179827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665892:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:29Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +138,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 27.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 644/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/644-1975-310378), de 15 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 27.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 644/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/644-1975-310378), de 15 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 27.º - 1 - ...
+Art. 27.º - 1 - ...
 
 2 - ...
 
@@ -114,7 +152,7 @@ c) Determinar, quando for caso disso, a composição e os montantes mínimos das
 
 3 - Sem prejuízo das sanções legalmente previstas, o Banco poderá adoptar as medidas que se mostrem necessárias à prevenção ou cessação de actuações contrárias ao que for determinado nos termos das alíneas b) e c) do número anterior e bem assim à correcção dos efeitos produzidos por tais actuações.
 
-###### Art. 2.º O artigo 1.º do [Decreto-Lei n.º 315/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1985-179827), de 2 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º O artigo 1.º do [Decreto-Lei n.º 315/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1985-179827), de 2 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -132,9 +170,9 @@ c) Determinar, quando for caso disso, a composição e os montantes mínimos das
 
 8 - O disposto nos anteriores n.os 6 e 7 não é aplicável às sociedades mediadoras reguladas pelo [Decreto-Lei n.º 164/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1986-228461), de 26 de Junho, quando actuem por conta de instituições sujeitas à constituição de disponibilidades mínimas de caixa.
 
-###### Art. 3.º - 1 - O artigo 3.º do [Decreto-Lei n.º 321-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1985-283919), de 5 de Agosto, passa a ter a seguinte redacção:
+Art. 3.º - 1 - O artigo 3.º do [Decreto-Lei n.º 321-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1985-283919), de 5 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - Têm acesso directo à emissão:
 
@@ -146,30 +184,30 @@ c) As sociedades mediadoras reguladas pelo [Decreto-Lei n.º 164/86](https://dia
 
 2 - O artigo 3.º do [Decreto-Lei n.º 445-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-a-1988-226820), de 5 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Têm acesso directo às referidas sessões as instituições de crédito, bem como as instituições financeiras sujeitas à constituição de disponibilidades mínimas de caixa e que sejam para o efeito autorizadas pelo Ministro das Finanças.
+Art. 3.º - 1 - Têm acesso directo às referidas sessões as instituições de crédito, bem como as instituições financeiras sujeitas à constituição de disponibilidades mínimas de caixa e que sejam para o efeito autorizadas pelo Ministro das Finanças.
 
 2 - Têm ainda acesso às mesmas sessões as sociedades mediadoras reguladas pelo [Decreto-Lei n.º 164/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1986-228461), de 26 de Junho, quando actuem por conta das instituições mencionadas no número anterior.
 
 3 - Por força do disposto nos n.os 1 e 2, consideram-se revogadas as autorizações concedidas a instituições não sujeitas à constituição de disponibilidades mínimas de caixa.
 
-###### Art. 4.º As caixas de crédito agrícola mútuo poderão ser sujeitas à constituição de disponibilidades mínimas de caixa, ainda que participem no sistema de garantia regulado pelo [Decreto-Lei n.º 182/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1987-665892), de 21 de Abril.
+Art. 4.º As caixas de crédito agrícola mútuo poderão ser sujeitas à constituição de disponibilidades mínimas de caixa, ainda que participem no sistema de garantia regulado pelo [Decreto-Lei n.º 182/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1987-665892), de 21 de Abril.
 
-###### Art. 5.º - 1 - Não podem realizar com o público os tipos de operações consideradas para a sujeição a disponibilidades mínimas de caixa as sociedades corretoras, as sociedades mediadoras do mercado monetário e do mercado de câmbios, as sociedades de capital de risco, as sociedades de fomento empresarial, as sociedades de gestão e investimento imobiliário, as sociedades gestoras de participações sociais e ainda as outras instituições não sujeitas à constituição de disponibilidades mínimas de caixa, quer sejam ou não parabancárias.
+Art. 5.º - 1 - Não podem realizar com o público os tipos de operações consideradas para a sujeição a disponibilidades mínimas de caixa as sociedades corretoras, as sociedades mediadoras do mercado monetário e do mercado de câmbios, as sociedades de capital de risco, as sociedades de fomento empresarial, as sociedades de gestão e investimento imobiliário, as sociedades gestoras de participações sociais e ainda as outras instituições não sujeitas à constituição de disponibilidades mínimas de caixa, quer sejam ou não parabancárias.
 
 2 - O Banco de Portugal estabelecerá por aviso as condições e limites em que as instituições não monetárias sujeitas à constituição de disponibilidades mínimas de caixa poderão realizar operações, nomeadamente passivas, com o público.
 
 3 - Para efeitos do disposto nos números anteriores, entende-se por público todas as entidades, públicas ou privadas, que não sejam instituições de crédito ou parabancárias sujeitas à constituição de disponibilidades mínimas de caixa.
 
-###### Art. 6.º O presente diploma entra em vigor 30 dias após a sua publicação.
+Art. 6.º O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 11 de Abril de 1990.**
+Promulgado em 11 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Abril de 1990.**
+Referendado em 17 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

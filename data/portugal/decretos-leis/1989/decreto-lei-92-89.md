@@ -46,36 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1989-614783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e359b5103baa0f4717f2b1c444a40036d69379f2483d3b3cec6ddb7d79e7ba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 979341f74e1cbdabd82c3ebe3434aa4b79b6edfc19cafa7cde31a627f764e396
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração Regional
+- Banco de Portugal
+- Definição de Competências
+- Departamento para os Assuntos do Fundo Social Europeu
+- Direcção Geral da Contabilidade Pública
+- Direcção Geral das Alfândegas
+- Direcção Geral das Contribuições e Impostos
+- Direcção Geral do Tesouro
+- Financiamento
+- Gabinete do Ministro da República para a Região Autónoma da Madeira
+- Gabinete do Ministro da República para a Região Autónoma dos Açores
+- Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas
+- Governo Regional
+- Ifadap
+- Instituto de Gestão Financeira da Segurança Social
+- Instituto Nacional de Garantia Agrícola
+- Instituto Português de Conservas e Pescado
+- Madeira.região Autónoma
+- Ministério das Finanças
+- Sistema Informativo da Actividade Financeira
+relationships:
+- type: corrected_by
+  target: pt:dre:441490:por
+  label: Rectificado o presente diploma pelo(a) Declaração - Diário da República n.º 99/1989, 1º Suplemento, Série I de 1989-04-29,
+    que procede à anulação do n.º 4 do art. 3.º e publica na íntegra o art. 4.º, omisso aquando da publicação.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-441490
+  date: '1989-04-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:34Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +119,15 @@ Considerando ainda o disposto no artigo 231.º da Constituição, e ouvidos os �
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É instituído, através do presente diploma, um sistema informativo que, em paralelo com a actividade decorrente da execução dos orçamentos próprios das Regiões Autónomas dos Açores e da Madeira, da competência e responsabilidade dos respectivos governos regionais, evidencie, nos termos e limites ora estabelecidos, o volume e natureza dos recursos que para eles são canalizados.
+Artigo 1.º É instituído, através do presente diploma, um sistema informativo que, em paralelo com a actividade decorrente da execução dos orçamentos próprios das Regiões Autónomas dos Açores e da Madeira, da competência e responsabilidade dos respectivos governos regionais, evidencie, nos termos e limites ora estabelecidos, o volume e natureza dos recursos que para eles são canalizados.
 
-###### Art. 2.º - 1 - Concorrem para a concretização e desenvolvimento do sistema informativo, por um lado, as entidades referenciadas no artigo seguinte, prestando a informação aí prevista e, por outro lado, os Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e o Ministério das Finanças, no exercício das funções de recolha, registo, apuramento e coordenação dos dados estatistícos que por aquelas lhes sejam remetidos, sem prejuízo das competências próprias atribuídas ao Instituto Nacional de Estatística no quadro do Sistema Estatístico Nacional.
+Art. 2.º - 1 - Concorrem para a concretização e desenvolvimento do sistema informativo, por um lado, as entidades referenciadas no artigo seguinte, prestando a informação aí prevista e, por outro lado, os Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e o Ministério das Finanças, no exercício das funções de recolha, registo, apuramento e coordenação dos dados estatistícos que por aquelas lhes sejam remetidos, sem prejuízo das competências próprias atribuídas ao Instituto Nacional de Estatística no quadro do Sistema Estatístico Nacional.
 
 2 - É atribuído ao Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas (GAFEEP) o exercício das atribuições que, nos termos do número anterior, estão cometidas ao Ministério das Finanças.
 
 3 - Tendo em vista o aproveitamento estatístico, a informação mencionada no artigo seguinte deve ser enviada para o Instituto Nacional de Estatística sempre que este o solicite.
 
-###### Art. 3.º - 1 - Serão definidas pelos respectivos órgãos de governo próprio da Região Autónoma dos Açores e da Região Autónoma da Madeira as entidades responsáveis pelas seguintes informações:
+Art. 3.º - 1 - Serão definidas pelos respectivos órgãos de governo próprio da Região Autónoma dos Açores e da Região Autónoma da Madeira as entidades responsáveis pelas seguintes informações:
 
 a) Dívida pública da região (posições em fins de período);
 
@@ -148,12 +175,12 @@ ii) Dívida das regiões autónomas.
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - José Albino da Silva Peneda.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1989.**
+Referendado em 16 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

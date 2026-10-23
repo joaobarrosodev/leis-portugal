@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1989-548382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac980338c39739d45a7f8deb8a10e65a4ca8a2b49591415ebd3629a237254279
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bc920fd9eff2312948e30041f058da7298e4fe0e6a50fa607118b9a3f9e6865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa Pública
+- Estatuto
+- Privatização
+- Socarmar
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:166584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:48Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +107,15 @@ Tendo sido ouvida a comissão de trabalhadores da SOCARMAR, E. P.:
 
 No termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A SOCARMAR, E. P., criada pelo [Decreto Regulamentar n.º 57/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1977-255984), de 25 de Agosto, é transformada pelo presente diploma em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se SOCARMAR - Sociedade de Cargas e Descargas Marítimas, S. A., adiante abreviadamente designada SOCARMAR, S. A.
+Artigo 1.º - 1 - A SOCARMAR, E. P., criada pelo [Decreto Regulamentar n.º 57/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1977-255984), de 25 de Agosto, é transformada pelo presente diploma em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se SOCARMAR - Sociedade de Cargas e Descargas Marítimas, S. A., adiante abreviadamente designada SOCARMAR, S. A.
 
 2 - A SOCARMAR, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas de direito privado aplicáveis às sociedades anónimas.
 
-###### Art. 2.º - 1 - A SOCARMAR, S. A., sucede automática e globalmente à SOCARMAR, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações integrantes do seu património no momento da transformação.
+Art. 2.º - 1 - A SOCARMAR, S. A., sucede automática e globalmente à SOCARMAR, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações integrantes do seu património no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do estabelecido no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da SOCARMAR, S. A.
 
-###### Art. 3.º - 1 - A SOCARMAR, S. A., tem inicialmente um capital social de 1919000000$00, que se encontra integralmente subscrito e realizado pelo Estado à data da entrada em vigor do presente diploma.
+Art. 3.º - 1 - A SOCARMAR, S. A., tem inicialmente um capital social de 1919000000$00, que se encontra integralmente subscrito e realizado pelo Estado à data da entrada em vigor do presente diploma.
 
 2 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
 
@@ -110,7 +127,7 @@ b) As acções do tipo B são nominativas ou ao portador em regime de registo, p
 
 4 - Os direitos do Estado como accionista da sociedade são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 4.º - 1 - O Estado e outras entidades pertencentes ao sector público podem alienar as acções do tipo B de que sejam titulares, devendo ser observadas as seguintes regras:
+Art. 4.º - 1 - O Estado e outras entidades pertencentes ao sector público podem alienar as acções do tipo B de que sejam titulares, devendo ser observadas as seguintes regras:
 
 a) Pelo menos 20% das acções a alienar serão reservadas a pequenos subscritores, a trabalhadores da SOCARMAR, S. A., e àqueles que o tenham sido da SOCARMAR, E. P., durante mais de três anos;
 
@@ -130,21 +147,21 @@ e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b
 
 5 - Caso não seja subscrita a totalidade das acções reservadas nos termos das alíneas a) e b) do n.º 1, poderão as acções remanescentes ser alienadas nos termos gerais.
 
-###### Art. 5.º - 1 - Para efeitos do disposto no artigo anterior, compete ao conselho de administração da SOCARMAR, S. A., propor aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações o valor da empresa, calculado com base em avaliação especialmente efectuada por duas entidades independentes, tecnicamente habilitadas, a escolher de entre as pré-qualificadas para o efeito nos termos legais.
+Art. 5.º - 1 - Para efeitos do disposto no artigo anterior, compete ao conselho de administração da SOCARMAR, S. A., propor aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações o valor da empresa, calculado com base em avaliação especialmente efectuada por duas entidades independentes, tecnicamente habilitadas, a escolher de entre as pré-qualificadas para o efeito nos termos legais.
 
 2 - O valor da empresa, bem como o preço, o montante, formas e condições de alienação de parte do capital social detido pelo sector público, será fixado por resolução do Conselho de Ministros, sob proposta conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 6.º A participação no capital social da SOCARMAR, S. A., fica sujeita ao disposto no n.º 5 do artigo 5.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
+Art. 6.º A participação no capital social da SOCARMAR, S. A., fica sujeita ao disposto no n.º 5 do artigo 5.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
-###### Art. 7.º - 1 - A maioria absoluta dos votos emergentes das acções emitidas deve sempre pertencer aos titulares das acções do tipo A.
+Art. 7.º - 1 - A maioria absoluta dos votos emergentes das acções emitidas deve sempre pertencer aos titulares das acções do tipo A.
 
 2 - A eleição dos titulares dos órgãos sociais cabe sempre à maioria dos votos expressos em assembleia geral, consignando os estatutos a possibilidade de a designação de alguns desses titulares recair sobre os possuidores de acções do tipo B, sem prejuízo do disposto na alínea c) do n.º 1 do artigo 2.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 3 - Para efeitos da eleição dos titulares dos órgãos sociais, as assembleias gerais só podem deliberar estando presentes ou representados accionistas que sejam titulares de acções correspondentes a, pelo menos, 51% do capital social.
 
-###### Art. 8.º A SOCARMAR, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 8.º A SOCARMAR, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 9.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 9.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -152,17 +169,17 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 10.º - 1 - Os trabalhadores ao serviço e os pensionistas da SOCARMAR, E. P., mantêm perante a SOCARMAR, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+Art. 10.º - 1 - Os trabalhadores ao serviço e os pensionistas da SOCARMAR, E. P., mantêm perante a SOCARMAR, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 2 - Os funcionários do Estado, das autarquias locais, de institutos públicos, de empresas públicas ou de sociedades anónimas de capitais públicos podem ser autorizados a exercer funções na SOCARMAR, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao respectivo quadro de origem.
 
 3 - A situação dos trabalhadores da SOCARMAR, S. A., que sejam chamados a ocupar os órgãos sociais da empresa, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
 
-###### Art. 11.º - 1 - São aprovados os estatutos da SOCARMAR, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que sejam publicados.
+Art. 11.º - 1 - São aprovados os estatutos da SOCARMAR, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que sejam publicados.
 
 2 - As eventuais alterações aos presentes estatutos produzirão todos os seus efeitos desde que deliberadas nos termos estatutários e com observância do disposto na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, na lei comercial e no presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo e publicação.
 
-###### Art. 12.º - 1 - Fica desde já convocada a assembleia geral da SOCARMAR, S. A., a qual reunirá no 30.º dia posterior à data da entrada em vigor do presente diploma ou no primeiro dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 12.º - 1 - Fica desde já convocada a assembleia geral da SOCARMAR, S. A., a qual reunirá no 30.º dia posterior à data da entrada em vigor do presente diploma ou no primeiro dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de gestão e da comissão de fiscalização da SOCARMAR, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da SOCARMAR, S. A., com as competências fixadas nos estatutos para o conselho de administração e conselho fiscal, respectivamente.
 
@@ -170,33 +187,33 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1989. - Aníbal António Cavaco Silva - Fernando Manuel Barbosa Faria de Oliveira - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 20 de Setembro de 1989.**
+Promulgado em 20 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Setembro de 1989.**
+Referendado em 22 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos da SOCARMAR - Sociedade de Cargas e Descargas Marítimas, S. A.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A Sociedade adopta a forma de sociedade anónima e a denominação de SOCARMAR - Sociedade de Cargas e Descargas Marítimas, S. A.
+Artigo 1.º A Sociedade adopta a forma de sociedade anónima e a denominação de SOCARMAR - Sociedade de Cargas e Descargas Marítimas, S. A.
 
-###### Art. 2.º - 1 - A duração da Sociedade é por tempo indeterminado e a sua sede é na cidade Lisboa, na Rua Projectada, à Avenida de Afonso III, lote 3, 8.º, direito.
+Art. 2.º - 1 - A duração da Sociedade é por tempo indeterminado e a sua sede é na cidade Lisboa, na Rua Projectada, à Avenida de Afonso III, lote 3, 8.º, direito.
 
 2 - Por deliberação do conselho de administração, pode a Sociedade criar e manter em qualquer ponto do território nacional, ou fora dele, agências, delegações ou qualquer outra forma de representação.
 
-###### Art. 3.º - 1 - A Sociedade tem por objecto principal a exploração de cargas e descargas de navios, o transporte fluvial de mercadorias e a exploração de reboques marítimos ou fluviais.
+Art. 3.º - 1 - A Sociedade tem por objecto principal a exploração de cargas e descargas de navios, o transporte fluvial de mercadorias e a exploração de reboques marítimos ou fluviais.
 
 2 - A Sociedade pode prosseguir quaisquer outras actividades complementares ou subsidiárias que se relacionem com a prossecução do seu fim principal desde que para o efeito a assembleia geral haja dado o seu assentimento.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 1919000000$00, está totalmente subscrito e realizado e é representado por 1919000 acções, com o valor nominal de 1000$00 cada uma, sendo 978690 acções do tipo A e 940310 acções do tipo B.
+Art. 4.º - 1 - O capital social é de 1919000000$00, está totalmente subscrito e realizado e é representado por 1919000 acções, com o valor nominal de 1000$00 cada uma, sendo 978690 acções do tipo A e 940310 acções do tipo B.
 
 2 - As acções que nos termos do número anterior representam o capital social revestem as seguintes características:
 
@@ -212,15 +229,15 @@ b) As acções do tipo B serão nominativas ou ao portador em regime de registo,
 
 6 - No caso de transmissão para entidades privadas, nos termos da lei, de acções detidas pelo Estado, os titulares de acções do tipo B terão, na subscrição de novos títulos, a respeito da tal transmissão, relativamente a quem não for accionista, direito de preferência, na proporção do número de acções de cada um, sem prejuízo das disposições legais que reservem para certas categorias de adquirentes uma percentagem das acções a alienar.
 
-###### Art. 5.º A Sociedade pode emitir, interna ou externamente, obrigações e outros títulos de dívida, nos termos da legislação aplicável.
+Art. 5.º A Sociedade pode emitir, interna ou externamente, obrigações e outros títulos de dívida, nos termos da legislação aplicável.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 6.º - 1 - São órgãos da Sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 6.º - 1 - São órgãos da Sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os accionistas detentores de acções do tipo B poderão ter um representante na mesa da assembleia geral e no conselho fiscal e um ou dois representantes no conselho de administração, a eleger pela assembleia geral consoante esta seja composta por três ou cinco membros.
 
-###### Art. 7.º - 1 - O mandato dos membros dos órgãos sociais tem a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.
+Art. 7.º - 1 - O mandato dos membros dos órgãos sociais tem a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.
 
 2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los.
 
@@ -228,7 +245,7 @@ b) As acções do tipo B serão nominativas ou ao portador em regime de registo,
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
+Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
 
 2 - A cada 100 acções corresponde um voto na assembleia geral.
 
@@ -244,7 +261,7 @@ b) As acções do tipo B serão nominativas ou ao portador em regime de registo,
 
 8 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 9.º - 1 - Compete à assembleia geral:
+Art. 9.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço, as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -264,7 +281,7 @@ h) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral sempre que a lei não exija maior número.
 
-###### Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda composta por um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei comercial.
+Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda composta por um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com uma antecedência mínima de 30 dias, com indicação expressa dos assuntos a tratar.
 
@@ -274,9 +291,9 @@ h) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 11.º O conselho de administração é composto por um presidente e por dois ou quatro vogais.
+Art. 11.º O conselho de administração é composto por um presidente e por dois ou quatro vogais.
 
-###### Art. 12.º - 1 - Ao conselho de administração compete:
+Art. 12.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -292,7 +309,7 @@ f) Exercer as demais competências que lhe sejam conferidas pela lei ou pela ass
 
 2 - O conselho de administração, quando composto por cinco membros, poderá delegar numa comissão executiva constituída por três administradores, sendo dois deles obrigatoriamente representantes da parte pública, algum ou alguns dos poderes que lhe são conferidos pelo número anterior, definidos em acta os limites e condições de tal delegação.
 
-###### Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho de administração em juízo e fora dele;
 
@@ -302,13 +319,13 @@ c) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 14.º - 1 - O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+Art. 14.º - 1 - O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração não poderá deliberar sem a presença da maioria dos seus membros, salvo por motivo de urgência, como tal reconhecida pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
 
 3 - As deliberações do conselho de administração constarão sempre da acta, que consignará os votos de vencido, e serão tomadas por maioria dos votos expressos, tendo o presidente, ou quem o substitua, voto de qualidade.
 
-###### Art. 15.º - 1 - A Sociedade obriga-se:
+Art. 15.º - 1 - A Sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração, que deverão integrar a comissão executiva, quando esta exista;
 
@@ -322,13 +339,13 @@ c) Pela assinatura de mandatário constituído, no âmbito do correspondente man
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 16.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
+Art. 16.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
 3 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 17.º Para além das atribuições constantes da lei geral, compete especialmente ao conselho fiscal:
+Art. 17.º Para além das atribuições constantes da lei geral, compete especialmente ao conselho fiscal:
 
 a) Assistir às reuniões do conselho de administração sempre que o entenda conveniente;
 
@@ -336,11 +353,11 @@ b) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas
 
 c) Chamar à atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão.
 
-###### Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos seus membros em exercício.
+Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos seus membros em exercício.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 19.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na cobertura de prejuízos de anos anteriores e na cobertura da reserva legal prevista no artigo 295.º do Código das Sociedades Comerciais, devendo o remanescente ser aplicado pela assembleia geral, com observância dos seguintes critérios:
+Art. 19.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na cobertura de prejuízos de anos anteriores e na cobertura da reserva legal prevista no artigo 295.º do Código das Sociedades Comerciais, devendo o remanescente ser aplicado pela assembleia geral, com observância dos seguintes critérios:
 
 a) Pelo menos 20% dos resultados serão aplicados na distribuição de dividendos aos accionistas;
 
@@ -350,14 +367,14 @@ c) A parte restante, para os fins que a assembleia geral considere de interesse 
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 20.º - 1 - Os titulares de acções que não pertençam ao sector público têm o direito de subscrever listas para a eleição de até dois administradores e de as propor à assembleia geral reunida para o efeito.
+Art. 20.º - 1 - Os titulares de acções que não pertençam ao sector público têm o direito de subscrever listas para a eleição de até dois administradores e de as propor à assembleia geral reunida para o efeito.
 
 2 - Durante o 1.º triénio de actividade da Sociedade, se as listas propostas pelos titulares das acções que não pertençam ao sector público não obtiverem o número mínimo de votos exigido no Código das Sociedades Comerciais para eleição de administradores, mas se a sua votação ultrapassar os 5% do capital da Sociedade, a assembleia geral poderá, em votação posteriormente tomada, considerar eleitos os administradores propostos nas listas mais votadas.
 
 3 - O exercício dos direitos consagrados no número anterior só se verificará se na composição das listas a submeter à assembleia geral pelo Estado e por outras entidades públicas que detenham acções do tipo A não estiverem integrados um ou dois representantes do sector privado.
 
-###### Art. 21.º - 1 - A Sociedade dissolve-se nos casos e termos legais.
+Art. 21.º - 1 - A Sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da Sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

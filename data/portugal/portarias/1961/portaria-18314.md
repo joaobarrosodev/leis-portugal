@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18314-1961-561213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b4574e272294898237abaca764943f43085951ebe19308881642bb0d3537edb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 931150e58fb0fecdb3f1e0b8d3641bddd8e2ae05f4834e145c0bb4ec2c918b29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:189366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554983:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:16Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +105,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 1.º No quadro do artigo 24.º as especializações seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/03/05800/02570258.pdf))](https://files.diariodarepublica.pt/1s/1961/03/05800/02570258.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/05800/02570258.pdf)
 
 2.º No quadro do artigo 120.º as condições de promoção seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/03/05800/02570258.pdf))](https://files.diariodarepublica.pt/1s/1961/03/05800/02570258.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/05800/02570258.pdf)
 
 3.º As condições especiais de promoção a exigir para a classe dos mergulhadores são as estabelecidas na [Portaria n.º 17170](https://diariodarepublica.pt/dr/detalhe/portaria/17170-1959-423447), de 14 de Maio de 1959, para os mergulhadores da extinta classe dos serviços gerais.
 

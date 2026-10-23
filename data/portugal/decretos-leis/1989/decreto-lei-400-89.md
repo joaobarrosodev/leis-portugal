@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1989-550007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d3c7676e0f93e9894cee65895d0d98ad1e2ce2a505009b4c94ba1dfc78ddaa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45c2cbbdd5c695fa21acf43c2c89c45906cf63e0e5417cb20ef036f8622db4d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Definição de Competências
+- Feoga
+- Instituto da Vinha e do Vinho
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Pagamento
+- Produto Vitivinícola
+- Regulamento CE
+- Vinha
+- Vinho
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:13Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +104,7 @@ Considerando que, ao optar-se pela integração vertical do sector vitivinícola
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Ao Instituto da Vinha e do Vinho (IVV), criado pelo Decreto-Lei n.º 304/86, de 22 de Setembro, com orgânica definida no Decreto Regulamentar n.º 62/87, de 7 de Dezembro, são cometidas as atribuições de organismo de intervenção no sector vitivinícola, competindo-lhe neste âmbito, nomeadamente:
+Artigo 1.º - 1 - Ao Instituto da Vinha e do Vinho (IVV), criado pelo Decreto-Lei n.º 304/86, de 22 de Setembro, com orgânica definida no Decreto Regulamentar n.º 62/87, de 7 de Dezembro, são cometidas as atribuições de organismo de intervenção no sector vitivinícola, competindo-lhe neste âmbito, nomeadamente:
 
 a) Actuar como organismo pagador, junto dos agentes económicos ligados ao sector do vinho e derivados, das ajudas nacionais e comunitárias provenientes da Secção Garantia do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA));
 
@@ -102,18 +112,18 @@ b) Fiscalizar e controlar a aplicação das ajudas referidas na alínea anterior
 
 2 - O disposto no número anterior não prejudica que o Instituto Nacional de Intervenção e Garantia Agrícola continue a ser o único interlocutor com a Secção Garantia do FEOGA.
 
-###### Art. 2.º Para o desempenho das suas atribuições compete aos órgãos do IVV assegurar a aplicação de todos os instrumentos de organização, orientação e regularização do mercado vitivinícola.
+Art. 2.º Para o desempenho das suas atribuições compete aos órgãos do IVV assegurar a aplicação de todos os instrumentos de organização, orientação e regularização do mercado vitivinícola.
 
-###### Art. 3.º As operações de intervenção são, nomeadamente, as previstas no Decreto-Lei n.º 517/85, de 31 de Dezembro, e no Regulamento (CEE) n.º [822/87](http://data.europa.eu/eli/reg/1987/822/oj?locale=pt) do Conselho, de 16 de Março.
+Art. 3.º As operações de intervenção são, nomeadamente, as previstas no Decreto-Lei n.º 517/85, de 31 de Dezembro, e no Regulamento (CEE) n.º [822/87](http://data.europa.eu/eli/reg/1987/822/oj?locale=pt) do Conselho, de 16 de Março.
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Gonzaga de Sousa Morais Cardoso.
 
-**Promulgado em 26 de Outubro de 1989.**
+Promulgado em 26 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1989.**
+Referendado em 28 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

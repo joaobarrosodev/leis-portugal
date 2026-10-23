@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18256-1961-556185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b86bd7c99c7de15cdd634320595fdee2822f45876de123dc322dd0a4e3c9e490
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c63068298c15e4f9b88cb46a741e6a14d492624959fa8bcb0fd769cac6c8587e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:350935:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:05Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +89,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que ao Regulamento do Curso de Auxiliar de Enfermagem Professado na Escola Técnica de Enfermeiras do Instituto Português de Oncologia, aprovado pela [Portaria n.º 16858](https://diariodarepublica.pt/dr/detalhe/portaria/16858-1958-350935), de 5 de Setembro de 1958, seja aditado o seguinte:
 
-###### Art. 12.º Às alunas com bom aproveitamento e insuficiência económica poderá conceder-se, a título de bolsa de estudo, alimentação ou subsídio de quantitativo a fixar em despacho ministerial.
+Art. 12.º Às alunas com bom aproveitamento e insuficiência económica poderá conceder-se, a título de bolsa de estudo, alimentação ou subsídio de quantitativo a fixar em despacho ministerial.
 
 § 1.º A alimentação será fornecida através do Instituto Português de Oncologia.
 

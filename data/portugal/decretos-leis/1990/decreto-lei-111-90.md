@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/07800/15831583.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0ffb249cbc76532db73a12a7e138b64c5c1105a676e9b4fce924bdf4f1a18e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e3d9b744b2f38748a35b88083d892a629cff4d8d90bdbdac464b7cf567f6f94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Participações do Estado
+- Capital Social
+- Estatuto
+- Portline-transportes Marítimos Internacionais
+- Sociedade Anónima
+- Transinsular-transportes Marítimos Insulares
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:400198:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:59Z'
   warnings: []
   errors: []
 ---
@@ -104,18 +119,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É revogado o artigo 2.º do [Decreto-Lei n.º 336/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1984-400198), de 18 de Outubro.
+Artigo 1.º É revogado o artigo 2.º do [Decreto-Lei n.º 336/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1984-400198), de 18 de Outubro.
 
-###### Art. 2.º São revogados o n.º 2 do artigo 5.º e o artigo 8.º dos estatutos da PORTLINE, S. A., e o n.º 2 do artigo 5.º e o artigo 8.º dos estatutos da TRANSINSULAR, S. A., aprovados pelo [Decreto-Lei n.º 336/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1984-400198), de 18 de Outubro.
+Art. 2.º São revogados o n.º 2 do artigo 5.º e o artigo 8.º dos estatutos da PORTLINE, S. A., e o n.º 2 do artigo 5.º e o artigo 8.º dos estatutos da TRANSINSULAR, S. A., aprovados pelo [Decreto-Lei n.º 336/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1984-400198), de 18 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 22 de Março de 1990.**
+Promulgado em 22 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Março de 1990.**
+Referendado em 24 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

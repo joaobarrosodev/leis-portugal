@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/27600/52095209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1989-550819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d2b31d0dc57af0f8630ae2b844e668d66abfaafeed8ec6d49d8e7efadbf8c54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6378d163fb5389a466ad03c17aa89481d306763d8ee62918a37456e65fdf2a4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Garantia Automóvel
+- Responsabilidade Civil
+- Seguro
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:668324:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:194397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546457:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:261949:por
+  label: Rectificado pela DECL.DD3736.1989.12.29.PCM DR.IS [299] SUPL DE 30/DEZ/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-261949
+  date: '1989-12-29'
+- type: repealed_by
+  target: pt:dre:291845:por
+  label: "Revogado pelo DEC LEI.122/92.02.07.1992.MAI, DR.IS-A [150] de 02.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1992-291845
+  date: '1992-07-02'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:29Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +119,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 27.º do [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro, com a redacção introduzida pelo [Decreto-Lei n.º 122-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-a-1986-194397), de 30 de Maio, passa a ter a seguinte redacção:
+Artigo único. O artigo 27.º do [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro, com a redacção introduzida pelo [Decreto-Lei n.º 122-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-a-1986-194397), de 30 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 27.º — [...]
 
@@ -139,12 +161,12 @@ d) A entrega a uma entidade, para o efeito designada por despacho do Ministro da
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 17 de Novembro de 1989.**
+Promulgado em 17 de Novembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Novembro de 1989.**
+Referendado em 22 de Novembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

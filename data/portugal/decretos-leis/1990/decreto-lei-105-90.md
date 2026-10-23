@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06900/14491455.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1990-333351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1429b4426b1ea778939182dc8d2695dd6924acbf8c9aa90cdc832597754550da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdf736489337ff35f5477d098ff1402f30c0aae7fedfbe832eec39f20c438716
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional Antidopagem
+- Controlo Anti-doping
+- Criação de Serviços
+- Definição de Competências
+- Desporto
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:545641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extinto, sendo objecto de fusão com o Conselho Nacional contra a Violência no Desporto e o Conselho Superior do\
+    \ Desporto, o Conselho Nacional Antidopagem, criado no presente diploma, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208]\
+    \ de 27.10.2006, nos termos dos seus artigos 32.º e 33.º, e integradas as suas competências no Conselho Nacional do Desporto,\
+    \ junto do Instituto do Desporto de Portugal \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471724:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:144642:por
+  label: "Revogado pelo DEC LEI.183/97.1997.07.26.PCM DR.IS-A [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1997-144642
+  date: '1997-07-26'
 article_structure:
   article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:54Z'
   warnings: []
   errors: []
 ---
@@ -426,12 +457,12 @@ As normas de execução regulamentar do presente diploma serão estabelecidas po
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 1990. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 9 de Março de 1990.**
+Promulgado em 9 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1990.**
+Referendado em 11 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

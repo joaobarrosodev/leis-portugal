@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1989-550817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b247f01ee879e6426b11f2d625b7493351127a8ff6ddf32a6c3cc0ec17de058b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e91ffbcc9a1c2be45ca0973daed125859ebaa6972e43829275ca0ef31b41fcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Instaladora
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Estatística
+- Instalação de Serviços
+- Instituto Nacional de Estatística
+- Instituto Superior de Estatística e Gestão de Informação
+- Orgânica
+- Regime de Instalação
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:401035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615214:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:33Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +123,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criado na Universidade Nova de Lisboa o Instituto Superior de Estatística e Gestão de Informação, adiante designado abreviadamente por Instituto.
+Artigo 1.º - 1 - É criado na Universidade Nova de Lisboa o Instituto Superior de Estatística e Gestão de Informação, adiante designado abreviadamente por Instituto.
 
 2 - O Instituto é uma pessoa colectiva pública dotada de autonomia científica, administrativa e financeira.
 
-###### Art. 2.º - 1 - O Instituto tem como atribuições:
+Art. 2.º - 1 - O Instituto tem como atribuições:
 
 a) Organizar e orientar actividades de ensino e de investigação no domínio da concepção, tratamento, análise e difusão da informação estatística;
 
@@ -112,9 +135,9 @@ b) Promover acções de cooperação nos domínios referidos, nomeadamente com o
 
 2 - No âmbito das suas atribuições o Instituto pode ser membro de associações sem fins lucrativos, nacionais ou estrangeiras.
 
-###### Art. 3.º O Instituto pode propor ao reitor da Universidade a celebração de protocolos de cooperação com entidades nacionais ou estrangeiras, com vista à implementação das suas atribuições, designadamente no que se refere ao ensino e à realização de projectos e trabalhos técnicos ou científicos.
+Art. 3.º O Instituto pode propor ao reitor da Universidade a celebração de protocolos de cooperação com entidades nacionais ou estrangeiras, com vista à implementação das suas atribuições, designadamente no que se refere ao ensino e à realização de projectos e trabalhos técnicos ou científicos.
 
-###### Art. 4.º - 1 - Para efeitos do disposto nos artigos 2.º e 3.º, compete aos órgãos e serviços do Instituto:
+Art. 4.º - 1 - Para efeitos do disposto nos artigos 2.º e 3.º, compete aos órgãos e serviços do Instituto:
 
 a) A organização e realização de cursos conducentes à obtenção dos graus de licenciatura e mestrado, bem como cursos de pós-graduação no âmbito da estatística e da gestão da informação, e ainda de cursos de divulgação ou de curta duração;
 
@@ -126,7 +149,7 @@ d) A colaboração com instituições nacionais e estrangeiras e organismos e se
 
 2 - Para a realização dos cursos referidos no número anterior, o Instituto conta com o apoio e a colaboração do Instituto Nacional de Estatística.
 
-###### Art. 5.º - 1 - O Instituto fica sujeito ao regime de instalação e é gerido por uma comissão instaladora.
+Art. 5.º - 1 - O Instituto fica sujeito ao regime de instalação e é gerido por uma comissão instaladora.
 
 2 - A comissão instaladora é constituída por três ou cinco membros, um presidente e dois ou quatro vogais, a nomear por despacho do Ministro da Educação, ouvidos o membro do Governo que tutela o Instituto Nacional de Estatística e o reitor da Universidade Nova de Lisboa.
 
@@ -134,7 +157,7 @@ d) A colaboração com instituições nacionais e estrangeiras e organismos e se
 
 4 - O regime de instalação obedece às normas do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, e demais legislação complementar, sem prejuízo do disposto no presente diploma e da fiscalização do Tribunal de Contas nos casos de recrutamento de pessoal com vínculo à função pública.
 
-###### Art. 6.º Compete à comissão instaladora:
+Art. 6.º Compete à comissão instaladora:
 
 a) Administrar e gerir o Instituto durante o período de instalação;
 
@@ -146,7 +169,7 @@ d) Promover a aquisição de bens e serviços indispensáveis ao funcionamento d
 
 e) Exercer as atribuições cometidas por lei aos responsáveis dos serviços com autonomia administrativa e financeira.
 
-###### Art. 7.º Compete ao presidente da comissão instaladora:
+Art. 7.º Compete ao presidente da comissão instaladora:
 
 a) Representar o Instituto em juízo e fora dele;
 
@@ -156,9 +179,9 @@ c) Submeter às instâncias competentes todas as questões que careçam de resol
 
 d) Tomar, nos termos legais, as iniciativas conducentes ao desenvolvimento do Instituto e ao bom cumprimento das funções a ele cometidas.
 
-###### Art. 8.º Haverá no Instituto um secretário provido nos termos do [Decreto-Lei n.º 375/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1984-401035), de 29 de Novembro, mediante proposta do presidente da comissão instaladora.
+Art. 8.º Haverá no Instituto um secretário provido nos termos do [Decreto-Lei n.º 375/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1984-401035), de 29 de Novembro, mediante proposta do presidente da comissão instaladora.
 
-###### Art. 9.º - 1 - A gestão administrativa e financeira do Instituto será assegurada durante o período de instalação por um conselho administrativo.
+Art. 9.º - 1 - A gestão administrativa e financeira do Instituto será assegurada durante o período de instalação por um conselho administrativo.
 
 2 - Compõem o conselho administrativo:
 
@@ -168,7 +191,7 @@ b) Um dos vogais da comissão instaladora;
 
 c) O secretário.
 
-###### Art. 10.º - 1 - Constituem receitas do Instituto:
+Art. 10.º - 1 - Constituem receitas do Instituto:
 
 a) As provenientes do pagamento de propinas;
 
@@ -186,7 +209,7 @@ e) Os juros de contas de depósitos.
 
 4 - Ao Instituto é vedado contrair empréstimos.
 
-###### Art. 11.º Integrarão o corpo docente do Instituto:
+Art. 11.º Integrarão o corpo docente do Instituto:
 
 a) Docentes da Universidade Nova de Lisboa oriundos dos quadros das diferentes faculdades;
 
@@ -194,11 +217,11 @@ b) Docentes, técnicos e investigadores pertencentes a outras instituições pú
 
 c) Professores, gestores e consultores, nacionais ou estrangeiros, com sólida experiência profissional e capacidade técnica e pedagógica, contratados pelo Instituto ou por entidades públicas ou privadas para desempenhar funções de docência no Instituto e por este explicitamente aceites.
 
-###### Art. 12.º Os docentes poderão prestar serviço no Instituto em regime de exclusividade, tempo integral ou tempo parcial.
+Art. 12.º Os docentes poderão prestar serviço no Instituto em regime de exclusividade, tempo integral ou tempo parcial.
 
-###### Art. 13.º O pessoal docente e não docente necessário ao funcionamento do Instituto será recrutado ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos em geral e da Universidade Nova de Lisboa em particular.
+Art. 13.º O pessoal docente e não docente necessário ao funcionamento do Instituto será recrutado ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos em geral e da Universidade Nova de Lisboa em particular.
 
-###### Art. 14.º O pessoal docente e não docente que irá prestar serviço no Instituto será afectado com recurso a um dos mecanismos seguintes:
+Art. 14.º O pessoal docente e não docente que irá prestar serviço no Instituto será afectado com recurso a um dos mecanismos seguintes:
 
 a) Celebração de protocolos com outros estabelecimentos da Universidade Nova de Lisboa ou com outras instituições públicas;
 
@@ -206,12 +229,12 @@ b) Contratação ao abrigo da lei geral do trabalho, não conferindo, neste caso
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Vítor Ângelo Mendes da Costa Martins - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 17 de Novembro de 1989.**
+Promulgado em 17 de Novembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Novembro de 1989.**
+Referendado em 22 de Novembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

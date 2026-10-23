@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/03100/04970502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1989-611689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abeebafbda5a5cb28179fe2d5477548c6343700f43929e8f53ba7e30cd9a87c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cccdfcf222667f4cd81bbfcf063bf4111d968b184c13936b7788739ee6c67863
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Cacau
+- Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:268595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:195614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348487:por
+  label: Rectificado pela DECL.DD1256.1989.03.01.PCM, DR.IS [75]Supl de 31/Mar/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348487
+  date: '1989-03-01'
+- type: repealed_by
+  target: pt:dre:268595:por
+  label: Revogado pelo(a) Decreto-Lei n.º 227/93 - Diário da República n.º 144/1993, Série I-A de 1993-06-22, à data da entrada
+    em vigor da portaria a que se refere o art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1993-268595
+  date: '1993-06-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:09Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +134,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma define e caracteriza os produtos de cacau e de chocolate destinados à alimentação humana, com excepção dos abrangidos por legislação relativa a alimentação especial, e estabelece as regras de acondicionamento e rotulagem a que os mesmos devem obedecer.
+Artigo 1.º - 1 - O presente diploma define e caracteriza os produtos de cacau e de chocolate destinados à alimentação humana, com excepção dos abrangidos por legislação relativa a alimentação especial, e estabelece as regras de acondicionamento e rotulagem a que os mesmos devem obedecer.
 
 2 - Para os efeitos do número anterior entende-se por produtos de cacau e de chocolate apenas os definidos no anexo ao presente diploma, que dele faz parte integrante, cujas denominações de venda lhes são reservadas.
 
 3 - Sem prejuízo do disposto no n.º 1, é permitido o fabrico do produto tradicional destinado a preparações culinárias, contendo na sua composição farinhas, amidos ou féculas, num teor máximo de 8% de massa total do produto e, no mínimo, 30% de matéria seca total de cacau, 12% de cacau seco e desengordurado e 18% de manteiga de cacau, sendo estas percentagens calculadas depois de deduzida a massa das farinhas, amidos ou féculas.
 
-###### Art. 2.º - 1 - No fabrico dos produtos abrangidos pelo presente diploma não se podem utilizar sementes de cacau que não sejam sãs e de qualidade garantida e comercializável, bem como cascas, gérmenes ou qualquer produto residual de extracção da manteiga de cacau efectuada por solventes.
+Art. 2.º - 1 - No fabrico dos produtos abrangidos pelo presente diploma não se podem utilizar sementes de cacau que não sejam sãs e de qualidade garantida e comercializável, bem como cascas, gérmenes ou qualquer produto residual de extracção da manteiga de cacau efectuada por solventes.
 
 2 - Os produtos a que se refere o número anterior podem conter, em substituição da sacarose, os seguintes açúcares:
 
@@ -117,7 +148,7 @@ a) Glucose cristalizada (dextrose), frutose, lactose e maltose, estremes ou em m
 
 b) Glucose cristalizada (dextrose), numa proporção superior a 5% e inferior ou igual a 20% da massa total do produto, obedecendo a denominação de venda, neste caso, ao disposto na alínea c) do n.º 1 do artigo 8.º
 
-###### Art. 3.º - 1 - Ao chocolate, chocolate para culinária, chocolate de cobertura, chocolate de leite, chocolate de leite para culinária, chocolate de leite de cobertura e chocolate branco é permitido adicionar géneros alimentícios, com excepção de farinhas, amidos, féculas e gorduras que não sejam a manteiga de cacau ou gorduras e seus derivados de origem láctea.
+Art. 3.º - 1 - Ao chocolate, chocolate para culinária, chocolate de cobertura, chocolate de leite, chocolate de leite para culinária, chocolate de leite de cobertura e chocolate branco é permitido adicionar géneros alimentícios, com excepção de farinhas, amidos, féculas e gorduras que não sejam a manteiga de cacau ou gorduras e seus derivados de origem láctea.
 
 2 - A quantidade total de géneros alimentícios adicionados nos termos do número anterior, em relação à massa do produto final, não pode ser:
 
@@ -137,7 +168,7 @@ b) O limite mínimo de 25% de produtos de chocolate, fixado para o chocolate rec
 
 5 - À pasta de cacau, aos diferentes tipos de cacau em pó, ao chocolate, ao chocolate de leite, ao chocolate branco e ao bombom de chocolate podem adicionar-se aromatas, desde que estes não imitem o aroma e o sabor do chocolate ou da gordura do leite.
 
-###### Art. 4.º - 1 - No fabrico dos produtos abrangidos pelo presente diploma apenas é permitido adicionar os aromatizantes, emulsionantes e reguladores de acidez previstos nos números seguintes.
+Art. 4.º - 1 - No fabrico dos produtos abrangidos pelo presente diploma apenas é permitido adicionar os aromatizantes, emulsionantes e reguladores de acidez previstos nos números seguintes.
 
 2 - À pasta de cacau, aos diferentes tipos de cacau em pó e de chocolates e ao produto a que se refere o n.º 3 do artigo 1.º podem ser adicionados aromatizantes naturais ou seus equivalentes de síntese que não imitem o aroma e o sabor do chocolate ou da gordura do leite e ainda o aromatizante artificial etilvanilina.
 
@@ -169,7 +200,7 @@ e) Carbonato de magnésio.
 
 6 - Aos produtos previamente alcalinizados podem adicionar-se como acidulantes o ácido cítrico e o ácido L - tartárico, estremes ou em mistura, numa proporção que não exceda 0,5% da massa total do produto e este não apresente um teor de cinza superior a 14% (m/m) relativamente à matéria seca e desengordurada.
 
-###### Art. 5.º - 1 - Na extracção da manteiga de cacau, o único solvente permitido é o éter de petróleo 60º-75º, conhecido por essência B, ou a sua fracção principal pura.
+Art. 5.º - 1 - Na extracção da manteiga de cacau, o único solvente permitido é o éter de petróleo 60º-75º, conhecido por essência B, ou a sua fracção principal pura.
 
 2 - A manteiga de cacau utilizada no fabrico dos produtos a que se refere o presente diploma só pode ser submetida aos seguintes tratamentos:
 
@@ -183,7 +214,7 @@ a) Tratamento por hidróxido alcalino ou produto similar usualmente utilizado pa
 
 b) O tratamento mediante bentonite, carvão activado e outros produtos similares usualmente utilizados para a descoloração.
 
-###### Art. 6.º - 1 - Os produtos abrangidos por este diploma destinados ao consumidor final só podem ser comercializados pré-embalados, em material inerte e impermeável em relação ao conteúdo, inócuo e que garanta a conservação das suas características organolépticas.
+Art. 6.º - 1 - Os produtos abrangidos por este diploma destinados ao consumidor final só podem ser comercializados pré-embalados, em material inerte e impermeável em relação ao conteúdo, inócuo e que garanta a conservação das suas características organolépticas.
 
 2 - Exceptuam-se do disposto no número anterior os bombons de chocolate e os produtos de fantasia.
 
@@ -191,7 +222,7 @@ b) O tratamento mediante bentonite, carvão activado e outros produtos similares
 
 4 - Os produtos de cacau em pó constantes do anexo, quando acondicionados em embalagens com peso líquido unitário de 50 g a 1 kg, só poderão ser comercializados com os pesos líquidos de 50 g, 75 g, 125 g, 250 g, 500 g, 750 g e 1 kg.
 
-###### Art. 7.º - 1 - Na rotulagem dos produtos abrangidos pelo presente diploma todas as menções devem ser apresentadas de acordo com as disposições gerais em vigor sobre a matéria.
+Art. 7.º - 1 - Na rotulagem dos produtos abrangidos pelo presente diploma todas as menções devem ser apresentadas de acordo com as disposições gerais em vigor sobre a matéria.
 
 2 - Nos produtos pré-embalados são obrigatórias as seguintes indicações:
 
@@ -205,7 +236,7 @@ d) A indicação do país de origem, se os produtos não forem fabricados no int
 
 e) As menções previstas no artigo 10.º para os produtos a que forem aplicáveis.
 
-###### Art. 8.º - 1 - A denominação de venda dos géneros alimentícios a que se refere o presente diploma é constituída pela designação que lhe corresponde de acordo com o anexo, tendo em conta, além disso, o seguinte:
+Art. 8.º - 1 - A denominação de venda dos géneros alimentícios a que se refere o presente diploma é constituída pela designação que lhe corresponde de acordo com o anexo, tendo em conta, além disso, o seguinte:
 
 a) A designação «Chocolate recheado» deve ser acompanhada de uma menção indicativa do recheio utilizado;
 
@@ -251,11 +282,11 @@ c) No «Preparado à base de chocolate para culinária», quando contenha, pelo 
 
 9 - É proibido o uso da palavra «chocolate», ou qualquer expressão dela derivada, na denominação de venda de géneros alimentícios que, são estando abrangidos pelo presente diploma, possam confundir-se com os mesmos pela sua forma de apresentação.
 
-###### Art. 9.º - 1 - A indicação do peso líquido não é obrigatória em embalagens que contenham uma quantidade inferior a 50 g, podendo, quando estas embalagens forem acondicionadas em embalagem múltipla com peso líquido total igual ou superior a 50 g, ser indicado ou este peso líquido total na embalagem múltipla ou o respectivo peso líquido em cada embalagem unitária, desde que, neste caso, tal indicação seja claramente legível do exterior.
+Art. 9.º - 1 - A indicação do peso líquido não é obrigatória em embalagens que contenham uma quantidade inferior a 50 g, podendo, quando estas embalagens forem acondicionadas em embalagem múltipla com peso líquido total igual ou superior a 50 g, ser indicado ou este peso líquido total na embalagem múltipla ou o respectivo peso líquido em cada embalagem unitária, desde que, neste caso, tal indicação seja claramente legível do exterior.
 
 2 - A indicação referida no número anterior pode ser substituída pela do peso líquido mínimo no caso de produtos ocos.
 
-###### Art. 10.º - 1 - Da rotulagem deverá constar ainda o teor de matéria seca total de cacau, mediante a menção «Cacau: ...% mínimo», nos seguintes produtos:
+Art. 10.º - 1 - Da rotulagem deverá constar ainda o teor de matéria seca total de cacau, mediante a menção «Cacau: ...% mínimo», nos seguintes produtos:
 
 a) «Cacau em pó com açúcar», «Cacau com açúcar» ou «Chocolate em pó»;
 
@@ -277,29 +308,29 @@ i) «Preparado à base de chocolate para culinária».
 
 2 - Na rotulagem e nos documentos comerciais que acompanham os diversos tipos de cacau em pó adicionados de emulsionantes nos termos da alínea b) do n.º 4 do artigo 4.º deverá ser indicado que os mesmos se destinam ao fabrico de preparações instantâneas.
 
-###### Art. 11.º Quando os produtos abrangidos por este diploma forem acondicionados em embalagens de peso líquido igual ou superior a 10 kg e não comercializados no retalho, as menções referidas nas alíneas b), c) e d) do n.º 1 e nos n.os 2, 3, 4 e 5 do artigo 8.º, no artigo 9.º e nas alíneas b) e c) do n.º 1 e no n.º 2 do artigo anterior, assim como as indicações constantes da alínea a) do n.º 1 do mesmo artigo, para o caso dos produtos referidos nos n.os 1 a 7 do anexo, poderão constar apenas dos documentos que os acompanhem.
+Art. 11.º Quando os produtos abrangidos por este diploma forem acondicionados em embalagens de peso líquido igual ou superior a 10 kg e não comercializados no retalho, as menções referidas nas alíneas b), c) e d) do n.º 1 e nos n.os 2, 3, 4 e 5 do artigo 8.º, no artigo 9.º e nas alíneas b) e c) do n.º 1 e no n.º 2 do artigo anterior, assim como as indicações constantes da alínea a) do n.º 1 do mesmo artigo, para o caso dos produtos referidos nos n.os 1 a 7 do anexo, poderão constar apenas dos documentos que os acompanhem.
 
-###### Art. 12.º São aplicáveis as disposições do artigo 30.º do [Decreto-Lei n.º 303/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1983-452567), de 28 de Junho, e dos artigos 24.º, 40.º, 58.º e 64.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+Art. 12.º São aplicáveis as disposições do artigo 30.º do [Decreto-Lei n.º 303/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1983-452567), de 28 de Junho, e dos artigos 24.º, 40.º, 58.º e 64.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
-###### Art. 13.º São revogados os seguintes diplomas:
+Art. 13.º São revogados os seguintes diplomas:
 
 a) Portaria de 18 de Setembro de 1903, publicada em 24 do mesmo mês, na parte respeitante ao cacau e chocolate;
 
 b) [Portaria n.º 9498](https://diariodarepublica.pt/dr/detalhe/portaria/9498-1940-195614), de 4 de Abril de 1940.
 
-###### Art. 14.º Este decreto-lei entra em vigor seis meses após a data da sua publicação.
+Art. 14.º Este decreto-lei entra em vigor seis meses após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 1988. - Aníbal António Cavaco Silva - Luís Gonzaga de Sousa Morais Cardoso - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Jorge Manuel Mendes Antas.
 
-**Promulgado em 19 de Janeiro de 1989.**
+Promulgado em 19 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Janeiro de 1989.**
+Referendado em 20 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08000/16671669.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1990-332178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d53afca73d47cee149a285389fbda3a13a5553aabc3264873ee8d3aadec9b2ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd0ca91426f986fb8801d070b650dc131a33e72d1468be7156191e7abd9691eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Armamento
+- Benefícios Fiscais
+- Contribuições e Impostos
+- Definição de Competências
+- Direcção Geral dos Serviços Prisionais
+- Forças Armadas
+- GNR
+- Guarda Fiscal
+- Isenção Fiscal
+- IVA
+- Polícia Judiciária
+- PSP
+- Restituição de Impostos
+- Serviço de Estrangeiros e Fronteiras
+- Serviço de Informações de Segurança
+- Serviço Nacional de Bombeiros
 relationships:
 - type: amended_by
   target: pt:dre:107725088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:291947:por
+  label: "Alterada a redacção do art. 2º a partir de 1 de Janeiro de 1993, e revogado a partir da mesma data o art. 1º, pelo\
+    \ DEC LEI.139/92.1992.07.17.MF, DR.IS-A [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1992-291947
+  date: '1992-07-17'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterado o art. 4º pela LEI.30-C/2000.2000.12.29.AR,DR.IS-A [299]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 2.º do presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: cites
+  target: pt:dre:228835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618496:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107725088:por
+  label: Revogado a partir de 01.07.2017 pelo(a) Decreto-Lei n.º 84/2017 - Diário da República n.º 140/2017, Série I de 2017-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2017-107725088
+  date: '2017-07-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:04Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +145,9 @@ Assim:
 
 No uso da autorização legislativa concedida pelas alíneas a) e b) do artigo 4.º da [Lei n.º 29/89](https://diariodarepublica.pt/dr/detalhe/lei/29-1989-618496), de 23 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São isentas de imposto sobre o valor acrescentado (IVA) as importações do material de guerra descrito no anexo à Decisão do Conselho das Comunidades Europeias de 15 de Abril de 1958, desde que doado a Portugal ou adquirido a qualquer título directamente pelas forças armadas e forças e serviços de segurança, sem intervenção de qualquer intermediário.
+Artigo 1.º São isentas de imposto sobre o valor acrescentado (IVA) as importações do material de guerra descrito no anexo à Decisão do Conselho das Comunidades Europeias de 15 de Abril de 1958, desde que doado a Portugal ou adquirido a qualquer título directamente pelas forças armadas e forças e serviços de segurança, sem intervenção de qualquer intermediário.
 
-###### Art. 2.º - 1 - O Serviço de Administração do IVA procede à restituição do imposto sobre o valor acrescentado correspondente às aquisições no mercado interno do material de guerra a que se refere o artigo anterior, de outros bens móveis de equipamento destinados exclusivamente à prossecução de fins de segurança e de serviços necessários à conservação, reparação e manutenção desse equipamento feitas pelas forças armadas e forças e serviços de segurança que constem de factura de valor superior a 250000$00, com exclusão do imposto.
+Art. 2.º - 1 - O Serviço de Administração do IVA procede à restituição do imposto sobre o valor acrescentado correspondente às aquisições no mercado interno do material de guerra a que se refere o artigo anterior, de outros bens móveis de equipamento destinados exclusivamente à prossecução de fins de segurança e de serviços necessários à conservação, reparação e manutenção desse equipamento feitas pelas forças armadas e forças e serviços de segurança que constem de factura de valor superior a 250000$00, com exclusão do imposto.
 
 2 - O Serviço de Administração do IVA procede ainda à restituição do imposto sobre o valor acrescentado correspondente às aquisições no mercado interno de todos os bens móveis de equipamento directamente destinados à prossecução dos fins das associações e corporações de bombeiros e de serviços necessários à conservação, reparação e manutenção desse equipamento feitas por essas entidades e que constem de factura de valor superior a 250000$00, com exclusão do imposto.
 
@@ -127,7 +173,7 @@ h) No que respeita à Direcção-Geral dos Serviços Prisionais (DGSP), pela Dir
 
 i) No que respeita às associações e corporações de bombeiros, pela Direcção de Serviços Administrativos e Financeiros do Serviço Nacional de Bombeiros (SNB).
 
-###### Art. 3.º - 1 - Os pedidos de restituição são dirigidos ao director-geral das Contribuições e Impostos e remetidos pelo correio ao Serviço de Administração do IVA, acompanhados dos originais ou fotocópias autenticadas das respectivas facturas ou documentos equivalentes, devendo estes ser passados, para o efeito, nos termos dos artigos 35.º e 38.º do Código do IVA.
+Art. 3.º - 1 - Os pedidos de restituição são dirigidos ao director-geral das Contribuições e Impostos e remetidos pelo correio ao Serviço de Administração do IVA, acompanhados dos originais ou fotocópias autenticadas das respectivas facturas ou documentos equivalentes, devendo estes ser passados, para o efeito, nos termos dos artigos 35.º e 38.º do Código do IVA.
 
 2 - O pedido de restituição será efectuado dentro do prazo de um ano a contar da data da factura ou documento equivalente que comprovem a aquisição dos bens ou serviços.
 
@@ -151,11 +197,11 @@ f) No que respeita às associações e corporações de bombeiros, pelo presiden
 
 6 - O Serviço de Administração do IVA pode tornar obrigatória a indicação dos dados de identificação de uma conta bancária destinada ao crédito dos montantes restituídos, cujo número e demais elementos de identificação são confirmados pela respectiva instituição de crédito aquando do primeiro pedido em que forem mencionados.
 
-###### Art. 4.º Se o pedido de restituição for acompanhado dos originais das facturas ou documentos equivalentes, estes devem ser devolvidos no prazo de 30 dias.
+Art. 4.º Se o pedido de restituição for acompanhado dos originais das facturas ou documentos equivalentes, estes devem ser devolvidos no prazo de 30 dias.
 
-###### Art. 5.º Deferido o pedido, o Serviço de Administração do IVA remete o respectivo cheque no prazo dos três meses seguintes ao da recepção pedido ou, no mesmo prazo, credita na conta bancária o montante da restituição, comunicando o facto às entidades referidas no n.º 4 do artigo 2.º, excepto se se tratar de restituição às forças armadas, caso em que a comunicação é feita, conforme o caso, aos órgãos coordenadores da área financeira do Ministério da Defesa Nacional, do Estado-Maior-General das Forças Armadas ou dos respectivos ramos.
+Art. 5.º Deferido o pedido, o Serviço de Administração do IVA remete o respectivo cheque no prazo dos três meses seguintes ao da recepção pedido ou, no mesmo prazo, credita na conta bancária o montante da restituição, comunicando o facto às entidades referidas no n.º 4 do artigo 2.º, excepto se se tratar de restituição às forças armadas, caso em que a comunicação é feita, conforme o caso, aos órgãos coordenadores da área financeira do Ministério da Defesa Nacional, do Estado-Maior-General das Forças Armadas ou dos respectivos ramos.
 
-###### Art. 6.º - 1 - O imposto indevidamente restituído ou restituído em excesso será deduzido em futuros pedidos até à concorrência dos respectivos montantes.
+Art. 6.º - 1 - O imposto indevidamente restituído ou restituído em excesso será deduzido em futuros pedidos até à concorrência dos respectivos montantes.
 
 2 - À dedução referida no número anterior é aplicável o disposto no artigo 87.º-A do Código do IVA.
 
@@ -163,7 +209,7 @@ f) No que respeita às associações e corporações de bombeiros, pelo presiden
 
 4 - Enquanto não estiverem pagas as liquidações efectuadas nos termos do número anterior, não se procederá a qualquer restituição de imposto à mesma entidade.
 
-###### Art. 7.º O Serviço de Administração do IVA, sempre que se ofereçam dúvidas sobre os pedidos de restituição, sobre a natureza dos bens adquiridos ou a conformidade dos documentos apresentados, consultará as seguintes entidades, encarregadas do controlo financeiro das entidades requerentes:
+Art. 7.º O Serviço de Administração do IVA, sempre que se ofereçam dúvidas sobre os pedidos de restituição, sobre a natureza dos bens adquiridos ou a conformidade dos documentos apresentados, consultará as seguintes entidades, encarregadas do controlo financeiro das entidades requerentes:
 
 a) No que respeita às forças armadas, os órgãos de inspecção da administração financeira do Ministério da Defesa Nacional, do Estado-Maior-General das Forças Armadas ou dos respectivos ramos;
 
@@ -179,16 +225,16 @@ f) No que respeita à PJ, os Serviços de Inspecção Técnica e Disciplinar;
 
 g) No que respeita à DGSP, o Serviço de Inspecção e Apoio Jurídico.
 
-###### Art. 8.º O presente diploma produz efeitos desde 1 de Janeiro de 1990.
+Art. 8.º O presente diploma produz efeitos desde 1 de Janeiro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Joaquim Fernando Nogueira.
 
-**Promulgado em 22 de Março de 1990.**
+Promulgado em 22 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Março de 1990.**
+Referendado em 24 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

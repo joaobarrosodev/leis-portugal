@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1989, 4º Suplemento, Série I de 1989-12-30
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 5668-(32) a 5668-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29904/00320032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1989-262098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf92ccef4468ead0b73a7cfa6f856bccbbcfcbfd223b9f5b3ea8a41ea42dfff5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31516856a5d019cff6f0629a01a546fa21d01b1744f9783b6ec00263d526408b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Contingentação
+- Importação
+- Pauta Aduaneira
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:19Z'
   warnings: []
   errors: []
 ---
@@ -96,24 +105,24 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 32.º da Lei n.º 114/88, de 30 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É suspensa a cobrança da totalidade dos direitos de importação aplicáveis às mercadorias constantes do anexo ao presente diploma e que dele faz parte integrante, quando estejam nas condições previstas nos artigos 9.º e 10.º do [Tratado que instituiu a CEE](https://diariodarepublica.pt/application/external/tratado) ou quando originários da EFTA, no período compreendido entre 1 de Setembro e 31 de Dezembro de 1989, nos limites dos contingentes pautais referidos no mesmo anexo.
+Artigo 1.º - 1 - É suspensa a cobrança da totalidade dos direitos de importação aplicáveis às mercadorias constantes do anexo ao presente diploma e que dele faz parte integrante, quando estejam nas condições previstas nos artigos 9.º e 10.º do [Tratado que instituiu a CEE](https://diariodarepublica.pt/application/external/tratado) ou quando originários da EFTA, no período compreendido entre 1 de Setembro e 31 de Dezembro de 1989, nos limites dos contingentes pautais referidos no mesmo anexo.
 
 2 - O disposto no número anterior é igualmente aplicável, nos termos dos protocolos de adaptação, aos produtos originários dos países com os quais a CEE concluiu acordos preferenciais.
 
-###### Art. 2.º A admissão, a atribuição e o modo de gestão dos contingentes referidos no n.º 1 do artigo anterior deverão observar o disposto na Portaria n.º 333/88, de 26 de Maio, com as alterações que lhe foram introduzidas pela Portaria n.º 66-A/89, de 30 de Janeiro, com excepção de todos os prazos nelas indicados, os quais serão reduzidos a metade.
+Art. 2.º A admissão, a atribuição e o modo de gestão dos contingentes referidos no n.º 1 do artigo anterior deverão observar o disposto na Portaria n.º 333/88, de 26 de Maio, com as alterações que lhe foram introduzidas pela Portaria n.º 66-A/89, de 30 de Janeiro, com excepção de todos os prazos nelas indicados, os quais serão reduzidos a metade.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
 
-**Promulgado em 30 de Dezembro de 1989.**
+Promulgado em 30 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Dezembro de 1989.**
+Referendado em 30 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## Anexo — Lista a que se refere o n.º 1 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29904/00320032.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29904/00320032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29904/00320032.pdf)

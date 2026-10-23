@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/02200/03390340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1989-610919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10754d2c8d648e4fce878c697f6f6497f0c86702a1f04f077974b1c58cfb6096
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07827dc1181a137588451dc35888ffe01baaef29b25f494cdf367c270ac7756a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Comissão de Coordenação da Região do Algarve
+- Medidas Preventivas
+- Ordenamento do Território
+- Política de Solos
+- Protal
+- Proteção do Ambiente
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO PELO DECRETO LEI NUMERO 107/91, PUBLICADO NO DIARIO DA REPUBLICA, I SERIE-A, NUMERO 62, DE 15/03/91.U\0\
+    U\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-03-15'
+- type: amended_by
+  target: pt:dre:475537:por
+  label: Mantida a plena eficácia das medidas preventivas pelo DEC LEI.107/91.15.03.1991.MPLAT, DR.IS-A [62] de 15.03.1991,
+    até à data da entrada em vigor do diploma que aprova o PROTAL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1991-475537
+  date: '1991-03-15'
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:38Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +142,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica sujeita a medidas preventivas, nos termos do artigo 5.º do [Decreto-Lei n.º 176-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-a-1988-476568), de 18 de Maio, e do capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, pelo prazo de dois anos a contar da data da entrada em vigor do presente diploma, ou até à aprovação do Plano Regional de Ordenamento do Território do Algarve (PROTAL), se esta ocorrer no decurso daquele prazo, a área definida na planta anexa a este diploma, de que faz parte integrante, com os limites seguintes:
+Artigo 1.º Fica sujeita a medidas preventivas, nos termos do artigo 5.º do [Decreto-Lei n.º 176-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-a-1988-476568), de 18 de Maio, e do capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, pelo prazo de dois anos a contar da data da entrada em vigor do presente diploma, ou até à aprovação do Plano Regional de Ordenamento do Território do Algarve (PROTAL), se esta ocorrer no decurso daquele prazo, a área definida na planta anexa a este diploma, de que faz parte integrante, com os limites seguintes:
 
 Município de Albufeira:
 
@@ -105,7 +150,7 @@ Freguesias de Albufeira e da Guia;
 
 Município de Castro Marim:
 
-# Parte da freguesia de Castro Marim situada a sul da estrada nacional n.º 125;
+Parte da freguesia de Castro Marim situada a sul da estrada nacional n.º 125;
 
 Município de Lagoa:
 
@@ -113,7 +158,7 @@ Freguesias de Carvoeiro e de Ferragudo;
 
 Partes das freguesias de Lagoa e de Porches situadas a sul da estrada nacional n.º 125;
 
-# Parte da freguesia de Estômbar situada a sul da variante à estrada nacional n.º 125;
+Parte da freguesia de Estômbar situada a sul da variante à estrada nacional n.º 125;
 
 Município de Loulé:
 
@@ -129,7 +174,7 @@ Município de Silves:
 
 Freguesia de Armação de Pêra;
 
-# Parte da freguesia de Pêra situada a sul da estrada nacional n.º 125;
+Parte da freguesia de Pêra situada a sul da estrada nacional n.º 125;
 
 Município de Vila do Bispo:
 
@@ -137,7 +182,7 @@ Freguesia de Sagres;
 
 Partes das freguesias de Budens e da Raposeira situadas a sul da estrada nacional n.º 125.
 
-###### Art. 2.º - 1 - As medidas preventivas referidas no artigo anterior consistem em sujeitar a prévia autorização da câmara municipal respectiva, precedida de parecer favorável da Comissão de Coordenação da Região do Algarve, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática dos actos ou actividades seguintes:
+Art. 2.º - 1 - As medidas preventivas referidas no artigo anterior consistem em sujeitar a prévia autorização da câmara municipal respectiva, precedida de parecer favorável da Comissão de Coordenação da Região do Algarve, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -161,28 +206,28 @@ f) Destruição do coberto vegetal em áreas superiores a 5000 m2, que não se d
 
 6 - O disposto no presente artigo aplica-se às renovações ou revalidações de licenciamentos ou aprovações, bem como à alteração dos respectivos condicionamentos.
 
-###### Art. 3.º A Comissão de Coordenação da Região do Algarve e a Direcção-Geral do Ordenamento do Território são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+Art. 3.º A Comissão de Coordenação da Região do Algarve e a Direcção-Geral do Ordenamento do Território são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 4.º Em relação aos empreendimentos da responsabilidade da administração central será adoptado um dos seguintes procedimentos:
+Art. 4.º Em relação aos empreendimentos da responsabilidade da administração central será adoptado um dos seguintes procedimentos:
 
 a) Empreendimentos já aprovados ou em execução - prosseguirão de acordo com os respectivos projectos;
 
 b) Empreendimentos ainda em fase de elaboração de projecto - a sua apreciação poderá ser precedida de parecer prévio da Comissão de Coordenação da Região do Algarve, a apresentar no prazo máximo de 60 dias, considerando-se como correspondendo a parecer favorável a não emissão de parecer dentro daquele prazo.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Novembro de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Luís Gonzaga de Sousa Morais Cardoso - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - Jorge Manuel Mendes Antas.
 
-**Promulgado em 12 de Janeiro de 1989.**
+Promulgado em 12 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1989.**
+Referendado em 12 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PLANO REGIONAL DE ORDENAMENTO DO TERRITÓRIO DO ALGARVE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/02200/03390340.pdf))](https://files.diariodarepublica.pt/1s/1989/01/02200/03390340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/02200/03390340.pdf)

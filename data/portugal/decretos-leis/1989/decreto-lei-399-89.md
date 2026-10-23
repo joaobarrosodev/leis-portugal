@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/25900/49654968.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1989-550010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a180f48da13ab81807f8d725dbf5b9be6d8bdfca5be8f558d321c705061d703d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc143af168dc4af991c0e7fce6571829acf43896c63c5e788fdcefc639a8c6d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acreditação
+- Aproximação das Legislações
+- CEE
+- Diploma
+- Equivalência de Habilitações Literárias
+- Igualdade de Tratamento
+- Prestação de Serviços
+- Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484652:por
+  label: "Alterados os arts. 2.º, 3.º e 14.º, aditados os arts. 1.º-A e 3.º-A, alterada a designação do anexo, para anexo\
+    \ I, alteradas as als. 3), 5) e 11) do anexo I e aditado um anexo II, todos do presente diploma, pelo DEC LEI.194/95.28.07.1995.MA,\
+    \ DR.IS-A [173] de 28.07.1995\095\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1995-484652
+  date: '1995-07-28'
+- type: amended_by
+  target: pt:dre:482627:por
+  label: "Substituido, na redacção do Dec Lei 194/95, de 28-Jul, o anexo 1 e aditado os arts. 4.º-A, 4.º-B e 9.º-A, pelo DEC\
+    \ LEI.242/2003.2003.10.07.MADRP DR.IS-A [232]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2003-482627
+  date: '2003-10-07'
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
   article_count: 16
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:08Z'
   warnings: []
   errors: []
 ---
@@ -215,17 +241,17 @@ b) Confirmar se um determinado curso de licenciatura em Medicina Veterinária sa
 
 Visto e aprovado em Conselho de Ministros de 28 de Setembro de 1989. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Outubro de 1989.**
+Promulgado em 26 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Outubro de 1989.**
+Referendado em 30 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere o artigo 2.º
+Anexo a que se refere o artigo 2.º
 
 Os diplomas, certificados e outros títulos referidos no artigo 2.º são os que, desde que emitidos pelas autoridades e organismos competentes, a seguir se indicam:
 
@@ -249,7 +275,7 @@ O diploma de Docteur-vétérinaire d'État;
 
 5) Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/25900/49654968.pdf))](https://files.diariodarepublica.pt/1s/1989/11/25900/49654968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/25900/49654968.pdf)
 
 6) Irlanda:
 
@@ -287,4 +313,4 @@ The diploma of membership of the Royal College of Veterinary Surgeons (MRCVS), o
 
 11) Espanha:
 
-## Título de licenciado em Veterinária (título de licenciado em Veterinária), conferido pelo Ministério da Educação e da Ciência.
+Título de licenciado em Veterinária (título de licenciado em Veterinária), conferido pelo Ministério da Educação e da Ciência.

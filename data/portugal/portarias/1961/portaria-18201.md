@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18201-1961-557809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d83c4573d5c0fbfc5d7290363174141352d0d8331a09341144d5f0ce425683f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cb5ec93e2a9a2ef88d296dc7f566e3874c8a8fb1ccadd143e6803c5ae6d86cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:282316:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:55Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +95,10 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que os artigos da [Portaria n.º 17654](https://diariodarepublica.pt/dr/detalhe/portaria/17654-1960-282316), de 1 de Abril de 1960, abaixo indicados passem a ter a seguinte redacção:
 
-###### Art. 12.º Os conselhos administrativos das unidades e estabelecimentos militares organizarão anualmente, em triplicado, referidas a 1 de Janeiro, relações nominais, separadamente, para as modalidades de crédito, nas Oficinas Gerais de Fardamento e Caixa Económica das Forças Armadas, conforme o modelo II anexo, dos oficiais e sargentos a quem tenham abonado os vencimentos referentes ao último dia do mês anterior e desejem beneficiar do abono para fardamento, na modalidade a que tiverem direito.
+Art. 12.º Os conselhos administrativos das unidades e estabelecimentos militares organizarão anualmente, em triplicado, referidas a 1 de Janeiro, relações nominais, separadamente, para as modalidades de crédito, nas Oficinas Gerais de Fardamento e Caixa Económica das Forças Armadas, conforme o modelo II anexo, dos oficiais e sargentos a quem tenham abonado os vencimentos referentes ao último dia do mês anterior e desejem beneficiar do abono para fardamento, na modalidade a que tiverem direito.
 
 ...
 
-###### Art. 14.º As relações indicadas nos artigos 12.º e 13.º serão enviadas aos Serviços Sociais das Forças Armadas para conferência e subsequente remessa de dois exemplares às Oficinas Gerais de Fardamento e Calçado ou à Caixa Económica, conforme os casos.
+Art. 14.º As relações indicadas nos artigos 12.º e 13.º serão enviadas aos Serviços Sociais das Forças Armadas para conferência e subsequente remessa de dois exemplares às Oficinas Gerais de Fardamento e Calçado ou à Caixa Económica, conforme os casos.
 
 Presidência do Conselho, 12 de Janeiro de 1961. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.

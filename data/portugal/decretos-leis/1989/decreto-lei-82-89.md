@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/06900/12651265.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1989-613940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e25f3a483f9ff1dacd27973b2229744d0389fca621f7bbddb8be98f8d385ae6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d1e935d6e8a64a087922a52776d17845ab9b016ab4b957f34a49b4e38e64a40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Administrativo
+- Gabinete de Apoio Pessoal
+- Governador Civil
+- Governo Civil
+- Pessoal de Gabinete
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:19Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +114,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 399-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-b-1984-621936), de 28 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 399-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-b-1984-621936), de 28 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Em cada governo civil pode ser constituído um gabinete de apoio pessoal, composto por um adjunto e um secretário, cuja remuneração, a fixar pelo governador civil, não poderá exceder, respectivamente, o vencimento correspondente às letras C e G da tabela de vencimentos dos funcionários e agentes da Administração Pública.
+Art. 4.º - 1 - Em cada governo civil pode ser constituído um gabinete de apoio pessoal, composto por um adjunto e um secretário, cuja remuneração, a fixar pelo governador civil, não poderá exceder, respectivamente, o vencimento correspondente às letras C e G da tabela de vencimentos dos funcionários e agentes da Administração Pública.
 
 2 - ...
 
@@ -109,16 +128,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - ...
 
-###### Art. 2.º O presente diploma produz efeitos desde a entrada em vigor do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho.
+Art. 2.º O presente diploma produz efeitos desde a entrada em vigor do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1989.**
+Referendado em 11 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

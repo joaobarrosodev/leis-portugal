@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23300/44144415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1989-548808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67c3f77e362746ab32a939b5764e6fd0931565795dd6c5a3223d3c9aa5332cc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb31d1295f199aca54663647d2710389cb3fdc7b42a742d2f0a653d55f7577cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Óbidos
+- Vinha
+- ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:538825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544612:por
+  label: "Alterado o nº 1 do art. 1º do anexo, pelo DEC LEI.116/99.1999.04.14.MADRP, DR.IS-A [87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1999-544612
+  date: '1999-04-14'
+- type: amended_by
+  target: pt:dre:432179:por
+  label: "Alterado o art. 4º e aditado um anexo ao Estatuto, pelo DEC LEI.220/2002.2002.10.22.MADRP, DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2002-432179
+  date: '2002-10-22'
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355570:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação
+    da legislação prevista nos arts 5º a 11º do referido diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:58Z'
   warnings: []
   errors: []
 ---
@@ -98,39 +130,39 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São aprovados os Estatutos da Zona Vitivinícola de Óbidos, anexos ao presente diploma e que dele fazem parte integrante, com vista à produção e comercialização de vinhos a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas, da nomenclatura comunitária, abreviadamente designados VQPRD.
+Artigo 1.º - 1 - São aprovados os Estatutos da Zona Vitivinícola de Óbidos, anexos ao presente diploma e que dele fazem parte integrante, com vista à produção e comercialização de vinhos a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas, da nomenclatura comunitária, abreviadamente designados VQPRD.
 
 2 - A denominação «Óbidos» substitui, a partir da entrada em vigor do presente diploma, a denominação «Gaeiras», que tinha sido reconhecida pelo [Decreto-Lei n.º 429/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1986-210829), de 29 de Dezembro.
 
-###### Art. 2.º A entidade competente a que se alude nos Estatutos aprovados pelo presente diploma e à qual incumbe a defesa das denominações correspondentes às referidas zonas vitivinícolas, a aplicação da respectiva regulamentação, a vigilância e o cumprimento da mesma, assim como o fomento e controlo dos seus vinhos, é a comissão vitivinícola regional (CVR), cujos estatutos serão elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570), de 30 de Setembro.
+Art. 2.º A entidade competente a que se alude nos Estatutos aprovados pelo presente diploma e à qual incumbe a defesa das denominações correspondentes às referidas zonas vitivinícolas, a aplicação da respectiva regulamentação, a vigilância e o cumprimento da mesma, assim como o fomento e controlo dos seus vinhos, é a comissão vitivinícola regional (CVR), cujos estatutos serão elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570), de 30 de Setembro.
 
-###### Art. 3.º - 1 - Com a entrada em vigor do presente diploma, inicia imediatamente funções, pelo período máximo de 180 dias, como comissão instaladora da CVR, a comissão de apoio a que se refere o artigo 3.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
+Art. 3.º - 1 - Com a entrada em vigor do presente diploma, inicia imediatamente funções, pelo período máximo de 180 dias, como comissão instaladora da CVR, a comissão de apoio a que se refere o artigo 3.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
 
 2 - Incumbe à comissão instaladora elaborar os estatutos da CVR.
 
 Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1989. - Aníbal António Cavaco Silva - Luís Gonzaga de Sousa Morais Cardoso.
 
-**Promulgado em 20 de Setembro de 1989.**
+Promulgado em 20 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Setembro de 1989.**
+Referendado em 25 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTOS DA ZONA VITIVINÍCOLA DE ÓBIDOS
 
-###### Artigo 1.º - 1 - É reconhecida como indicação de proveniência regulamentada (IPR) para a produção de vinhos a integrar na categoria dos chamados «vinhos de qualidade produzidos em regiões determinadas» (VQPRD), da nomenclatura comunitária, a denominação «Óbidos», de que poderão usufruir os vinhos tintos e brancos produzidos nesta zona que satisfaçam os presentes Estatutos e outros requisitos legais aplicáveis aos vinhos em geral e, em particular, aos VQPRD.
+Artigo 1.º - 1 - É reconhecida como indicação de proveniência regulamentada (IPR) para a produção de vinhos a integrar na categoria dos chamados «vinhos de qualidade produzidos em regiões determinadas» (VQPRD), da nomenclatura comunitária, a denominação «Óbidos», de que poderão usufruir os vinhos tintos e brancos produzidos nesta zona que satisfaçam os presentes Estatutos e outros requisitos legais aplicáveis aos vinhos em geral e, em particular, aos VQPRD.
 
 2 - Fica proibida a utilização em outros produtos vínicos de nomes, marcas, termos, expressões ou símbolos susceptíveis de, pela sua similitude gráfica ou fonética com os protegidos nestes Estatutos, induzirem a confusão do consumidor, mesmo que precedidos dos termos tipo, estilo ou outros análogos.
 
-###### Art. 2.º A área geográfica correspondente à denominação ora considerada, delimitada na carta 1:500000 em anexo, abrange: do Município do Bombarral as freguesias de Bombarral, Carvalhal, Roliça e Vale Côvo; do Município do Cadaval, as freguesias de Algube, Cadaval, Figueiros, Lamas, Painho, Peral, Pêro Moniz, Vermelha e Vilar; do Município das Caldas da Rainha, as freguesias de A dos Francos, Alvorninha, Landal, São Gregório de Fanadia e Vidais, e do Município de Óbidos, as freguesias de A dos Negros, Gaeiras e São Pedro.
+Art. 2.º A área geográfica correspondente à denominação ora considerada, delimitada na carta 1:500000 em anexo, abrange: do Município do Bombarral as freguesias de Bombarral, Carvalhal, Roliça e Vale Côvo; do Município do Cadaval, as freguesias de Algube, Cadaval, Figueiros, Lamas, Painho, Peral, Pêro Moniz, Vermelha e Vilar; do Município das Caldas da Rainha, as freguesias de A dos Francos, Alvorninha, Landal, São Gregório de Fanadia e Vidais, e do Município de Óbidos, as freguesias de A dos Negros, Gaeiras e São Pedro.
 
-###### Art. 3.º As vinhas destinadas aos vinhos de qualidade a que se referem estes Estatutos devem estar instaladas nos seguintes tipos de solo e com a exposição adaptada à produção destes vinhos: solos calcários pardos ou vermelhos normais ou parabarros; solos mediterrânicos pardos ou vermelhos de materiais não calcários.
+Art. 3.º As vinhas destinadas aos vinhos de qualidade a que se referem estes Estatutos devem estar instaladas nos seguintes tipos de solo e com a exposição adaptada à produção destes vinhos: solos calcários pardos ou vermelhos normais ou parabarros; solos mediterrânicos pardos ou vermelhos de materiais não calcários.
 
-###### Art. 4.º - 1 - As castas a utilizar com vista aos vinhos de qualidade são as seguintes:
+Art. 4.º - 1 - As castas a utilizar com vista aos vinhos de qualidade são as seguintes:
 
 Vinhos tintos:
 
@@ -146,44 +178,44 @@ Castas autorizadas: Alicante-Branco, Malvasia-Rei e Seara-Nova, limitadas a um m
 
 2 - A comercialização de vinhos com referência a uma ou duas castas só pode ser feita em relação às recomendadas, com prévia autorização da entidade competente e a observância das disposições de âmbito geral aplicáveis.
 
-###### Art. 5.º - 1 - As vinhas consideradas nesta denominação deverão ser estremes, em forma baixa, em taça ou cordão.
+Art. 5.º - 1 - As vinhas consideradas nesta denominação deverão ser estremes, em forma baixa, em taça ou cordão.
 
 2 - As práticas culturais deverão ser as tradicionais ou as recomendadas pela entidade competente, em ligação com os serviços regionais de agricultura.
 
 3 - A rega da vinha só pode ser efectuada em condições excepcionais reconhecidas pelo Instituto da Vinha e do Vinho (IVV) e sob autorização prévia, caso a caso, da entidade competente, à qual incumbe velar pelo cumprimento das normas que para o efeito vierem a ser definidas.
 
-###### Art. 6.º - 1 - As vinhas destinadas aos vinhos abrangidos por estes Estatutos devem, a pedido dos interessados, ser inscritas na entidade competente, para verificar se satisfazem os necessários requisitos, a qual procederá ao cadastro das mesmas, efectuando no decurso do ano as observações que entender necessárias.
+Art. 6.º - 1 - As vinhas destinadas aos vinhos abrangidos por estes Estatutos devem, a pedido dos interessados, ser inscritas na entidade competente, para verificar se satisfazem os necessários requisitos, a qual procederá ao cadastro das mesmas, efectuando no decurso do ano as observações que entender necessárias.
 
 2 - Sempre que se verifiquem alterações na constituição das vinhas cadastradas e aprovadas será do facto dado conhecimento pelos respectivos viticultores, sem o que os seus vinhos deixarão de ter direito à denominação.
 
-###### Art. 7.º - 1 - Os vinhos protegidos por estes Estatutos devem provir de vinhas com, pelo menos, quatro anos de enxertia e a sua elaboração, salvo em casos excepcionais, a estudar pela entidade competente, deverá decorrer dentro da zona respectiva em adegas inscritas e aprovadas para o efeito, que ficarão sob o controlo da referida entidade.
+Art. 7.º - 1 - Os vinhos protegidos por estes Estatutos devem provir de vinhas com, pelo menos, quatro anos de enxertia e a sua elaboração, salvo em casos excepcionais, a estudar pela entidade competente, deverá decorrer dentro da zona respectiva em adegas inscritas e aprovadas para o efeito, que ficarão sob o controlo da referida entidade.
 
 2 - Na elaboração serão seguidos os métodos e práticas enológicos tradicionais, legalmente autorizados.
 
 3 - No caso de na mesma adega serem também elaborados vinhos sem direito à denominação, a entidade competente estabelecerá os termos em que deverá decorrer a vinificação, devendo os referidos vinhos ser conservados em secções separadas, em vasilhas com a devida identificação e de que constem, nomeadamente, as indicações relativas ao volume da vasilha, à espécie de vinho contido e ao ano de colheita.
 
-###### Art. 8.º Os mostos destinados aos vinhos objecto dos presentes Estatutos devem ter um título alcoométrico volúmico em potência mínimo natural de 11%.
+Art. 8.º Os mostos destinados aos vinhos objecto dos presentes Estatutos devem ter um título alcoométrico volúmico em potência mínimo natural de 11%.
 
-###### Art. 9.º - 1 - O rendimento máximo por hectare das vinhas destinadas a vinhos de denominação é de 70 hl para os vinhos tintos e de 90 hl para os vinhos brancos.
+Art. 9.º - 1 - O rendimento máximo por hectare das vinhas destinadas a vinhos de denominação é de 70 hl para os vinhos tintos e de 90 hl para os vinhos brancos.
 
 2 - No caso de a produção exceder o quantitativo fixado, não pode ser utilizada a denominação para a totalidade da colheita, salvo em anos de produção excepcional, em que o IVV, sob proposta da entidade regional competente, estabelecerá o limite de produção com direito à utilização da denominação e o destino da produção excedentária.
 
-###### Art. 10.º - 1 - Os vinhos tintos só poderão ser engarrafados após o estágio mínimo de oito meses.
+Art. 10.º - 1 - Os vinhos tintos só poderão ser engarrafados após o estágio mínimo de oito meses.
 
 2 - O estágio mínimo antes do engarrafamento para os vinhos brancos é de cinco meses.
 
-###### Art. 11.º - 1 - Os vinhos de denominação devem ter o título alcoométrico volúmico mínimo de 11%.
+Art. 11.º - 1 - Os vinhos de denominação devem ter o título alcoométrico volúmico mínimo de 11%.
 
 2 - Em relação aos restantes elementos, os vinhos devem apresentar as características definidas para os vinhos em geral.
 
 3 - Do ponto de vista organoléptico, os vinhos devem satisfazer os requisitos apropriados quanto à cor, à limpidez, ao aroma e ao sabor, a definir por regulamento interno da CVR.
 
-###### Art. 12.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas, singulares ou colectivas, que se dediquem à comercialização dos vinhos abrangidos por estes estatutos, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigadas a fazer a sua inscrição, bem como das respectivas instalações, na entidade competente, em registo apropriado.
+Art. 12.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas, singulares ou colectivas, que se dediquem à comercialização dos vinhos abrangidos por estes estatutos, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigadas a fazer a sua inscrição, bem como das respectivas instalações, na entidade competente, em registo apropriado.
 
-###### Art. 13.º Os vinhos de qualidade objecto dos presentes estatutos só podem ser postos em circulação e comercializados desde que, nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa mesma denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade competente.
+Art. 13.º Os vinhos de qualidade objecto dos presentes estatutos só podem ser postos em circulação e comercializados desde que, nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa mesma denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade competente.
 
-###### Art. 14.º - 1 - O engarrafamento só pode ser feito após a aprovação do respectivo vinho pela autoridade competente.
+Art. 14.º - 1 - O engarrafamento só pode ser feito após a aprovação do respectivo vinho pela autoridade competente.
 
 2 - Os rótulos a utilizar deverão ser apresentados à apreciação prévia da entidade competente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23300/44144415.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23300/44144415.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23300/44144415.pdf)

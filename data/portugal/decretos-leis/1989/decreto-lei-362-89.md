@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24100/45964602.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1989-549242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a9d68f9a6afdaf10b80446689c2e6f9567790cfd17127a3d7094df0da3a91f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0849e8693443cde1ccce1b6c7124b0183afcf8a98a55c732df3848e95221ffe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Extensão Educativa
+- Ministério da Educação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:665342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678427:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665342:por
+  label: "Revogado pelo DEC LEI.133/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1993-665342
+  date: '1993-04-26'
 article_structure:
   article_count: 32
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:23Z'
   warnings: []
   errors: []
 ---
@@ -239,7 +275,9 @@ a) A Divisão de Ensino Português no Estrangeiro;
 
 b) A Divisão da Rede e Recursos Humanos no Estrangeiro.
 
-###### Artigo 10.º — Divisão de Ensino Português no Estrangeiro
+###### Artigo 10.º
+
+##### Divisão de Ensino Português no Estrangeiro
 
 1 - À Divisão de Ensino Português no Estrangeiro compete:
 
@@ -257,7 +295,9 @@ f) Promover e acompanhar, em colaboração com a Direcção-Geral do Ensino Bás
 
 g) Promover, em colaboração com a Direcção-Geral do Ensino Básico e Secundário e a Universidade Aberta, alternativas de ensino a distância.
 
-###### Artigo 11.º — Divisão da Rede e Recursos Humanos no Estrangeiro
+###### Artigo 11.º
+
+##### Divisão da Rede e Recursos Humanos no Estrangeiro
 
 À Divisão da Rede e Recursos Humanos no Estrangeiro compete:
 
@@ -293,7 +333,9 @@ a) A Divisão de Estudos;
 
 b) A Divisão de Relações Exteriores.
 
-###### Artigo 13.º — Divisão de Estudos
+###### Artigo 13.º
+
+##### Divisão de Estudos
 
 À Divisão de Estudos compete:
 
@@ -311,7 +353,9 @@ f) Pesquisar e promover a obtenção de fontes de financiamento para o desenvolv
 
 g) Proceder ao controlo de execução dos projectos intersectoriais e multidisciplinares e à elaboração de relatórios periódicos.
 
-###### Artigo 14.º — Divisão de Relações Exteriores
+###### Artigo 14.º
+
+##### Divisão de Relações Exteriores
 
 À Divisão de Relações Exteriores compete, em ligação com os competentes serviços do Ministério da Educação:
 
@@ -337,7 +381,9 @@ a) A Divisão de Educação Recorrente;
 
 b) A Divisão de Educação Extra-Escolar.
 
-###### Artigo 16.º — Divisão de Educação Recorrente
+###### Artigo 16.º
+
+##### Divisão de Educação Recorrente
 
 À Divisão de Educação Recorrente compete:
 
@@ -355,7 +401,9 @@ f) Propor e concretizar alternativas de educação recorrente à distância, em 
 
 g) Colaborar com o Gabinete de Educação Tecnológica, Artística e Profissional em tudo o que respeita à formação profissional a organizar de forma recorrente.
 
-###### Artigo 17.º — Divisão de Educação Extra-Escolar
+###### Artigo 17.º
+
+##### Divisão de Educação Extra-Escolar
 
 À Divisão de Educação Extra-Escolar compete:
 
@@ -371,7 +419,9 @@ e) Organizar os currículos de formação de formadores e promover a sua realiza
 
 f) Propor e aplicar critérios e formas de apoio técnico e financeiro a associações e outras entidades públicas ou privadas, no domínio das atribuições da Direcção-Geral.
 
-###### Artigo 18.º — Divisão de Programação e Controle
+###### Artigo 18.º
+
+##### Divisão de Programação e Controle
 
 À Divisão de Programação e Controle compete:
 
@@ -535,16 +585,16 @@ São revogados o [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 5 de Outubro de 1989.**
+Promulgado em 5 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1989.**
+Referendado em 6 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Mapa do pessoal dirigente e de chefia a que se refere o n.º 1 do artigo 25.º do Decreto-Lei n.º 362/89
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24100/45964602.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24100/45964602.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24100/45964602.pdf)

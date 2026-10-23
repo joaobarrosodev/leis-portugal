@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07200/13141314.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1989-614780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 285f555acf8662350c60cf95b0799fc35234b836541bee3ca8932738d3d86d80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbbbf023dfb000e3cd476c7de5d69503c8d7ea1c665aa8d091a2cda8d0335a9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Código da Estrada
+- Especificação Técnica
+- Segurança Rodoviária
+- Transporte de Mercadorias
+- Transporte Rodoviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575115:por
+  label: "Dada nova redacção ao art. 19º do Código da Estrada, aprovado pelo Dec Lei 39672 de 20-Mai 1954, alterado pelo presente\
+    \ diploma, pelo DEC LEI.194/90.18.06.1990.MOPTC, DR.IS [138] de 18.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1990-575115
+  date: '1990-06-18'
+- type: amended_by
+  target: pt:dre:596890:por
+  label: "Alterado o art. 19.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção do presente\
+    \ diploma, pelo DEC LEI.270/92.30.11.1992.MAI, DR.IS-A [277] de 30.11.1992\092\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1992-596890
+  date: '1992-11-30'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:39Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +122,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 19.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio de 1954, passa a ter a seguinte redacção:
+Artigo único. O artigo 19.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio de 1954, passa a ter a seguinte redacção:
 
 ###### Artigo 19.º — [...]
 
@@ -130,12 +154,12 @@ d) Nos veículos articulados especialmente adaptados e destinados ao transporte 
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1989. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1989.**
+Referendado em 16 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08700/18021805.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1990-332003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ea5f23133287b91526d75fd224c5cc8fc15bf8df5ccb4eb8fcada205149ca6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7f4900336f803810fd57ea08be044fef8f6c14b638da29f2c22d338a67516fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alcoolismo
+- Código da Estrada
+- Contravenção
+- Crime
+- Direito Penal
+- Fiscalização Rodoviária
+- Sanção Penal
+- Segurança Rodoviária
+- Taxa de Alcoolemia
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:223835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:608490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618503:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:185720:por
+  label: "Revogado o art. 2º, a al. a) do n.º 2 do art. 4º e n.º 1 do art. 5º, pelo DEC LEI.48/95.1995.03.15.MJ, DR.IS-A [63]\0\
+    3]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1995-185720
+  date: '1995-03-15'
+- type: repealed_by
+  target: pt:dre:223835:por
+  label: "Revogado pelo DEC LEI.2/98.1998.01.03.MAI DR.IS-A [2], que manteve em vigor a regulamentação aprovada para sua execução\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1998-223835
+  date: '1998-01-03'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:19Z'
   warnings: []
   errors: []
 ---
@@ -274,12 +304,12 @@ O disposto nos artigos 1.º a 19.º entra em vigor com a regulamentação previs
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Manuel Pereira - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins - Arlindo Gomes de Carvalho.
 
-**Promulgado em 2 de Abril de 1990.**
+Promulgado em 2 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Abril de 1990.**
+Referendado em 5 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

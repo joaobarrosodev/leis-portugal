@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1989-611519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 553adc5e9cf2c5c22e389a8e5a14fab4ec51ffc517360d50d762cb49e9c27ba7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eba215524a1c0516825f1191fbd9ed7ff37e382fb3a495b9ebf0823be274b604
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Documento de Transporte
+- Evasão Fiscal
+- Fiscalização
+- Mercadoria
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:667554:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 12 PELO DEC LEI 197/93 DE 27-MAI DR.IS-A [123] \0] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-27'
+- type: amended_by
+  target: pt:dre:302276:por
+  label: "Alterados os arts. 1º, 2º, 3º, 5º, 6º, 7º, 10º, 13º, 15º e aditado um art. 8º-A, pelo DEC LEI.166/94.1994.06.09.MF,\
+    \ DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1994-302276
+  date: '1994-06-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Substituído o documento de transporte constante do presente diploma, na redacção dada pelo Dec-Lei 166/94 de 09-Jun,\
+    \ pela guia de circulação ou documento previsto respectivamente pelos num 1 e 6 do art 3 do Dec-Lei 245/96.1996.12.20.MADRP\
+    \ DR.IS-A [294].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-12-20'
+- type: amended_by
+  target: pt:dre:581224:por
+  label: "Alteradas as als. b) do nº 2 e f) do nº 5 do art. 2º, pelo DEC LEI.25/97.1997.01.23.MF DR.IS-A [19]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1997-581224
+  date: '1997-01-23'
+- type: amended_by
+  target: pt:dre:229103:por
+  label: "Alterados os arts. 2.º e 7.º pelo DEC LEI.323/98.1998.10.30.MF DR.IS-A [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-1998-229103
+  date: '1998-10-30'
+- type: cites
+  target: pt:dre:227180:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322110:por
+  label: "Revogado o art. 13º pela LEI.15/2001.2001.06.05.AR DR.IS-A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2001-322110
+  date: '2001-06-05'
+- type: repealed_by
+  target: pt:dre:667554:por
+  label: Revogado pelo DEC LEI.147/2003.2003.07.11.MF DR.IS-A [158], sem prejuízo do disposto nos nºs 2 e 3 do art. 2º deste
+    diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-2003-667554
+  date: '2003-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:24Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +145,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Todos os bens em circulação, seja qual for a sua natureza ou espécie, deverão ser acompanhados de dois exemplares do documento de transporte.
+Artigo 1.º - 1 - Todos os bens em circulação, seja qual for a sua natureza ou espécie, deverão ser acompanhados de dois exemplares do documento de transporte.
 
 2 - Consideram-se bens, para efeitos do presente diploma, os que puderem ser objecto de transmissão nos termos do artigo 3.º do Código do Imposto sobre o Valor Acrescentado.
 
@@ -104,7 +153,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A utilização de qualquer dos tipos de documentos referidos no número anterior deve ser uniforme até 31 de Dezembro de cada ano.
 
-###### Art. 2.º - 1 - Consideram-se bens em circulação todos os que forem encontrados fora dos locais de produção, fabrico ou transformação, de exposição, dos estabelecimentos de venda por grosso e a retalho ou de armazéns de retém, por motivo de transmissão onerosa, incluindo a troca, de transmissão gratuita, de devolução, de afectação a uso próprio, de entrega à experiência ou para fins de demonstração, de remessa à consignação ou de simples transferência, efectuadas pelos sujeitos passivos referidos no artigo 2.º do Código do Imposto sobre o Valor Acrescentado.
+Art. 2.º - 1 - Consideram-se bens em circulação todos os que forem encontrados fora dos locais de produção, fabrico ou transformação, de exposição, dos estabelecimentos de venda por grosso e a retalho ou de armazéns de retém, por motivo de transmissão onerosa, incluindo a troca, de transmissão gratuita, de devolução, de afectação a uso próprio, de entrega à experiência ou para fins de demonstração, de remessa à consignação ou de simples transferência, efectuadas pelos sujeitos passivos referidos no artigo 2.º do Código do Imposto sobre o Valor Acrescentado.
 
 2 - Quando, em relação aos bens encontrados fora dos locais a que se refere o número anterior, o seu detentor ou transportador declare que os mesmos não provêm de um sujeito passivo, poderá exigir-se prova da proveniência quando haja fundamentadas suspeitas de fraude fiscal, procedendo-se à apreensão provisória desses bens e dos veículos transportadores, nas condições do n.º 14 do artigo 13.º, se essa prova não for imediatamente feita. Do auto de apreensão constarão obrigatoriamente os fundamentos que levaram à apreensão provisória.
 
@@ -142,7 +191,7 @@ m) As taras e embalagens retornáveis.
 
 7 - A prova referida no n.º 5 poderá ser feita mediante a apresentação do documento comprovativo da aquisição dos bens.
 
-###### Art. 3.º - 1 - As facturas deverão conter, obrigatoriamente, os elementos referidos no n.º 5 do artigo 35.º do Código do Imposto sobre o Valor Acrescentado.
+Art. 3.º - 1 - As facturas deverão conter, obrigatoriamente, os elementos referidos no n.º 5 do artigo 35.º do Código do Imposto sobre o Valor Acrescentado.
 
 2 - As guias de remessa ou documentos equivalentes deverão conter, pelo menos, os seguintes elementos:
 
@@ -168,11 +217,11 @@ d) Especificação dos bens, com a indicação das quantidades.
 
 9 - Em relação aos bens transportados por vendedores ambulantes e vendedores em feiras e mercados e destinados à venda a retalho, o documento de transporte poderá ser substituído pelas respectivas facturas de aquisição.
 
-###### Art. 4.º - 1 - Os documentos referidos no n.º 3 do artigo 1.º devem ser processados em triplicado, utilizando-se impressos numerados, seguida e tipograficamente ou através de mecanismos de saída do computador, com uma ou mais séries, convenientemente referenciadas.
+Art. 4.º - 1 - Os documentos referidos no n.º 3 do artigo 1.º devem ser processados em triplicado, utilizando-se impressos numerados, seguida e tipograficamente ou através de mecanismos de saída do computador, com uma ou mais séries, convenientemente referenciadas.
 
 2 - A numeração dos documentos referidos no número anterior deve ser aposta no acto da impressão, ser progressiva e não conter mais de onze dígitos.
 
-###### Art. 5.º - 1 - Os documentos de transporte serão processados pelos sujeitos passivos referidos na alínea a) do artigo 2.º do Código do Imposto sobre o Valor Acrescentado antes do início da circulação dos bens, nos termos do n.º 1 do artigo 2.º do presente diploma.
+Art. 5.º - 1 - Os documentos de transporte serão processados pelos sujeitos passivos referidos na alínea a) do artigo 2.º do Código do Imposto sobre o Valor Acrescentado antes do início da circulação dos bens, nos termos do n.º 1 do artigo 2.º do presente diploma.
 
 2 - Os exemplares dos documentos referidos no número anterior são destinados:
 
@@ -188,13 +237,13 @@ c) O triplicado, ao remetente dos bens.
 
 5 - Os sujeitos passivos que utilizem documentos de transporte cujo conteúdo seja processado através de mecanismos de computador são obrigados a conservar em boa ordem até ao final do 5.º ano seguinte ao da sua emissão os suportes informáticos relativos à análise, programação e execução dos respectivos tratamentos.
 
-###### Art. 6.º - 1 - Os transportadores de bens, seja qual for o seu destino e os meios utilizados para o seu transporte, exigirão sempre aos remetentes dos mesmos o original e o duplicado do documento referido no artigo 1.º
+Art. 6.º - 1 - Os transportadores de bens, seja qual for o seu destino e os meios utilizados para o seu transporte, exigirão sempre aos remetentes dos mesmos o original e o duplicado do documento referido no artigo 1.º
 
 2 - Tratando-se de bens importados que circulem entre a alfândega e o armazém do importador, o transportador poderá fazer-se acompanhar, em substituição dos documentos referidos no número anterior, de documento comprovativo do respectivo desembaraço aduaneiro.
 
 3 - Tratando-se de bens ainda não desembaraçados da alfândega, os transportadores deverão fazer-se acompanhar dos documentos exigidos por aquela entidade.
 
-###### Art. 7.º - 1 - A impressão dos documentos de transporte referidos no presente diploma e cujo conteúdo não seja processado através de mecanismos de saída de computador só poderá ser efectuada em tipografias devidamente autorizadas pelo Ministro das Finanças.
+Art. 7.º - 1 - A impressão dos documentos de transporte referidos no presente diploma e cujo conteúdo não seja processado através de mecanismos de saída de computador só poderá ser efectuada em tipografias devidamente autorizadas pelo Ministro das Finanças.
 
 2 - No caso da emissão de documentos de transporte cujo conteúdo seja processado por mecanismos de saída de computador, deverão os sujeitos passivos comunicar previamente tal facto à direcção de finanças do distrito da sua sede.
 
@@ -218,13 +267,13 @@ b) Certificado, processado pela entidade judicial respectiva, para efeitos da al
 
 6 - São válidas, para efeitos deste diploma, as autorizações concedidas na vigência do [Decreto-Lei n.º 97/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1986-227180), de 16 de Maio.
 
-###### Art. 8.º O Ministro das Finanças, por proposta do director-geral das Contribuições e Impostos, poderá determinar a revogação da autorização concedida nos termos do artigo anterior em todos os casos em que se deixe de verificar qualquer das condições referidas no n.º 4 do artigo anterior, sejam detectadas irregularidades relativamente às disposições do presente diploma e do Código do Imposto sobre o Valor Acrescentado ou se verifiquem outros factos que ponham em causa a idoneidade da empresa autorizada.
+Art. 8.º O Ministro das Finanças, por proposta do director-geral das Contribuições e Impostos, poderá determinar a revogação da autorização concedida nos termos do artigo anterior em todos os casos em que se deixe de verificar qualquer das condições referidas no n.º 4 do artigo anterior, sejam detectadas irregularidades relativamente às disposições do presente diploma e do Código do Imposto sobre o Valor Acrescentado ou se verifiquem outros factos que ponham em causa a idoneidade da empresa autorizada.
 
-###### Art. 9.º - 1 - Nos casos em que, por exigências comerciais, for necessário o processamento de mais de três exemplares dos documentos referidos, é permitido à tipografia autorizada executá-los, com a condição de que deve fazer imprimir nos exemplares que excederem aquele número uma barra com a seguinte indicação: «Cópia do documento não válida para os fins previstos no Decreto-Lei n.º 45/89 de 11 de Fevereiro».
+Art. 9.º - 1 - Nos casos em que, por exigências comerciais, for necessário o processamento de mais de três exemplares dos documentos referidos, é permitido à tipografia autorizada executá-los, com a condição de que deve fazer imprimir nos exemplares que excederem aquele número uma barra com a seguinte indicação: «Cópia do documento não válida para os fins previstos no Decreto-Lei n.º 45/89 de 11 de Fevereiro».
 
 2 - Quando, por exigência de ordem prática, não seja bastante a utilização de um único exemplar dos impressos referidos no n.º 3 do artigo 1.º, deverá utilizar-se o impresso com o número seguinte, nele se referindo que é a continuação do anterior.
 
-###### Art. 10.º - 1 - A aquisição dos impressos referidos no artigo 7.º deve ser efectuada mediante requisição escrita do adquirente utilizador, a qual conterá os elementos necessários ao registo a que se refere o n.º 2 do presente artigo.
+Art. 10.º - 1 - A aquisição dos impressos referidos no artigo 7.º deve ser efectuada mediante requisição escrita do adquirente utilizador, a qual conterá os elementos necessários ao registo a que se refere o n.º 2 do presente artigo.
 
 2 - O fornecimento dos impressos deverá ser registado previamente pela tipografia autorizada, em livro próprio, segundo o modelo aprovado.
 
@@ -236,11 +285,11 @@ b) Certificado, processado pela entidade judicial respectiva, para efeitos da al
 
 6 - A direcção de finanças referida no número anterior promoverá, até 30 de Abril seguinte, a remessa às outras direcções de finanças dos dados respeitantes aos sujeitos passivos cujas sedes se situem na respectiva área territorial.
 
-###### Art. 11.º - 1 - É permitido às tipografias autorizadas encarregar outras tipografias, desde que também autorizadas, da impressão dos documentos que lhes forem requisitados, desde que façam acompanhar os seus pedidos da fotocópia das requisições recebidas.
+Art. 11.º - 1 - É permitido às tipografias autorizadas encarregar outras tipografias, desde que também autorizadas, da impressão dos documentos que lhes forem requisitados, desde que façam acompanhar os seus pedidos da fotocópia das requisições recebidas.
 
 2 - Tanto a tipografia que efectuou a impressão como a que a solicitou devem efectuar os registos e a comunicação referidos no artigo 10.º
 
-###### Art. 12.º - 1 - O cumprimento das obrigações impostas por este diploma será fiscalizado pelo pessoal da Direcção-Geral das Contribuições e Impostos e da Direcção-Geral das Alfândegas, devendo as restantes autoridades, designadamente a Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública, prestar àquelas toda a colaboração que lhes for solicitada para o efeito.
+Art. 12.º - 1 - O cumprimento das obrigações impostas por este diploma será fiscalizado pelo pessoal da Direcção-Geral das Contribuições e Impostos e da Direcção-Geral das Alfândegas, devendo as restantes autoridades, designadamente a Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública, prestar àquelas toda a colaboração que lhes for solicitada para o efeito.
 
 2 - Para assegurar a eficácia das acções de fiscalização, o pessoal referido no número anterior poderá, mesmo contra a vontade do detentor ou tansportador dos bens, proceder à abertura das embalagens, malas ou outros quaisquer contentores de mercadorias.
 
@@ -252,7 +301,7 @@ b) As entidades fiscalizadoras, em tais casos, não devem abrir as referidas emb
 
 4 - Sempre que a infracção for detectada no decurso de operações em que colaborem quer a Guarda Nacional Republicana, quer a Guarda Fiscal, quer a Polícia de Segurança Pública, a parte do produto das multas que se mostrem devidas destinada ao autuante será repartida, em partes iguais, pelos dois serviços.
 
-###### Art. 13.º - 1 - A falta de emissão ou de imediata exibição do documento de transporte ou dos documentos referidos nos n.os 9 do artigo 3.º e 2 e 3 do artigo 6.º, bem como as inexactidões ou omissões neles cometidas que não sejam as especificadas no n.º 2 do presente artigo, farão incorrer os infractores nas seguintes penalidades:
+Art. 13.º - 1 - A falta de emissão ou de imediata exibição do documento de transporte ou dos documentos referidos nos n.os 9 do artigo 3.º e 2 e 3 do artigo 6.º, bem como as inexactidões ou omissões neles cometidas que não sejam as especificadas no n.º 2 do presente artigo, farão incorrer os infractores nas seguintes penalidades:
 
 a) Multa de 50000$00 a 1500000$00, aplicável ao remetente dos bens;
 
@@ -296,7 +345,7 @@ c) Multa de 20000$00 a 2000000$00, aplicável ao remetente dos bens, quando o ve
 
 16 - Somente serão aplicáveis as sanções referidas nos n.os 1 e 2 do presente artigo quando as infracções forem verificadas durante a circulação dos bens.
 
-###### Art. 14.º - 1 - Da apreensão dos bens e dos veículos será lavrado auto em duplicado ou, no caso do n.º 4 do presente artigo, em triplicado, sendo os mesmos entregues a um fiel depositário, de abonação correspondente ao valor provável dos bens apreendidos, salvo se puderem ser removidos, sem inconveniente, para qualquer depósito público.
+Art. 14.º - 1 - Da apreensão dos bens e dos veículos será lavrado auto em duplicado ou, no caso do n.º 4 do presente artigo, em triplicado, sendo os mesmos entregues a um fiel depositário, de abonação correspondente ao valor provável dos bens apreendidos, salvo se puderem ser removidos, sem inconveniente, para qualquer depósito público.
 
 2 - O original do auto de apreensão será entregue na repartição de finanças da área onde foi detectada a transgressão.
 
@@ -310,7 +359,7 @@ c) Multa de 20000$00 a 2000000$00, aplicável ao remetente dos bens, quando o ve
 
 7 - As penalidades previstas no número anterior serão reduzidas a metade sempre que o infractor, dentro dos quinze dias imediatos à detecção da infracção, se apresente a regularizar a respectiva situação tributária.
 
-###### Art. 15.º - 1 - Nos quinze dias seguintes à apreensão ou à notificação referida no n.º 5 do artigo anterior, poderão os transgressores regularizar a situação encontrada em falta, mediante a exibição do original e do duplicado do documento de transporte ou dos documentos referidos nos n.os 2 e 3 do artigo 6.º e do pagamento das multas aplicáveis, nos termos do n.º 1 do artigo 13.º, com redução a metade, na repartição de finanças a que se refere o n.º 2 do artigo anterior.
+Art. 15.º - 1 - Nos quinze dias seguintes à apreensão ou à notificação referida no n.º 5 do artigo anterior, poderão os transgressores regularizar a situação encontrada em falta, mediante a exibição do original e do duplicado do documento de transporte ou dos documentos referidos nos n.os 2 e 3 do artigo 6.º e do pagamento das multas aplicáveis, nos termos do n.º 1 do artigo 13.º, com redução a metade, na repartição de finanças a que se refere o n.º 2 do artigo anterior.
 
 2 - As despesas originadas pela apreensão serão da responsabilidade do infractor, sendo cobradas conjuntamente com a multa.
 
@@ -330,7 +379,7 @@ c) Multa de 20000$00 a 2000000$00, aplicável ao remetente dos bens, quando o ve
 
 10 - As decisões a que se referem os n.os 5 e 7 serão sempre comunicadas ao apreensor.
 
-###### Art. 16.º - 1 - A sentença condenatória declarará sempre perdidos a favor da Fazenda Nacional os bens apreendidos ou o produto da sua venda, efectuada nos termos do n.º 15 do artigo 13.º
+Art. 16.º - 1 - A sentença condenatória declarará sempre perdidos a favor da Fazenda Nacional os bens apreendidos ou o produto da sua venda, efectuada nos termos do n.º 15 do artigo 13.º
 
 2 - O levantamento da apreensão do veículo e dos bens respectivos só se verificará quando:
 
@@ -342,20 +391,20 @@ c) Se verificar o trânsito em julgado da sentença de absolvição.
 
 3 - Nos casos de apreensão em que o remetente não seja transportador dos bens, o levantamento da apreensão, quer dos bens, quer do veículo, será efectuado nos termos do número anterior, relativamente a cada um deles, independentemente da regularização efectuada pelo outro infractor.
 
-###### Art. 17.º Quando em relação a um mesmo bem se verificar, simultaneamente, a existência de uma infracção prevista no presente diploma e de outra de natureza fiscal-aduaneira, esta última absorverá a primeira, sendo o seu conhecimento do foro dos tribunais competentes.
+Art. 17.º Quando em relação a um mesmo bem se verificar, simultaneamente, a existência de uma infracção prevista no presente diploma e de outra de natureza fiscal-aduaneira, esta última absorverá a primeira, sendo o seu conhecimento do foro dos tribunais competentes.
 
-###### Art. 18.º - 1 - Fica revogado o [Decreto-Lei n.º 97/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1986-227180), de 16 de Maio, a partir da entrada em vigor do presente diploma, sem prejuízo da aplicação das normas nele contidas às infracções cometidas na sua vigência.
+Art. 18.º - 1 - Fica revogado o [Decreto-Lei n.º 97/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1986-227180), de 16 de Maio, a partir da entrada em vigor do presente diploma, sem prejuízo da aplicação das normas nele contidas às infracções cometidas na sua vigência.
 
 2 - O presente diploma entra em vigor no dia 1 de Abril de 1989.
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 27 de Janeiro de 1989.**
+Promulgado em 27 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Janeiro de 1989.**
+Referendado em 27 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

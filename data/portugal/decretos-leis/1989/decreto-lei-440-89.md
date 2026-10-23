@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29600/55445550.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4fc176a881724709ea920454df1ae2d33c9c0a3cfe0e0d9507e9bf2c166fd31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb690cfc00a509e45345440bdbc356aa4c69822355bcd0eb6c67a30a37618c3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aditivo Alimentar
+- Alimento para Animais
+- Aproximação das Legislações
+- Comércio
+- Fabrico Industrial
+- Regulamento
+- Regulamento do Fabrico Comercialização e Utilização de Aditivos nos Alimentos para Animais
+- Saúde Animal
 relationships:
 - type: amended_by
   target: pt:dre:346078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198092:por
+  label: "Alterados os arts. 4º, 7º, 8º, 13º, 15º, 16º, 17º e 22º do Regulamento pelo DEC LEI.219/96.1996.11.22.MADRP, DR.IS-A\
+    \ [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1996-198092
+  date: '1996-11-22'
+- type: amended_by
+  target: pt:dre:323702:por
+  label: "Prorrogado, até 1 de Julho de 1998, o regime previsto np n.º 3 do art. 4.º do presente diploma, na redacção dada\
+    \ pelo Dec Lei 219/96, de 22-Nov, pelo DEC LEI.174/99.1999.05.20.MADRP DR.IS-A [117]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-1999-323702
+  date: '1999-05-20'
+- type: repealed_by
+  target: pt:dre:346078:por
+  label: "Revogado pelo DEC LEI.289/99.1999.07.29.MADRP DR.IS-B [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1999-346078
+  date: '1999-07-29'
 article_structure:
-  article_count: 25
+  article_count: 24
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:14Z'
   warnings: []
   errors: []
 ---
@@ -121,25 +146,25 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º A lista de aditivos autorizados em alimentação animal e respectivas condições de utilização é aprovada por portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 2.º A lista de aditivos autorizados em alimentação animal e respectivas condições de utilização é aprovada por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 3.º São revogados o Decreto-Lei n.º 50/84, de 8 de Fevereiro, e as Portarias n.os 748/85, de 1 de Outubro, e 521/86, de 13 de Setembro.
+Art. 3.º São revogados o Decreto-Lei n.º 50/84, de 8 de Fevereiro, e as Portarias n.os 748/85, de 1 de Outubro, e 521/86, de 13 de Setembro.
 
-###### Art. 4.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
+Art. 4.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 17 de Novembro de 1989.**
+Promulgado em 17 de Novembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Novembro de 1989.**
+Referendado em 27 de Novembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais
 
@@ -637,4 +662,4 @@ As disposições legais previstas no presente Regulamento não se aplicam aos ad
 
 3 - Compete ao Ministro da Agricultura, Pescas e Alimentação, através da Direcção-Geral da Pecuária, assegurar em tempo útil a harmonização das disposições legislativas nacionais com as correspondentes disposições comunitárias no âmbito deste Regulamento.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18336-1961-560607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9cea9e4649484a45f77623ffa9f571be6bd47bcf690b6c059edd9574b07b1ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3339f3f370f743c5d2dbf8371b74195aafb10893a044621de63d2fc5d6cea69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:51Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +91,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 1.º — Dívida da província
 
-###### Artigo 8.º «Juros - Plano de Fomento Nacional - Juros de empréstimos a contrair para despesas do II Plano de Fomento Nacional» ... 4600000$00
+Artigo 8.º «Juros - Plano de Fomento Nacional - Juros de empréstimos a contrair para despesas do II Plano de Fomento Nacional» ... 4600000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1399.º, n.º 4), alínea b), n.º II «Deslocações do pessoal - Passagens de ou para o exterior por motivo de licença graciosa - A pagar na província - Para o segundo grupo» ... 651748$68
+Artigo 1399.º, n.º 4), alínea b), n.º II «Deslocações do pessoal - Passagens de ou para o exterior por motivo de licença graciosa - A pagar na província - Para o segundo grupo» ... 651748$68
 
 ... 5251748$68
 

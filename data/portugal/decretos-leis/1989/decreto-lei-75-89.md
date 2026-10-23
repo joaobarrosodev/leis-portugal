@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1989-612844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a4dfd591403488d26b1d8898dfc5f1569dd729db33c0235a484368e884967b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bdb06ace9829f75691625cf349f618c983c8eb267baf21dce052085c624f275
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Pessoal de Enfermagem
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234919:por
+  label: "Prorrogado, pelo período de um ano, o prazo referido no nº 1 do art. 3º pelo DEC LEI.192/92.08.09.1992.MIE, DR.IS-A\
+    \ [207] de 08.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-1992-234919
+  date: '1992-09-08'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:09Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +130,15 @@ Considerando que se torna premente a necessidade de implantação da carreira, i
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As carreiras de técnico experimentador operador de reactor e de técnico experimentador do grupo de pessoal técnico-profissional, constantes do mapa XV anexo à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto, passam a designar-se por técnico-adjunto operador de reactor e técnico-adjunto experimentador do grupo técnico-profissional de nível 4 e desenvolvem-se pelas categorias de especialista de 1.ª classe, especialista, principal, de 1.ª e de 2.ª classes, a que correspondem, respectivamente, as letras G, H, I, K e L.
+Artigo 1.º - 1 - As carreiras de técnico experimentador operador de reactor e de técnico experimentador do grupo de pessoal técnico-profissional, constantes do mapa XV anexo à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto, passam a designar-se por técnico-adjunto operador de reactor e técnico-adjunto experimentador do grupo técnico-profissional de nível 4 e desenvolvem-se pelas categorias de especialista de 1.ª classe, especialista, principal, de 1.ª e de 2.ª classes, a que correspondem, respectivamente, as letras G, H, I, K e L.
 
 2 - O mapa referido no número anterior e alterado nos termos do mapa anexo a este diploma, de que faz parte integrante.
 
-###### Art. 2.º - 1 - Os funcionários que se encontrem providos em lugares das carreiras a extinguir a que se refere o artigo anterior ou que nelas venham a ser providos por força de concursos já abertos à data da entrada em vigor do presente diploma transitam para as carreiras criadas no grupo técnico-profissional de nível 4, igualmente referidas no artigo anterior, de acordo com o mapa e tabela n.º 1 anexos a este diploma, de que fazem parte integrante.
+Art. 2.º - 1 - Os funcionários que se encontrem providos em lugares das carreiras a extinguir a que se refere o artigo anterior ou que nelas venham a ser providos por força de concursos já abertos à data da entrada em vigor do presente diploma transitam para as carreiras criadas no grupo técnico-profissional de nível 4, igualmente referidas no artigo anterior, de acordo com o mapa e tabela n.º 1 anexos a este diploma, de que fazem parte integrante.
 
 2 - Aos funcionários abrangidos pelo disposto no número anterior é permitido o acesso nas respectivas carreiras, independentemente da posse das habilitações legalmente exigidas, devendo os respectivos lugares ser extintos à medida que vagarem.
 
-###### Art. 3.º - 1 - Durante três anos a contar da data da entrada em vigor do presente diploma, os funcionários que, por força do mesmo, transitarem para as categorias da carreira de nível 4 referidas no artigo 1.º serão providos em lugar da mesma classe da carreira técnica logo que satisfaçam um dos seguintes requisitos:
+Art. 3.º - 1 - Durante três anos a contar da data da entrada em vigor do presente diploma, os funcionários que, por força do mesmo, transitarem para as categorias da carreira de nível 4 referidas no artigo 1.º serão providos em lugar da mesma classe da carreira técnica logo que satisfaçam um dos seguintes requisitos:
 
 a) Possuírem curso superior que não confira o grau de licenciatura;
 
@@ -110,29 +146,29 @@ b) Tenham frequência, com aproveitamento, de um curso de formação profissiona
 
 2 - Para execução do disposto no número anterior, o quadro de pessoal do Laboratório Nacional de Engenharia e Tecnologia Industrial - LNETI será oportunamente aumentado dos correspondentes lugares da carreira técnica, os quais serão extintos à medida que vagarem.
 
-###### Art. 4.º - 1 - O ingresso na carreira de técnico-adjunto operador de reactor é precedido de um estágio, sendo o recrutamento dos estagiários feito de entre indivíduos habilitados com o curso complementar do ensino secundário ou equivalente.
+Art. 4.º - 1 - O ingresso na carreira de técnico-adjunto operador de reactor é precedido de um estágio, sendo o recrutamento dos estagiários feito de entre indivíduos habilitados com o curso complementar do ensino secundário ou equivalente.
 
 2 - O provimento na categoria de ingresso da carreira mencionada no número anterior faz-se de entre estagiários que tenham obtido aproveitamento no curso teórico-prático de operação do reactor português de investigação, a ministrar durante o período de estágio.
 
 3 - O provimento nas restantes categorias de acesso da carreira referida no n.º 1 faz-se nos termos previstos no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, para o grupo técnico-profissional de nível 4.
 
-###### Art. 5.º - 1 - O recrutamento para a categoria de ingresso na carreira de técnico-adjunto experimentador faz-se de entre indivíduos habilitados com curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade.
+Art. 5.º - 1 - O recrutamento para a categoria de ingresso na carreira de técnico-adjunto experimentador faz-se de entre indivíduos habilitados com curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade.
 
 2 - O provimento nas restantes categorias de acesso da carreira referida no número anterior faz-se nos termos previstos no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, para o grupo técnico-profissional de nível 4.
 
-###### Art. 6.º É criada no grupo de pessoal técnico-profissional de nível 4 do quadro de pessoal do LNETI constante do mapa XV anexo à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto, a carreira de desenhador projectista assistido por computador (CAD/CAM).
+Art. 6.º É criada no grupo de pessoal técnico-profissional de nível 4 do quadro de pessoal do LNETI constante do mapa XV anexo à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto, a carreira de desenhador projectista assistido por computador (CAD/CAM).
 
-###### Art. 7.º - 1 - O ingresso na carreira de desenhador projectista assistido por computador é precedido de um estágio, sendo o recrutamento dos estagiários feito de entre indivíduos habilitados com curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade.
+Art. 7.º - 1 - O ingresso na carreira de desenhador projectista assistido por computador é precedido de um estágio, sendo o recrutamento dos estagiários feito de entre indivíduos habilitados com curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade.
 
 2 - O recrutamento para a categoria de ingresso da carreira mencionada no número anterior faz-se de entre estagiários que tenham obtido aproveitamento nos cursos teórico-práticos de CAD/CAM, a ministrar durante o período de estágio.
 
 3 - O provimento nas restantes categorias de acesso da carreira referida no n.º 1 faz-se nos termos previstos no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, para o grupo técnico-profissional de nível 4.
 
-###### Art. 8.º - 1 - Os funcionários com categorias indicadas na tabela n.º 2 anexa, pertencentes ao quadro do LNETI ou que nele desempenhem funções em regime de requisição, que possuam cursos de formação de operador CAD/CAM ministrados no Centro de Formação Técnica do LNETI serão integrados na nova carreira, de acordo com a tabela acima referida, independentemente das habilitações literárias que possuírem, sendo-lhes permitido o acesso na mesma.
+Art. 8.º - 1 - Os funcionários com categorias indicadas na tabela n.º 2 anexa, pertencentes ao quadro do LNETI ou que nele desempenhem funções em regime de requisição, que possuam cursos de formação de operador CAD/CAM ministrados no Centro de Formação Técnica do LNETI serão integrados na nova carreira, de acordo com a tabela acima referida, independentemente das habilitações literárias que possuírem, sendo-lhes permitido o acesso na mesma.
 
 2 - Os lugares de quadro do LNETI ocupados pelos funcionários abrangidos pelo número anterior serão extintos à medida que forem sendo providos os lugares criados pelo presente diploma.
 
-###### Art. 9.º - 1 - Os estágios a que se referem os artigos 4.º e 7.º são de carácter probatório, têm a duração de um ano e iniciam-se com a frequência de um curso teórico-prático de operação do reactor português de investigação para a carreira de técnico-adjunto operador de reactor e de cursos teórico-práticos de CAD/CAM para a carreira de desenhador projectista assistido por computador (CAD/CAM).
+Art. 9.º - 1 - Os estágios a que se referem os artigos 4.º e 7.º são de carácter probatório, têm a duração de um ano e iniciam-se com a frequência de um curso teórico-prático de operação do reactor português de investigação para a carreira de técnico-adjunto operador de reactor e de cursos teórico-práticos de CAD/CAM para a carreira de desenhador projectista assistido por computador (CAD/CAM).
 
 2 - É condição necessária para o provimento nas categorias de ingresso das carreiras indicadas no número anterior a aprovação na avaliação final de conhecimentos a que são submetidos os estagiários.
 
@@ -146,34 +182,34 @@ b) Tenham frequência, com aproveitamento, de um curso de formação profissiona
 
 7 - O tempo de serviço prestado na situação de estagiário será contado para todos os efeitos legais, desde que não se verifique interrupção de serviço.
 
-###### Art. 10.º - 1 - É criada a carreira de enfermagem do grau 1, que se desenvolve pelas letras G, H e I, a qual será regida pelo [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 134/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1987-662139), de 17 de Março.
+Art. 10.º - 1 - É criada a carreira de enfermagem do grau 1, que se desenvolve pelas letras G, H e I, a qual será regida pelo [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 134/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1987-662139), de 17 de Março.
 
 2 - Os lugares da carreira prevista no número anterior são extintos à medida que vagarem.
 
-###### Art. 11.º Sem prejuízo das habilitações legais estabelecidas no [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, o pessoal que à data da publicação do presente diploma se encontre a exercer no LNETI funções de enfermeiro na situação de contratado além do quadro, com actividade em regime de tempo completo, com sujeição à disciplina, hierarquia e horário do serviço e que conte mais de três anos de exercício ininterrupto, poderá ser provido na carreira a que se refere o artigo anterior, em categoria a que corresponda a mesma letra de vencimento que já possuir, sendo contado na nova carreira, para todos os efeitos, o tempo de serviço prestado na anterior situação.
+Art. 11.º Sem prejuízo das habilitações legais estabelecidas no [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, o pessoal que à data da publicação do presente diploma se encontre a exercer no LNETI funções de enfermeiro na situação de contratado além do quadro, com actividade em regime de tempo completo, com sujeição à disciplina, hierarquia e horário do serviço e que conte mais de três anos de exercício ininterrupto, poderá ser provido na carreira a que se refere o artigo anterior, em categoria a que corresponda a mesma letra de vencimento que já possuir, sendo contado na nova carreira, para todos os efeitos, o tempo de serviço prestado na anterior situação.
 
-###### Art. 12.º Aos funcionários abrangidos pelo disposto nos artigos 2.º e 8.º será contado, para todos os efeitos legais, o tempo de serviço prestado na categoria que possuírem à data da publicação do presente diploma como se tivesse sido prestado na categoria para que se operar a transição.
+Art. 12.º Aos funcionários abrangidos pelo disposto nos artigos 2.º e 8.º será contado, para todos os efeitos legais, o tempo de serviço prestado na categoria que possuírem à data da publicação do presente diploma como se tivesse sido prestado na categoria para que se operar a transição.
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
 
-**Promulgado em 17 de Fevereiro de 1989.**
+Promulgado em 17 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1989.**
+Referendado em 17 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Tabela n.º 1 anexa, a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf))](https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf)
 
 Tabela n.º 2 anexa, a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf))](https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf)
 
 Mapa anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf))](https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/05200/09420944.pdf)

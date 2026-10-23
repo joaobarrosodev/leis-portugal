@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 98/1990, 1º Suplemento, Série I de 1990-04-28
   number: '98'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2040-(2) a 2040-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09801/00020019.pdf
 entry_into_force_dates: []
@@ -48,40 +48,366 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a28b6e2c6f703a4c7b73775369c908ce6a783884b229c1d791ec93a5a6aca253
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acc64eb8c3e8bfcf9d3e94ff47b1c42b1bbd42604a62d3490da1d252ec851f95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acumulação de Funções
+- Aposentação
+- Avaliação do Pessoal
+- Bolseiro
+- Carreira Profissional
+- Comissão de Serviço
+- Concurso
+- Destacamento de Pessoal
+- Educador de Infância
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Estabelecimento de Ensino
+- Estágio de Formação
+- Estatuto
+- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+- Faltas
+- Férias
+- Formação Profissional
+- Formas de Provimento
+- Funcionário Público
+- Habilitações Literárias
+- Horário de Trabalho
+- Horas Extraordinárias
+- Mobilidade de Pessoal
+- Pessoal Contratado
+- Pessoal Docente
+- Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Remuneração
+- Requisição de Pessoal
+- Sistema Retributivo
+- Subsídio de Fixação
+- Tempo de Serviço
+- Trabalho Nocturno
+- ZONA Pedagógica
 relationships:
 - type: amended_by
   target: pt:dre:1006464121:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469653:por
+  label: "Extinto, à medida que cessar, a actividade para que foram constituídos, os júris criado para apreciação das candidaturas\
+    \ nos termos do art. 36.º do presente diploma e regulamentação complementar, pelo DEC LEI.41/96.1996.05.07.ME DR.IS-A\
+    \ [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1996-469653
+  date: '1996-05-07'
+- type: amended_by
+  target: pt:dre:476740:por
+  label: "Alterados os artªs. 56.º e 57.º pelo DEC LEI.105/97.1997.04.29.ME DR.IS-A [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1997-476740
+  date: '1997-04-29'
+- type: amended_by
+  target: pt:dre:224179:por
+  label: "Alterada a redacção dos arts. 4º a 6º, 8º a 10º, 31º, 32º, 35º a 39º, 41º a 53º, 59º, 60º, 67º a 69º, 71º, 77º,\
+    \ 79º a 83º, 87º, 99º, 102º, 104º, 105º, 107º, 108º, 120º, 121º, 126º, 127º, 130º a 132º, 134º e 135º; - Os antigos arts.\
+    \ 134º, 142º, 143º e 150º passam a novos arts. 125º, 128º, 129º e 133º, respectivamente; - A secção I do subcap. II do\
+    \ cap. VII passa a anteceder o art. 36º; - A subsecção II da secção II do subcap. II do cap. VII passa a anteceder o art.\
+    \ 49º; - O subcap. II do cap. XIII passa a anteceder o art. 129º; - Revoga os nºs. 6 e 7 do art. 115º e os arts. 136º\
+    \ a 140º, 144º a 149º e 151º do presente diploma, pelo .DEC LEI.1/98.1998.01.02.ME, DR.IS-A [1]1\0 [1]1\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-1998-224179
+  date: '1998-01-02'
+- type: amended_by
+  target: pt:dre:344928:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante dos nºs 2 e 3 do art. 37º do\
+    \ Estatuto, pelo AC.153/2001.2001.04.04.TCS DR.IS-A [112] DE 15/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/153-2001-344928
+  date: '2001-04-04'
+- type: amended_by
+  target: pt:dre:656446:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma contida na al a) do nº 1 do art. 22º do\
+    \ Estatuto pelo AC.345/2002.2002.07.11.TCS,DR.IS-A [234] de 10/Out/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/345-2002-656446
+  date: '2002-07-11'
+- type: amended_by
+  target: pt:dre:240043:por
+  label: "Dada nova redacção aos arts. 80.º e 81.º, e revogado, a partir de 27.07.2005, o art. 121.º (todos na redacção do\
+    \ Dec Lei 1/98, de 02-Jan) do Estatuto constante do presente diploma, pelo DEC LEI.121/2005.26.07.2005.ME, DR.IS-A [142]\
+    \ de 26.07.2005, nos termos do seu art. 4.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2005-240043
+  date: '2005-07-26'
+- type: amended_by
+  target: pt:dre:522638:por
+  label: "Alterados os artigos 1.º, 2.º, 4.º, 5.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 17.º, 22.º, 23.º, 24.º, 25.º,\
+    \ 26.º, 27.º, 28.º, 30.º, 31.º, 32.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º,\
+    \ 48.º, 49.º, 54.º, 56.º, 57.º, 59.º, 61.º, 62.º, 63.º, 64.º, 65.º, 66.º, 67.º, 68.º, 69.º, 70.º, 71.º, 72.º, 73.º, 74.º,\
+    \ 76.º, 77.º, 78.º, 79.º, 80.º, 82.º, 83.º, 84.º, 85.º, 86.º, 87.º, 91.º, 94.º, 100.º, 101.º, 102.º, 103.º, 108.º, 109.º,\
+    \ 110.º, 111.º, 115.º, 119.º, 132.º, 133.º, 134.º e 135.º, aditados os arts. 10º-A, 10º-B e 10º-C, bem como a tabela remuneratória\
+    \ constante do anexo I, alteradas as epígrafes dos capítulo IV, capítulo V, o subcapítulo II do capítulo VII, o capítulo\
+    \ VIII e a secção II do subcapítulo III do capítulo X , eliminadas as secções I, II e III do subcapítulo II do capítulo\
+    \ VII e revogados, sem prejuízo do disposto nos arts. 10º, 12º, 13º e 15º), os arts. 18º, 19º, 20º, 21º, os nºs. 2 e 3\
+    \ do art. 23º, os arts. 50º, 51º, 52º, 53º, 55º, , os nºs 3 e 4 do art. 57º, , os arts 58º 60º, as als. c) e e) do art.\
+    \ 68º, o nº 3 do art. 72º, os nºs. 2 e 5 do art. 83º, os arts. 92º, 93º, 95º, 96º, 97º, 98º, 122º, 124º, 125º, 126º, 128º,\
+    \ 130º e 131º e o nº 2 do art. 132º, todos do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos\
+    \ Básico e Secundário, aprovado pelo presente diploma, na redacção dos Dec Lei 105/97 de 29-Abr, 1/98 de 02-Jan, e 121/2005\
+    \ de 26-Jul, republicado na íntegra pelo DEC LEI.15/2007.19.01.2007.ME, DR.IS [14] de 19.01.2007\02007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2007-522638
+  date: '2007-01-19'
+- type: amended_by
+  target: pt:dre:518017:por
+  label: "Alterados os arts. 29º e 33º do Estatuto pelo DEC LEI.35/2007.15.02.2007.ME, DR.IS [33] de 15.02.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2007-518017
+  date: '2007-02-15'
+- type: amended_by
+  target: pt:dre:491219:por
+  label: "Alterados os arts. 16º, 22º (este último na redacção do Dec Lei 15/2007, de 19-Jan), 31º, 37º, 38º, 48º (os quatro\
+    \ últimos na redacção dos Dec Lei 1/98, de 02-Jan e 15/2007, de 19-Jan), 63º (na redacção do Dec Lei 15/2007, de 19-Jan),\
+    \ 69º (na redacção dos Dec Lei 1/98, de 02-Jan e 15/2007, de 19-Jan) e 111º (na redacção do Dec Lei 15/2007, de 19-Jan),\
+    \ bem como o anexo ( na redacção do Dec Lei 15/2007, de 19-Jan), todos do Estatuto da Carreira dos Educadores de Infância\
+    \ e dos Professores dos Ensinos Básico e Secundário, aprovado pelo presente diploma e republicado pelo Dec Lei 15/2007,\
+    \ de 19-Jan, pelo DEC LEI.270/2009.30.09.2009.ME, DR.IS [190] de 30.09.2009, que procede à respectiva republicação\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-2009-491219
+  date: '2009-09-30'
+- type: amended_by
+  target: pt:dre:335228:por
+  label: "Alterados os arts. 4º (com a redacção conferida pelos Dec Lei 1/98 de 02-Jan e 15/2007 de 19-Jan), 13º, 17º, 24º\
+    \ (os três com a redacção conferida pelo Dec Lei 15/2007 de 19-Jan), 31º (com a redacção conferida pelos Dec Lei 1/98\
+    \ de 02-Jan, 15/2007 de 19-Jan e 270/2009 de 30-Set), 34º (com a redacção conferida pelo Dec Lei 15/2007 de 19-Jan), 35º,\
+    \ 36º (ambos com a redacção conferida pelos Dec Lei 1/98 de 02-Jan e 15/2007 de 19-Jan), 37º, 38º (ambos com a redacção\
+    \ conferida pelos Dec Lei 1/98 de 02-Jan, 15/2007 de 19-Jan e 270/2009 de 30-Set), 40º (com a redacção conferida pelo\
+    \ Dec Lei 15/2007 de 19-Jan), 41º, 42º, 43º, 45º, 46º, 47º (todos com a redacção conferida pelos Dec Lei 1/98 de 02-Jan\
+    \ e 15/2007 de 19-Jan), 48º (com a redacção conferida pelos Dec Lei 1/98 de 02-Jan, 15/2007 de 19-Jan e 270/2009 de 30-Set),\
+    \ 54º, 94º (ambos com a redacção conferida pelo Dec Lei 1/98 de 02-Jan), 102º, 132º (ambos com a redacção conferida pelos\
+    \ Dec Lei 1/98 de 02-Jan e 15/2007 de 19-Jan) e 133º (com a redacção conferida pelo Dec Lei 15/2007 de 19-Jan), assim\
+    \ como o anexo I (aditado pelo Dec Lei 15/2007 de 19-Jan e alterado pelo Dec Lei 270/2009 de 30-Set); e revogados o nº\
+    \ 3 do art. 26º, o nº 3 do art. 34º, o nº 6 do art. 37º, o nº 5 do art. 40º, o nº 7 do art. 42º, o nº 6 do art. 43º, o\
+    \ art. 44º, os nºs 1 e 5 a 8 do art. 46º, e o nº 4 do art. 94º, todos do Estatuto da Carreira dos Educadores de Infância\
+    \ e dos Professores dos Ensinos Básico e Secundário, aprovado pelo presente diploma, com a última republicação constante\
+    \ do Dec Lei 270/2009 de 30-Set, pelo DEC LEI.75/2010.23.06.2010.ME, DR.IS [120] de 23.06.2010\02010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2010-335228
+  date: '2010-06-23'
+- type: amended_by
+  target: pt:dre:542994:por
+  label: "Alterados os arts. 31.º e 37º (ambos na redação dos Decs Lei 1/98, de 02-jan, 15/2007, de 19-jan, 270/2009, de 30-set\
+    \ e 75/2010, de 23-jun), 40.º(na redação do Dec Lei 15/2007, de 19-jan e do Dec Lei 75/2010, de 23-jun), 41.º, 42.º, 43.º,\
+    \ 45.º, 46.º, 47.º (todos na redação dos Decs Lei 1/98, de 02-jan, 15/2007, de 19-jan e 75/2010, de 23-jun), 48.º (na\
+    \ redação dos Decs Lei 1/98, de 02-jan, 15/2007, de 19-jan, 270/2009, de 30-set e 75/2010, de 23-jun) e 100.º(na redação\
+    \ do Dec Lei 270/2009, de 30-set), aditado o art. 45º-A e revogados o n.º 8 do art. 40.º, a al. b) do n.º 2 do art. 42.º,\
+    \ os n.os 2 a 4 e 7 do art. 43.º e os n.os 3 e 4 do art. 45.º, todos do Estatuto da Carreira Docente, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.41/2012.21.02.2012.MECI, DR.IS [37] de 21.02.2012, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2012-542994
+  date: '2012-02-21'
+- type: amended_by
+  target: pt:dre:502866:por
+  label: "Alterados os arts. 2.º (na redação do Dec Lei 15/2007, de 19-jan) e 22.º (na redação do Dec Lei 15/2007, de 19-jan\
+    \ e do Dec Lei 270/2009, de 30-set) do Estatuto da Carreira Docente aprovado pelo presente diploma, pelo DEC LEI.146/2013.22.10.2013.MECI,\
+    \ DR.IS [204] de 22.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2013-502866
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:484160:por
+  label: "Alterado, na redação do Dec Lei 15/2007, de 19-jan, o art. 64º, aditado o art. 64º-A e revogados os nºs 4 e 5 do\
+    \ art. 64º, pela LEI.80/2013.28.11.2013.AR, DR.IS [231] de 28.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/80-2013-484160
+  date: '2013-11-28'
+- type: amended_by
+  target: pt:dre:74717230:por
+  label: Alterado o art. 2.º (retificado pela Decl de 30-jun de 1990 e com a redação dada pelo Dec Lei 15/2007 de 19-jan),
+    e revogados a al. f) do n.º 1 e os n.ºs 7, 8, 9 e 10 do art. 22.º do Estatuto da Carreira dos Educadores de Infância e
+    dos Professores dos Ensinos Básico e Secundário, aprovado pelo presente diploma, republicado pelo Dec Lei 270/2009 de
+    30-set, pelo(a) Lei n.º 16/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2016-74717230
+  date: '2016-06-17'
+- type: amended_by
+  target: pt:dre:835994078:por
+  label: Alterados, a partir de 30 de dezembro de 2023, os artigos 31.º e 54.º do Estatuto da Carreira dos Educadores de Infância
+    e dos Professores dos Ensinos Básico e Secundário pelo(a) Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023,
+    4º Suplemento, Série I de 2023-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-b-2023-835994078
+  date: '2023-12-29'
+- type: cites
+  target: pt:dre:183222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:528462:por
+  label: Rectificado pela DECL.DD3588.30.06.1990.PCM, DR.IS [149-Supl] de 30.06.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-528462
+  date: '1990-06-30'
+- type: repealed_by
+  target: pt:dre:186123:por
+  label: "Revogado o art. 123.º do Estatuto, pelo DEC LEI.35/2003.2003.02.27.ME DR.IS-A [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2003-186123
+  date: '2003-02-27'
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogados os arts. 104º, 120º e 127º(na redacção do Dec Lei 1/98 de 02-Jan) e art. 118º todos do presente diploma,\
+    \ pelo DEC LEI.229/2005.29.12.2005.MFAP, DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
+- type: repealed_by
+  target: pt:dre:546068:por
+  label: "Revogado o art. 81º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário,\
+    \ aprovado pelo presente diploma, alterado pelos Dec Lei 1/98 de 02-Jan e 121/2005 de 26-Jul, pelo DEC LEI.224/2006.13.11.2006.ME,\
+    \ DR.IS [218] de 13.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2006-546068
+  date: '2006-11-13'
+- type: repealed_by
+  target: pt:dre:74277007:por
+  label: Revogado, a partir de 29.01.2016, o art. 64.º-A do Estatuto da Carreira dos Educadores de Infância e dos Professores
+    dos Ensinos Básico e Secundário, aprovado pelo presente diploma, pelo(a) Lei n.º 12/2016 - Diário da República n.º 82/2016,
+    Série I de 2016-04-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2016-74277007
+  date: '2016-04-28'
 article_structure:
   article_count: 158
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:39Z'
   warnings: []
   errors: []
 ---
@@ -224,15 +550,15 @@ O presente diploma entra em vigor no primeiro dia útil do mês seguinte ao da r
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur do Luz Carneiro - Arlindo Gomes de Carvalho.
 
-**Promulgado em 23 de Abril de 1990.**
+Promulgado em 23 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Abril de 1990.**
+Referendado em 23 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTO DA CARREIRA DE EDUCADORES DE INFÂNCIA E DOS PROFESSORES DOS ENSINOS BÁSICO E SECUNDÁRIO
 
@@ -1462,4 +1788,4 @@ O ingresso na carreira dos docentes oriundos do ensino particular e cooperativo 
 
 O presente Estatuto será objecto de revisão no prazo mínimo de três anos, tendo em vista a sua adequação à reforma do sistema educativo e ao enquadramento dos docentes com graus académicos superiores.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.

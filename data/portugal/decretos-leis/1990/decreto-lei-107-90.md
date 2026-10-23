@@ -47,40 +47,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1990-333083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fcaa3fa10c1d2494009098c20b11e321c4bcc2aa783b0001f5e7c0f050d4c32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f18d7c09a1117e217d7cce9bdb4f24b5ed3e4d091d0c8a9a7bd92aa9313eafa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Definição de Competências
+- Docapesca-sociedade Concessionária da DOCA de Pesca
+- Estatuto
+- Integração de Serviços
+- Privatização
+- Serviço de Lotas e Vendagem
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570690:por
+  label: "Determinada a sucessão das funções de autoridade portuária nos portos de pesca e nas marinas de recreio do Instituto\
+    \ Portuário e dos Transportes Marítimos, I. P., com orgânica constante do Dec Lei 146/2007, de 27-abr, na redação do Dec\
+    \ Lei 119/2013, de 21-ago na Docapesca - Portos e Lotas, S. A., prevista no presente diploma, pelo DEC LEI.16/2014.03.02.2014.MAGM,\
+    \ DR.IS [23] de 03.02.2014\0014\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2014-570690
+  date: '2014-02-03'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a superintendência e tutela da Docapesca - Portos e Lotas, S.A. compete à Ministra do Mar, sem prejuízo
+    dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro das Finanças pelo(a) Decreto-Lei n.º 251-A/2015
+    - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e
+    ao Ministro de Estado e das Finanças, que a superintendência e tutela da Docapesca - Portos e Lotas, S. A., prevista no
+    presente diploma, seja exercida pelo Ministro do Mar pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019,
+    1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinada, com efeitos a 30.03.2022, a superintendência e tutela da Ministra da Agricultura e da Alimentação, sem
+    prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro das Finanças, relativamente à Docapesca-Portos
+    e Lotas SA, a que se refere o presente diploma e cujos Estatutos foram publicitados através do Av 9698/2015 de 27-ago,
+    pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Agricultura e Pescas, sem prejuízo
+    dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, a superintendência
+    e tutela sobre a Docapesca - Portos e Lotas, S. A. pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024,
+    Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Agricultura e Mar, sem prejuízo
+    dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, a superintendência
+    e tutela sobre a Docapesca - Portos e Lotas, S. A. pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025,
+    Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:54Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +156,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É alterada a denominação social da DOCAPESCA - Sociedade Concessionária da Doca de Pesca, S. A., para DOCAPESCA - Portos e Lotas, S. A., adiante designada por sociedade.
+Artigo 1.º É alterada a denominação social da DOCAPESCA - Sociedade Concessionária da Doca de Pesca, S. A., para DOCAPESCA - Portos e Lotas, S. A., adiante designada por sociedade.
 
-###### Art. 2.º A universalidade dos direitos e obrigações, actualmente na esfera jurídica do Estado, por força da assunção por este do serviço de primeira venda do pescado, designado por Serviço de Lotas e Vendagem (SLV), é transferida para a titularidade da sociedade nos termos do presente diploma.
+Art. 2.º A universalidade dos direitos e obrigações, actualmente na esfera jurídica do Estado, por força da assunção por este do serviço de primeira venda do pescado, designado por Serviço de Lotas e Vendagem (SLV), é transferida para a titularidade da sociedade nos termos do presente diploma.
 
-###### Art. 3.º - 1 - O capital social da sociedade, actualmente de 10000000$00, é aumentado para 1510000000$00.
+Art. 3.º - 1 - O capital social da sociedade, actualmente de 10000000$00, é aumentado para 1510000000$00.
 
 2 - O aumento do capital, no montante de 1500000000$00, é realizado pelo Estado da seguinte forma:
 
@@ -113,31 +168,31 @@ a) 1306689270$00, correspondente às dotações de capital já atribuídas pelo 
 
 b) 193310730$00, por incorporação de reservas da DOCAPESCA - Sociedade Concessionária da Doca de Pesca, S. A.
 
-###### Art. 4.º - 1 - Os trabalhadores que vêm assegurando o funcionamento do serviço da primeira venda do pescado, designado por SLV, são integrados nos quadros da sociedade, mantendo todos os direitos e obrigações, incluindo a antiguidade, que detêm em função da sua vinculação laboral.
+Art. 4.º - 1 - Os trabalhadores que vêm assegurando o funcionamento do serviço da primeira venda do pescado, designado por SLV, são integrados nos quadros da sociedade, mantendo todos os direitos e obrigações, incluindo a antiguidade, que detêm em função da sua vinculação laboral.
 
 2 - O conselho de administração da sociedade fica desde já incumbido de promover a uniformização dos regimes laborais que, por força do disposto no número anterior, ficam a vigorar na sociedade.
 
 3 - A sociedade assegurará a satisfação de todos os direitos e regalias dos reformados do referido SLV.
 
-###### Art. 5.º - 1 - Os funcionários do Estado, das autarquias locais, de institutos públicos, de empresas públicas ou de sociedades anónimas de capitais públicos podem ser autorizados a exercer funções na sociedade, em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem.
+Art. 5.º - 1 - Os funcionários do Estado, das autarquias locais, de institutos públicos, de empresas públicas ou de sociedades anónimas de capitais públicos podem ser autorizados a exercer funções na sociedade, em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem.
 
 2 - A situação dos trabalhadores da sociedade que sejam chamados a ocupar cargos nos respectivos órgãos sociais, bem como dos que sejam requisitados para exercer funções nos entes referidos no número anterior, em nada será prejudicada por esse facto, regressando aos seus lugares logo que termine o seu mandato ou tempo de requisição.
 
-###### Art. 6.º - 1 - Todos os serviços de primeira venda do pescado nas lotas do continente serão prestados ou assegurados pela sociedade nos termos da legislação aplicável, assumindo esta desde a data da entrada em vigor do presente diploma toda a actividade que até à mesma tem sido objecto do SLV.
+Art. 6.º - 1 - Todos os serviços de primeira venda do pescado nas lotas do continente serão prestados ou assegurados pela sociedade nos termos da legislação aplicável, assumindo esta desde a data da entrada em vigor do presente diploma toda a actividade que até à mesma tem sido objecto do SLV.
 
 2 - Os bens que têm vindo a ser usados para a prestação dos serviços referidos no número anterior e que, em virtude da sua especial afectação dominial, não tenham sido transferidos para a sociedade nos termos do artigo 2.º continuarão a ser utilizados por esta, nos mesmos termos e condições, até que em legislação especial seja fixado o respectivo regime de utilização.
 
 3 - Os contratos de concessão e outros acordos celebrados entre o Estado ou outra entidade pública e a sociedade e também aqueles em que a posição contratual do utilizador é assumida por esta nos termos do presente diploma serão prorrogados no final dos respectivos prazos, por períodos e condições a estabelecer entre as entidades envolvidas.
 
-###### Art. 7.º - 1 - São aprovados os novos estatutos da sociedade, anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que sejam publicados.
+Art. 7.º - 1 - São aprovados os novos estatutos da sociedade, anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que sejam publicados.
 
 2 - As eventuais alterações aos estatutos referidos no número anterior produzirão todos os seus efeitos desde que deliberadas nos termos estatutários e com observância do disposto na lei comercial, sendo bastante a sua redução a escritura pública e subsequente registo e publicação.
 
-###### Art. 8.º - 1 - Os direitos sociais do Estado enquanto accionista e, nomeadamente, a sua representação em assembleia geral são exercidas por representante designado por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 8.º - 1 - Os direitos sociais do Estado enquanto accionista e, nomeadamente, a sua representação em assembleia geral são exercidas por representante designado por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
 2 - As acções representativas do capital detido pelo Estado ficam na posse da Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, deva pertencer ao sector público.
 
-###### Art. 9.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministros das Finanças e da Agricultura, Pescas e Alimentação, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 9.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministros das Finanças e da Agricultura, Pescas e Alimentação, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -145,11 +200,11 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e da Agricultura, Pescas e Alimentação relatório sucinto em que se refiram os controlos efectuadas, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 10.º - 1 - O presente diploma constitui, para todos os efeitos legais, incluindo os de registo, título bastante das transmissões que determina, devendo quaisquer actos necessários à regularização das diferentes situações ser praticados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, com base em simples comunicação subscrita por dois membros do consellho de administração da sociedade.
+Art. 10.º - 1 - O presente diploma constitui, para todos os efeitos legais, incluindo os de registo, título bastante das transmissões que determina, devendo quaisquer actos necessários à regularização das diferentes situações ser praticados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, com base em simples comunicação subscrita por dois membros do consellho de administração da sociedade.
 
 2 - Beneficiam também das isenções referidas no número anterior os actos resultantes do aumento de capital previsto na alínea c) do n.º 1 do artigo 11.º
 
-###### Art. 11.º - 1 - Fica desde já convocada a assembleia geral da sociedade, a qual reunirá na sede desta, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou do 1.º dia útil subsequente, com a seguinte ordem de trabalhos:
+Art. 11.º - 1 - Fica desde já convocada a assembleia geral da sociedade, a qual reunirá na sede desta, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou do 1.º dia útil subsequente, com a seguinte ordem de trabalhos:
 
 a) Eleger os membros dos órgãos sociais;
 
@@ -161,49 +216,49 @@ c) Deliberar o aumento de capital da sociedade no montante que resultar da avali
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Fernando Nogueira - Arlindo Marques da Cunha - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 22 de Março de 1990.**
+Promulgado em 22 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1990.**
+Referendado em 22 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere o artigo 7.º do Decreto-Lei n.º 107/90
+Anexo a que se refere o artigo 7.º do Decreto-Lei n.º 107/90
 
 Estatutos da DOCAPESCA - Portos e Lotas, S. A.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto social
 
-###### Artigo 1.º - A sociedade tem a forma de sociedade anónima e adopta a denominação de DOCAPESCA - Portos e Lotas, S. A.
+Artigo 1.º - A sociedade tem a forma de sociedade anónima e adopta a denominação de DOCAPESCA - Portos e Lotas, S. A.
 
-###### Art. 2.º - 1 - A sociedade durará por tempo indeterminado e tem a sua sede na Avenida de Brasília, Pedrouços, em Lisboa.
+Art. 2.º - 1 - A sociedade durará por tempo indeterminado e tem a sua sede na Avenida de Brasília, Pedrouços, em Lisboa.
 
 2 - O conselho de administração poderá deliberar a mudança da sede dentro do mesmo município ou para município limítrofe, bem como a abertura, transferência ou encerramento de quaisquer sucursais, filiais, delegações ou outras formas de representação social em qualquer parte do território nacional ou no estrangeiro.
 
-###### Art. 3.º A sociedade tem por objecto a exploração de portos de pesca e lotas, em regime de concessão ou outro, a prestação de serviços de primeira venda do pescado, a exploração de infra-estruturas de apoio aos utentes, a produção de gelo e frio, bem como quaisquer outras actividades conexas.
+Art. 3.º A sociedade tem por objecto a exploração de portos de pesca e lotas, em regime de concessão ou outro, a prestação de serviços de primeira venda do pescado, a exploração de infra-estruturas de apoio aos utentes, a produção de gelo e frio, bem como quaisquer outras actividades conexas.
 
-###### Art. 4.º A sociedade pode associar-se com outras pessoas jurídicas para, nomeadamente, constituir sociedades, agrupamentos complementares de empresas, consórcios e associações em participação, bem como adquirir e alienar livremente participações no capital de outras sociedades, ainda que reguladas por leis especiais, independentemente do seu objecto.
+Art. 4.º A sociedade pode associar-se com outras pessoas jurídicas para, nomeadamente, constituir sociedades, agrupamentos complementares de empresas, consórcios e associações em participação, bem como adquirir e alienar livremente participações no capital de outras sociedades, ainda que reguladas por leis especiais, independentemente do seu objecto.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 5.º - 1 - O capital social é de 1510000 contos, integralmente realizado, estando representado por 1510000 acções nominativas com o valor de 1000$00 cada uma.
+Art. 5.º - 1 - O capital social é de 1510000 contos, integralmente realizado, estando representado por 1510000 acções nominativas com o valor de 1000$00 cada uma.
 
 2 - Poderão ser emitidos títulos incorporando 1, 5, 10, 50, 100, 500, 1000 e 10000 acções, os quais serão assinados por dois administradores, nos termos autorizados pela lei.
 
 3 - Os encargos emergentes de quaisquer averbamentos, conversões, substituições, divisões ou concentrações dos títulos serão suportados pelos accionistas que tal requeiram.
 
-###### Art. 6.º O conselho de administração fica autorizado a elevar o capital social, por uma ou mais vezes, até ao limite de 3 milhões de contos, fixando o montante, as condições de subscrição e realização e a modalidade das acções a emitir.
+Art. 6.º O conselho de administração fica autorizado a elevar o capital social, por uma ou mais vezes, até ao limite de 3 milhões de contos, fixando o montante, as condições de subscrição e realização e a modalidade das acções a emitir.
 
-###### Art. 7.º A sociedade poderá emitir quaisquer modalidades ou tipo de obrigações, nos termos que lhe sejam permitidos pela lei e nas condições que forem fixadas pelo órgão que decidir a emissão.
+Art. 7.º A sociedade poderá emitir quaisquer modalidades ou tipo de obrigações, nos termos que lhe sejam permitidos pela lei e nas condições que forem fixadas pelo órgão que decidir a emissão.
 
-###### Art. 8.º Dentro dos limites impostos pela lei, a sociedade poderá adquirir e deter acções ou obrigações próprias, bem como realizar com elas todas as operações que julgue convenientes para os interesses sociais.
+Art. 8.º Dentro dos limites impostos pela lei, a sociedade poderá adquirir e deter acções ou obrigações próprias, bem como realizar com elas todas as operações que julgue convenientes para os interesses sociais.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 9.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 9.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O mandato dos membros dos órgãos sociais tem a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.
 
@@ -215,7 +270,7 @@ Estatutos da DOCAPESCA - Portos e Lotas, S. A.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 10.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
+Art. 10.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde um voto.
 
@@ -229,13 +284,13 @@ Estatutos da DOCAPESCA - Portos e Lotas, S. A.
 
 7 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 11.º - 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
+Art. 11.º - 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
 
 2 - Compete ao presidente da mesa convocar as reuniões da assembleia geral e dirigir os seus trabalhos, bem como exercer as demais funções que lhe sejam conferidas pela lei ou por delegação da própria assembleia.
 
 3 - Ao vice-presidente compete substituir o presidente nas suas faltas e impedimentos e ao secretário incumbe coadjuvar o presidente em exercício e assegurar todo o expediente relativo à assembleia.
 
-###### Art. 12.º Compete à assembleia geral:
+Art. 12.º Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e decidir sobre a aplicação dos resultados do exercício;
 
@@ -255,17 +310,17 @@ h) Autorizar a emissão de obrigações;
 
 i) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 13.º - 1 - As deliberações da assembleia geral são tomadas por maioria de votos dos accionistas presentes ou representados, sempre que a lei não exija maior número.
+Art. 13.º - 1 - As deliberações da assembleia geral são tomadas por maioria de votos dos accionistas presentes ou representados, sempre que a lei não exija maior número.
 
 2 - Para efeitos de eleição dos titulares dos órgãos sociais, a assembleia geral só pode deliberar estando presentes ou representados accionistas que sejam titulares de acções correspondentes, pelo menos, a 51% do capital social.
 
-###### Art. 14.º A assembleia geral deverá ser convocada sempre que a lei o determine ou quando tal for solicitado pelo conselho de administração, pelo conselho fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
+Art. 14.º A assembleia geral deverá ser convocada sempre que a lei o determine ou quando tal for solicitado pelo conselho de administração, pelo conselho fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 15.º O conselho de administração é constituído pelo presidente e por quatro ou seis vogais, todos eleitos em assembleia geral, a qual fixará previamente a sua composição numérica.
+Art. 15.º O conselho de administração é constituído pelo presidente e por quatro ou seis vogais, todos eleitos em assembleia geral, a qual fixará previamente a sua composição numérica.
 
-###### Art. 16.º Para além das competências que por lei, pelos presentes Estatutos ou por deliberação da assembleia geral lhe sejam conferidas, compete, nomeadamente, ao conselho de administração:
+Art. 16.º Para além das competências que por lei, pelos presentes Estatutos ou por deliberação da assembleia geral lhe sejam conferidas, compete, nomeadamente, ao conselho de administração:
 
 a) Exercer os mais amplos poderes de administração da sociedade e praticar todos os actos e operações tendentes à realização do seu objecto social;
 
@@ -281,7 +336,7 @@ f) Adquirir, alienar ou, por qualquer forma, onerar quaisquer bens ou direitos, 
 
 g) Constituir mandatários, fixando-lhes as respectivas atribuições.
 
-###### Art. 17.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 17.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho de administração;
 
@@ -291,7 +346,7 @@ c) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 18.º - 1 - O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores.
+Art. 18.º - 1 - O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores.
 
 2 - Qualquer membro do conselho poderá fazer-se representar numa reunião por outro administrador, mediante escrito dirigido ao presidente, que será válido unicamente para essa reunião.
 
@@ -299,7 +354,7 @@ c) Zelar pela correcta execução das deliberações do conselho de administraç
 
 4 - As deliberações do conselho serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
 
-###### Art. 19.º - 1 - A sociedade obriga-se:
+Art. 19.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -311,11 +366,11 @@ c) Pela assinatura de mandatário constituído, no âmbito do correspondente man
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente.
+Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
-###### Art. 21.º - 1 - Além das atribuições constantes da lei geral, compete especialmente ao conselho fiscal:
+Art. 21.º - 1 - Além das atribuições constantes da lei geral, compete especialmente ao conselho fiscal:
 
 a) Assistir às reuniões do conselho de administração, sempre que o entenda conveniente;
 
@@ -325,13 +380,13 @@ c) Chamar a atenção do conselho de administração para qual quer assunto que 
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 22.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presentes a maioria dos membros em exercício.
+Art. 22.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presentes a maioria dos membros em exercício.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 23.º O ano social coincide com o ano civil.
+Art. 23.º O ano social coincide com o ano civil.
 
-###### Art. 24.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
+Art. 24.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
 
 a) Um mínimo de 10%, para a constituição da reserva legal, até esta atingir o montante exigível;
 
@@ -339,6 +394,6 @@ b) Uma percentagem a distribuir pelos accionistas, a título de dividendo, que, 
 
 c) O restante para os fins que a assembleia geral delibere de interesse para a sociedade.
 
-###### Art. 25.º - 1 - A sociedade dissolver-se-á nos termos legais.
+Art. 25.º - 1 - A sociedade dissolver-se-á nos termos legais.
 
 2 - A assembleia geral determinará a forma de liquidação e nomeará a comissão liquidatária, que poderá ser constituída pelos administradores em exercício.

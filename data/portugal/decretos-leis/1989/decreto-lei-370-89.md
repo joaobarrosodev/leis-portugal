@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24600/47024704.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1989-549404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ca1d5e158659dd358a41bcfaee03ff392fc9a2d242f2924bf5bdb0bc342faa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bffde854cb26403f7ce4fed6356635ef91029c0cab6054bfe669bfdd28f17f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional para as Comemorações dos Descobrimentos Portugueses
+- Descobrimentos Portugueses
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658954:por
+  label: Alterados os art.s 2.º, 4.º e 4.º-A do Dec Lei 391/86 de 22-nov, na redação do presente diploma, pelo DEC LEI.251/94.1994.10.17.PCM,
+    DR.IS-A [240]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1994-658954
+  date: '1994-10-17'
+- type: cites
+  target: pt:dre:219140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419474:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448748:por
+  label: Revogado o Dec Lei 391/86 de 22-nov, na redacção do presente diploma, pelo DEC LEI.252/2002.2002.11.22.PCM DR.IS-A
+    [270]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2002-448748
+  date: '2002-11-22'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:38Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +142,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 2.º, 4.º e 4.º-A do [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro, alterados pelo [Decreto-Lei n.º 320-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-1988-241021), de 20 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º, 4.º e 4.º-A do [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro, alterados pelo [Decreto-Lei n.º 320-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-1988-241021), de 20 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 ...
+Art. 2.º - 1 ...
 
 a) ...
 
@@ -125,7 +164,7 @@ d) ...
 
 6 - (Redacção do anterior n.º 5.)
 
-###### Art. 4.º - 1 - Na dependência do presidente da Comissão Nacional é criada uma Comissão Executiva, coordenada pelo comissário-geral e integrada por dois coordenadores-adjuntos e por um número de vogais não inferior a dois nem superior a quatro, sendo um deles o representante do Ministro das Finanças.
+Art. 4.º - 1 - Na dependência do presidente da Comissão Nacional é criada uma Comissão Executiva, coordenada pelo comissário-geral e integrada por dois coordenadores-adjuntos e por um número de vogais não inferior a dois nem superior a quatro, sendo um deles o representante do Ministro das Finanças.
 
 2 - ...
 
@@ -141,7 +180,7 @@ d) ...
 
 8 - O regime remuneratório do coordenador, dos coordenadores-adjuntos e dos vogais é fixado por despacho do Primeiro-Ministro.
 
-###### Art. 4.º-A - 1 - ...
+Art. 4.º-A - 1 - ...
 
 2 - Aos coordenadores-adjuntos cabe coadjuvar o coordenador e exercer as competências que por este lhes sejam delegadas.
 
@@ -149,21 +188,21 @@ Para publicar no Boletim Oficial de Macau.
 
 Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Carlos Manuel Tavares da Silva - Luís Francisco Valente de Oliveira - Vítor Ângelo Mendes da Costa Martins - Roberto Artur da Luz Carneiro - Albino Azevedo Soares.
 
-**Promulgado em 13 de Outubro de 1989.**
+Promulgado em 13 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1989.**
+Referendado em 17 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 
-###### Artigo 1.º É criada a Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, que tem por atribuições a preparação, organização e coordenação a nível interno e externo das celebrações dessas efemérides.
+Artigo 1.º É criada a Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, que tem por atribuições a preparação, organização e coordenação a nível interno e externo das celebrações dessas efemérides.
 
-###### Art. 2.º - 1 - A Comissão Nacional é composta por um presidente, por um comissário-geral e pelos seguintes vogais:
+Art. 2.º - 1 - A Comissão Nacional é composta por um presidente, por um comissário-geral e pelos seguintes vogais:
 
 a) Um representante de cada um dos membros do Governo responsáveis pelas seguintes áreas governamentais:
 
@@ -215,7 +254,7 @@ d) Representantes de outras instituições e personalidades cuja colaboração s
 
 6 - Sempre que a projecção internacional das efemérides o justificar, a Comissão Nacional poderá, por decisão do Governo, colaborar com comissões ou entidades semelhantes de outros países, também empenhadas nas comemorações das navegações portuguesas.
 
-###### Art. 2.º-A - 1 - Compete à Comissão Nacional:
+Art. 2.º-A - 1 - Compete à Comissão Nacional:
 
 a) Definir as linhas gerais de actuação para as comemorações dos Descobrimentos Portugueses;
 
@@ -227,7 +266,7 @@ d) Pronunciar-se sobre todos os assuntos submetidos à sua apreciação pela Com
 
 2 - A Comissão Nacional reúne, ordinariamente, de três em três meses e, extraordinariamente, sempre que convocada pelo seu presidente, por sua iniciativa ou a solicitação de, pelo menos, metade dos seus membros.
 
-###### Art. 3.º - 1 - Cabe ao presidente da Comissão Nacional:
+Art. 3.º - 1 - Cabe ao presidente da Comissão Nacional:
 
 a) Convocar e presidir às reuniões da Comissão Nacional e coordenar os seus trabalhos;
 
@@ -255,7 +294,7 @@ f) Representar a Comissão Nacional em juízo;
 
 g) Exercer as demais competências cometidas pelo presente diploma.
 
-###### Art. 4.º - 1 - Na dependência do presidente da Comissão Nacional é criada uma Comissão Executiva, coordenada pelo comissário-geral e integrada por dois coordenadores-adjuntos e por um número de vogais não inferior a dois nem superior a quatro, sendo um deles o representante do Ministro das Finanças.
+Art. 4.º - 1 - Na dependência do presidente da Comissão Nacional é criada uma Comissão Executiva, coordenada pelo comissário-geral e integrada por dois coordenadores-adjuntos e por um número de vogais não inferior a dois nem superior a quatro, sendo um deles o representante do Ministro das Finanças.
 
 2 - Compete à Comissão Executiva:
 
@@ -281,7 +320,7 @@ e) Garantir apoio administrativo à Comissão Nacional.
 
 8 - O regime remuneratório do coordenador, dos coordenadores-adjuntos e dos vogais é fixado por despacho do Primeiro-Ministro.
 
-###### Art. 4.º-A - 1 - Ao coordenador da Comissão Executiva cabe:
+Art. 4.º-A - 1 - Ao coordenador da Comissão Executiva cabe:
 
 a) Organizar e dirigir todas as actividades da Comissão Executiva;
 
@@ -295,7 +334,7 @@ e) Exercer as demais competências que lhe são atribuídas pelo presente diplom
 
 2 - Aos coordenadores-adjuntos cabe coadjuvar o coordenador e exercer as competências que por este lhes sejam delegadas.
 
-###### Art. 5.º - 1 - Na dependência do presidente da Comissão Nacional é criado um Conselho Interdepartamental, ao qual compete promover a articulação das acções desenvolvidas pelos diversos departamentos governamentais com o programa de actividades da Comissão Nacional.
+Art. 5.º - 1 - Na dependência do presidente da Comissão Nacional é criado um Conselho Interdepartamental, ao qual compete promover a articulação das acções desenvolvidas pelos diversos departamentos governamentais com o programa de actividades da Comissão Nacional.
 
 2 - O Conselho Interdepartamental é presidido pelo presidente da Comissão Nacional, sendo a vice-presidência atribuída ao comissário-geral, e integra representantes dos membros do Governo em cujas áreas se desenvolva ou venha a desenvolver qualquer actividade no âmbito das comemorações dos Descobrimentos Portugueses.
 
@@ -303,15 +342,15 @@ e) Exercer as demais competências que lhe são atribuídas pelo presente diplom
 
 4 - O Conselho Interdepartamental reúne, ordinariamente, de três em três meses e, extraordinariamente, sempre que convocado pelo seu presidente.
 
-###### Art. 5.º-A - 1 - Será criado, por despacho do Primeiro-Ministro, sob proposta da Comissão Nacional, um Conselho Científico, a quem compete a emissão de pareceres, em matérias de carácter histórico e científico, a solicitação da Comissão Nacional, da Comissão Executiva e do Comissariado de Portugal para a Exposição Universal de Sevilha de 1992.
+Art. 5.º-A - 1 - Será criado, por despacho do Primeiro-Ministro, sob proposta da Comissão Nacional, um Conselho Científico, a quem compete a emissão de pareceres, em matérias de carácter histórico e científico, a solicitação da Comissão Nacional, da Comissão Executiva e do Comissariado de Portugal para a Exposição Universal de Sevilha de 1992.
 
 2 - O despacho referido no número anterior determinará também a composição e a presidência do referido Conselho.
 
-###### Art. 6.º - 1 - O apoio técnico e administrativo à Comissão Nacional é prestado pelos serviços das áreas governamentais nela representados, sendo delegada no comissário-geral a competência para proceder às respectivas requisições.
+Art. 6.º - 1 - O apoio técnico e administrativo à Comissão Nacional é prestado pelos serviços das áreas governamentais nela representados, sendo delegada no comissário-geral a competência para proceder às respectivas requisições.
 
 2 - Fica também delegada no comissário-geral a competência para proceder ao destacamento e à requisição de pessoal de outros serviços ou organismos, nos termos do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, nomeadamente do seu artigo 37.º
 
-###### Art. 7.º - 1 - A competência para a autorização de despesas da Comissão considera-se delegada no presidente, ficando as despesas isentas da formalidade de concurso, não estando os contratos que celebrar sujeitos ao visto do Tribunal de Contas.
+Art. 7.º - 1 - A competência para a autorização de despesas da Comissão considera-se delegada no presidente, ficando as despesas isentas da formalidade de concurso, não estando os contratos que celebrar sujeitos ao visto do Tribunal de Contas.
 
 2 - Para o ano de 1986 as despesas da Comissão serão cobertas por dotação global da Presidência do Conselho de Ministros, no montante de 50000 contos.
 
@@ -327,18 +366,18 @@ e) Exercer as demais competências que lhe são atribuídas pelo presente diplom
 
 8 - As competências referidas nos n.os 1, 5 e 7 podem ser cometidas ao comissário-geral por despacho do presidente da Comissão Nacional.
 
-###### Art. 8.º Serão emitidas moedas comemorativas alusivas aos Descobrimentos Portugueses, cujos lucros de amoedação serão postos pelo Ministério das Finanças à disposição da Comissão Nacional, mediante a abertura de competente crédito especial, com compensação no referido produto, a escriturar no orçamento das receitas do Estado, sob o capítulo 08 «Outras receitas correntes», artigo 05 «Lucros de amoedação».
+Art. 8.º Serão emitidas moedas comemorativas alusivas aos Descobrimentos Portugueses, cujos lucros de amoedação serão postos pelo Ministério das Finanças à disposição da Comissão Nacional, mediante a abertura de competente crédito especial, com compensação no referido produto, a escriturar no orçamento das receitas do Estado, sob o capítulo 08 «Outras receitas correntes», artigo 05 «Lucros de amoedação».
 
-###### Art. 9.º A Comissão Nacional é considerada como instituição de interesse cultural para efeitos de aplicação dos benefícios fiscais previstos no [Decreto-Lei n.º 258/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1986-219140), de 28 de Agosto, aos donativos, subsídios e comparticipações concedidos por quaisquer pessoas singulares ou colectivas a favor da Comissão.
+Art. 9.º A Comissão Nacional é considerada como instituição de interesse cultural para efeitos de aplicação dos benefícios fiscais previstos no [Decreto-Lei n.º 258/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1986-219140), de 28 de Agosto, aos donativos, subsídios e comparticipações concedidos por quaisquer pessoas singulares ou colectivas a favor da Comissão.
 
-###### Art. 10.º - 1 - Os membros da Comissão Nacional e do Conselho Interdepartamental exercem, nessa qualidade, as suas funções a título gracioso, sem prejuízo do reembolso das despesas efectuadas no desempenho das funções que lhes forem cometidas.
+Art. 10.º - 1 - Os membros da Comissão Nacional e do Conselho Interdepartamental exercem, nessa qualidade, as suas funções a título gracioso, sem prejuízo do reembolso das despesas efectuadas no desempenho das funções que lhes forem cometidas.
 
 2 - Os membros do Conselho Científico poderão ser remunerados, no âmbito das suas funções, pelos trabalhos e estudos efectuados e cuja realização lhes tenha sido solicitada.
 
-###### Art. 11.º O trabalho prestado à Comissão Nacional ou o exercício de funções como membro da Comissão Executiva suspende, a requerimento do interessado, a contagem dos prazos para a apresentação de relatórios curriculares ou prestação de provas para a carreira docente do ensino superior ou para a de investigação científica, bem como a contagem dos prazos dos contratos de professores convidados, assistentes, assistentes estagiários e assistentes convidados.
+Art. 11.º O trabalho prestado à Comissão Nacional ou o exercício de funções como membro da Comissão Executiva suspende, a requerimento do interessado, a contagem dos prazos para a apresentação de relatórios curriculares ou prestação de provas para a carreira docente do ensino superior ou para a de investigação científica, bem como a contagem dos prazos dos contratos de professores convidados, assistentes, assistentes estagiários e assistentes convidados.
 
-###### Art. 12.º - 1 - Os vogais da Comissão Nacional referidos nas alíneas b), c) e d) do n.º 1 do artigo 2.º não carecem de novo despacho de nomeação nos casos em que a representação recaia sobre funcionários ou agentes, personalidades ou individualidades já nomeados anteriormente para integrarem aquela Comissão.
+Art. 12.º - 1 - Os vogais da Comissão Nacional referidos nas alíneas b), c) e d) do n.º 1 do artigo 2.º não carecem de novo despacho de nomeação nos casos em que a representação recaia sobre funcionários ou agentes, personalidades ou individualidades já nomeados anteriormente para integrarem aquela Comissão.
 
 2 - Nos casos em que se pretenda que os funcionários e agentes anteriormente requisitados para prestar apoio à Comissão Nacional, ao abrigo do artigo 6.º do [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro, mantenham essa situação não é necessário que seja proferido novo despacho de requisição.
 
-###### Art. 13.º O Primeiro-Ministro pode delegar as competências que lhe são atribuídas pelo presente diploma.
+Art. 13.º O Primeiro-Ministro pode delegar as competências que lhe são atribuídas pelo presente diploma.

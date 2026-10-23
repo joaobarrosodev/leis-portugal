@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21800/42174219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1989-547664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8efb87ac56c0aea81800503a0ba3317223fadb4d3d93f152a4aa5b635ecf6429
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f1f77c5576105d3e95f34b2a4dc5e0599a0dc808f68eb4d02219a61d18b72b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo do Trabalho
+- Definição de Competências
+- Despedimento
+- Direito do Trabalho
+- Julgamento
+- Notificação
+- Processo Judicial
+- Processo Laboral
+- Recurso
+- Trabalhador
+- Trabalho
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478257:por
+  label: "Alterado o art. 21º do Código de Processo do Trabalho, aprovado pelo Dec Lei 272-A/81, de 30-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.65/91.08.02.1991.MJ, DR.IS-A [33] de 08.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1991-478257
+  date: '1991-02-08'
+- type: amended_by
+  target: pt:dre:534074:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, do art. 1º, na parte em que dá nova redacção ao\
+    \ art. 26º do Dec Lei 272-A/81, de 30-Set, pelo AC.805/93.1993.11.30.TCS DR.IS-A [2] de 04/Jan/1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/805-1994-534074
+  date: '1993-11-30'
+- type: cites
+  target: pt:dre:329610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 17
+  article_count: 16
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:18Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +135,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 21.º, 26.º e 36.º do Código de Processo do Trabalho, aprovado pelo [Decreto-Lei n.º 272-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-a-1981-329610), de 30 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 21.º, 26.º e 36.º do Código de Processo do Trabalho, aprovado pelo [Decreto-Lei n.º 272-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-a-1981-329610), de 30 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 21.º — [...]
 
@@ -142,7 +179,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - Para os efeitos dos números anteriores, a secretaria informará os magistrados das acções que se encontram em condições de poderem ser apensadas.
 
-###### Art. 2.º Ao Código de Processo do Trabalho, aprovado pelo [Decreto-Lei n.º 272-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-a-1981-329610), de 30 de Setembro, são aditados os seguintes preceitos:
+Art. 2.º Ao Código de Processo do Trabalho, aprovado pelo [Decreto-Lei n.º 272-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-a-1981-329610), de 30 de Setembro, são aditados os seguintes preceitos:
 
 a) No livro I, título II, capítulo II, secção II, é aditado o artigo 16.º-A, com a seguinte redacção:
 
@@ -180,7 +217,7 @@ A suspensão do despedimento só é decretada se manifestamente não tiverem sid
 
 É aplicável à suspensão do despedimento o disposto nos artigos 39.º, 43.º, n.os 2 e 3, 44.º e 45.º, n.os 1 e 2.
 
-###### Art. 3.º No livro I, título VI, o actual capítulo II passa a capítulo III, sendo aditado um novo capítulo II, com os artigos 156.º-A a 156.º - H, com a seguinte redacção:
+Art. 3.º No livro I, título VI, o actual capítulo II passa a capítulo III, sendo aditado um novo capítulo II, com os artigos 156.º-A a 156.º - H, com a seguinte redacção:
 
 ### CAPÍTULO II — Processo de impugnação de despedimento colectivo
 
@@ -250,12 +287,12 @@ Se o processo houver de prosseguir, a audiência de discussão e julgamento pode
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Albino da Silva Peneda.
 
-**Promulgado em 8 de Setembro de 1989.**
+Promulgado em 8 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1988.**
+Referendado em 12 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18249-1961-555850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbc51cfb3ffe703543291103a1a9631a90dc79d66bb49e03c665e0d943052d30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c162155df262205fb7ce97aac7eebda229a49bd9d98a47e978bb3a4a8f23ecba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:55Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +103,7 @@ a) Reforçar, com as quantias que se indicam, as seguintes verbas da tabela de d
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 258.º «Deslocações do pessoal»:
+Artigo 258.º «Deslocações do pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 30000$00
 
@@ -103,11 +115,11 @@ tomando como contrapartida as disponibilidades que se discriminam da mesma tabel
 
 ### CAPÍTULO 7.º — Serviços de economia
 
-###### Artigo 204.º, n.º 1) «Despesa com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 70000$00
+Artigo 204.º, n.º 1) «Despesa com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 70000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 259.º, n.º 23), alínea a) «Diversas despesas - Despesas com a assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado - Na metrópole» ... 30000$00
+Artigo 259.º, n.º 23), alínea a) «Diversas despesas - Despesas com a assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado - Na metrópole» ... 30000$00
 
 ... 100000$00
 
@@ -121,7 +133,7 @@ d) Reforçar com 50000$00 a verba do capítulo 10.º, artigo 220.º, n.º 4), al
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 229.º «Deslocações do pessoal»:
+Artigo 229.º «Deslocações do pessoal»:
 
 N.º 4) «Passagens de ou para o exterior»:
 
@@ -129,7 +141,7 @@ Alínea a) «Por motivo de licença graciosa - A pagar na metrópole» ... 30000
 
 Alínea b) «Por quaisquer outros motivos - A pagar na metrópole» ... 40000$00
 
-###### Artigo 230.º, n.º 2), alínea c) «Diversas despesas - Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de regresso» ... 4000$00
+Artigo 230.º, n.º 2), alínea c) «Diversas despesas - Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de regresso» ... 4000$00
 
 ... 74000$00
 

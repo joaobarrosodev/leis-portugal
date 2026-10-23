@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18315-1961-561214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c08f893f0f2e2a896bf9c7f415324c3de97c1513d086f83924f30a2590aff70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb3d10cc38106af8b1ae214ffd75652012c86a4298d8f7904aaac8d7e9efb662
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,29 @@ relationships:
   target: pt:dre:628358:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628358:por
+  label: "Alterado o art. 22º, e seu § único, do Regulamento, pela PORT.19849.08.05.1963.MU, DG.IS [109] de 08.05.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19849-1963-628358
+  date: '1963-05-08'
+- type: cites
+  target: pt:dre:467818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513984:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:23Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +103,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 REGULAMENTO PRIVATIVO DA INSPECÇÃO SUPERIOR DE JUSTIÇA
 
-###### Artigo 1.º A Inspecção Superior de Justiça depende directamente da Direcção-Geral de Justiça do Ministério do Ultramar.
+Artigo 1.º A Inspecção Superior de Justiça depende directamente da Direcção-Geral de Justiça do Ministério do Ultramar.
 
-###### Art. 2.º O expediente da Inspecção Superior de Justiça do Ultramar correrá pela Direcção-Geral de Justiça, sob a imediata superintendência do director-geral.
+Art. 2.º O expediente da Inspecção Superior de Justiça do Ultramar correrá pela Direcção-Geral de Justiça, sob a imediata superintendência do director-geral.
 
-###### Art. 3.º A competência fiscalizadora da Inspecção Superior de Justiça abrange os seguintes serviços:
+Art. 3.º A competência fiscalizadora da Inspecção Superior de Justiça abrange os seguintes serviços:
 
 a) Tribunais de comarca e inferiores;
 
@@ -116,17 +129,17 @@ i) Quaisquer outros serviços que o Ministro determinar.
 
 § único. A acção do inspector superior de Justiça poderá estender-se aos serviços das Relações e Procuradorias da República, mediante ordem ministerial expressa, precedida de audição do Conselho Superior Judiciário.
 
-###### Art. 4.º O ordenamento das inspecções e a indicação dos inspectores que as devem efectuar são da competência do Ministro do Ultramar e terão por base planos anuais elaborados pelo Conselho Superior Judiciário.
+Art. 4.º O ordenamento das inspecções e a indicação dos inspectores que as devem efectuar são da competência do Ministro do Ultramar e terão por base planos anuais elaborados pelo Conselho Superior Judiciário.
 
 § 1.º Na elaboração dos planos das inspecções deve-se procurar assegurar que todos os tribunais sejam inspeccionados, quanto possível, pelo menos, de três em três anos, e dar prioridade àqueles que há mais tempo não tenham sido inspeccionados ou de que haja conhecimento ou suspeita de não funcionarem regularmente.
 
 § 2.º Para o efeito da distribuição do serviço pelos inspectores, poder-se-á dividir o ultramar em duas zonas, compreendendo uma as províncias do Oriente e outra as do Ocidente, e atribuí-las alternadamente a cada um dos inspectores.
 
-###### Art. 5.º Fora do plano das inspecções ordinárias, o Ministro do Ultramar, ouvido o Conselho Superior Judiciário, poderá ordenar as extraordinárias que julgar convenientes e até encarregar da sua realização qualquer magistrado estranho ao quadro dos inspectores.
+Art. 5.º Fora do plano das inspecções ordinárias, o Ministro do Ultramar, ouvido o Conselho Superior Judiciário, poderá ordenar as extraordinárias que julgar convenientes e até encarregar da sua realização qualquer magistrado estranho ao quadro dos inspectores.
 
 § único. O magistrado nomeado nos termos deste artigo deverá ter categoria igual ou superior à daqueles cujos actos forem abrangidos pela inspecção e são-lhe extensivas, na parte aplicável, as disposições respeitantes ao serviço dos inspectores.
 
-###### Art. 6.º As inspecções têm por principal objectivo conhecer o estado, necessidades e deficiências dos serviços, com vista a habilitar o Ministro do Ultramar a tomar as providências que se imponham, para o seu eficiente funcionamento.
+Art. 6.º As inspecções têm por principal objectivo conhecer o estado, necessidades e deficiências dos serviços, com vista a habilitar o Ministro do Ultramar a tomar as providências que se imponham, para o seu eficiente funcionamento.
 
 Complementarmente, as inspecções destinam-se a colher informações sobre o serviço e mérito dos magistrados e funcionários, para se proceder à sua classificação e correcção disciplinar.
 
@@ -134,33 +147,33 @@ Ari. 7.º Os inspectores superiores deverão permanecer no ultramar, em cada ano
 
 § único. Nas sedes dos serviços a inspeccionar, o governador da província facultará ao inspector residência e instalações condignas para os serviços da inspecção.
 
-###### Art. 8.º As inspecções às comarcas deverão abranger a actividade, nos últimos três anos, de todos os serviços nelas compreendidos.
+Art. 8.º As inspecções às comarcas deverão abranger a actividade, nos últimos três anos, de todos os serviços nelas compreendidos.
 
 § único. O período de três anos referido neste artigo pode ser alterado pelo Ministro, ouvido o Conselho Superior Judiciário ou mediante proposta deste.
 
-###### Art. 9.º Os inspectores comunicarão o início e o termo de cada inspecção à Direcção-Geral de Justiça, ao governador da respectiva província e ao presidente da respectiva Relação. Sempre que a inspecção abranja serviços dependentes das Procuradorias da República, deverá o inspector fazer idêntica comunicação ao respectivo procurador.
+Art. 9.º Os inspectores comunicarão o início e o termo de cada inspecção à Direcção-Geral de Justiça, ao governador da respectiva província e ao presidente da respectiva Relação. Sempre que a inspecção abranja serviços dependentes das Procuradorias da República, deverá o inspector fazer idêntica comunicação ao respectivo procurador.
 
-###### Art. 10.º As inspecções deverão ser efectuadas no mais curto prazo possível, sem prejuízo, porém, da sua finalidade. Em regra, esse prazo não deverá exceder sessenta dias em relação a cada comarca ou vara e serviços anexos, a não ser que circunstâncias anormais motivem a sua ampliação, da qual se fará justificação no respectivo relatório.
+Art. 10.º As inspecções deverão ser efectuadas no mais curto prazo possível, sem prejuízo, porém, da sua finalidade. Em regra, esse prazo não deverá exceder sessenta dias em relação a cada comarca ou vara e serviços anexos, a não ser que circunstâncias anormais motivem a sua ampliação, da qual se fará justificação no respectivo relatório.
 
 § único. No prazo referido neste artigo não se contará o tempo necessário para a instrução dos processos mencionados no artigo 23.º
 
-###### Art. 11.º O inspector requisitará à Direcção-Geral de Justiça, às Relações e às Procuradorias da República, conforme o caso, um extracto do registo disciplinar e biográfico dos magistrados e funcionários abrangidos pela inspecção e, bem assim, cópia das suas informações de serviço.
+Art. 11.º O inspector requisitará à Direcção-Geral de Justiça, às Relações e às Procuradorias da República, conforme o caso, um extracto do registo disciplinar e biográfico dos magistrados e funcionários abrangidos pela inspecção e, bem assim, cópia das suas informações de serviço.
 
-###### Art. 12.º Durante a realização das inspecções às comarcas, varas ou julgados municipais, os respectivos juízes porão à disposição do inspector um gabinete convenientemente mobilado e provido do material necessário à execução dos seus trabalhos.
+Art. 12.º Durante a realização das inspecções às comarcas, varas ou julgados municipais, os respectivos juízes porão à disposição do inspector um gabinete convenientemente mobilado e provido do material necessário à execução dos seus trabalhos.
 
-###### Art. 13.º Os magistrados judiciais e do Ministério Público fornecerão aos inspectores todos os elementos e informações de que estes carecerem no desempenho das suas funções, constituindo infracção disciplinar a preterição deste dever ou o seu irregular cumprimento.
+Art. 13.º Os magistrados judiciais e do Ministério Público fornecerão aos inspectores todos os elementos e informações de que estes carecerem no desempenho das suas funções, constituindo infracção disciplinar a preterição deste dever ou o seu irregular cumprimento.
 
-###### Art. 14.º Os conservadores do registo predial, comercial, civil e da propriedade automóvel, os directores da Polícia Judiciária e de estabelecimentos prisionais, os notários, os distribuidores gerais, os escrivães de direito e contadores distribuidores são obrigados a organizar e entregar aos inspectores, nos prazos por eles marcados, as certidões e mapas que eles pedirem e, bem assim, a apresentar, na sua residência ou no local por eles designado, os processos e livros que indicarem.
+Art. 14.º Os conservadores do registo predial, comercial, civil e da propriedade automóvel, os directores da Polícia Judiciária e de estabelecimentos prisionais, os notários, os distribuidores gerais, os escrivães de direito e contadores distribuidores são obrigados a organizar e entregar aos inspectores, nos prazos por eles marcados, as certidões e mapas que eles pedirem e, bem assim, a apresentar, na sua residência ou no local por eles designado, os processos e livros que indicarem.
 
 § 1.º O não cumprimento do preceituado neste artigo constituirá infracção disciplinar.
 
 § 2.º Quando algum processo não puder ser apresentado nos termos deste artigo, por se encontrar em poder do juiz ou do magistrado do Ministério Público ou com vista às partes, deverá o escrivão informar desta circunstância o inspector.
 
-###### Art. 15.º Os processos e livros a apresentar ao inspector em cumprimento do artigo 14.º serão relacionados em duplicado, devendo um dos exemplares da relação ser restituído ao funcionário responsável pela apresentação, depois de feita a conferência na sua presença e de verificada a sua exactidão.
+Art. 15.º Os processos e livros a apresentar ao inspector em cumprimento do artigo 14.º serão relacionados em duplicado, devendo um dos exemplares da relação ser restituído ao funcionário responsável pela apresentação, depois de feita a conferência na sua presença e de verificada a sua exactidão.
 
-###### Art. 16.º As indagações dos inspectores terão por objecto a organização e funcionamento dos serviços e todos os actos dos magistrados e funcionários que sirvam para apreciar não só a sua competência, dedicação e zelo, como também a sua inteligência, cultura, independência, austeridade de carácter, energia física e moral e demais qualidades necessárias ao prestígio das suas funções.
+Art. 16.º As indagações dos inspectores terão por objecto a organização e funcionamento dos serviços e todos os actos dos magistrados e funcionários que sirvam para apreciar não só a sua competência, dedicação e zelo, como também a sua inteligência, cultura, independência, austeridade de carácter, energia física e moral e demais qualidades necessárias ao prestígio das suas funções.
 
-###### Art. 17.º Os inspectores averiguarão, em especial:
+Art. 17.º Os inspectores averiguarão, em especial:
 
 1.º Se os magistrados observam os prazos marcados na lei e são em geral diligentes em suas promoções, despachos e sentenças;
 
@@ -214,25 +227,25 @@ Ari. 7.º Os inspectores superiores deverão permanecer no ultramar, em cada ano
 
 26.º Se há necessidade de alterar a área da comarca.
 
-###### Art. 18.º Os inspectores receberão as participações que lhes forem apresentadas sobre as irregularidades do serviço a inspeccionar.
+Art. 18.º Os inspectores receberão as participações que lhes forem apresentadas sobre as irregularidades do serviço a inspeccionar.
 
-###### Art. 19.º Os inspectores têm competência para levantar autos, inquirir testemunhas, tomar declarações, fazer exames, ordenar notificações por um dos cartórios da comarca onde estiverem, e poderão requisitar, por correspondência oficial postal ou telegráfica, de quaisquer autoridades ou repartições públicas, as informações e diligências de que carecerem.
+Art. 19.º Os inspectores têm competência para levantar autos, inquirir testemunhas, tomar declarações, fazer exames, ordenar notificações por um dos cartórios da comarca onde estiverem, e poderão requisitar, por correspondência oficial postal ou telegráfica, de quaisquer autoridades ou repartições públicas, as informações e diligências de que carecerem.
 
 § único. Durante o tempo de permanência do inspector na comarca um dos oficiais de diligências prestar-lhe-á o serviço próprio do seu cargo.
 
-###### Art. 20.º Os inspectores poderão ouvir sobre a conduta do pessoal inspeccionado as pessoas da comarca que, pela sua posição social e pela sua reconhecida honestidade, estejam em condições de formular um juízo desassombrado sobre a sua reputação.
+Art. 20.º Os inspectores poderão ouvir sobre a conduta do pessoal inspeccionado as pessoas da comarca que, pela sua posição social e pela sua reconhecida honestidade, estejam em condições de formular um juízo desassombrado sobre a sua reputação.
 
-###### Art. 21.º Aos inspectores nenhuma ingerência é permitida na ordem ou na execução dos serviços a inspeccionar, que evitarão quanto possível perturbar.
+Art. 21.º Aos inspectores nenhuma ingerência é permitida na ordem ou na execução dos serviços a inspeccionar, que evitarão quanto possível perturbar.
 
-###### Art. 22.º Nas inspecções não há lugar à audição dos magistrados e funcionários inspeccionados, salvo se o inspector a julgar indispensável para a formação do seu juízo.
+Art. 22.º Nas inspecções não há lugar à audição dos magistrados e funcionários inspeccionados, salvo se o inspector a julgar indispensável para a formação do seu juízo.
 
 § único. O Conselho Superior Judiciário do Ultramar sòmente poderá determiná-la quando os factos relatados na inspecção constituírem faltas, que importem sanção disciplinar.
 
-###### Art. 23.º Se no decorrer da inspecção forem notadas faltas de natureza grave, o inspector poderá instaurar, simultâneamente com a inspecção, processo disciplinar contra os magistrados ou funcionários arguidos de as terem cometido, ou propor ao Conselho Superior Judiciário a instauração de inquérito ou sindicância.
+Art. 23.º Se no decorrer da inspecção forem notadas faltas de natureza grave, o inspector poderá instaurar, simultâneamente com a inspecção, processo disciplinar contra os magistrados ou funcionários arguidos de as terem cometido, ou propor ao Conselho Superior Judiciário a instauração de inquérito ou sindicância.
 
 § único. Se as circunstâncias aconselharem a adopção de qualquer medida que não esteja na competência do inspector, deverá este propô-la imediatamente, sem contudo interromper a inspecção.
 
-###### Art. 24.º A inspecção terminará por um relatório, em que se fará, por forma clara e precisa, a apreciação da organização e funcionamento dos serviços e dos méritos e deméritos do pessoal.
+Art. 24.º A inspecção terminará por um relatório, em que se fará, por forma clara e precisa, a apreciação da organização e funcionamento dos serviços e dos méritos e deméritos do pessoal.
 
 § 1.º O relatório compreenderá normalmente os seguintes capítulos:
 
@@ -268,25 +281,25 @@ XIII - Apreciação do serviço dos funcionários.
 
 § 4.º Os capítulos XI, XII e XIII serão desdobrados em tantas informações quantos forem os magistrados e funcionários abrangidos pela inspecção. Estas informações serão elaboradas em triplicado e fundamentadas com o resumo ou transcrição das passagens dos outros capítulos do relatório em que se apoia a apreciação do serviço do magistrado ou funcionário. Um exemplar será incorporado no processo e os outros dois constituirão seus apensos, para, após a apreciação e julgamento definitivo dos resultados da inspecção, serem dispensados e arquivados, um no processo individual do interessado e o outro no arquivo da Inspecção.
 
-###### Art. 25.º O processo de inspecção será instruído sumàriamente, mas conterá sempre os elementos necessários para a justificação das conclusões formuladas no relatório.
+Art. 25.º O processo de inspecção será instruído sumàriamente, mas conterá sempre os elementos necessários para a justificação das conclusões formuladas no relatório.
 
-###### Art. 26.º O processo de inspecção é absolutamente secreto e, logo que concluído, será enviado, pelo correio, devidamente registado, ao Conselho Superior Judiciário do Ultramar.
+Art. 26.º O processo de inspecção é absolutamente secreto e, logo que concluído, será enviado, pelo correio, devidamente registado, ao Conselho Superior Judiciário do Ultramar.
 
-###### Art. 27.º No Conselho Superior Judiciário o processo de inspecção seguirá os trâmites prescritos na Organização Judiciária do Ultramar e no Regimento do Conselho Ultramarino e culminará por um acórdão, em que se proporão ao Ministro da Ultramar as classificações a atribuir, em conformidade com a legislação vigente, aos magistrados e funcionários, e as providências a tomar, conducentes à melhoria dos servidos e à correcção das faltas verificadas.
+Art. 27.º No Conselho Superior Judiciário o processo de inspecção seguirá os trâmites prescritos na Organização Judiciária do Ultramar e no Regimento do Conselho Ultramarino e culminará por um acórdão, em que se proporão ao Ministro da Ultramar as classificações a atribuir, em conformidade com a legislação vigente, aos magistrados e funcionários, e as providências a tomar, conducentes à melhoria dos servidos e à correcção das faltas verificadas.
 
-###### Art. 28.º Os inspectores superiores correspondem-se oficial e directamente com todas as autoridades, designadamente com o Ministro do Ultramar, por intermédio da Direcção-Geral de Justiça, presidente do Conselho Superior Judiciário e governadores das províncias ultramarinas, por via postal ou telegráfica, e podem usar de cifra própria em assuntos confidenciais ou secretos.
+Art. 28.º Os inspectores superiores correspondem-se oficial e directamente com todas as autoridades, designadamente com o Ministro do Ultramar, por intermédio da Direcção-Geral de Justiça, presidente do Conselho Superior Judiciário e governadores das províncias ultramarinas, por via postal ou telegráfica, e podem usar de cifra própria em assuntos confidenciais ou secretos.
 
-###### Art. 29.º Nas inspecções, cada inspector será assistido de um secretário nomeado pelo Ministro do Ultramar, sob proposta sua, entre os funcionários de justiça das províncias ultramarinas.
+Art. 29.º Nas inspecções, cada inspector será assistido de um secretário nomeado pelo Ministro do Ultramar, sob proposta sua, entre os funcionários de justiça das províncias ultramarinas.
 
 § 1.º O secretário nomeado poderá ser dispensado em qualquer altura, se as conveniências do serviço o exigirem.
 
 § 2.º Na falta ou impedimento do secretário poderá o inspector requisitar ao presidente da Relação do distrito judicial a que pertencer a comarca a inspeccionar um funcionário de justiça para o substituir.
 
-###### Art. 30.º O secretário nomeado ou requisitado tem os mesmos direitos e regalias dos secretários dos demais inspectores superiores do Ministério do Ultramar.
+Art. 30.º O secretário nomeado ou requisitado tem os mesmos direitos e regalias dos secretários dos demais inspectores superiores do Ministério do Ultramar.
 
 § único. Compete aos governadores das províncias ultramarinas fixar aos secretários requisitados nos termos do § 2.º do artigo 30.º o subsídio diário a que têm direito.
 
-###### Art. 31.º Nos casos omissos observar-se-á o que estiver legislado para as inspecções judiciais da metrópole.
+Art. 31.º Nos casos omissos observar-se-á o que estiver legislado para as inspecções judiciais da metrópole.
 
 Ministério do Ultramar, 11 de Março de 1961. - O Ministro do Ultramar, Vasco Lopes Alves.
 

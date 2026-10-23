@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18371-1961-559178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 379ebe8d4c5afe5a7755f78ad5cd5198ae36bd562164e07fd70a51aea01ec473
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55c53107dc8d17e05b6c2e4a78eb013f5a395afae9c7bf456be3a751083cf1ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:340671:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:36Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +95,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 Na [Portaria n.º 11322](https://diariodarepublica.pt/dr/detalhe/portaria/11322-1946-340671), de 23 de Abril de 1946, são introduzidas as seguintes alterações e aditamentos:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º Desta obrigação ficam exceptuados os funcionários interinos, conforme o § 5.º do citado artigo 160.º, e os que estiverem investidos temporàriamente nos cargos administrativos por substituição ou acumulação, bem como os que prestarem serviço nas repartições provinciais ou distritais, desde que não estejam em permanente contacto com o público.
 
 ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 3.º ...
 
@@ -119,7 +123,7 @@ f) Com os uniformes n.os 6, 7 e 8 os distintivos em metal dourado poderão ser u
 
 ...
 
-###### Art. 11.º São os seguintes os uniformes que os funcionários administrativos deverão usar:
+Art. 11.º São os seguintes os uniformes que os funcionários administrativos deverão usar:
 
 ...
 
@@ -127,7 +131,7 @@ g) Uniforme n.º 7, ou de gabinete;
 
 h) Uniforme n.º 8.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 f) Uniforme n.º 6, ou de campo:
 
@@ -161,7 +165,7 @@ Calça ou calção de caqui; este, sendo curto, com meias altas da mesma cor.
 
 Sapatos de cor, botas altas ou com polainas (da cor das botas).
 
-###### Art. 17.º Os uniformes n.os 6, 7 e 8 são usados por todas as categorias. Os n.os 6 e 8 destinam-se a serviços no campo, podendo também ser permitidos no serviço burocrático das circunscrições e postos, respectivamente nas épocas calmosa e fria. O n.º 7 é permitido no serviço normal dos gabinetes e repartições públicas em qualquer época do ano.
+Art. 17.º Os uniformes n.os 6, 7 e 8 são usados por todas as categorias. Os n.os 6 e 8 destinam-se a serviços no campo, podendo também ser permitidos no serviço burocrático das circunscrições e postos, respectivamente nas épocas calmosa e fria. O n.º 7 é permitido no serviço normal dos gabinetes e repartições públicas em qualquer época do ano.
 
 Ministério do Ultramar, 30 de Março de 1961. - O Ministro do Ultramar, Vasco Lopes Alves.
 
@@ -169,6 +173,6 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Va
 
 Modelo de distintivos para aspirantes administrativos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/03/07400/03550356.pdf))](https://files.diariodarepublica.pt/1s/1961/03/07400/03550356.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/07400/03550356.pdf)
 
 Ministério do Ultramar, 30 de Março de 1961. - O Ministro do Ultramar, Vasco Lopes Alves.

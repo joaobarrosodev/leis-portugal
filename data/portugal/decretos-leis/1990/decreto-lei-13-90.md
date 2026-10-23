@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/00600/00660074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1990-313848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e658d7052174fb338c621a2569cf7137584dd91f1a6a9380ba14dfbcac824d13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6243d2dfae68f34c4747f074e867e92d820694f7b8ee4076ae46dfeac0149e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Cheque
+- Circulação de Capitais
+- Contra-ordenação
+- Definição de Competências
+- Divisa
+- Infracção Cambial
+- Mercado Cambial
+- Ministro das Finanças
+- Multa
+- Operação Cambial
+- OURO
+- Pagamento
+- Política Cambial
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:521595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478263:por
+  label: "Alterados os art.s 34º, 36º, 37º, 38º, 43º e 44º e aditado um art. 37º-A, pelo DEC LEI.64/91.08.02.1991.MF, DR.IS-A\
+    \ [33] de 08.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1991-478263
+  date: '1991-02-08'
+- type: amended_by
+  target: pt:dre:275048:por
+  label: "Alterados os arts. 11º, 15º, 17º, 18º, 19º, 20º, 21º, 22º, 23º, 24º, 28º e 29º e revogado o nº 3 do art. 14º e os\
+    \ arts. 25º, 26º e 27º pelo DEC LEI.170/93.1993.05.11.MF,DR.IS-A [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1993-275048
+  date: '1993-05-11'
+- type: amended_by
+  target: pt:dre:521595:por
+  label: "Aditado o art. 1º-A e alterados os arts. 5º e 19º, pelo DEC LEI.138/98.1998.05.16.MF DR.IS-A [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1998-521595
+  date: '1998-05-16'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618506:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:575529:por
+  label: Rectificados os art. 36º, o nº 2 do art. 38º e nº 1 do art. 43º pela DECL.DD894.1990.03.31 PCM, DR.IS [76]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-575529
+  date: '1990-03-15'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogado pelo DEC LEI.295/2003.21.11.2003.MF, DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2003-11-21'
 article_structure:
   article_count: 51
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:29Z'
   warnings: []
   errors: []
 ---
@@ -537,12 +607,12 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 14 de Dezembro de 1989.**
+Promulgado em 14 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1989.**
+Referendado em 27 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

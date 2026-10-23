@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 48/1989, 2º Suplemento, Série I de 1989-02-27
   number: '48'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 862-(4) a 862-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04802/00040014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,135 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-1989-621302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb47aaf81bce8288edaebc9e16f5b76640c20464bebfcfb66312feb3d2b8012c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fb717c57c32056fe9e45666fd216bd4f9581108b8848a48d080797158fb7f26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Trabalho a Prazo
+- Contrato de Trabalho a Termo
+- Contrato Individual de Trabalho
+- Despedimento
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:632906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:289068:por
+  label: "Alterado o artigo 55.º pelo DEC LEI.403/91.16.10.1991.MESS, DR.IS-A [238] de 16.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/403-1991-289068
+  date: '1991-10-16'
+- type: amended_by
+  target: pt:dre:590337:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma do n.º 5 do artigo 60.º do diploma anexo\
+    \ ao presente diploma, pelo AC.581/95.22.01.1996.TCS, DR.IS-A [18] de 22.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/581-1996-590337
+  date: '1996-01-22'
+- type: amended_by
+  target: pt:dre:323076:por
+  label: "Alterados os arts. 17º, 18º, 23º, 25º e 31º pela LEI.32/99.1999.05.18.AR, DR.IS-A [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-1999-323076
+  date: '1999-05-18'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Alterado o art. 60.º do regime jurídico aprovado pelo presente diploma, pela LEI.118/99.1999.08.11.AR DR.IS-A [186]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:347543:por
+  label: "Aditado o art. 41º-A e alterados os arts 41º, 42º, 46º, 53º e 54º pela LEI.18/2001.2001.07.03.AR, DR.IS-A [152]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-2001-347543
+  date: '2001-06-21'
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558991:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670541:por
+  label: Rectificado pela DECL.DD3934.1989.05.16.PCM DR.IS [124] DE 31/MAI/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670541
+  date: '1989-05-16'
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
   article_count: 65
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:54Z'
   warnings: []
   errors: []
 ---
@@ -205,15 +300,15 @@ Este diploma entra em vigor em todo o território nacional decorridos 90 dias so
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Albino da Silva Peneda.
 
-**Promulgado em 18 de Fevereiro de 1989.**
+Promulgado em 18 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1989.**
+Referendado em 18 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regime jurídico da cessação do contrato individual de trabalho e da celebração e caducidade do contrato de trabalho a termo
 

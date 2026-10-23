@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18343-1961-559997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ad2d1345221a8de3e11439a19af288b4a4d2e6519ec1538f3e9d54ebffdc574
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbafc19f3d49e54e638f11be6abe4246ebf54839cd78208593e0f7d4e1337857
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:254659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:00Z'
   warnings: []
   errors: []
 ---
@@ -85,6 +89,6 @@ validation:
 
 Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, das Finanças, do Ultramar e das Comunicações, que o montante dos subsídios a conceder nos termos dos artigos 9.º e 10.º do [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957, seja no ano de 1961 o seguidamente indicado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/03/06500/02920293.pdf))](https://files.diariodarepublica.pt/1s/1961/03/06500/02920293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/06500/02920293.pdf)
 
 Presidência do Conselho e Ministérios das Finanças, do Ultramar e das Comunicações, 20 de Março de 1961. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Ultramar, Vasco Lopes Alves. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

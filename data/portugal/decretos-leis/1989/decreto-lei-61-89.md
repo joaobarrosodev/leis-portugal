@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04500/07730781.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1989-612429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b83d7892d7a798fc03b462fb79c48caa44064168efb9bea4511d2e44d25f5346
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee9159d5369710e2254e43ef33a1523e8c04d8c1a3d9a1bf4172ed1707355230
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Inatel
+- Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:456211:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455465:por
+  label: Colocado na dependência do Ministro da Solidariedade e Segurança Social o Instituto Nacional para Aproveitamento
+    dos Tempos Livres dos Trabalhadores (INATEL) pelo(a) Decreto-Lei n.º 296-A/95 - Diário da República n.º 266/1995, 1º Suplemento,
+    Série I-A de 1995-11-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição (até à entrada em vigor do Dec Lei 171/2004 de 17-Jul) para o Ministério das Actividades\
+    \ Económicas e do Trabalho do Instituto Nacional para o Aproveitamento dos Tempos Livres dos Trabalhadores (integrado\
+    \ no agora extinto Ministério da Segurança Social e do Trabalho), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl\
+    \ de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade Social do Instituto (integrado no extinto\
+    \ Ministério das Actividades Económicas e do Trabalho), sendo a competência relativa à definição das orientações estratégicas,\
+    \ bem como o acompanhamento da sua execução, seja exercida pelo Ministro do Trabalho e da Solidariedade Social em articulação\
+    \ com o Ministro da Educação, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Determinada a cessação da integração na administração central do Estado, através de novo enquadramento jurídico\
+    \ de fundação de direito privado de utilidade pública, do Instituto Nacional para o Aproveitamento dos Tempos Livres dos\
+    \ Trabalhadores (INATEL), criado pelo Dec Lei 184/75 de 03-Abr e cujos Estatutos constam do presente diploma, pelo DEC\
+    \ LEI.211/2006.27.10.2006.MTSSO, DR.IS [208] de 27.10.2006, nos termos do previsto no respectivo art. 39º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:156988:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456211:por
+  label: "Revogado, a partir de 01.07.2008, o presente diploma, e mantidos em vigor os regulamentos aprovados ao abrigo do\
+    \ mesmo, até à entrada em vigor de novos regulamentos da Fundação INATEL, pelo DEC LEI.106/2008.25.06.2008.MTSSO, DR.IS\
+    \ [121] de 25.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2008-456211
+  date: '2008-06-25'
 article_structure:
-  article_count: 74
+  article_count: 73
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:49Z'
   warnings: []
   errors: []
 ---
@@ -115,25 +160,25 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos do Instituto Nacional para Aproveitamento dos Tempos Livres dos Trabalhadores - INATEL, cujo texto é publicado em anexo ao presente diploma, dele fazendo parte integrante.
+Artigo 1.º São aprovados os Estatutos do Instituto Nacional para Aproveitamento dos Tempos Livres dos Trabalhadores - INATEL, cujo texto é publicado em anexo ao presente diploma, dele fazendo parte integrante.
 
-###### Art. 2.º É revogado o [Decreto-Lei n.º 519-J2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-j2-1979-156988), de 29 de Dezembro, bem como os Estatutos por este aprovados, sem prejuízo do disposto no artigo seguinte.
+Art. 2.º É revogado o [Decreto-Lei n.º 519-J2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-j2-1979-156988), de 29 de Dezembro, bem como os Estatutos por este aprovados, sem prejuízo do disposto no artigo seguinte.
 
-###### Art. 3.º Até è entrada em vigor dos regulamentos relativos à orgânica do INATEL e ao regime do seu pessoal, manter-se-á a actual estrutura e estatuto do pessoal.
+Art. 3.º Até è entrada em vigor dos regulamentos relativos à orgânica do INATEL e ao regime do seu pessoal, manter-se-á a actual estrutura e estatuto do pessoal.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 de Fevereiro de 1989.
+Art. 4.º O presente diploma entra em vigor no dia 1 de Fevereiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 9 de Fevereiro de 1989.**
+Promulgado em 9 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1989.**
+Referendado em 9 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos do Instituto Nacional para Aproveitamento dos Tempos Livres dos Trabalhadores - INATEL
 

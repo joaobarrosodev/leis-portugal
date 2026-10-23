@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18272-1961-554607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fce26fb77f881aac04c96927cfec00ddfa23593bbff4c94e18db1ee5367bd19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e889a4259009639322f52b19a26b2572324d00641c9c5c49505b081a3054360b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:25Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Que o Governo-Geral de Angola reforce com as quantias que se indicam a seguinte verba da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 146.º, n.º 7) «II Plano de Fomento Nacional [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958 - Comunicações e transportes - Telecomunicações»:
+Capítulo 12.º, artigo 146.º, n.º 7) «II Plano de Fomento Nacional [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958 - Comunicações e transportes - Telecomunicações»:
 
 2.ª «Dos empréstimos da metrópole» ... 3000000$00
 
@@ -105,9 +113,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2) Que, como contrapartida, utilize as disponibilidades a seguir indicadas destas verbas da mesma tabela de despesa:
 
-### Capítulo 12.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Capítulo 12.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
-###### Artigo 1458.º «Aproveitamento de recursos»:
+Artigo 1458.º «Aproveitamento de recursos»:
 
 N.º 1) «Agricultura, silvicultura e pecuária»:
 
@@ -119,11 +127,11 @@ N.º 2) «Electricidade e indústrias»:
 
 c) 1.ª «Pesca - Dos empréstimos da metrópole» ... 1500000$00
 
-###### Artigo 1460.º, n.º 4), 2.ª «Comunicações e transportes - Obras fluviais e fluviomarítimas do Chiloango - Das receitas do Fundo de Fomento» ... 5000000$00
+Artigo 1460.º, n.º 4), 2.ª «Comunicações e transportes - Obras fluviais e fluviomarítimas do Chiloango - Das receitas do Fundo de Fomento» ... 5000000$00
 
-###### Artigo 1462.º, n.º 2), 1.ª «Melhoramentos locais - Melhoramentos urbanos e rurais de interesse social - Dos empréstimos da metrópole» ... 1500000$00
+Artigo 1462.º, n.º 2), 1.ª «Melhoramentos locais - Melhoramentos urbanos e rurais de interesse social - Dos empréstimos da metrópole» ... 1500000$00
 
-###### Artigo 1463.º, n.º 1), 1.ª «Equipamento dos serviços públicos - Instalação e apetrechamento do Laboratório de Engenharia Civil de Luanda - Dos saldos das contas de exercícios findos» ... 1000000$00
+Artigo 1463.º, n.º 1), 1.ª «Equipamento dos serviços públicos - Instalação e apetrechamento do Laboratório de Engenharia Civil de Luanda - Dos saldos das contas de exercícios findos» ... 1000000$00
 
 ... 15000000$00
 

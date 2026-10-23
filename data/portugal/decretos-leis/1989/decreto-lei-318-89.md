@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22000/42564257.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ba4b82d86a2480e7beb7a1f7d2f54bc2b6bef9d7bbf6aa49610109658d686ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4c43d6e49c778d86deb11d1ab85bdd18bba55fe030c595bdd0298d8ba7b1492
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Comercial
+- Banco de Investimento
+- Banco de Portugal
+- Controlo Bancário
+- Instituição de Crédito
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:448953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:639491:por
+  label: "Alterado o artigo 1.º, pelo DEC LEI.186/91.17.05.1991.MF, DR.IS-A [113] de 17.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1991-639491
+  date: '1991-05-17'
+- type: cites
+  target: pt:dre:193813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612404:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448953:por
+  label: "Revogado pelo DEC LEI.298/92.31.12.1992.MF, DR.IS-A [301]6ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1992-448953
+  date: '1992-12-31'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:23Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +166,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Compete ao Banco de Portugal, relativamente a todas as instituições sujeitas à sua supervisão, estabelecer os seguintes limites prudenciais à realização de operações que as mesmas estejam autorizadas a praticar:
+Artigo 1.º Compete ao Banco de Portugal, relativamente a todas as instituições sujeitas à sua supervisão, estabelecer os seguintes limites prudenciais à realização de operações que as mesmas estejam autorizadas a praticar:
 
 a) Limites à tomada firme de emissões de títulos e à subscrição indirecta de acções;
 
@@ -122,11 +178,11 @@ d) Limites à concentração de riscos em uma só entidade, em um só sector de 
 
 e) Limites mínimos para as provisões destinadas à cobertura de riscos de crédito ou de quaisquer outros riscos.
 
-###### Art. 2.º Compete de igual modo ao Banco de Portugal fixar os elementos que podem integrar os fundos próprios das instituições sujeitas à sua supervisão, bem como definir as características que os mesmos devem revestir.
+Art. 2.º Compete de igual modo ao Banco de Portugal fixar os elementos que podem integrar os fundos próprios das instituições sujeitas à sua supervisão, bem como definir as características que os mesmos devem revestir.
 
-###### Art. 3.º Os poderes conferidos ao Banco de Portugal nos artigos precedentes serão exercidos mediante aviso publicado no Diário da República.
+Art. 3.º Os poderes conferidos ao Banco de Portugal nos artigos precedentes serão exercidos mediante aviso publicado no Diário da República.
 
-###### Art. 4.º O artigo 4.º do [Decreto-Lei n.º 23/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1986-193813), de 18 de Fevereiro, passa a ter a seguinte redacção:
+Art. 4.º O artigo 4.º do [Decreto-Lei n.º 23/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1986-193813), de 18 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 4.º — [...]
 
@@ -150,15 +206,15 @@ d) ...
 
 e) ...
 
-###### Art. 5.º O artigo 7.º do [Decreto-Lei n.º 24/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1986-193814), de 18 de Fevereiro, passa a ter a seguinte redacção:
+Art. 5.º O artigo 7.º do [Decreto-Lei n.º 24/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1986-193814), de 18 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - São ainda inibidos de fazer parte dos órgãos de administração de bancos comerciais ou de investimento os que, por outras razões, devidamente fundamentadas pelo Banco de Portugal, nomeadamente por falta de experiência adequada ou por motivo de excessiva acumulação de funções, sejam por este consideradas como não satisfazendo os requisitos necessários para o efeito.
 
-###### Art. 6.º O artigo 7.º do [Decreto-Lei n.º 24/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1986-193814), de 18 de Fevereiro, com a nova redacção constante do artigo anterior, é aplicável à composição dos órgãos sociais de todas as instituições sujeitas à supervisão do Banco de Portugal.
+Art. 6.º O artigo 7.º do [Decreto-Lei n.º 24/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1986-193814), de 18 de Fevereiro, com a nova redacção constante do artigo anterior, é aplicável à composição dos órgãos sociais de todas as instituições sujeitas à supervisão do Banco de Portugal.
 
-###### Art. 7.º São revogadas as seguintes disposições legais:
+Art. 7.º São revogadas as seguintes disposições legais:
 
 a) N.º 2 do artigo 19.º e artigos 22.º e 24.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957;
 
@@ -176,7 +232,7 @@ g) Alínea c) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 49/89](https://diari
 
 h) Alínea c) do artigo 10.º do [Decreto-Lei n.º 17/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1986-194389), de 5 de Fevereiro.
 
-###### Art. 8.º São revogadas, na data de entrada em vigor dos avisos publicados ao abrigo do disposto no artigo 1.º deste diploma, as seguintes disposições legais:
+Art. 8.º São revogadas, na data de entrada em vigor dos avisos publicados ao abrigo do disposto no artigo 1.º deste diploma, as seguintes disposições legais:
 
 a) Artigos 39.º e 40.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957;
 
@@ -188,12 +244,12 @@ d) Artigos 18.º e 22.º do [Decreto-Lei n.º 499/80](https://diariodarepublica.
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Julho de 1989.**
+Promulgado em 28 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Setembro de 1989.**
+Referendado em 13 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

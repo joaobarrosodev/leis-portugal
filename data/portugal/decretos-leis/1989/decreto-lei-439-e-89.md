@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 294/1989, 1º Suplemento, Série I de 1989-12-23
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5536-(4) a 5536-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29401/00040005.pdf
 entry_into_force_dates: []
@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-e-1989-546851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 770b4a2b65f7edf3dfc7ed132b022e39ce7455f835765765c4cc519aa1a6b46a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e399901dbe131de4e707f576edee5605c1052a137cb59dad73d192d2a03ba759
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco de Portugal
+- BEI
+- Empréstimo
+- Empréstimo Externo
+- Energia
+- Financiamento
+- Pequenas e Médias Empresas
+- Projeto de Investimento
+- Proteção do Ambiente
+- Sector Industrial
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:09Z'
   warnings: []
   errors: []
 ---
@@ -99,29 +114,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Fica o Ministro das Finanças autorizado, em representação do Governo, a mandatar o Banco de Portugal com os poderes de administrar, por conta e em representação do Estado, o produto do empréstimo, até ao montante, em escudos, equivalente a 80 milhões de ecus, a contrair pela República Portuguesa junto do Banco Europeu de Investimento, sendo a 1.ª parcela deste empréstimo, no montante equivalente a 7000 milhões de escudos, contratada ao abrigo da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 30 de Dezembro.
+Artigo 1.º - 1 - Fica o Ministro das Finanças autorizado, em representação do Governo, a mandatar o Banco de Portugal com os poderes de administrar, por conta e em representação do Estado, o produto do empréstimo, até ao montante, em escudos, equivalente a 80 milhões de ecus, a contrair pela República Portuguesa junto do Banco Europeu de Investimento, sendo a 1.ª parcela deste empréstimo, no montante equivalente a 7000 milhões de escudos, contratada ao abrigo da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 30 de Dezembro.
 
 2 - O produto do empréstimo a administrar pelo Banco de Portugal destinar-se-á a financiar projectos e programas para o desenvolvimento de PMEs nos sectores industrial, dos serviços afins e do turismo, bem como iniciativas que contribuam para a poupança de energia ou protecção do ambiente.
 
 3 - Do produto do empréstimo, 50%, pelo menos, deverão ser canalizados através do Banco Nacional Ultramarino, podendo, todavia, em caso de insuficiência de projectos financiáveis por aquele Banco, o remanescente ser carreado para a generalidade das instituições.
 
-###### Art. 2.º As restantes condições do mandato referido no artigo anterior serão aprovadas pelo Ministro das Finanças, com a possibilidade de delegar, tendo em atenção as cláusulas do acordo a celebrar entre o Estado e o Banco Europeu de Investimento.
+Art. 2.º As restantes condições do mandato referido no artigo anterior serão aprovadas pelo Ministro das Finanças, com a possibilidade de delegar, tendo em atenção as cláusulas do acordo a celebrar entre o Estado e o Banco Europeu de Investimento.
 
-###### Art. 3.º As condições essenciais da 1.ª parcela da operação referidas no presente decreto-lei são as constantes da ficha técnica publicada em anexo, que dele faz parte integrante.
+Art. 3.º As condições essenciais da 1.ª parcela da operação referidas no presente decreto-lei são as constantes da ficha técnica publicada em anexo, que dele faz parte integrante.
 
-###### Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 18 de Dezembro de 1989.**
+Promulgado em 18 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Dezembro de 1989.**
+Referendado em 20 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Ficha Técnica
 
@@ -135,7 +150,7 @@ Agente (do mutuário) - Banco de Portugal.
 
 Finalidade - financiamento de iniciativas de pequena e média dimensão nos sectores industrial, dos serviços afins e do turismo, assim como de iniciativas que contribuam para a poupança de energia ou protecção do ambiente, situadas em Portugal.
 
-# Parte deste empréstimo poderá ainda ser eventualmente utilizado no financiamento de aumentos de capital de empresas promotoras dos projectos a realizar de acordo com o prescrito no parágrafo anterior.
+Parte deste empréstimo poderá ainda ser eventualmente utilizado no financiamento de aumentos de capital de empresas promotoras dos projectos a realizar de acordo com o prescrito no parágrafo anterior.
 
 Montante - equivalente a 7000 milhões de escudos (cerca de 40 milhões de ecus) - 1.ª parcela.
 

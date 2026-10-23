@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18373-1961-559192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78ac90ffe970084a6d443f871cc7394698a22a74bad50ac6f453a0e4d344ae7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ba838563846e99983571bd00690208a5b04345a318e92be5db758ed156e8624
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:217154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352126:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:36Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +114,11 @@ I
 
 Dos fins
 
-###### Artigo 1.º Nos termos da legislação em vigor, compete à Direcção-Geral dos Serviços Pecuários, por intermédio dos serviços de melhoramento animal, a organização e orientação do livro genealógico português da raça merina precoce.
+Artigo 1.º Nos termos da legislação em vigor, compete à Direcção-Geral dos Serviços Pecuários, por intermédio dos serviços de melhoramento animal, a organização e orientação do livro genealógico português da raça merina precoce.
 
-###### Art. 2.º O livro genealógico tem por fim assegurar a pureza desta raça e concorrer para o seu progresso zootécnico, assim como favorecer a difusão de bons reprodutores.
+Art. 2.º O livro genealógico tem por fim assegurar a pureza desta raça e concorrer para o seu progresso zootécnico, assim como favorecer a difusão de bons reprodutores.
 
-###### Art. 3.º Para atingir a sua finalidade o livro promove:
+Art. 3.º Para atingir a sua finalidade o livro promove:
 
 a) A inscrição de animais, mencionando para cada um deles:
 
@@ -126,11 +138,11 @@ II
 
 Da organização e funcionamento
 
-###### Art. 4.º A direcção do livro genealógico será constituída por um técnico dos serviços de melhoramento animal, que servirá de presidente, por um secretário técnico, perito na raça, ambos nomeados pelo director-geral dos Serviços Pecuários, e ainda por um delegado da Corporação da Lavoura, de entre os criadores aderentes ao livro.
+Art. 4.º A direcção do livro genealógico será constituída por um técnico dos serviços de melhoramento animal, que servirá de presidente, por um secretário técnico, perito na raça, ambos nomeados pelo director-geral dos Serviços Pecuários, e ainda por um delegado da Corporação da Lavoura, de entre os criadores aderentes ao livro.
 
-###### Art. 5.º Ao abrigo do disposto no § único do artigo 53.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, a sede e as delegações deste livro serão fixadas pela Direcção-Geral dos Serviços Pecuários.
+Art. 5.º Ao abrigo do disposto no § único do artigo 53.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, a sede e as delegações deste livro serão fixadas pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 6.º A Direcção-Geral dos Serviços Pecuários poderá confiar a uma associação de criadores da raça merina precoce, integrada na Corporação da Lavoura, a administração do livro, desde que a sua organização e funcionamento venham a reger-se por regulamento aprovado pela mesma Direcção-Geral (artigo 56.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957).
+Art. 6.º A Direcção-Geral dos Serviços Pecuários poderá confiar a uma associação de criadores da raça merina precoce, integrada na Corporação da Lavoura, a administração do livro, desde que a sua organização e funcionamento venham a reger-se por regulamento aprovado pela mesma Direcção-Geral (artigo 56.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957).
 
 Nestas condições:
 
@@ -138,17 +150,17 @@ Nestas condições:
 
 2) O secretário técnico será escolhido pela direcção do livro, de entre os técnicos indicados pela Direcção-Geral dos Serviços Pecuários como peritos na raça.
 
-###### Art. 7.º A actividade do livro ficará sujeita à inspecção periódica do inspector-chefe dos serviços de melhoramento animal.
+Art. 7.º A actividade do livro ficará sujeita à inspecção periódica do inspector-chefe dos serviços de melhoramento animal.
 
-###### Art. 8.º A marca do livro genealógico terá a configuração do escudo nacional ladeado pelas letras MP.
+Art. 8.º A marca do livro genealógico terá a configuração do escudo nacional ladeado pelas letras MP.
 
 III
 
 Da adesão dos criadores e registo das suas marcas
 
-###### Art. 9.º Os criadores que desejem aderir ao livro genealógico deverão apresentar o respectivo pedido à direcção do mesmo, acompanhado de um desenho da marca que pretendam utilizar na identificação dos seus animais.
+Art. 9.º Os criadores que desejem aderir ao livro genealógico deverão apresentar o respectivo pedido à direcção do mesmo, acompanhado de um desenho da marca que pretendam utilizar na identificação dos seus animais.
 
-###### Art. 10.º Comunicada a adesão e aceite a marca, deverá o criador registá-la, para o que enviará à secretaria técnica (n.º 9 do artigo 10.º do Decreto n.º 41380, de 20 de Novembro de 1957):
+Art. 10.º Comunicada a adesão e aceite a marca, deverá o criador registá-la, para o que enviará à secretaria técnica (n.º 9 do artigo 10.º do Decreto n.º 41380, de 20 de Novembro de 1957):
 
 a) O pedido de registo;
 
@@ -158,29 +170,29 @@ c) No caso de o criador pretender utilizar a marcação a tinta no velo, uma rep
 
 § único. As marcas só podem ser utilizadas depois de registadas no livro genealógico.
 
-###### Art. 11.º Por cada registo a que se refere o § único do artigo anterior será cobrada a importância de 200$00.
+Art. 11.º Por cada registo a que se refere o § único do artigo anterior será cobrada a importância de 200$00.
 
 IV
 
 Da identificação dos animais
 
-###### Art. 12.º Nenhum animal poderá ser inscrito no livro genealógico antes de identificado, provisória ou definitivamente.
+Art. 12.º Nenhum animal poderá ser inscrito no livro genealógico antes de identificado, provisória ou definitivamente.
 
 § 1.º A identificação provisória deverá fazer-se até 48 horas após o nascimento, por meio de coleira e numeração a tinta no dorso aplicada de forma a ler-se no sentido ântero-posterior.
 
 § 2.º A identificação definitiva será feita até aos 90 dias, por tatuagem na orelha esquerda, com um número de série anual e a marca do criador situada abaixo ou a seguir a esse número.
 
-###### Art. 13.º Em cada rebanho haverá apenas uma numeração de série, comum a machos e fêmeas nascidos no mesmo ano civil, cuja sequência obedecerá sòmente à ordem dos nascimentos e na qual o primeiro algarismo é o da unidade do ano em que nasceram.
+Art. 13.º Em cada rebanho haverá apenas uma numeração de série, comum a machos e fêmeas nascidos no mesmo ano civil, cuja sequência obedecerá sòmente à ordem dos nascimentos e na qual o primeiro algarismo é o da unidade do ano em que nasceram.
 
-###### Art. 14.º Nos animais importados manter-se-á a identificação do livro genealógico do país de origem.
+Art. 14.º Nos animais importados manter-se-á a identificação do livro genealógico do país de origem.
 
-###### Art. 15.º Qualquer remarcação que se torne necessária só poderá efectuar-se na presença de um delegado da secretaria do livro.
+Art. 15.º Qualquer remarcação que se torne necessária só poderá efectuar-se na presença de um delegado da secretaria do livro.
 
 V
 
 Da inscrição dos animais
 
-###### Art. 16.º Para efeitos de inscrição, o livro genealógico compreende essencialmente:
+Art. 16.º Para efeitos de inscrição, o livro genealógico compreende essencialmente:
 
 1) Livro de nascimento;
 
@@ -188,13 +200,13 @@ Da inscrição dos animais
 
 3) Livro de mérito.
 
-###### Art. 17.º O livro de nascimento é reservado, exclusivamente, aos descendentes dos reprodutores inscritos no livro de adultos.
+Art. 17.º O livro de nascimento é reservado, exclusivamente, aos descendentes dos reprodutores inscritos no livro de adultos.
 
-###### Art. 18.º A inscrição neste livro será efectuada pelas delegações em face das declarações de nascimento, às quais se refere o n.º 2 da alínea b) do artigo 29.º deste regulamento e que, para o efeito do disposto na alínea a) do n.º 1 do artigo 50.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, são consideradas como pedidos de inscrição.
+Art. 18.º A inscrição neste livro será efectuada pelas delegações em face das declarações de nascimento, às quais se refere o n.º 2 da alínea b) do artigo 29.º deste regulamento e que, para o efeito do disposto na alínea a) do n.º 1 do artigo 50.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, são consideradas como pedidos de inscrição.
 
 § único. Os animais que apresentem taras ou defeitos somáticos que constituam, desde logo, impedimento decisivo de inscrição no livro de adultos, não deverão ser inscritos no livro de nascimentos.
 
-###### Art. 19.º Mediante exame a efectuar pela comissão de admissão do livro genealógico (artigo 24.º), serão inscritos no livro de adultos:
+Art. 19.º Mediante exame a efectuar pela comissão de admissão do livro genealógico (artigo 24.º), serão inscritos no livro de adultos:
 
 A) A título definitivo:
 
@@ -214,13 +226,13 @@ B) A título inicial:
 
 As fêmeas que sejam produto, pelo menos, de quarto cruzamento contínuo e que preencham as condições da alínea b).
 
-###### Art. 20.º O livro de adultos manter-se-á aberto durante um período de cinco anos, prorrogável se as circunstâncias o aconselharem.
+Art. 20.º O livro de adultos manter-se-á aberto durante um período de cinco anos, prorrogável se as circunstâncias o aconselharem.
 
-###### Art. 21.º No livro de mérito serão admitidos, a pedido dos criadores interessados, as fêmeas e os machos já inscritos no livro de adultos quando, de progenitores diferentes, tiverem, respectivamente, 2 e 30 descendentes directos inscritos neste último livro, com a classificação mínima de 90 pontos.
+Art. 21.º No livro de mérito serão admitidos, a pedido dos criadores interessados, as fêmeas e os machos já inscritos no livro de adultos quando, de progenitores diferentes, tiverem, respectivamente, 2 e 30 descendentes directos inscritos neste último livro, com a classificação mínima de 90 pontos.
 
 § único. Para esta admissão, a direcção do livro poderá estabelecer a necessidade de realização de contrastes funcionais da descendência, em condições a fixar pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 22.º Pela inscrição de cada animal serão cobradas as seguintes importâncias:
+Art. 22.º Pela inscrição de cada animal serão cobradas as seguintes importâncias:
 
 a) No livro de adultos ... 5$00
 
@@ -230,15 +242,15 @@ VI
 
 Do exame dos animais
 
-###### Art. 23.º Logo que o criador tenha aderido ao livro e registado a sua marca, fica em condições de solicitar à secretaria do livro, por intermédio das delegações, a inscrição dos seus animais, devendo para isso apresentar o respectivo pedido até ao dia 31 de Dezembro de cada ano.
+Art. 23.º Logo que o criador tenha aderido ao livro e registado a sua marca, fica em condições de solicitar à secretaria do livro, por intermédio das delegações, a inscrição dos seus animais, devendo para isso apresentar o respectivo pedido até ao dia 31 de Dezembro de cada ano.
 
 § único. No pedido ou em nota anexa, o criador deverá referenciar cada um dos animais que pretende inscrever e indicar aqueles cujo exame tenha sido adiado, não podendo ser propostos os já reprovados.
 
-###### Art. 24.º O exame será efectuado por uma comissão de admissão, constituída, pelo menos, por três membros: o secretário técnico, que servirá de presidente, o delegado regional e um representante dos criadores, designado pela direcção do livro.
+Art. 24.º O exame será efectuado por uma comissão de admissão, constituída, pelo menos, por três membros: o secretário técnico, que servirá de presidente, o delegado regional e um representante dos criadores, designado pela direcção do livro.
 
 § único. A comissão pode ser ampliada com um representante mais dos criadores.
 
-###### Art. 25.º A classificação dos animais far-se-á pelo método dos pontos, segundo a tabela anexa a este regulamento, tomando-se em consideração não só o padrão da raça, como as características biométricas de maior frequência, os principais defeitos e os objectivos a atingir com vista ao progresso da raça.
+Art. 25.º A classificação dos animais far-se-á pelo método dos pontos, segundo a tabela anexa a este regulamento, tomando-se em consideração não só o padrão da raça, como as características biométricas de maior frequência, os principais defeitos e os objectivos a atingir com vista ao progresso da raça.
 
 § 1.º À comissão de admissão deverá ser facultada, no acto de exame, a consulta dos ficheiros do criador sempre que esta for julgada conveniente.
 
@@ -246,7 +258,7 @@ Do exame dos animais
 
 § 3.º Quando os animais não se encontrem em perfeito estado de saúde e apresentação, o seu exame poderá ser adiado.
 
-###### Art. 26.º Imediatamente após o exame, o secretário técnico fará apor na orelha direita dos animais aprovados a marca do livro genealógico e entregará ao proprietário nota do resultado desse mesmo exame; ulteriormente, ser-lhe-á enviado o respectivo certificado de inscrição.
+Art. 26.º Imediatamente após o exame, o secretário técnico fará apor na orelha direita dos animais aprovados a marca do livro genealógico e entregará ao proprietário nota do resultado desse mesmo exame; ulteriormente, ser-lhe-á enviado o respectivo certificado de inscrição.
 
 § único. Nos animais importados não se aplicará a marca deste livro.
 
@@ -254,7 +266,7 @@ VII
 
 Da passagem de certificados e exportação de animais
 
-###### Art. 27.º O livro genealógico passará certificados relativos à inscrição de animais, mediante o pagamento das seguintes taxas:
+Art. 27.º O livro genealógico passará certificados relativos à inscrição de animais, mediante o pagamento das seguintes taxas:
 
 a) Para utilização no País ... 20$00
 
@@ -262,7 +274,7 @@ b) Para fins de exportação ... 50$00
 
 § único. Poderão também ser passados certificados respeitantes a elementos de ordem funcional e prémios obtidos, mediante o pagamento da taxa de 20$00.
 
-###### Art. 28.º É proibida a exportação de animais com a designação de merino precoce ou raça merina precoce sem apresentação de certificados de origem.
+Art. 28.º É proibida a exportação de animais com a designação de merino precoce ou raça merina precoce sem apresentação de certificados de origem.
 
 § 1.º Entende-se por certificado de origem o documento comprovativo de que o animal está inscrito no livro de adultos.
 
@@ -272,7 +284,7 @@ VIII
 
 Das obrigações e regalias dos criadores
 
-###### Art. 29.º Os criadores que tenham aderido ao livro obrigam-se a:
+Art. 29.º Os criadores que tenham aderido ao livro obrigam-se a:
 
 a) Acatar as determinações emanadas da direcção do livro que visem o seu bom funcionamento, a valorização dos animais e os progressos zootécnicos da raça;
 
@@ -292,7 +304,7 @@ f) Manter em ordem e devidamente preenchido um ficheiro do rebanho, de modelo a 
 
 g) Não utilizar na cobrição ou inseminação artificial de fêmeas inscritas, sem prévia concordância da direcção do livro, sementais não admitidos no livro de adultos ou em livro genealógico considerado similar pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 30.º Os criadores que aderirem ao livro genealógico poderão beneficiar:
+Art. 30.º Os criadores que aderirem ao livro genealógico poderão beneficiar:
 
 a) De acordos estabelecidos pelo livro no sentido de valorizar e facilitar a comercialização dos animais nele inscritos;
 
@@ -306,17 +318,17 @@ IX
 
 Das penalidades
 
-###### Art. 31.º As infracções ao preceituado neste regulamento serão punidas de acordo com o disposto nos artigos 60.º e seguintes do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, que regulamenta a aplicação do [Decreto-Lei n.º 39561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39561-1954-217154), de 13 de Março de 1954.
+Art. 31.º As infracções ao preceituado neste regulamento serão punidas de acordo com o disposto nos artigos 60.º e seguintes do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, que regulamenta a aplicação do [Decreto-Lei n.º 39561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39561-1954-217154), de 13 de Março de 1954.
 
 X
 
 Disposições transitórias
 
-###### Art. 32.º A marca utilizada até à publicação deste regulamento (figura do escudo nacional ladeada pelas letras L G) mantém a sua plena validade nos animais em que foi aplicada.
+Art. 32.º A marca utilizada até à publicação deste regulamento (figura do escudo nacional ladeada pelas letras L G) mantém a sua plena validade nos animais em que foi aplicada.
 
-###### Art. 33.º Os descendentes em linha pura de animais importados e inscritos em livro genealógico considerado similar pela Direcção-Geral dos Serviços Pecuários, mas cujos registos não tenham sido oficialmente homologados, poderão ser admitidos, a título inicial, no livro genealógico português da raça merina precoce, sob requerimento dos interessados, a apresentar no prazo de 90 dias após a publicação deste regulamento, desde que as respectivas intendências de pecuária atestem as declarações dos criadores e a comissão de admissão emita parecer favorável.
+Art. 33.º Os descendentes em linha pura de animais importados e inscritos em livro genealógico considerado similar pela Direcção-Geral dos Serviços Pecuários, mas cujos registos não tenham sido oficialmente homologados, poderão ser admitidos, a título inicial, no livro genealógico português da raça merina precoce, sob requerimento dos interessados, a apresentar no prazo de 90 dias após a publicação deste regulamento, desde que as respectivas intendências de pecuária atestem as declarações dos criadores e a comissão de admissão emita parecer favorável.
 
-###### Art. 34.º O presente regulamento entra em funcionamento a partir da data da sua publicação no Diário do Governo.
+Art. 34.º O presente regulamento entra em funcionamento a partir da data da sua publicação no Diário do Governo.
 
 Ministério da Economia, 31 de Março de 1961. - O Secretário de Estado da Agricultura, Luís Quartin Graça.
 
@@ -420,6 +432,6 @@ e) Eliminação total de pregas.
 
 Tabela de classificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/03/07500/03600364.pdf))](https://files.diariodarepublica.pt/1s/1961/03/07500/03600364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/07500/03600364.pdf)
 
 Ministério da Economia, 31 de Março de 1961. - O Secretário de Estado da Agricultura, Luís Quartin Graça.

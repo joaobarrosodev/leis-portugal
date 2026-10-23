@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24600/47054707.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1989-549403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75291acebd1747ab4890e381927249de23fc306d8e4d9ef9e17b32f0cfac9337
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 996a2915a80656fa6a914b83c123d17fcff9ba605e1aee8d6fad15bbe88279ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- CEE
+- Co-seguro
+- Livre Prestação de Serviços
+- Regime Jurídico
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:264701:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:264701:por
+  label: "Revogado pelo DEC LEI.102/94.1994.04.20.MF, DR.IS-A [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1994-264701
+  date: '1994-04-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:38Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +113,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma regula o co-seguro comunitário, em que o risco se situa exclusivamente em território português ou, simultaneamente, neste e no de outro ou outros Estados membros da Comunidade Económica Europeia.
+Artigo 1.º - 1 - O presente diploma regula o co-seguro comunitário, em que o risco se situa exclusivamente em território português ou, simultaneamente, neste e no de outro ou outros Estados membros da Comunidade Económica Europeia.
 
 2 - Entende-se por co-seguro comunitário a assunção conjunta de um risco por várias seguradoras estabelecidas em diferentes Estados membros da Comunidade Económica Europeia, denominadas co-seguradoras, de entre as quais uma é a líder, sem que haja solidariedade entre elas, através de um contrato de seguro único, com as mesmas garantias e período de duração e com um prémio global.
 
-###### Art. 2.º - 1 - O co-seguro comunitário apenas é admitido em relação aos contratos que preencham cumulativamente os seguintes condicionalismos:
+Art. 2.º - 1 - O co-seguro comunitário apenas é admitido em relação aos contratos que preencham cumulativamente os seguintes condicionalismos:
 
 a) Respeitarem aos ramos de seguro referidos nas alíneas 4), 5), 6), 7), 8), 9), 11), 12), 13), salvo, neste caso, nos riscos de origem nuclear ou medicamentosa, e 16) do artigo 1.º do Decreto-Lei n.º 85/86, de 7 de Maio;
 
@@ -122,7 +133,7 @@ c) Número médio de empregados durante o exercício - 2000.
 
 3 - No caso de o segurado estar integrado num conjunto de empresas para o qual sejam elaboradas contas consolidadas nos termos da Directiva n.º [83/349/CEE](http://data.europa.eu/eli/dir/1983/349/oj?locale=pt), do Conselho, de 13 de Junho, os valores acima referidos serão aplicados com base nessas contas.
 
-###### Art. 3.º - 1 - A celebração de um contrato em co-seguro comunitário depende de uma autorização expressa do Instituto de Seguros de Portugal (ISP), a ser concedida, para o efeito, à co-seguradora líder, apresentados que sejam os seguintes elementos redigidos ou traduzidos em língua portuguesa:
+Art. 3.º - 1 - A celebração de um contrato em co-seguro comunitário depende de uma autorização expressa do Instituto de Seguros de Portugal (ISP), a ser concedida, para o efeito, à co-seguradora líder, apresentados que sejam os seguintes elementos redigidos ou traduzidos em língua portuguesa:
 
 a) Caracterização do contrato a que o co-seguro se reporta;
 
@@ -132,13 +143,13 @@ c) Prova da margem de solvência adequada da co-seguradora líder e de que se en
 
 2 - O ISP dispõe de um prazo de 30 dias contado da data da recepção dos documentos referidos no número anterior para conceder ou negar a autorização solicitada.
 
-###### Art. 4.º - 1 - O cálculo e representação das provisões técnicas relativas aos contratos em co-seguro comunitário rege-se, em relação a cada co-seguradora, pelas regras do respectivo país de estabelecimento, sem prejuízo do disposto no número seguinte.
+Art. 4.º - 1 - O cálculo e representação das provisões técnicas relativas aos contratos em co-seguro comunitário rege-se, em relação a cada co-seguradora, pelas regras do respectivo país de estabelecimento, sem prejuízo do disposto no número seguinte.
 
 2 - A provisão para sinistros deve, em relação a cada co-seguradora, ser calculada e representada de acordo com as regras que se encontrem, para o efeito, em vigor no país de estabelecimento da co-seguradora líder.
 
 3 - As provisões técnicas constituídas pelas diferentes co-seguradoras serão representadas por activos congruentes localizados quer nos Estados membros onde as co-seguradoras estejam estabelecidas, quer no Estado membro onde a co-seguradora líder se encontre estabelecida.
 
-###### Art. 5.º - 1 - A lei portuguesa é a aplicável aos contratos em co-seguro referidos no artigo 1.º, nomeadamente no que concerne às regras relativas ao pagamento dos prémios, sem prejuízo do disposto no número seguinte.
+Art. 5.º - 1 - A lei portuguesa é a aplicável aos contratos em co-seguro referidos no artigo 1.º, nomeadamente no que concerne às regras relativas ao pagamento dos prémios, sem prejuízo do disposto no número seguinte.
 
 2 - Salvo no que concerne às normas imperativas da lei portuguesa, é facultada às partes a escolha da lei aplicável ao contrato, nos seguintes casos:
 
@@ -146,22 +157,22 @@ a) Se o segurado se situar noutro Estado membro, ou se o risco se puder verifica
 
 b) Se se tratar de ramos de seguro classificados nas alíneas 4), 5), 6), 7), 11) e 12) do artigo 1.º do Decreto-Lei n.º 85/86, de 7 de Maio, as partes podem escolher a lei de qualquer país.
 
-###### Art. 6.º O contrato em co-seguro comunitário encontra-se, na parte respeitante ao risco situado em Portugal, submetido às regras fiscais e parafiscais portuguesas, ficando a co-seguradora líder responsável pelo pagamento dos encargos daí decorrentes.
+Art. 6.º O contrato em co-seguro comunitário encontra-se, na parte respeitante ao risco situado em Portugal, submetido às regras fiscais e parafiscais portuguesas, ficando a co-seguradora líder responsável pelo pagamento dos encargos daí decorrentes.
 
-###### Art. 7.º A co-seguradora líder, no prazo de 30 dias contado da data da celebração do contrato em co-seguro comunitário, deve enviar ao ISP documento comprovativo de que o contrato foi celebrado nos termos autorizados e de ter sido cumprido o disposto no artigo anterior.
+Art. 7.º A co-seguradora líder, no prazo de 30 dias contado da data da celebração do contrato em co-seguro comunitário, deve enviar ao ISP documento comprovativo de que o contrato foi celebrado nos termos autorizados e de ter sido cumprido o disposto no artigo anterior.
 
-###### Art. 8.º Ao contrato em co-seguro comunitário é aplicável o disposto no Decreto-Lei n.º 301/85, de 29 de Julho, em tudo o que não contrarie o presente diploma, bem como as disposições específicas da actividade de mediação de seguros, nomeadamente no que respeita a comissionamento.
+Art. 8.º Ao contrato em co-seguro comunitário é aplicável o disposto no Decreto-Lei n.º 301/85, de 29 de Julho, em tudo o que não contrarie o presente diploma, bem como as disposições específicas da actividade de mediação de seguros, nomeadamente no que respeita a comissionamento.
 
-###### Art. 9.º A co-seguradora líder que não cumpra as disposições do presente diploma fica sujeita à aplicação das sanções previstas no Decreto-Lei n.º 91/82, de 22 de Março.
+Art. 9.º A co-seguradora líder que não cumpra as disposições do presente diploma fica sujeita à aplicação das sanções previstas no Decreto-Lei n.º 91/82, de 22 de Março.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 13 de Outubro de 1989.**
+Promulgado em 13 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1989.**
+Referendado em 17 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

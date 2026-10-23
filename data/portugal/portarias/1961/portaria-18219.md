@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18219-1961-557994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4522fefd1b80472f3613198ae513d15325a28c0463a451b2fa9e9212181d717
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f4cbe2f13d1c839e5902fd8446d088acb0aed1ac1c6664faf7ae9cdc5b269a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:20Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Plano de uniformes do pessoal de vigilância dos serviços prisionais
 
 A) Quadro único de guardas da metrópole
 
-###### Artigo 1.º - 1. Os guardas da metrópole terão dois uniformes: um de gabardina de lã na cor castanho-cinza (uniforme n.º 1) e outro de algodão na cor cinzenta (uniforme n.º 2).
+Artigo 1.º - 1. Os guardas da metrópole terão dois uniformes: um de gabardina de lã na cor castanho-cinza (uniforme n.º 1) e outro de algodão na cor cinzenta (uniforme n.º 2).
 
 2. Com o uniforme n.º 1, que consta de dólman, calça e boné, descritos no artigo 5.º, serão usados camisa branca, gravata preta de lã, sapatos e peúgas pretos.
 
@@ -100,7 +104,7 @@ A) Quadro único de guardas da metrópole
 
 B) Quadro especial dos guardas da Colónia Penal do Bié
 
-###### Art. 2.º - 1. Os guardas da Colónia Penal do Bié terão dois uniformes: um de cotim branco (uniforme n.º 1) e outro de caqui na cor castanho-amarelada (uniforme n.º 2).
+Art. 2.º - 1. Os guardas da Colónia Penal do Bié terão dois uniformes: um de cotim branco (uniforme n.º 1) e outro de caqui na cor castanho-amarelada (uniforme n.º 2).
 
 2. Com o uniforme n.º 1, que consta de dólman, calça e boné, descritos no artigo 6.º, serão usados camisa branca, gravata preta de lã, sapatos e peúgas pretos.
 
@@ -110,7 +114,7 @@ B) Quadro especial dos guardas da Colónia Penal do Bié
 
 C) Quadro especial do pessoal feminino
 
-###### Art. 3.º - 1. O pessoal feminino terá dois uniformes: um de gabardina de lã na cor castanho-cinza (uniforme n.º 1) e outro de sarja de lã na cor cinzento-mescla (uniforme n.º 2).
+Art. 3.º - 1. O pessoal feminino terá dois uniformes: um de gabardina de lã na cor castanho-cinza (uniforme n.º 1) e outro de sarja de lã na cor cinzento-mescla (uniforme n.º 2).
 
 2. Com o uniforme n.º 1, que consta de casaco, saia e boina de feltro preto, descritos no artigo 7.º, serão usados blusa de popelina branca, meias bege e sapatos abotinados de pele preta do modelo da fig. n.º 45.
 
@@ -120,11 +124,11 @@ C) Quadro especial do pessoal feminino
 
 ### CAPÍTULO II — Carcereiros das cadeias comarcãs
 
-###### Art. 4.º Aos carcereiros das cadeias comarcãs compete usar o uniforme n.º 2 do corpo de guardas da metrópole.
+Art. 4.º Aos carcereiros das cadeias comarcãs compete usar o uniforme n.º 2 do corpo de guardas da metrópole.
 
 ### CAPÍTULO III — Descrição dos artigos do uniforme
 
-###### Art. 5.º Os artigos e acessórios abaixo indicados, que constituem os uniformes dos guardas da metrópole, deverão obedecer às seguinte condições:
+Art. 5.º Os artigos e acessórios abaixo indicados, que constituem os uniformes dos guardas da metrópole, deverão obedecer às seguinte condições:
 
 a) Boné. - Da mesma fazenda do dólman, formado por duas partes ligadas por uma costura a toda a volta e uma só costura vertical atrás, com o feitio indicado na fig. n.º 1. Na parte superior, além da costura, que a liga ao tampo, quatro costuras verticais, duas dos lados, uma à frente e outra à retaguarda. Tampo reforçado interiormente de forma a conservar-se sempre distendido.
 
@@ -166,7 +170,7 @@ g) Calção. - Do modelo indicado na fig. 20, com dois bolsos laterais pespontad
 
 h) Camisa (fig. n.º 21). - Formada por dois dianteiros e um só traseiro, ligados por duas costuras laterais. Nos ombros, e formando espelho à frente e à retaguarda, reforços sobrepostos e cosidos com pestana, descaindo até às cavas. Em cima, platinas de 0,045 m de largo. No peito, dois bolsos sobrepostos, com portinhola e um botão cinzento, a fechar. Abotoa, ao centro, sobre um macho sobreposto e cosido com pestana.
 
-###### Art. 6.º Os artigos e acessórios abaixo indicados, que constituem os uniformes dos guardas da Colónia Penal do Bié, deverão obedecer às seguintes condições:
+Art. 6.º Os artigos e acessórios abaixo indicados, que constituem os uniformes dos guardas da Colónia Penal do Bié, deverão obedecer às seguintes condições:
 
 a) Boné. - Igual aos descritos no artigo anterior, nos tecidos referidos no artigo 4.º;
 
@@ -178,7 +182,7 @@ d) Dólman e calça. - Iguais aos dos guardas da metrópole, de cotim branco e d
 
 e) Capote. - Igual ao dos guardas da metrópole.
 
-###### Art. 7.º Os artigos e acessórios abaixo indicados, que constituem os uniformes do pessoal feminino, deverão obedecer às seguintes condições:
+Art. 7.º Os artigos e acessórios abaixo indicados, que constituem os uniformes do pessoal feminino, deverão obedecer às seguintes condições:
 
 1) Uniforme n.º 1:
 
@@ -238,7 +242,7 @@ De pele preta, do modelo da fig. n.º 45.
 
 ### CAPÍTULO IV — Distintivos, emblemas, equipamentos e acessórios
 
-###### Art. 8.º São os seguintes os distintivos, emblemas, equipamentos e acessórios usados pelo pessoal de vigilância dos serviços prisionais, nas condições indicadas para cada caso:
+Art. 8.º São os seguintes os distintivos, emblemas, equipamentos e acessórios usados pelo pessoal de vigilância dos serviços prisionais, nas condições indicadas para cada caso:
 
 A) Chefes de guardas:
 
@@ -310,20 +314,20 @@ Nas golas, as armas nacionais, de metal amarelo, com o diâmetro de 0,017 m (fig
 
 3) Cinturão. - Igual ao dos guardas (fig. n.º 47).
 
-###### Art. 9.º O guarda que estiver servindo de chefe usará na manga esquerda do dólman uma braçadeira do modelo da fig. n.º 27, de flanela vermelha.
+Art. 9.º O guarda que estiver servindo de chefe usará na manga esquerda do dólman uma braçadeira do modelo da fig. n.º 27, de flanela vermelha.
 
-###### Art. 10.º O pessoal de vigilância, quando em serviço, deve usar apito preso a um cordão metálico em forma de cobra, de 0,40 m de comprimento, tendo numa das extremidades um passador metálico e na outra um punho escatelado pendente da platina esquerda.
+Art. 10.º O pessoal de vigilância, quando em serviço, deve usar apito preso a um cordão metálico em forma de cobra, de 0,40 m de comprimento, tendo numa das extremidades um passador metálico e na outra um punho escatelado pendente da platina esquerda.
 
 ### CAPÍTULO V — Uso dos uniformes
 
-###### Art. 11.º - 1. Serão fixadas, por circular da Direcção-Geral dos Serviços Prisionais, as condições em que deverá ser usado cada um dos uniformes.
+Art. 11.º - 1. Serão fixadas, por circular da Direcção-Geral dos Serviços Prisionais, as condições em que deverá ser usado cada um dos uniformes.
 
 2. Ficarão depositadas na Direcção-Geral dos Serviços Prisionais as amostras dos tecidos aprovados.
 
-###### Art. 12.º (transitório). O uso dos artigos constantes deste plano só será obrigatório a partir de 1 de Janeiro de 1963.
+Art. 12.º (transitório). O uso dos artigos constantes deste plano só será obrigatório a partir de 1 de Janeiro de 1963.
 
 Ministério da Justiça, 18 de Janeiro de 1961. - O Ministro da Justiça, João de Matos Antunes Varela.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/01/01500/00380049.pdf))](https://files.diariodarepublica.pt/1s/1961/01/01500/00380049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/01/01500/00380049.pdf)
 
 Ministério da Justiça, 18 de Janeiro de 1961. - O Ministro da Justiça, João de Matos Antunes Varela.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08800/18081810.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1990-332000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c9ead0be355a2e4be69478c782f024a17eb6035eba34baec3b96513d1ddc44d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edaf600e8aa6438dd5dd2fd30a0dc3efd12e8076ca4530960f9c7fb3765b54e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BENS Imóveis
+- Emissão de Títulos
+- Garantia
+- Instituição de Crédito
+- Juros
+- Mercado de Títulos
+- Mercado de Valores
+- Prazo
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:667889:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140476:por
+  label: "Alterados os arts. 2º a 7º, 10º, 11º, 14º, 15º, 16º e 18º pelo DEC LEI.17/95.1995.01.27.MF, DR.IS-A [23] \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1995-140476
+  date: '1995-01-27'
+- type: amended_by
+  target: pt:dre:223195:por
+  label: "Alterado o art. 9º, sem prejuízo da validade das emissões anteriores a 01.01.1999, pelo DEC LEI.343/98.1998.11.06.MF,\
+    \ DR.IS-A [257]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1998-223195
+  date: '1998-11-06'
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterados os arts. 4º e 7º do presente diploma, com a redacção conferida pelo Dec Lei 17/95 de 27-Jan, pelo DEC\
+    \ LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: cites
+  target: pt:dre:644324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666139:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667889:por
+  label: "Revogado o presente diploma, com as alterações introduzidas pelos Dec Lei 17/95 de 27-Jan, 343/98 de 06-Nov e 52/2006\
+    \ de 15-Mar, pelo DEC LEI.59/2006.20.03.2006.MFAP, DR.IS-A [56] de 20.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2006-667889
+  date: '2006-03-20'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:19Z'
   warnings: []
   errors: []
 ---
@@ -298,12 +342,12 @@ e) Referências relativas à inscrição definitiva das hipotecas na conservató
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Fernando Nogueira.
 
-**Promulgado em 2 de Abril de 1990.**
+Promulgado em 2 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Abril de 1990.**
+Referendado em 5 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

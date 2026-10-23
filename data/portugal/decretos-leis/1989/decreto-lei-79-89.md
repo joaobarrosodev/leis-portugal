@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 59/1989, 1º Suplemento, Série I de 1989-03-11
   number: '59'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1086-(2) a 1086-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/05901/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1989-300385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af5866e82d40d78be14b81b51e8b3f442e3d4a6c0ffd87784c14876156463629
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcd8bcfdfc8a37dd7dce5fe36df89e5490a28a90e005bb9119e7085a5bc750ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Autorização de Despesas
+- Carreira Profissional
+- Comissariado de Portugal para a Exposição Universal de Sevilha de 1992
+- Conservação de Estradas
+- Consulado
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Dotação Orçamental
+- Duodécimo
+- Embaixada
+- Ensino Preparatório
+- Execução do Orçamento
+- FEDER
+- Gabinete de Gestão Financeira
+- Gestão Financeira
+- Instituto de Apoio Sócio-Educativo
+- Instituto de Cultura e Língua Portuguesa
+- Junta Autónoma das Estradas
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Ministério da Educação
+- Ministério da Indústria e Comércio
+- Ministério da Indústria e Energia
+- Ministério da Justiça
+- Orçamento da Segurança Social
+- Orçamento Geral do Estado
+- Organismo do Estado
+- Património do Estado
+- Pessoal Docente
+- Piddac
+- Política de Cooperação
+- Progressão na Carreira
+- Reposição de Verbas
+- Serviço Nacional de Bombeiros
+- Serviço Nacional de Saúde
+- Serviços de Registo e Notariado
+- Subsídio
+- Visto do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660512:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:14Z'
   warnings: []
   errors: []
 ---
@@ -296,12 +397,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - João de Deus Rogado Salvador Pinheiro - Nuno Manuel Franco Ribeiro da Silva - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1989.**
+Referendado em 11 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

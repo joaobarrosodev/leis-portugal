@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29600/55835585.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1989-551228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfe764229f9ec2b7464a6dbe1ebf14968d45f928ac58275a996a02085295bbf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efa2b1f4e76881a658b608d6777e24fbeb80573b43283eb502f965fb37bb9109
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimento para Animais
+- Controlo de Qualidade
+- Proteção do Consumidor
+- Regulamento
+- Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:483651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223061:por
+  label: "Alterados os art.s 2º, 3º e 10º e aditado um art. 3º-A ao Regulamento, pelo DEC LEI.206/94.1994.08.06.MA, DR.IS-A\
+    \ [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1994-223061
+  date: '1994-08-06'
+- type: amended_by
+  target: pt:dre:321688:por
+  label: "Alterados os arts. 1.º e 2.º, pelo DEC LEI.182/99.1999.05.22.MADRP DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1999-321688
+  date: '1999-05-22'
+- type: repealed_by
+  target: pt:dre:483651:por
+  label: "Revogado com as alterações que lhe foram introduzidas pelos Dec Leis 206/94, de 06-Ago e 182/99, de 22-Mai, pelo\
+    \ DEC LEI.235/2003.2003.09.30.MADRP DR.IS-A [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2003-483651
+  date: '2003-09-30'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:14Z'
   warnings: []
   errors: []
 ---
@@ -113,25 +136,25 @@ Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento relativo às Substâncias e Produtos Indesejáveis nos Alimentos Simples, Matérias-Primas e Alimentos Compostos destinados à Alimentação Animal, anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento relativo às Substâncias e Produtos Indesejáveis nos Alimentos Simples, Matérias-Primas e Alimentos Compostos destinados à Alimentação Animal, anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º A lista de substâncias e produtos indesejáveis nos alimentos simples, matérias-primas e alimentos compostos destinados à alimentação animal e respectivos teores máximos admissíveis é aprovada por portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 2.º A lista de substâncias e produtos indesejáveis nos alimentos simples, matérias-primas e alimentos compostos destinados à alimentação animal e respectivos teores máximos admissíveis é aprovada por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 3.º É revogada a Portaria n.º 163/85, de 23 de Março.
+Art. 3.º É revogada a Portaria n.º 163/85, de 23 de Março.
 
-###### Art. 4.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
+Art. 4.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Francisco Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 17 de Novembro de 1989.**
+Promulgado em 17 de Novembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Novembro de 1989.**
+Referendado em 27 de Novembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento relativo às Substâncias e Produtos Indesejáveis nos Alimentos Simples, Matérias-Primas e Alimentos Compostos destinados à Alimentação Animal.
 
@@ -291,4 +314,4 @@ Nas regiões autónomas as competências cometidas à Direcção-Geral de Inspec
 
 2 - Compete ao Ministro da Agricultura, Pescas e Alimentação, através da Direcção-Geral da Pecuária, assegurar em tempo útil a harmonização das disposições legislativas nacionais com as correspondentes disposições comunitárias no âmbito deste Regulamento.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

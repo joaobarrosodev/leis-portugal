@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24000/45794590.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1989-549390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbb0679a8e594732db2602fbdf4bc39e461447c15abae12a3c995e1392e1ddb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2d3101913f1854d4e14967b349efae09c4499d3857aaba1f9c629899f311087
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Educação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:665341:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484419:por
+  label: Alterados o quadro a que se refere o art. 30.º e os arts. 31.º e 33.º pelo DEC LEI.95/91.26.02.1991.ME, DR.IS-A [47]
+    de 26.02.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1991-484419
+  date: '1991-02-26'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626576:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612219:por
+  label: "Revogado o art. 41º, na parte referente às delegações escolares, pelo DEC LEI.172/91.10.05.1991.ME, DR.IS-A [107]\
+    \ de 10.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1991-612219
+  date: '1991-05-10'
+- type: repealed_by
+  target: pt:dre:665341:por
+  label: "Revogado pelo DEC LEI.141/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1993-665341
+  date: '1993-04-26'
 article_structure:
   article_count: 45
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:23Z'
   warnings: []
   errors: []
 ---
@@ -480,7 +551,9 @@ e) Secção de Apoio Administrativo.
 
 3 - O DEE funciona no conselho sede da DRE e é chefiado por um director de serviços.
 
-###### Artigo 17.º — Divisão de Projectos
+###### Artigo 17.º
+
+##### Divisão de Projectos
 
 À Divisão de Projectos compete, designadamente:
 
@@ -498,7 +571,9 @@ f) Designar o representante do Estado nas comissões de avaliação e apreciar o
 
 g) Proceder, em colaboração com a Divisão de Gestão de Equipamentos, à análise das propostas de adjudicação e submeter o resultado à aprovação do director regional.
 
-###### Artigo 18.º — Divisão de Obras
+###### Artigo 18.º
+
+##### Divisão de Obras
 
 1 - À Divisão de Obras compete:
 
@@ -518,7 +593,9 @@ g) Assegurar a manutenção e recuperação das instalações escolares, promove
 
 2 - Quando solicitado pela Secretaria-Geral, a DRE pode, pela Divisão de Obras, assegurar a manutenção e recuperação dos edifícios onde se encontram instalados os serviços das DRE.
 
-###### Artigo 19.º — Divisão de Gestão de Equipamentos
+###### Artigo 19.º
+
+##### Divisão de Gestão de Equipamentos
 
 À Divisão de Gestão de Equipamentos compete:
 
@@ -548,7 +625,9 @@ c) Promover a elaboração de contratos de fornecimentos e de empreitadas de obr
 
 2 - À Secção de Apoio Administrativo compete desenvolver as acções de expediente, arquivo e dactilografia próprias do Departamento.
 
-###### Artigo 21.º — Divisão de Planeamento
+###### Artigo 21.º
+
+##### Divisão de Planeamento
 
 À Divisão de Planeamento compete:
 
@@ -564,7 +643,9 @@ e) Assegurar, em articulação com os Departamentos Técnico-Pedagógico, de Rec
 
 f) Realizar, no âmbito das funções de planeamento e estatística, as acções de apoio técnico que lhe sejam solicitadas.
 
-###### Artigo 22.º — Divisão de Apoio Sócio-Educativo
+###### Artigo 22.º
+
+##### Divisão de Apoio Sócio-Educativo
 
 À Divisão de Apoio Sócio-Educativo compete, nomeadamente:
 
@@ -614,7 +695,9 @@ d) Secção de Expediente e Arquivo.
 
 3 - As secções da RAG exercem as suas competências sob orientação e em estreita colaboração com a Secretaria-Geral do Ministério.
 
-###### Artigo 25.º — Secção de Contabilidade
+###### Artigo 25.º
+
+#### Secção de Contabilidade
 
 À Secção de Contabilidade compete:
 
@@ -634,7 +717,9 @@ g) Informar os processos de pessoal e material, no que respeita à legalidade e 
 
 h) Controlar o movimento de tesouraria, efectuando mensalmente o seu balanço.
 
-###### Artigo 26.º — Secção de Património
+###### Artigo 26.º
+
+#### Secção de Património
 
 À Secção de Património compete:
 
@@ -650,7 +735,9 @@ e) Organizar e manter actualizado o inventário dos bens móveis da DRE;
 
 f) Assegurar a conservação e distribuição dos artigos armazenados e a gestão do armazém.
 
-###### Artigo 27.º — Secção de Pessoal
+###### Artigo 27.º
+
+#### Secção de Pessoal
 
 À Secção de Pessoal compete:
 
@@ -662,7 +749,9 @@ c) Assegurar as acções relativas à administração e mobilidade de pessoal af
 
 d) Superintender no pessoal auxiliar e coordenar a organização do respectivo trabalho.
 
-###### Artigo 28.º — Secção de Expediente e Arquivo
+###### Artigo 28.º
+
+#### Secção de Expediente e Arquivo
 
 À Secção de Expediente e Arquivo compete:
 
@@ -824,15 +913,15 @@ i) [Portaria n.º 515/82](https://diariodarepublica.pt/dr/detalhe/portaria/515-1
 
 Visto e aprovado em Conselho de Ministros de 17 de Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Setembro de 1989.**
+Promulgado em 26 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1989.**
+Referendado em 3 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 

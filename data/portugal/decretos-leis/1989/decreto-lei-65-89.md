@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/05000/08800881.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1989-613000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2d10a0cfb2bf75eae64c67e0967ab38c31579125350de10ddfe334e2811df3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c720a625f2c265087cbf943dbab0aa5631e08aaa238461f63e3f97e6110a91a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Centro Cultural de Belém
+- Conselho Consultivo
+- Conselho de Administração
+- Conselho Fiscal
+- Criação de Empresas
+- Definição de Competências
+- Estatuto
+- Sociedade Anónima
+- Sociedade de Gestão e Investimento Imobiliário
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687016:por
+  label: "Determinado que se mantenha em vigor para efeitos do previsto no nº 2 do art. 1º do presente diploma, a legislação\
+    \ referida no nº 1 do art. 16º, pela LEI.51/91.03.08.1991.AR, DR.IS-A [177] de 03.08.1991 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-1991-687016
+  date: '1991-08-03'
+- type: cites
+  target: pt:dre:183251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583811:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348507:por
+  label: Rectificado pela DECL.DD1264.1989.03.17.PCM, DR.IS [75]Supl de 31/Mar/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348507
+  date: '1989-03-17'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:59Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +142,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada a empresa para construção do Centro Cultural de Belém, que assume a forma de sociedade anónima de capitais maioritariamente públicos e a denominação de Centro Cultural de Belém - Sociedade de Gestão e Investimento Imobiliário, S. A. (Centro Cultural de Belém - S. G. I. I., S. A.).
+Artigo 1.º - 1 - É criada a empresa para construção do Centro Cultural de Belém, que assume a forma de sociedade anónima de capitais maioritariamente públicos e a denominação de Centro Cultural de Belém - Sociedade de Gestão e Investimento Imobiliário, S. A. (Centro Cultural de Belém - S. G. I. I., S. A.).
 
 2 - O Centro Cultural de Belém - S. G. I. I., S. A., rege-se pela legislação comercial aplicável, pelo presente diploma, pelos seus estatutos e pelo [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, com excepção dos seus artigos 2.º, 3.º, 5.º e 6.º, com a redacção que lhe foi dada pelos Decretos-Leis n.os [211-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-1986-301037), de 31 de Julho, e [237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), de 12 de Junho.
 
-###### Art. 2.º - 1 - O Centro Cultural de Belém - S. G. I. I., S. A., tem inicialmente um capital social de 1500000000$00, o qual se encontra integralmente realizado pelo Estado à data da entrada em vigor deste diploma.
+Art. 2.º - 1 - O Centro Cultural de Belém - S. G. I. I., S. A., tem inicialmente um capital social de 1500000000$00, o qual se encontra integralmente realizado pelo Estado à data da entrada em vigor deste diploma.
 
 2 - As acções representativas do capital realizado pelo Estado serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestãoi poder ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, deva pertencer ao sector público.
 
@@ -108,11 +154,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - O Estado dotará a Sociedade, de acordo com o disposto no capítulo 50 do Orçamento do Estado, dos meios financeiros necessários à plena satisfação dos encargos inerentes à construção do Centro Cultural de Belém.
 
-###### Art. 3.º O Centro Cultural de Belém - S. G. I. I., S. A., tem como órgãos sociais a assembleia geral, o conselho de administração, o conselho fiscal e o conselho consultivo, com as competências fixadas na lei e nos estatutos.
+Art. 3.º O Centro Cultural de Belém - S. G. I. I., S. A., tem como órgãos sociais a assembleia geral, o conselho de administração, o conselho fiscal e o conselho consultivo, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 4.º O Centro Cultural de Belém - S. G. I. I., S. A., celebrará com o Instituto Português do Património Cultural, no prazo máximo de 60 dias após a entrada em vigor do presente diploma, um protocolo onde, designadamente, sejam estabelecidos os prazos certos para a entrega das várias peças do projecto da obra e, bem assim, outras questões relativas à prestação de assistência técnica, que se reputem necessárias.
+Art. 4.º O Centro Cultural de Belém - S. G. I. I., S. A., celebrará com o Instituto Português do Património Cultural, no prazo máximo de 60 dias após a entrada em vigor do presente diploma, um protocolo onde, designadamente, sejam estabelecidos os prazos certos para a entrega das várias peças do projecto da obra e, bem assim, outras questões relativas à prestação de assistência técnica, que se reputem necessárias.
 
-###### Art. 5.º - 1 - São aprovados os Estatutos do Centro Cultural de Belém - S. G. I. I., S. A., anexos a este diploma, os quais entrarão em vigor com o presente decreto-lei.
+Art. 5.º - 1 - São aprovados os Estatutos do Centro Cultural de Belém - S. G. I. I., S. A., anexos a este diploma, os quais entrarão em vigor com o presente decreto-lei.
 
 2 - Os Estatutos anexos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.
 
@@ -120,41 +166,41 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Todos os actos necessários à regularização e alteração da sociedade são feitos pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração.
 
-###### Art. 6.º É aplicável à construção no Centro Cultural de Belém o disposto no artigo 2.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril.
+Art. 6.º É aplicável à construção no Centro Cultural de Belém o disposto no artigo 2.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril.
 
-###### Art. 7.º Os funcionários do Estado, de institutos públicos, de autarquias locais e de empresas públicas podem ser autorizados a exercer funções no Centro Cultural de Belém - S. G. I. I., S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros de que usufruiriam se tivessem permanecido naquele quadro.
+Art. 7.º Os funcionários do Estado, de institutos públicos, de autarquias locais e de empresas públicas podem ser autorizados a exercer funções no Centro Cultural de Belém - S. G. I. I., S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros de que usufruiriam se tivessem permanecido naquele quadro.
 
-###### Art. 8.º Fica desde já convocada a assembleia geral do Centro Cultural de Belém - S. G. I. I., S. A., a qual deve reunir na sede da Sociedade, no 10.º dia útil após a publicação do presente diploma, com o fim de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 8.º Fica desde já convocada a assembleia geral do Centro Cultural de Belém - S. G. I. I., S. A., a qual deve reunir na sede da Sociedade, no 10.º dia útil após a publicação do presente diploma, com o fim de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 1988. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 17 de Fevereiro de 1989.**
+Promulgado em 17 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Fevereiro de 1989.**
+Referendado em 21 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTOS
 
 ### CAPÍTULO I — Denominação, objecto, duração e sede
 
-###### Artigo 1.º A sociedade denomina-se Centro Cultural de Belém, Sociedade de Gestão e Investimento Imobiliário - S. G. I. I., S. A., adiante abreviadamente designada apenas por Sociedade.
+Artigo 1.º A sociedade denomina-se Centro Cultural de Belém, Sociedade de Gestão e Investimento Imobiliário - S. G. I. I., S. A., adiante abreviadamente designada apenas por Sociedade.
 
-###### Art. 2.º O objecto principal consiste em construir o empreendimento do Centro Cultural de Belém, nos termos do projecto que lhe seja fornecido pelo Instituto Português do Património Cultural, bem como realizar todos os actos necessários a esse fim.
+Art. 2.º O objecto principal consiste em construir o empreendimento do Centro Cultural de Belém, nos termos do projecto que lhe seja fornecido pelo Instituto Português do Património Cultural, bem como realizar todos os actos necessários a esse fim.
 
-###### Art. 3.º A duração da Sociedade é limitada ao cumprimento do seu objecto principal e a sua sede é em Lisboa.
+Art. 3.º A duração da Sociedade é limitada ao cumprimento do seu objecto principal e a sua sede é em Lisboa.
 
 ### CAPÍTULO II — Capital social
 
-###### Art. 4.º O capital social inicial é de 1500000000$00, integralmente realizado pelo Estado e representado por 1500 títulos de acções nominativas com o valor nominal de 1000000$00 cada uma.
+Art. 4.º O capital social inicial é de 1500000000$00, integralmente realizado pelo Estado e representado por 1500 títulos de acções nominativas com o valor nominal de 1000000$00 cada uma.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 5.º São órgãos do Centro Cultural de Belém - S. G. I. I., S. A.:
+Art. 5.º São órgãos do Centro Cultural de Belém - S. G. I. I., S. A.:
 
 a) A assembleia geral;
 
@@ -164,7 +210,7 @@ c) O conselho fiscal;
 
 d) O conselho consultivo.
 
-###### Art. 6.º - 1 - A assembleia geral é constituída por todos os accionistas.
+Art. 6.º - 1 - A assembleia geral é constituída por todos os accionistas.
 
 2 - A cada acção corresponde um voto na assembleia geral.
 
@@ -174,7 +220,7 @@ d) O conselho consultivo.
 
 5 - Nenhum accionista se poderá fazer representar por duas ou mais pessoas.
 
-###### Art. 7.º - 1 - Compete à assembleia geral:
+Art. 7.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração e discutir e votar o balanço, as contas e o parecer do conselho fiscal;
 
@@ -190,19 +236,19 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações serão tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número.
 
-###### Art. 8.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, que é ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
+Art. 8.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, que é ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
 
 2 - O mandato dos membros da mesa da assembleia geral é de três anos, renovável.
 
-###### Art. 9.º A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital.
+Art. 9.º A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital.
 
-###### Art. 10.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais, dos quais dois poderão ser eleitos sem funções executivas.
+Art. 10.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais, dos quais dois poderão ser eleitos sem funções executivas.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
 3 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos pelo próprio conselho de administração até que a primeira assembleia geral sobre eles delibere definitivamente.
 
-###### Art. 11.º - 1 - Ao conselho de administração compete, além da prossecução das atribuições gerais que por lei lhe são conferidas:
+Art. 11.º - 1 - Ao conselho de administração compete, além da prossecução das atribuições gerais que por lei lhe são conferidas:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da Sociedade;
 
@@ -216,7 +262,7 @@ e) Constituir mandatários com os poderes que julgue convenientes, incluindo os 
 
 2 - O conselho de administração poderá delegar numa comissão executiva, ou em qualquer dos seus membros, alguns dos seus poderes.
 
-###### Art. 12.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 12.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -228,13 +274,13 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 13.º - 1 - O conselho de administração deve reunir, pelo menos, uma vez por mês e sempre que seja convocado pelo presidente, por sua iniciativa ou a pedido de dois administradores.
+Art. 13.º - 1 - O conselho de administração deve reunir, pelo menos, uma vez por mês e sempre que seja convocado pelo presidente, por sua iniciativa ou a pedido de dois administradores.
 
 2 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal expressamente reconhecida pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
 
 3 - As deliberações do conselho de administração serão tomadas por maioria dos votos expressos, tendo o presidente, ou quem legalmente o substitua, voto de qualidade.
 
-###### Art. 14.º - 1 - A Sociedade obriga-se:
+Art. 14.º - 1 - A Sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -246,13 +292,13 @@ b) Pela assinatura dos mandatários constituídos, no âmbito e nos termos do co
 
 4 - O conselho de administração poderá deliberar, em termos e dentro dos limites legais, que certos documentos da Sociedade sejam assinados por processos mecânicos ou chancela.
 
-###### Art. 15.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, proposto pelo Ministro das Finanças, composto por um presidente e dois vogais e eleito em assembleia geral.
+Art. 15.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, proposto pelo Ministro das Finanças, composto por um presidente e dois vogais e eleito em assembleia geral.
 
 2 - Um dos vogais efectivos será revisor oficial de contas.
 
 3 - O mandato dos membros do conselho fiscal é de três anos, renovável.
 
-###### Art. 16.º - 1 - Ao conselho fiscal compete, em especial:
+Art. 16.º - 1 - Ao conselho fiscal compete, em especial:
 
 a) Examinar, sempre que o julgue conveniente, a escrituração da Sociedade;
 
@@ -264,9 +310,9 @@ d) Examinar as situações periódicas apresentadas pelo conselho de administra�
 
 e) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais.
 
-###### Art. 17.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício.
+Art. 17.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício.
 
-###### Art. 18.º - 1 - O conselho consultivo é composto por:
+Art. 18.º - 1 - O conselho consultivo é composto por:
 
 a) Um representante do Ministro da Defesa Nacional;
 
@@ -290,15 +336,15 @@ i) Um representante do membro do Governo responsável pela área da cultura.
 
 3 - Os membros do conselho consultivo elegerão de entre si o respectivo presidente.
 
-###### Art. 19.º Compete ao conselho consultivo propor as acções necessárias à correcta execução do empreendimento, tendo em vista os interesses das áreas que representam e a sua necessária articulação com a empresa do Centro Cultural de Belém, S. A.
+Art. 19.º Compete ao conselho consultivo propor as acções necessárias à correcta execução do empreendimento, tendo em vista os interesses das áreas que representam e a sua necessária articulação com a empresa do Centro Cultural de Belém, S. A.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 20.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 20.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 21.º Em todos os casos não previstos nestes estatutos serão observadas as disposições gerais de direito aplicáveis a sociedades anónimas.
+Art. 21.º Em todos os casos não previstos nestes estatutos serão observadas as disposições gerais de direito aplicáveis a sociedades anónimas.
 
-###### Art. 22.º - 1 - A empresa entregará ao Estado as zonas do Centro Cultural de Belém à medida que forem concluídas e em condições de funcionamento.
+Art. 22.º - 1 - A empresa entregará ao Estado as zonas do Centro Cultural de Belém à medida que forem concluídas e em condições de funcionamento.
 
 2 - A Sociedade dissolve-se nos casos e termos legais.
 

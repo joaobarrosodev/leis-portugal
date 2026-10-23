@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/28900/54585466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1989-550429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 304581b62404ff3ce3ef8128584ed3aac1b415e2fbc6a3fc67a967199e6f9e39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d40dc37a4337b6a9b0217ff75758e394dfe27761dfa508644e48337dcef1af0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Educação
+- Estatuto
+- Extinção de Serviços
+- Investigação Científica e Tecnológica
+- Orgânica
+- Pedagogia
 relationships:
 - type: amended_by
   target: pt:dre:216301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658883:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:54Z'
   warnings: []
   errors: []
 ---
@@ -191,15 +225,15 @@ c) À maior antiguidade na função pública.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 1 de Dezembro de 1989.**
+Promulgado em 1 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Dezembro de 1989.**
+Referendado em 6 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTOS DO INSTITUTO DE INOVAÇÃO EDUCACIONAL DE ANTÓNIO AURÉLIO DA COSTA FERREIRA
 
@@ -429,7 +463,9 @@ e) Prestar apoio científico e técnico na área de avaliação a entidades que 
 
 3 - Para o exercício das suas competências, o Departamento de Avaliação Pedagógica desenvolve as suas actividades através de equipas de projecto.
 
-###### Artigo 11.º — Divisão de Programação e Controlo
+###### Artigo 11.º
+
+##### Divisão de Programação e Controlo
 
 À Divisão de Programação e Controlo compete:
 
@@ -613,16 +649,16 @@ O pessoal do IIE rege-se pelas disposições aplicáveis ao pessoal do quadro ú
 
 MAPA I
 
-## Anexo a que se refere o n.º 2 do artigo 3.º do presente diploma
+Anexo a que se refere o n.º 2 do artigo 3.º do presente diploma
 
 Lugares a acrescentar ao quadro único constante dos anexos I e II à [Portaria n.º 226-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/226-a-1988-658883), de 13 de Abril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/28900/54585466.pdf))](https://files.diariodarepublica.pt/1s/1989/12/28900/54585466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/28900/54585466.pdf)
 
 MAPA II
 
-## Anexo a que se refere o n.º 2 do artigo 9.º do presente diploma
+Anexo a que se refere o n.º 2 do artigo 9.º do presente diploma
 
 Pessoal de direcção e chefia do IIE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/28900/54585466.pdf))](https://files.diariodarepublica.pt/1s/1989/12/28900/54585466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/28900/54585466.pdf)

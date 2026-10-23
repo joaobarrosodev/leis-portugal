@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18177-1960-479890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7fa89841dde77b5a287adcccb4b7c2039c6ed947d578e0c5ca8c9de7a3e8b89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1137359d31f1f427f090c14b927a348c01b455afe051e38f993f5cbbf0ba494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:281871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367845:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:25Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +101,11 @@ Regulamento dos Serviços Administrativos da Legião Portuguesa
 
 I) Dos fundos da Legião e sua administração
 
-###### Artigo 1.º Na Legião Portuguesa serão elaborados orçamentos distintos: um para as receitas e despesas da Legião, outro para as receitas e despesas da Defesa Civil do Território.
+Artigo 1.º Na Legião Portuguesa serão elaborados orçamentos distintos: um para as receitas e despesas da Legião, outro para as receitas e despesas da Defesa Civil do Território.
 
-###### Art. 2.º Os orçamentos serão ordinários e suplementares.
+Art. 2.º Os orçamentos serão ordinários e suplementares.
 
-###### Art. 3.º As receitas e despesas nos mesmos incluídas classificam-se em ordinárias e extraordinárias.
+Art. 3.º As receitas e despesas nos mesmos incluídas classificam-se em ordinárias e extraordinárias.
 
 § 1.º As receitas ordinárias compreendem:
 
@@ -139,7 +147,7 @@ c) Pagamento de serviços e diversos encargos.
 
 §. 6.º As despesas extraordinárias constituirão capítulo separado e serão descritas por artigos.
 
-###### Art. 4.º Na organização do orçamento ordinário atender-se-á ao seguinte:
+Art. 4.º Na organização do orçamento ordinário atender-se-á ao seguinte:
 
 1.º As receitas que tenham aplicação a certas e determinadas despesas não podem ser desviadas para outro fim;
 
@@ -149,7 +157,7 @@ c) Pagamento de serviços e diversos encargos.
 
 4.º Para pagamento das dívidas passivas que transitem para o ano seguinte será descrita no orçamento a sua importância total, satisfazendo-se apenas as regularmente autorizadas e realizadas dentro das disponibilidades das verbas orçamentais do ano a que digam respeito.
 
-###### Art. 5.º Podem elaborar-se no decurso do ano económico orçamentos suplementares destinados a ocorrer a despesas extraordinárias ou a reforçar rubricas insuficientemente dotadas no orçamento ordinário.
+Art. 5.º Podem elaborar-se no decurso do ano económico orçamentos suplementares destinados a ocorrer a despesas extraordinárias ou a reforçar rubricas insuficientemente dotadas no orçamento ordinário.
 
 § 1.º Exceptuadas as despesas que resultarem de alteração de ordem pública ou de caso de força maior, não podem ser aprovados mais de dois orçamentos suplementares em cada ano.
 
@@ -165,11 +173,11 @@ d) Importâncias correspondentes a dotações orçamentais anuladas;
 
 e) Saldos apurados na gerência anterior.
 
-###### Art. 6.º Os orçamentos ordinários ou suplementares são organizados de forma que as despesas não excedam as receitas e terão por base a média das receitas dos últimos três anos.
+Art. 6.º Os orçamentos ordinários ou suplementares são organizados de forma que as despesas não excedam as receitas e terão por base a média das receitas dos últimos três anos.
 
-###### Art. 7.º Quando os orçamentos ordinários não puderem ser aprovados até ao começo do ano em que têm de reger, continuarão em vigor os anteriores, mas tão-sòmente na parte relativa às despesas obrigatórias e em relação aos duodécimos que decorrerem até à aprovação dos novos orçamentos.
+Art. 7.º Quando os orçamentos ordinários não puderem ser aprovados até ao começo do ano em que têm de reger, continuarão em vigor os anteriores, mas tão-sòmente na parte relativa às despesas obrigatórias e em relação aos duodécimos que decorrerem até à aprovação dos novos orçamentos.
 
-###### Art. 8.º Consideram-se despesas obrigatórias:
+Art. 8.º Consideram-se despesas obrigatórias:
 
 a) As gratificações ao pessoal;
 
@@ -183,9 +191,9 @@ e) As ajudas de custo e as de transportes;
 
 f) A conservação e aproveitamento de material - veículos com motor, material de transmissões, radiológico e de alerta.
 
-###### Art. 9.º Os quadros do pessoal são anualmente fixados nos orçamentos, assim como as suas gratificações.
+Art. 9.º Os quadros do pessoal são anualmente fixados nos orçamentos, assim como as suas gratificações.
 
-###### Art. 10.º As alterações orçamentais de classe para classe só poderão ser realizadas pela forma indicada no artigo 5.º do presente diploma. Para os orçamentos da Legião são essas alterações da competência do Ministro do Interior; para os orçamentos da Defesa Civil de Território são as mesmas da competência do Ministro da Defesa Nacional.
+Art. 10.º As alterações orçamentais de classe para classe só poderão ser realizadas pela forma indicada no artigo 5.º do presente diploma. Para os orçamentos da Legião são essas alterações da competência do Ministro do Interior; para os orçamentos da Defesa Civil de Território são as mesmas da competência do Ministro da Defesa Nacional.
 
 § 1.º As transferências de artigo para artigo dentro da mesma classe são da competência da Junta Central em relação aos orçamentos da Legião e da competência do Ministro da Defesa Nacional em relação aos orçamentos da Defesa Civil do Território.
 
@@ -193,7 +201,7 @@ f) A conservação e aproveitamento de material - veículos com motor, material 
 
 II) Das receitas
 
-###### Art. 11.º As receitas da Legião Portuguesa são constituídas por:
+Art. 11.º As receitas da Legião Portuguesa são constituídas por:
 
 a) Contribuição dos legionários;
 
@@ -217,7 +225,7 @@ j) Produto da venda de materiais e outros artigos;
 
 l) Rendimentos diversos não especificados.
 
-###### Art. 12.º A contribuição dos legionários é obrigatória para os que tenham possibilidade de a satisfazer, fixando-se o seu valor normal em 2$50.
+Art. 12.º A contribuição dos legionários é obrigatória para os que tenham possibilidade de a satisfazer, fixando-se o seu valor normal em 2$50.
 
 § 1.º Para os legionários de mais fracas possibilidades económicas, a contribuição será, no mínimo, de 1$00.
 
@@ -225,25 +233,25 @@ l) Rendimentos diversos não especificados.
 
 § 3.º Da mesma relação constarão os já inscritos cuja contribuição seja alterada.
 
-###### Art. 13.º Serão convidadas, por intermédio da Junta Central, as pessoas que estejam em condições económicas desafogadas a subsidiar anual e permanentemente as despesas da Legião, ou a colaborar com esta pela cedência de meios de transporte, de transmissão ou de quaisquer outros elementos úteis à sua actividade. As pessoas que anuírem ao convite serão designadas por subscritores permanentes.
+Art. 13.º Serão convidadas, por intermédio da Junta Central, as pessoas que estejam em condições económicas desafogadas a subsidiar anual e permanentemente as despesas da Legião, ou a colaborar com esta pela cedência de meios de transporte, de transmissão ou de quaisquer outros elementos úteis à sua actividade. As pessoas que anuírem ao convite serão designadas por subscritores permanentes.
 
 § 1.º O convite será verbal ou por carta, preenchendo o subscritor a declaração modelo A/5, que documentará a sua inscrição no livro modelo A/7.
 
 § 2.º A Junta Central remeterá ao conselho administrativo, directamente ou por intermédio do Comando-Geral, as declarações devidamente assinadas que serão escrituradas na relação modelo A/6.
 
-###### Art. 14.º Os subscritores permanentes serão inscritos no livro modelo A/7 em face das declarações a que se referem os parágrafos do artigo anterior.
+Art. 14.º Os subscritores permanentes serão inscritos no livro modelo A/7 em face das declarações a que se referem os parágrafos do artigo anterior.
 
 § 1.º Será organizado no conselho administrativo, por distritos, o cadastro dos subscritores permanentes, de harmonia com o verbete modelo A/8, no qual se darão as baixas dos pagamentos efectuados, à medida que forem recebidos os elementos mencionados no § único do artigo 29.º
 
 § 2.º Quando da declaração conste que há ao dispor da Legião meios de transporte ou de transmissão, ou quaisquer outros elementos úteis à sua actividade, serão estes, com a indicação do nome e morada do proprietário, comunicados ao Comando-Geral, que do facto dará conhecimento ao comando distrital competente.
 
-###### Art. 15.º Os subscritores permanentes serão considerados «amigos da Legião» e poderá ser-lhes concedido distintivo especial, com o número que lhes ficar competindo no livro A/7.
+Art. 15.º Os subscritores permanentes serão considerados «amigos da Legião» e poderá ser-lhes concedido distintivo especial, com o número que lhes ficar competindo no livro A/7.
 
-###### Art. 16.º Os donativos dos subscritores permanentes não poderão ser inferiores a 120$00 anuais, pagos por uma só vez ou em prestações semestrais, trimestrais ou mensais, conforme indicação feita pelo subscritor na declaração A/5.
+Art. 16.º Os donativos dos subscritores permanentes não poderão ser inferiores a 120$00 anuais, pagos por uma só vez ou em prestações semestrais, trimestrais ou mensais, conforme indicação feita pelo subscritor na declaração A/5.
 
 § único. Quaisquer outros donativos de montante inferior serão escriturados e arrecadados nos termos do artigo 18.º
 
-###### Art. 17.º A Casa da Moeda emitirá, por conta da Legião Portuguesa, estampilhas das taxas de 1$00, 2$50, 5$00, 7$50, 15$00, 25$00, 30$00, 50$00, 75$00, 100$00, 120$00, 150$00 e 200$00, que serão vendidas nas tesourarias da Fazenda Pública.
+Art. 17.º A Casa da Moeda emitirá, por conta da Legião Portuguesa, estampilhas das taxas de 1$00, 2$50, 5$00, 7$50, 15$00, 25$00, 30$00, 50$00, 75$00, 100$00, 120$00, 150$00 e 200$00, que serão vendidas nas tesourarias da Fazenda Pública.
 
 § 1.º O conselho administrativo indicará à Casa da Moeda as quantidades a fornecer a cada tesouraria da Fazenda Pública, devendo aquela instituição comunicar as devoluções.
 
@@ -251,23 +259,23 @@ l) Rendimentos diversos não especificados.
 
 § 3.º Reconhecendo-se que em alguma tesouraria da Fazenda Pública a existência de estampilhas é superior ao consumo normal de três anos, poderá o director de finanças solicitar a sua redução à Junta Central, a qual fixará as quantidades que deverão ser devolvidas à Casa da Moeda para ali ficarem depositadas.
 
-###### Art. 18.º O produto de quaisquer donativos eventuais entrará, dentro de três dias, na Caixa Geral do Depósitos, Crédito e Previdência, por meio de guia A/10, ou será convertido em estampilhas coladas e inutilizadas no modelo A/22 ou em papel avulso.
+Art. 18.º O produto de quaisquer donativos eventuais entrará, dentro de três dias, na Caixa Geral do Depósitos, Crédito e Previdência, por meio de guia A/10, ou será convertido em estampilhas coladas e inutilizadas no modelo A/22 ou em papel avulso.
 
 Quando o pagamento seja efectuado por meio de guia, está será passada em triplicado e, depois de exarada a nota de pagamento, um dos exemplares será remetido ao conselho administrativo. Igualmente lhe serão enviados os documentos com as estampilhas inutilizadas quando o pagamento for feito por este meio.
 
-###### Art. 19.º Em caso algum se aplicará o produto de quaisquer donativos sem que prèviamente tenha dado entrada na Caixa Geral de Depósitos, Crédito e Previdência, nos termos do artigo 51.º
+Art. 19.º Em caso algum se aplicará o produto de quaisquer donativos sem que prèviamente tenha dado entrada na Caixa Geral de Depósitos, Crédito e Previdência, nos termos do artigo 51.º
 
 § único. O não cumprimento do disposto neste artigo dará imediatamente origem a processo disciplinar, independentemente de processo-crime, se for caso disso.
 
-###### Art. 20.º As direcções de finanças enviarão ao conselho administrativo, até ao dia 20 de cada mês, nota modelo A/23 do produto da venda das estampilhas da Legião.
+Art. 20.º As direcções de finanças enviarão ao conselho administrativo, até ao dia 20 de cada mês, nota modelo A/23 do produto da venda das estampilhas da Legião.
 
-###### Art. 21.º Para custear despesas de qualquer unidade é expressamente proibida a angariação directa ou indirecta de fundos de pessoas estranhas à Legião, devendo dar entrada no cofre central todos os que assim forem obtidos.
+Art. 21.º Para custear despesas de qualquer unidade é expressamente proibida a angariação directa ou indirecta de fundos de pessoas estranhas à Legião, devendo dar entrada no cofre central todos os que assim forem obtidos.
 
 § único. O disposto neste artigo não impede que, sem prejuízo do preceituado no artigo 12.º, se estabeleçam quotizações apenas entre legionários do mesmo comando ou unidade, com o fim de beneficiar os seus serviços.
 
-###### Art. 22.º Nenhumas festas ou espectáculos poderão realizar-se em favor da Legião Portuguesa sem prévia autorização da Junta Central, expondo-se no pedido a natureza das diversões e quais as condições estabelecidas para o apuramento e distribuição do seu produto.
+Art. 22.º Nenhumas festas ou espectáculos poderão realizar-se em favor da Legião Portuguesa sem prévia autorização da Junta Central, expondo-se no pedido a natureza das diversões e quais as condições estabelecidas para o apuramento e distribuição do seu produto.
 
-###### Art. 23.º De harmonia com os princípios gerais estabelecidos neste regulamento, será o próprio legionário quem, espontâneamente, efectua o pagamento da sua contribuição, para o que aporá devidamente na caderneta modelo A/2 as estampilhas correspondentes, inutilizando-as com a data por algarismo, dois traços cruzados e a indicação legível do seu apelido; mas, se não souber escrever, a inutilização será feita por outrem, que indicará sobre a estampilha o mesmo apelido.
+Art. 23.º De harmonia com os princípios gerais estabelecidos neste regulamento, será o próprio legionário quem, espontâneamente, efectua o pagamento da sua contribuição, para o que aporá devidamente na caderneta modelo A/2 as estampilhas correspondentes, inutilizando-as com a data por algarismo, dois traços cruzados e a indicação legível do seu apelido; mas, se não souber escrever, a inutilização será feita por outrem, que indicará sobre a estampilha o mesmo apelido.
 
 § 1.º O pagamento será tanto quanto possível feito aos trimestres e efectuar-se-á nos meses de Janeiro, Abril, Julho e Outubro.
 
@@ -275,17 +283,17 @@ Quando o pagamento seja efectuado por meio de guia, está será passada em tripl
 
 § 3.º Os legionários que se subscrevam com quantia inferior a 30$00 anuais pagarão as respectivas importâncias por meio de estampilhas coladas na nota modelo A/22 ou em papel avulso, observando-se, quanto à sua inutilização, o disposto no corpo deste artigo.
 
-###### Art. 24.º Os comandantes de unidades, subunidades ou núcleos de legionários devem verificar mensalmente, em face das cadernetas que para esse efeito lhes serão apresentadas, se estão efectuados os pagamentos das prestações, tendo sempre presente que a contribuição é uma forma activa de servir a Legião.
+Art. 24.º Os comandantes de unidades, subunidades ou núcleos de legionários devem verificar mensalmente, em face das cadernetas que para esse efeito lhes serão apresentadas, se estão efectuados os pagamentos das prestações, tendo sempre presente que a contribuição é uma forma activa de servir a Legião.
 
 § 1.º Na falta de pagamento de qualquer prestação, será o legionário notificado para o realizar até à seguinte verificação.
 
 § 2.º Se o legionário deixar de efectuar o pagamento de duas prestações seguidas, cumprido o disposto no parágrafo anterior, será o facto comunicado ao comando distrital.
 
-###### Art. 25.º Os comandos distritais organização trimestralmente, em face das comunicações a que alude o parágrafo anterior, a nota modelo A/3 dos legionários que tenham deixado de fazer o pagamento de duas prestações e remetê-la-ão ao conselho administrativo para este a submeter à apreciação do Comando-Geral.
+Art. 25.º Os comandos distritais organização trimestralmente, em face das comunicações a que alude o parágrafo anterior, a nota modelo A/3 dos legionários que tenham deixado de fazer o pagamento de duas prestações e remetê-la-ão ao conselho administrativo para este a submeter à apreciação do Comando-Geral.
 
-###### Art. 26.º O conselho administrativo poderá avocar anualmente dos comandos as cadernetas modelo A/2 para efeitos de fiscalização.
+Art. 26.º O conselho administrativo poderá avocar anualmente dos comandos as cadernetas modelo A/2 para efeitos de fiscalização.
 
-###### Art. 27.º A cobrança das subscrições anuais e permanentes é feita pela Administração-Geral dos Correios, Telégrafos e Telefones.
+Art. 27.º A cobrança das subscrições anuais e permanentes é feita pela Administração-Geral dos Correios, Telégrafos e Telefones.
 
 § 1.º No conselho administrativo organizar-se-ão relações modelo A/17, em triplicado, com indicação do número de inscrição do subscritor no livro de registo geral, nome, morada, importância anual, número de prestações em que se efectua o pagamento, importância de cada uma e meses em que se procede à cobrança.
 
@@ -307,7 +315,7 @@ c) Os dos subscritores de que trata a alínea c), ao chefe das serviços dos cor
 
 As alterações ou aditamentos às relações serão objecto de comunicação ou de relações adicionais a remeter às mesmas entidades.
 
-###### Art. 28.º Os recibos modelo A/18 serão processados e enviados para cobrança, até ao dia 15 do primeiro mês do seu vencimento, às entidades a que se referem as alíneas a), b) e c) do § 3.º do artigo antecedente, acompanhados do ofício modelo A/19, em duplicado.
+Art. 28.º Os recibos modelo A/18 serão processados e enviados para cobrança, até ao dia 15 do primeiro mês do seu vencimento, às entidades a que se referem as alíneas a), b) e c) do § 3.º do artigo antecedente, acompanhados do ofício modelo A/19, em duplicado.
 
 Neste ofício indicar-se-ão sempre as quantidades dos recibos, números dos subscritores e respectivas importâncias.
 
@@ -315,21 +323,21 @@ Neste ofício indicar-se-ão sempre as quantidades dos recibos, números dos sub
 
 § 2.º Os sobrescritos de que trata o parágrafo anterior serão requisitados nas estações postais.
 
-###### Art. 29.º O produto da cobrança dos recibos a que alude o artigo anterior será convertido em vales do correio, nos quais se inscreverá, no alto, a tinta encarnada, «Fundos da Legião Portuguesa», que serão pagos em Lisboa à Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 29.º O produto da cobrança dos recibos a que alude o artigo anterior será convertido em vales do correio, nos quais se inscreverá, no alto, a tinta encarnada, «Fundos da Legião Portuguesa», que serão pagos em Lisboa à Caixa Geral de Depósitos, Crédito e Previdência.
 
 § único. Efectuadas as cobranças, será preenchido o verso do duplicado do ofício modelo A/19 e devolvido ao conselho administrativo.
 
-###### Art. 30.º O prazo para a liquidação das cobranças é de 15 dias no continente e de 23 nas ilhas adjacentes, dentro do mês em que o pagamento se deva efectuar.
+Art. 30.º O prazo para a liquidação das cobranças é de 15 dias no continente e de 23 nas ilhas adjacentes, dentro do mês em que o pagamento se deva efectuar.
 
-###### Art. 31.º Os prémios, taxas e percentagens devidos ao correio pelo serviço de cobrança serão deduzidos das importâncias recebidas.
+Art. 31.º Os prémios, taxas e percentagens devidos ao correio pelo serviço de cobrança serão deduzidos das importâncias recebidas.
 
-###### Art. 32.º Sempre que os serviços dos correios e telégrafos devolvam recibos por falta de cobrança, o conselho administrativo remeterá aos comandos distritais relações modelo A/15, por concelhos e bairros, acompanhadas dos recibos em dívida, para os comandantes das unidades locais ordenarem a sua cobrança e fazerem entrega das importâncias recebidas no cofre central pela forma estabelecida no artigo 18.º
+Art. 32.º Sempre que os serviços dos correios e telégrafos devolvam recibos por falta de cobrança, o conselho administrativo remeterá aos comandos distritais relações modelo A/15, por concelhos e bairros, acompanhadas dos recibos em dívida, para os comandantes das unidades locais ordenarem a sua cobrança e fazerem entrega das importâncias recebidas no cofre central pela forma estabelecida no artigo 18.º
 
 § único. Os recibos serão debitados aos comandos em conta especial que se creditará pelas quantias entregues e pela importância dos recibos devolvidos por falta de pagamento. Estas devoluções importam a baixa no livro do cadastro modelo A/7.
 
 III) Das despesas
 
-###### Art. 33.º Nenhuma despesa poderá ser ordenada pelo conselho administrativo sem que esteja prevista no orçamento respectivo e autorizada pela entidade competente.
+Art. 33.º Nenhuma despesa poderá ser ordenada pelo conselho administrativo sem que esteja prevista no orçamento respectivo e autorizada pela entidade competente.
 
 § 1.º São competentes para autorizar despesas e dispensar de concurso público e de contrato escrito:
 
@@ -343,11 +351,11 @@ d) As entidades competentes do departamento da Defesa Nacional, nas condições 
 
 § 2.º A autorização de qualquer despesa será precedida da informação do seu cabimento, sem o que não será exequível; exceptuam-se as despesas de carácter permanente que não excedam os respectivos duodécimos.
 
-###### Art. 34.º As entidades que contraírem despesas sem prévia autorização da entidade competente ficarão pessoal e solidàriamente responsáveis pelo seu pagamento.
+Art. 34.º As entidades que contraírem despesas sem prévia autorização da entidade competente ficarão pessoal e solidàriamente responsáveis pelo seu pagamento.
 
 § único. O conselho administrativo fica responsável pela importância das despesas que ordenar e que não possa ser comportada na respectiva verba orçamental.
 
-###### Art. 35.º As despesas com as gratificações do pessoal são processadas pelas delegações administrativas dos comandos distritais e Comando da Brigada Naval em folhas modelo A/11 e enviadas ao conselho administrativo para conferência até ao dia 10 do mês àquele a que digam respeito.
+Art. 35.º As despesas com as gratificações do pessoal são processadas pelas delegações administrativas dos comandos distritais e Comando da Brigada Naval em folhas modelo A/11 e enviadas ao conselho administrativo para conferência até ao dia 10 do mês àquele a que digam respeito.
 
 § 1.º Os comandos distritais das ilhas adjacentes remeterão as mesmas folhas de maneira que sejam recebidas no conselho administrativo até ao dia 15 de cada mês.
 
@@ -355,25 +363,25 @@ d) As entidades competentes do departamento da Defesa Nacional, nas condições 
 
 § 3.º Nenhum pagamento de despesas a que se refere o presente artigo poderá ser efectuado sem que esteja autorizado pelo conselho administrativo, ainda que se verifique o caso previsto no parágrafo anterior.
 
-###### Art. 36.º As folhas das despesas com o pessoal processadas no modelo A/11 e as das restantes despesas processadas no modelo A/13 são enviadas ao conselho administrativo, depois de pagas, até ao dia 8 do mês seguinte àquele a que respeitem, acompanhadas da respectiva documentação, constituindo dois processos distintos: um referente ao orçamento da Legião e outro ao da Defesa Civil do Território.
+Art. 36.º As folhas das despesas com o pessoal processadas no modelo A/11 e as das restantes despesas processadas no modelo A/13 são enviadas ao conselho administrativo, depois de pagas, até ao dia 8 do mês seguinte àquele a que respeitem, acompanhadas da respectiva documentação, constituindo dois processos distintos: um referente ao orçamento da Legião e outro ao da Defesa Civil do Território.
 
 § único. Toda a documentação será visada pelos presidentes das delegações administrativas.
 
-###### Art. 37.º Nos meses de Janeiro e Fevereiro são postos à disposição dos comandos os duodécimos correspondentes às despesas, com excepção das do pessoal, e nos meses seguintes sòmente são enviadas as importâncias relativas às despesas que hajam efectuado e depois de verificadas no conselho administrativo.
+Art. 37.º Nos meses de Janeiro e Fevereiro são postos à disposição dos comandos os duodécimos correspondentes às despesas, com excepção das do pessoal, e nos meses seguintes sòmente são enviadas as importâncias relativas às despesas que hajam efectuado e depois de verificadas no conselho administrativo.
 
-###### Art. 38.º Os comandos entregarão, até 15 de Janeiro de cada ano, na Caixa Geral de Depósitos, Crédito e Previdência, por meio de guia, os saldos do ano anterior que apresentem as respectivas contas correntes.
+Art. 38.º Os comandos entregarão, até 15 de Janeiro de cada ano, na Caixa Geral de Depósitos, Crédito e Previdência, por meio de guia, os saldos do ano anterior que apresentem as respectivas contas correntes.
 
-###### Art. 39.º As despesas serão, em regra, satisfeitas por meio de cheques nominativos a favor dos credores, mediante recibo legal.
+Art. 39.º As despesas serão, em regra, satisfeitas por meio de cheques nominativos a favor dos credores, mediante recibo legal.
 
 Os cheques também podem ser passados a favor dos comandantes das unidades e das subunidades e do chefe da Repartição da Contabilidade e Tesouraria do conselho administrativo.
 
-###### Art. 40.º Uma vez aprovadas, consideram-se permanentemente autorizadas as despesas previstas no orçamento para pessoal, rendas de casa, limpeza, água, luz, telefone e todas as outras resultantes de contratos e ainda as relativas a pequenas reparações eventuais.
+Art. 40.º Uma vez aprovadas, consideram-se permanentemente autorizadas as despesas previstas no orçamento para pessoal, rendas de casa, limpeza, água, luz, telefone e todas as outras resultantes de contratos e ainda as relativas a pequenas reparações eventuais.
 
-###### Art. 41.º A realização de despesas com concentrações de forças, ordenadas pelo Comando-Geral ou por sua delegação, para instrução especial, ou por motivos de prevenção ou de alterações de ordem pública, não fica dependente de qualquer autorização.
+Art. 41.º A realização de despesas com concentrações de forças, ordenadas pelo Comando-Geral ou por sua delegação, para instrução especial, ou por motivos de prevenção ou de alterações de ordem pública, não fica dependente de qualquer autorização.
 
 IV) Da contabilidade
 
-###### Art. 42.º Para a contabilidade e demais serviços serão escriturados os seguintes livros:
+Art. 42.º Para a contabilidade e demais serviços serão escriturados os seguintes livros:
 
 a) De receita e despesa (modelo A/24). O débito deste livro é formado pelas receitas a que se refere o artigo 38.º e o crédito pelas despesas orçamentadas e documentadas com as folhas modelo A/11, documentos modelo A/12 e relação modelo A/13. Este livro será encerrado mensalmente;
 
@@ -411,13 +419,13 @@ r) De folhas soltas individuais com os abonos feitos aos funcionários da Legiã
 
 § único. Os artigos de expediente de uso corrente não são levados ao inventário nem ao livro de contas correntes de materiais reembolsáveis, modelo A/32, arquivando-se apenas o duplicado das requisições. São, todavia, sempre inventariados os cinturões, palas e polainas, cedidos a título precário aos legionários pobres.
 
-###### Art. 43.º Além dos livros a que se refere o artigo anterior e dos impressos criados por este regulamento, poderá o conselho administrativo propor ao comandante-geral a aprovação de outros que entenda convenientes, nos quais continuará a numeração que lhes corresponder em seguida à do último, sempre precedido da letra A.
+Art. 43.º Além dos livros a que se refere o artigo anterior e dos impressos criados por este regulamento, poderá o conselho administrativo propor ao comandante-geral a aprovação de outros que entenda convenientes, nos quais continuará a numeração que lhes corresponder em seguida à do último, sempre precedido da letra A.
 
 V) Do conselho administrativo
 
-###### Art. 44.º A administração dos fundos da Legião Portuguesa, anualmente orçamentados, incluindo os que advêm do subsídio para a Defesa Civil do Território, compete ao comandante-geral através dos órgãos próprios do seu quartel-general e que são o conselho administrativo e os serviços administrativos:
+Art. 44.º A administração dos fundos da Legião Portuguesa, anualmente orçamentados, incluindo os que advêm do subsídio para a Defesa Civil do Território, compete ao comandante-geral através dos órgãos próprios do seu quartel-general e que são o conselho administrativo e os serviços administrativos:
 
-###### Art. 45.º O conselho administrativo, directamente subordinado ao comandante-geral, tem funções consultivas e executivas e é constituído por um presidente e quatro vogais.
+Art. 45.º O conselho administrativo, directamente subordinado ao comandante-geral, tem funções consultivas e executivas e é constituído por um presidente e quatro vogais.
 
 § 1.º A nomeação do presidente, que deverá recair sempre num dos 2.os comandantes-gerais, e a dos quatro vogais, será feita pelo comandante-geral
 
@@ -429,9 +437,9 @@ b) O chefe dos serviços administrativos da Legião Portuguesa;
 
 c) Dois oficiais de milícia da Legião Portuguesa, com reconhecida capacidade administrativa, de preferência com a licenciatura em Ciências Económicas e Financeiras.
 
-###### Art. 46.º Servirá de secretário nas reuniões do conselho administrativo, sem voto, o chefe da Repartição do Orçamento e Administração.
+Art. 46.º Servirá de secretário nas reuniões do conselho administrativo, sem voto, o chefe da Repartição do Orçamento e Administração.
 
-###### Art. 47.º O conselho considera-se constituído com a maioria dos seus membros e reunirá, pelo menos, uma vez por semana.
+Art. 47.º O conselho considera-se constituído com a maioria dos seus membros e reunirá, pelo menos, uma vez por semana.
 
 § 1.º O vogal chefe do estado-maior substituirá o presidente nos seus impedimentos.
 
@@ -439,13 +447,13 @@ c) Dois oficiais de milícia da Legião Portuguesa, com reconhecida capacidade a
 
 § 3.º Aos dois restantes vogais, além dos assuntos gerais do conselho, incumbem, em especial, a um as despesas do orçamento da Legião e ao outro as receitas do mesmo orçamento e os serviços relacionados com a Assistência Social da Legião Portuguesa e a sua fiscalização.
 
-###### Art. 48.º Do que se resolver nas sessões do conselho se lavrará acta em livro com folhas numeradas, devidamente rubricadas pelo presidente e com termos de abertura e encerramento por ele assinados.
+Art. 48.º Do que se resolver nas sessões do conselho se lavrará acta em livro com folhas numeradas, devidamente rubricadas pelo presidente e com termos de abertura e encerramento por ele assinados.
 
 § 1.º As actas serão lavradas e subscritas pelo secretário e assinadas pelos membros do conselho.
 
 § 2.º A redacção da acta compete ao secretário, que submeterá a respectiva minuta na sessão seguinte à aprovação do conselho.
 
-###### Art. 49.º Compete ao conselho administrativo:
+Art. 49.º Compete ao conselho administrativo:
 
 1.º Organizar até 30 de Novembro os projectos dos orçamentos da Legião e da Defesa Civil do Território para o ano económico seguinte;
 
@@ -467,15 +475,15 @@ b) As notas dos duodécimos vencidos, das importâncias autorizadas e dos saldos
 
 8.º Organizar dentro de 30 dias, a contar da data em que a Caixa Geral de Depósitos, Crédito e Previdência encerrar a conta anual dos depósitos da Legião Portuguesa referida a 31 de Dezembro, as contas documentadas do ano anterior, especificando por artigos e capítulos as verbas orçamentais despendidos e os respectivos saldos.
 
-###### Art. 50.º As despesas confidenciais ou reservadas serão fiscalizadas: as que respeitam ao orçamento da Legião pelo presidente da Junta Central e as respeitantes ao orçamento da Defesa Civil do Território pelo comandante-geral, sendo os fundos entregues pelo conselho administrativo em face do despacho das referidas entidades.
+Art. 50.º As despesas confidenciais ou reservadas serão fiscalizadas: as que respeitam ao orçamento da Legião pelo presidente da Junta Central e as respeitantes ao orçamento da Defesa Civil do Território pelo comandante-geral, sendo os fundos entregues pelo conselho administrativo em face do despacho das referidas entidades.
 
-###### Art. 51.º Todas as receitas atribuídas à Legião serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do conselho administrativo.
+Art. 51.º Todas as receitas atribuídas à Legião serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do conselho administrativo.
 
 § único. A Caixa Geral de Depósitos, Crédito e Previdência enviará ao conselho administrativo, até ao dia 15 do mês seguinte, nota da qual conste a soma dos depósitos e levantamentos efectuados no mês anterior.
 
-###### Art. 52.º Os levantamentos de fundos serão feitos por meio de cheques assinadas pelo presidente do conselho administrativo ou por quem o substitua e por um dos vogais.
+Art. 52.º Os levantamentos de fundos serão feitos por meio de cheques assinadas pelo presidente do conselho administrativo ou por quem o substitua e por um dos vogais.
 
-###### Art. 53.º Subordinadas ao conselho administrativo funcionarão as três repartições seguintes:
+Art. 53.º Subordinadas ao conselho administrativo funcionarão as três repartições seguintes:
 
 a) Repartição do Orçamento e Administração (1.ª Repartição);
 
@@ -485,7 +493,7 @@ c) Repartição de Contabilidade e Tesouraria (3.ª Repartição).
 
 § único. Cada uma destas três Repartições compreenderá duas secções.
 
-###### Art. 54.º À 1.ª Repartição compete:
+Art. 54.º À 1.ª Repartição compete:
 
 1.º Coligir e estudar os elementos necessários para a organização dos orçamentos, em face das propostas dos vários comandos, e propor as alterações que se mostrem necessárias durante a sua execução;
 
@@ -493,7 +501,7 @@ c) Repartição de Contabilidade e Tesouraria (3.ª Repartição).
 
 3.º Escriturar a receita e despesa respeitante à assistência a cantinas legionárias e preparar e executar todo o expediente com as mesmas.
 
-###### Art. 55.º À 2.ª Repartição compete:
+Art. 55.º À 2.ª Repartição compete:
 
 1.º Verificar toda a despesa orçamental da Legião e da Defesa Civil do Território;
 
@@ -503,7 +511,7 @@ c) Repartição de Contabilidade e Tesouraria (3.ª Repartição).
 
 4.º Fornecer à repartição encarregada do inventário do património da Legião e da Defesa Civil do Território os elementos constantes das diversas aquisições, para efeitos de organização do cadastro.
 
-###### Art. 56.º À 3.ª Repartição compete:
+Art. 56.º À 3.ª Repartição compete:
 
 1.º Escriturar toda a receita da Legião e da Defesa Civil do Território;
 
@@ -511,7 +519,7 @@ c) Repartição de Contabilidade e Tesouraria (3.ª Repartição).
 
 3.º Elaborar mensalmente as contas de caixa respeitantes aos fundos da Legião e da Defesa Civil do Território.
 
-###### Art. 57.º A qualquer dos membros do conselho administrativo indicados nas alíneas b) e c) do artigo 45.º poderá o comandante-geral atribuir funções de inspecção, competindo-lhes nesta situação:
+Art. 57.º A qualquer dos membros do conselho administrativo indicados nas alíneas b) e c) do artigo 45.º poderá o comandante-geral atribuir funções de inspecção, competindo-lhes nesta situação:
 
 1.º Inspeccionar, nas delegações administrativas, as receitas e despesas, angariação de fundos, ordenação e escrita dos livros e o mais que lhes for superiormente indicado;
 
@@ -519,7 +527,7 @@ c) Repartição de Contabilidade e Tesouraria (3.ª Repartição).
 
 VI) Das delegações administrativas
 
-###### Art. 58.º Em cada comando distrital, Brigada Naval e demais serviços autónomos haverá uma delegação do conselho administrativo, constituída pelo comandante, que servirá de presidente, e por dois vogais, desempenhando um deles as funções de secretário e o outro as de tesoureiro. No Comando-Geral haverá idêntica delegação, constituída por três oficiais nomeados pelo comandante-geral.
+Art. 58.º Em cada comando distrital, Brigada Naval e demais serviços autónomos haverá uma delegação do conselho administrativo, constituída pelo comandante, que servirá de presidente, e por dois vogais, desempenhando um deles as funções de secretário e o outro as de tesoureiro. No Comando-Geral haverá idêntica delegação, constituída por três oficiais nomeados pelo comandante-geral.
 
 § 1.º Ao presidente cumpre:
 
@@ -555,7 +563,7 @@ c) Cobrar da Caixa Geral de Depósitos, Crédito e Previdência as importâncias
 
 d) Satisfazer, em face das folhas assinadas pelo presidente, as despesas superiormente autorizadas, mediante os competentes recibos.
 
-###### Art. 59.º Haverá nas delegações administrativas os livros seguintes:
+Art. 59.º Haverá nas delegações administrativas os livros seguintes:
 
 a) De registo dos donativos eventuais entregues em dinheiro ou pagos por estampilha (modelo A/36);
 
@@ -575,11 +583,11 @@ g) Das contas correntes com o conselho administrativo (modelo A/132).
 
 § 2.º Os livros a que se referem as alíneas a), b), c), d) e e) deste artigo são escriturados pelo tesoureiro. Os livros indicados nas alíneas f) e g), pelo secretário.
 
-###### Art. 60.º Todos os documentos pagos serão remetidos ao conselho administrativo, de harmonia com o artigo 36.º, observando-se o disposto nos seus parágrafos. Os documentos que se não encontrem devidamente processados e selados serão devolvidos para se rectificarem.
+Art. 60.º Todos os documentos pagos serão remetidos ao conselho administrativo, de harmonia com o artigo 36.º, observando-se o disposto nos seus parágrafos. Os documentos que se não encontrem devidamente processados e selados serão devolvidos para se rectificarem.
 
 VII) Das subdelegações administrativas
 
-###### Art. 61.º Imediatamente subordinada à delegação administrativa haverá, em cada batalhão e em cada subunidade independente, uma subdelegação administrativa, composta do comandante, que será o presidente, do 2.º comandante e do secretário, que servirá de tesoureiro.
+Art. 61.º Imediatamente subordinada à delegação administrativa haverá, em cada batalhão e em cada subunidade independente, uma subdelegação administrativa, composta do comandante, que será o presidente, do 2.º comandante e do secretário, que servirá de tesoureiro.
 
 § 1.º Nas unidades que não tenham secretários serão tais funções desempenhadas gratuitamente por um legionário, escolhido pelo respectivo comandante.
 
@@ -587,9 +595,9 @@ VII) Das subdelegações administrativas
 
 § 3.º Ao secretário compete: efectuar os pagamentos mediante recibo, processar os documentos de despesa, a arrecadação dos artigos adquiridos, actualizar o inventário, conferir as facturas, verificar a autenticidade dos pagamentos, passar guias (modelo A/10) para darem entrada na Caixa Geral de Depósitos, Crédito e Previdência os donativos superiores a 200$00 e promover o pagamento, por meio de estampilhas, em nota modelo A/22, dos que forem de quantias inferiores. O triplicado da guia e as notas com as estampilhas inutilizadas serão directamente enviados ao conselho administrativo, relacionados num modelo A/30.
 
-###### Art. 62.º Os documentos relativos às despesas satisfeitas nas subdelegações serão remetidos ao secretário da respectiva delegação até ao dia 5 de cada mês, para serem incorporados no processo de contas mensal, a subir ao conselho administrativo nos termos do artigo 60.º
+Art. 62.º Os documentos relativos às despesas satisfeitas nas subdelegações serão remetidos ao secretário da respectiva delegação até ao dia 5 de cada mês, para serem incorporados no processo de contas mensal, a subir ao conselho administrativo nos termos do artigo 60.º
 
-###### Art. 63.º Haverá nas subdelegações os livros de registo seguintes:
+Art. 63.º Haverá nas subdelegações os livros de registo seguintes:
 
 a) Dos encargos mensais permanentes (modelo A/42);
 
@@ -597,19 +605,19 @@ b) Das cadernetas dos legionários contribuintes (modelo A/43);
 
 c) Quaisquer outros que o conselho administrativo julgue necessários.
 
-###### Art. 64.º O conselho administrativo fornecerá às subdelegações listas (modelo A/44) dos subscritores permanentes da respectiva jurisdição.
+Art. 64.º O conselho administrativo fornecerá às subdelegações listas (modelo A/44) dos subscritores permanentes da respectiva jurisdição.
 
-###### Art. 65.º Os secretários das subdelegações debitarão em livro especial os recibos que forem enviados para cobrança, de harmonia com o artigo 32.º, creditando-se pelas entregas feitas na Caixa Geral de Depósitos, Crédito e Previdência e pelas devoluções dos recibos que não forem pagos.
+Art. 65.º Os secretários das subdelegações debitarão em livro especial os recibos que forem enviados para cobrança, de harmonia com o artigo 32.º, creditando-se pelas entregas feitas na Caixa Geral de Depósitos, Crédito e Previdência e pelas devoluções dos recibos que não forem pagos.
 
 VIII) Do pessoal
 
-###### Art. 66.º Compete ao comandante-geral a nomeação e demissão de todo o pessoal dos diferentes serviços da Legião Portuguesa.
+Art. 66.º Compete ao comandante-geral a nomeação e demissão de todo o pessoal dos diferentes serviços da Legião Portuguesa.
 
-###### Art. 67.º Das propostas dos comandantes distritais e da Brigada Naval, respeitantes à admissão do pessoal para os serviços dos seus comandos, devem constar informações concretas e pormenorizadas acerca da sua situação, capacidade e habilitações.
+Art. 67.º Das propostas dos comandantes distritais e da Brigada Naval, respeitantes à admissão do pessoal para os serviços dos seus comandos, devem constar informações concretas e pormenorizadas acerca da sua situação, capacidade e habilitações.
 
 IX) Dos emblemas
 
-###### Art. 68.º Os emblemas da Legião consistem:
+Art. 68.º Os emblemas da Legião consistem:
 
 a) Em um quadrado de 0,013 m de lado, esmaltado a branco vítreo, tendo ao centro a cruz de Avis de braços iguais, tendo cada braço a dimensão transversal de 7 mm, esmaltado a verde, também vítreo, circundada por uma coroa de folhas de oliveira esmaltada na mesma cor e tendo cada ramo 11 mm de comprimento;
 
@@ -631,9 +639,9 @@ c) Em um quadrado igual ao da alínea a), com as mesmas características, mas co
 
 § 7.º Estes documentos e os relativos a fornecimentos gratuitos constituirão títulos de crédito do livro de contas correntes de materiais reembolsáveis, modelo A/32.
 
-###### Art. 69.º É expressamente proibido o fabrico de emblemas da Legião sem requisição assinada pelo presidente do conselho administrativo, autenticada com o selo branco.
+Art. 69.º É expressamente proibido o fabrico de emblemas da Legião sem requisição assinada pelo presidente do conselho administrativo, autenticada com o selo branco.
 
-###### Art. 70.º O emblema da Defesa Civil do Território consiste em um círculo em esmalte branco, com a cruz de Avis em esmalte verde, circundado por uma coroa em esmalte encarnado com a letras DCT em esmalte preto formando um triângulo equilátero; tanto o círculo como a coroa são limitados por circunferências em esmalte preto, respectivamente com os diâmetros de 7 mm e 14 mm.
+Art. 70.º O emblema da Defesa Civil do Território consiste em um círculo em esmalte branco, com a cruz de Avis em esmalte verde, circundado por uma coroa em esmalte encarnado com a letras DCT em esmalte preto formando um triângulo equilátero; tanto o círculo como a coroa são limitados por circunferências em esmalte preto, respectivamente com os diâmetros de 7 mm e 14 mm.
 
 § 1.º Os emblemas da Defesa Civil do Território podem ser cedidos gratuitamente por determinação do Comando-Geral.
 
@@ -643,7 +651,7 @@ c) Em um quadrado igual ao da alínea a), com as mesmas características, mas co
 
 X) Dos fardamentos
 
-###### Art. 71.º Os fardamentos e calçado serão distribuídos da seguinte forma:
+Art. 71.º Os fardamentos e calçado serão distribuídos da seguinte forma:
 
 a) Gratuitamente, os uniformes de trabalho e de campanha;
 
@@ -657,21 +665,21 @@ b) Mediante prévio pagamento ou em prestações semestrais, os uniformes de pas
 
 É igualmente considerado fiel depositário do seu fardamento o legionário que o adquirir a prestações, até ao seu total pagamento.
 
-###### Art. 72.º Os legionários podem confeccionar directamente os seus uniformes, adquirindo, a pronto pagamento, os tecidos e demais artigos por intermédio do conselho administrativo.
+Art. 72.º Os legionários podem confeccionar directamente os seus uniformes, adquirindo, a pronto pagamento, os tecidos e demais artigos por intermédio do conselho administrativo.
 
 § único. É expressamente proibida a aquisição de fardamentos ou tecidos fora das condições previstas neste artigo.
 
-###### Art. 73.º O pagamento referido na alínea b) do artigo 71.º poderá ser feito por meio de estampilhas coladas e inutilizadas na folha modelo A/44, observando-se, sobre a sua inutilização, a parte aplicável do artigo 23.º
+Art. 73.º O pagamento referido na alínea b) do artigo 71.º poderá ser feito por meio de estampilhas coladas e inutilizadas na folha modelo A/44, observando-se, sobre a sua inutilização, a parte aplicável do artigo 23.º
 
 Efectuado o pagamento, as folhas serão relacionadas no modelo A/45 e enviadas ao conselho administrativo para crédito da conta do comando.
 
-###### Art. 74.º No conselho administrativo organizar-se-ão verbetes modelo A/46, por distritos e por ordem alfabética, para fiscalização do disposto nos artigos anteriores. Nestes verbetes dar-se-á baixa das quantias pagas.
+Art. 74.º No conselho administrativo organizar-se-ão verbetes modelo A/46, por distritos e por ordem alfabética, para fiscalização do disposto nos artigos anteriores. Nestes verbetes dar-se-á baixa das quantias pagas.
 
 XI) Dos concursos e fiscalização dos fornecimentos
 
-###### Art. 75.º As despesas que hajam de efectuar-se com obras ou com aquisições e venda de material regulam-se pelas disposições legais em vigor para todos os serviços do Estado.
+Art. 75.º As despesas que hajam de efectuar-se com obras ou com aquisições e venda de material regulam-se pelas disposições legais em vigor para todos os serviços do Estado.
 
-###### Art. 76.º O conselho administrativo reserva-se a faculdade de verificar, quando o entender oportuno, nos armazéns, fábricas, oficinas ou quaisquer outros locais destinados à fabricação e tintura dos tecidos, não sòmente os processos empregados e o modo como são cumpridas e asseguradas as cláusulas constantes dos contratos, mas de ali mandar colher as amostras, em qualquer estado de preparação, que forem necessárias para efectuar as convenientes análises.
+Art. 76.º O conselho administrativo reserva-se a faculdade de verificar, quando o entender oportuno, nos armazéns, fábricas, oficinas ou quaisquer outros locais destinados à fabricação e tintura dos tecidos, não sòmente os processos empregados e o modo como são cumpridas e asseguradas as cláusulas constantes dos contratos, mas de ali mandar colher as amostras, em qualquer estado de preparação, que forem necessárias para efectuar as convenientes análises.
 
 § 1.º O uso da faculdade consignada no presente artigo é restrita à entidade que o conselho administrativo designar para tal fim, devendo ser-lhe dados, pelos respectivos gerentes, os esclarecimentos verbais ou escritos de que necessitar para o cumprimento da sua missão.
 
@@ -679,25 +687,25 @@ XI) Dos concursos e fiscalização dos fornecimentos
 
 § 3.º A identidade dos agentes da fiscalização será estabelecida pela apresentação, na fábrica ou estabelecimento a visitar, do documento de nomeação assinado pelo conselho administrativo.
 
-###### Art. 77.º Além do conselho administrativo, as Oficinas Gerais de Fardamento do Exército, representadas pelo seu pessoal técnico, são também competentes para decidir e verificar sobre a aceitação ou recusa dos tecidos que lhes forem remetidos para confecção de fardamentos, depois de efectuados os exames respectivos.
+Art. 77.º Além do conselho administrativo, as Oficinas Gerais de Fardamento do Exército, representadas pelo seu pessoal técnico, são também competentes para decidir e verificar sobre a aceitação ou recusa dos tecidos que lhes forem remetidos para confecção de fardamentos, depois de efectuados os exames respectivos.
 
 As recusas serão sempre motivadas e comunicadas por escrito aos adjudicatários.
 
-###### Art. 78.º Poderão ser aceites as peças de tecido que contenham pequenos defeitos de fabrico que não permitam beneficiamentos, sendo neste caso feitas nas peças as deduções correspondentes à superfície defeituosa é às perdas que subsequentemente se possam ainda produzir por causa desses defeitos, quando se tratar de realizar o corte de cada peça nos diversos fragmentos exigidos pelo consumo.
+Art. 78.º Poderão ser aceites as peças de tecido que contenham pequenos defeitos de fabrico que não permitam beneficiamentos, sendo neste caso feitas nas peças as deduções correspondentes à superfície defeituosa é às perdas que subsequentemente se possam ainda produzir por causa desses defeitos, quando se tratar de realizar o corte de cada peça nos diversos fragmentos exigidos pelo consumo.
 
 § único. As Oficinas Gerais de Fardamento do Exército são competentes para marcar as superfícies defeituosas e avaliar as deduções correspondentes.
 
-###### Art. 79.º Para o serviço de verificação poderá inutilizar-se até 1 por cento da quantidade de artigos fornecidos, sem que o adjudicatário tenha direito a indemnização.
+Art. 79.º Para o serviço de verificação poderá inutilizar-se até 1 por cento da quantidade de artigos fornecidos, sem que o adjudicatário tenha direito a indemnização.
 
-###### Art. 80.º O conselho administrativo fiscalizará a execução das diversas cláusulas dos contratos e exigirá dos adjudicatários o seu fiel cumprimento.
+Art. 80.º O conselho administrativo fiscalizará a execução das diversas cláusulas dos contratos e exigirá dos adjudicatários o seu fiel cumprimento.
 
 § único. As multas a que houver lugar são aplicadas imediatamente à expiração dos prazos competentes.
 
-###### Art. 81.º Havendo recusas sucessivas de artigos da mesma partida requisitada, poderá a porção rejeitada ser adquirida no mercado por conta e risco do adjudicatário.
+Art. 81.º Havendo recusas sucessivas de artigos da mesma partida requisitada, poderá a porção rejeitada ser adquirida no mercado por conta e risco do adjudicatário.
 
-###### Art. 82.º Não obstante a fiscalização e verificações estabelecidas, a responsabilidade do adjudicatário pela má qualidade dos artigos fornecidos prolongar-se-á durante um ano, a contar do dia da entrega definitiva, sendo-lhe imposta a indemnização do seu valor segundo o preço do contrato, não podendo, por isso, ser restituída a caução ou anulada a fiança sem que tenha decorrido este prazo.
+Art. 82.º Não obstante a fiscalização e verificações estabelecidas, a responsabilidade do adjudicatário pela má qualidade dos artigos fornecidos prolongar-se-á durante um ano, a contar do dia da entrega definitiva, sendo-lhe imposta a indemnização do seu valor segundo o preço do contrato, não podendo, por isso, ser restituída a caução ou anulada a fiança sem que tenha decorrido este prazo.
 
-###### Art. 83.º O conselho administrativo terá o direito de rescindir o contrato, sem dependência de qualquer acto judicial ou de natureza diferente, nos casos seguintes:
+Art. 83.º O conselho administrativo terá o direito de rescindir o contrato, sem dependência de qualquer acto judicial ou de natureza diferente, nos casos seguintes:
 
 1.º Quando o adjudicatário haja revelado negligência no cumprimento do seu contrato:
 
@@ -719,6 +727,6 @@ b) Não fazendo a entrega por uma só vez, se a demora ocorrida exceder quinze d
 
 § 2.º No caso de rescisão do contrato por qualquer dos fundamentos constantes do presente artigo, o adjudicatário perderá a caução, que reverterá a favor da Legião Portuguesa.
 
-###### Art. 84.º O adjudicatário que houver cometido qualquer dos factos mencionados nos n.os 4.º, 5.º e 6.º do artigo anterior não poderá ser admitido a quaisquer concursos que ulteriormente se realizem, o que se tornará público nos jornais de maior circulação de Lisboa e Porto, com indicação dos motivos que determinaram esta decisão.
+Art. 84.º O adjudicatário que houver cometido qualquer dos factos mencionados nos n.os 4.º, 5.º e 6.º do artigo anterior não poderá ser admitido a quaisquer concursos que ulteriormente se realizem, o que se tornará público nos jornais de maior circulação de Lisboa e Porto, com indicação dos motivos que determinaram esta decisão.
 
 Junta Central da Legião Portuguesa, 31 de Dezembro de 1960. - O Presidente da Junta Central, Sebastião Garcia Ramires.

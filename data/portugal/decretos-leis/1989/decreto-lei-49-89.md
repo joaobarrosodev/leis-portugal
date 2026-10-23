@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04400/07410743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1989-612404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d664c6b2a1c1573087b6998eb1bf2450e21694d034d5791a4efbf0817a99c03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 291275b6589a8afd7982370bf863c2d118fe5084e5264162975027f48ebd1f6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Instituição Financeira
+- Regime Jurídico
+- Sociedade Administradora de Compras em Grupo
+- Venda a Prestações
 relationships:
 - type: amended_by
   target: pt:dre:478045:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:192786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406118:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:548228:por
+  label: "Revogada a alínea c) do n.º 1 do artigo 3.º, pelo DEC LEI.318/89.23.09.1989.MF, DR.IS [220] de 23.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1989-548228
+  date: '1989-09-23'
+- type: repealed_by
+  target: pt:dre:478045:por
+  label: "Revogado pelo DEC LEI.206/95.1995.08.14.MF, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1995-478045
+  date: '1995-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:32Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +142,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Constitui objecto do presente diploma a regulamentação da constituição e funcionamento das empresas que prossigam a actividade de financiamento da aquisição de bens ou serviços a crédito.
+Artigo 1.º Constitui objecto do presente diploma a regulamentação da constituição e funcionamento das empresas que prossigam a actividade de financiamento da aquisição de bens ou serviços a crédito.
 
-###### Art. 2.º As sociedades financeiras para aquisições a crédito, neste diploma designadas abreviadamente por SFAC, são instituições parabancárias que têm por objecto exclusivo:
+Art. 2.º As sociedades financeiras para aquisições a crédito, neste diploma designadas abreviadamente por SFAC, são instituições parabancárias que têm por objecto exclusivo:
 
 a) O financiamento da aquisição a crédito de bens ou serviços, nomeadamente sob a forma de:
 
@@ -123,7 +158,7 @@ Antecipação de fundos sobre créditos de que sejam cessionárias as SFAC;
 
 b) A prestação de serviços directamente relacionados com as formas de financiamento referidas na alínea anterior, nomeadamente a simples gestão de créditos.
 
-###### Art. 3.º - 1 - Às SFAC é especialmente vedado:
+Art. 3.º - 1 - Às SFAC é especialmente vedado:
 
 a) O exercício directo de qualquer actividade agrícola, industrial ou comercial que exceda o seu próprio objecto;
 
@@ -137,27 +172,27 @@ e) A aquisição de imóveis, para além dos necessários às suas instalações
 
 2 - Quando a aquisição dos bens referidos nas alíneas c) e e) do número anterior for consequência da cobrança de dívidas de terceiros, devem as SFAC proceder à respectiva alienação no prazo de seis meses, tratando-se de acções, ou de um ano, tratando-se de imóveis.
 
-###### Art. 4.º - 1 - A actividade própria das SFAC não pode ser desenvolvida por qualquer outra entidade, com excepção das instituições de crédito e de outras instituições parabancárias em cujo objecto expressamente se integre a mesma actividade.
+Art. 4.º - 1 - A actividade própria das SFAC não pode ser desenvolvida por qualquer outra entidade, com excepção das instituições de crédito e de outras instituições parabancárias em cujo objecto expressamente se integre a mesma actividade.
 
 2 - O disposto no número anterior abrange a realização de operações e a prestação de serviços no âmbito da actividade comercial, ou outra, da entidade financiadora, desde que a comercialização dos bens ou serviços não seja feita directamente por essa entidade.
 
-###### Art. 5.º - 1 - As SFAC constituem-se sob a forma de sociedade anónima.
+Art. 5.º - 1 - As SFAC constituem-se sob a forma de sociedade anónima.
 
 2 - As SFAC devem ter realizado, na data da constituição, um capital social mínimo, a fixar por portaria do Ministro das Finanças, que não poderá ser inferior a 500 milhões de escudos.
 
 3 - As SFAC só podem constituir-se depois de os seus accionistas fazerem prova da realização do capital da sociedade.
 
-###### Art. 6.º - 1 - A autorização para a constituição das SFAC será concedida mediante portaria do Ministro da Finanças.
+Art. 6.º - 1 - A autorização para a constituição das SFAC será concedida mediante portaria do Ministro da Finanças.
 
 2 - Sem prejuízo do que neste diploma se estabelece, a constituição e as condições de funcionamento das SFAC, bem como a abertura das respectivas filiais, sucursais e agências, regem-se, com as necessárias adaptações, pelo disposto no [Decreto-Lei n.º 23/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1986-193813), de 18 de Fevereiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 116/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1986-226866), de 27 de Maio, exceptuando-se, no entanto, o preceituado nos seus artigos 3.º, n.os 1 e 4, 8.º, 10.º, n.os 3 e 4, 11.º, n.º 2, 19.º, 22.º, n.os 2 e 3, 24.º, n.os 3 e 4, 39.º, 40.º e 40.º-A.
 
 3 - O Ministro das Finanças pode ordenar, por despacho, a imediata cessação da actividade própria das SFAC, quando exercida sem autorização, nomeando para o efeito uma comissão liquidatária, sendo aplicável neste caso o processo de liquidação das instituições parabancárias previsto no [Decreto-Lei n.º 30689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30689-1940-192786), de 27 de Agosto de 1940, sem prejuízo de outras medidas e sanções previstas na lei.
 
-###### Art. 7.º Aos membros dos órgãos de administração e fiscalização das SFAC, bem como aos accionistas que detenham mais de 20% do capital das mesmas sociedades, é vedado possuir participação no capital, pertencer em nome próprio ou em representação de outrem aos órgãos sociais ou desempenhar quaisquer funções noutras SFAC.
+Art. 7.º Aos membros dos órgãos de administração e fiscalização das SFAC, bem como aos accionistas que detenham mais de 20% do capital das mesmas sociedades, é vedado possuir participação no capital, pertencer em nome próprio ou em representação de outrem aos órgãos sociais ou desempenhar quaisquer funções noutras SFAC.
 
-###### Art. 8.º As SFAC ficam sujeitas à supervisão do Banco de Portugal, incumbindo a este emitir as directivas necessárias a essa supervisão e estabelecer eventuais obrigações específicas de carácter contabilístico e estatístico.
+Art. 8.º As SFAC ficam sujeitas à supervisão do Banco de Portugal, incumbindo a este emitir as directivas necessárias a essa supervisão e estabelecer eventuais obrigações específicas de carácter contabilístico e estatístico.
 
-###### Art. 9.º Por aviso do Banco de Portugal poderão ser definidas as relações a observar pelas SFAC na composição e relação de rubricas do activo, do passivo e da situação liquida entre si ou com certas espécies de operações, podendo também fixar-se:
+Art. 9.º Por aviso do Banco de Portugal poderão ser definidas as relações a observar pelas SFAC na composição e relação de rubricas do activo, do passivo e da situação liquida entre si ou com certas espécies de operações, podendo também fixar-se:
 
 a) Limites e formas de cobertura das responsabilidades efectivas perante terceiros;
 
@@ -165,11 +200,11 @@ b) Limites à emissão de obrigações;
 
 c) Limites à realização de operações com uma só entidade.
 
-###### Art. 10.º Verificando-se alguma situação de desequilíbrio susceptível de afectar o regular funcionamento de uma SFAC ou de perturbar as condições normais dos mercados monetário e financeiro, poderão ser tomadas, em relação à mesma sociedade, as providências extraordinárias previstas para os bancos comerciais e de investimento.
+Art. 10.º Verificando-se alguma situação de desequilíbrio susceptível de afectar o regular funcionamento de uma SFAC ou de perturbar as condições normais dos mercados monetário e financeiro, poderão ser tomadas, em relação à mesma sociedade, as providências extraordinárias previstas para os bancos comerciais e de investimento.
 
-###### Art. 11.º As SFAC regem-se pelas normas do presente diploma, pela legislação aplicável ao conjunto das instituições parabancárias e ainda, subsidiáriamente, pelas disposições que regulam a actividade das instituições de crédito, com as necessárias adaptações.
+Art. 11.º As SFAC regem-se pelas normas do presente diploma, pela legislação aplicável ao conjunto das instituições parabancárias e ainda, subsidiáriamente, pelas disposições que regulam a actividade das instituições de crédito, com as necessárias adaptações.
 
-###### Art. 12.º - 1 - As entidades que, à data da publicação do presente diploma, exerçam a actividade nele regulada devem promover as diligências necessárias para, no prazo de seis meses a contar da data de entrada em vigor deste diploma, se adaptarem ao novo regime.
+Art. 12.º - 1 - As entidades que, à data da publicação do presente diploma, exerçam a actividade nele regulada devem promover as diligências necessárias para, no prazo de seis meses a contar da data de entrada em vigor deste diploma, se adaptarem ao novo regime.
 
 2 - Fica vedada às entidades referidas no número anterior a actividade própria das SFAC se, findo o prazo referido no mesmo número, não tiverem sido promovidas as adaptações devidas.
 
@@ -179,12 +214,12 @@ c) Limites à realização de operações com uma só entidade.
 
 Visto e aprovado em Conselhos de Ministros de 12 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 9 de Fevereiro de 1989.**
+Promulgado em 9 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1989.**
+Referendado em 9 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

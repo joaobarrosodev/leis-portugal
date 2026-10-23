@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29900/56635666.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1989-551256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23e0dafad7f2c734b27fc376b3a0baa014c3a2105ddca443aaf5e65c57569643
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8760a2760a4d3f39d98604f5a47ba65a0d9530eb15701df59990b4c07fed5bfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Turismo de Portugal no Estrangeiro
+- Instituto de Promoção Turística
+- Promoção Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:684396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472152:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:684396:por
+  label: Revogado pelo(a) Decreto-Lei n.º 179/92 - Diário da República n.º 188/1992, 1º Suplemento, Série I-A de 1992-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1992-684396
+  date: '1992-08-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:19Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +148,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Organização, atribuições e competências
 
-###### Artigo 1.º Os serviços do Instituto de Promoção Turística (IPT) no estrangeiro regem-se pelas disposições aplicáveis do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, pelo disposto no presente diploma e por regulamento a aprovar por portaria conjunta dos Ministros das Finanças e dos Negócios Estrangeiros e do membro do Governo responsável pelo sector do turismo.
+Artigo 1.º Os serviços do Instituto de Promoção Turística (IPT) no estrangeiro regem-se pelas disposições aplicáveis do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, pelo disposto no presente diploma e por regulamento a aprovar por portaria conjunta dos Ministros das Finanças e dos Negócios Estrangeiros e do membro do Governo responsável pelo sector do turismo.
 
-###### Art. 2.º - 1 - Os serviços do IPT no estrangeiro são constituídos pelos centros de turismo de Portugal (CTP) e suas delegações.
+Art. 2.º - 1 - Os serviços do IPT no estrangeiro são constituídos pelos centros de turismo de Portugal (CTP) e suas delegações.
 
 2 - Os CTP funcionarão na dependência directa do IPT, estando também sujeitos à orientação do Ministro dos Negócios Estrangeiros, através do chefe da missão no país, do qual os directores dos CTP dependerão hierárquica e funcionalmente quando lhes tenha sido concedido estatuto de adidos ou conselheiros de embaixada.
 
 3 - Os actuais serviços do IPT no estrangeiro constarão de uma lista a publicar por portaria conjunta dos Ministros das Finanças e dos Negócios Estrangeiros e do membro do Governo responsável pelo sector do turismo.
 
-###### Art. 3.º - 1 - Os CTP são criados na dependência directa do IPT, em países considerados de maior relevância como mercados emissores de turismo, e podem abranger na sua área de actuação um ou mais países.
+Art. 3.º - 1 - Os CTP são criados na dependência directa do IPT, em países considerados de maior relevância como mercados emissores de turismo, e podem abranger na sua área de actuação um ou mais países.
 
 2 - Quando a dimensão do mercado e o interesse para o turismo o justifiquem, podem ser criadas delegações dos CTP nas respectivas áreas de actuação.
 
@@ -123,9 +164,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os diplomas que criarem os CPT delimitarão as suas áreas de actuação e fixarão o local da respectiva sede.
 
-###### Art. 4.º Incumbe fundamentalmente aos serviços do IPT no estrangeiro assegurar a promoção da imagem turística do País e do turismo português em geral.
+Art. 4.º Incumbe fundamentalmente aos serviços do IPT no estrangeiro assegurar a promoção da imagem turística do País e do turismo português em geral.
 
-###### Art. 5.º - 1 - Aos CTP compete, designadamente:
+Art. 5.º - 1 - Aos CTP compete, designadamente:
 
 a) Representar o IPT na sua área de actuação;
 
@@ -153,25 +194,25 @@ d) Participar em feiras, exposições ou manifestações afins;
 
 e) Realizar acções publicitárias, directamente ou em colaboração com outras entidades.
 
-###### Art. 6.º Sempre que se mostre conveniente para uma maior eficácia da promoção turística, as acções de vários centros poderão ser coordenadas, a nível regional, por um director de CTP a designar para o efeito por despacho do membro do Governo responsável pelo sector do turismo.
+Art. 6.º Sempre que se mostre conveniente para uma maior eficácia da promoção turística, as acções de vários centros poderão ser coordenadas, a nível regional, por um director de CTP a designar para o efeito por despacho do membro do Governo responsável pelo sector do turismo.
 
-###### Art. 7.º Sem prejuízo do disposto no artigo 4.º do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, os CTP podem, sempre que os interesses do turismo o aconselhem, estabelecer acordos de cooperação com outras entidades, públicas ou privadas, nacionais ou estrangeiras, tendo em vista a divulgação da oferta turística portuguesa e o acompanhamento da execução das acções respectivas.
+Art. 7.º Sem prejuízo do disposto no artigo 4.º do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, os CTP podem, sempre que os interesses do turismo o aconselhem, estabelecer acordos de cooperação com outras entidades, públicas ou privadas, nacionais ou estrangeiras, tendo em vista a divulgação da oferta turística portuguesa e o acompanhamento da execução das acções respectivas.
 
 ### CAPÍTULO II — Gestão financeira e patrimonial
 
-###### Art. 8.º Sem prejuízo do disposto no presente diploma, a gestão dos serviços do IPT no estrangeiro desenvolver-se-á de harmonia com o estabelecido no artigo 40.º do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro.
+Art. 8.º Sem prejuízo do disposto no presente diploma, a gestão dos serviços do IPT no estrangeiro desenvolver-se-á de harmonia com o estabelecido no artigo 40.º do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro.
 
-###### Art. 9.º As dotações atribuídas aos serviços do IPT no estrangeiro são dispensadas do regime duodecimal.
+Art. 9.º As dotações atribuídas aos serviços do IPT no estrangeiro são dispensadas do regime duodecimal.
 
-###### Art. 10.º - 1 - Os directores dos CTP são competentes para realizar despesas e autorizar a dispensa de concurso ou de contrato escrito para a realização das mesmas até ao limite da competência que, nos termos do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 227/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1985-183014), de 4 de Julho, está consignada aos órgãos dirigentes dos serviços com autonomia administrativa.
+Art. 10.º - 1 - Os directores dos CTP são competentes para realizar despesas e autorizar a dispensa de concurso ou de contrato escrito para a realização das mesmas até ao limite da competência que, nos termos do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 227/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1985-183014), de 4 de Julho, está consignada aos órgãos dirigentes dos serviços com autonomia administrativa.
 
 2 - Para além dos limites referidos no número anterior, devem ser solicitadas ao IPT as autorizações necessárias para a realização de despesas que os serviços tenham de efectuar, bem como a autorização para dispensa de formalidades relativas à realização de concursos ou celebração de contratos.
 
 3 - A realização de despesas no estrangeiro com obras e aquisições de serviços respeitantes a projectos inseridos em programas de investimentos do plano já aprovados é dispensada do cumprimento das formalidades referidas no número anterior.
 
-###### Art. 11.º As despesas referidas no n.º 3 do artigo anterior e, bem assim, as que respeitem à admissão local do pessoal necessário ao funcionamento dos serviços do IPT no estrangeiro realizar-se-ão sem sujeição a outras formalidades, incluindo o visto do Tribunal de Contas.
+Art. 11.º As despesas referidas no n.º 3 do artigo anterior e, bem assim, as que respeitem à admissão local do pessoal necessário ao funcionamento dos serviços do IPT no estrangeiro realizar-se-ão sem sujeição a outras formalidades, incluindo o visto do Tribunal de Contas.
 
-###### Art. 12.º - 1 - Os planos de actividade, os orçamentos e as contas de gerência dos CTP serão submetidos à aprovação do membro do Governo responsável pelo sector do turismo.
+Art. 12.º - 1 - Os planos de actividade, os orçamentos e as contas de gerência dos CTP serão submetidos à aprovação do membro do Governo responsável pelo sector do turismo.
 
 2 - Os saldos transitados do ano anterior poderão ser integrados no orçamento do ano seguinte.
 
@@ -179,11 +220,11 @@ e) Realizar acções publicitárias, directamente ou em colaboração com outras
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 13.º - 1 - Os serviços do IPT no estrangeiro disporão de quadros de pessoal a fixar anualmente, de harmonia com as exigências do seu funcionamento, mediante despacho conjunto dos Ministro das Finanças e do membro do Governo responsável pelo sector do turismo.
+Art. 13.º - 1 - Os serviços do IPT no estrangeiro disporão de quadros de pessoal a fixar anualmente, de harmonia com as exigências do seu funcionamento, mediante despacho conjunto dos Ministro das Finanças e do membro do Governo responsável pelo sector do turismo.
 
 2 - Excepcionalmente, poderão os directores dos CTP contratar localmente a prestação de serviços com carácter eventual, para a realização de tarefas específicas e por tempo determinado.
 
-###### Art. 14.º - 1 - Os CTP são geridos por um director.
+Art. 14.º - 1 - Os CTP são geridos por um director.
 
 2 - Quando a importância do mercado o justifique, poderão os directores dos CTP ser coadjuvados por um subdirector.
 
@@ -195,7 +236,7 @@ e) Realizar acções publicitárias, directamente ou em colaboração com outras
 
 6 - O restante pessoal dos serviços no estrangeiro depende hierárquica e funcionalmente do director do CTP respectivo.
 
-###### Art. 15.º - 1 - O pessoal dos serviços do IPT no estrangeiro será recrutado nos termos do regulamento a que se refere o artigo 1.º, sem prejuízo do disposto no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
+Art. 15.º - 1 - O pessoal dos serviços do IPT no estrangeiro será recrutado nos termos do regulamento a que se refere o artigo 1.º, sem prejuízo do disposto no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
 
 2 - O seu provimento será feito em comissão de serviço, ou em regime de direito privado, por contratação local, através de despacho do presidente do IPT.
 
@@ -203,11 +244,11 @@ e) Realizar acções publicitárias, directamente ou em colaboração com outras
 
 4 - Sendo aplicável a lei laboral local, e se esta o permitir, as questões de natureza disciplinar ficam submetidas às normas da função pública portuguesa.
 
-###### Art. 16.º As remunerações do pessoal dos serviços do IPT no estrangeiro serão fixadas anualmente em moeda local ou convertível, segundo tabela a aprovar mediante despacho conjunto do Ministro das Finanças e do membro do Governo responsável pelo sector do turismo, mediante proposta do presidente do IPT.
+Art. 16.º As remunerações do pessoal dos serviços do IPT no estrangeiro serão fixadas anualmente em moeda local ou convertível, segundo tabela a aprovar mediante despacho conjunto do Ministro das Finanças e do membro do Governo responsável pelo sector do turismo, mediante proposta do presidente do IPT.
 
-###### Art. 17.º Ao pessoal dos serviços no estrangeiro na efectividade de serviço serão abonados, em cada ano, subsídios de férias e de Natal correspondentes à respectiva remuneração mensal.
+Art. 17.º Ao pessoal dos serviços no estrangeiro na efectividade de serviço serão abonados, em cada ano, subsídios de férias e de Natal correspondentes à respectiva remuneração mensal.
 
-###### Art. 18.º - 1 - Os funcionários nomeados em comissão de serviço têm igualmente direito aos seguintes abonos, de montantes e nas condições fixadas no regulamento a que se refere o artigo 1.º do presente diploma:
+Art. 18.º - 1 - Os funcionários nomeados em comissão de serviço têm igualmente direito aos seguintes abonos, de montantes e nas condições fixadas no regulamento a que se refere o artigo 1.º do presente diploma:
 
 a) Subsídio de instalação;
 
@@ -219,7 +260,7 @@ d) Subsídio de renda de casa.
 
 2 - Os contratados, quando transferidos de um para outro local, no estrangeiro, têm direito aos subsídios referidos no número anterior.
 
-###### Art. 19.º - 1 - São aplicáveis ao pessoal dos serviços do IPT no estrangeiro, nas suas deslocações, as tabelas de ajudas de custo em vigor para a função pública portuguesa.
+Art. 19.º - 1 - São aplicáveis ao pessoal dos serviços do IPT no estrangeiro, nas suas deslocações, as tabelas de ajudas de custo em vigor para a função pública portuguesa.
 
 2 - Mediante autorização do IPT, nos casos em que, por motivo da sua actividade promocional, o mesmo pessoal seja obrigado a instalar-se em hóteis de categoria incompatível com a ajuda de custo respectiva, será pago o alojamento e pequeno-almoço continental, quando não incluído no alojamento, e 50% da respectiva ajuda de custo.
 
@@ -227,7 +268,7 @@ d) Subsídio de renda de casa.
 
 4 - Quando se trate de participação em acontecimentos de interesse para o turismo, designadamente conferências internacionais e congressos, que, por razões de prestígio, impliquem a utilização de estabelecimentos hoteleiros de nível de todo incomportável pela ajuda de custo em vigor, será abonada ao respectivo pessoal, mediante autorização do IPT, a ajuda de custo a que tiver direito, acrescida da diferença entre esta e a despesa efectivamente realizada e comprovada.
 
-###### Art. 20.º - 1 - Os serviços do IPT no estrangeiro inscreverão o pessoal comissionado nos sistemas locais de segurança social para efeitos de assistência médica, medicamentosa e hospitalar.
+Art. 20.º - 1 - Os serviços do IPT no estrangeiro inscreverão o pessoal comissionado nos sistemas locais de segurança social para efeitos de assistência médica, medicamentosa e hospitalar.
 
 2 - Quando não seja possível a inscrição no sistema local de segurança social nos termos do número anterior, os referidos serviços contratarão com entidades seguradoras os esquemas de assistência na doença a que alude o número anterior.
 
@@ -241,22 +282,22 @@ d) Subsídio de renda de casa.
 
 7 - As regalias de assistência na doença referidas nos números precedentes são extensivas ao agregado familiar dos funcionários ou agentes.
 
-###### Art. 21.º Os serviços do IPT no estrangeiro contratarão igualmente com companhias seguradoras a cobertura do seu pessoal contra o risco de acidentes de trabalho.
+Art. 21.º Os serviços do IPT no estrangeiro contratarão igualmente com companhias seguradoras a cobertura do seu pessoal contra o risco de acidentes de trabalho.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 22.º São revogados o artigo 5.º-A do [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152), de 19 de Outubro, aditado pelo [Decreto-Lei n.º 83/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1983-310667), de 11 de Fevereiro, o [Decreto Regulamentar n.º 44/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1982-394292), de 24 de Julho, o [Decreto-Lei n.º 199/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1983-451274), de 19 de Maio, e o n.º 2 do artigo 30.º e os artigos 32.º e 33.º do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro.
+Art. 22.º São revogados o artigo 5.º-A do [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152), de 19 de Outubro, aditado pelo [Decreto-Lei n.º 83/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1983-310667), de 11 de Fevereiro, o [Decreto Regulamentar n.º 44/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1982-394292), de 24 de Julho, o [Decreto-Lei n.º 199/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1983-451274), de 19 de Maio, e o n.º 2 do artigo 30.º e os artigos 32.º e 33.º do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro.
 
-###### Art. 23.º Os artigos 2.º a 22.º do presente diploma só produzem efeitos a partir da data de entrada em vigor da portaria a que se refere o artigo 1.º
+Art. 23.º Os artigos 2.º a 22.º do presente diploma só produzem efeitos a partir da data de entrada em vigor da portaria a que se refere o artigo 1.º
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 14 de Dezembro de 1989.**
+Promulgado em 14 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1989.**
+Referendado em 18 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

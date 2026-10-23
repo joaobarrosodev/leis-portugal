@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1989-614779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30b8c1cb5ef53befebd66fc2ccccd767b560f5de7330f12eec1cd4f4e07188d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fe0f4661c69f93c0a4c4c1487e7b3f0afa293de473c8b2d8fd6cc5c78a8dede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso
+- Ensino Superior Politécnico
+- Equivalência de Habilitações Literárias
+- Escola Náutica Infante Dom Henrique
+- Estabelecimento de Ensino
+- Integração de Serviços
+- Ministério das Obras Públicas Transportes e Comunicações
 relationships:
 - type: amended_by
   target: pt:dre:277124:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:322508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322509:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276032:por
+  label: "Revogado, com excepção do art. 6º, pelo DEC LEI.16/2002.2002.01.29.MES DR.IS-A [24], nos termos do respectivo art.\
+    \ 33º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2002-276032
+  date: '2002-01-29'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:34Z'
   warnings: []
   errors: []
 ---
@@ -134,12 +155,12 @@ As vagas para a matrícula e inscrição nos primeiros anos de cada curso minist
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1989.**
+Referendado em 16 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

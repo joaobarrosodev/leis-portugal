@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1989-551255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c950f746de81925ee55d048e8ab84d9463a5a3764a1de972eeda780af17e3933
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae40363e7be8c257e89ee33ec4ea0c109288e94799fdc55b0917f00c02335276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Betão
+- Construção Civil
+- Indústria da Construção
+- Material de Construção
+- Proteção do Consumidor
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:635208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504317:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:307456:por
+  label: Rectificado pela DECL.DD3381.1990.02.17.PCM, DR-IS [49]2ºSupl de 28/Fev/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-307456
+  date: '1990-02-17'
+- type: repealed_by
+  target: pt:dre:635208:por
+  label: "Revogado pelo DEC LEI.330/95.1995.12.14.MOPTC, DR.IS-A [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1995-635208
+  date: '1995-12-14'
 article_structure:
-  article_count: 43
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 42
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:19Z'
   warnings: []
   errors: []
 ---
@@ -98,23 +134,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Betões de Ligantes Hidráulicos, que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento de Betões de Ligantes Hidráulicos, que faz parte integrante do presente diploma.
 
-###### Art. 2.º - 1 - É revogado o Regulamento de Betões de Ligantes Hidráulicos, aprovado pelo [Decreto n.º 404/71](https://diariodarepublica.pt/dr/detalhe/decreto/404-1971-187337), de 23 de Setembro.
+Art. 2.º - 1 - É revogado o Regulamento de Betões de Ligantes Hidráulicos, aprovado pelo [Decreto n.º 404/71](https://diariodarepublica.pt/dr/detalhe/decreto/404-1971-187337), de 23 de Setembro.
 
 2 - São revogados os Decretos-Leis n.os [309/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1988-370436), de 2 de Setembro, e [457/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1988-356570), de 13 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 26 de Outubro de 1989. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins - Luís Fernando Mira Amaral.
 
-**Promulgado em 1 de Dezembro de 1989.**
+Promulgado em 1 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Dezembro de 1989.**
+Referendado em 6 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 REGULAMENTO DE BETÕES DE LIGANTES HIDRÁULICOS
 
@@ -266,13 +302,13 @@ As dosagens de ligante devem satisfazer as condições indicadas nas alíneas se
 
 a) Nos betões do tipo B destinados a estruturas de betão armado e pré-esforçado a dosagem mínima de ligante será dada pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
 
 Em caso algum, porém, a dosagem poderá ser inferior aos valores mínimos estabelecidos nos regulamentos específicos daquelas estruturas;
 
 b) Nos betões do tipo BD, a dosagem mínima de ligante será dada pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
 
 ###### Artigo 16.º — Valores máximos da razão água/ligante
 
@@ -624,7 +660,9 @@ g) Indicação dos momentos, em horas e minutos, da chegada do veículo à obra 
 
 4 - A guia de remessa deve ser elaborada em duplicado, devendo ambos os exemplares ser visados pelas entidades fornecedora e compradora; cada uma desta entidades ficará de posse de um dos exemplares.
 
-###### Artigo 37.º — Livro de registo da obra
+###### Artigo 37.º
+
+## Livro de registo da obra
 
 1 - No livro de registo da obra, elaborado e mantido pela entidade que executa os trabalhos, onde são indicadas cronologicamente as ocorrências verificadas no decurso da obra e que interessam à realização desta, devem figurar, em geral, no que diz respeito aos betões, os elementos indicados nas alíneas seguintes:
 
@@ -678,7 +716,7 @@ g) A indicação de todas as alterações introduzidas no projecto e das corresp
 
 5 - Se, em virtude de condições excepcionais, devidamente reconhecidas, o número de amostras sujeitas a ensaios for inferior a 20, mas não menor que 3, o betão a que se referem tais amostras poderá ainda ser aceite se forem cumpridas simultaneamente as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
 
 tomando-se, no caso da resistência à compreensão, K(índice 1) = 5 MPa e K(índice 2) = 1 MPa no início da produção do betão e K(índice 1) = K(índice 2) = 3 MPa desde que as condições de produção se encontrem estabilizadas.
 
@@ -854,17 +892,17 @@ LNEC E 228 - Betão. Determinação da trabalhabilidade vebê.
 
 ## ANEXO II — Quadros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
 
 ## ANEXO III — Determinação do desvio padrão, do coeficiente de variação e do valor característico da tensão de rotura do betão a partir dos resultados dos ensaios
 
 Para cada amostra determina-se a média dos valores da tensão de rotura obtidos para cada provete retirado dessa amostra. Designado por f(índice ci) os valores médios assim determinados e correspondentes às diferentes amostras, cujo número se designa por n, calcula-se a média aritmética f(índice cm) daqueles valores pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
 
 e determina-se o desvio padrão (delta) pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29900/56505662.pdf)
 
 Admitindo que o valor da média e o quadrado do valor do desvio padrão assim determinados são boas estimas da média e da variância da distribuição estatística da população que as amostras apresentam e admitindo que esta distribuição é normal, o valor característico da tensão de rotura f(índice ck) - definido como valor que é atingido com a probabilidade de 95% - distará da média 1,64 desvios padrões.
 
@@ -882,4 +920,4 @@ f(índice ck) = f(índice cm)(1 - 1,64 (delta))
 
 No cálculo do valor característico à compressão não poderão ser considerados valores do desvio padrão inferiores a 2,5 MPa; do mesmo modo, será de 7% o limite inferior ao valor do coeficiente de variação a considerar.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

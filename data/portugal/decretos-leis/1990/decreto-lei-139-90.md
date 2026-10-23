@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09700/20292031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1990-332213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a15154e544d798e16dc193f4a0c250c3b2ea7e1a5e29a803ebdcfe5d83857e6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0b0f902ef843e22c53ef6927a48364c44f79a88a8861cc81253d9fa98ef04f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Crime
+- Definição de Competências
+- Direcção Geral da Pecuária
+- Direcção Geral das Florestas
+- Direcção Geral dos Cuidados de Saúde Primários
+- Espécie Protegida
+- Fiscalização
+- GADO
+- Indemnização
+- LOBO
+- Multa
+- Proteção do Ambiente
+- Proteção dos Animais
+- Regime Jurídico
+- Serviço Nacional de Parques Reservas e Conservação da Natureza
 relationships:
 - type: amended_by
   target: pt:dre:914597186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:179824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75195061:por
+  label: Revogado, a partir de 01.01.2017, o presente diploma pelo(a) Decreto-Lei n.º 54/2016 - Diário da República n.º 163/2016,
+    Série I de 2016-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2016-75195061
+  date: '2016-08-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:39Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +138,7 @@ Assim:
 
 No desenvolvimento do regime estabelecido pela [Lei n.º 90/88](https://diariodarepublica.pt/dr/detalhe/lei/90-1988-376832), de 13 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Com vista à protecção, conservação e fomento do lobo ibérico (Canis lupus signatus Cabrera, 1907), é proibido:
+Artigo 1.º Com vista à protecção, conservação e fomento do lobo ibérico (Canis lupus signatus Cabrera, 1907), é proibido:
 
 a) O seu abate ou captura;
 
@@ -112,7 +146,7 @@ b) A destruição ou deterioração do respectivo habitat;
 
 c) A sua perturbação, em especial durante os períodos de reprodução e de dependência.
 
-###### Art. 2.º - 1 - Poderão ser estabelecidas excepções ao regime previsto na alínea a) do artigo anterior quando se verifique alguma das seguintes situações:
+Art. 2.º - 1 - Poderão ser estabelecidas excepções ao regime previsto na alínea a) do artigo anterior quando se verifique alguma das seguintes situações:
 
 a) O interesse da protecção da fauna o exija, nomeadamente para protecção e fomento de espécies com fraca densidade populacional;
 
@@ -124,7 +158,7 @@ d) A prossecução de fins de investigação, de educação, de repovoamento, de
 
 2 - As entidades competentes para autorização do disposto no número anterior são, respectivamente, o Serviço Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN), nos casos das alíneas a), b) e d), e a Direcção-Geral da Pecuária e a Direcção-Geral dos Cuidados de Saúde Primários, nos casos da alínea c).
 
-###### Art. 3.º - 1 - Sempre que se verifique algumas das situações referidas no artigo anterior, o SNPRCN emitirá uma credencial, da qual constarão:
+Art. 3.º - 1 - Sempre que se verifique algumas das situações referidas no artigo anterior, o SNPRCN emitirá uma credencial, da qual constarão:
 
 a) O número de exemplares cujo abate ou captura é autorizado;
 
@@ -144,13 +178,13 @@ a) No prazo de cinco dias após a sua utilização;
 
 b) Imediatamente após o fim do respectivo prazo de validade.
 
-###### Art. 4.º É proibida a detenção, transporte, comercialização e exposição de exemplares do lobo ibérico, vivos, mortos ou naturalizados, e de partes ou produtos dele derivados, nomeadamente troféus e peles.
+Art. 4.º É proibida a detenção, transporte, comercialização e exposição de exemplares do lobo ibérico, vivos, mortos ou naturalizados, e de partes ou produtos dele derivados, nomeadamente troféus e peles.
 
-###### Art. 5.º - 1 - Exceptua-se do disposto no artigo anterior a detenção, transporte e exposição efectuados por entidades na prossecução de fins científicos ou de divulgação.
+Art. 5.º - 1 - Exceptua-se do disposto no artigo anterior a detenção, transporte e exposição efectuados por entidades na prossecução de fins científicos ou de divulgação.
 
 2 - Para efeitos do disposto no número anterior, as entidades interessadas dirigirão ao SNPRCN um requerimento fazendo prova da sua qualidade e indicando o fim a que se destina a detenção, transporte ou exposição que pretendem efectuar, solicitando a marcação dos respectivos exemplares.
 
-###### Art. 6.º - 1 - Os detentores de exemplares vivos do lobo ibérico devem comunicar a sua existência ao SNPRCN no prazo de 90 dias a contar da data de publicação do presente diploma.
+Art. 6.º - 1 - Os detentores de exemplares vivos do lobo ibérico devem comunicar a sua existência ao SNPRCN no prazo de 90 dias a contar da data de publicação do presente diploma.
 
 2 - Com vista à identificação dos exemplares referidos no número anterior, o SNPRCN procede à respectiva marcação.
 
@@ -162,7 +196,7 @@ b) Imediatamente após o fim do respectivo prazo de validade.
 
 6 - Carece de autorização do SNPRCN a deslocação dos exemplares vivos do lobo ibérico para local diferente do anteriormente indicado.
 
-###### Art. 7.º - 1 - É proibido o fabrico, a detenção, a comercialização e o uso de laços, «ferros» e armadilhas, vulgarmente utilizados para captura de mamíferos em estado selvagem, que se destinem à captura do lobo ibérico.
+Art. 7.º - 1 - É proibido o fabrico, a detenção, a comercialização e o uso de laços, «ferros» e armadilhas, vulgarmente utilizados para captura de mamíferos em estado selvagem, que se destinem à captura do lobo ibérico.
 
 2 - Exceptua-se do disposto no número anterior o fabrico, detenção, comercialização e utilização dos meios de extermínio referidos:
 
@@ -176,13 +210,13 @@ b) Quando se destinem à prossecução dos fins previstos no artigo 2.º do pres
 
 5 - Para efeitos de fiscalização o SNPRCN organiza e mantém actualizado um registo dos fabricos e comerciantes de meios de extermínio.
 
-###### Art. 8.º - 1 - Com vista à protecção do lobo ibérico será efectuado um controlo sistemático de âmbito nacional dos cães assilvestrados, nos termos do disposto no artigo 16.º do [Decreto-Lei n.º 317/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1985-179824), de 2 de Agosto.
+Art. 8.º - 1 - Com vista à protecção do lobo ibérico será efectuado um controlo sistemático de âmbito nacional dos cães assilvestrados, nos termos do disposto no artigo 16.º do [Decreto-Lei n.º 317/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1985-179824), de 2 de Agosto.
 
 2 - A entidade competente para o efeito é a Direcção-Geral da Pecuária, que será apoiada, sempre que necessário e conveniente, pela Direcção-Geral das Florestas e pelo SNPRCN.
 
 3 - A Direcção-Geral da Pecuária, a Direcção-Geral das Florestas e o SNPRCN elaboram, anualmente, um relatório conjunto das actividades desenvolvidas, com vista ao controlo sistemático dos cães assilvestrados.
 
-###### Art. 9.º - 1 - Quando ocorrem danos em animais provocados pelo lobo, o lesado deve dar conhecimento da ocorrência, por qualquer forma, ao SNPRCN, de modo a permitir a comprovação dos danos e a avaliação dos respectivos prejuízos.
+Art. 9.º - 1 - Quando ocorrem danos em animais provocados pelo lobo, o lesado deve dar conhecimento da ocorrência, por qualquer forma, ao SNPRCN, de modo a permitir a comprovação dos danos e a avaliação dos respectivos prejuízos.
 
 2 - O prazo para a participação da ocorrência deferida no número anterior é de 48 horas contadas a partir do conhecimento do facto que deu origem ao prejuízo.
 
@@ -218,11 +252,11 @@ c) Quando se trate de produção que beneficie os abonos legais, estes apenas se
 
 8 - O pagamento da indemnização arbitrada será efectuado pelo SNPRCN, que suporta os encargos financeiros decorrentes do ressarcimento dos prejuízos causados pelo lobo.
 
-###### Art. 10.º - 1 - A fiscalização do disposto no presente diploma compete aos funcionários e agentes do SNPRCN, da Direcção-Geral das Florestas, da Direcção-Geral da Pecuária e restantes autoridades veterinárias e autoridades policiais.
+Art. 10.º - 1 - A fiscalização do disposto no presente diploma compete aos funcionários e agentes do SNPRCN, da Direcção-Geral das Florestas, da Direcção-Geral da Pecuária e restantes autoridades veterinárias e autoridades policiais.
 
 2 - O SNPRCN é a entidade competente para o processamento das contra-ordenações e para a aplicação das coimas e das sanções acessórias previstas no artigo seguinte.
 
-###### Art. 11.º - 1 - Constitui contra-ordenação, punível com coima, a violação do disposto:
+Art. 11.º - 1 - Constitui contra-ordenação, punível com coima, a violação do disposto:
 
 a) No n.º 1 do artigo 3.º e nos n.os 1, 2 e 3 do artigo 4.º da [Lei n.º 90/88](https://diariodarepublica.pt/dr/detalhe/lei/90-1988-376832), de 13 de Agosto;
 
@@ -242,7 +276,7 @@ d) 3000$00 a 100000$00, no caso de violação do disposto no n.º 4 do artigo 3.
 
 4 - A negligência é sempre punível.
 
-###### Art. 12.º - 1 - Para além das coimas previstas no artigo anterior, e nos termos da legislação aplicável, pode ser estabelecida, como sanção acessória:
+Art. 12.º - 1 - Para além das coimas previstas no artigo anterior, e nos termos da legislação aplicável, pode ser estabelecida, como sanção acessória:
 
 a) A apreensão dos exemplares que estiverem na origem da infracção ao disposto no presente diploma;
 
@@ -250,7 +284,7 @@ b) A apreensão dos instrumentos utilizados na prática da infracção.
 
 2 - Cabe ao SNPRCN dar aos exemplares ou instrumentos apreendidos o destino que entender por mais conveniente.
 
-###### Art. 13.º A receita das coimas tem a seguinte distribuição:
+Art. 13.º A receita das coimas tem a seguinte distribuição:
 
 a) 50% para o SNPRCN, a afectar para acções de vigilância e protecção da Natureza;
 
@@ -258,16 +292,16 @@ b) 30% para o Estado;
 
 c) 20% para as entidades fiscalizadoras.
 
-###### Art. 14.º A entrada em vigor do presente diploma não prejudica a aplicação do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 24 de Maio de 1953, e das disposições específicas relativas à luta e vigilância epidemiológica da raiva animal, estipuladas pelo [Decreto-Lei n.º 317/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1985-179824), de 2 de Agosto.
+Art. 14.º A entrada em vigor do presente diploma não prejudica a aplicação do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 24 de Maio de 1953, e das disposições específicas relativas à luta e vigilância epidemiológica da raiva animal, estipuladas pelo [Decreto-Lei n.º 317/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1985-179824), de 2 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Manuel Pereira - Joaquim Fernando Nogueira - Arlindo Marques da Cunha - Arlindo Gomes de Carvalho - Fernando Nunes Ferreira Real.
 
-**Promulgado em 5 de Abril de 1990.**
+Promulgado em 5 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1990.**
+Referendado em 11 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

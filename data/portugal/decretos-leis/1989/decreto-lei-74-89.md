@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1989-612834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 620312fda0662eb47e766f0ccdadeb482bbeb2e9a485f87e06b81f8a19021281
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62676f1bac1b450f2d5297aa40cac0a1438d4ff2818029f518a68fe1421e76d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Árvores
+- Alienação de BENS
+- Direcção Geral das Florestas
+- Exploração Florestal
+- Fiscalização
+- Multa
+- Prédio Rústico
+- Receita Própria
+- Reforma Agrária
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:438175:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313825:por
+  label: Alterado o art. 3.º pelo DEC LEI.5/90.03.01.1990.MAPA, DR.IS [2] de 03.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1990-313825
+  date: '1990-01-03'
+- type: cites
+  target: pt:dre:179847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612436:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:09Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +138,7 @@ Considerando ainda a recente extinção do Instituto de Gestão e Estruturação
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A condução e exploração dos povoamentos florestais situados em prédios rústicos nacionalizados ou expropriados no âmbito da reforma agrária é da exclusiva responsabilidade da Direcção-Geral das Florestas (DGF).
+Artigo 1.º - 1 - A condução e exploração dos povoamentos florestais situados em prédios rústicos nacionalizados ou expropriados no âmbito da reforma agrária é da exclusiva responsabilidade da Direcção-Geral das Florestas (DGF).
 
 2 - Para efeitos do disposto no número anterior, as direcções regionais de agricultura fornecerão à DGF a identificação dos prédios rústicos em causa.
 
@@ -117,15 +148,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Nos casos previstos no número anterior, os serviços competentes ouvirão a DGF sobre a viabilidade, na componente florestal, dos planos de exploração a observar pelas entidades beneficiárias de terra entregue em exploração, bem como sobre os pedidos de corte e arrancamento das árvores.
 
-###### Art. 2.º A DGF tomará as medidas necessárias para assegurar a correcta gestão dos povoamentos, bem como a venda dos produtos resultantes da respectiva exploração, incluindo pinhas e resinas.
+Art. 2.º A DGF tomará as medidas necessárias para assegurar a correcta gestão dos povoamentos, bem como a venda dos produtos resultantes da respectiva exploração, incluindo pinhas e resinas.
 
-###### Art. 3.º - 1 - Compete à DGF, com as verbas previstas na subalínea 1) da alínea b) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 312/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1985-179847), de 31 de Julho, e no n.º 2 do artigo 5.º do presente diploma, indemnizar os titulares de áreas de reserva pelos cortes de arvoredo nelas efectuados, em períodos anteriores à entrega efectiva das áreas reservadas.
+Art. 3.º - 1 - Compete à DGF, com as verbas previstas na subalínea 1) da alínea b) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 312/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1985-179847), de 31 de Julho, e no n.º 2 do artigo 5.º do presente diploma, indemnizar os titulares de áreas de reserva pelos cortes de arvoredo nelas efectuados, em períodos anteriores à entrega efectiva das áreas reservadas.
 
 2 - Uma vez iniciado o processo conducente à atribuição daquelas áreas de reserva, deverá a direcção regional de agricultura competente comunicar à DGF este facto, a fim de que sejam sustidos todos os processos de comercialização daquele arvoredo e anulados, na quota-parte que diz respeito à reserva, os respectivos contratos de adjudicação, com vista a evitar prejuízos futuros para a Administração e para os administrados.
 
-###### Art. 4.º As verbas resultantes da exploração florestal efectuada pela DGF nos prédios rústicos em causa constituem receitas próprias deste organismo, com excepção dos casos previstos no [Decreto-Lei n.º 312/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1985-179847), de 31 de Julho, e no artigo seguinte.
+Art. 4.º As verbas resultantes da exploração florestal efectuada pela DGF nos prédios rústicos em causa constituem receitas próprias deste organismo, com excepção dos casos previstos no [Decreto-Lei n.º 312/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1985-179847), de 31 de Julho, e no artigo seguinte.
 
-###### Art. 5.º - 1 - Do produto da venda dos eucaliptos abatidos nos prédios rústicos em questão serão arrecadadas pela DGF as percentagens seguintes, destinadas a liquidação de encargos:
+Art. 5.º - 1 - Do produto da venda dos eucaliptos abatidos nos prédios rústicos em questão serão arrecadadas pela DGF as percentagens seguintes, destinadas a liquidação de encargos:
 
 a) 20% para as operações inerentes à condução dos eucaliptais;
 
@@ -133,11 +164,11 @@ b) 20% para encargos de estrutura, venda e guardaria.
 
 2 - O valor líquido resultante da dedução das percentagens referidas no número anterior destina-se ao pagamento de indemnizações por frutos pendentes e à cobertura de acções de estruturação fundiária.
 
-###### Art. 6.º - 1 - Constitui contra-ordenação, punível com coima de 1000$00 a 3000000$00, o corte ou arrancamento de árvores, ou a exploração de outros produtos florestais nos prédios rústicos nacionalizados ou expropriados, sem autorização prévia da DGF ou, no caso previsto no n.º 5 do artigo 1.º, dos serviços competentes nos termos do [Decreto-Lei n.º 63/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1989-612436), de 24 de Fevereiro, sem prejuízo da responsabilidade criminal proveniente de tal conduta.
+Art. 6.º - 1 - Constitui contra-ordenação, punível com coima de 1000$00 a 3000000$00, o corte ou arrancamento de árvores, ou a exploração de outros produtos florestais nos prédios rústicos nacionalizados ou expropriados, sem autorização prévia da DGF ou, no caso previsto no n.º 5 do artigo 1.º, dos serviços competentes nos termos do [Decreto-Lei n.º 63/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1989-612436), de 24 de Fevereiro, sem prejuízo da responsabilidade criminal proveniente de tal conduta.
 
 2 - A negligência é punível.
 
-###### Art. 7.º - 1 - A fiscalização do disposto no presente diploma compete, em especial, aos serviços da DGF.
+Art. 7.º - 1 - A fiscalização do disposto no presente diploma compete, em especial, aos serviços da DGF.
 
 2 - A instrução dos processos pelas contra-ordenações previstas neste diploma é da competência das circunscrições florestais da DGF.
 
@@ -145,16 +176,16 @@ b) 20% para encargos de estrutura, venda e guardaria.
 
 4 - Do produto das coimas aplicadas 50% reverterão para a DGF como receita própria.
 
-###### Art. 8.º São revogados o [Decreto-Lei n.º 150/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1980-474146), de 23 de Maio, o despacho do Ministro da Agricultura e Pescas de 30 de Junho de 1980, publicado no Diário da República, 2.ª série, n.º 159, de 12 de Julho de 1980, e o Despacho n.º 484/81 do Secretário de Estado da Produção, publicado no Diário da República, 2.ª série, n.º 233, de 10 de Outubro de 1981.
+Art. 8.º São revogados o [Decreto-Lei n.º 150/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1980-474146), de 23 de Maio, o despacho do Ministro da Agricultura e Pescas de 30 de Junho de 1980, publicado no Diário da República, 2.ª série, n.º 159, de 12 de Julho de 1980, e o Despacho n.º 484/81 do Secretário de Estado da Produção, publicado no Diário da República, 2.ª série, n.º 233, de 10 de Outubro de 1981.
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 17 de Fevereiro de 1989.**
+Promulgado em 17 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1989.**
+Referendado em 17 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

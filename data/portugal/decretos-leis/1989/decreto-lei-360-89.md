@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1989-549392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df859edd412b9cf4ad1aa7087563b5ea17068bed1268c5083a0a3369bb484972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a691bd56a7327f85e4cb8a43d70193513106d5ba485276469631504d6eb87091
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Administração Interna
+- Orgânica
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:649343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283735:por
+  label: "Substituído o quadro de pessoal de investigação e fiscalização estabelecido no anexo I ao presentte diploma, pela\
+    \ PORT.152/94.17.03.1994.MAI, DR.IS-B [64] de 17.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/152-1994-283735
+  date: '1994-03-17'
+- type: amended_by
+  target: pt:dre:292741:por
+  label: "Alterados os arts. 7º, 8º, 9º e 11º pelo DEC LEI.100/2000.2000.06.01.MAI,DR.IS-A [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2000-292741
+  date: '2000-06-01'
+- type: cites
+  target: pt:dre:374258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627065:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:192985:por
+  label: Rectificado pelo DECL.DD3557.1989.11.30.PCM DR.IS [276]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-192985
+  date: '1989-11-30'
+- type: repealed_by
+  target: pt:dre:649343:por
+  label: "Revogado pelo DEC LEI.290-A/2001.2001.11.17.MAI,DR.IS-A [267]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-a-2001-649343
+  date: '2001-11-17'
 article_structure:
   article_count: 34
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:23Z'
   warnings: []
   errors: []
 ---
@@ -353,7 +391,7 @@ c) Ter menos idade.
 
 ###### Artigo 15.º — Contratos de trabalho a termo certo
 
-**O Ministro da Administração Interna poderá autorizar, excepcionalmente, o SEF a celebrar contratos de trabalho a termo certo, nos termos da lei geral da função pública.**
+O Ministro da Administração Interna poderá autorizar, excepcionalmente, o SEF a celebrar contratos de trabalho a termo certo, nos termos da lei geral da função pública.
 
 ###### Artigo 16.º — Equipas de projecto
 
@@ -403,21 +441,21 @@ São extintos no quadro de pessoal do SEF 14 lugares correspondentes à carreira
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1989. - Eurico Silva Teixeira de Melo - Fernando Manuel Barbosa Faria de Oliveira - José António da Silveira Godinho.
 
-**Promulgado em 26 de Setembro de 1989.**
+Promulgado em 26 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1989.**
+Referendado em 2 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro a que se refere o artigo 13.º
 
 Pessoal de investigação e fiscalização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
 
 ## ANEXO II — Orientação do exame de aptidão médica e tabela de inaptidões
 
@@ -471,7 +509,7 @@ b) Exames complementares:
 
 10) Grupo sanguíneo e Rh.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
 
 ### CAPÍTULO II — Tabela de inaptidões
 
@@ -489,7 +527,7 @@ Mínima - 1,6 m.
 
 2 - Peso proporcional à altura de acordo com a tabela seguinte (ver nota b):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
 
 3 - Todas as doenças crónicas ou deformidades de carácter permanente que possam interferir com o exercício da função de investigação e fiscalização podem ser consideradas causas de não aptidão, embora não estejam especificamente mencionadas nesta tabela. Aos indivíduos considerados não aptos, ao abrigo deste número, será feito um relatório circunstanciado pela junta médica.
 
@@ -1223,7 +1261,7 @@ f) Irritáveis e explosivos.
 
 Registo de observação médica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
 
 ## ANEXO IV — Provas físicas
 
@@ -1361,7 +1399,7 @@ Nota. - O muro terá de ter a altura de 1 m, 0,25 m de espessura e frente mínim
 
 ## ANEXO V — (a que se refere o artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24000/45644576.pdf)
 
 Conteúdo funcional da carreira de técnico auxiliar
 

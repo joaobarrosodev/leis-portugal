@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23400/44224423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1989-548822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b96f1208748bb0f99416beb13b2aa037122263a7a216d0fa7fd278e932ee1a73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 723c983f157293df5e4c51714f95ffeac1417f9b2deac6f2431f388148ade5f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Descobrimentos Portugueses
+- Imprensa Nacional-Casa da Moeda
+- Moeda Comemorativa
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:58Z'
   warnings: []
   errors: []
 ---
@@ -101,29 +125,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem, pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de uma série de quatro moedas comemorativas alusivas às navegações e descobrimentos portugueses dos arquipélagos atlânticos, designadamente as expedições às ilhas Canárias, à redescoberta das ilhas de Porto Santo e da Madeira, à descoberta e povoamento das ilhas dos Açores e ao nascimento da moderna ciência da navegação astronómica no Atlântico.
+Artigo 1.º - 1 - É autorizada a cunhagem, pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de uma série de quatro moedas comemorativas alusivas às navegações e descobrimentos portugueses dos arquipélagos atlânticos, designadamente as expedições às ilhas Canárias, à redescoberta das ilhas de Porto Santo e da Madeira, à descoberta e povoamento das ilhas dos Açores e ao nascimento da moderna ciência da navegação astronómica no Atlântico.
 
 2 - Cada uma das moedas referidas no número anterior será cunhada em liga de cuproníquel 75/25, com 34 mm de diâmetro e 16,5 g de peso, com uma tolerância de (mais ou menos)1,5% no título e no peso, e terá bordo serrilhado.
 
-###### Art. 2.º - 1 - A gravura do anverso da moeda alusiva às expedições portuguesas às ilhas Canárias apresenta, no centro do campo, o escudo das armas nacionais ladeado por duas figuras representando aborígenes canários, tendo por baixo a inscrição «Homines Sylvestres de Insula Canária» em cartela semicircular, na orla superior, a legenda «República Portuguesa», na orla inferior, o valor facial «100$00» entre aneletes e, junto ao rebordo, uma cercadura biselada.
+Art. 2.º - 1 - A gravura do anverso da moeda alusiva às expedições portuguesas às ilhas Canárias apresenta, no centro do campo, o escudo das armas nacionais ladeado por duas figuras representando aborígenes canários, tendo por baixo a inscrição «Homines Sylvestres de Insula Canária» em cartela semicircular, na orla superior, a legenda «República Portuguesa», na orla inferior, o valor facial «100$00» entre aneletes e, junto ao rebordo, uma cercadura biselada.
 
 2 - A gravura do reverso apresenta, no campo, a figuração de um navio português de três mastros do início do século XV navegando em direcção à ilha de Tenerife, sobre cujo pico paira uma nuvem com formato de vela latina, na orla a legenda «1136 Ilhas Canárias 1479», a era da moeda, «1989», entre castelos e, junto ao rebordo, uma cercadura biselada.
 
-###### Art. 3.º - 1 - A gravura do anverso da moeda alusiva ao arquipélago da Madeira apresenta, no centro do campo, o escudo das armas nacionais, de contornos joaninos, parcialmente sobreposto na cruz da Ordem de Cristo, na orla superior, a legenda «República Portuguesa», na orla inferior, o valor facial «100 Escudos» entre aneletes e, junto ao rebordo, uma cercadura perolada.
+Art. 3.º - 1 - A gravura do anverso da moeda alusiva ao arquipélago da Madeira apresenta, no centro do campo, o escudo das armas nacionais, de contornos joaninos, parcialmente sobreposto na cruz da Ordem de Cristo, na orla superior, a legenda «República Portuguesa», na orla inferior, o valor facial «100 Escudos» entre aneletes e, junto ao rebordo, uma cercadura perolada.
 
 2 - A gravura do reverso apresenta, no centro do campo, a figuração de uma barca portuguesa de um mastro do início do século XV, portando na vela a inscrição «Ave Maria», navegando entre as ilhas de Porto Santo e da Madeira, em representação cartográfica, na orla lateral direita, a legenda «Porto Santo 1419», na orla lateral esquerda, a legenda «Madeira 1420», na orla inferior, a era da moeda, «1989», entre cruzes de Cristo e, junto ao rebordo, uma cercadura perolada.
 
-###### Art. 4.º - 1 - A gravura do anverso da moeda alusiva ao arquipélago dos Açores apresenta, no lado direito do campo, raiado de linhas de rumo, o escudo das armas nacionais, na orla lateral superior esquerda, a legenda «República Portuguesa», na orla inferior, o valor facial «100$00» entre um anelete e uma cruz de Cristo e, junto ao rebordo, uma cercadura lisa.
+Art. 4.º - 1 - A gravura do anverso da moeda alusiva ao arquipélago dos Açores apresenta, no lado direito do campo, raiado de linhas de rumo, o escudo das armas nacionais, na orla lateral superior esquerda, a legenda «República Portuguesa», na orla inferior, o valor facial «100$00» entre um anelete e uma cruz de Cristo e, junto ao rebordo, uma cercadura lisa.
 
 2 - A gravura do reverso apresenta, no lado direito do campo, a figuração de uma caravela portuguesa de dois mastros navegando em direcção às ilhas dos Açores, representadas por nove estrelas, por baixo da caravela as datas «1427.1452», no lado superior esquerdo, uma rosa-dos-ventos em campo raiado, alegórico à esfera armilar, na orla, a legenda «1439.1989 Arquipélago dos Açores» e, junto ao rebordo, uma cercadura lisa.
 
-###### Art. 5.º - 1 - A gravura do anverso da moeda alusiva ao nascimento da navegação astronómica no Atlântico apresenta, no centro do campo quadripartido, o valor facial «100 Escudos» em duas linhas, na parte superior esquerda, o escudo das armas nacionais, na parte superior direita, uma figuração da constelação Ursa Maior com a Estrela Polar, na metade inferior, a legenda circular «República Portuguesa.1990» parcialmente sobreposta sobre uma representação de um quadrante náutico e, junto ao rebordo, uma cercadura de elementos de escala cartográfica, interrompida na parte inferior.
+Art. 5.º - 1 - A gravura do anverso da moeda alusiva ao nascimento da navegação astronómica no Atlântico apresenta, no centro do campo quadripartido, o valor facial «100 Escudos» em duas linhas, na parte superior esquerda, o escudo das armas nacionais, na parte superior direita, uma figuração da constelação Ursa Maior com a Estrela Polar, na metade inferior, a legenda circular «República Portuguesa.1990» parcialmente sobreposta sobre uma representação de um quadrante náutico e, junto ao rebordo, uma cercadura de elementos de escala cartográfica, interrompida na parte inferior.
 
 2 - A gravura do reverso apresenta, no centro do campo quadripartido, uma figuração de uma caravela latina; na parte superior esquerda, um elemento graduado de um instrumento de medida regista a altura do sol; na parte inferior direita, o resultado das observações é projectado numa representação cartográfica, tendo parcialmente sobreposta uma figuração da constelação Cruzeiro do Sul, na parte inferior esquerda, a legenda «Navegação Astronómica», completada pela legenda «Atlântico.1455-1485» na parte superior direita, e, junto ao rebordo, uma cercadura de elementos de escala cartográfica, parcialmente interrompida nos quadrantes superior esquerdo e inferior direito.
 
-###### Art. 6.º O limite da emissão de cada uma destas moedas comemorativas é fixado em 217700000$00.
+Art. 6.º O limite da emissão de cada uma destas moedas comemorativas é fixado em 217700000$00.
 
-###### Art. 7.º - 1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar de cada uma destas moedas até 50000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC), até 23000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), até 3000 espécimes numismáticos de paládio com acabamento «prova numismática» (proof), até 10000 espécimes numismáticos de ouro com acabamento «prova numismática» (proof), até 1000 espécimes numismáticos de platina com acabamento «brilhante não circulado» (BNC) e até 3000 espécimes numismáticos de platina com acabamento «prova numismática» (proof) destinados à comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
+Art. 7.º - 1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar de cada uma destas moedas até 50000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC), até 23000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), até 3000 espécimes numismáticos de paládio com acabamento «prova numismática» (proof), até 10000 espécimes numismáticos de ouro com acabamento «prova numismática» (proof), até 1000 espécimes numismáticos de platina com acabamento «brilhante não circulado» (BNC) e até 3000 espécimes numismáticos de platina com acabamento «prova numismática» (proof) destinados à comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
 
 2 - Os espécimes numismáticos de prata serão cunhados em liga de prata 925/1000, com o diâmetro de 34 mm, peso de 21 g e bordo serrilhado, sendo as tolerâncias no peso e na liga de (mais ou menos)5(por mil).
 
@@ -133,20 +157,20 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Os espécimes numismáticos de platina serão cunhados em metal fino 999,5/1000, com o diâmetro de 34 mm, peso de 31,119 g e bordo serrilhado, sendo as tolerâncias no peso de (mais ou menos)2(por mil).
 
-###### Art. 8.º As moedas destinadas a distribuição pública, pelo respectivo valor facial, são postas em circulação pelo Estado, por intermédio do Banco de Portugal.
+Art. 8.º As moedas destinadas a distribuição pública, pelo respectivo valor facial, são postas em circulação pelo Estado, por intermédio do Banco de Portugal.
 
-###### Art. 9.º À medida que estas moedas comemorativas forem postas em circulação, 100% do diferencial entre o valor facial e os correspondentes custos de produção serão postos pelo Ministério das Finanças à disposição da Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, criada pelo [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
+Art. 9.º À medida que estas moedas comemorativas forem postas em circulação, 100% do diferencial entre o valor facial e os correspondentes custos de produção serão postos pelo Ministério das Finanças à disposição da Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, criada pelo [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
 
-###### Art. 10.º As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 1000$00 nestas moedas.
+Art. 10.º As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 1000$00 nestas moedas.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Albino Azevedo Soares.
 
-**Promulgado em 26 de Setembro de 1989.**
+Promulgado em 26 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1989.**
+Referendado em 2 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

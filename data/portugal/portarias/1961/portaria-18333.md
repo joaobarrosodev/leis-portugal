@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18333-1961-560604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c12ce6255b681f41c45cde41a0b872a8615b48a3f65a129b0dd4e5d900763bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2985baab47382c9dcbdb5d9c318677daa714fd3539bfde2b12f8c3ae3a93004
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:45Z'
   warnings: []
   errors: []
 ---
@@ -89,25 +93,25 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo dentro da província» ... 200000$00
+Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo dentro da província» ... 200000$00
 
-###### Artigo 3.º, n.º 5), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na metrópole» ... 100000$00
+Artigo 3.º, n.º 5), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na metrópole» ... 100000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 200000$00
+Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 200000$00
 
-###### Artigo 5.º, n.º 1), alínea b) «Despesas de conservação e aproveitamento de material - Imóveis - Outras instalações» ... 300000$00
+Artigo 5.º, n.º 1), alínea b) «Despesas de conservação e aproveitamento de material - Imóveis - Outras instalações» ... 300000$00
 
-###### Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento de material - Semoventes - Veículos com motor» ... 100000$00
+Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento de material - Semoventes - Veículos com motor» ... 100000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal, a pagar na metrópole» ... 1100000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal, a pagar na metrópole» ... 1100000$00
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal, a pagar na província» ... 700000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal, a pagar na província» ... 700000$00
 
-###### Artigo 10.º, n.º 4) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas e com manobras anuais, cursos e estágios» ... 180000$00
+Artigo 10.º, n.º 4) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas e com manobras anuais, cursos e estágios» ... 180000$00
 
 ... 2880000$00
 
@@ -115,19 +119,19 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 940000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 940000$00
 
-###### Artigo 1.º, n.º 2), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal de nomeação vitalícia além dos quadros - Pessoal em comissão além dos quadros por substituição antes do regresso» ... 100000$00
+Artigo 1.º, n.º 2), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal de nomeação vitalícia além dos quadros - Pessoal em comissão além dos quadros por substituição antes do regresso» ... 100000$00
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 1100000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 1100000$00
 
-###### Artigo 2.º, n.º 3) «Remunerações acidentais - Complemento de vencimento» ... 200000$00
+Artigo 2.º, n.º 3) «Remunerações acidentais - Complemento de vencimento» ... 200000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 1) «Encargos administrativos - Preparação militar de pessoal a incorporar na província» ... 200000$00
+Artigo 10.º, n.º 1) «Encargos administrativos - Preparação militar de pessoal a incorporar na província» ... 200000$00
 
-###### Artigo 10.º, n.º 2) «Encargos administrativos - Instrução complementar de quadros milicianos» ... 340000$00
+Artigo 10.º, n.º 2) «Encargos administrativos - Instrução complementar de quadros milicianos» ... 340000$00
 
 ... 2880000$00
 

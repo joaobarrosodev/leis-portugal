@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18246-1961-556198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40c709aa65e33773912ddf2ce48bf586e9a10d6ef3d70164d9b3c49f5ed48c3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c6fba680e8f736efbcc0f533979591988ee06aa71fd04f7b09ba13efca71d1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:585825:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:50Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional:
 
 Presidência do Conselho, 3 de Fevereiro de 1961. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf))](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf)
 
 NATO - Sem classificação
 
@@ -167,7 +171,7 @@ Turquia -
 
 Data de entrada em execução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf))](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf)
 
 Aditamentos
 
@@ -285,7 +289,7 @@ Turquia -
 
 Data de entrada em execução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf))](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf)
 
 Aditamentos
 
@@ -363,8 +367,8 @@ Reservas
 
 Bélgica: «Para seu uso e em relação aos artigos comuns, a Bélgica reserva-se o direito de tornar extensiva a noção (mais ou menos)50 às peças que funcionalmente são idênticas; com efeito, enquanto que uma peça reproduzida é muitas vezes funcionalmente idêntica à peça original, as respostas dadas aos modelos de descrição correspondentes a uma peça reproduzida e a uma peça original raro são exactamente as mesmas».
 
-## Anexo A ao Stanag n.º 3151 (2.ª edição)
+Anexo A ao Stanag n.º 3151 (2.ª edição)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf))](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/02/02900/01090117.pdf)
 
 Observação. - Os n.os 10, 20, 30, 40, 60, 70, 80 e 90 não serão utilizados como números de código NATO indicativos do país em questão porque estão reservados para fins particulares de registo mecanográfico.

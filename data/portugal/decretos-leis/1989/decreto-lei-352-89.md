@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23600/44704474.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1989-548985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8d6e9acade153a87e0b8aa15b890272b534f63592b30d812a9f9a1a1f631297
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d830e10a2c640cf8a6d6cc2c2b2fd25476645bdddb7945ee19822ea1fd6ba3e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
+- Inspecção de Veículos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:584257:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:200005:por
+  label: "Transferidas as competências para o Ministro da Administração Interna as competências atribuídas no presente diploma\
+    \ ao Ministro das Obras Públicas, Transportes e Comunicações, pelo DEC LEI.56/92.13.04.1992.MOPTC, DR.IS-A [87] de 13.04.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1992-200005
+  date: '1992-04-13'
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601315:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584257:por
+  label: "Revogado pelo DEC LEI.254/92.20.11.1992.MAI, DR.IS-A [269] de 20.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1992-584257
+  date: '1992-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:13Z'
   warnings: []
   errors: []
 ---
@@ -159,11 +190,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As inspecções periódicas obrigatórias, previstas no n.º 2 do artigo 36.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, com a redacção que lhe foi dada pelo [Decreto Regulamentar n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1982-601315), de 15 de Janeiro, constituem serviço público e são realizadas pela Direcção-Geral de Viação, através do seu pessoal técnico, podendo ser objecto de concessão a outorgar a sociedade constituída ou a constituir para o efeito.
+Artigo 1.º - 1 - As inspecções periódicas obrigatórias, previstas no n.º 2 do artigo 36.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, com a redacção que lhe foi dada pelo [Decreto Regulamentar n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1982-601315), de 15 de Janeiro, constituem serviço público e são realizadas pela Direcção-Geral de Viação, através do seu pessoal técnico, podendo ser objecto de concessão a outorgar a sociedade constituída ou a constituir para o efeito.
 
 2 - O contrato de concessão respeitará as bases anexas a este diploma e que dele fazem parte integrante.
 
-###### Art. 2.º - 1 - A sociedade concessionária possuirá o capital mínimo inicial de 100000000$00.
+Art. 2.º - 1 - A sociedade concessionária possuirá o capital mínimo inicial de 100000000$00.
 
 2 - O capital da concessionária não pode pertencer, no todo ou em parte, a pessoas singulares ou colectivas que sejam proprietárias ou sócias de empresas transportadoras, ou que se dediquem ao fabrico, importação, comercialização ou reparação de veículos a motor e ou seus reboques, assim como equipamentos e acessórios para os mesmos.
 
@@ -171,13 +202,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os titulares dos órgãos sociais da concessionário não podem exercer quaisquer funções em empresas como as indicadas no n.º 2, nem tão-pouco ser delas proprietárias ou sócios.
 
-###### Art. 3.º - 1 - A concessão será atribuída mediante concurso público a abrir pela Direcção-Geral de Viação.
+Art. 3.º - 1 - A concessão será atribuída mediante concurso público a abrir pela Direcção-Geral de Viação.
 
 2 - A apreciação das propostas será efectuada por uma comissão, presidida pelo director-geral de Viação, cuja constituição será definida por despacho conjunto dos Ministros das Finanças, Indústria e Energia e das Obras Públicas, Transportes e Comunicações.
 
 3 - O relatório da comissão referida no número anterior será dado a conhecer a todos os concorrentes no prazo de 15 dias após o despacho do Ministro das Obras Públicas, Transportes e Comunicações, a que se refere o artigo seguinte.
 
-###### Art. 4.º - 1 - A concessão será atribuída, por despacho do Ministro das Obras Públicas, Transportes e Comunicações, ao concorrente cuja proposta, satisfazendo integralmente as bases da concessão, anexas a este diploma, e o caderno de encargos, apresente o mais baixo custo global, conforme definido no caderno de encargos.
+Art. 4.º - 1 - A concessão será atribuída, por despacho do Ministro das Obras Públicas, Transportes e Comunicações, ao concorrente cuja proposta, satisfazendo integralmente as bases da concessão, anexas a este diploma, e o caderno de encargos, apresente o mais baixo custo global, conforme definido no caderno de encargos.
 
 2 - Para efeitos do disposto no número anterior, custo global será o que resulta da aplicação dos correspondentes preços de inspecção, fixados conforme o disposto na base VII, ao número de veículos, de cada um dos tipos definidos no n.º 1 da base I, que se prevê sejam inspeccionados no primeiro ano da concessão, conforme vier a ser determinado no caderno de encargos.
 
@@ -185,13 +216,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - O Estado reserva-se o direito de não outorgar a concessão caso verifique que nenhuma das propostas satisfaz o interesse público.
 
-###### Art. 5.º - 1 - Competirá à Direcção-Geral de Viação a realização das inspecções periódicas a que se refere o artigo 1.º sempre que as mesmas não sejam efectuadas através da socieade concessionária.
+Art. 5.º - 1 - Competirá à Direcção-Geral de Viação a realização das inspecções periódicas a que se refere o artigo 1.º sempre que as mesmas não sejam efectuadas através da socieade concessionária.
 
 2 - Para efeitos do disposto no número anterior, pode a Direcção-Geral de Viação celebrar acordos com as pessoas colectivas de utilidade pública sem fins lucrativos estatutariamente devotadas à prevenção dos acidentes rodoviários e de apoio aos condutores e proprietários de veículos.
 
 3 - Para efeito do disposto no n.º 1, e a título transitório, pode ainda a Direcção-Geral de Viação recorrer aos serviços de empresas públicas ou maioritariamente participadas pelo Estado.
 
-###### Art. 6.º - 1 - Em caso de concessão, as inspecções serão efectuadas por inspectores devidametne habilitados, licenciados pela Direcção-Geral de Viação.
+Art. 6.º - 1 - Em caso de concessão, as inspecções serão efectuadas por inspectores devidametne habilitados, licenciados pela Direcção-Geral de Viação.
 
 2 - São requisitos mínimos para a obtenção da licença referida no número anterior:
 
@@ -199,7 +230,7 @@ a) Titularidade de licença de condução que habilite a conduzir todos os veíc
 
 b) Ensino secundário completo ou equivalente e experiência comprovada na reparação ou construção de automóveis, a avaliar nos termos a fixar por despacho do director-geral de Viação, ou frequência com aproveitamento de cursos de formação especialmente promovidos para o efeito com currículos, avaliações e duração homologados pela Direcção-Geral de Viação.
 
-###### Art. 7.º - A Direcção-Geral de Viação licenciará os candidatos a inspectores que preencham os requisitos mínimos previstos no n.º 2 do artigo anterior, sempre que lhes seja reconhecida capacidade e idoneidade para as funções e desde que não se encontrem nas condições a seguir tipificadas:
+Art. 7.º - A Direcção-Geral de Viação licenciará os candidatos a inspectores que preencham os requisitos mínimos previstos no n.º 2 do artigo anterior, sempre que lhes seja reconhecida capacidade e idoneidade para as funções e desde que não se encontrem nas condições a seguir tipificadas:
 
 1) Tenham sido condenados por qualquer dos crimes seguintes, enquanto não forem reabilitados nos termos da lei:
 
@@ -217,33 +248,35 @@ e) Roubo, furto ou abuso de confiança;
 
 3) Sejam proprietários ou sócios de empresas transportadoras ou que se dediquem ao fabrico, importação, comercialização ou reparação de veículos a motor e seus reboques, bem como de equipamento e acessórios para os mesmos.
 
-###### Art. 8.º - 1 - Qualquer infracção ao disposto no artigo 36.º do Código da Estrada e aos n.os 2, 3 e 4 do artigo 2.º do presente diploma constitui contra-ordenação punível com coima de 50000$00 a 200000$00, podendo o montante máximo da coima elevar-se a 1000000$00 no caso de a infracção ser praticada por pessoa colectiva, sem prejuízo de outras sanções que se mostrem aplicáveis.
+Art. 8.º - 1 - Qualquer infracção ao disposto no artigo 36.º do Código da Estrada e aos n.os 2, 3 e 4 do artigo 2.º do presente diploma constitui contra-ordenação punível com coima de 50000$00 a 200000$00, podendo o montante máximo da coima elevar-se a 1000000$00 no caso de a infracção ser praticada por pessoa colectiva, sem prejuízo de outras sanções que se mostrem aplicáveis.
 
 2 - A aplicação das coimas é da competência do director-geral de Viação.
 
 3 - O director-geral de Viação pode, para os efeitos do número anterior, delegar a sua competência nos subdirectores-gerais e directores dos serviços regionais.
 
-###### Art. 9.º - O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das necessárias adaptações, a introduzir por diploma regional adequado.
+Art. 9.º - O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das necessárias adaptações, a introduzir por diploma regional adequado.
 
-###### Art. 10.º - 1 - É revogado o [Decreto-Lei n.º 154/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1985-546820), de 9 de Maio.
+Art. 10.º - 1 - É revogado o [Decreto-Lei n.º 154/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1985-546820), de 9 de Maio.
 
 2 - Os diplomas regulamentares publicados em execução do [Decreto-Lei n.º 154/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1985-546820), de 9 de Maio, mantêm-se em vigor até à sua substituição pelos diplomas a publicar em execução do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 26 de Setembro de 1989.**
+Promulgado em 26 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1989.**
+Referendado em 2 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Bases da concessão
 
-###### Base I — Objecto
+Base I
+
+Objecto
 
 1 - A concessão tem por objecto a realização das inspecções periódicas obrigatórias de veículos matriculados em Portugal continental que pertençam às seguintes categorias, com a periodicidade legalmente prevista:
 
@@ -273,17 +306,23 @@ i) Veículos importados usados, matriculados em Portugal pela primeira vez.
 
 5 - A concessionária efectuará ainda as inspecções que lhe forem cometidas pela Direcção-Geral de Viação, sendo os respectivos encargos suportados pelo proprietário do veículo ou pela Direcção-Geral de Viação, nos termos da legislação em vigor.
 
-###### Base II — Área de concessão e regime
+Base II
+
+Área de concessão e regime
 
 A presente concessão das inspecções periódicas obrigatórias de veículos será realizada em regime de exclusivo, em Portugal continental.
 
-###### Base III — Prazo
+Base III
+
+Prazo
 
 1 - O prazo de concessão é de 15 anos a contar da data do visto do Tribunal de Contas que recaia sobre o contrato.
 
 2 - A concessão será sucessivamente prorrogada por períodos de 10 anos, se até um ano antes do termo do prazo inicial ou de cada prorrogação nenhuma das partes notificar a outra por escrito da sua intenção de dar a concessão por finda.
 
-###### Base IV — Periodicidade e condições gerais das inspecções
+Base IV
+
+Periodicidade e condições gerais das inspecções
 
 1 - As inspecções efectuar-se-ão observando os seguintes intervalos máximos para cada uma das categorias referidas no n.º 1 da base I:
 
@@ -303,7 +342,9 @@ c) Veículos da categoria indicada na alínea i): antes da respectiva matrícula
 
 6 - A concessionária não poderá reter o veículo, para a realização das operações de inspecção, por tempo superior a 24 horas, salvo com a anuência do proprietário ou em situações devidamente justificadas e aprovadas pela Direcção-Geral de Viação.
 
-###### Base V — Centros de inspecção
+Base V
+
+Centros de inspecção
 
 1 - A concessionária obriga-se a instalar e equipar centros de inspecção cobrindo todo o País, de modo que, em qualquer ponto do País, a distância em linha recta a um centro de inspecção não exceda 40 km a norte do rio Tejo e 50 km a sul do mesmo rio, e com capacidade suficiente para garantir a execução das inspecções com espera não superior a 30 dias, podendo não ser satisfeita esta regra em 5% da área do País, desde que a distância em linha recta a um centro de inspecção não exceda 60 km, salvo o disposto nos número seguintes.
 
@@ -323,11 +364,15 @@ c) Veículos da categoria indicada na alínea i): antes da respectiva matrícula
 
 9 - A exploração dos centros de inspecção obedecerá, em tudo o que não esteja previsto nos números anteriores, ao regulamento aprovado pela Direcção-Geral de Viação.
 
-###### Base VI — Pessoal
+Base VI
+
+Pessoal
 
 Cada centro de inspecção a que se refere a base V será dirigido por um responsável, o qual deve possuir, como habilitações mínimas, o curso de Engenharia com especialidade adequada, bem como todas as demais condições definidas para os inspectores que irá supervisionar.
 
-###### Base VII — Tarifas
+Base VII
+
+Tarifas
 
 1 - As tarifas que forem fixadas para as inspecções e reinspecções obrigatórias vigorarão até ao fim do ano civil subsequente ao da data da sua fixação.
 
@@ -337,13 +382,17 @@ Cada centro de inspecção a que se refere a base V será dirigido por um respon
 
 4 - A concessionária poderá propor novas tarifas à aprovação do director-geral de Viação sempre que exista alteração dos serviços a prestar, de acordo com a legislação aplicável.
 
-###### Base VIII — Remuneração da concessão
+Base VIII
+
+Remuneração da concessão
 
 1 - A concessionária remunerará o Estado pelo exclusivo da concessão, através da aplicação da taxa de 1% à receita bruta anual por todos os serviços concedidos.
 
 2 - A concessionária deverá organizar as suas contas de acordo com as normas contidas no Plano Oficial de Contabilidade, aprovado pelo [Decreto-Lei n.º 47/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1977-221746), de 7 de Fevereiro, com as adaptações que forem fixadas por despacho do Ministro das Obras Públicas, Transportes e Comunicações, tendo, nomeadamente, em consideração a necessidade de se apresentarem devidamente discriminadas as operações ligadas às inspecções.
 
-###### Base IX — Controlo e fiscalização
+Base IX
+
+Controlo e fiscalização
 
 1 - O controlo e fiscalização das actividades da concessionária, no âmbito da concessão, serão efectuados, respectivamente, por um delegado do Governo e por técnicos fiscalizadores da Direcção-Geral de Viação.
 
@@ -351,7 +400,9 @@ Cada centro de inspecção a que se refere a base V será dirigido por um respon
 
 3 - Os centros de inspecção deverão dispor de instalações adequadas para uso dos técnicos fiscalizadores.
 
-###### Base X — Obrigação de informação
+Base X
+
+Obrigação de informação
 
 1 - Os centros de inspecção deverão processar informaticamente toda a informação relativa às inspecções, devendo a concessionária manter actualizados todos os dados relativos aos veículos inspeccionados, de onde conste, nomeadamente, a data e o resultado de cada inspecção efectuada e os elementos que se mostrem relevantes para esclarecimento das decisões tomadas.
 
@@ -363,7 +414,9 @@ Cada centro de inspecção a que se refere a base V será dirigido por um respon
 
 5 - A Direcção-Geral de Viação e o delegado do Governo poderão solicitar à concessionária quaisquer outras informações necessárias ao seu esclarecimento.
 
-###### Base XI — Actos a homologar pelo Ministro das Obras Públicas, Transportes e Comunicações
+Base XI
+
+Actos a homologar pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 1 - Carecem de homologação do Ministro das Obras Públicas, Transportes e Comunicações os actos da concessionária que tenham por fim:
 
@@ -377,13 +430,17 @@ d) O aumento ou redução do capital social.
 
 2 - Os actos referidos no número anterior ter-se-ão por homologados se o Ministro das Obras Públicas, Transportes e Comunicações se não pronunciar no prazo de 60 dias a contar da data do registo de entrada da respectiva documentação na Direcção-Geral de Viação.
 
-###### Base XII — Termo da concessão
+Base XII
+
+Termo da concessão
 
 1 - Finda a concessão, pelo decurso do prazo ou pela rescisão, reverterão para o Estado todos os terrenos, instalações e equipamentos que integrem os centros de inspecção nessa data, os quais lhe serão entregues sem dependência de qualquer formalidade, livres de quaisquer ónus ou encargos, em estado de bom funcionamento, conservação e segurança, não podendo a concessionária reclamar alguma indemnização ou invocar, com qualquer fundamento, o direito de retenção.
 
 2 - Salvo autorização expressa dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, a concessionária não poderá contrair empréstimos cujo prazo de amortização exceda o termo normal da concessão.
 
-###### Base XIII — Resgate
+Base XIII
+
+Resgate
 
 1 - O Ministro das Obrigações Públicas, Transportes e Comunicações poderá, mediante aviso prévio de um ano, resgatar a concessão, desde que tenham decorrido cinco anos sobre a data da mesma.
 
@@ -391,7 +448,9 @@ d) O aumento ou redução do capital social.
 
 3 - No caso previsto no número anterior, a concessionária terá direito a uma indemnização de valor igual ao custo dos bens que, à data do resgate, constituam investimento seu destinado à exploração dos centros de inspecção, com a redução de 1/15 por cada ano decorrido desde a data de aquisição dos respectivos bens.
 
-###### Base XIV — Rescisão da concessão
+Base XIV
+
+Rescisão da concessão
 
 1 - O não cumprimento, no todo ou em parte, pela concessionário das suas obrigações permite ao Estado a rescisão do contrato de concessão.
 
@@ -427,15 +486,21 @@ j) O não cumprimento das obrigações tarifárias.
 
 7 - Rescindida a concessão, reverte para o Estado o valor da caução, sem prejuízo da responsabilidade civil em que incorrer a concessionária, nos termos da lei geral.
 
-###### Base XV — Trespasse e subconcessão
+Base XV
+
+Trespasse e subconcessão
 
 A concessionária não poderá subconceder ou trespassar a concessão.
 
-###### Base XVI — Indemnizações a terceiros
+Base XVI
+
+Indemnizações a terceiros
 
 São da inteira responsabilidade da concessionária todas as indemnizações decorrentes da actividade que, por direito, sejam devidas a terceiros.
 
-###### Base XVII — Caução
+Base XVII
+
+Caução
 
 1 - A concessionária depositará na Caixa Geral de Depósitos, à ordem do Estado, a caução de 5000000$00, podendo ser substituída por garantia bancária ou seguro de caução.
 
@@ -447,7 +512,9 @@ São da inteira responsabilidade da concessionária todas as indemnizações dec
 
 5 - A caução poderá ser levantada pela concessionária no prazo de um ano a contar do termo do resgate da concessão, depois de efectuadas as deduções a que eventualmente haja lugar.
 
-###### Base XVIII — Sanções
+Base XVIII
+
+Sanções
 
 1 - No caso de incumprimento por parte da concessionária, de quaisquer obrigações emergentes do contrato de concessão, o Ministro das Obras Públicas, Transportes e Comunicações pode aplicar-lhe coimas de montante variável entre 10000$00 e 2000000$00, conforme a gravidade da infracção e caso não esteja prevista sanção mais grave.
 
@@ -457,7 +524,9 @@ São da inteira responsabilidade da concessionária todas as indemnizações dec
 
 4 - Se, no caso previsto no número anterior, a concessionária não cumprir as obrigações no prazo fixado, haverá lugar, conforme a gravidade da infracção, à aplicação de nova coima ou à rescisão do contrato.
 
-###### Base XIX — Diferendos
+Base XIX
+
+Diferendos
 
 1 - As questões que venham a suscitar-se entre o Estado e a concessionária relativas ao contrato de concessão serão resolvidas por um tribunal arbitral funcionando junto da comarca de Lisboa, composto por três membros, um nomeado pelo Ministério das Obras Públicas, Transportes e Comunicações, outro pela concessionária e um terceiro por acordo entre as partes, ou, na falta desse acordo, pelo presidente do Supremo Tribunal Administrativo.
 
@@ -465,4 +534,4 @@ São da inteira responsabilidade da concessionária todas as indemnizações dec
 
 3 - O tribunal julgará segundo juízo de equidade e das suas decisões não caberá recurso.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

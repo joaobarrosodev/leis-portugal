@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22200/42844285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1989-548207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e21e4016b021fc7668db8ad07f3a93cfd62e8b999f418a701df3580e2fd2b942
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c997b53b8215821653bb8c3c8c9f409724181b644fd68863e607355bd3a9457
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Conselho Administrativo
+- Definição de Competências
+- Direcção Geral de Viação
+- Direcção Geral dos Transportes Terrestres
+- Receita Própria
 relationships:
 - type: amended_by
   target: pt:dre:534618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:331617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517201:por
+  label: "Revogado, na parte aplicável à Direcção-Geral de Viação, pelo DEC LEI.61/94.26.02.1994.MAI, DR.IS-A [48] de 26.02.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-1994-517201
+  date: '1994-02-26'
+- type: repealed_by
+  target: pt:dre:534618:por
+  label: "Revogado pelo DEC LEI.296/94.1994.11.17.MOPTC, DR.IS-A [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1994-534618
+  date: '1994-11-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:33Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +133,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Direcção-Geral de Transportes Terrestres, criada pelo [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, e a Direcção-Geral de Viação, criada pelo [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, são dotadas de autonomia administrativa.
+Artigo 1.º - 1 - A Direcção-Geral de Transportes Terrestres, criada pelo [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, e a Direcção-Geral de Viação, criada pelo [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, são dotadas de autonomia administrativa.
 
 2 - A autonomia administrativa entende-se nos termos da alínea a) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, com as necessárias adaptações decorrentes da gestão de receitas consignadas.
 
-###### Art. 2.º - 1 - É criado um conselho administrativo para cada um das direcções-gerais referidas no artigo anterior, como órgão de gestão financeira, com a seguinte composição:
+Art. 2.º - 1 - É criado um conselho administrativo para cada um das direcções-gerais referidas no artigo anterior, como órgão de gestão financeira, com a seguinte composição:
 
 a) O director-geral, que preside;
 
@@ -136,7 +169,7 @@ g) Apreciar os encargos decorrentes dos acordos ou contratos a celebrar com enti
 
 6 - O conselho administrativo estabelecerá, mediante regulamento, as normas internas do seu funcionamento.
 
-###### Art. 3.º - 1 - As direcções-gerais gerem as dotações que lhes vierem a ser consignadas no Orçamento do Estado.
+Art. 3.º - 1 - As direcções-gerais gerem as dotações que lhes vierem a ser consignadas no Orçamento do Estado.
 
 2 - Constituem ainda receitas das respectivas direcções-gerais:
 
@@ -148,12 +181,12 @@ b) Quaisquer outras receitas que por lei, contrato ou a outro qualquer título l
 
 Visto e aprovado em Conselho de Ministros de 3 de Agosto de 1989. - Eurico Silva Teixeira de Melo - Fernando Manuel Barbosa Faria de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 13 de Setembro de 1989.**
+Promulgado em 13 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1989.**
+Referendado em 15 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

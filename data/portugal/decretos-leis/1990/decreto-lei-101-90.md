@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06700/14011404.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1990-333344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29714507ac6b957d2bba0a60aca373b17768b636c8f7c52824d88a4a5b63ad66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8d53f66e653f6b1eb035e4f60743ce3bc0c0af011fb0064566c50b7ee62f71f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Congresso Mundial das Comunidades Portuguesas
+- Conselho das Comunidades Portuguesas
+- Conselho Permanente das Comunidades Portuguesas
+- Criação de Serviços
+- Definição de Competências
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:241642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546608:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:575545:por
+  label: Rectificado o sumário pela DECL.DD3410.1990.03.31.PCM DR.IS [76]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-575545
+  date: '1990-03-21'
+- type: repealed_by
+  target: pt:dre:241642:por
+  label: "Revogado pela LEI.48/96.1996.09.04.AR, DR.IS-A [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-1996-241642
+  date: '1996-09-04'
 article_structure:
   article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:44Z'
   warnings: []
   errors: []
 ---
@@ -371,12 +403,12 @@ d) O Conselho Permanente das Comunidades Portuguesas.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 9 de Fevereiro de 1990.**
+Promulgado em 9 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Fevereiro de 1990.**
+Referendado em 12 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

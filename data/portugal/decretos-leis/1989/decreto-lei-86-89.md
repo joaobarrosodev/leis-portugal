@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/06900/12681269.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1989-613936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:57:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38edb596dbb13fc1b9c60faf51df30e1ee264a3c393ed976074afd57c75d9475
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a1e9934040c399d701cecf0b7c83b5e3c3665eb561f714edbecad4d1690f56f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fretamento
+- Marinha Mercante
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:471166:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:663361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471166:por
+  label: Revogado pelo DEC LEI.123/91.21.03.1991.MOPTC, DR.IS-A [67] de 21.03.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1991-471166
+  date: '1991-03-21'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:57:24Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +111,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 9.º e 10.º do [Decreto-Lei n.º 34/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1987-663361), de 20 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 9.º e 10.º do [Decreto-Lei n.º 34/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1987-663361), de 20 de Janeiro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O transporte por via marítima de mercadorias essenciais ao abastecimento do País importadas por organismos do Estado, por empresas públicas, por empresas com participação maioritária do Estado e por qualquer outra entidade, sempre que, neste último caso, as mercadorias se destinem àquelas, ao abrigo de contratos firmados antes da efectivação da importação, deve ser efectuado em navios de bandeira portuguesa, desde que em condições de frete ajustadas às vigentes no mercado internacional.
+Artigo 1.º - 1 - O transporte por via marítima de mercadorias essenciais ao abastecimento do País importadas por organismos do Estado, por empresas públicas, por empresas com participação maioritária do Estado e por qualquer outra entidade, sempre que, neste último caso, as mercadorias se destinem àquelas, ao abrigo de contratos firmados antes da efectivação da importação, deve ser efectuado em navios de bandeira portuguesa, desde que em condições de frete ajustadas às vigentes no mercado internacional.
 
 2 - As entidades referidas no número anterior passam a ser designadas por carregadores.
 
@@ -113,9 +129,9 @@ b) Os navios que se destinem a substituir temporariamente navios de bandeira por
 
 6 - Ficam isentos das obrigações decorrentes do presente diploma os carregadores que, sendo empresas públicas ou quaisquer outros organismos previstos no n.º 1, importem produtos que se destinem a ser comercializados no mercado interno sem qualquer transformação, nos casos em que se verifique a existência de outros importadores não sujeitos a este diploma.
 
-###### Art. 2.º Quando entre carregadores e armadores nacionais sejam celebrados, com conhecimento da Direcção-Geral da Marinha de Comércio (DGMC), contratos de transporte marítimo de mercadorias, por período igual ou superior a dois anos, considera-se liberado o transporte correspondente à quinta parte das quantidades abrangidas por cada um dos contratos.
+Art. 2.º Quando entre carregadores e armadores nacionais sejam celebrados, com conhecimento da Direcção-Geral da Marinha de Comércio (DGMC), contratos de transporte marítimo de mercadorias, por período igual ou superior a dois anos, considera-se liberado o transporte correspondente à quinta parte das quantidades abrangidas por cada um dos contratos.
 
-###### Art. 3.º Quando a mercadoria a transportar for essencial ao abastecimento do País e não estiver liberada nos termos do artigo anterior, considera-se automaticamente liberada, com dispensa de qualquer forma de autorização administrativa, sempre que se verifique insuficiência de capacidade dos navios de pavilhão português, ou ainda em qualquer das seguintes situações:
+Art. 3.º Quando a mercadoria a transportar for essencial ao abastecimento do País e não estiver liberada nos termos do artigo anterior, considera-se automaticamente liberada, com dispensa de qualquer forma de autorização administrativa, sempre que se verifique insuficiência de capacidade dos navios de pavilhão português, ou ainda em qualquer das seguintes situações:
 
 a) ...
 
@@ -125,7 +141,7 @@ c) ...
 
 d) ...
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 a) Das razões que determinaram a não utilização de navios de bandeira portuguesa;
 
@@ -137,26 +153,26 @@ b) ...
 
 4 - Se se verificar que uma mercadoria não foi transportada em navio de bandeira portuguesa, com violação das regras estabelecidas nos artigos 2.º e 3.º, pode ser recusado o desalfandegamento dessas mercadorias, a solicitação da DGMC, sem prejuízo da aplicação das sanções previstas no artigo 10.º
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - Nos meses de Janeiro e Julho de cada ano, os carregadores devem indicar à Direcção-Geral da Marinha de Comércio o volume total das mercadorias que importaram por via marítima durante o semestre anterior e o que foi transportado em navios de bandeira portuguesa.
 
 3 - ...
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - A violação do dever de informação previsto no artigo 9.º constitui contra-ordenação punível com coima de 100000$00 a 300000$00.
 
-###### Art. 2.º Mantém-se em vigor a [Portaria n.º 279/87](https://diariodarepublica.pt/dr/detalhe/portaria/279-1987-666682), de 6 de Abril.
+Art. 2.º Mantém-se em vigor a [Portaria n.º 279/87](https://diariodarepublica.pt/dr/detalhe/portaria/279-1987-666682), de 6 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Nuno Manuel Franco Ribeiro da Silva - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1989.**
+Referendado em 11 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

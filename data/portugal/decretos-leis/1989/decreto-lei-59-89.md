@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1989-612402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f61a7dfaad8646deab6aaef73bb4d3c35bef32f5c197c5de2db8432c2e9c4982
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 247cd6f950b3e2d50298328862fc27629ddc21e2b25d6fb56d2381c4ef1f9add
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Nacional de Pensões
+- Direito do Trabalho
+- Indemnização
+- Pagamento
+- Prestações da Segurança Social
+- Processo Civil
+- Processo Judicial
+- Processo Penal
+- Reembolso
+- Remuneração
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:264283:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:264283:por
+  label: "Determinada a suspensão, no período de 1 de Junho a 11 de Julho de 2004, no âmbito do processo sumário,da vigência\
+    \ das normas constantes do art. 2.º do presente diploma, pela LEI ORG.2/2004.12.05.2004.AR, DR.IS-A [111] de 12.05.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2004-264283
+  date: '2004-05-12'
+- type: cites
+  target: pt:dre:139067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:44Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +162,12 @@ No caso de morte, ou se a incapacidade para o trabalho revestir a forma de inval
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1989. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Albino da Silva Peneda.
 
-**Promulgado em 9 de Fevereiro de 1989.**
+Promulgado em 9 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1989.**
+Referendado em 9 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

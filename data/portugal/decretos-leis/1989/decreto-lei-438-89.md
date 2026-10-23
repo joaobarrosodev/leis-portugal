@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1989-551216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:55:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd42ee7827b7ce2878e7edd35e740a8be33319dc55cf1041f91c291801c78d60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 986ec5a7a502ce3dff0194da5e56f392a578e478b3e82cc16c9ed52f964d57f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:55:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Descrição de Funções
+- Direcção Geral da Pecuária
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:228437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:192603:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras de informática, pela PORT.295/92.03.04.1992.MF, DR.IS-B\
+    \ [79] de 03.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-1992-192603
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:228437:por
+  label: "Alterado o quadro de pessoal, na parte referente às carreiras de biblioteca e documentação, pela PORT.959/92.07.10.1992.MF,\
+    \ DR.IS-B [231] de 07.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/959-1992-228437
+  date: '1992-10-07'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468672:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:55:59Z'
   warnings: []
   errors: []
 ---
@@ -100,29 +128,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São acrescidas ao quadro de pessoal da Direcção-Geral da Pecuária (DGP), constante da [Portaria n.º 452-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/452-a-1986-468672), de 20 de Agosto, as carreiras de desenhador de artes gráficas e de técnico auxiliar de biblioteca, arquivo e documentação, cujos conteúdos funcionais constam do anexo n.º 1 ao presente diploma, de que faz parte integrante.
+Artigo 1.º São acrescidas ao quadro de pessoal da Direcção-Geral da Pecuária (DGP), constante da [Portaria n.º 452-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/452-a-1986-468672), de 20 de Agosto, as carreiras de desenhador de artes gráficas e de técnico auxiliar de biblioteca, arquivo e documentação, cujos conteúdos funcionais constam do anexo n.º 1 ao presente diploma, de que faz parte integrante.
 
-###### Art. 2.º Os actuais desenhadores a prestar serviço na DGP transitam para a carreira de desenhador de artes gráficas, nível 4, de acordo com o mapa constante do anexo n.º 2 ao presente diploma, que dele faz parte integrante, independentemente da posse das habilitações legalmente exigidas, nos termos dos artigos 37.º e 46.º, n.º 8, do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, desde que exerçam as funções constantes do anexo n.º 1, extinguindo-se os lugares da carreira de desenhador do grupo de pessoal técnico-profissional, nível 3, logo que se concretize a transição.
+Art. 2.º Os actuais desenhadores a prestar serviço na DGP transitam para a carreira de desenhador de artes gráficas, nível 4, de acordo com o mapa constante do anexo n.º 2 ao presente diploma, que dele faz parte integrante, independentemente da posse das habilitações legalmente exigidas, nos termos dos artigos 37.º e 46.º, n.º 8, do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, desde que exerçam as funções constantes do anexo n.º 1, extinguindo-se os lugares da carreira de desenhador do grupo de pessoal técnico-profissional, nível 3, logo que se concretize a transição.
 
-###### Art. 3.º Os actuais técnicos auxiliares a prestar serviço na DGP transitam para a carreira de técnico auxiliar de biblioteca, arquivo e documentação, de acordo com o mapa constante do anexo n.º 3 ao presente diploma, que dele faz parte integrante, desde que exerçam as funções inseridas no conteúdo funcional constante do anexo n.º 2, extinguindo-se na carreira de técnico auxiliar igual número de lugares logo que se concretize a transição.
+Art. 3.º Os actuais técnicos auxiliares a prestar serviço na DGP transitam para a carreira de técnico auxiliar de biblioteca, arquivo e documentação, de acordo com o mapa constante do anexo n.º 3 ao presente diploma, que dele faz parte integrante, desde que exerçam as funções inseridas no conteúdo funcional constante do anexo n.º 2, extinguindo-se na carreira de técnico auxiliar igual número de lugares logo que se concretize a transição.
 
-###### Art. 4.º O número de lugares das carreiras de agente técnico agrícola, desenhador de artes gráficas, técnico auxiliar, desenhador, técnico auxiliar de biblioteca, arquivo e documentação e auxiliar técnico de laboratório passa a ser o constante do anexo n.º 4 ao presente diploma, de que faz parte integrante.
+Art. 4.º O número de lugares das carreiras de agente técnico agrícola, desenhador de artes gráficas, técnico auxiliar, desenhador, técnico auxiliar de biblioteca, arquivo e documentação e auxiliar técnico de laboratório passa a ser o constante do anexo n.º 4 ao presente diploma, de que faz parte integrante.
 
-###### Art. 5.º As transições referidas nos artigos anteriores far-se-ão com observância do disposto no artigo 5.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, reportando-se os seus efeitos a 30 de Setembro de 1989.
+Art. 5.º As transições referidas nos artigos anteriores far-se-ão com observância do disposto no artigo 5.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, reportando-se os seus efeitos a 30 de Setembro de 1989.
 
-###### Art. 6.º A qualificação profissional - área funcional da carreira de técnico superior constante do mapa I anexo à [Portaria n.º 452-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/452-a-1986-468672), de 20 de Agosto, passa a ser a do anexo n.º 5.
+Art. 6.º A qualificação profissional - área funcional da carreira de técnico superior constante do mapa I anexo à [Portaria n.º 452-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/452-a-1986-468672), de 20 de Agosto, passa a ser a do anexo n.º 5.
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro dos Santos Amaro.
 
-**Promulgado em 1 de Dezembro de 1989.**
+Promulgado em 1 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Dezembro de 1989.**
+Referendado em 6 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO N.º 1 — (A que se refere o artigo 1.º)
 
@@ -182,15 +210,15 @@ Elaboração de ficheiros.
 
 ## ANEXO N.º 2 — (Mapa a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29000/54755477.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29000/54755477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29000/54755477.pdf)
 
 ## ANEXO N.º 3 — (Mapa a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29000/54755477.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29000/54755477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29000/54755477.pdf)
 
 ## ANEXO N.º 4 — (Quadro de pessoal a que se refere o artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29000/54755477.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29000/54755477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29000/54755477.pdf)
 
 ## ANEXO N.º 5 — (A que se refere o artigo 6.º)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/01/01800/00670067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18229-1961-557074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d035d21af75f25a75df4996dbd92e9aff3505b90154ebd1891ec261804523a0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edba5b19d04c7d8dae548ced4734a9de6c859f11bd7674586e5e45dfb7ebbfdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:54:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Câmara de Compensação
+- Instituição de Crédito
+- Lisboa
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:473735:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:142936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356484:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473735:por
+  label: "Revogada pelo DEC LEI.442/74.12.09.1974.MF, DG.IS [213] de 12.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/442-1974-473735
+  date: '1974-09-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:54:30Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +110,7 @@ validation:
 
 O movimento das Câmaras de Compensação de Lisboa e do Porto tem vindo a desenvolver-se em termos que evidenciam não só a crescente generalização do uso do cheque no País, mas também a cada vez mais extensa organização do sistema bancário nacional. Os seguintes números bastam para dar uma ideia do âmbito dessa evolução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/01/01800/00670067.pdf))](https://files.diariodarepublica.pt/1s/1961/01/01800/00670067.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/01/01800/00670067.pdf)
 
 Convém, por isso, manter e procurar intensificar a tendência que dita a referida evolução, tão certo é que a prática de facilitar as compensações entre os bancos através de um organismo central é da maior importância para o sistema bancário, por constituir um meio, por um lado, de economizar moeda e, por outro, de verificar em cada momento o grau de liquidez que aquele sistema apresenta. Foi, aliás, o reconhecimento de tal valia que determinou a criação e organização das Câmaras nos moldes do direito público que entre nós possuem.
 

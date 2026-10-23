@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/00500/00460046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1989-234498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:56:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b402c40946fb716eb4d8d7a4c1a5b505b321747485c6b37640f6bc6f0c545d6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aee908df76a2c8a74c30a77c626a3da882169cf34137ae0c6ad10b36bfdd43b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Iroma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:189342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662373:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:56:49Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +124,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 12.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 12.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro, passa a ter a seguinte redacção:
 
 1 - ...
 
@@ -113,28 +140,28 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 7 - ...
 
-###### Art. 2.º Independentemente da constituição da associação referida no artigo 6.º do [Decreto-Lei n.º 100/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1987-662373), de 5 de Março, proceder-se-á já à liquidação prevista no n.º 2 do mesmo artigo, reportada aos valores e bens existentes à data da publicação do presente diploma.
+Art. 2.º Independentemente da constituição da associação referida no artigo 6.º do [Decreto-Lei n.º 100/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1987-662373), de 5 de Março, proceder-se-á já à liquidação prevista no n.º 2 do mesmo artigo, reportada aos valores e bens existentes à data da publicação do presente diploma.
 
-###### Art. 3.º Os valores abrangidos pelo disposto nos artigos 1.º e 2.º que, nos termos do [Decreto-Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1987-599515), de 9 de Janeiro, são assumidos pelo Estado através da Direcção-Geral do Tesouro serão liquidados pelo INGA através da Comissão de Liquidação de Organismos de Coordenação Económica, já criada para esse efeito
+Art. 3.º Os valores abrangidos pelo disposto nos artigos 1.º e 2.º que, nos termos do [Decreto-Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1987-599515), de 9 de Janeiro, são assumidos pelo Estado através da Direcção-Geral do Tesouro serão liquidados pelo INGA através da Comissão de Liquidação de Organismos de Coordenação Económica, já criada para esse efeito
 
-###### Art. 4.º Para a liquidação dos organismos de coordenação económica extintos e para os efeitos do disposto no artigo 2.º do presente diploma, o INGA apenas deverá apresentar a conta de gerência final da liquidação de cada organismo, para os efeitos do n.º 2 do artigo 5.º do [Decreto-Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1987-599515), de 9 de Janeiro.
+Art. 4.º Para a liquidação dos organismos de coordenação económica extintos e para os efeitos do disposto no artigo 2.º do presente diploma, o INGA apenas deverá apresentar a conta de gerência final da liquidação de cada organismo, para os efeitos do n.º 2 do artigo 5.º do [Decreto-Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1987-599515), de 9 de Janeiro.
 
-###### Art. 5.º A Comissão de Liquidação poderá, com autorização prévia do INGA e com dispensa de outras formalidades, adquirir os serviços que forem necessários para efectuar a curto prazo as operações de liquidação, neles se incluindo as prestações de trabalho e os serviços de contabilidade, gestão, desenvolvimento e apoio de organizações de pessoal, consultadoria e análogos.
+Art. 5.º A Comissão de Liquidação poderá, com autorização prévia do INGA e com dispensa de outras formalidades, adquirir os serviços que forem necessários para efectuar a curto prazo as operações de liquidação, neles se incluindo as prestações de trabalho e os serviços de contabilidade, gestão, desenvolvimento e apoio de organizações de pessoal, consultadoria e análogos.
 
-###### Art. 6.º O Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), o Instituto da Vinha e do Vinho (IVV) e a Federação dos Vinicultores do Dão deverão fornecer à Comissão de Liquidação, de modo a assegurar a realização em curto prazo das operações de liquidação, os elementos contabilísticos e a documentação que constituem a base das operações de liquidação e o apoio em meios materiais e humanos necessários à execução de tais operações.
+Art. 6.º O Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), o Instituto da Vinha e do Vinho (IVV) e a Federação dos Vinicultores do Dão deverão fornecer à Comissão de Liquidação, de modo a assegurar a realização em curto prazo das operações de liquidação, os elementos contabilísticos e a documentação que constituem a base das operações de liquidação e o apoio em meios materiais e humanos necessários à execução de tais operações.
 
-###### Art. 7.º Todas as atribuições e competências conferidas pelos Decretos-Leis n.os [13/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1987-599515), de 9 de Janeiro e [100/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1987-662373), de 5 de Março, bem como por quaisquer outros diplomas legais, ao Instituto Nacional de Garantia Agrícola, criado pelo [Decreto-Lei n.º 96/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1986-189342), de 13 de Maio, relativas aos processos de liquidação dos organismos de coordenação económica [Junta Nacional dos Produtos Pecuários (JNPP), Junta Nacional das Frutas (JNF), Instituto do Azeite e Produtos Oleaginosos (IAPO) e Junta Nacional dos Vinhos (JNV)], do Fundo de Abastecimento e da Federação dos Vinicultores do Dão, são de imediato assumidas, nos mesmos termos legais e sem pendência de quaisquer formalidades, pelo Instituto Nacional de Intervenção e Garantia Agrícola (INGA), criado pelo [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto.
+Art. 7.º Todas as atribuições e competências conferidas pelos Decretos-Leis n.os [13/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1987-599515), de 9 de Janeiro e [100/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1987-662373), de 5 de Março, bem como por quaisquer outros diplomas legais, ao Instituto Nacional de Garantia Agrícola, criado pelo [Decreto-Lei n.º 96/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1986-189342), de 13 de Maio, relativas aos processos de liquidação dos organismos de coordenação económica [Junta Nacional dos Produtos Pecuários (JNPP), Junta Nacional das Frutas (JNF), Instituto do Azeite e Produtos Oleaginosos (IAPO) e Junta Nacional dos Vinhos (JNV)], do Fundo de Abastecimento e da Federação dos Vinicultores do Dão, são de imediato assumidas, nos mesmos termos legais e sem pendência de quaisquer formalidades, pelo Instituto Nacional de Intervenção e Garantia Agrícola (INGA), criado pelo [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto.
 
-###### Art. 8.º Os efeitos do presente diploma produzem-se desde a entrada em vigor do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro.
+Art. 8.º Os efeitos do presente diploma produzem-se desde a entrada em vigor do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 22 de Dezembro de 1988.**
+Promulgado em 22 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1988.**
+Referendado em 27 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

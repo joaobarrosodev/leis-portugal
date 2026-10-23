@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/07900/16001600.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1990-333145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0432ccb82540997fad72187c92cb8a12ff012df42c2a1ae0ef34ad14a066297
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4965f8ba865e3505230ce77a959a32281005a691e75d8e886eb08d027f476b47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Comunicações
+- Documentação Administrativa
+- Modernização Administrativa
+- Papel Selado
 relationships:
 - type: amended_by
   target: pt:dre:534640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:283365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627041:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:182444:por
+  label: Rectificado pela DECL.DD3343.1990.04.06.PCM DR.IS [99]2º Supl de 30.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-182444
+  date: '1990-04-06'
+- type: repealed_by
+  target: pt:dre:534640:por
+  label: "Revogado pelo DEC LEI.135/99.1999.04.22.PCM, DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1999-534640
+  date: '1999-04-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:04Z'
   warnings: []
   errors: []
 ---
@@ -100,26 +123,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Sempre que uma pessoa, singular ou colectiva, se dirija por escrito a qualquer serviço público, designadamente nos requerimentos, petições, queixas, reclamações ou recursos, devem ser utilizadas folhas de papel normalizadas, brancas ou de cores pálidas, de formato A4 ou papel contínuo.
+Artigo 1.º - 1 - Sempre que uma pessoa, singular ou colectiva, se dirija por escrito a qualquer serviço público, designadamente nos requerimentos, petições, queixas, reclamações ou recursos, devem ser utilizadas folhas de papel normalizadas, brancas ou de cores pálidas, de formato A4 ou papel contínuo.
 
 2 - O disposto no número anterior é ainda aplicável aos contratos celebrados entre quaisquer pessoas, singulares ou colectivas.
 
 3 - Os suportes referidos no n.º 1 podem incluir elementos identificadores da pessoa, singular ou colectiva, nomeadamente sigla, logotipo, endereço ou referências de telecomunicações.
 
-###### Art. 2.º Salvo no caso dos actos judiciais e dos contratos a que se refere o n.º 2 do artigo anterior, não é permita a recusa de aceitação ou tratamento de documentos de qualquer natureza com fundamento na inadequação dos suportes em que estão escritos, desde que não fique prejudicada a sua legibilidade.
+Art. 2.º Salvo no caso dos actos judiciais e dos contratos a que se refere o n.º 2 do artigo anterior, não é permita a recusa de aceitação ou tratamento de documentos de qualquer natureza com fundamento na inadequação dos suportes em que estão escritos, desde que não fique prejudicada a sua legibilidade.
 
-###### Art. 3.º Os serviços públicos devem facultar gratuitamente aos utentes que o solicitem os suportes de escrita adequados.
+Art. 3.º Os serviços públicos devem facultar gratuitamente aos utentes que o solicitem os suportes de escrita adequados.
 
-###### Art. 4.º É revogado o artigo 2.º do [Decreto-Lei n.º 435/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1986-627041), de 31 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1988-283365), de 14 de Janeiro.
+Art. 4.º É revogado o artigo 2.º do [Decreto-Lei n.º 435/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1986-627041), de 31 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1988-283365), de 14 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 22 de Março de 1990.**
+Promulgado em 22 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Março de 1990.**
+Referendado em 24 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
