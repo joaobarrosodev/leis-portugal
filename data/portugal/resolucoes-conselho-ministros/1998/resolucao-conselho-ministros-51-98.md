@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/51/1998/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-1998-175357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4ee6ba53184b9131cebcf3426ba8022a770ffa7fcfe4465936f5d898cc3a01f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da31a33277401ef50b121b99104e82287243345057f0582ce2276fa8595d67fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Desenvolvimento Regional
-- Projeto de Investimento
 - Criação de Emprego
+- Desenvolvimento Regional
+- Financiamento
 - Microempresa
+- Projeto de Investimento
 - Regulamento
 relationships:
 - type: amended_by
@@ -97,16 +97,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/35/1997/03/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/35/1997/03/07/p/dre
+- type: cites
+  target: pt:dre:150765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571651:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:668498:por
+  label: "Rectificada pela DECL-RECT.9-I/98.1998.04.30.PCM DR.IS-B [100]2ºSupl de 30-Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-i-1998-668498
+  date: '1998-04-30'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:20Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +170,9 @@ Alterar os artigos 3.º, 8.º, 9.º, 10.º e 13.º e o anexo I - quadro n.º 1 d
 
 3 - São ainda susceptíveis de apoio os projectos de investimento que tenham por objecto actividades no domínio do comércio que apenas se consideram relevantes para efeitos de atribuição de incentivos à criação de postos de trabalho.
 
-###### Artigo 8.º — Condições de acesso dos projectos
+Artigo 8.º
+
+Condições de acesso dos projectos
 
 ...
 
@@ -161,7 +188,9 @@ b.iii) (Revogada.)
 
 ...
 
-###### Artigo 9.º — Incentivos
+Artigo 9.º
+
+Incentivos
 
 ...
 
@@ -187,7 +216,9 @@ c) Dezoito vezes o montante mais elevado da remuneração mínima nacional garan
 
 8 - Para além do limite estabelecido no número anterior, será atribuído para as novas empresas criadas com capital social detido exclusivamente por desempregados um prémio à criação do próprio emprego no montante máximo de 4000 contos, cuja soma com os subsídios a fundo perdido referidos no n.º 1 do presente artigo, que lhes tenham sido atribuídos, não exceda 70% do montante total das despesas de investimento consideradas elegíveis.
 
-###### Artigo 10.º — Critérios de classificação
+Artigo 10.º
+
+Critérios de classificação
 
 1 - ...
 
@@ -235,7 +266,9 @@ viii) (Revogada.)
 
 7 - No caso de postos de trabalho preenchidos por mulheres, o subsídio para a criação de emprego será majorado em mais de 20% do valor que lhe seria atribuído em função do montante a que se refere a alínea b) do n.º 4 do artigo 9.º, conjugado com o n.º 5 do presente artigo.
 
-###### Artigo 13.º — Gestão a nível regional
+Artigo 13.º
+
+Gestão a nível regional
 
 ...
 

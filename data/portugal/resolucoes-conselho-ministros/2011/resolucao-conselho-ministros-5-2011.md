@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/5/2011/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-2011-280896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ad0667026bbb17dd2af695fd1f6f6e83c9426469b49d2dbc8e805d4b73f1ae8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20f4c7ae302d96d2c68dbea53b0d2233a8c74cfcd5e7b220da9ea8e345ec7984
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Mulher
-- Igualdade de Tratamento
-- Plano Nacional para a Igualdade de Género Cidadania e não Discriminação
-- Definição de Competências
-- Luta contra a Discriminação
-- Igualdade de Oportunidades
 - Comissão para a Cidadania e a Igualdade de Género
+- Definição de Competências
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
+- Luta contra a Discriminação
+- Mulher
+- Plano Nacional para a Igualdade de Género Cidadania e não Discriminação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/112/2009/09/16/p/dre
@@ -113,16 +113,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/70/2008/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/70/2008/04/22/p/dre
+- type: cites
+  target: pt:dre:249856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:55Z'
   warnings: []
   errors: []
 ---
@@ -445,13 +489,13 @@ Objectivo:
 
 Integração da dimensão da igualdade de género na Administração Pública Central como requisito de boa governação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Objectivo:
 
 Integração da dimensão da igualdade de género e das práticas de cidadania na administração pública local como requisito de boa governação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 2 - Independência Económica, Mercado de Trabalho e Organização da Vida Profissional, Familiar e Pessoal
 
@@ -495,7 +539,7 @@ Reduzir as assimetrias salariais;
 
 Promover planos para a igualdade nas empresas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 3 - Educação, Ensino Superior e Formação ao Longo da Vida
 
@@ -523,7 +567,7 @@ Objectivos:
 
 Promover medidas específicas para a integração da igualdade de género no sector da educação, em todos os níveis de ensino e formação ao longo da vida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 4 - Saúde
 
@@ -563,7 +607,7 @@ Combater a feminização do VIH/sida;
 
 Acompanhar a implementação da lei da interrupção voluntária da gravidez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 5 - Ambiente e Organização do Território
 
@@ -581,7 +625,7 @@ Objectivos:
 
 Integrar a perspectiva de género no sector do ambiente e organização do território.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 6 - Investigação e Sociedade do Conhecimento
 
@@ -603,7 +647,7 @@ Objectivo:
 
 Promover medidas específicas para a integração da perspectiva de género na área da investigação e sociedade do conhecimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 7 - Desporto e Cultura
 
@@ -619,7 +663,7 @@ Objectivo:
 
 Promover medidas específicas para a integração da perspectiva de género nos sectores do desporto e da cultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 8 - Media, Publicidade e Marketing
 
@@ -641,7 +685,7 @@ Objectivo:
 
 Promover medidas específicas para a integração da perspectiva de género na área dos media.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 9 - Violência de Género
 
@@ -661,7 +705,7 @@ Objectivos:
 
 Promover medidas específicas para o combate à violência de género.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 10 - Inclusão Social
 
@@ -691,7 +735,7 @@ Objectivo:
 
 Promover medidas específicas para a integração da perspectiva de género na área da inclusão social.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 11 - Orientação Sexual e Identidade de Género
 
@@ -713,7 +757,7 @@ Objectivo:
 
 Promover medidas específicas para a integração da perspectiva de género e não discriminação em função da orientação sexual e identidade de género.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 12 - Juventude
 
@@ -735,7 +779,7 @@ Objectivo:
 
 Promover medidas específicas para a integração da perspectiva de género nas políticas de juventude.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 13 - Organizações da Sociedade Civil
 
@@ -753,7 +797,7 @@ Objectivo:
 
 Promover medidas específicas para a capacitação da intervenção das organizações da sociedade civil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Área estratégica n.º 14 - Relações Internacionais, Cooperação e Comunidades Portuguesas
 
@@ -777,19 +821,19 @@ Objectivo:
 
 Consolidar e aprofundar as políticas para a igualdade de género nos organismos internacionais, incluindo na União Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Objectivo:
 
 Consolidar e aprofundar as políticas para a igualdade de género na cooperação para o desenvolvimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Objectivo:
 
 Consolidar e aprofundar as políticas para a igualdade de género nas comunidades portuguesas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf))](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/01200/0029600321.pdf)
 
 Siglas e abreviaturas:
 

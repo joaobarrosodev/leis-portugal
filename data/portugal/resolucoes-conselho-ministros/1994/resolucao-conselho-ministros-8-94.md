@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/8/1994/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-1994-500198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0051b7718eb8bdd58284abc36ac77cfc433f7e877f4faa153107de9b63def2ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7e2e98454948d1b5cef8f6dd3e2835be81faf1e57d75fbc01f393398f293842
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Montemor-o-Novo
 - Ordenamento do Território
 - Plano Director Municipal
-- Montemor-o-Novo
 - Política de Solos
 - Regulamento
 relationships:
@@ -75,6 +75,47 @@ relationships:
   target: pt:dre:932559322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292887:por
+  label: "Ratificada a alteração do PU (ratificada pelo presente diploma), pela RES.43/2000.2000.05.12.PCM, DR.IS-B [126]\
+    \ de 31/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/43-2000-292887
+  date: '2000-05-12'
+- type: amended_by
+  target: pt:dre:589288:por
+  label: "Ratificada parcialmente a revisão do plano de urbanização da cidade de Montemor-o-Novo, ficando revogadas, na área\
+    \ de intervenção da presente revisão, as disposições do supracitado plano, bem como as disposições do Plano Director Municipal\
+    \ ratificado pelo presente diploma, contrárias às disposições da referida revisão, pela RES.54/2005.20.01.2005.PCM, DR.IS-B\
+    \ [46] de 07.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/54-2005-589288
+  date: '2005-01-20'
+- type: amended_by
+  target: pt:dre:262345:por
+  label: "Ratificadas as alterações ao nº 3 do art. 2º, ao nº 3 do art. 4º, ao art. 5º, aos nºs 1 e 2 do art. 6º, ao art.\
+    \ 7º, ao nº 1, à al. a) do nº 4 e ao nº 6 do art. 8º, ao art. 9º, aos nºs 1, 2, 3, 4, 8, 9 e 10.1 do art. 10º, ao art.\
+    \ 13º, ao nº 3 do art. 14º, ao art. 16º, ao nº 2 do art. 17º, aos arts. 20º, 22º, 23º e 24º, aos nºs 3 e 4 do art. 25º,\
+    \ aos arts. 26º e 27º, ao nº 2 do art. 30º, aos nºs 1 e 2 do art. 31º, ao nº 2 do art. 32º, às als. a) e b) do nº 2 do\
+    \ art. 33º, às als. a) e b) do nº 2 do art. 34º, à al. b) do art. 35º, ao art. 36º, ao nº 1 do art. 37º, aos arts. 38º\
+    \ e 39º, ao nº 2.2 do art. 40º, à al. d) do nº 2 do art. 42º e ao art. 44º do Regulamento e a actualização das plantas\
+    \ de ordenamento e de condicionantes do Plano Director Municipal de Montemor-o-Novo, ratificado no presente diploma, com\
+    \ as alterações ratificadas pelas Res 43/2000 de 03-Mai e 54/2005 de 07-Mar, ambas da PCM, pela RES.2/2007.16.11.2006.PCM,\
+    \ DR.IS [4] de 05.01.2007, que republica em anexo o referido regulamento, na sua nova versão, bem como as plantas citadas\
+    \ actualizadas \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/2-2007-262345
+  date: '2006-11-16'
+- type: amended_by
+  target: pt:dre:2344757:por
+  label: "Tornada pública a aprovação da revisão do Plano de Pormenor da Zona Industrial da Adua e a revogação dos art.s 29º\
+    \ e 30º do regulamento do Plano Diretor Municipal, pelo AV.16878/2012.18.12.2012.MMONTEMOR-O-NOV, DR.IIS [244] de 18.12.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/16878-2012-2344757
+  date: '2012-12-18'
+- type: amended_by
+  target: pt:dre:56055538:por
+  label: Tornada pública a suspensão parcial do PDM de Montemor-o-Novo, ratificado pelo presente diploma pelo(a) Aviso n.º
+    9241/2014 - Diário da República n.º 154/2014, Série II de 2014-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9241-2014-56055538
+  date: '2014-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -115,16 +156,208 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688035:por
+  label: null
+  source: null
 article_structure:
   article_count: 46
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:11Z'
   warnings: []
   errors: []
 ---
@@ -1263,4 +1496,4 @@ Parque urbano.
 
 2 - Equipamentos de menor dimensão, nomeadamente escolas do 1.º e 2.º ciclo do ensino básico, centros infantis, extensões do Centro de Saúde e outros de nível idêntico, instalar-se-ão nos aglomerados de nível II e serão localizados de acordo com o Plano de Urbanização ou planos de pormenor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/027b00/04880503.pdf))](https://files.diariodarepublica.pt/1s/1994/02/027b00/04880503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/027b00/04880503.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/297b00/73677367.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1148/1994/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1148-1994-575507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f36a9a204947dd45b9b8e9c7c217068dfd33a83d5b80acda52ccc0b3170c874
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d695603db66fb8a3ff5b164ff0938ec3c18b5422b117599c311201f264c1e2a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,16 +95,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/183/1994/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/183/1994/03/31/p/dre
+- type: cites
+  target: pt:dre:220699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:291929:por
+  label: "Revogada pela PORT.295/2000.2000.05.26.MF, DR.IS-B {122] de 26/Mai/2000 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-2000-291929
+  date: '2000-05-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:15Z'
   warnings: []
   errors: []
 ---
@@ -133,6 +158,6 @@ Manda o Governo, nos termos da alínea c) do artigo 202.º da Constituição, pe
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 25 de Novembro de 1994.**
+Assinada em 25 de Novembro de 1994.
 
-**O Secretário de Estado da Segurança Social, José Frederico de Lemos Salter Cid.**
+O Secretário de Estado da Segurança Social, José Frederico de Lemos Salter Cid.

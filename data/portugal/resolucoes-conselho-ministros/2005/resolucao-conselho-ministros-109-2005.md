@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/109/2005/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2005-233727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e07d828cd9f1ad78b660d2f10a526b4c51b1309081ef180d4c099a02d166d5b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61bc742253453221f279606515107f916e7814b4cd0f65c54bd9397f5df04c43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Função Pública
 - Admissão de Pessoal
 - Aposentação
-- Modernização Administrativa
-- Formação Profissional
+- Avaliação das Instituições
+- Avaliação do Pessoal
+- Comissão
+- Deficiente
 - Despesas de Representação
 - Despesas Públicas
 - Emolumento
-- Comissão
+- Estatuto Remuneratório
 - Férias
-- SIADAP
-- Remuneração Acessória
-- Avaliação das Instituições
+- Formação Profissional
+- Função Pública
+- Funcionário Público
+- Gratificação
+- Horário de Trabalho
+- Mobilidade de Pessoal
+- Modernização Administrativa
 - Pessoal Supranumerario
 - Prémio
 - Progressão na Carreira
-- Reconversão Profissional
 - Proteção Social
-- Horário de Trabalho
-- Gratificação
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
-- Funcionário Público
-- Estatuto Remuneratório
+- Reconversão Profissional
+- Remuneração Acessória
+- SIADAP
 - Subsídio de Alojamento
 - Subsídio de Insalubridade
 - Subsídio de Penosidade e Risco
@@ -100,16 +100,31 @@ relationships:
   target: pt:dre:529450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Mantidas suspensas, até 31.12.2007, excepto as decorrentes da presente resolução e as que sejam indispensáveis para\
+    \ o cumprimento de lei ou para a execução de sentenças judiciais, as revisões de carreiras aprovadas pelo Dec Lei 248/85\
+    \ de 15-Jul, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Suspensas, até 31 de Dezembro de 2008, e nos termos do art. 15.º, as revisões de carreiras e do regime e montantes\
+    \ dos suplementos remuneratórios, aprovadas pelo Dec Lei 248/85 de 15-Jul, com excepção das que resultem da aplicação\
+    \ da lei que, na sequência da presente resolução, defina e regule os novos regimes de vinculação, de carreiras e de remuneração,\
+    \ pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:32Z'
   warnings: []
   errors: []
 ---

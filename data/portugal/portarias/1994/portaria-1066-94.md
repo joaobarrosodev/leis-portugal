@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/280b00/71457147.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1066/1994/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1066-1994-554644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bf55622544bef00a66035d1617ce86e9aad314cb03a6aac94886af9f1cd1186
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 104fa99ec8eaf9bbf9a348661c6bbcd65995783ebb8989cc9ff345e99a8616d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,6 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Acumulação de Pensões
-- Suplemento de Pensão a Grandes Inválidos
-- Trabalhador Rural
 - Pensão de Invalidez
 - Pensão de Velhice
 - Pensionista
@@ -79,11 +77,19 @@ subjects:
 - Regime não Contributivo da Segurança Social
 - Segurança Social
 - Subsídio por Assistência de Terceira Pessoa
+- Suplemento de Pensão a Grandes Inválidos
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:692414:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692414:por
+  label: "Substituída a tabela e revogado o presente diploma, pela PORT.1417/95.24.11.1995.MSSS, DR.IS-B [272] de 24.11.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1417-1995-692414
+  date: '1995-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/141/1991/04/10/p/dre
   label: null
@@ -96,16 +102,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1237/1993/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1237/1993/12/02/p/dre
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:534662:por
+  label: "Rectificada a tabela anexa pela DECL-RECT.17/95.28.02.1995.PCM, DR.IS-B [50]2ºSupl de 28.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-1995-534662
+  date: '1995-02-28'
 article_structure:
   article_count: 1
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:49Z'
   warnings: []
   errors: []
 ---
@@ -302,12 +341,12 @@ Revogação
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 21 de Novembro de 1994.**
+Assinada em 21 de Novembro de 1994.
 
-**O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
 
 TABELA ANEXA
 
 Actualização de pensões para efeitos de cúmulo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/280b00/71457147.pdf))](https://files.diariodarepublica.pt/1s/1994/12/280b00/71457147.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/280b00/71457147.pdf)

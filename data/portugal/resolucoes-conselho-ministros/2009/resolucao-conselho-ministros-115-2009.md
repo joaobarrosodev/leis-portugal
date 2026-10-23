@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/115/2009/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/115-2009-482083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cfcda1d3a17b4585d5e9a33f6ee7a3ddcf2bee6d820c47b73e57ea7da61ecef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90c242913aa5b61342c69207cd7737fc4757b90804f43dd5413598bdec081a7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,43 @@ reuse:
 subjects:
 - Agência de Inovação
 - Aicep
-- Loja de Exportação
-- Empresa
-- Formação Profissional
-- Comércio Internacional
-- Definição de Competências
-- Conselho para a Promoção da Internacionalização
-- Direção Geral do Tesouro e Finanças
-- Internacionalização Empresarial
-- Apoio ao Investimento
-- Jovem
-- Incentivos à Exportação
 - Apoio à Exportação
-- Direcção Geral dos Assuntos Técnicos e Económicos
-- Desenvolvimento Económico
-- Política Económica
-- Estágio de Formação
-- Jovem Empresário
-- Instituto Português de Apoio ao Desenvolvimento
-- Política de Emprego
+- Apoio ao Investimento
 - Benefícios Fiscais
+- Comércio Internacional
+- Conselho para a Promoção da Internacionalização
+- Definição de Competências
+- Desenvolvimento Económico
+- Direção Geral do Tesouro e Finanças
+- Direcção Geral dos Assuntos Técnicos e Económicos
+- Empresa
+- Estágio de Formação
+- Formação Profissional
 - IAPMEI
-relationships: []
+- Incentivos à Exportação
+- Instituto Português de Apoio ao Desenvolvimento
+- Internacionalização Empresarial
+- Jovem
+- Jovem Empresário
+- Loja de Exportação
+- Política de Emprego
+- Política Económica
+relationships:
+- type: repealed_by
+  target: pt:dre:146923:por
+  label: "Revogados, a partir de 30.10.2011, os nºs 4 e 5, pela RES.44/2011.25.10.2011.PCM, DR.IS [205] de 25.10.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/44-2011-146923
+  date: '2011-10-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:43Z'
   warnings: []
   errors: []
 ---

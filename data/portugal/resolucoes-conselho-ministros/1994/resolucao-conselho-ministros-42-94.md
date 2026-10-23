@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/42/1994/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-1994-304356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e6b8469b21a0e925ab56228210f46c6bf3a3f51a096ba02864fdc4b477338fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1921f145449d757dc7bc24a53c05c0edec17b38e356c77e1c3e1983f638f5159
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,100 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Figueira da Foz
 - Imóvel Classificado
 - Ordenamento do Território
-- Plano Director Municipal
 - Património Histórico
-- Política de Solos
 - Plano de Urbanização
-- Figueira da Foz
+- Plano Director Municipal
+- Política de Solos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:546034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2037595:por
+  label: "Alterado o art. 47.º do Regulamento, pela DECL.164/99(2ªSÉRIE).1999.06.01.DGOTDU-MEPAT DR.IIS [140] DE 18/JUN/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/164-1999-2037595
+  date: '1999-06-01'
+- type: amended_by
+  target: pt:dre:647095:por
+  label: "Ratificada a suspensão parcial por 2 anos, do plano de director municipal da Figueria da Foz, na área da planta\
+    \ anexa á RES.100/2003.2003.07.10.PCM DR.IS-B [182] DE 08/AGO/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/100-2003-647095
+  date: '2003-07-10'
+- type: amended_by
+  target: pt:dre:280556:por
+  label: "Ratificada a suspensão parcial do Plano Director Municipal da Figueira da Foz, ratificado pela presente Resolução,\
+    \ alterado pela Deliberação publicada através da Decl 164/99(2ªSérie) de 18-Jun e ratificada a suspensão parcial pela\
+    \ Res 100/2003, de 08-Ago da PCM, pela RES.69/2004.17.05.2004.PCM, DR.IS-B [131] de 04.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/69-2004-280556
+  date: '2004-05-17'
+- type: amended_by
+  target: pt:dre:546034:por
+  label: "Ratificado, pelo prazo de dois anos, a suspensão parcial do Plano Director Municipal da Figueira da Foz, ratificado\
+    \ pelo presente diploma, alterado pela Assembleia Municipal tornado público pela Decl 164/99 (2ª.série) de 18-Jun, bem\
+    \ como o estabelecimento de medidas preventivas, para a mesma área e pelo mesmo prazo pela RES.151/2006.19.10.2006.PCM,\
+    \ DR.IS [215] de 08.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/151-2006-546034
+  date: '2006-10-19'
+- type: amended_by
+  target: pt:dre:3001344:por
+  label: "Tornada pública a alteração dos art.ºs 12.º e 47.º ( este último na redação da Decl. 164/99, de 18-jun) do Regulamento\
+    \ do PDM da Figueira da Foz, ratificado pelo presente diploma, pela DELIB.1597/2009.05.06.2009.CMFF, DR.IIS [109] de 05.06.2009\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/1597-2009-3001344
+  date: '2009-06-05'
+- type: amended_by
+  target: pt:dre:1815974:por
+  label: "Alterado o art. 29.º, aditadas as als. a e b) do n.º 1 do art. 18.º, e renumerados todos os artigos subsequentes\
+    \ do Regulamento do PDM da Figueira da Foz, ratificado pelo presente diploma, pelo AV.12166/2013.01.10.2013.MFIGUEIRA\
+    \ FOZ, DR.IIS [189] de 01.10.2013, e republicado em anexo.\0o.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12166-2013-1815974
+  date: '2013-10-01'
+- type: amended_by
+  target: pt:dre:3280818:por
+  label: "Alterado o Plano Diretor Municipal da Figueira da Foz, ratificado pelo presente diploma, pelo AV.13300/2013.31.10.2013.MFIGUEIRA\
+    \ FOZ, DR.IIS [211] de 31.10.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13300-2013-3280818
+  date: '2013-10-31'
+- type: amended_by
+  target: pt:dre:70016982:por
+  label: Alterada a al b) do n.º 2 do art 13.º, art. 31.º e n.º 1 do art 32.º do Regulamento pelo(a) Aviso n.º 9015/2015 -
+    Diário da República n.º 158/2015, Série II de 2015-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9015-2015-70016982
+  date: '2015-08-14'
+- type: amended_by
+  target: pt:dre:108152286:por
+  label: Tornado público ter sido aprovada a revisão do Plano Diretor Municipal da Figueira da Foz, ratificado pelo presente
+    diploma, pelo(a) Aviso n.º 10633/2017 - Diário da República n.º 179/2017, Série II de 2017-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10633-2017-108152286
+  date: '2017-09-15'
+- type: amended_by
+  target: pt:dre:114645169:por
+  label: Tornada pública a aprovação da alteração, por adaptação, dos arts. 27.º, 65.º e 118.º do Regulamento do Plano Diretor
+    Municipal da Figueira da Foz, ratificado pelo presente diploma, na versão revista e publicada pelo Av 10633/2017 de 15-set,
+    pelo(a) Aviso n.º 1729/2018 - Diário da República n.º 27/2018, Série II de 2018-02-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1729-2018-114645169
+  date: '2018-02-07'
+- type: amended_by
+  target: pt:dre:123512258:por
+  label: Tornada pública a aprovação da alteração, por adaptação, dos arts. 6.º, 10.º, 45.º e 46.º do Plano Diretor Municipal
+    da Figueira da Foz ratificado pelo presente diploma, na versão revista e publicada pelo Av 10633/2017 de 15-set, pelo(a)
+    Aviso n.º 12087/2019 - Diário da República n.º 142/2019, Série II de 2019-07-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12087-2019-123512258
+  date: '2019-07-26'
+- type: amended_by
+  target: pt:dre:125874335:por
+  label: Tornada pública a aprovação da alteração, por adaptação, com vista à conformação, da Planta de Condicionantes - Reserva
+    Ecológica Nacional (REN), com a Carta da REN da Figueira da Foz, publicada através do Av 10902/2019, de 02-jul, do Plano
+    Diretor Municipal da Figueira da Foz ratificado ratificado pelo presente diploma, na versão revista e publicada pelo Av
+    10633/2017 de 15-set, pelo(a) Aviso n.º 17525/2019 - Diário da República n.º 211/2019, Série II de 2019-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/17525-2019-125874335
+  date: '2019-11-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -94,16 +175,89 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:142504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687977:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632455:por
+  label: "Revogadas parcialmente as disposições constantes dos arts. 24º e 25º do Regulamento do Plano Director Municipal\
+    \ da Figueira da Foz (ratificado pelo presente diploma, com as alterações constantes da Decl 164/99(2ªSérie) de 18-Jun,\
+    \ da Res 100/2003 de 08-Ago e da Res 69/2004 de 04-Jun, ambas da PCM), assim como as demais disposições do PDM que sejam\
+    \ incompatíveis com o Plano de Pormenor para a Zona do Galante, ratificado pela RES.59/2006.27.04.2006.PCM, DR.IS-B [93]\
+    \ de 15.05.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/59-2006-632455
+  date: '2006-04-27'
 article_structure:
   article_count: 65
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:06Z'
   warnings: []
   errors: []
 ---
@@ -1714,4 +1868,4 @@ Palácio Sotto Mayor, na Figueira da Foz.
 
 Casa da Quinta, em Maiorca.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/139b00/31823196.pdf))](https://files.diariodarepublica.pt/1s/1994/06/139b00/31823196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/139b00/31823196.pdf)

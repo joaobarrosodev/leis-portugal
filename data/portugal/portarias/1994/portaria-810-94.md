@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/810/1994/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/810-1994-590551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a38a43862b71edeebb6b60b220890d0e33f6ab6756dbb2e0c56cf39d8ad2272
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7451457aa6cc0f81bb0e6f67ceec259faf39c47e3f723dbc2f01126c016dc973
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Escola Superior de Enfermagem de são JOÃO
 - Pessoal de Enfermagem
-- Quadro de Pessoal
 - Porto
+- Quadro de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/1992/08/05/p/dre
@@ -79,16 +79,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1087/1992/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1087/1992/11/26/p/dre
+- type: cites
+  target: pt:dre:274440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:50Z'
   warnings: []
   errors: []
 ---
@@ -109,10 +121,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 27 de Julho de 1994.**
+Assinada em 27 de Julho de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal da Escola Superior de Enfermagem de São João, do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/213b00/54995499.pdf))](https://files.diariodarepublica.pt/1s/1994/09/213b00/54995499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/213b00/54995499.pdf)

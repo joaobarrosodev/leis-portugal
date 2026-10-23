@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15200/0512105123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/2009/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2009-494009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbe4f1a8868288ce1c0e986e3f4cf19a532d69a95218bc0645e2c9f6857646f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e627f3e9129edc3b98d067f1eaafbaed27913a58838a8ae6223519dad1b441b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
 subjects:
 - Almada
 - ÁREA Metropolitana
-- Ministério das Finanças e da Administração Pública
 - Barreiro
-- Ordenamento do Território
 - Desenvolvimento Regional
-- Renovação Urbana
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Lisboa
-- Projeto de Investimento
 - Interesse Público
+- Lisboa
+- Ministério das Finanças e da Administração Pública
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Ordenamento do Território
 - Parque EXPO 98
 - Projecto do ARCO Ribeirinho SUL
+- Projeto de Investimento
+- Renovação Urbana
 - Seixal
 relationships:
 - type: amended_by
@@ -113,16 +113,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/2002/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/2002/04/08/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:493764:por
+  label: "Rectificada a presente Resolução, corrigida a omissão através da publicação integral do anexo Plano Estratégico\
+    \ do Projecto do Arco Ribeirinho Sul, pela DECL-RECT.61/2009.18.08.2009.PCM, DR.IS [159] de 18.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/61-2009-493764
+  date: '2009-08-18'
+- type: repealed_by
+  target: pt:dre:212837355:por
+  label: Revogada, a partir de 11.05.2023, pelo(a) Resolução do Conselho de Ministros n.º 41/2023 - Diário da República n.º
+    90/2023, Série I de 2023-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/41-2023-212837355
+  date: '2023-05-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:37Z'
   warnings: []
   errors: []
 ---

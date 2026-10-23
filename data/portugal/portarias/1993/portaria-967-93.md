@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/967/1993/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/967-1993-646287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:14:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f18a15fbb3736a48319231554cf0ce548440c039753f9f2df221c17108af95c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eca9fdf5c008a26dd28dc79aaa84844c64f3534a66dfc3d5d8ce550a97f3c97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:14:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Administração Escolar
 - Ensino Particular
-- ISET
 - Ensino Superior
+- ISET
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:66692857:por
+  label: Tornado público o início do processo de encerramento voluntário do Instituto Superior de Educação e Trabalho reconhecido
+    de interesse público pela Port 50/93 de 12-jan, com reconhecimento reiterado pelo presente diploma, pelo(a) Aviso n.º
+    2519/2015 - Diário da República n.º 47/2015, Série II de 2015-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2519-2015-66692857
+  date: '2015-03-09'
+- type: amended_by
+  target: pt:dre:108234568:por
+  label: Tornada pública a cessação, em 31.01.2017, do funcionamento e ministração dos ciclos de estudos do Instituto Superior
+    de Educação e Trabalho reconhecido de interesse público pela Port 50/93 de 12-jan, com reconhecimento reiterado pelo presente
+    diploma, pelo(a) Aviso n.º 11716/2017 - Diário da República n.º 191/2017, Série II de 2017-10-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/11716-2017-108234568
+  date: '2017-10-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/50/1993/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/50/1993/01/12/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:14:20Z'
   warnings: []
   errors: []
 ---
@@ -112,12 +138,12 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 31 de Agosto de 1993.**
+Assinada em 31 de Agosto de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO — Instituto Superior de Educação e Trabalho - ISET
 
 Curso de estudos superiores especializados em Administração Escolar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231b00/55695570.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231b00/55695570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231b00/55695570.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/85/2000/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/85-2000-319966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acd9cf3f42e832aeb45f3ca74c518787d9a21125270ae1dbd864010cf8886769
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4601b88cd5539c5777e7579c613395ec8ceda2bf2bb498eba455c5a52a9b2045
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcobaça
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:500686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500686:por
+  label: "Alterada a delimitação da Reserva Ecológica Nacional de Alcobaça pela RES.112/2004.08.07.2004.PCM, DR.IS-B [178]\
+    \ de 30.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/112-2004-500686
+  date: '2004-07-08'
+- type: amended_by
+  target: pt:dre:831683:por
+  label: "Tornado público ter sido aprovada a alteração da delimitação da Reserva Ecológica Nacional para o município de Alcobaça,\
+    \ aprovada pelo presente diploma e alterada pela Res 112/2004 de 30-jul, pela AV.10426/2013.21.08.2013.CCDRLVT-MAMAOT,\
+    \ DR.IIS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10426-2013-831683
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:107110768:por
+  label: Tornada pública a aprovação da alteração da delimitação da Reserva Ecológica Nacional do concelho de Alcobaça pelo(a)
+    Aviso n.º 6119/2017 - Diário da República n.º 105/2017, Série II de 2017-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6119-2017-107110768
+  date: '2017-05-31'
+- type: amended_by
+  target: pt:dre:141093100:por
+  label: Tornada pública, com efeitos a 26.08.2020, a aprovação da alteração da delimitação da REN do Município de Alcobaça,
+    aprovada pelo presente diploma, pelo(a) Aviso n.º 12347/2020 - Diário da República n.º 165/2020, Série II de 2020-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12347-2020-141093100
+  date: '2020-08-25'
+- type: amended_by
+  target: pt:dre:160923449:por
+  label: Tornada pública a aprovação da alteração da delimitação da Reserva Ecológica Nacional para o município de Alcobaça
+    pelo(a) Aviso n.º 6391/2021 - Diário da República n.º 67/2021, Série II de 2021-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6391-2021-160923449
+  date: '2021-04-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -83,16 +114,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:41Z'
   warnings: []
   errors: []
 ---

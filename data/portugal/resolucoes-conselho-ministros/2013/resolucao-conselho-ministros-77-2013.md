@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/77/2013/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2013-484146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d6a8b02b6c7f844bd7ddbe3876082ce8d13772fbb6c869f6a187a70b264e0a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5594953fac237d292af877317333d99335215d382d2703dfe7074419ea036b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Atividade Industrial
-- Financiamento
-- Empresa
+- Benefícios Fiscais
 - Conselho de Ministros
 - Contrato
 - Contrato de Investimento
+- Criação de Emprego
+- Desenvolvimento Económico
+- Emprego
+- Empresa
 - Estabelecimento Industrial
-- Apoio ao Investimento
-- Projeto de Investimento
+- Financiamento
+- IAPMEI
 - Imposto do SELO
 - Incentivos ao Desenvolvimento
 - Incentivos Fiscais
-- Investimento
-- Criação de Emprego
-- Desenvolvimento Económico
-- IRC
-- Emprego
 - Indústria Transformadora
-- Benefícios Fiscais
-- IAPMEI
+- Investimento
+- IRC
+- Projeto de Investimento
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:16Z'
   warnings: []
   errors: []
 ---

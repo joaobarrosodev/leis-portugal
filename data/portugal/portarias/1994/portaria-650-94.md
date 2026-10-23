@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/650/1994/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/650-1994-298782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8eae0da2ec4cccb08e288ceb90a78355d90a977765ebdd2759a6b6d8b84d5eef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2c280dd63fad3bdcbbb410abd6a6f585f8fffd71ec7f0cad925cbe6536b0b1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Certificado de Qualidade
+- Comércio
+- Comunicações
 - Controlo de Qualidade
 - Definição de Competências
 - Equipamento
 - Instituto das Comunicações de Portugal
-- Certificado de Qualidade
-- Comunicações
-- Comércio
 - Normalização
 relationships:
 - type: cites
@@ -87,13 +87,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:52Z'
   warnings: []
   errors: []
 ---
@@ -132,13 +132,13 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 20 de Junho de 1994.**
+Assinada em 20 de Junho de 1994.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 
 ## ANEXO I — Marcação a apor nos equipamentos a que se refere o n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/163b00/38713873.pdf))](https://files.diariodarepublica.pt/1s/1994/07/163b00/38713873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/163b00/38713873.pdf)
 
 No caso de redução ou ampliação da marcação, devem ser respeitadas as proporções resultantes do grafismo acima indicado.
 
@@ -146,7 +146,7 @@ Os diferentes elementos da marcação, considerados no seu conjunto, não podem 
 
 ## ANEXO II — Marcação a apor nos equipamentos a que se refere o n.º 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/163b00/38713873.pdf))](https://files.diariodarepublica.pt/1s/1994/07/163b00/38713873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/163b00/38713873.pdf)
 
 (Número de identificação do organismo notificado.)
 
@@ -156,7 +156,7 @@ Os diferentes elementos da marcação «CE» devem ter, sensivelmente, a mesma d
 
 ## ANEXO III — Marcação a apor nos equipamentos a que se refere o n.º 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/163b00/38713873.pdf))](https://files.diariodarepublica.pt/1s/1994/07/163b00/38713873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/163b00/38713873.pdf)
 
 No caso de redução ou ampliação da marcação «CE», devem ser respeitadas as proporções resultantes do grafismo acima indicado.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1254/1995/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1254-1995-668311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd51d052705aec3c1ee650447cec7201ed6907e39171a0b32f60d8de460a90a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab5c9fa2abace86621833390f999ab656249148d990ceffd0ad7ec093c76353d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ministério dos Negócios Estrangeiros
 - Pessoal Administrativo
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
 - Quadro de Pessoal
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:36Z'
   warnings: []
   errors: []
 ---
@@ -103,10 +115,10 @@ Manda o Governo, pelos Ministros das Finanças e dos Negócios Estrangeiros, que
 
 Ministérios das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 21 de Setembro de 1995.**
+Assinada em 21 de Setembro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro dos Negócios Estrangeiros, Domingos Manuel Martins Jerónimo, Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.
 
 Mapa anexo à Portaria n.º 1254/95
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/244b00/65296529.pdf))](https://files.diariodarepublica.pt/1s/1995/10/244b00/65296529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/244b00/65296529.pdf)

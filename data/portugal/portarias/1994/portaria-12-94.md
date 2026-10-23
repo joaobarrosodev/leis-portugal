@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/12/1994/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/12-1994-533237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5c3942bbf733472e7214d6f5e2fe5367f178f650b64ebc50badae8eb6064f00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4980cf4220ab654e2cf52467bb9a6c1e802ecd08c01b5dd3402d05bd2ab3aa75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Descrição de Funções
 - Direcção Geral de Portos Navegação e Transportes Marítimos
 - Ministério do MAR
-- Descrição de Funções
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,20 +75,76 @@ relationships:
   target: pt:dre:2579587:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO ANEXO I PELO DESPACHO NORMATIVO 449/94, DE 18 DE MAIO, PUBLICADO NO DR.IS-B,
+    138, DE 940617.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 530/94, DE 21 DE JUNHO, PUBLICADO NO DR.IS-B, 166, DE 940720.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DE PORTOS, NAVEGAÇÃO E TRANSPORTES MARÍTIMOS PELO DESPACHO NORMATIVO
+    640/94, DE 3 DE AGOSTO, PUBLICADO NO DR.IS-B, 21O, DE 940910.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL CONSTANTE DO ANEXO I PELA PORT 563/96 DE 09-OUT DR.IS-B [234]\0563/96 DE 09-OUT DR.IS-B\
+    \ [234]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-10-09'
+- type: amended_by
+  target: pt:dre:233096:por
+  label: "Alterado o quadro de pessoal, constante do anexo I, pela PORT.563/96.09.10.1996.PCM, DR.IS-B [234] de 09.10.1996\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/563-1996-233096
+  date: '1996-10-09'
+- type: amended_by
+  target: pt:dre:1337371:por
+  label: "Alterado o quadro de pessoal pela PORT.262/97(2ªSÉRIE).1997.05.02.PCM DR.IIS de 27/Mai/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-1997-1337371
+  date: '1997-05-02'
+- type: amended_by
+  target: pt:dre:2272100:por
+  label: "Alterado o quadro de pessoal do presente diploma, pela Port.380/97(2ªSérie).1997.06.18.PCM DR.IIS [152] de 1997.07.04\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/380-1997-2272100
+  date: '1997-06-18'
+- type: amended_by
+  target: pt:dre:2579585:por
+  label: "Alterado o quadro de pessoal constante do anexo pelo presente diploma, pela PORT.672/99(2ªSÉRIE).1999.06.07.PCM\
+    \ DR.IIS [151] DE 01/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/672-1999-2579585
+  date: '1999-06-07'
+- type: amended_by
+  target: pt:dre:2579587:por
+  label: "Alterado o quadro de pessoal constante do anexo do presente diploma, pela PORT.671/99(2ªSÉRIE).1999.06.07.PCM DR.IIS\
+    \ [151] DE 01/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/671-1999-2579587
+  date: '1999-06-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/319/1993/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/319/1993/09/21/p/dre
+- type: cites
+  target: pt:dre:655527:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:50Z'
   warnings: []
   errors: []
 ---
@@ -111,13 +167,13 @@ Manda o Governo, pelos Ministros das Finanças e do Mar, o seguinte:
 
 Ministérios das Finanças e do Mar.
 
-**Assinada em 6 de Dezembro de 1993.**
+Assinada em 6 de Dezembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Mar, João Prates Bebiano, Secretário de Estado Adjunto e das Pescas.
 
 ## ANEXO I — Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/003b00/00430046.pdf))](https://files.diariodarepublica.pt/1s/1994/01/003b00/00430046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/003b00/00430046.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

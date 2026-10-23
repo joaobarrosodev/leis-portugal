@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/435/1995/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/435-1995-510176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3793dbef5ff63832285924a5554dcb1c0779663d56fbb989e31bd3dabe08922
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26fd81aca03299b3f142d0c81223059da0352078fb972232cbfd4ba24bef94dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,29 @@ subjects:
 - CAÇA
 - Macedo de Cavaleiros
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Extinta a concessão atribuída pela Port 722-I10/92 de 15-Jul, alterada pelo presente diploma, DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1999-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/722-i10/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-i10/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:617569:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:30Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +115,6 @@ Manda o Governo, pelo Ministro da Agricultura, que os n.os 2.º e 3.º da [Porta
 
 Ministério da Agricultura.
 
-**Assinada em 27 de Março de 1995.**
+Assinada em 27 de Março de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

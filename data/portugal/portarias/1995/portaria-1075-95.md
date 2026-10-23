@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1075/1995/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1075-1995-546839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3c38a09775ef5f69cc36ce816c9332062b5df2c509af36edd9328a2b7e3e4e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c2839d7a01fee58e34674acbdc401bc9962f56040e6c9d0b3d84ec93ba2f435
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,30 @@ relationships:
   target: pt:dre:142092:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650326:por
+  label: "Alterado o nº 1º da Port 722-P/92 de 15-Jul com a redacção conferida no presente diploma pela PORT.941/97.12.09.1997.MADRP,\
+    \ DR.IS-B [211] de 12.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/941-1997-650326
+  date: '1997-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/722-p/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-p/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:617899:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:13Z'
   warnings: []
   errors: []
 ---
@@ -111,8 +121,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 722-P/92]
 
 Ministério da Agricultura.
 
-**Assinada em 18 de Agosto de 1995.**
+Assinada em 18 de Agosto de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/202b00/55225523.pdf))](https://files.diariodarepublica.pt/1s/1995/09/202b00/55225523.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/202b00/55225523.pdf)

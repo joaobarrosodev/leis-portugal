@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/15/1998/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-1998-225644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88941a672243269813001f14805f4963cb41abc9d1b82f30155dca0f16243168
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1042d321649dc3985dfaab4cbb4279b40689d3e9a00c0c3bf63408a8ff8074ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 - Sesimbra
 relationships:
+- type: amended_by
+  target: pt:dre:2138393:por
+  label: "Alterado o art. 115.º do Regulamento do Plano Director Municipal de Sesimbra ratificada pela DECL.307/99(2ªSÉRIE).1999.09.14.DGOTDU-MEPAT\
+    \ DR.IIS [224] DE 24/SET/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/307-1999-2138393
+  date: '1999-09-14'
+- type: amended_by
+  target: pt:dre:122263846:por
+  label: Tornado público o aditamento do art. 125.º, e respetivo Anexo I, ao Regulamento pelo(a) Aviso n.º 8069/2019 - Diário
+    da República n.º 89/2019, Série II de 2019-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8069-2019-122263846
+  date: '2019-05-09'
+- type: amended_by
+  target: pt:dre:125418690:por
+  label: Tornado público, por Adaptação o Plano Diretor Municipal de Sesimbra, alterado os arts 2.º, 21.º, 22.º, 23.º, 59.º,
+    67.º, 112.º, 113.º e 114.º, altera a organização sistemática do Regulamento do PDM com a introdução de um novo Cap IX,
+    denominado «Regimes de Proteção e Salvaguarda da Orla Costeira», e adita ao Regulamento do PDM, os arts 126.º, 127.º,
+    128.º, 129.º, 130.º, 131.º, 132.º, 133.º, 134.º, 135.º, 136.º, 137.º, 138.º, 139.º, 140.º, 141.º, 142.º, 143.º e 144.º,
+    ao Regulamento do Plano Diretor Municipal de Sesimbra, ratificado pela presente Resolução, bem como procede à sua republicacão,
+    pelo(a) Aviso n.º 16637/2019 - Diário da República n.º 200/2019, Série II de 2019-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/16637-2019-125418690
+  date: '2019-10-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre
   label: null
@@ -109,16 +131,87 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1298/1993/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1298/1993/12/24/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663354:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626226:por
+  label: "Revogadas as disposições do Plano Director Municipal de Sesimbra ratificado pelo presente diploma, no concernente\
+    \ à área de intervenção do Plano de Pormenor da Augi nº 24 da Ribeira do Marchante, ratificado pela RES.10/2005.07.12.2004.PCM,\
+    \ DR.IS-B [11] de 17.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/10-2005-626226
+  date: '2004-12-07'
 article_structure:
   article_count: 124
-  section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 37
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:55Z'
   warnings: []
   errors: []
 ---
@@ -401,7 +494,7 @@ A Reserva Ecológica Nacional é assinalada na planta de condicionantes e rege-s
 
 1 - Perfis transversais tipo, dimensões mínimas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/027b00/04210439.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/027b00/04210439.pdf)](https://files.diariodarepublica.pt/1s/1998/02/027b00/04210439.pdf)
 
 2 - Acessos:
 
@@ -413,7 +506,7 @@ A Reserva Ecológica Nacional é assinalada na planta de condicionantes e rege-s
 
 a) Fora dos espaços urbanos/urbanizáveis e industriais, e sem prejuízo da legislação aplicável às estradas nacionais, é interdita a construção em faixas de protecção medidas para um e para outro lado do eixo das vias, com as seguintes larguras:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/027b00/04210439.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/027b00/04210439.pdf)](https://files.diariodarepublica.pt/1s/1998/02/027b00/04210439.pdf)
 
 Tal interdição não prejudica que a esta faixa de protecção seja aplicado o índice de construção do espaço confinante, desde que essa possibilidade construtiva se possa concretizar nesse espaço confinante;
 
@@ -2043,7 +2136,9 @@ Nos espaços de transição ficam estabelecidos os seguintes condicionamentos re
 
 3) Número de pisos: dois.
 
-###### Artigo 110.º — Divisão da propriedade
+###### Artigo 110.º
+
+##### Divisão da propriedade
 
 É permitido o destaque nos termos da legislação em vigor.
 

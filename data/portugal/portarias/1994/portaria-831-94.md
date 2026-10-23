@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/831/1994/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/831-1994-586825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afadf5efe762628bfaf9669246d4eae8a1daed2284f14ba45ef4e722112d9d4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95fa24f60ead24e417735a0b8656aa313f7f51c89b75531e4ea22c48b616e35e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,40 @@ relationships:
   target: pt:dre:401737:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552834:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a actividade cinegética na zona de caça associativa pela PORT.927/2000.2000.10.02.MADRP,\
+    \ DR.IS-B [228]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/927-2000-552834
+  date: '2000-10-02'
+- type: amended_by
+  target: pt:dre:401737:por
+  label: "Renovada a concessão da zona de caça associativa renovada pelo presente diploma, pela PORT.184/2001.2001.03.09.MADRP\
+    \ DR.IS-B [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2001-401737
+  date: '2001-03-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:356083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:19Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +125,6 @@ Manda o Governo, pelo Ministro da Agricultura, que seja renovada, pelo presente 
 
 Ministério da Agricultura.
 
-**Assinada em 9 de Setembro de 1994.**
+Assinada em 9 de Setembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

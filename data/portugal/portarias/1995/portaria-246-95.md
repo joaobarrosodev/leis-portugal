@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/075b00/17491750.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/246/1995/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/246-1995-173700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5332cb8ed0e44a63af8c899f62fba710462ac2030d77cb94d84762f1713890f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4042c879ba638cde3b4e053d9ee7dab4b4e8a86236fc05c39736b60263706e59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Família
-- Financiamento
-- Educação Especial
-- Ministério da Educação
 - Cooperativa de Ensino
+- Deficiente
+- Educação Especial
 - Ensino Cooperativo
 - Ensino Particular
 - Escola de Educação Especial
+- Família
+- Financiamento
 - Mensalidade
-- Proteção ao Deficiente
+- Ministério da Educação
 - Prestações Familiares
+- Proteção ao Deficiente
 - Segurança Social
 - Subsídio de Educação Especial
 relationships:
@@ -94,16 +94,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1124/1994/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1124/1994/12/17/p/dre
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868932:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572915:por
+  label: "Revogada pela PORT.1184/95.1995.09.27.ME, DR.IS-B [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1184-1995-572915
+  date: '1995-09-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:01Z'
   warnings: []
   errors: []
 ---
@@ -188,6 +213,6 @@ A presente portaria revoga a [Portaria n.º 1124/94](https://diariodarepublica.p
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 6 de Março de 1995.**
+Assinada em 6 de Março de 1995.
 
 Pela Ministra da Educação, Manuel Castro de Almeida, Secretário de Estado da Educação e do Desporto. - Pelo Ministro do Emprego e da Segurança Social, José Frederico de Lemos Salter Cid, Secretário de Estado do Emprego e Formação Profissional.

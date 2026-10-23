@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/247/1995/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/247-1995-173696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0523f34613296615729cb9e97c906f70ea9fe7f3a154ecc4cade2ac871b61a9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d4e3da7cdf909cae528973adeec704265a3c88e9e4ece0bdb0464ce384a0880
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,49 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Acesso à Informação
+- Actividade Artística
 - Apoio Técnico
-- Financiamento
-- Empresa
+- Artesanato
 - Bolsa de Formação Profissional
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Investigação Científica e Tecnológica
-- Higiene do Trabalho
+- Contratação de Pessoal
+- Criação de Emprego
 - Criação de Empresas
+- Desemprego
 - Desemprego de Longa Duração
 - Desenvolvimento Regional
 - Direcção Geral do Emprego e Formação Profissional
-- Artesanato
-- Património Cultural
-- Ação Social
-- IPSS
-- Jovem
+- Duração do Trabalho
+- Economia Social
+- Emprego
+- Empresa
+- Estágio de Formação
+- Financiamento
+- Formação Profissional
+- Higiene do Trabalho
 - Incentivos à Deslocação
 - Iniciativa Local de Emprego
-- Contratação de Pessoal
-- Criação de Emprego
+- Instituto do Emprego e Formação Profissional
+- Investigação Científica e Tecnológica
+- IPSS
+- Jovem
 - Mercado de Emprego
+- Microempresa
 - Observatório do Emprego e Formação Profissional
-- Proteção do Ambiente
+- Património Cultural
 - Pessoa Coletiva
 - Política Cultural
+- Política de Emprego
 - Posto de Trabalho
 - Prémio de Mérito
 - Primeiro Emprego
-- Economia Social
-- Desemprego
 - Programa de Formação-emprego
-- Emprego
-- Estágio de Formação
 - Promoção de Emprego
-- Política de Emprego
+- Proteção do Ambiente
 - Protecção do Património
 - Reconversão Profissional
-- Microempresa
-- Duração do Trabalho
-- Actividade Artística
 - Subsídio
 - Subsídio de Desemprego
 - Subsídio não Reembolsável
@@ -126,16 +126,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/295/1993/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/295/1993/03/13/p/dre
+- type: cites
+  target: pt:dre:168454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635593:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469608:por
+  label: "Revogado o nº 16 pela PORT.268/97.1997.04.18.MQE DR.IS-B [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-1997-469608
+  date: '1997-04-18'
+- type: repealed_by
+  target: pt:dre:158446:por
+  label: "Revogados os nºs 10, 11 e 12 pelo DEC LEI.51/99.1999.02.20.MTS, DR.IS-A [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1999-158446
+  date: '1999-02-20'
+- type: repealed_by
+  target: pt:dre:644358:por
+  label: "Revogados os nºs 3º, 17º e 18º pela PORT.196-A/2001.2001.03.10.MTS DR.IS-B [59]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-a-2001-644358
+  date: '2001-03-10'
+- type: repealed_by
+  target: pt:dre:66325237:por
+  label: Revogada a partir de 31.01.2015 pelo(a) Decreto-Lei n.º 13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:01Z'
   warnings: []
   errors: []
 ---
@@ -530,6 +558,6 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1995.
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 17 de Janeiro de 1995.**
+Assinada em 17 de Janeiro de 1995.
 
-**O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.

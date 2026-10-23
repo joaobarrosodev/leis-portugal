@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/59/1994/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-1994-229933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f84112c6c43f7fabcaada1a68b26661bdaa09e5a4de0fcf438d27857922d20b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c917f29451ef5011652f82de0ecebd433793492764b71bf2d0c243bc32815f07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Nisa
 - Ordenamento do Território
 - Plano Director Municipal
-- Nisa
 - Política de Solos
 relationships:
+- type: amended_by
+  target: pt:dre:70948214:por
+  label: Tornada pública a revogação, a partir de 10.11.2015, do Plano Diretor Municipal de Nisa ratificado pela presente
+    Resolução, na redação da Decl 21/2003 de 21-jan DGOTDU e do Av 26094/2010 de 14-dez, pelo(a) Aviso n.º 13059/2015 - Diário
+    da República n.º 219/2015, Série II de 2015-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13059-2015-70948214
+  date: '2015-11-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -90,16 +97,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/28/1993/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/28/1993/09/06/p/dre
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654898:por
+  label: null
+  source: null
 article_structure:
   article_count: 50
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:10Z'
   warnings: []
   errors: []
 ---
@@ -184,25 +295,25 @@ Planta de enquadramento;
 
 c) Elementos anexos ao Plano - Estudos de caracterização (relatórios e cartografia):
 
-### Capítulo 1 - Caracterização biofísica;
+Capítulo 1 - Caracterização biofísica;
 
-### Capítulo 2 - Caracterização demográfica;
+Capítulo 2 - Caracterização demográfica;
 
-### Capítulo 3 - Caracterização económica;
+Capítulo 3 - Caracterização económica;
 
-### Capítulo 4 - Caracterização da estrutura edificada:
+Capítulo 4 - Caracterização da estrutura edificada:
 
 4.1 - Caracterização da habitação;
 
 4.2 - Perímetros urbanos;
 
-### Capítulo 5 - Infra-estruturas;
+Capítulo 5 - Infra-estruturas;
 
-### Capítulo 6 - Rede de equipamentos colectivos;
+Capítulo 6 - Rede de equipamentos colectivos;
 
-### Capítulo 7 - Evolução histórica e património;
+Capítulo 7 - Evolução histórica e património;
 
-### Capítulo 8 - Investimento municipal e relações intermunicipais.
+Capítulo 8 - Investimento municipal e relações intermunicipais.
 
 ###### Artigo 6.º — Definições
 
@@ -582,15 +693,15 @@ c) Áreas vocacionadas para sistemas florestais com fins predominantemente de pr
 
 2 - A área das novas plantações de eucaliptais fica sujeita a um valor máximo, e cada nova plantação deve ficar a uma distância mínima de outro eucaliptal já existente, não podendo ultrapassar as áreas a seguir indicadas:
 
-a) Nas freguesias de Alpalhão e Tolosa, a área máxima das novas plantações não poderá ultrapassar 50 ha e a distância mínima ao eucaliptal mais próximo é dada (em metros) pela expressão [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf))](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf), em que A é a área (expressa em metros quadrados) da nova plantação;
+a) Nas freguesias de Alpalhão e Tolosa, a área máxima das novas plantações não poderá ultrapassar 50 ha e a distância mínima ao eucaliptal mais próximo é dada (em metros) pela expressão [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf), em que A é a área (expressa em metros quadrados) da nova plantação;
 
-b) Nas restantes freguesias, a área máxima das novas plantações não poderá ultrapassar 15 ha e a distância mínima ao eucaliptal mais próximo é dada (em metros) pela expressão [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf))](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf), em que A é a área (expressa em metros quadrados) da nova plantação.
+b) Nas restantes freguesias, a área máxima das novas plantações não poderá ultrapassar 15 ha e a distância mínima ao eucaliptal mais próximo é dada (em metros) pela expressão [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf), em que A é a área (expressa em metros quadrados) da nova plantação.
 
 3 - A área contínua máxima de corte de eucaliptais em cada ano é limitada, devendo ser observada uma distância mínima em relação à área vizinha mais próxima cortada no mesmo ano civil:
 
-a) Nas freguesias de Alpalhão e Tolosa a área máxima de corte é de 25 ha e a distância mínima (em metros) é dada pela expressão [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf))](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf), em que A representa a área susceptível de corte (em metros quadrados);
+a) Nas freguesias de Alpalhão e Tolosa a área máxima de corte é de 25 ha e a distância mínima (em metros) é dada pela expressão [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf), em que A representa a área susceptível de corte (em metros quadrados);
 
-b) Nas restantes freguesias a área máxima de corte é de 7,5 ha e a distância mínima (em metros) é dada pela expressão [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf))](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf), em que A representa a área susceptível de corte (em metros quadrados).
+b) Nas restantes freguesias a área máxima de corte é de 7,5 ha e a distância mínima (em metros) é dada pela expressão [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf), em que A representa a área susceptível de corte (em metros quadrados).
 
 4 - Quando os eucaliptais estejam já instalados em zona agora interdita pelo presente Regulamento e atinjam o termo da sua explorabilidade, devem ser observadas as seguintes regras:
 
@@ -944,4 +1055,4 @@ d) A realização de provas de corta-mato para veículos de todo-o-terreno.
 
 34 - A Câmara embargará as obras não licenciadas ou que não respeitem os preceitos ou orientações determinados e comunicará ao departamento estatal respectivo, se for caso disso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf))](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/172b00/41614175.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/137/2007/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/137-2007-642198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f81c5843b0fadfc5dd41f68c65c151a4e4030ec3e0e55cbef0cfaa583787875e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de580006350ea712ae3533c0a6b8f0270b4927e32e1a6ec1c09ae686e564ec4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Tecnológico
 - Conselho de Gestão
 - Educação
-- TIC
+- Ensino Básico
 - Ensino Secundário
 - Modernização Tecnológica
-- Ensino Básico
+- Plano Tecnológico
 - Sistema de Ensino
+- TIC
 relationships:
 - type: amended_by
   target: pt:dre:613247:por
@@ -81,13 +81,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:32Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +148,7 @@ Figura n.º 1
 
 Objectivos europeus e nacionais para a modernização da educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Para garantir a implementação criteriosa e racional das medidas de política necessárias, o Ministério da Educação procedeu à elaboração de um estudo de diagnóstico das infra-estruturas tecnológicas e da utilização das TIC nos estabelecimentos de ensino com 2.º e 3.º ciclos do ensino básico e com ensino secundário, no sentido de identificar as principais barreiras e os factores indutores para a modernização tecnológica. O estudo identificou ainda modelos internacionais de referência, com vista à difusão em Portugal de boas práticas estrangeiras, adaptadas ao contexto nacional.
 
@@ -160,7 +160,7 @@ Figura n.º 2
 
 Principais indicadores de modernização tecnológica no ensino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Fonte: Gabinete de Estatística e Planeamento da Educação; Empirica Report 8/2006.
 
@@ -172,7 +172,7 @@ Principais barreiras à modernização tecnológica do ensino
 
 Análise internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Fonte: Empirica Country Brief 2006.
 
@@ -184,7 +184,7 @@ Limitações à modernização tecnológica do ensino
 
 Principais conclusões do estudo de diagnóstico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Com efeito, Portugal apresenta debilidades em todos os eixos analisados.
 
@@ -260,7 +260,7 @@ Figura n.º 5
 
 Visão e objectivos para a modernização tecnológica do ensino em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Fonte: Gabinete de Estatística e Planeamento da Educação.
 
@@ -272,7 +272,7 @@ Figura n.º 6
 
 Eixos de actuação do Plano Tecnológico da Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 O Plano Tecnológico da Educação contempla não só medidas de intervenção directa sobre os agentes, mas também medidas de estímulo à procura, permitindo desta forma a maximização e a optimização dos contributos e investimentos de todos os agentes.
 
@@ -284,7 +284,7 @@ Figura n.º 7
 
 Eixos de actuação e principais projectos do Plano Tecnológico da Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 3.1 - Tecnologia. - A insuficiência das infra-estruturas de TIC constitui o principal factor inibidor da utilização de tecnologia no ensino. As medidas do Plano Tecnológico da Educação a implementar no eixo «Tecnologia» pretendem dar resposta às principais barreiras observadas em termos de infra-estruturas e acessos, nomeadamente:
 
@@ -308,7 +308,7 @@ Figura n.º 8
 
 Projectos a implementar no eixo de actuação «Tecnologia»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 3.1.1 - Projecto chave - Kit Tecnológico Escola:
 
@@ -316,7 +316,7 @@ Figura n.º 9
 
 Projecto Kit Tecnológico Escola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Enquadramento
 
@@ -388,7 +388,7 @@ Figura n.º 10
 
 Projecto Internet em Banda Larga de Alta Velocidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Enquadramento
 
@@ -460,7 +460,7 @@ Figura n.º 11
 
 Projecto Internet nas Salas de Aula
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 A actual infra-estrutura de redes de área local não satisfaz as necessidades de conectividade e de mobilidade dos agentes e constitui um entrave à maior utilização de tecnologia.
 
@@ -518,7 +518,7 @@ Figura n.º 12
 
 Projecto Cartão Electrónico do Aluno
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Enquadramento
 
@@ -582,7 +582,7 @@ Figura n.º13
 
 Projecto Videovigilância
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Enquadramento
 
@@ -656,7 +656,7 @@ Figura n.º 14
 
 Projectos a implementar no eixo de actuação «Conteúdos»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 3.2.1 - Projecto chave - Mais-Escola.pt:
 
@@ -664,7 +664,7 @@ Figura n.º 15
 
 Projecto Mais-Escola.pt
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Enquadramento
 
@@ -780,7 +780,7 @@ Figura n.º 16
 
 Projecto Escola Simplex
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Enquadramento
 
@@ -858,7 +858,7 @@ Figura n.º 17
 
 Projectos a implementar no eixo de actuação «Formação»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 3.3.1 - Projecto chave - Formação e certificação de competências TIC - Formação Pro:
 
@@ -866,7 +866,7 @@ Figura n.º 18
 
 Projecto Formação Pro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Enquadramento
 
@@ -934,7 +934,7 @@ Figura n.º 19
 
 Projecto Avaliação Electrónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Enquadramento
 
@@ -994,7 +994,7 @@ Figura n.º 20
 
 Projectos a implementar no eixo de actuação «Investimento e financiamento»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 3.4.1 - Financiamento comunitário. - Pretende-se canalizar para o financiamento do Plano Tecnológico da Educação uma parte dos recursos comunitários mobilizados para a execução do Quadro de Referência Estratégico Nacional (QREN), nomeadamente os recursos afectos à Agenda Operacional para o Potencial Humano, que congrega, entre outros, o conjunto das intervenções visando a promoção das qualificações escolares e profissionais dos Portugueses, nomeadamente qualificação inicial, e aprendizagem ao longo da vida.
 
@@ -1004,7 +1004,7 @@ Figura n.º 21
 
 Projecto Fundo para a Inclusão na Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Enquadramento
 
@@ -1078,7 +1078,7 @@ Figura n.º 22
 
 Modelo de gestão e coordenação do Plano Tecnológico da Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18000/0656306577.pdf)
 
 Equipa de coordenação, monitorização e avaliação
 

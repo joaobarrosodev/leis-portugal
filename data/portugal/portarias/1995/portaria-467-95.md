@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/114b00/29812982.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/467/1995/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/467-1995-500959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd6307522adc5ba509772d5f935e3395323d6281c8eeddba44896d1d848795ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60b237cb5cf2dde0aedc8edd0117a73435dac79a7b8cc82a08c3aa169d5b69da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Produção Animal
-- Financiamento
-- Desenvolvimento Rural
 - Apoio ao Investimento
-- Gado Bovino
+- Desenvolvimento Rural
 - Exploração Agrícola
+- Financiamento
+- Gado Bovino
 - Gado Equino
-- Regulamento
+- Produção Animal
 - Programa de Apoio à Modernização Agrícola e Florestal
+- Regulamento
 - Regulamento de Aplicação da Medida de Apoio às Explorações Agrícolas
 relationships:
 - type: amended_by
   target: pt:dre:199637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DEC LEI 150/94 DE 25-MAI DR.IS-A [121]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RES 61/94 DA PCM DE 07-JUL DR.IS-B [176] DE 01/AGO/1994\0GO/1994"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre
   label: null
@@ -94,16 +104,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+- type: cites
+  target: pt:dre:232147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617287:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:199637:por
+  label: "Revogada pela PORT.196/98.1998.03.24.MADRP, DR.IS-B [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1998-199637
+  date: '1998-03-24'
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:22Z'
   warnings: []
   errors: []
 ---
@@ -122,13 +149,13 @@ Manda o Governo, pelo Ministro da Agricultura, que a secção VIII do capítulo 
 
 #### SECÇÃO VIII — Equinos e bovinos autóctones
 
-###### Art. 38.º No âmbito da presente secção, podem ser atribuídas ajudas a:
+Art. 38.º No âmbito da presente secção, podem ser atribuídas ajudas a:
 
 a) Aquisição de reprodutores masculinos testados ou aprovados em provas morfofuncionais, inscritos no Livro Genealógico (LG) ou do Registo Zootécnico (RZ), ou, no caso dos equinos, no Livro de Reprodutores (LR) do LG ou do RZ e utilizados na reprodução durante, pelo menos, um ano;
 
 b) Manutenção de animais de raça brava inscritos no LG ou RZ.
 
-###### Art. 39.º - 1 - As ajudas são atribuídas sob a forma de subvenção financeira a fundo perdido nos seguintes valores:
+Art. 39.º - 1 - As ajudas são atribuídas sob a forma de subvenção financeira a fundo perdido nos seguintes valores:
 
 a) 50% do custo do reprodutor, quando se trate da ajuda referida na alínea a) do artigo anterior;
 
@@ -150,6 +177,6 @@ c) 4000$00 por ponto de inscrição para a raça Garrana.
 
 Ministério da Agricultura.
 
-**Assinada em 5 de Abril de 1995.**
+Assinada em 5 de Abril de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1063/1994/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1063-1994-549199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ef16209271c2c7a4684ff8e220f8bb34222a0642f9eaa76bb0ad34b1dacfd1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a4df0365fb3af9f02d65acbdf5ba216cff49bb82df87eb48881f87a52cd7035
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,16 +88,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/743/1993/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/743/1993/08/16/p/dre
+- type: cites
+  target: pt:dre:225453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330252:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411103:por
+  label: "Revogado o nº 3º da Port 743/93 de 16-Ago, com a redacção dada pela presente, pela PORT.469-A/2003.2003.06.09.MS\
+    \ DR.IS-B [133]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/469-a-2003-411103
+  date: '2003-06-09'
+- type: repealed_by
+  target: pt:dre:219569:por
+  label: "Revogada a Port 743/93 de 16-Ago, com a redacção do presente diploma, pela Port.1474/2004.21.12.2004.MS, DR.IS-B\
+    \ [297] de 21.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1474-2004-219569
+  date: '2004-12-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:44Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +144,6 @@ Manda o Governo, pelo Ministro da Saúde, que o n.º 3.º da [Portaria n.º 743/
 
 Ministério da Saúde.
 
-**Assinada em 3 de Novembro de 1994.**
+Assinada em 3 de Novembro de 1994.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.

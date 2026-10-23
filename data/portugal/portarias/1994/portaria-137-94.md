@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/056b00/11811182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/137/1994/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/137-1994-275589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7759819b5e8c9ab309435f69129d1c5e63962798cdacf4055e6d782e80bb394c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abf4a0391436b0387f082f6b76a6cc9a69b89259eedc53ba45acca6ce51d6199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
-- Trabalho
 - Impresso
+- Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/362/1993/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/362/1993/10/15/p/dre
+- type: cites
+  target: pt:dre:668521:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114509690:por
+  label: Revogada, a partir de 27.11.2017, pelo(a) Portaria n.º 14/2018 - Diário da República n.º 8/2018, Série I de 2018-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-2018-114509690
+  date: '2018-01-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:15Z'
   warnings: []
   errors: []
 ---
@@ -105,8 +114,8 @@ Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Administraç
 
 Ministérios das Finanças, do Planeamento e da Administração do Território e do Emprego e da Segurança Social.
 
-**Assinada em 18 de Janeiro de 1994.**
+Assinada em 18 de Janeiro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/056b00/11811182.pdf))](https://files.diariodarepublica.pt/1s/1994/03/056b00/11811182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/056b00/11811182.pdf)

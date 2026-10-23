@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/50/2008/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2008-246552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b675f34ada2c902780ef75fad4da9048c9294d64ccb6941d5064c477b4909ae2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c02fa061b0ebbb07fd7d656515db0dd0845b037bba0045561610d6ccc2a24653
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,32 @@ relationships:
   target: pt:dre:490473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:490473:por
+  label: "Suspensa, pelo prazo de dois anos, a aplicação das al.s e) e f) do nº 1 do art. 13º do Regulamento do Plano de Ordenamento\
+    \ da Reserva Natural de Paul de Boquilobo, pela RES.102/2009.25.09.2009.PCM, DR.IS [187] de 25.09.2009, na área delimitada\
+    \ na planta anexa. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/102-2009-490473
+  date: '2009-09-25'
 - type: cites
   target: celex:31979L0409
   label: null
   source: http://data.europa.eu/eli/dir/1979/409/oj
+- type: corrected_by
+  target: pt:dre:249260:por
+  label: "Rectificada pela DECL-RECT.28/2008.16.05.2008.PCM, DR.IS [95] de 16.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/28-2008-249260
+  date: '2008-05-16'
 article_structure:
   article_count: 22
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:48Z'
   warnings: []
   errors: []
 ---
@@ -508,4 +520,4 @@ São revogados os artigos 10.º, 11.º, 12.º, 13.º e 16.º do Decreto Regulame
 
 O PORNPB entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05600/0161201619.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05600/0161201619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05600/0161201619.pdf)

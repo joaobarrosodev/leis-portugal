@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/9/2012/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/9-2012-544384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: faab4801cd174df9b7d764c30771464d3255d0c165f0c80ddcf5d269745d3d60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c676d861e3747989394ecac0274650b944082ed28fd96bf697941b3bdb7595d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Amortização
-- Valores Mobiliários
 - Bilhetes do Tesouro
 - Conselho de Ministros
 - Delegação de Competências
@@ -75,11 +74,12 @@ subjects:
 - Emissão de Títulos
 - Empréstimo
 - Empréstimo Público
-- Instituto de Gestão da Tesouraria e do Crédito Público
 - Governo XIX
-- Operação de Reporte
+- Instituto de Gestão da Tesouraria e do Crédito Público
 - Ministro de Estado e das Finanças
 - Obrigações do Tesouro
+- Operação de Reporte
+- Valores Mobiliários
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/160/1996/09/04/p/dre
@@ -121,16 +121,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693818:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:40Z'
   warnings: []
   errors: []
 ---

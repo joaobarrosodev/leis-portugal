@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 12/2013, 1º Suplemento, Série I de 2013-01-17
   number: '12'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 352-(2) a 352-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/01/01201/0000200002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/3-a/2013/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-a-2013-684635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed8b91a5bd0c9b1bf91f371d551a74b51ee5133f4ed4681fdc04006850365474
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d51c7d83a3bc72d2538b12561279da5ab3a5fbeab28a6792b143871576af5ee1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência de Gestão da Tesouraria e da Dívida Pública
 - Bilhetes do Tesouro
 - Certificado de Aforro
 - Conselho de Ministros
 - Delegação de Competências
 - Dívida Pública
 - Empréstimo Público
-- Ministro das Finanças
-- Agência de Gestão da Tesouraria e da Dívida Pública
 - Governo XIX
+- Ministro das Finanças
 - Obrigações do Tesouro
 relationships:
+- type: amended_by
+  target: pt:dre:798142:por
+  label: "Alterado os limites em euros dos n.ºs 2, 3 e 5 pelo DESP.473/2014.10.01.2014.MF, DR.IIS [7] de 10.01.2014.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/473-2014-798142
+  date: '2014-01-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2012/08/27/p/dre
   label: null
@@ -113,16 +118,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:11Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/10/2011/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2011-280176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7459ece119ef2e04c79a20b62a7d3a46a7053ec230278b4f83f0e90d8f2e30a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28b5d217274e72b4b8fbb65fbf8ef8f7226c659125de06d0ca368402c1d4fb15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arbitragem
-- Financiamento
-- Garantia
 - Capital Social
-- Investigação Científica e Tecnológica
 - Contrato
 - Contrato de Concessão
-- Transporte Ferroviário
+- Évora
 - Expropriação
+- Financiamento
 - Fiscalização
+- Garantia
 - Infraestrutura dos Transportes
-- Propriedade Industrial
+- Investigação Científica e Tecnológica
 - Obras Públicas
 - Palmela
-- Serviço Público
+- Propriedade Industrial
 - Propriedade Intelectual
 - Rede Ferroviária Portuguesa de Alta Velocidade
 - Refer
 - Remuneração
 - RIO CAIA
 - Sanção
-- Évora
+- Serviço Público
 - Sistema Ferroviário Transeuropeu de Alta Velocidade
+- Transporte Ferroviário
 - Tribunal Arbitral
 - Utilidade Pública
 relationships:
@@ -100,16 +100,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/33/2010/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/33/2010/04/27/p/dre
+- type: cites
+  target: pt:dre:672986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:22Z'
   warnings: []
   errors: []
 ---
@@ -184,65 +188,65 @@ l) Os encargos plurianuais decorrentes do presente Contrato foram autorizados pe
 
 «2.1 - Fazem parte integrante do contrato de concessão, para todos os efeitos legais e contratuais, os seus seguintes anexos:
 
-## Anexo n.º 1 - Lista dos contratos de projecto;
+Anexo n.º 1 - Lista dos contratos de projecto;
 
-## Anexo n.º 2 - Estrutura accionista, composição do ACE e composição do operador de manutenção:
+Anexo n.º 2 - Estrutura accionista, composição do ACE e composição do operador de manutenção:
 
-# Parte A - Composição do Agrupamento e estrutura accionista da Concessionária;
+Parte A - Composição do Agrupamento e estrutura accionista da Concessionária;
 
-# Parte B - Composição do ACE;
+Parte B - Composição do ACE;
 
-# Parte C - Composição do operador de manutenção;
+Parte C - Composição do operador de manutenção;
 
-## Anexo n.º 3 - Calendário de factos relevantes;
+Anexo n.º 3 - Calendário de factos relevantes;
 
-## Anexo n.º 4 - Declaração dos accionistas da Concessionária;
+Anexo n.º 4 - Declaração dos accionistas da Concessionária;
 
-## Anexo n.º 5 - Caso base;
+Anexo n.º 5 - Caso base;
 
-## Anexo n.º 6 - Acordo directo referente ao contrato de empreitada;
+Anexo n.º 6 - Acordo directo referente ao contrato de empreitada;
 
-## Anexo n.º 7 - Acordo directo com as entidades financiadoras;
+Anexo n.º 7 - Acordo directo com as entidades financiadoras;
 
-## Anexo n.º 8 - Definição do troço Poceirão-Caia;
+Anexo n.º 8 - Definição do troço Poceirão-Caia;
 
-## Anexo n.º 9 - Critérios chave da reposição do equilíbrio financeiro;
+Anexo n.º 9 - Critérios chave da reposição do equilíbrio financeiro;
 
-## Anexo n.º 10 - Acordo directo referente ao contrato de manutenção;
+Anexo n.º 10 - Acordo directo referente ao contrato de manutenção;
 
-## Anexo n.º 11 - Minuta de garantia bancária referente à caução;
+Anexo n.º 11 - Minuta de garantia bancária referente à caução;
 
-## Anexo n.º 12 - Requisitos técnicos:
+Anexo n.º 12 - Requisitos técnicos:
 
-# Parte A - Disposições gerais;
+Parte A - Disposições gerais;
 
-# Parte B - Relação da normalização aplicável;
+Parte B - Relação da normalização aplicável;
 
-# Parte C - Requisitos técnicos;
+Parte C - Requisitos técnicos;
 
-# Parte D - Gestão de interfaces;
+Parte D - Gestão de interfaces;
 
-# Parte E - Segurança;
+Parte E - Segurança;
 
-# Parte F - Qualidade;
+Parte F - Qualidade;
 
-# Parte G - Manutenção;
+Parte G - Manutenção;
 
-# Parte H - Ambiente;
+Parte H - Ambiente;
 
-## Anexo n.º 13 - Pagamentos dos parceiros públicos:
+Anexo n.º 13 - Pagamentos dos parceiros públicos:
 
-# Parte A - Pagamentos dos parceiros públicos;
+Parte A - Pagamentos dos parceiros públicos;
 
-# Parte B - Regime de deduções baseadas no desempenho;
+Parte B - Regime de deduções baseadas no desempenho;
 
-## Anexo n.º 14 - Programa de seguros, no que se refere às apólices em que o Concedente é co-beneficiário;
+Anexo n.º 14 - Programa de seguros, no que se refere às apólices em que o Concedente é co-beneficiário;
 
-## Anexo n.º 15 - Acordo directo REFER;
+Anexo n.º 15 - Acordo directo REFER;
 
-## Anexo n.º 16 - Indemnização em caso de resgate;
+Anexo n.º 16 - Indemnização em caso de resgate;
 
-## Anexo n.º 17 - Mecanismos de compensação associados aos fundos comunitários.»
+Anexo n.º 17 - Mecanismos de compensação associados aos fundos comunitários.»
 
 2.3 - As Partes acordam que o n.º 63.1 da cláusula 63 - Património histórico e achados arqueológicos - do contrato de concessão passa a ter a seguinte redacção:
 

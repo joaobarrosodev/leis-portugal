@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1137/1994/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1137-1994-574755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2623ab4c3fbc8a9011795f85177219893b7b7c2ced0f1de21fab336a5a9deeb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4297f2b7f939fb8fd4c6606d70bd2623364f1f61d3f204818726f15772f28d89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auto-estrada do Norte
-- Segurança Rodoviária
 - Natal
-- Transporte de Mercadorias
+- Segurança Rodoviária
 - Trânsito
+- Transporte de Mercadorias
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:00Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +124,6 @@ b) Estrada nacional n.º 10, até ao cruzamento com a estrada nacional n.º 119 
 
 Ministério da Administração Interna.
 
-**Assinada em 13 de Dezembro de 1994.**
+Assinada em 13 de Dezembro de 1994.
 
 Pelo Ministro da Administração Interna, Carlos Almeida Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.

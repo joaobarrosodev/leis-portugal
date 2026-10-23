@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 172/2013, 1º Suplemento, Série I de 2013-09-06
   number: '172'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5644-(2) a 5644-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/09/17201/0000200002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/57-b/2013/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-b-2013-370862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01c07fee007c580036138591b1fda72d64fc880f3ef64d4159eb80a711ae975f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9761d3090ba44daebd723e1b7c228ebdc5795437351481a32c063043ad550249
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Refeitório
+- Cantina Escolar
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
 - Direção Geral dos Estabelecimentos Escolares
 - Governo XIX
 - Ministro da Educação e Ciência
-- Cantina Escolar
+- Refeitório
 relationships:
 - type: cites
   target: celex:32002R0178
@@ -88,13 +88,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:44Z'
   warnings: []
   errors: []
 ---

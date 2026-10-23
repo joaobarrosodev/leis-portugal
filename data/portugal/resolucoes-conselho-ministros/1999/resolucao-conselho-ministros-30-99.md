@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/30/1999/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-1999-532063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7f613dbcb179cd506252778077545bb5c16cca9d7922aa29eacc1348be04119
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 799e10cc6598438516a4d414162d67e04d13a7bdd8f326dd2406065abc7372b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Ovar
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: cites
@@ -84,16 +84,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/66/1995/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/66/1995/07/10/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465060:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106572586:por
+  label: Revogado o Plano de Pormenor da Zona Lúdico-Desportiva de Cortegaça ratificado pela presente resolução pelo(a) Aviso
+    (extrato) n.º 2392/2017 - Diário da República n.º 48/2017, Série II de 2017-03-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/2392-2017-106572586
+  date: '2017-03-08'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:31Z'
   warnings: []
   errors: []
 ---

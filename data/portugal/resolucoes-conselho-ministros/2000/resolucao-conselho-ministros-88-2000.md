@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/88/2000/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2000-320318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 042513eb730e29b1a839f83506817449a2e02e7987d5d097c9fd167e34028b28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bd62f78f1a3026e342bc22df0e6c5fb024b8deebaa6315260c98931cce34123
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alpiarça
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:456553:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456553:por
+  label: "Aprovada a alteração parcial da delimitação da REN no município de Alpiarça, aprovada pela Res 37/96, de 13-Abr,\
+    \ da PCM, na redacção do presente diploma, pela RES.108/2008.11.07.2008.PCM, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/108-2008-456553
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:25711012:por
+  label: "Tornada pública a alteração da delimitação da REN aprovada pela Res 37/96 de 13-abr PCM, na redação do presente\
+    \ diploma, pelo AV.5725/2014.07.05.2014.CCDRLVT-PCM, DR.IIS [87] de 07.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5725-2014-25711012
+  date: '2014-05-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -88,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/37/1996/04/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/37/1996/04/13/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:45Z'
   warnings: []
   errors: []
 ---

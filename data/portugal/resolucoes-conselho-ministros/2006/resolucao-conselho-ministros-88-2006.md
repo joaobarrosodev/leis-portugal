@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/88/2006/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2006-537268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6851c14db7273c75ec6038daf740d81c90c9586df9a8d0e070146869dad5bff1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9a9453187c0e191f52abc88327fc59b74252cf5c0f8a5f176a49ce555bbb331
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ subjects:
 - Equipa de Missão
 - Igualdade de Oportunidades
 - Mandato
-- PCM-Entidades
-- Plano de Acção para a Integração das Pessoas com Deficiência ou Incapacidade
 - Ministro da Presidência
 - Ministro do Trabalho e da Solidariedade Social
+- PCM-Entidades
+- Plano de Acção para a Integração das Pessoas com Deficiência ou Incapacidade
 relationships:
 - type: cites
   target: celex:32006D0771
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:56Z'
   warnings: []
   errors: []
 ---

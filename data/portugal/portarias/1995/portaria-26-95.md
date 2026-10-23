@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/008b00/01200121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/26/1995/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-1995-360295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6b8c1fdf990d6410f460ec7c0f225994d77975fb8e95b75d22ac3e7c4abc200
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 339a840b86d5ca8189100d94ed018d0c925ca00033bc8fb532ff1e9ff9a62540
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Ciências Empresariais
-- Instituto Superior de Línguas e Administração
 - Ensino Superior
+- Instituto Superior de Línguas e Administração
+- Plano de Estudos
 - VILA NOVA de GAIA
 relationships:
 - type: amended_by
@@ -80,16 +80,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246117:por
+  label: "Revogada pela PORT.812/98.1998.09.24.ME DR.IS-B [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/812-1998-246117
+  date: '1998-09-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:19Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +139,7 @@ b) Entre as 30 unidades de crédito exigidas na fase de especialização, 17,5 d
 
 Ministério da Educação.
 
-**Assinada em 6 de Dezembro de 1994.**
+Assinada em 6 de Dezembro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
@@ -126,4 +147,4 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 Curso de Ciências Empresariais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/008b00/01200121.pdf))](https://files.diariodarepublica.pt/1s/1995/01/008b00/01200121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/008b00/01200121.pdf)

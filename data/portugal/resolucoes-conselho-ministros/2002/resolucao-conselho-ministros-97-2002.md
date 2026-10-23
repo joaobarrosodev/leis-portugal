@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/115b00/45824582.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/97/2002/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2002-158647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7556eea592b495bbb99b0d79ce425487e4aff7414998faf4a6e2d9497737bdd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 794ca432e60de56e3023944f04dbb117133ec2df5f3b17665bf3e25e98c6388f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
+- Administração Local
+- Administração Pública
 - Admissão de Pessoal
+- Caixa Geral de Aposentações
 - Concurso
 - Concurso de Acesso
 - Concurso de Ingresso
 - Contenção de Despesas
+- Contratação de Pessoal
+- Contratação Pública
 - Contrato Administrativo
 - Contrato de Prestação de Serviços
+- Contrato de Trabalho
 - Contrato de Trabalho a Prazo
 - Contrato Individual de Trabalho
-- Administração Pública
-- Caixa Geral de Aposentações
-- Recrutamento de Pessoal
-- Instituto Público
-- Contratação de Pessoal
 - Direção Geral do Orçamento
-- Administração Local
-- Contrato de Trabalho
-- Requisição de Pessoal
-- Mobilidade de Pessoal
-- Segurança Social
+- Função Pública
 - Funcionário Público
 - Gestão de Recursos Humanos
+- Instituto Público
+- Mobilidade de Pessoal
+- Recrutamento de Pessoal
+- Requisição de Pessoal
+- Segurança Social
 - Transferência de Pessoal
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:468663:por
@@ -105,16 +105,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/175/1998/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/175/1998/07/02/p/dre
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogada a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:05Z'
   warnings: []
   errors: []
 ---

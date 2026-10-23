@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/04600/0000300060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/72/2021/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/72-2021-158991606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d716207ecb48a8a6af7638b1f3c819ce555c6e6ce2784ae9e7ec5e2729911bff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1caebd21fe702c65699684b16ad7b11405a84c1718d696e10472277d6c16d030
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,27 @@ reuse:
 subjects:
 - Convenção
 - Direito dos Tratados
-- Portugal
 - Direito Internacional
+- Portugal
 - Viena
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:158991605:por
+  label: Ratificada a Convenção de Viena sobre o Direito dos Tratados entre Estados e Organizações Internacionais ou entre
+    Organizações Internacionais pelo(a) Decreto do Presidente da República n.º 22/2021 - Diário da República n.º 46/2021,
+    Série I de 2021-03-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/22-2021-158991605
+  date: '2021-03-08'
 article_structure:
   article_count: 86
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:31Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 11 de fevereiro de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 CONVENÇÃO DE VIENA SOBRE O DIREITO DOS TRATADOS ENTRE ESTADOS E ORGANIZAÇÕES INTERNACIONAIS OU ENTRE ORGANIZAÇÃO INTERNACIONAIS
 
@@ -136,7 +143,7 @@ Afirmando adicionalmente que as regras de direito internacional consuetudinário
 
 acordaram no seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Âmbito da presente Convenção
 
@@ -228,7 +235,7 @@ Sem prejuízo da aplicação de quaisquer normas enunciadas na presente Convenç
 
 A presente Convenção aplica-se a qualquer tratado entre um ou mais Estados e uma ou mais organizações internacionais que seja o ato constitutivo de uma organização internacional, e a qualquer tratado adotado no âmbito de uma organização internacional, sem prejuízo das normas aplicáveis da organização.
 
-# PARTE II — Conclusão e entrada em vigor dos Tratados
+## PARTE II — Conclusão e entrada em vigor dos Tratados
 
 #### SECÇÃO 1 — Conclusão dos Tratados
 
@@ -466,7 +473,7 @@ b) Os Estados negociadores ou as organizações negociadoras ou, consoante o cas
 
 2 - Salvo disposição do tratado ou acordo dos Estados negociadores e das organizações internacionais negociadoras ou, consoante o caso, das organizações negociadoras em contrário, a aplicação a título provisório de um tratado ou de uma Parte de um tratado relativamente a um Estado ou a uma organização internacional cessa se este Estado ou esta organização notificar os Estados e as organizações, entre os quais o tratado é aplicado provisoriamente, da sua intenção de não se tornar Parte no mesmo.
 
-# PARTE III — Observância, aplicação e interpretação dos tratados
+## PARTE III — Observância, aplicação e interpretação dos tratados
 
 #### SECÇÃO 1 — Observância dos tratados
 
@@ -580,7 +587,7 @@ Uma disposição de um tratado faz nascer uma obrigação para um Estado terceir
 
 O disposto nos artigos 34.º a 37.º não obsta a que uma norma enunciada num tratado se torne vinculativa para um Estado terceiro ou uma organização terceira como norma consuetudinária de direito internacional, reconhecida como tal.
 
-# PARTE IV — Revisão e modificação dos tratados
+## PARTE IV — Revisão e modificação dos tratados
 
 ###### Artigo 39.º — Regra geral relativa à revisão dos tratados
 
@@ -622,7 +629,7 @@ ii) Não respeite a uma disposição cuja derrogação seja incompatível com a 
 
 2 - Salvo se o tratado dispuser de outro modo relativamente ao caso referido na alínea a) do n.º 1, as Partes em causa devem notificar as outras Partes da sua intenção de concluir o acordo e da modificação ao tratado que este último prevê.
 
-# PARTE V — Nulidade, cessação da vigência e suspensão da aplicação dos tratados
+## PARTE V — Nulidade, cessação da vigência e suspensão da aplicação dos tratados
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -918,7 +925,7 @@ b) Não afeta, de qualquer outro modo, as relações jurídicas estabelecidas en
 
 2 - Durante o período de suspensão, as Partes devem abster-se de todos os atos tendentes a impedir a reentrada em vigor do tratado.
 
-# PARTE VI — Disposições diversas
+## PARTE VI — Disposições diversas
 
 ###### Artigo 73.º — Relação com a Convenção de Viena sobre o Direito dos Tratados
 
@@ -940,7 +947,7 @@ A rutura ou inexistência de relações diplomáticas ou consulares entre dois o
 
 As disposições da presente Convenção não afetam as obrigações que possam resultar, em virtude de um tratado concluído entre um ou mais Estados e uma ou mais organizações internacionais para um Estado agressor de medidas tomadas, de acordo com a Carta das Nações Unidas em relação à agressão cometida por esse Estado.
 
-# PARTE VII — Depositários, notificações, retificações e registo
+## PARTE VII — Depositários, notificações, retificações e registo
 
 ###### Artigo 77.º — Depositários dos tratados
 
@@ -1014,7 +1021,7 @@ b) Tiver sido formulada uma objeção, o depositário comunica a objeção aos E
 
 2 - A designação de um depositário constitui autorização para este praticar os atos previstos no número anterior.
 
-# PARTE VIII — Disposições finais
+## PARTE VIII — Disposições finais
 
 ###### Artigo 82.º — Assinatura
 
@@ -2327,3 +2334,5 @@ III - Functioning of the Conciliation Commission
 13 - The Commission shall report within twelve months of its constitution. Its report shall be deposited with the Secretary-General and transmitted to the parties to the dispute. The report of the Commission, including any conclusions stated therein regarding the facts or questions of law, shall not be binding upon the parties and it shall have no other character than that of recommendations submitted for the consideration of the parties in order to facilitate an amicable settlement of the dispute.
 
 14 - The Secretary-General shall provide the Commission with such assistance and facilities as it may require. The expenses of the Commission shall be borne by the United Nations.
+
+114021912

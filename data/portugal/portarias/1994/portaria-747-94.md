@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/187b00/47044705.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/747/1994/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1994-225196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2274b721c9916d80895d4f540ab3354b3c023612f7935e67b5439cd0b3e3d49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ecd8dac66a52dc386e626d8c16737f4460a2a542ad1f2c6bd5751a390462f58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Importação
 - Aditivo Alimentar
+- Importação
 - Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:517213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620292:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:354316:por
+  label: "Rectificado n.º 1.º pela DECL-RECT.169/94.30.09.1994.PCM, DR.IS-B [227]3ºSupl de 30.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/169-1994-354316
+  date: '1994-09-30'
+- type: repealed_by
+  target: pt:dre:517213:por
+  label: "Revogada pelo DEC LEI.121/98.1998.05.08.MADRP DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1998-517213
+  date: '1998-05-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:07Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +129,6 @@ b) Descrição do género alimentício a importar.
 
 Ministérios da Agricultura, da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 15 de Julho de 1994.**
+Assinada em 15 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.

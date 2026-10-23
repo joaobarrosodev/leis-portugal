@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/448/1995/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-1995-506635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f89b58abe2a8aae06e2dc05e0c9797f85fe94b22834cf108d6165b99aff1ae1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e4c2ebe4c879fcf0c8deeda0d94c2dfd19faeb112710687b4fc8f00a00398c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia da Gestão e Ordenamento
 - Curso de Engenharia da Produção
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
 relationships:
 - type: amended_by
   target: pt:dre:672659:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:672659:por
+  label: "Alterado o nº 4 e revogado o anexo III pela PORT.1065/97.1997.10.21.ME, DR.IS-B [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1065-1997-672659
+  date: '1997-10-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/453/1991/05/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/453/1991/05/28/p/dre
+- type: cites
+  target: pt:dre:358290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631230:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:47Z'
   warnings: []
   errors: []
 ---
@@ -232,8 +253,8 @@ São revogadas as Portarias n.os [720/88](https://diariodarepublica.pt/dr/detalh
 
 Ministério da Educação.
 
-**Assinada em 11 de Abril de 1995.**
+Assinada em 11 de Abril de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/110b00/27692773.pdf))](https://files.diariodarepublica.pt/1s/1995/05/110b00/27692773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/110b00/27692773.pdf)

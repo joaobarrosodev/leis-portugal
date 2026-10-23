@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/39/2010/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2010-332682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53a1cce77b619f3c9aa4388c2b56b2bf245e228ef529da27753192d46aebdd1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae68decb6369f84f1a5a0efa81e8448000ee5488f3df5faf1c88aa41e2674780
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Igualdade de Tratamento
+- Autarquia Local
+- Conselheiro para a Igualdade
 - Conselho Local de Acção Social
 - Definição de Competências
 - Estatuto
 - Igualdade de Oportunidades
-- Conselheiro para a Igualdade
-- Autarquia Local
+- Igualdade de Tratamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/2006/06/14/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2007/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2007/06/22/p/dre
+- type: cites
+  target: pt:dre:344943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638880:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:30Z'
   warnings: []
   errors: []
 ---

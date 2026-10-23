@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/173b00/42114214.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/703/1994/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1994-231748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91ed2e43aa01d00086101dd963b35e57f18684bc9fcd47d406ae5c7c0649ac92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad29eba6f7b2a6664e23436c7a90e25d16c1c8d7639814719104d27009a4c91f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
 - Ajuda Comunitária
 - CEE
-- Proteção do Ambiente
-- Política Agrícola Comum
 - Exploração Florestal
+- Ifadap
+- Política Agrícola Comum
+- Proteção do Ambiente
 - Proteção Fitossanitária
-- Agricultor
 - Recursos Naturais
 - Regulamento CE
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:209843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUM 13 E 14 PELA PORT 1336/95 DE 10-NOV DR.IS-B [260]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-10'
+- type: amended_by
+  target: pt:dre:517975:por
+  label: "Alterados os nºs 3, 4, 5, 13, 14 e 15, anteriormente alterados pela Port 1336/95 de 10-Nov, pela Port.196/97.1997.03.21.MADRP\
+    \ [68]S\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1997-517975
+  date: '1997-03-21'
 - type: cites
   target: celex:31992R2078
   label: null
   source: http://data.europa.eu/eli/reg/1992/2078/oj
+- type: repealed_by
+  target: pt:dre:209843:por
+  label: "Revogada pela PORT.85/98.1998.02.19.MADRP, DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-1998-209843
+  date: '1998-02-19'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:08Z'
   warnings: []
   errors: []
 ---
@@ -299,18 +315,18 @@ Disposição transitória
 
 Ministérios da Agricultura e do Ambiente e Recursos Naturais.
 
-**Assinada em 13 de Julho de 1994.**
+Assinada em 13 de Julho de 1994.
 
-**O Ministro da Agricultura, António Duarte Silva. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Agricultura, António Duarte Silva. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
 ## ANEXO I — (a que se refere o n.º 2.º da Portaria n.º 703/94)
 
 Âmbito territorial de aplicação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/173b00/42114214.pdf))](https://files.diariodarepublica.pt/1s/1994/07/173b00/42114214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/173b00/42114214.pdf)
 
 ## ANEXO II — (a que se refere o n.º 7.º da Portaria n.º 703/94)
 
 Valor do prémio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/173b00/42114214.pdf))](https://files.diariodarepublica.pt/1s/1994/07/173b00/42114214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/173b00/42114214.pdf)

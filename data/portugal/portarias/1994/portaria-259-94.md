@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/259/1994/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-1994-251866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eefe654c22e6662828152a80a28c93b196aebe62cf30a4ad598d520a931a9301
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b1a57d48118302844a5e15fe42d37e7721a22d1f575c28aae24e0988bce4921
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,36 @@ relationships:
   target: pt:dre:604612:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692047:por
+  label: "Substituída a planta anexa à Port 722-O9/92 de 15-Jul DR.IS-B [161]2ºSUPL, corrigida pelo presente diploma, pela\
+    \ PORT.963/99.1999.10.30.MADRP, DR.IS-B [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/963-1999-692047
+  date: '1999-10-30'
+- type: amended_by
+  target: pt:dre:604612:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pela Port 722-O9/92, de 15-Jul, alterada pelo presente\
+    \ diploma, pela PORT.202/2005.18.02.2005.MAPF, DR.IS-B [35] de 18.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/202-2005-604612
+  date: '2005-02-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/722-o9/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-o9/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:617898:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:12Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +124,6 @@ Manda o Governo, pelo Ministro da Agricultura, que o n.º 2.º da referida porta
 
 Ministério da Agricultura.
 
-**Assinada em 30 de Março de 1994.**
+Assinada em 30 de Março de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

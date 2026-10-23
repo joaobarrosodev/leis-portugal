@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1045/1995/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1045-1995-432804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb39171eb30ef5caedd12c4da17dd4a9e8b1174f1e1d347243e38d8c59eba263
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7f7f992a08065c923627087092f02e18943348401aad51c103c620fc9169d87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,23 +71,53 @@ subjects:
 - CAÇA
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "19960315 - ALTERADO O NUM 1 PELA PORT 81/96 DE 15-MAR DR.IS-B [64]\0 [64]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:602722:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534395:por
+  label: "Alterado o nº 1 pela PORT.81/96.15.03.1996.MADRP, DR.IS-B [64] de 15.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-1996-534395
+  date: '1996-03-15'
+- type: amended_by
+  target: pt:dre:142131:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pela Port 1090/90 de 31-Out, renovada pelo presente diploma,\
+    \ pela PORT.773/2005.05.09.2005.MEI, DR.IS-B [170] de 05.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-2005-142131
+  date: '2005-09-05'
+- type: amended_by
+  target: pt:dre:602722:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pela Port 1090/90, de 31-Out, alterada pelo presente\
+    \ diploma, pela Port 81/96, de 15-Mar e pela Port 773/2005, de 05-Set, pela PORT.69/2009.22.01.2009.MADRP, DR.IS [15]\
+    \ de 22.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-2009-602722
+  date: '2009-01-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:566175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:32Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +144,6 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Agosto de 1995.**
+Assinada em 7 de Agosto de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

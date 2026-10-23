@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/350/1994/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-1994-301438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 829c7d87c66ff42b49b3df207ff1c511a278b8f96d18df31ddbc822769e18d87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba01225abbbca21d52293b975012fff314cb8ab0d9d0fcffdd4a3c5a674ddffd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:221707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:25:38Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +116,6 @@ Manda o Governo, pelo Ministro da Defesa Nacional, que seja extinta, com efeitos
 
 Ministério da Defesa Nacional.
 
-**Assinada em 9 de Maio de 1994.**
+Assinada em 9 de Maio de 1994.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/419/1995/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-1995-513992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbef9412f477f11e71e53ffe7bb545deb2caa70564aa975387ede0324b47b151
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 776c86844ee0492c2e8e2f51417b49048d37c58aab782093b735594983a92fcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/307/1993/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/307/1993/03/16/p/dre
+- type: cites
+  target: pt:dre:551229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634330:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612226:por
+  label: "Revogada pela PORT.54/96.21.02.1996.MECO, DR.IS-B [44] de 21.02.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/54-1996-612226
+  date: '1996-02-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:07Z'
   warnings: []
   errors: []
 ---
@@ -110,20 +123,20 @@ Manda o Governo, pelos Ministros da Agricultura e da Indústria e Energia, o seg
 
 Ministérios da Agricultura e da Indústria e Energia.
 
-**Assinada em 1 de Março de 1995.**
+Assinada em 1 de Março de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I — Lista de fabricantes autorizados de pré-misturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf))](https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf)
 
 ## ANEXO II — Lista de fabricantes autorizados de alimentos compostos
 
 A - Fabricantes que destinam a sua produção ao mercado consumidor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf))](https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf)
 
 B - Fabricantes que destinam a sua produção apenas às suas explorações pecuárias (autoprodutores)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf))](https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/107b00/26132618.pdf)

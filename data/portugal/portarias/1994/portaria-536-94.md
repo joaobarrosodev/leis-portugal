@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/536/1994/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-1994-290664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:30:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc88bc2a0d5debd33635d200d86c91f40bd8dfa356a5e8e01aa4cddc1a6efd0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e4e3b07cc0edcb60ed7563dfd38b9aa496e889286ce7633158e3b89558558c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:30:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almeirim
-- Chamusca
 - CAÇA
+- Chamusca
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:621506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621506:por
+  label: "Renovada, por um período de nove anos, a concessão da zona de caça atribuída pela Port 636-A/88, de 15-Set, na redacção\
+    \ do presente diploma, pela PORT.65/96.01.03.1996.MADRP, DR.IS-B [52] de 01.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-1996-621506
+  date: '1996-03-01'
+- type: cites
+  target: pt:dre:529441:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:30:04Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +115,6 @@ Manda o Governo, pelo Ministro da Agricultura, que o n.º 2.º da referida porta
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Junho de 1994.**
+Assinada em 16 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/225/1995/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-1995-172965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae22e3ffd32bb9c3ab024bd2626cb102c1bb0993ca1d59060a3f9b830e470a03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d882898dcc2dfcca6383d7c044295d7d5d9037fc3a4c48d85193225751696d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,67 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Reestruturação de Serviços
-- Vila Franca de Xira
+- Amadora
 - Braga
-- Pessoal Dirigente
+- Cascais
+- Coimbra
 - Criação de Serviços
+- Direcção Geral das Contribuições e Impostos
 - Extinção de Lugares
 - Extinção de Serviços
 - Formas de Provimento
+- Funchal
 - Loures
 - Matosinhos
+- Oeiras
 - Pessoal da Administração Tributária
 - Pessoal de Chefia
-- Funchal
-- Coimbra
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Repartição de Finanças
 - Santo Tirso
 - Seixal
-- Direcção Geral das Contribuições e Impostos
-- Amadora
-- Cascais
-- Oeiras
+- Vila Franca de Xira
 - VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:280175:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527389:por
+  label: "Alteradas as alíneas f), j) e l) do n.º 1.º e o n.º 8.º pela PORT.515/95.31.05.1995.MF, DR.IS-B [126] de 31.05.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-1995-527389
+  date: '1995-05-31'
+- type: amended_by
+  target: pt:dre:158268:por
+  label: "Alterada a al. f) do nº 1, extinta a 1ª e 2ª Repartições de Finanças do concelho de Santo Tirso, bem como a 1ª e\
+    \ 2ª Tesourarias da Fazenda Pública do mesmo concelho; extinta a 2ª Repartição de Finanças do concelho de Loures, bem\
+    \ como a 2ª Tesouraria da Fazenda Pública do mesmo concelho, pela PORT.163/99.1999.03.10.MF, DR.IS-B [58]l\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/163-1999-158268
+  date: '1999-03-10'
+- type: amended_by
+  target: pt:dre:676650:por
+  label: "Reordenadas as freguesias do concelho de Vila Nova de Gaia pelos serviços de finanças criados pelo presente diploma,\
+    \ posteriormente alterada pela Port 515/95 de 31-Mai, pela PORT.184/2006.23.02.2006.MFAP, DR.IS-B [39] de 23.02.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2006-676650
+  date: '2006-02-23'
+- type: amended_by
+  target: pt:dre:341448:por
+  label: "Extinto o Serviço de Finanças Oeiras 1, criado pela al. h) do nº1 do presente diploma, pela PORT.887/2010.13.09.2010.MFAP,\
+    \ DR.IS [178] de 13.09.2010, nos termos dos arts. 2º e 6º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/887-2010-341448
+  date: '2010-09-13'
+- type: amended_by
+  target: pt:dre:280175:por
+  label: "Extinto o Serviço de Finanças de Vila Nova de Gaia 3, previsto na alínea L) do nº 1º, passando o Serviço de Finanças\
+    \ de Vila Nova de Gaia 4 a designar-se de Serviço de Finanças de Vila Nova de Gaia 3, pela PORT.53/2011.28.01.2011.MFAP,\
+    \ DR.IS [20] de 28.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-2011-280175
+  date: '2011-01-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre
   label: null
@@ -103,16 +136,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/871/1994/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/871/1994/09/29/p/dre
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609281:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:179316:por
+  label: "Rectificadas as alíneas b) (1.ª Repartição e 2.ª Repartição) e i) (1.ª Repartição) do n.º 1.º, pela DECL-RECT.36/95.29.04.1995.PCM,\
+    \ DR.IS-B [100]Supl de 29.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/36-1995-179316
+  date: '1995-04-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:31Z'
   warnings: []
   errors: []
 ---
@@ -255,14 +302,14 @@ L) Concelho de Vila Nova de Gaia:
 
 Ministério das Finanças.
 
-**Assinada em 7 de Fevereiro de 1995.**
+Assinada em 7 de Fevereiro de 1995.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/073b00/16631665.pdf))](https://files.diariodarepublica.pt/1s/1995/03/073b00/16631665.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/073b00/16631665.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/073b00/16631665.pdf))](https://files.diariodarepublica.pt/1s/1995/03/073b00/16631665.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/073b00/16631665.pdf)

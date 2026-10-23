@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/76/1994/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/76-1994-499265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73ad98be38be0f1bf39807c517fbcfdd9eca0c516e9e7e6a349a236760800ac1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 370a37525366d79f8cbfc63f85e777901a1d7308ccd937ccc2483ae0e4e3571d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Domínio Privado do Estado
 - BENS Imóveis do Estado
 - Cascais
+- Domínio Privado do Estado
 - Transferência Patrimonial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/314/1991/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/314/1991/08/17/p/dre
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674431:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:25Z'
   warnings: []
   errors: []
 ---
@@ -117,10 +129,10 @@ Manda o Governo, pelos Secretários de Estado Adjunto e das Finanças e do Turis
 
 Ministérios das Finanças e do Comércio e Turismo.
 
-**Assinada em 31 de Dezembro de 1993.**
+Assinada em 31 de Dezembro de 1993.
 
-**O Secretário de Estado Adjunto e das Finanças, António José Fernandes de Sousa. - O Secretário de Estado do Turismo, Alexandre Carlos de Mello Vieira Costa Relvas.**
+O Secretário de Estado Adjunto e das Finanças, António José Fernandes de Sousa. - O Secretário de Estado do Turismo, Alexandre Carlos de Mello Vieira Costa Relvas.
 
 ## ANEXO — Planta a que se refere a Portaria n.º 76/94
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/029b00/05550556.pdf))](https://files.diariodarepublica.pt/1s/1994/02/029b00/05550556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/029b00/05550556.pdf)

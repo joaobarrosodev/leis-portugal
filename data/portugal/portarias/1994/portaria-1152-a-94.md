@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/1994, 3º Suplemento, Série I-B de 1994-12-27
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7388-(2) a 7388-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298b03/00020004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1152-a/1994/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1152-a-1994-303229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b50cd3c080abf748bc8ec534c6a5094dac79513367f42af7af5a4fcaa1f582f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 044a44e2e0abd6f7072f995a0da1f03ac7aa456c54ef92bfedf0f47df63d5df0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/307/1994/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/307/1994/12/21/p/dre
+- type: cites
+  target: pt:dre:571605:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:20Z'
   warnings: []
   errors: []
 ---
@@ -263,6 +267,6 @@ A presente portaria produz efeitos a partir de 1 de Janeiro de 1995.
 
 Ministério das Finanças.
 
-**Assinada em 22 de Dezembro de 1994.**
+Assinada em 22 de Dezembro de 1994.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga.**
+O Ministro das Finanças, Eduardo de Almeida Catroga.

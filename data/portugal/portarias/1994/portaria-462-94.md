@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/462/1994/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/462-1994-289809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb04b39713ed1cca80a3ce74787c860fb952267882fdcef0846c5e5b476b52c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52667a8433e49485e2f50fa8c44e806ea9beee01fc76844dc932ba67120a9608
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,48 @@ relationships:
   target: pt:dre:494205:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429386:por
+  label: "Alterado o nº 1º e substituída a planta anexa ao presente diploma, que altera o nº 1º da Port 668-D/93, de 15-Jul,\
+    \ pela PORT.989/95.17.08.1995.MA, DR.IS-B [189] de 17.08.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/989-1995-429386
+  date: '1995-08-17'
+- type: amended_by
+  target: pt:dre:210474:por
+  label: "Alterado o nº 1, da Port 668-D/93 de 15-Jul, na redacção do presente diploma, pela PORT.96/98.1998.02.23.MADRP,\
+    \ DR.IS-B [45]t\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-1998-210474
+  date: '1998-02-23'
+- type: amended_by
+  target: pt:dre:494205:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 668-D/93, de 15-Jul, alterada pelo presente\
+    \ diploma, pela PORT.563/2009.27.05.2009.MADRP, DR.IS [102] de 27.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/563-2009-494205
+  date: '2009-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/668-d/1993/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/668-d/1993/07/15/p/dre
+- type: cites
+  target: pt:dre:687046:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:642911:por
+  label: "Revogada a concessão de caça associativa atribuída pela Port 668-D/93 de 15-Jul, alterada pelo presente diploma,\
+    \ e pela Port 989/95 de 17-Ago, pela Port.826/97.1997.09.06.MADRP DR.IS-B [206]S\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-1997-642911
+  date: '1997-09-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:13Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +136,8 @@ Manda o Governo, pelo Ministro da Agricultura, que o n.º 1.º da referida porta
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Junho de 1994.**
+Assinada em 7 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/149b00/34623463.pdf))](https://files.diariodarepublica.pt/1s/1994/06/149b00/34623463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/149b00/34623463.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/280/1995/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/280-1995-230534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3027336144c5a70ae25ca933d94092614c5052c57482032e5ac1204556dc6313
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 219efe3d14db0177c46e1d0acf1d5e36bd205abf38c198bfa5ffbc1c938d6509
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Engenharia Mecânica
 - Ensino Superior Politécnico
 - Instituto Politécnico
 - Instituto Superior de Engenharia
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:245275:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618519:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:245275:por
+  label: "Revogada, findo o processo de transição fixado no art.31º do Regulamento dos Cursos Bietápicos de Licenciatura,\
+    \ a Port 711/89 de 22-Ago, alterada pelo presente diploma, na parte em que autorizou a conferir o grau de bacharel em\
+    \ Engenharia mecânica, pela PORT.733/2005.25.08.2005.MCTES, DR.IS-B [163] de 25.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/733-2005-245275
+  date: '2005-08-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:47Z'
   warnings: []
   errors: []
 ---
@@ -129,8 +148,8 @@ São revogados os anexos XI e XII e a alínea e) do n.º 1.º da [Portaria n.º 
 
 Ministério da Educação.
 
-**Assinada em 21 de Fevereiro de 1995.**
+Assinada em 21 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/083b00/20522054.pdf))](https://files.diariodarepublica.pt/1s/1995/04/083b00/20522054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/083b00/20522054.pdf)

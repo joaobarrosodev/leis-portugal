@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/91/1996/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-1996-431255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c4e95f3dde0a14c206ddb871285a49c9a366cb8564f97a88831724f9fa5fd80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c35a2b2e0ba6decd7aa2e515f0ed8729ba7f4563df9e6ff236e54e7cd99af97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Fornos de Algodres
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:75581834:por
+  label: Tornada pública a manutenção em vigor até à publicação da nova carta, da carta da Reserva Ecológica Nacional aprovada
+    pelo presente diploma pelo(a) Aviso n.º 13012/2016 - Diário da República n.º 204/2016, Série II de 2016-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13012-2016-75581834
+  date: '2016-10-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -79,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:16Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +135,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 23 de Maio de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/140b00/15701571.pdf))](https://files.diariodarepublica.pt/1s/1996/06/140b00/15701571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/140b00/15701571.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1156/1995/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1156-1995-566664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ac5ca72f03cd86ce92afd5020c9e6a9934c69f46f8e24e4a634938cd1245ceb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 609e7492e1a00b82e82f72b25f90c314604655258733e7809a2afa55ccd45db9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Arquivo
 - Conservação de Documentos
-- Segurança da Informação
 - Polícia Judiciária
+- Segurança da Informação
 relationships:
 - type: amended_by
   target: pt:dre:545604:por
@@ -82,16 +82,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:545604:por
+  label: "Rectificado o anexo I pela DECL-RECT.146/95.31.10.1995.PCM, DR.IS-B [252]3ºSupl de 31.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/146-1995-545604
+  date: '1995-10-31'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:16Z'
   warnings: []
   errors: []
 ---
@@ -212,12 +233,12 @@ Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
 Presidência do Conselho de Ministros e Ministério da Justiça.
 
-**Assinada em 30 de Agosto de 1995.**
+Assinada em 30 de Agosto de 1995.
 
-**O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - O Subsecretário de Estado da Cultura, Manuel Joaquim Barata Frexes.**
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - O Subsecretário de Estado da Cultura, Manuel Joaquim Barata Frexes.
 
 ## ANEXO I — Tabela de selecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/219b00/59065909.pdf))](https://files.diariodarepublica.pt/1s/1995/09/219b00/59065909.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/219b00/59065909.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/219b00/59065909.pdf))](https://files.diariodarepublica.pt/1s/1995/09/219b00/59065909.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/219b00/59065909.pdf)

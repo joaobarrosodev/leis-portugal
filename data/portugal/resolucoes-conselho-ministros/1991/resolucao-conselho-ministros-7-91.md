@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/7/1991/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/7-1991-461986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4484c39564f124f8b921ebcf3712971dff687b3d0b56dd8de3a65849bd4df51c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ccc9fde51e09fb95a085aa2b029c2d4842d66bdd6a994d294062a019b9426ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
 subjects:
 - Alandroal
 - Proteção do Ambiente
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:381351:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:20Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +100,4 @@ Criar, nos termos do disposto no [Decreto-Lei n.º 264/79](https://diariodarepub
 
 Presidência do Conselho de Ministros, 21 de Fevereiro de 1991. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/059b00/12581258.pdf))](https://files.diariodarepublica.pt/1s/1991/03/059b00/12581258.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/059b00/12581258.pdf)

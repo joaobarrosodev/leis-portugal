@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/42/1997/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-1997-517261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd90b97fd8334661eb77e80fc85a8ef3e27ecb6c0fed4ba67eb60a059f0b7434
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f747630434a2d77b66695583c4d98b9f5a889a839307979cd40d87b50c6ddb3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,34 @@ reuse:
 subjects:
 - Conselho Nacional de Segurança Rodoviária
 - Definição de Competências
-- Segurança Rodoviária
 - Ministro da Administração Interna
+- Segurança Rodoviária
 relationships:
 - type: amended_by
   target: pt:dre:520462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621509:por
+  label: "Alterado o nº 4 pela RES.151/2001.2001.09.20.PCM, DR.IS-B [236] de 11/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/151-2001-621509
+  date: '2001-09-20'
+- type: amended_by
+  target: pt:dre:520462:por
+  label: "Determinado que a Autoridade Nacional de Segurança Rodoviária suceda nas atribuições da Direcção-Geral de Viação,\
+    \ cuja orgânica foi aprovada no presente diploma, pelo DEC LEI.77/2007.29.03.2007.MAI, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2007-520462
+  date: '2007-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:58Z'
   warnings: []
   errors: []
 ---

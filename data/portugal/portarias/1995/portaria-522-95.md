@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/522/1995/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/522-1995-527385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeedc882e7683333f4ab6989ac5fcaf7e822b7460035cd671147147fa908f6ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a7bc626cfb2a0f99cfcb8372c8c83d889b247461fb37eac084c588fd22410d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
+- Aquicultura
 - CEE
+- Comércio
+- Controlo Sanitário
 - Crustáceo
 - Documento de Transporte
-- Controlo Sanitário
-- Impresso
+- Doença Animal
 - Importação
-- Aquicultura
+- Impresso
 - Molusco
 - País Estrangeiro
 - Peixe
 - Política Agrícola Comum
-- Regulamento
-- Comércio
 - Produto Animal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:633295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 5, O ANEXO A E SUPRIMIDAS AS REFERÊNCIAS A 'LISTA I DO ANEXO A' NOS ANEXOS B, C E D DO REGULAMENTO
+    APROVADO PELO PRESENTE DIPLOMA, PELA PORT 52/96 DE 20-FEV DR.IS-B [43]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-02-20'
+- type: amended_by
+  target: pt:dre:611315:por
+  label: "Alterado o art. 5º bem como o anexo A e suprimidas as referências à \"Lista I do anexo A\" nos anexos B, C e D do\
+    \ regulamento, pela PORT.52/96.20.02.1996.MECO, DR.IS-B [43] de 20.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/52-1996-611315
+  date: '1996-02-20'
 - type: cites
   target: celex:31991L0067
   label: null
@@ -98,16 +110,21 @@ relationships:
   target: celex:31993L0054
   label: null
   source: http://data.europa.eu/eli/dir/1993/54/oj
+- type: repealed_by
+  target: pt:dre:633295:por
+  label: "Revogado pelo DEC LEI.548/99.1999.12.14.MADRP DR.IS-A [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/548-1999-633295
+  date: '1999-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:46Z'
   warnings: []
   errors: []
 ---
@@ -128,9 +145,9 @@ Manda o Governo, pelos Ministros da Agricultura, do Comércio e Turismo e do Mar
 
 Ministérios da Agricultura, do Comércio e Turismo e do Mar.
 
-**Assinada em 23 de Maio de 1995.**
+Assinada em 23 de Maio de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - O Ministro do Mar, António Baptista Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - O Ministro do Mar, António Baptista Duarte Silva.
 
 ## ANEXO — (a que se refere a Portaria n.º 522/95)
 
@@ -138,11 +155,11 @@ Regulamento das Condições de Polícia Sanitária Que Regem a Introdução no M
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - O presente Regulamento define as condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura.
+Artigo 1.º - 1 - O presente Regulamento define as condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura.
 
 2 - O presente Regulamento aplica-se sem prejuízo das normas relativas à conservação das espécies.
 
-###### Art. 2.º Para efeitos do disposto do presente Regulamento, entende-se por:
+Art. 2.º Para efeitos do disposto do presente Regulamento, entende-se por:
 
 a) Animais de aquicultura: os peixes, crustáceos, moluscos vivos provenientes de uma exploração, incluindo os de origem selvagem destinados a uma exploração;
 
@@ -166,7 +183,7 @@ j) Laboratório aprovado: Laboratório Nacional de Veterinária.
 
 ### CAPÍTULO II — Introdução no mercado dos animais e produtos da aquicultura da Comunidade Económica Europeia
 
-###### Art. 3.º - 1 - Só podem ser introduzidos no mercado os animais de aquicultura que obedeçam às seguintes condições gerais:
+Art. 3.º - 1 - Só podem ser introduzidos no mercado os animais de aquicultura que obedeçam às seguintes condições gerais:
 
 a) Não apresentarem qualquer sinal clínico de doença;
 
@@ -180,25 +197,25 @@ c) Não serem provenientes de uma exploração que seja objecto de uma proibiç�
 
 4 - O presente artigo aplica-se sem prejuízo do disposto na Directiva n.º [93/53/CEE](http://data.europa.eu/eli/dir/1993/53/oj?locale=pt), no que respeita à luta contra determinadas doenças dos peixes.
 
-###### Art. 4.º - 1 - Os animais de aquicultura devem ser rapidamente transportados, para o local de destino, em meios de transporte previamente limpos e, se necessário, desinfectados com substâncias autorizadas pelo serviço oficial.
+Art. 4.º - 1 - Os animais de aquicultura devem ser rapidamente transportados, para o local de destino, em meios de transporte previamente limpos e, se necessário, desinfectados com substâncias autorizadas pelo serviço oficial.
 
 2 - Quando seja utilizada água no transporte terrestre, os veículos devem estar concebidos de modo que a água não possa escoar ou cair do veículo durante o transporte.
 
 3 - O transporte deve efectuar-se de modo a assegurar uma protecção eficaz do estado sanitário dos animais de aquicultura, nomeadamente através da renovação da água, devendo essa renovação realizar-se em locais que satisfaçam as condições referidas no anexo D.
 
-###### Art. 5.º A introdução no mercado dos peixes vivos das espécies sensíveis referidas na coluna 2, lista I, do anexo A, e dos seus ovos ou gâmetas está ainda sujeita às seguintes condições:
+Art. 5.º A introdução no mercado dos peixes vivos das espécies sensíveis referidas na coluna 2, lista I, do anexo A, e dos seus ovos ou gâmetas está ainda sujeita às seguintes condições:
 
 a) Caso se destinem a ser introduzidos numa zona aprovada, devem, nos termos do artigo 8.º, ser acompanhados de um documento de transporte, conforme com o modelo previsto nos capítulos I ou II do anexo E, consoante provenham de uma zona aprovada ou de uma exploração aprovada;
 
 b) Quando se destinem a ser introduzidos numa exploração situada numa zona não aprovada que preencha as condições estabelecidas do ponto I do anexo C, devem ser acompanhados de documento de transporte em conformidade com o artigo 8.º e com o modelo previsto nos capítulos I ou II do anexo E, consoante provenham de uma zona aprovada ou de uma exploração com o mesmo estatuto sanitário que a exploração destinatária.
 
-###### Art. 6.º A introdução no mercado de moluscos vivos referidos na coluna 2, lista II, do anexo A, está sujeita às seguintes exigências complementares:
+Art. 6.º A introdução no mercado de moluscos vivos referidos na coluna 2, lista II, do anexo A, está sujeita às seguintes exigências complementares:
 
 a) Caso se destinem à recolocação na água numa zona litoral aprovada, devem ser acompanhados de um documento de transporte em conformidade com o artigo 8.º e com o modelo previsto nos capítulos III ou IV do anexo E, consoante provenham de uma zona litoral aprovada ou de uma exploração aprovada numa zona litoral não aprovada;
 
 b) Caso se destinem à recolocação na água numa exploração que, apesar de situada numa zona litoral não aprovada, preencha as condições do ponto III do anexo C, devem ser acompanhados de um documento de transporte em conformidade com o artigo 8.º e com o modelo previsto nos capítulos III ou IV do anexo E, consoante provenham de uma zona litoral aprovada ou de uma exploração com o mesmo estatuto sanitário que a exploração destinatária.
 
-###### Art. 7.º A colocação no mercado de animais de uma zona aprovada ou de produtos da aquicultura destinados a consumo humano, originários de uma zona não aprovada, está sujeita às seguintes condições:
+Art. 7.º A colocação no mercado de animais de uma zona aprovada ou de produtos da aquicultura destinados a consumo humano, originários de uma zona não aprovada, está sujeita às seguintes condições:
 
 a) Os peixes sensíveis às doenças constantes da coluna 1, lista II, do anexo A devem ser abatidos e eviscerados antes da expedição;
 
@@ -208,11 +225,11 @@ i) Provierem de uma exploração aprovada numa zona litoral não aprovada;
 
 ii) Estiverem temporariamente imersos em bacias de entreposto ou centros de purificação especialmente adaptados e aprovados pelo serviço oficial para esse fim, que disponham, nomeadamente, de um sistema de tratamento e desinfecção das águas residuais.
 
-###### Art. 8.º - 1 - Os documentos de transporte referidos nos artigos 5.º e 6.º devem ser emitidos pelo serviço oficial, na ou nas línguas oficiais do local de destino, nas quarenta e oito horas que antecedem o carregamento, consistir numa única folha e dizer respeito a um único destinatário, sendo o seu período de validade de 10 dias.
+Art. 8.º - 1 - Os documentos de transporte referidos nos artigos 5.º e 6.º devem ser emitidos pelo serviço oficial, na ou nas línguas oficiais do local de destino, nas quarenta e oito horas que antecedem o carregamento, consistir numa única folha e dizer respeito a um único destinatário, sendo o seu período de validade de 10 dias.
 
 2 - Todas as remessas de animais e de produtos da aquicultura devem ser identificadas de modo a permitir localizar a exploração de origem e verificar, se for caso disso, a conformidade da natureza dos animais ou produtos com as informações constantes do documento de transporte que os acompanha, podendo estas informações ser apostas directamente no contentor, ou num rótulo nele fixado, ou, ainda, nos documentos de transporte.
 
-###### Art. 9.º - 1 - Sem prejuízo das exigências relativas às doenças referidas na coluna 1 da lista III do anexo A, a colocação no mercado de peixes de viveiro vivos que não pertençam às espécies sensíveis enumeradas na coluna 2 da lista II do anexo A, bem como dos respectivos ovos e gâmetas, está sujeita às seguintes garantias complementares:
+Art. 9.º - 1 - Sem prejuízo das exigências relativas às doenças referidas na coluna 1 da lista III do anexo A, a colocação no mercado de peixes de viveiro vivos que não pertençam às espécies sensíveis enumeradas na coluna 2 da lista II do anexo A, bem como dos respectivos ovos e gâmetas, está sujeita às seguintes garantias complementares:
 
 a) Quando se destinem a uma zona aprovada, ser acompanhados, nos termos do artigo 8.º, de um documento de transporte conforme com o modelo previsto no anexo F, que certifique que provêm de uma zona com o mesmo estatuto sanitário, de uma exploração aprovada numa zona não aprovada ou de uma exploração que pode estar situada numa zona não aprovada, desde que não contenha peixes que pertençam às espécies sensíveis constantes da coluna 2, lista II, do anexo A e não esteja em contacto com cursos de água ou águas litorais ou de estuário;
 
@@ -232,17 +249,17 @@ c) Ser objecto de quarentena, sob vigilância do serviço oficial, em instalaç�
 
 5 - Este artigo não se aplica aos peixes tropicais ornamentais mantidos permanentemente em aquários.
 
-###### Art. 10.º Ao presente capítulo aplica-se o disposto nas Portarias n.os 575/93 e 576/93, de 4 de Junho.
+Art. 10.º Ao presente capítulo aplica-se o disposto nas Portarias n.os 575/93 e 576/93, de 4 de Junho.
 
-###### Art. 11.º - 1 - Os peritos veterinários da Comissão das Comunidades Europeias e os técnicos do serviço oficial podem efectuar controlos in loco, para verificação do cumprimento do disposto no presente diploma.
+Art. 11.º - 1 - Os peritos veterinários da Comissão das Comunidades Europeias e os técnicos do serviço oficial podem efectuar controlos in loco, para verificação do cumprimento do disposto no presente diploma.
 
 2 - O proprietário da exploração onde forem efectuados os controlos previstos no número anterior deve prestar toda a colaboração adequada e necessária à realização dos mesmos.
 
 ### CAPÍTULO III — Regras aplicáveis às importações provenientes de países terceiros
 
-###### Art. 12.º Os animais e os produtos da aquicultura importados de países terceiros devem satisfazer as condições fixadas nos artigos 13.º, 14.º e 15.º
+Art. 12.º Os animais e os produtos da aquicultura importados de países terceiros devem satisfazer as condições fixadas nos artigos 13.º, 14.º e 15.º
 
-###### Art. 13.º - 1 - Os animais e os produtos da aquicultura devem ser provenientes de países terceiros ou de parte de países terceiros constantes de lista a publicar no Jornal Oficial das Comunidades Europeias.
+Art. 13.º - 1 - Os animais e os produtos da aquicultura devem ser provenientes de países terceiros ou de parte de países terceiros constantes de lista a publicar no Jornal Oficial das Comunidades Europeias.
 
 2 - A inclusão de um país terceiro, ou de parte de um país terceiro, na lista referida no número anterior, terá em conta os seguintes critérios:
 
@@ -274,7 +291,7 @@ e) Medidas a aplicar na sequência da importação, tais como a quarentena ou a 
 
 3 - Até à fixação das condições de importação referidas nos números anteriores, os serviços oficiais aplicam às importações de animais e produtos da aquicultura provenientes de países terceiros condições pelo menos equivalentes às aplicáveis à produção e introdução no mercado de animais e produtos comunitários.
 
-###### Art. 15.º - 1 - Os animais e os produtos da aquicultura importados de países terceiros devem ser acompanhados de um certificado emitido pelo serviço oficial do país terceiro expedidor.
+Art. 15.º - 1 - Os animais e os produtos da aquicultura importados de países terceiros devem ser acompanhados de um certificado emitido pelo serviço oficial do país terceiro expedidor.
 
 2 - O certificado referido no número anterior deve:
 
@@ -290,15 +307,15 @@ e) Consistir numa única folha;
 
 f) Ser previsto para um único destinatário.
 
-###### Art. 16.º - 1 - A inspecção de animais e produtos da aquicultura importados provenientes de países terceiros aplica-se o disposto na Portaria n.º 774/93, de 3 de Setembro.
+Art. 16.º - 1 - A inspecção de animais e produtos da aquicultura importados provenientes de países terceiros aplica-se o disposto na Portaria n.º 774/93, de 3 de Setembro.
 
 2 - Às inspecções dos animais de aquicultura importados provenientes de países terceiros aplica-se o artigo 7.º do regulamento aprovado pela Portaria n.º 575/93, de 4 de Junho.
 
-###### Art. 17.º Caso uma doença infecciosa ou contagiosa dos animais de aquicultura, susceptível de comprometer o estado sanitário do efectivo animal nacional, se manifestar ou propagar num pais terceiro, ou se qualquer outro motivo de polícia sanitária o justificar, aplica-se o disposto no artigo 16.º do regulamento aprovado pela Portaria n.º 574/93, de 4 de Junho, e no artigo 18.º do regulamento aprovado pela Portaria n.º 774/93, de 3 de Setembro.
+Art. 17.º Caso uma doença infecciosa ou contagiosa dos animais de aquicultura, susceptível de comprometer o estado sanitário do efectivo animal nacional, se manifestar ou propagar num pais terceiro, ou se qualquer outro motivo de polícia sanitária o justificar, aplica-se o disposto no artigo 16.º do regulamento aprovado pela Portaria n.º 574/93, de 4 de Junho, e no artigo 18.º do regulamento aprovado pela Portaria n.º 774/93, de 3 de Setembro.
 
 ## ANEXO A — Listas das doenças e das espécies sensíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
 
 ## ANEXO B — Zonas aprovadas
 
@@ -540,7 +557,7 @@ II - Exploração de origem (nome e endereço): ...
 
 III - Animais ou produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
 
 IV - Destino:
 
@@ -574,7 +591,7 @@ II - Exploração de origem (nome e endereço): ...
 
 III - Animais ou produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
 
 V - Destino:
 
@@ -610,7 +627,7 @@ II - Exploração de origem (nome e endereço): ...
 
 III - Animais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
 
 IV - Destino:
 
@@ -644,7 +661,7 @@ II - Exploração de origem (nome e endereço): ...
 
 III - Animais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
 
 IV - Destino:
 
@@ -692,7 +709,7 @@ Endereço: ...
 
 II - Descrição do lote:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
 
 III - Destino do lote:
 
@@ -762,7 +779,7 @@ Local de origem: ...
 
 II - Descrição do lote:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34463452.pdf)
 
 III - Destino do lote:
 

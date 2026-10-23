@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/140/2003/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/140-2003-633564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b2e2497e408bc63b7cbc5ad03e012ad3343ba3b5d3d5fac8877675c9a2adf49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9974180327763bc1c6322e47af78189ce3299fb7883ac8839bedc9d72c50e61f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,27 @@ reuse:
 subjects:
 - Administração Central
 - Administração Financeira do Estado
-- Reforma da Administração Pública
-- Sistema de Controlo Interno
-- Inspeção Geral de Finanças
-- Definição de Competências
 - Administração Pública
-- Gestão Pública
 - Conselho Coordenador
+- Definição de Competências
 - Descrição de Funções
+- Gestão Pública
+- Inspeção Geral de Finanças
+- Reforma da Administração Pública
 - Serviço Público
 - Setor Público
+- Sistema de Controlo Interno
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:43Z'
   warnings: []
   errors: []
 ---

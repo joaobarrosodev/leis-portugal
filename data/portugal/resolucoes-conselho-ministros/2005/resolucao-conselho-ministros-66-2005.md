@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/2005/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2005-575311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78550efff6771fecd3a2fd0aae8305a7685c3f40e2b0cb4b055368e274f70d16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b02ad2fe358a8f2ce36677d298f0d200342637e4bdbb35d89184960966c2031b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,20 @@ subjects:
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:58660451:por
+  label: Tornada pública a aprovação de medidas preventivas para as áreas abrangidas pela alteração ao Plano de Pormenor de
+    Expansão da Zona Industrial de Portalegre pelo(a) Aviso n.º 12170/2014 - Diário da República n.º 210/2014, Série II de
+    2014-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12170-2014-58660451
+  date: '2014-10-30'
+- type: amended_by
+  target: pt:dre:67590966:por
+  label: Alterada a planta de implantação (na redação da Decl 51/2006 de 04-abr), os arts 7.º, 11.º, 12.º, 13.º, 15.º, 16.º,
+    18.º, 19.º e 25.º e os anexos I e II (ambos na redação da Decl 51/2006 de 04-abr) do Regulamento do Plano de Pormenor
+    ratificado pela presente Resolução, pelo(a) Aviso n.º 7097/2015 - Diário da República n.º 122/2015, Série II de 2015-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7097-2015-67590966
+  date: '2015-06-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/1999/08/10/p/dre
   label: null
@@ -87,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/112/1994/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/1994/11/08/p/dre
+- type: cites
+  target: pt:dre:426692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:05Z'
   warnings: []
   errors: []
 ---

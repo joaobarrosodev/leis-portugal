@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/735/1994/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/735-1994-225454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa2a3f977a8bd2237f5f58fa0a6b207878bf2245c2933ef567deeebc9192a673
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78ce68368b77a179f2e909cdcc7bbc60bb461b63a914b22f483f4a3ec52bb6bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:49Z'
   warnings: []
   errors: []
 ---
@@ -94,6 +102,6 @@ Manda o Governo, pelo Ministro do Mar, que a percentagem prevista na alínea a) 
 
 Ministério do Mar.
 
-**Assinada em 15 de Julho de 1994.**
+Assinada em 15 de Julho de 1994.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.

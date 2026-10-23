@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/32/2023/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/32-2023-212137579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a99eda6b091019c10d8860b98ca1eee932a20ebf0f3e18fc64b5537243eb77c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f5547b8bd6b1ece682e1e6d9890422b44d44ab25dce2df15ad33b9cd4d1f709
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADIS Abeba
-- Etiópia
-- Transporte Aéreo
 - Convenção
+- Etiópia
 - Portugal
-relationships: []
+- Transporte Aéreo
+relationships:
+- type: amended_by
+  target: pt:dre:212137578:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 35/2023 - Diário da República n.º 79/2023, Série
+    I de 2023-04-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/35-2023-212137578
+  date: '2023-04-21'
 article_structure:
   article_count: 24
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:18:05Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 17 de março de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 ACORDO SOBRE TRANSPORTE AÉREO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA FEDERAL DA ETIÓPIA
 
@@ -420,21 +426,21 @@ Feito em Adis Abeba no dia 14 de junho de 2018, em dois originais, nas línguas 
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf))](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
 
 Pela República Democrática Federal da Etiópia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf))](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
 
 ## ANEXO — Quadro de rotas
 
 #### SECÇÃO 1 — Rotas a serem operadas em ambas as direções pela empresa de transporte aéreo designada da República Portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf))](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
 
 #### SECÇÃO 2 — Rotas a serem operadas em ambas as direções pela empresa de transporte aéreo designada da República Democrática Federal da Etiópia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf))](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
 
 Notas
 
@@ -816,11 +822,11 @@ Done in Addis Ababa on the 14th day of June 2018, in two originals, in the Portu
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf))](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
 
 For the Federal Democratic Republic of Ethiopia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf))](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
 
 ANNEX
 
@@ -830,13 +836,13 @@ SECTION 1
 
 Routes to be operated in both directions by the designated airline of the Portuguese Republic
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf))](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
 
 SECTION 2
 
 Routes to be operated in both directions by the designated airline of the Federal Democratic Republic of Ethiopia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf))](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/04/07900/0000300026.pdf)
 
 Notes
 
@@ -845,3 +851,5 @@ Notes
 2 - The designated airline of each Party may select any intermediate and/or beyond points at its own choice and may change its selection in the next season on condition that no traffic rights are exercised between those points and the territory of the other Party.
 
 3 - The exercise of the fifth freedom traffic rights on specified intermediate and/or beyond points shall be subject to agreement between the aeronautical authorities of both Parties.
+
+116359217

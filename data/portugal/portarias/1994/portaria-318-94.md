@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/122b00/27912791.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/318/1994/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/318-1994-301223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1111fa7460a2995806edeae9e207960f762bd28520ed3eafd1ab24e12e17dba3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82f7607822fcb9f02ef2be39278eeed4836e35544404b908b26cc0e8d4b463cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
-- Recursos Hídricos
 - Monchique
+- Recursos Hídricos
 - Zona de Proteção
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69992906:por
+  label: Revogada pelo(a) Portaria n.º 238/2015 - Diário da República n.º 156/2015, Série I de 2015-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/238-2015-69992906
+  date: '2015-08-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:42Z'
   warnings: []
   errors: []
 ---
@@ -134,6 +147,6 @@ Vértice F: M = -36,000 m; P = -263,020 m.
 
 Ministérios do Planeamento e da Administração do Território, da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 26 de Abril de 1994.**
+Assinada em 26 de Abril de 1994.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.

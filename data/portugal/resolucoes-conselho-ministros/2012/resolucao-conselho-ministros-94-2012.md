@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/94/2012/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/94-2012-192037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4118173e565beb5c1d331b23ab9ae8b6a9f675ea2ddf5f5c1979ae46923e986
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e19b26c47d6524f9b580bdc0cac7bda63bb5c45c673f01cb5def4ac3344b823f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Imóveis
-- Direcção Geral de Armamento e Infra-estruturas de Defesa
 - Direção Geral do Tesouro e Finanças
+- Direcção Geral de Armamento e Infra-estruturas de Defesa
 - Direito de Superficie
 - Domínio Privado do Estado
 - Domínio Público Militar
+- Forças Armadas
 - Fundo de Pensões dos Militares das Forças Armadas
 - Gestão do Património
-- Forças Armadas
 - Receita
 relationships:
 - type: cites
@@ -102,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2008/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2008/09/08/p/dre
+- type: cites
+  target: pt:dre:169005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:49Z'
   warnings: []
   errors: []
 ---
@@ -158,4 +182,4 @@ Presidência do Conselho de Ministros, 25 de outubro de 2012. - O Primeiro-Minis
 
 ## ANEXO — (a que se refere o n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21900/0654006543.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21900/0654006543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21900/0654006543.pdf)

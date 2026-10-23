@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/742/1994/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/742-1994-225191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f3d4c447b11f0c30a3576ffd3ba2400e6b24696a8626edb0e5b08908047f136
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e99a95f8e6986c60f8eba4e84eb747a430a90de0f51c258f7f7c2c0023a3472
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:02Z'
   warnings: []
   errors: []
 ---
@@ -103,36 +111,36 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 5 de Julho de 1994.**
+Assinada em 5 de Julho de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 ## ANEXO — Plano de Pormenor - Regulamento
 
 Loteamento do Monte Branco em Montes Velhos
 
-###### Artigo 1.º A zona do Plano fica compreendida entre a Escola Primária do Monte Branco em Montes Velhos e a estrada municipal n.º 527, conforme assinalado nas peças desenhadas.
+Artigo 1.º A zona do Plano fica compreendida entre a Escola Primária do Monte Branco em Montes Velhos e a estrada municipal n.º 527, conforme assinalado nas peças desenhadas.
 
-###### Art. 2.º Serão observadas todas as directivas, normas e regulamentos dos diferentes níveis de planeamento, as do Regulamento Geral das Edificações Urbanas e o articulado deste Regulamento.
+Art. 2.º Serão observadas todas as directivas, normas e regulamentos dos diferentes níveis de planeamento, as do Regulamento Geral das Edificações Urbanas e o articulado deste Regulamento.
 
-###### Art. 3.º O loteamento obedecerá à subdivisão a que correspondem as peças desenhadas dentro da aproximação que o trabalho de campo permitir, sem prejuízo da concepção urbanística global e das cláusulas deste regulamento.
+Art. 3.º O loteamento obedecerá à subdivisão a que correspondem as peças desenhadas dentro da aproximação que o trabalho de campo permitir, sem prejuízo da concepção urbanística global e das cláusulas deste regulamento.
 
-###### Art. 4.º As construções serão do tipo unifamiliar, agrupadas em três blocos de banda contínua, compondo em logradouro comum.
+Art. 4.º As construções serão do tipo unifamiliar, agrupadas em três blocos de banda contínua, compondo em logradouro comum.
 
-###### Art. 5.º As construções terão no máximo dois pisos e garagem acessível a partir das vias públicas.
+Art. 5.º As construções terão no máximo dois pisos e garagem acessível a partir das vias públicas.
 
-###### Art. 6.º A área de implantação da habitação não deverá exceder 60% da área dos lotes, devendo a área excedente ser convenientemente arborizada.
+Art. 6.º A área de implantação da habitação não deverá exceder 60% da área dos lotes, devendo a área excedente ser convenientemente arborizada.
 
-###### Art. 7.º A profundidade da empena não poderá ultrapassar os 16 m.
+Art. 7.º A profundidade da empena não poderá ultrapassar os 16 m.
 
-###### Art. 8.º Será interdita a utilização de materiais exóticos na zona, tais como azulejos nas fachadas e nos guarnecimentos, bem como caixilharias de alumínio em cor natural.
+Art. 8.º Será interdita a utilização de materiais exóticos na zona, tais como azulejos nas fachadas e nos guarnecimentos, bem como caixilharias de alumínio em cor natural.
 
-###### Art. 9.º A cor base e única das fachadas será o branco, sendo permitido o vivo da cor nos guarnecimentos e caixilharias, conforme paleta de cores a fornecer pelo município.
+Art. 9.º A cor base e única das fachadas será o branco, sendo permitido o vivo da cor nos guarnecimentos e caixilharias, conforme paleta de cores a fornecer pelo município.
 
-###### Art. 10.º A cobertura será em telha cerâmica vermelha com beirado.
+Art. 10.º A cobertura será em telha cerâmica vermelha com beirado.
 
-###### Art. 11.º A área definida como zona verde e de lazer não poderá ser utilizada para fins não compatíveis com os seus objectivos.
+Art. 11.º A área definida como zona verde e de lazer não poderá ser utilizada para fins não compatíveis com os seus objectivos.
 
 Quadro de áreas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/187b00/47004701.pdf))](https://files.diariodarepublica.pt/1s/1994/08/187b00/47004701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/187b00/47004701.pdf)

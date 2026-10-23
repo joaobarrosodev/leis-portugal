@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/199/1994/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/199-1994-254239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2b132179851fc32920b7ac30d478c8975991a42fff3d45bb1b2c293e92b067d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31ec0a336879b8b469376d4c834f9aab700b8a1563ccf0891d66bcc586f3f82d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,70 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
+- Arborização
 - CEE
 - Contrato
 - Criação de Serviços
 - Definição de Competências
-- Arborização
 - Exploração Agrícola
-- Política Agrícola Comum
 - Exploração Florestal
-- Regulamento CE
-- Agricultura
+- Financiamento
 - Ifadap
+- Política Agrícola Comum
 - Política Florestal
+- Regulamento CE
 - Unidade de Gestão Nacional
 relationships:
 - type: amended_by
   target: pt:dre:570751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 65/94 DE 10-MAI DR.IS-B [126]3SUPL DE 31/MAI/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PRORROGADO O PRAZO PREVISTO NO NUM 21, PELA PORT 995/94 DE 12-NOV DR.IS-B [262]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUM 1 DO NUM 21 PELA PORT 952/95 DE 04-AGO DR.IS-B [179]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O VALOR DO PRÉMIO REFERIDO NO NUM 9 PELA PORT 1123/95 DE 14-SET DR.IS-B [213]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS NUM 9, 10, NUM 3, 12, 14, 21, 22 E 24, ACTUALIZADOS OS VALORES CONSTANTES DOS ANEXOS E E F E REVOGADOS\
+    \ OS NUM 13, 15, 16, 17, 18, 19 E 20, PELA PORT 216/96 DE 14-JUN DR.IS-B [136]\0PORT 216/96 DE 14-JUN DR.IS-B [136]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-14'
+- type: amended_by
+  target: pt:dre:435044:por
+  label: "Alterados os n.ºs 9 e 10, n.º 2, 12, 14, 21, 22 e 24, e actualizados os valores constantes dos anexos e e f e revogados\
+    \ os n.ºs 13, 15, 16, 17, 18 19, e 20, do presente diploma, pela PORT.216/96.14.06.1996.MADRP, DR.IS-B [136] de 14.06.1996\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/216-1996-435044
+  date: '1996-06-14'
+- type: amended_by
+  target: pt:dre:241269:por
+  label: "Alterado o art. 28º pela PORT.777/98.1998.09.16.MADRP, DR.IS-B [214]8\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/777-1998-241269
+  date: '1998-09-16'
+- type: amended_by
+  target: pt:dre:175799:por
+  label: "Alterados os nºs 3º, 7º e 26º bem como o anexo C, pela PORT.299/2012.01.10.2012.MAMAOT, DR.IS [190] de 01.10.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/299-2012-175799
+  date: '2012-10-01'
 - type: cites
   target: celex:31992R2070
   label: null
@@ -94,16 +138,23 @@ relationships:
   target: celex:31992R2080
   label: null
   source: http://data.europa.eu/eli/reg/1992/2080/oj
+- type: repealed_by
+  target: pt:dre:570751:por
+  label: "Revogado o art. 26.º da presente Portaria, na redação da Port 299/2012, de 01-out, na parte em que se refere ao\
+    \ Regulamento (CEE) n.º 2080/92, do Conselho, de 30 de junho, pela PORT.32/2014.06.02.2014.MAGM, DR.IS [26] de 06.02.2014\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-2014-570751
+  date: '2014-02-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:21:46Z'
   warnings: []
   errors: []
 ---
@@ -440,10 +491,10 @@ Os anexos A a F fazem parte integrante do presente diploma.
 
 Ministério da Agricultura.
 
-**Assinada em 23 de Março de 1994.**
+Assinada em 23 de Março de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
 Do ANEXO A ao ANEXO F
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/080b00/16221632.pdf))](https://files.diariodarepublica.pt/1s/1994/04/080b00/16221632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/080b00/16221632.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/534/1994/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/534-1994-290662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16d09fd779aec9d4109cad308e6f3e478edfc561c041cc35766d2d52452c27dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 354ce32af9722a169ed366a4e9b700dd84f747812dcfa5f169beedc8f7825cb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,63 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcoutim
-- Castro Marim
 - CAÇA
+- Castro Marim
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:639091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484086:por
+  label: "Anexados vários prédios rústicos à zona de caça, com a redacção dada pelas Port 841/97 de 06-Set, 731/99 de 25-Ago\
+    \ e 851/2002 de 13-Jul, pela PORT.1150/2003.02.10.2003.MADRP, DR.IS-B [228] de 02.10.2003\003\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1150-2003-484086
+  date: '1994-07-08'
+- type: amended_by
+  target: pt:dre:642888:por
+  label: "Alterado o nº 1 e aditado um nº 1-A pela Port.841/97.1997.09.06.MADRP DR.IS-B [206]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/841-1997-642888
+  date: '1997-09-06'
+- type: amended_by
+  target: pt:dre:243764:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.741/98.1998.09.10.MADRP DR.IS-B [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1998-243764
+  date: '1998-09-10'
+- type: amended_by
+  target: pt:dre:428852:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.731/99.1999.08.25.MADRP DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/731-1999-428852
+  date: '1999-08-25'
+- type: amended_by
+  target: pt:dre:208673:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.851/2002.2002.07.13.MADRP DR.IS-B [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/851-2002-208673
+  date: '2002-07-13'
+- type: amended_by
+  target: pt:dre:538629:por
+  label: "Transferida para o Clube de Caçadores da Foz de Odeleite a zona de caça associativa de Telhada, renovada a concessão\
+    \ por um período de 12 anos e anexados vários prédios rústicos à referida zona de caça atribuída pelo presente diploma,\
+    \ alterado pelas Port 841/97, de 06-Set, 731/99, de 25-Ago, 851/2002, de 13-Jul e 1150/2003, de 02-Out, pela PORT.765/2006.07.08.2006.MAOTDR,\
+    \ DR.IS [151] de 07.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/765-2006-538629
+  date: '2006-08-07'
+- type: amended_by
+  target: pt:dre:544872:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, com as alterações sucessivas introduzidas\
+    \ pelas Port 841/97 de 06-Set, 741/98 de 10-Set, 731/99 de 25-Ago, 851/2002 de 13-Jul, 1150/2003 de 10-Fev e 765/2006\
+    \ de 07-Ago, pela PORT.1255/2006.28.09.2006.MAOTDR, DR.IS [223] de 20.11.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1255-2006-544872
+  date: '2006-09-28'
+- type: amended_by
+  target: pt:dre:639091:por
+  label: "Desanexados vários prédios rústicos da zona de caça concessionada pelo presente diploma, alterado pelas Ports. 841/97\
+    \ de 06-Set, 741/98 de 10-Set, 731/99 de 25-Ago, 851/2002 de 13-Jul, 1150/2003 de 02-Out, renovada e alterada pela Port\
+    \ 765/2006 de 07-Ago e alterada pela Port 1255/2006 de 20-Nov, pela PORT.701/2007.08.06.2007.MAOTDR, DR.IS [110] de 08.06.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/701-2007-639091
+  date: '2007-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -83,16 +132,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:30:01Z'
   warnings: []
   errors: []
 ---
@@ -127,8 +196,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 20 de Junho de 1994.**
+Assinada em 20 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/156b00/36653665.pdf))](https://files.diariodarepublica.pt/1s/1994/07/156b00/36653665.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/156b00/36653665.pdf)

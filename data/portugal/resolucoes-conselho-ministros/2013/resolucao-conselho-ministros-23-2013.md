@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/23/2013/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-2013-260465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11c78214953df4fddbd93024d7cff00e9efba782b42f1886cb5a5b30fb969dd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c5185ffd5b579038097d24b48a808433c8f6298536531e06f68e4af1cf3de5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,9 +71,9 @@ subjects:
 - Conselho de Ministros
 - Direção Geral do Tesouro e Finanças
 - Empresa Pública
-- Subvenção Pública
 - Governo XIX
 - Serviço Público
+- Subvenção Pública
 relationships:
 - type: cites
   target: celex:32007R1370
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:08Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +133,8 @@ Presidência do Conselho de Ministros, 4 de abril de 2013. - O Primeiro-Ministro
 
 ## ANEXO I — (a que se refere os n.os 7 e 11)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0209302095.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0209302095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0209302095.pdf)
 
 ## ANEXO II — (a que se refere o n.º 12)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0209302095.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0209302095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0209302095.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1492/1995/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1492-1995-450269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4781d314a5e28405ea9e425f36f634112bf24344d98279204444c3b7777fd6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 747f4413009b25e13b9c5411dec0f7b7944f0e8f74afaa372af2c67b4e7f49be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,34 @@ reuse:
 subjects:
 - Exército
 - Força Aérea
-- Marinha
-- Serviço Militar
-- Recrutamento de Pessoal
 - Forças Armadas
+- Marinha
 - Militar
+- Recrutamento de Pessoal
+- Serviço Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/1992/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/143/1992/07/20/p/dre
+- type: cites
+  target: pt:dre:292114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356354:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:23Z'
   warnings: []
   errors: []
 ---
@@ -110,14 +118,14 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 Ministério da Defesa Nacional.
 
-**Assinada em 17 de Novembro de 1995.**
+Assinada em 17 de Novembro de 1995.
 
-**O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino.**
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino.
 
 ## ANEXO I — Contingente a incorporar em 1996
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/300b00/82808280.pdf))](https://files.diariodarepublica.pt/1s/1995/12/300b00/82808280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/300b00/82808280.pdf)
 
 ## ANEXO II — Turnos de incorporação em 1996
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/300b00/82808280.pdf))](https://files.diariodarepublica.pt/1s/1995/12/300b00/82808280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/300b00/82808280.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/20/2013/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/20-2013-260463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b405ca0b1da0b60a8548e56b920062327e95d89c55d52be5b415e031eced7f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44837f57d726957d89ff8ba098d88cbaffbab31218f06e3cf4919e8f4ba18b03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Eficiência Energética
+- Energia
 - Energia Elétrica
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Política Energética
 - Fundo de Eficiência Energética
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Ministério da Economia e do Emprego
 - Ministério das Finanças
-- Energia
+- Plano Nacional de Ação para a Eficiência Energética
+- Plano Nacional de Ação para as Energias Renováveis
+- Política Energética
 - Produção de Energia Elétrica
 - Programa Internacional de Energia
 - Programa Nacional para as Alterações Climáticas
-- Eficiência Energética
-- Plano Nacional de Ação para as Energias Renováveis
-- Plano Nacional de Ação para a Eficiência Energética
 relationships:
 - type: amended_by
   target: pt:dre:137618093:por
@@ -132,16 +132,23 @@ relationships:
   target: celex:32012L0027
   label: null
   source: http://data.europa.eu/eli/dir/2012/27/oj
+- type: repealed_by
+  target: pt:dre:137618093:por
+  label: Revogados, com efeitos a 01.01.2021, o Plano Nacional de Ação para a Eficiência Energética (PNAEE) e o Plano Nacional
+    de Ação para as Energias Renováveis (PNAER), aprovados e publicados em anexo ao presente diploma, pelo(a) Resolução do
+    Conselho de Ministros n.º 53/2020 - Diário da República n.º 133/2020, Série I de 2020-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/53-2020-137618093
+  date: '2020-07-10'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:04Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +259,7 @@ FIGURA 1
 
 Evolução do consumo de Energia Primária (Mtep), Energia Final (Mtep), Eletricidade (TWh) e Produto Interno Bruto (10(elevado a 6)(euro) 2006)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 1.3 Evolução dos Principais Indicadores Energéticos
 
@@ -308,7 +315,7 @@ e) Contribuir para o aumento da competitividade da economia, através da reduç�
 
 Pretende-se, pois, traçar uma estratégia sustentável de eficiência energética e de exploração de energias renováveis para Portugal contribuindo para uma economia competitiva e de baixo carbono, à luz do panorama económico e tecnológico que marcará a próxima década, procurando sustentá-los num quadro regulatório que viabilize o sucesso da sua consecução de forma realista e pragmática.
 
-# PARTE I — Estratégia para a Eficiência Energética - PNAEE 2016
+## PARTE I — Estratégia para a Eficiência Energética - PNAEE 2016
 
 1. Enquadramento e Objetivos
 
@@ -344,7 +351,7 @@ O PNAEE de 2008 estabeleceu como meta uma redução de consumo de energia final 
 
 Programa original do PNAEE (2008)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 A ENE 2020, aprovada pela Resolução do Conselho de Ministros n.º 29/2010, de 15 de abril, veio posteriormente definir uma meta de redução de consumo da energia final de 20% até 2020.
 
@@ -360,7 +367,7 @@ TABELA 1
 
 Resumo das poupanças totais alcançadas com o PNAEE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.1 Transportes
 
@@ -376,7 +383,7 @@ TABELA 2
 
 Poupanças alcançadas com o programa "Renove Carro"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.1.2 Mobilidade Urbana
 
@@ -392,7 +399,7 @@ TABELA 3
 
 Poupanças alcançadas com o programa "Mobilidade Urbana"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.1.3 Sistema de Eficiência Energética nos Transportes
 
@@ -402,7 +409,7 @@ TABELA 4
 
 Poupanças alcançadas com o programa "Sistema de Eficiência Energética nos Transporte"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.2 Residencial e Serviços
 
@@ -422,7 +429,7 @@ TABELA 5
 
 Poupanças alcançadas com o programa "Renove Casa & Escritório"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.2.2 Sistema de Eficiência Energética nos Edifícios
 
@@ -434,7 +441,7 @@ TABELA 6
 
 Poupanças alcançadas com o programa "Sistema de Eficiência Energética nos Edifícios"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.2.3 Renováveis na Hora e Programa Solar
 
@@ -450,7 +457,7 @@ TABELA 7
 
 Poupanças alcançadas com o programa "Renováveis na Hora"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.3 Indústria
 
@@ -468,7 +475,7 @@ TABELA 8
 
 Poupanças alcançadas com o programa "Sistema de Eficiência Energética na Indústria"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.4 Estado
 
@@ -486,7 +493,7 @@ TABELA 9
 
 Poupanças alcançadas com o programa "Eficiência Energética no Estado"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.5 Comportamentos
 
@@ -502,7 +509,7 @@ TABELA 10
 
 Poupanças alcançadas com o programa "Comunicar Eficiência Energética"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3. Áreas, Programas e Medidas do PNAEE 2016
 
@@ -512,7 +519,7 @@ TABELA 11
 
 Áreas e programas do PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 A área dos Transportes integra os seguintes programas de melhoria da eficiência energética:
 
@@ -544,7 +551,7 @@ TABELA 12
 
 Resumo dos impactos do PNAEE 2016 por programa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.1 Transportes
 
@@ -598,7 +605,7 @@ TABELA 13
 
 Impacto do programa "Eco Carro" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Programa Tp2 - Mobilidade Urbana
 
@@ -652,7 +659,7 @@ TABELA 14
 
 Impacto do programa «Mobilidade Urbana» no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Programa Tp3 - Sistema de Eficiência Energética nos Transportes
 
@@ -696,7 +703,7 @@ TABELA 15
 
 Impacto do programa "Sistema de Eficiência Energética nos Transportes" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.1.2 Síntese das Medidas do Setor dos Transportes
 
@@ -704,7 +711,7 @@ TABELA 16
 
 Impacto do setor dos Transportes no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.2 Residencial e Serviços
 
@@ -746,7 +753,7 @@ TABELA 17
 
 Rotulagem energética dos equipamentos em vigor em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 O PNAEE de 2008 abrangia apenas o frio doméstico e as máquinas de tratamento de roupa, deixando de fora um elevado potencial de redução de consumos em outros equipamentos. O PNAEE 2016 pretende abranger, para além dos equipamentos que contam da tabela acima, todos os novos produtos que vierem a ser sujeitos a rotulagem energética durante o período de vigência do Plano.
 
@@ -758,7 +765,7 @@ TABELA 18
 
 Implicações da Diretiva Ecodesign no mercado de equipamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Finalmente, são ainda previstas medidas de contingência de desincentivo à aquisição de equipamentos ineficientes, através da possibilidade de aplicação de penalizações sobre a comercialização de produtos de baixa eficiência energética, caso se verifique que as ações de informação através de rotulagem e de imposição de requisitos mínimos na conceção ecológica dos equipamentos não são suficientes, só por si, para proporcionar uma maior eficiência energética em determinados segmentos de produtos.
 
@@ -770,7 +777,7 @@ TABELA 19
 
 Impacto da medida "Promoção de equipamentos mais eficientes" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -778,11 +785,11 @@ TABELA 20
 
 Variáveis consideradas na metodologia de seguimento da medida RSp1m1 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 RSp1m2 - Iluminação eficiente
 
@@ -800,7 +807,7 @@ TABELA 21
 
 Impacto da medida "Iluminação eficiente" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -808,11 +815,11 @@ TABELA 22
 
 Variáveis consideradas na metodologia de seguimento da medida RSp1m2 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 RSp1m3 - Janela Eficiente
 
@@ -832,7 +839,7 @@ TABELA 23
 
 Impacto da medida "Janela Eficiente" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -840,11 +847,11 @@ TABELA 24
 
 Variáveis consideradas na metodologia de seguimento da medida RSp1m3 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 RSp1m4 - Isolamento Eficiente
 
@@ -862,7 +869,7 @@ TABELA 25
 
 Impacto da medida "Isolamento Eficiente" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -870,11 +877,11 @@ TABELA 26
 
 Variáveis consideradas na metodologia de seguimento da medida RSp1m4 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 RSp1m5 - Calor Verde
 
@@ -892,7 +899,7 @@ TABELA 27
 
 Impacto da medida "Calor Verde" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -900,11 +907,11 @@ TABELA 28
 
 Variáveis consideradas na metodologia de seguimento da medida RSp1m5 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Programa RSp2 - Sistema de Eficiência Energética nos Edifícios
 
@@ -938,7 +945,7 @@ TABELA 29
 
 Impacto da medida "SCE Edifícios Residenciais" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -946,7 +953,7 @@ TABELA 30
 
 Variáveis consideradas na metodologia de seguimento da medida RSp2m1 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
@@ -974,7 +981,7 @@ TABELA 31
 
 Impacto da medida "SCE Edifícios de Serviços" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -982,7 +989,7 @@ TABELA 32
 
 Variáveis consideradas na metodologia de seguimento da medida RSp2m2 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
@@ -1006,7 +1013,7 @@ TABELA 33
 
 Impacto da medida "Solar Térmico Residencial" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1014,11 +1021,11 @@ TABELA 34
 
 Variáveis consideradas na metodologia de seguimento da medida RSp3m1 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 RSp3m2 - Solar Térmico Serviços
 
@@ -1032,7 +1039,7 @@ TABELA 35
 
 Impacto da medida "Solar Térmico Serviços" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1040,11 +1047,11 @@ TABELA 36
 
 Variáveis consideradas na metodologia de seguimento da medida RSp3m2 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.2.2 Síntese das Medidas no Setor Residencial e Serviços
 
@@ -1052,7 +1059,7 @@ TABELA 37
 
 Impacto do setor Residencial e Serviços no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.3 Indústria
 
@@ -1086,7 +1093,7 @@ Iluminação;
 
 Outras medidas para a eficiência energética do processo industrial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Estas medidas foram agrupadas dada a sua aplicabilidade generalizada nos setores abrangidos pelo regulamento.
 
@@ -1096,7 +1103,7 @@ TABELA 38
 
 Impacto da medida "SGCIE Medidas transversais" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1104,7 +1111,7 @@ TABELA 39
 
 Variáveis consideradas na metodologia de seguimento da medida Ip1m1 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
@@ -1114,7 +1121,7 @@ Ip1m2 - SGCIE Medidas Específicas
 
 Para além das medidas transversais, foram identificadas, para um conjunto significativo de setores da indústria, um conjunto de Medidas Específicas ou Setoriais que traduzem atuações possíveis, apenas aplicáveis nos respetivos processos produtivos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Resultados
 
@@ -1122,7 +1129,7 @@ TABELA 40
 
 Impacto da medida «SGCIE Medidas específicas» no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1130,7 +1137,7 @@ TABELA 41
 
 Variáveis consideradas na metodologia de seguimento da medida Ip1m2 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
@@ -1146,7 +1153,7 @@ TABELA 42
 
 Impacto da medida "SGCIE Outros setores" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1154,7 +1161,7 @@ TABELA 43
 
 Variáveis consideradas na metodologia de seguimento da medida Ip1m3 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
@@ -1166,7 +1173,7 @@ TABELA 44
 
 Impacto do setor da Indústria no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.4 Estado
 
@@ -1194,7 +1201,7 @@ TABELA 45
 
 Impacto da medida "Certificação Energética dos Edifícios do Estado e Contratos de Gestão de Eficiência Energética" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1202,7 +1209,7 @@ TABELA 46
 
 Variáveis consideradas na metodologia de seguimento da medida Ep1m1 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
@@ -1234,7 +1241,7 @@ TABELA 47
 
 Impacto da medida «Planos de Ação de Eficiência Energética na Administração Pública - ECO.AP» no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1242,7 +1249,7 @@ TABELA 48
 
 Variáveis consideradas na metodologia de seguimento da medida Ep1m2 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
@@ -1260,7 +1267,7 @@ TABELA 49
 
 Impacto da medida "Transportes mais eficientes no Estado" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1268,11 +1275,11 @@ TABELA 50
 
 Variáveis consideradas na metodologia de seguimento da medida Ep1m3 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Ep1m4 - Iluminação Publica Eficiente
 
@@ -1292,7 +1299,7 @@ TABELA 51
 
 Impacto da medida «Iluminação Pública Eficiente» no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.4.2 Síntese das Medidas no Setor Estado
 
@@ -1300,7 +1307,7 @@ TABELA 52
 
 Impacto do setor Estado no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.5 Comportamentos
 
@@ -1336,7 +1343,7 @@ TABELA 53
 
 Impacto da medida "Energia nas Escolas" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1344,7 +1351,7 @@ TABELA 54
 
 Variáveis consideradas na metodologia de seguimento da medida Cp1m1 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Cp1m2 - Energia nos Transportes
 
@@ -1364,7 +1371,7 @@ TABELA 55
 
 Impacto da medida "Energia nos Transportes" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1382,7 +1389,7 @@ TABELA 56
 
 Impacto da medida "Energia em Casa" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1390,7 +1397,7 @@ TABELA 57
 
 Variáveis consideradas na metodologia de seguimento da medida Cp1m3 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Cp1m4 - Energia no trabalho
 
@@ -1406,7 +1413,7 @@ TABELA 58
 
 Impacto da medida "Energia no Trabalho" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1414,7 +1421,7 @@ TABELA 59
 
 Variáveis consideradas na metodologia de seguimento da medida Cp1m4 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Cp1m5 - Contadores Inteligentes
 
@@ -1428,7 +1435,7 @@ TABELA 60
 
 Impacto da medida "Contadores Inteligentes" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Metodologia de seguimento (Bottom-up)
 
@@ -1436,11 +1443,11 @@ TABELA 61
 
 Variáveis consideradas na metodologia de seguimento da medida Cp1m5 no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fórmula de cálculo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.5.2 Síntese das medidas no Setor Comportamentos
 
@@ -1448,7 +1455,7 @@ TABELA 62
 
 Impacto do setor Comportamentos no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.6 Setor Agrário
 
@@ -1476,7 +1483,7 @@ TABELA 63
 
 Outras medidas a considerar no setor agrário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 No total, foi estimado um potencial de cerca de 40 mil tep de economia de energia para o horizonte de 2020 e de 30 mil tep para o horizonte de 2016.
 
@@ -1486,7 +1493,7 @@ TABELA 64
 
 Impacto da medida "Eficiência Energética no setor Agrário" no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.6.2 Síntese das Medidas no Setor Agrícola
 
@@ -1494,7 +1501,7 @@ TABELA 65
 
 Impacto do setor Agrícola no PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 4. Síntese Global do PNAEE
 
@@ -1506,13 +1513,13 @@ TABELA 66
 
 Síntese global dos impactos do PNAEE 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 FIGURA 2
 
 Previsão das poupanças a alcançar (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fonte: DGEG
 
@@ -1520,7 +1527,7 @@ FIGURA 3
 
 Previsão do consumo de energia primária e final (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fonte: DGEG
 
@@ -1528,7 +1535,7 @@ FIGURA 4
 
 Previsão do consumo de energia primária (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fonte: DGEG
 
@@ -1564,7 +1571,7 @@ TABELA 67
 
 Impacto do PNAEE 2016 em economias de Energia Primária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Relativamente ao impacto dos programas e medidas previsto no PNAEE 2016 sobre a redução das emissões de gases com efeito de estufa, foi feita uma desagregação do peso das formas de energia em cada uma das Áreas consideradas: Eletricidade e Produtos Derivados de Petróleo. Os valores obtidos foram posteriormente convertidos em toneladas de CO(índice 2) equivalente evitadas, numa estimativa inicial do impacto, tendo sido utilizado neste exercício, para os dois períodos de 2016-2020, um preço para a tonelada de CO(índice 2) de 10 (euro). O cálculo das reduções de emissões de gases com efeito de estufa associadas ao PNAEE 2016 será futuramente avaliado em detalhe no âmbito do PNAC 2020.
 
@@ -1572,7 +1579,7 @@ TABELA 68
 
 Impacto do PNAEE 2016 nas emissões de CO(índice 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Em resumo, os benefícios económicos resultantes das economias de energia e da redução das emissões associadas de gases com efeito de estufa têm um impacto económico para o país muito positivo, estimados para 2016 em cerca de 410 M(euro) e, para 2020, em quase 855 M(euro).
 
@@ -1582,7 +1589,7 @@ A tarefa de monitorização envolve o controlo do cumprimento das metas definida
 
 O método bottom-up utiliza metodologias específicas por cada medida (quando possível), tendo por base uma série de critérios e pressupostos que permitem estimar os impactos em energia final e primária resultantes da implementação da medida. Ao mostrar a relação de causalidade entre medidas e impactos, permite uma análise custo-benefício em função do investimento realizado para efeitos de promoção da medida. Desta forma, é possível desenvolver e atualizar periodicamente uma lista de mérito das medidas que se encontram em implementação. Contudo, a natureza inerente ao método bottom-up não permite monitorizar todo o universo de medidas e a validade dos pressupostos das metodologias desenvolvidas é suscetível de pôr em causa a veracidade dos impactos monitorizados. O método top-down responde a esta lacuna na monitorização, através de um conjunto de indicadores de eficiência energética que permitem monitorizar, de uma forma sub-setorial, as economias que se estão a verificar face a um ano de referência. Os indicadores exigem, para isso, informação agregada dos consumos energéticos sub-setoriais assim como indicadores de atividade aos quais os consumos estão associados expurgando, tanto quanto possível, efeitos que não se devem a eficiência energética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fonte: Diretiva [2006/32/CE](https://data.europa.eu/eli/dir/2006/32/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de abril; "Recomendações para uma Estratégia Sustentável de Eficiência Energética e Exploração de Energias Renováveis para Portugal", 2012, A.T. Kearney/INESC Porto
 
@@ -1596,7 +1603,7 @@ TABELA 69
 
 Indicadores Top-Down no setor dos Transportes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Indicadores Top-Down para o Residencial e Serviços
 
@@ -1604,7 +1611,7 @@ TABELA 70
 
 Indicadores Top-Down no setor Residencial e Serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Indicadores Top-Down para a Indústria
 
@@ -1612,7 +1619,7 @@ TABELA 71
 
 Indicadores Top-Down no setor Indústria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Indicadores Top-Down para o Estado
 
@@ -1620,7 +1627,7 @@ TABELA 72
 
 Indicadores Top-Down no setor Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Indicadores Top-Down para os Comportamentos
 
@@ -1628,11 +1635,11 @@ TABELA 73
 
 Indicadores Top-Down no setor dos Comportamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 (1) Foi considerado para a simulação relativa aos benefícios energéticos a alcançar até 2016, um preço médio de 76,9 (euro)/Barril. Para 2020 a redução da importação de petróleo foi calculada a um custo médio de 86,2 (euro)/Barril.
 
-# PARTE II — Estratégia para as Energias Renováveis - PNAER 2020
+## PARTE II — Estratégia para as Energias Renováveis - PNAER 2020
 
 1. Enquadramento e Objetivos
 
@@ -1674,7 +1681,7 @@ FIGURA 5
 
 Evolução prevista do consumo final bruto de energia (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 As projeções do consumo energético no Cenário de Referência e no Cenário de Eficiência Energética Adicional foram calculadas com base no modelo LEAP (Long Range Energy Alternatives Planning System), programado para ter como referência o ano de 2010, tendo por base toda a informação estatística do setor energético existente até esta data.
 
@@ -1682,7 +1689,7 @@ QUADRO 1
 
 Consumo final bruto de energia previsto em aquecimento e arrefecimento, eletricidade e transportes até 2020, tendo em conta os efeitos das medidas em matéria de eficiência energética e poupança de energia 2010-2020 (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 2.2 Linhas de Ação
 
@@ -1718,7 +1725,7 @@ QUADRO 2
 
 Medidas previstas e em vigor, por setor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3. Contributo Total Previsível de Cada Tecnologia para Alcançar os Objetivos Obrigatórios de 2020 e Trajetória Indicativa das Quotas de FER nos Setores da Eletricidade, do Aquecimento e Arrefecimento e dos Transportes
 
@@ -1732,7 +1739,7 @@ FIGURA 6
 
 Histórico da evolução da potência instalada FER em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fonte: DGEG
 
@@ -1740,7 +1747,7 @@ FIGURA 7
 
 Histórico da evolução da produção real de energia elétrica a partir de FER em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fonte: DGEG
 
@@ -1750,7 +1757,7 @@ QUADRO 3
 
 Estimativa do contributo total de cada tecnologia baseada em FER para alcançar os objetivos obrigatórios de 2020 e trajetória indicativa das quotas provenientes de FER no setor da eletricidade em 2010-2014
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 De salientar que o Quadro 3 apresenta a estimativa do contributo total de cada tecnologia baseada em FER para alcançar os objetivos obrigatórios de 2020, mas não inclui os projetos de produção de energia com base em fontes renováveis que irão ser realizados ao abrigo do Decreto-Lei n.º 215-B/2012, de 8 de outubro, sem sobrecustos para o SEN, e cuja disseminação contará com a disponibilização de fundos comunitários.
 
@@ -1760,25 +1767,25 @@ FIGURA 8
 
 Evolução estimada da capacidade instalada FER
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 FIGURA 9
 
 Evolução estimada da produção de eletricidade FER
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 FIGURA 10
 
 Evolução da entrada de nova capacidade a partir de FER no sistema eletroprodutor nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.1.1 Energia Eólica
 
 Nos últimos anos tem vindo a verificar-se um forte desenvolvimento da energia eólica em Portugal, tendo a potência instalada aumentado dos 1.063 MW em 2005 para 4.378 MW em 2011. Esta progressão da potência instalada tenderá a abrandar até 2020, dado o abrandamento da procura de energia. Neste cenário, prevê-se que se encontrem instalados, até 2020, 5.300 MW de potência eólica, sendo 5.273 MW referentes a potencial eólico onshore.
 
-# Parte da aposta na energia eólica deve-se à possibilidade da criação de sinergias entre hídrica reversível e eólica, de forma a otimizar os recursos endógenos e assegurar maior eficácia da gestão do sistema eletroprodutor. Prevê-se ainda a instalação de mais 400 MW de potência, através da simplificação dos procedimentos para a instalação do sobreequipamento dos parques atualmente existentes, proporcionada pelo Decreto-Lei n.º 51/2010, de 20 de maio, de modo a aumentar a respetiva disponibilidade, com vantagens para a gestão das infraestruturas de rede. O mesmo diploma revê ainda os respetivos regimes remuneratórios e prevê a obrigação de instalação de equipamentos destinados a suportar cavas de tensão.
+Parte da aposta na energia eólica deve-se à possibilidade da criação de sinergias entre hídrica reversível e eólica, de forma a otimizar os recursos endógenos e assegurar maior eficácia da gestão do sistema eletroprodutor. Prevê-se ainda a instalação de mais 400 MW de potência, através da simplificação dos procedimentos para a instalação do sobreequipamento dos parques atualmente existentes, proporcionada pelo Decreto-Lei n.º 51/2010, de 20 de maio, de modo a aumentar a respetiva disponibilidade, com vantagens para a gestão das infraestruturas de rede. O mesmo diploma revê ainda os respetivos regimes remuneratórios e prevê a obrigação de instalação de equipamentos destinados a suportar cavas de tensão.
 
 A exploração do potencial eólico offshore deverá ter, até 2020, pouca expressão na contribuição para a produção de energia elétrica, na medida em que a exploração deste recurso se encontra ainda dependente do desenvolvimento tecnológico e da viabilidade económica dos respetivos equipamentos e sistemas, incluindo infraestruturas de apoio. De entre as tecnologias existentes, as estruturas flutuantes de suporte das torres são as que mais se adequam às condições da costa portuguesa, de elevada batimetria, encontrando-se já em fase de testes, tendo sido instalado um protótipo de 2 MW, que até ao momento tem apresentado um bom desempenho.
 
@@ -1798,7 +1805,7 @@ TABELA 74
 
 Cronograma de entrada em serviço de novos centros produtores hídricos e reforços de potência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fonte: DGEG
 
@@ -1862,7 +1869,7 @@ QUADRO 4
 
 Estimativa do contributo total de cada tecnologia baseada em FER para alcançar os objetivos obrigatórios de 2020 e trajetória indicativa das quotas de provenientes de FER no setor do aquecimento e arrefecimento em 2010-2020 (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 * Prevê-se a partir de 2012 um contributo das bombas de calor renováveis, de momento ainda não quantificável, dado que se aguarda a definição do conceito por parte da Comissão Europeia.
 
@@ -1878,7 +1885,7 @@ FIGURA 11
 
 Evolução estimada do parque de novos coletores solares térmicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.2.2 Biomassa
 
@@ -1906,7 +1913,7 @@ QUADRO 5
 
 Estimativa do contributo total de cada tecnologia baseada em FER para alcançar os objetivos obrigatórios de 2020 e trajetória indicativa das quotas de provenientes de FER no setor dos transportes em 2010-2020 (ktep)(13)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 A meta do setor dos transportes será cumprida em 2020, em termos reais, com 4,5% de biocombustíveis substitutos da gasolina, 87% de biocombustíveis substitutos do gasóleo e 8,5% de eletricidade de origem renovável.
 
@@ -1914,13 +1921,13 @@ FIGURA 12
 
 Estimativa da evolução da contribuição das diferentes FER no setor dos Transportes (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 FIGURA 13
 
 Evolução da estimativa da contribuição das diferentes fontes de energia no setor dos transportes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.3.1 Mobilidade Elétrica
 
@@ -1934,13 +1941,13 @@ FIGURA 14
 
 Evolução do parque de veículos elétricos em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 FIGURA 15
 
 Evolução do consumo de Eletricidade no transporte rodoviário (MWh)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 3.3.2 Biocombustíveis
 
@@ -1952,7 +1959,7 @@ FIGURA 16
 
 Evolução da capacidade de produção de biodiesel em Portugal (ton/ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Fonte: DGEG
 
@@ -1962,7 +1969,7 @@ TABELA 75
 
 Percentagens de incorporação de biocombustíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Assim, a obrigação de incorporação de biodiesel no gasóleo rodoviário e a regulamentação da venda de misturas mais ricas em teor de biocombustível até 20 % (v/v), visa impulsionar o desenvolvimento da fileira dos biocombustíveis em Portugal e o cumprimento das metas de introdução deste tipo de combustíveis no consumo nacional.
 
@@ -2006,13 +2013,13 @@ QUADRO 6
 
 Objetivo global nacional para a quota de energia proveniente de fontes renováveis no consumo final bruto de energia em 2005 e 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 FIGURA 17
 
 Evolução verificada da quota global de FER no consumo final bruto de energia em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Para o horizonte 2013-2020, é expectável que se continue a verificar uma evolução favorável da meta global de utilização de FER, com vista ao cumprimento da meta estipulada para 2020, dado o abrandamento da procura de energia aliado a uma aposta séria e contínua na promoção das energias renováveis nos diversos setores. A figura seguinte mostra a evolução da meta global prevista até 2020 no Cenário de Referência.
 
@@ -2020,7 +2027,7 @@ FIGURA 18
 
 Evolução da estimativa de energia proveniente de fontes renováveis no consumo bruto de energia final (cenário de Referência)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 O Cenário de Eficiência Energética Adicional, que tem em conta os efeitos do PNAEE 2016, apresenta a seguinte evolução da meta global de incorporação de FER no consumo final bruto de energia prevista até 2020:
 
@@ -2028,7 +2035,7 @@ FIGURA 19
 
 Evolução da estimativa de energia proveniente de fontes renováveis no consumo bruto de energia final (cenário de Eficiência Energética Adicional)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Em ambos os cenários, Portugal cumpre a meta global de FER antes de 2020: no Cenário de Referência, em 2017 e no Cenário de Eficiência Energética Adicional, em 2015.
 
@@ -2042,7 +2049,7 @@ FIGURA 20
 
 Evolução verificada das trajetórias e objetivos setoriais em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Na figura seguinte está representada a evolução da contribuição das FER nos vários setores considerados pela Diretiva Energias Renováveis para o período 2010-2020, no Cenário de Referência:
 
@@ -2050,7 +2057,7 @@ FIGURA 21
 
 Evolução da estimativa da trajetória da energia proveniente de FER nos setores do aquecimento e arrefecimento, eletricidade e transportes (Cenário de Referência)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 No Cenário de Eficiência Energética Adicional, a evolução prevista da contribuição das FER nos vários setores para o período 2010-2020 é a seguinte:
 
@@ -2058,7 +2065,7 @@ FIGURA 22
 
 Evolução da estimativa da trajetória da energia proveniente de FER nos setores do aquecimento e arrefecimento, eletricidade e transportes (Cenário de Eficiência Energética Adicional).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 Para 2020 estima-se que a contribuição das FER no setor do aquecimento e arrefecimento se situe entre 33,6% e 35,9%, entre 49,6% e 59,6% no setor da eletricidade e entre 11,1% e 11,3% no setor dos transportes, consoante seja considerado o Cenário de Referência ou Cenário de Eficiência Energética Adicional.
 
@@ -2070,19 +2077,19 @@ QUADRO 7
 
 Objetivo nacional para 2020 e estimativa da trajetória da energia proveniente de fontes renováveis nos setores do aquecimento e arrefecimento, eletricidade e transportes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 QUADRO 8
 
 Quadro de cálculo da contribuição das FER em cada setor para o consumo de energia final (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 QUADRO 9
 
 Quadro de cálculo das energias renováveis na quota dos transportes (ktep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 5. Regimes de Promoção da Utilização de Energia proveniente de FER
 
@@ -2168,7 +2175,7 @@ QUADRO 10
 
 Estimativa dos custos e benefícios das medidas de apoio da política de energias renováveis (2010-2020)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07000/0202202091.pdf)
 
 7. Monitorização
 
@@ -2182,7 +2189,7 @@ a) Até 2014, deve ser realizado um controlo anual, implementando e reforçando 
 
 b) Em 2015, dependendo dos valores verificados em 2014, pode ser equacionada a entrada de potência adicional no parque eletroprodutor para o cumprimento dos objetivos.
 
-# PARTE III — Lista de abreviaturas
+## PARTE III — Lista de abreviaturas
 
 A&A - Aquecimento e/ou arrefecimento
 

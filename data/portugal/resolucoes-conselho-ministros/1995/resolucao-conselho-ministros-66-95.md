@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/1995/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-1995-465060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd34a7fc2c1f04cb24a032bee54270aec44f7208260e4149385c64c6a08c430a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 574f5365bd6c8833d7c993b71f40186ccb26d378d45f19263c945913d2e48071
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Plano Director Municipal
 - Ovar
+- Plano Director Municipal
 - Política de Solos
 - Regulamento
 relationships:
@@ -75,6 +75,60 @@ relationships:
   target: pt:dre:628805:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274234:por
+  label: "Alterado o Plano Director Municipal ratificado pelo presente diploma pela RES.29/2000.2000.04.27.PCM DR.IS-B [114]\
+    \ de 17/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/29-2000-274234
+  date: '2000-04-27'
+- type: amended_by
+  target: pt:dre:565404:por
+  label: "Ratificado o Plano de Pormenor do Carregal do Norte, publicado em anexo o regulamento, respectivos quadros, planta\
+    \ de implantação e planta de condicionantes, ficando alterado na área de intervenção do citado Plano, o Plano Director\
+    \ Municipal de Ovar ratificado pelo presente diploma, alterado pela Res 29/2000 de 17-Mai, pela RES.78/2005.07.12.2004.PCM,\
+    \ DR.IS-B [61] de 29.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/78-2005-565404
+  date: '2004-12-07'
+- type: amended_by
+  target: pt:dre:694239:por
+  label: "Ratificado o Plano de Pormenor do Núcleo Desportivo a Norte de Ovar, ficando revogadas, na área de intervenção do\
+    \ citado plano, as disposições do Plano Director Municipal de Ovar, ratificado pelo presente diploma, com alterações ratificadas\
+    \ pela Res 29/2000 de 17-Mai e registadas e tornadas públicas pela Decl 96/2004(2ª.Série) de 24-Abr, pela RES.23/2006.09.02.2006.PCM,\
+    \ DR.IS-B [42] de 28.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/23-2006-694239
+  date: '2006-02-09'
+- type: amended_by
+  target: pt:dre:520591:por
+  label: "Ratificada a revisão do Plano de Pormenor da Zona Envolvente a Norte de Ovar (cuja aprovação foi tornada pública\
+    \ pela Decl DD72 de 2ª.série de 25-Fev 1992), ficando alteradas, na área de intervenção do citado plano, as disposições\
+    \ escritas e gráficas do Plano Director Municipal de Ovar, ratificado pelo presente diploma,com alterações ratificadas\
+    \ pelas Res 29/2000 de 17-Mai, 23/2006 de 28-Fev, 78/2005 de 29-Mar, bem como as alterações tornadas públicas pela Decl\
+    \ 96/2004(2ª.Série) de 24-Abr, pela RES.70/2007.05.04.2007.PCM, DR.IS [99] de 23.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/70-2007-520591
+  date: '2007-04-05'
+- type: amended_by
+  target: pt:dre:628805:por
+  label: "Ratificado o Plano de Pormenor da Ponte Reada, no município de Ovar, para cuja área de intervenção vigora o Plano\
+    \ Director Municipal de Ovar (PDM), ratificado pelo presente diploma, com as alterações ratificadas pelas Res 29/2000,\
+    \ de 17-Maio, 78/2005, de 29-Mar, 23/2006, de 28-Fev, e 70/2007, de 23-Maio, da PCM, bem como as alterações tornadas públicas\
+    \ pelas Decl DD72, de 25-Fev de 1992, e Decl 96/2004 (2ª Série), de 24-Abr. pela RES.178/2007.11.12.2007.PCM, DR.IS [238]\
+    \ de 11.12.2007, nos termos dos nºs 1, 2 e 3.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/178-2007-628805
+  date: '2007-12-11'
+- type: amended_by
+  target: pt:dre:55076492:por
+  label: Tornada pública a alteração do art. 6.º, do Quadro Regulamentar, das Notas Escritas n.ºs 5, 9, 10 e 13 do Anexo I,
+    e do item Programa do Anexo II, todos do Regulamento do Plano Diretor Municipal de Ovar, ratificado pelo presente diploma,
+    com as alterações ratificadas pelas Res 29/2000 de 17-mai, 78/2005 de 29-mar, 23/2006 de 28-fev, 70/2007 de 23-mai e 178/2007
+    de 11-dez, todas da PCM, pelo(a) Aviso (extrato) n.º 9021/2014 - Diário da República n.º 149/2014, Série II de 2014-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/9021-2014-55076492
+  date: '2014-08-05'
+- type: amended_by
+  target: pt:dre:115534148:por
+  label: Tornada pública a aprovação da alteração dos arts. 3.º e 4.º e do aditamento dos arts. 4.º-A a 4.º-I do Regulamento
+    pelo(a) Aviso n.º 8230/2018 - Diário da República n.º 115/2018, Série II de 2018-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8230-2018-115534148
+  date: '2018-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1994/01/13/p/dre
   label: null
@@ -115,16 +169,196 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/860/1993/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/860/1993/09/14/p/dre
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682209:por
+  label: null
+  source: null
 article_structure:
   article_count: 56
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:15Z'
   warnings: []
   errors: []
 ---
@@ -359,7 +593,7 @@ De acordo com o [Decreto n.º 42049](https://diariodarepublica.pt/dr/detalhe/dec
 
 1 - Para efeitos da aplicação deste Regulamento, são consideradas, em função do uso dominante, as seguintes classes e categorias (subclasses) de espaços, assinaladas na planta de ordenamento e constituindo os elementos da estrutura espacial de ordenamento do concelho:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/157b00/43424355.pdf))](https://files.diariodarepublica.pt/1s/1995/07/157b00/43424355.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/157b00/43424355.pdf)
 
 2 - O conjunto das parcelas do território classificadas como espaço urbano, espaço praia, espaço industrial e espaço natural turístico é, para efeitos da aplicação do presente Regulamento, designado como áreas de ocupação urbanística (AOU).
 
@@ -775,7 +1009,7 @@ e) Qualquer ajustamento só terá eficácia depois de aprovado pela Câmara Muni
 
 ## ANEXO I — Quadro regulamentar e notas escritas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/157b00/43424355.pdf))](https://files.diariodarepublica.pt/1s/1995/07/157b00/43424355.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/157b00/43424355.pdf)
 
 Notas escritas
 
@@ -967,4 +1201,4 @@ Unidades de alojamento. - É equivalente ao número de camas individuais, não c
 
 Terreno arborizado. - Todos os terrenos deverão ser plantados segundo um certo índice mínimo, a fim de evitar os terrenos vagos e incultos. A escolha das espécies fica livre, permitindo-se mesmo certas culturas utilitárias ou certas plantações ultraeconómicas de espécies naturais, em que as despesas das plantações poderão ser compensadas pela economia da não execução de vedações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/157b00/43424355.pdf))](https://files.diariodarepublica.pt/1s/1995/07/157b00/43424355.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/157b00/43424355.pdf)

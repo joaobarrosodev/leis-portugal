@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/50/1993/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1993-260596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4a183808c3d674444defe2b627c55e79a36a7abbc4656ba5bbc4e0a01e63562
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: add4f9920028f88fa79a89b0e30e309e222cfa61bd50b9057f97fbede015d46a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cuba.alentejo
 - Ordenamento do Território
 - Plano Director Municipal
-- Cuba.alentejo
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
 - Protecção do Património
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA COM PUBLICAÇÃO DAS PLANTAS ANEXAS, PELA DECLARAÇÃO DE RECTIFICAÇÃO 102-A/93, DE 8 DE JUNHO, PUBLICADA\
+    \ NO DR.IS-B, 133 SUPL.\033 SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-08'
+- type: amended_by
+  target: pt:dre:122305695:por
+  label: Tornado público o Plano de Pormenor da Herdade da Cegonha, do Plano Diretor Municipal (PDM) de Cuba, ratificado pela
+    presente Resolução, pelo(a) Aviso n.º 8391/2019 - Diário da República n.º 93/2019, Série II de 2019-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8391-2019-122305695
+  date: '2019-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -96,16 +108,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 40
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:43Z'
   warnings: []
   errors: []
 ---
@@ -138,19 +270,19 @@ Regulamento do Plano Director Municipal de Cuba
 
 ### CAPÍTULO I — Área de intervenção, conteúdo e prazo de vigência do Plano Director Municipal
 
-###### Artigo 1.º - 1 - O Plano Director Municipal aplica-se a toda a área do concelho de Cuba, com os limites expressos na planta de ordenamento à escala 1:25000.
+Artigo 1.º - 1 - O Plano Director Municipal aplica-se a toda a área do concelho de Cuba, com os limites expressos na planta de ordenamento à escala 1:25000.
 
 2 - A planta de ordenamento, a planta de condicionantes e o presente Regulamento constituem os elementos fundamentais do Plano.
 
 3 - São elementos complementares da planta de ordenamento as cartas dos aglomerados urbanos do concelho de Cuba, à escala 1:5000, onde se encontram definidos com maior rigor os respectivos perímetros urbanos e as diferentes classes de uso dominante do solo.
 
-###### Art. 2.º Todas as acções de iniciativa pública, privada ou cooperativa que se traduzam na alteração do uso do solo na área de intervenção do Plano respeitarão obrigatoriamente as disposições do presente Regulamento e da planta de ordenamento.
+Art. 2.º Todas as acções de iniciativa pública, privada ou cooperativa que se traduzam na alteração do uso do solo na área de intervenção do Plano respeitarão obrigatoriamente as disposições do presente Regulamento e da planta de ordenamento.
 
-###### Art. 3.º O prazo máximo de vigência do Plano Director Municipal é de 10 anos a contar da publicação da sua ratificação no Diário da República.
+Art. 3.º O prazo máximo de vigência do Plano Director Municipal é de 10 anos a contar da publicação da sua ratificação no Diário da República.
 
 ### CAPÍTULO II — Conceitos urbanísticos e sua aplicabilidade
 
-###### Art. 4.º - 1 - Para efeitos deste Regulamento e com o intuito de uniformizar a sua aplicabilidade nos planos de urbanização, planos de pormenor e projectos de loteamento, adoptam-se os seguintes conceitos urbanísticos:
+Art. 4.º - 1 - Para efeitos deste Regulamento e com o intuito de uniformizar a sua aplicabilidade nos planos de urbanização, planos de pormenor e projectos de loteamento, adoptam-se os seguintes conceitos urbanísticos:
 
 a) Superfície do terreno (S) - mede a área de projecção do terreno no plano horizontal de referenciação cartográfica;
 
@@ -180,11 +312,11 @@ m) Volumetria máxima - é o volume máximo da edificação por cada unidade de 
 
 #### SECÇÃO I — Espaços canais
 
-###### Art. 5.º Entendem-se por «espaços canais» os corredores activados por infra-estruturas e que têm efeito de barreira física dos espaços que os marginam, definidos na alínea h) do n.º 4 do artigo 28.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
+Art. 5.º Entendem-se por «espaços canais» os corredores activados por infra-estruturas e que têm efeito de barreira física dos espaços que os marginam, definidos na alínea h) do n.º 4 do artigo 28.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
 
 ##### SUBSECÇÃO I — Servidão rodoviária
 
-###### Art. 6.º O regime jurídico que regula a rede nacional de estradas encontra-se expresso no Plano Rodoviário Nacional e no [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), onde se definem duas redes, nomeadamente a rede nacional fundamental e a rede nacional complementar.
+Art. 6.º O regime jurídico que regula a rede nacional de estradas encontra-se expresso no Plano Rodoviário Nacional e no [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), onde se definem duas redes, nomeadamente a rede nacional fundamental e a rede nacional complementar.
 
 1 - A rede nacional complementar no concelho é constituída pela estrada nacional n.º 258-1 (troço compreendido entre Cuba e o limite do concelho de Beja, nas proximidades de São Matias).
 
@@ -204,19 +336,19 @@ Caminho municipal n.º 1008-1;
 
 Caminho municipal n.º 1009.
 
-###### Art. 7.º As faixas de protecção a observar relativamente à rede nacional de estradas variam em função do tipo de ocupação a considerar, devendo respeitar o especificado na legislação existente sobre esta matéria, nomeadamente o [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro, e o [Decreto-Lei n.º 64/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1983-308276), de 3 de Fevereiro.
+Art. 7.º As faixas de protecção a observar relativamente à rede nacional de estradas variam em função do tipo de ocupação a considerar, devendo respeitar o especificado na legislação existente sobre esta matéria, nomeadamente o [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro, e o [Decreto-Lei n.º 64/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1983-308276), de 3 de Fevereiro.
 
-###### Art. 8.º Nas estradas e caminhos municipais em caso algum deverão ser permitidas construções a menos de 5 m da zona da estrada.
+Art. 8.º Nas estradas e caminhos municipais em caso algum deverão ser permitidas construções a menos de 5 m da zona da estrada.
 
-###### Art. 9.º As zonas de respeito definidas nos dois artigos anteriores, quando estas vias atravessam o interior dos perímetros urbanos, são definidas pelos planos de urbanização e ou planos de pormenor através dos respectivos regulamentos.
+Art. 9.º As zonas de respeito definidas nos dois artigos anteriores, quando estas vias atravessam o interior dos perímetros urbanos, são definidas pelos planos de urbanização e ou planos de pormenor através dos respectivos regulamentos.
 
 ##### SUBSECÇÃO II — Servidão ferroviária
 
-###### Art. 10.º É interdita a construção de edificações a distância inferior a 10 m medida a partir da aresta superior da escavação ou da aresta inferior do talude do aterro ou da borda exterior ao caminho. Esta distância pode ser aumentada quando a segurança da circulação ferroviária o exigir ou quando houver necessidade de ampliar as infra-estruturas.
+Art. 10.º É interdita a construção de edificações a distância inferior a 10 m medida a partir da aresta superior da escavação ou da aresta inferior do talude do aterro ou da borda exterior ao caminho. Esta distância pode ser aumentada quando a segurança da circulação ferroviária o exigir ou quando houver necessidade de ampliar as infra-estruturas.
 
 ##### SUBSECÇÃO III — Servidões das redes de distribuição de energia eléctrica e instalações de transformação
 
-###### Art. 11.º Na proximidade de edifícios, as linhas eléctricas de alta tensão deverão observar os seguintes condicionamentos:
+Art. 11.º Na proximidade de edifícios, as linhas eléctricas de alta tensão deverão observar os seguintes condicionamentos:
 
 1) Afastamentos mínimos de 3 m para linhas de tensão nominal igual ou inferior a 60 kV e de 4 m para linhas de tensão nominal ou superior a 60 kV. Estas distâncias deverão ser aumentadas de 1 m quando se tratar de coberturas em terraço;
 
@@ -224,7 +356,7 @@ Caminho municipal n.º 1009.
 
 ##### SUBSECÇÃO IV — Servidões do sistema de captação, adução e distribuição de água
 
-###### Art. 12.º Esta área de jurisdição visa o estabelecimento de condicionamentos de protecção aos sistemas públicos de fornecimento de água-sistema de captação, adução e distribuição de água e para garantia de execução das infra-estruturas projectadas.
+Art. 12.º Esta área de jurisdição visa o estabelecimento de condicionamentos de protecção aos sistemas públicos de fornecimento de água-sistema de captação, adução e distribuição de água e para garantia de execução das infra-estruturas projectadas.
 
 1 - É interdita a construção ao longo de uma faixa de 10 m medida para um e outro lado do traçado das condutas de adução de água, adução-distribuição de água.
 
@@ -236,7 +368,7 @@ Caminho municipal n.º 1009.
 
 ##### SUBSECÇÃO V — Servidões do sistema de drenagem e tratamento de esgotos
 
-###### Art. 13.º Esta área de jurisdição visa o estabelecimento de condicionamentos de protecção ao sistema de drenagem e tratamento de esgotos.
+Art. 13.º Esta área de jurisdição visa o estabelecimento de condicionamentos de protecção ao sistema de drenagem e tratamento de esgotos.
 
 1 - Fora das zonas urbanas é interdita a construção de edifícios e a plantação de árvores ao longo da faixa de 10 m medida para cada lado do eixo dos emissários e interseptores dos sistemas de drenagem de águas residuais. Nas zonas urbanas a largura da referida faixa será considerada caso a caso, na apreciação dos projectos de construção e de arranjo dos espaços exteriores.
 
@@ -246,7 +378,7 @@ Caminho municipal n.º 1009.
 
 ##### SUBSECÇÃO VI — Servidões das instalações de tratamento e destino final de resíduos sólidos
 
-###### Art. 14.º Na presente área visa-se o estabelecimento de condicionamentos à localização de instalações de tratamento e destino final de resíduos sólidos, tendo em vista o seu isolamento.
+Art. 14.º Na presente área visa-se o estabelecimento de condicionamentos à localização de instalações de tratamento e destino final de resíduos sólidos, tendo em vista o seu isolamento.
 
 1 - No uso do solo desta servidão devem observar-se os seguintes condicionamentos:
 
@@ -256,7 +388,7 @@ b) Numa faixa de 400 m medida a partir do limite da vedação da área do depós
 
 #### SECÇÃO II — Servidões do domínio público hídrico
 
-###### Art. 15.º - 1 - São áreas afectas a recursos hídricos, nos termos da legislação em vigor e do presente Regulamento:
+Art. 15.º - 1 - São áreas afectas a recursos hídricos, nos termos da legislação em vigor e do presente Regulamento:
 
 a) Linhas de água não navegáveis nem flutuáveis e respectivas margens de 10 m além do limite do leito (em condições de caudal médio);
 
@@ -270,9 +402,9 @@ d) Os perímetros de protecção a captações subterrâneas para abastecimento 
 
 ##### SUBSECÇÃO I — Albufeira de Alvito
 
-###### Art. 16.º A albufeira de Alvito e a respectiva zona de protecção deverão ser objecto de um plano de ordenamento a elaborar de acordo com a legislação vigente sobre esta matéria.
+Art. 16.º A albufeira de Alvito e a respectiva zona de protecção deverão ser objecto de um plano de ordenamento a elaborar de acordo com a legislação vigente sobre esta matéria.
 
-###### Art. 17.º Na albufeira de Alvito são interditas as seguintes actividades:
+Art. 17.º Na albufeira de Alvito são interditas as seguintes actividades:
 
 1) É proibida a pesca profissional;
 
@@ -286,7 +418,7 @@ d) Os perímetros de protecção a captações subterrâneas para abastecimento 
 
 6) Nos casos previstos no número anterior, as embarcações utilizarão obrigatoriamente óleos biodegradáveis, nos termos do artigo 3.º, n.º 2, alínea c), do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, alterado pelo [Decreto Regulamentar n.º 37/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300), de 23 de Julho.
 
-###### Art. 18.º - 1 - Nos termos do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, alterado pelo [Decreto Regulamentar n.º 37/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300), de 23 de Julho, a zona de protecção da albufeira de Alvito é constituída por uma faixa com a largura de 500 m contada a partir da linha do nível de pleno armazenamento (NPA) e medida na horizontal.
+Art. 18.º - 1 - Nos termos do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, alterado pelo [Decreto Regulamentar n.º 37/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300), de 23 de Julho, a zona de protecção da albufeira de Alvito é constituída por uma faixa com a largura de 500 m contada a partir da linha do nível de pleno armazenamento (NPA) e medida na horizontal.
 
 2 - Nos termos do mesmo diploma, na zona de protecção da albufeira são proibidas as seguintes actividades:
 
@@ -312,9 +444,9 @@ b) A constituição de depósitos de terras soltas em áreas declivosas e sem di
 
 c) A constituição de depósitos de entulho ou de ferro-velho.
 
-###### Art. 19.º Nos termos do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, na zona reservada, com a largura de 50 m a partir da linha do NPA, não são permitidas quaisquer construções que não sejam de infra-estruturas de apoio à utilização da albufeira.
+Art. 19.º Nos termos do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, na zona reservada, com a largura de 50 m a partir da linha do NPA, não são permitidas quaisquer construções que não sejam de infra-estruturas de apoio à utilização da albufeira.
 
-###### Art. 20.º As actividades a desenvolver nas bacias hidrográficas das albufeiras destinadas a abastecimento público obedecerão às seguintes condições:
+Art. 20.º As actividades a desenvolver nas bacias hidrográficas das albufeiras destinadas a abastecimento público obedecerão às seguintes condições:
 
 a) Todos os efluentes domésticos, industriais ou pecuários serão obrigatoriamente objecto de tratamento completo na instalação própria, sem o que não poderão ser rejeitados na rede de drenagem natural;
 
@@ -322,7 +454,7 @@ b) O licenciamento de novas actividades nestas áreas carece de apresentação p
 
 ##### SUBSECÇÃO II — Captações de água subterrâneas
 
-###### Art. 21.º - 1 - Os perímetros de protecção a captações subterrâneas são de dois tipos:
+Art. 21.º - 1 - Os perímetros de protecção a captações subterrâneas são de dois tipos:
 
 a) Perímetros de protecção próxima, num raio de 20 m em redor da captação;
 
@@ -344,7 +476,7 @@ f) Instalações industriais;
 
 g) Culturas adubadas, estrumadas ou regadas.
 
-###### Art. 22.º Nos perímetros de protecção à distância não devem existir:
+Art. 22.º Nos perímetros de protecção à distância não devem existir:
 
 a) Sumidouros de águas negras abertos na camada aquífera captada;
 
@@ -354,7 +486,7 @@ c) Rega com águas negras;
 
 d) Explorações florestais de quaisquer espécies dos géneros Eucalyptus, Acacia e Ailanthus.
 
-###### Art. 23.º Não devem ser localizadas nos perímetros de protecção a captações subterrâneas, a menos que providas de esgoto distante ou tratamento completo:
+Art. 23.º Não devem ser localizadas nos perímetros de protecção a captações subterrâneas, a menos que providas de esgoto distante ou tratamento completo:
 
 a) Nitreiras, currais, estábulos, matadouros, etc.;
 
@@ -364,13 +496,13 @@ c) Indústrias de produtos químicos tóxicos, adubos, celulose, pasta de papel,
 
 #### SECÇÃO III — Servidões a marcos geodésicos
 
-###### Art. 24.º - 1 - Os marcos geodésicos de triangulação têm zonas de protecção que abrangem uma área em redor, com um raio mínimo de 15 m.
+Art. 24.º - 1 - Os marcos geodésicos de triangulação têm zonas de protecção que abrangem uma área em redor, com um raio mínimo de 15 m.
 
 2 - O aumento da zona de protecção é determinado, caso a caso, em função da visibilidade que deve ser assegurada.
 
 #### SECÇÃO IV — Servidões ao património edificado
 
-###### Art. 25.º - 1 - A protecção ao património edificado é regulamentada pela seguinte legislação:
+Art. 25.º - 1 - A protecção ao património edificado é regulamentada pela seguinte legislação:
 
 [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932;
 
@@ -390,25 +522,25 @@ Abrange os monumentos nacionais, imóveis de interesse público e valores concel
 
 2 - O património construído existente na área do município de Cuba encontra-se descrito no capítulo VI, Espaços culturais e naturais, secção III, deste Regulamento.
 
-###### Art. 26.º Os monumentos nacionais, os imóveis de interesse público e os de valor concelhio têm uma zona de protecção que abrange a área envolvente do imóvel até 50 m contados a partir dos seus limites, sem prejuízo de aplicação de regimes que estabelecem zonas de protecção superiores a 50 m.
+Art. 26.º Os monumentos nacionais, os imóveis de interesse público e os de valor concelhio têm uma zona de protecção que abrange a área envolvente do imóvel até 50 m contados a partir dos seus limites, sem prejuízo de aplicação de regimes que estabelecem zonas de protecção superiores a 50 m.
 
-###### Art. 27.º Nas zonas de protecção dos monumentos nacionais e dos imóveis de interesse público não é permitido executar quaisquer obras de demolição, instalação, construção ou reconstrução, em edifícios ou terrenos, sem o parecer favorável do Instituto Português do Património Arquitectónico e Arqueológico (IPPAR).
+Art. 27.º Nas zonas de protecção dos monumentos nacionais e dos imóveis de interesse público não é permitido executar quaisquer obras de demolição, instalação, construção ou reconstrução, em edifícios ou terrenos, sem o parecer favorável do Instituto Português do Património Arquitectónico e Arqueológico (IPPAR).
 
 Igual autorização é necessária para a criação ou transformação de zonas verdes ou para qualquer movimentação de terras ou dragagens.
 
-###### Art. 28.º Na fase de instrução do processo de classificação de um imóvel, os terrenos ou edifícios localizados na respectiva zona de protecção não podem ser alienados, demolidos, expropriados, restaurados ou transformados sem autorização expressa do IPPAR.
+Art. 28.º Na fase de instrução do processo de classificação de um imóvel, os terrenos ou edifícios localizados na respectiva zona de protecção não podem ser alienados, demolidos, expropriados, restaurados ou transformados sem autorização expressa do IPPAR.
 
-###### Art. 29.º Nas zonas de protecção de imóveis classificados, os projectos de construção ou de reconstrução só poderão ser subscritos por arquitectos.
+Art. 29.º Nas zonas de protecção de imóveis classificados, os projectos de construção ou de reconstrução só poderão ser subscritos por arquitectos.
 
 ### CAPÍTULO IV — Espaços urbanos e urbanizáveis
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 30.º Entendem-se por espaços urbanos aqueles que são caracterizados pelo elevado nível de infra-estruturação e concentração de edificações, onde o solo se destina predominantemente à construção [alínea a) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro].
+Art. 30.º Entendem-se por espaços urbanos aqueles que são caracterizados pelo elevado nível de infra-estruturação e concentração de edificações, onde o solo se destina predominantemente à construção [alínea a) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro].
 
-###### Art. 31.º Entendem-se por espaços urbanizáveis aqueles que podem vir a adquirir as características dos espaços urbanos e geralmente designados por áreas de expansão [alínea b) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março].
+Art. 31.º Entendem-se por espaços urbanizáveis aqueles que podem vir a adquirir as características dos espaços urbanos e geralmente designados por áreas de expansão [alínea b) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março].
 
-###### Art. 32.º Os espaços urbanos e urbanizáveis que se encontram identificados na planta de ordenamento, à escala 1:25000, e nas plantas n.os 65 e 66, à escala 1:5000, compreendem as seguintes categorias de unidades operativas de planeamento e gestão:
+Art. 32.º Os espaços urbanos e urbanizáveis que se encontram identificados na planta de ordenamento, à escala 1:25000, e nas plantas n.os 65 e 66, à escala 1:5000, compreendem as seguintes categorias de unidades operativas de planeamento e gestão:
 
 a) Áreas residenciais;
 
@@ -416,57 +548,57 @@ b) Áreas para equipamentos;
 
 c) Áreas turísticas.
 
-###### Art. 33.º Áreas residenciais são aquelas onde predomina a função habitacional.
+Art. 33.º Áreas residenciais são aquelas onde predomina a função habitacional.
 
-###### Art. 34.º Áreas para equipamentos são aquelas onde o uso do solo é predominantemente destinado a equipamentos.
+Art. 34.º Áreas para equipamentos são aquelas onde o uso do solo é predominantemente destinado a equipamentos.
 
-###### Art. 35.º Áreas turísticas são aquelas que se destinam predominantemente a empreendimentos turísticos indiferenciados (hóteis, parques de campismo, aldeamentos turísticos, conjuntos turísticos, etc.).
+Art. 35.º Áreas turísticas são aquelas que se destinam predominantemente a empreendimentos turísticos indiferenciados (hóteis, parques de campismo, aldeamentos turísticos, conjuntos turísticos, etc.).
 
-###### Art. 36.º Os perímetros urbanos demarcados nas plantas n.os 65 e 66 observam o disposto no n.º 2 do artigo 28.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelo Decreto-Lei n.º 211//92, de 8 de Outubro, sendo definidos como o conjunto do espaço urbano, do espaço urbanizável e dos espaços industriais que lhe sejam contíguos.
+Art. 36.º Os perímetros urbanos demarcados nas plantas n.os 65 e 66 observam o disposto no n.º 2 do artigo 28.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelo Decreto-Lei n.º 211//92, de 8 de Outubro, sendo definidos como o conjunto do espaço urbano, do espaço urbanizável e dos espaços industriais que lhe sejam contíguos.
 
-###### Art. 37.º A transformação das áreas urbanas existentes será regulamentada por planos de urbanização, planos de pormenor e planos de salvaguarda e valorização, em complemento das disposições definidas no presente Regulamento.
+Art. 37.º A transformação das áreas urbanas existentes será regulamentada por planos de urbanização, planos de pormenor e planos de salvaguarda e valorização, em complemento das disposições definidas no presente Regulamento.
 
-###### Art. 38.º Não se encontram abrangidos pelo estipulado no artigo anterior os casos isolados de simples mudança de uso, sempre que estes impliquem a implantação de actividades, e os casos de beneficiação, recuperação, alteração ou reconstrução dos edifícios, desde que essas acções não ponham em causa os padrões urbanísticos e estéticos da zona onde se integram.
+Art. 38.º Não se encontram abrangidos pelo estipulado no artigo anterior os casos isolados de simples mudança de uso, sempre que estes impliquem a implantação de actividades, e os casos de beneficiação, recuperação, alteração ou reconstrução dos edifícios, desde que essas acções não ponham em causa os padrões urbanísticos e estéticos da zona onde se integram.
 
-###### Art. 39.º Os espaços urbanizáveis, enquanto áreas de expansão dos aglomerados, deverão ser objecto de planos de pormenor, onde se defina e regulamente o uso do solo em conformidade com o presente Regulamento.
+Art. 39.º Os espaços urbanizáveis, enquanto áreas de expansão dos aglomerados, deverão ser objecto de planos de pormenor, onde se defina e regulamente o uso do solo em conformidade com o presente Regulamento.
 
-###### Art. 40.º Os planos de urbanização, os planos de pormenor e os planos de salvaguarda e valorização a elaborar para os aglomerados urbanos deverão conter os condicionamentos relativos à demolição, reconstrução ou alteração de edifícios, designadamente nas zonas antigas dos centros urbanos, em especial nas áreas de protecção dos monumentos, conjuntos ou sítios.
+Art. 40.º Os planos de urbanização, os planos de pormenor e os planos de salvaguarda e valorização a elaborar para os aglomerados urbanos deverão conter os condicionamentos relativos à demolição, reconstrução ou alteração de edifícios, designadamente nas zonas antigas dos centros urbanos, em especial nas áreas de protecção dos monumentos, conjuntos ou sítios.
 
-###### Art. 41.º Nos planos de urbanização a elaborar deverão ser definidas as zonas a sujeitar a planos de pormenor e de salvaguarda e valorização.
+Art. 41.º Nos planos de urbanização a elaborar deverão ser definidas as zonas a sujeitar a planos de pormenor e de salvaguarda e valorização.
 
-###### Art. 42.º De acordo com o [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715) e a [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), nas operações de loteamento, os proprietários e demais titulares de direitos reais a lotear cedem gratuitamente à Câmara Municipal parcelas de terreno para espaços verdes públicos e de utilização colectiva, infra-estruturas, designadamente arruamentos viários e pedonais, e equipamentos públicos, que, de acordo com a operação de loteamento, devem integrar o domínio público.
+Art. 42.º De acordo com o [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715) e a [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), nas operações de loteamento, os proprietários e demais titulares de direitos reais a lotear cedem gratuitamente à Câmara Municipal parcelas de terreno para espaços verdes públicos e de utilização colectiva, infra-estruturas, designadamente arruamentos viários e pedonais, e equipamentos públicos, que, de acordo com a operação de loteamento, devem integrar o domínio público.
 
-###### Art. 43.º A Câmara Municipal pode definir, caso a caso, no estabelecimento de condições para a passagem de alvarás de loteamento, a percentagem de fogos destinados à habitação social.
+Art. 43.º A Câmara Municipal pode definir, caso a caso, no estabelecimento de condições para a passagem de alvarás de loteamento, a percentagem de fogos destinados à habitação social.
 
 #### SECÇÃO II — Disposições particulares
 
-###### Art. 44.º Consideram-se aglomerados urbanos existentes no concelho de Cuba as povoações de Cuba, Vila Alva, Vila Ruiva, Albergaria dos Fusos e Faro do Alentejo.
+Art. 44.º Consideram-se aglomerados urbanos existentes no concelho de Cuba as povoações de Cuba, Vila Alva, Vila Ruiva, Albergaria dos Fusos e Faro do Alentejo.
 
 ##### SUBSECÇÃO I — Áreas residenciais
 
-###### Art. 45.º O espaço urbano existente deverá ser conservado e consolidado.
+Art. 45.º O espaço urbano existente deverá ser conservado e consolidado.
 
-###### Art. 46.º As construções existentes deverão, como regra geral, ser conservadas, restauradas ou remodeladas.
+Art. 46.º As construções existentes deverão, como regra geral, ser conservadas, restauradas ou remodeladas.
 
-###### Art. 47.º As novas construções deverão integrar-se na escala ambiental e volumétrica da área em que se inserem.
+Art. 47.º As novas construções deverão integrar-se na escala ambiental e volumétrica da área em que se inserem.
 
-###### Art. 48.º A superfície total de pavimentos (STP) das construções existentes deverá ser mantida, exceptuando-se os seguintes casos:
+Art. 48.º A superfície total de pavimentos (STP) das construções existentes deverá ser mantida, exceptuando-se os seguintes casos:
 
 a) Pequenas obras de ampliação, necessárias para dotar os edifícios com um mínimo de condições de habitabilidade, designadamente instalações sanitárias;
 
 b) Situações em que, inequivocamente, seja necessário aumentar a STP para melhorar a imagem e ou a funcionalidade do conjunto urbano.
 
-###### Art. 49.º Apenas serão permitidas demolições totais de edifícios cuja conservação não seja tecnicamente recomendável ou que, reconhecidamente, não apresentem valor arquitectónico próprio.
+Art. 49.º Apenas serão permitidas demolições totais de edifícios cuja conservação não seja tecnicamente recomendável ou que, reconhecidamente, não apresentem valor arquitectónico próprio.
 
-###### Art. 50.º Nas obras de reconstrução após demolição deverá igualmente ser mantida a STP das construções demolidas, com as ressalvas atrás enunciadas.
+Art. 50.º Nas obras de reconstrução após demolição deverá igualmente ser mantida a STP das construções demolidas, com as ressalvas atrás enunciadas.
 
-###### Art. 51.º Nos novos edifícios, o número máximo de pisos acima do solo será o seguinte:
+Art. 51.º Nos novos edifícios, o número máximo de pisos acima do solo será o seguinte:
 
 1) Na vila de Cuba, o número máximo de pisos será definido nos respectivos planos de urbanização e planos de pormenor, tomando como base as volumetrias existentes, sobretudo nas zonas mais sensíveis, não podendo, em qualquer caso, ultrapassar três pisos;
 
 2) Nos aglomerados urbanos de Faro do Alentejo, Albergaria dos Fusos, Vila Alva e Vila Ruiva, o número máximo de pisos é de dois.
 
-###### Art. 52.º As densidades populacionais máximas a observar nos espaços urbanizáveis (expansões urbanas) são de:
+Art. 52.º As densidades populacionais máximas a observar nos espaços urbanizáveis (expansões urbanas) são de:
 
 1) Vila de Cuba - 100 habitantes/ha;
 
@@ -476,33 +608,33 @@ b) Situações em que, inequivocamente, seja necessário aumentar a STP para mel
 
 Para além destes valores, os planos de urbanização e os planos de pormenor dos aglomerados urbanos definirão o índice de construção das diversas zonas residenciais, bem como as prescrições a que deverá obedecer o estacionamento de veículos.
 
-###### Art. 53.º Nas áreas residenciais o estacionamento automóvel deverá observar o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.
+Art. 53.º Nas áreas residenciais o estacionamento automóvel deverá observar o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.
 
 ##### SUBSECÇÃO II — Áreas para equipamentos
 
-###### Art. 54.º De uma forma geral, as áreas destinadas a equipamentos colectivos inserem-se no tecido urbano/urbanizável, sendo a sua superfície total de pavimento função do tipo de equipamento considerado.
+Art. 54.º De uma forma geral, as áreas destinadas a equipamentos colectivos inserem-se no tecido urbano/urbanizável, sendo a sua superfície total de pavimento função do tipo de equipamento considerado.
 
-###### Art. 55.º A área destinada a equipamentos colectivos, prevista a norte da vila de Cuba, junto à estrada nacional n.º 258-1, e devido à sua grande dimensão, deverá ser sujeita a um plano de pormenor, devendo contemplar, entre outras, as seguintes zonas: campo da feira, campos de ténis e outros equipamentos desportivos, praça de touros, campo de tiro, pista de corrida para galgos e um parque de campismo.
+Art. 55.º A área destinada a equipamentos colectivos, prevista a norte da vila de Cuba, junto à estrada nacional n.º 258-1, e devido à sua grande dimensão, deverá ser sujeita a um plano de pormenor, devendo contemplar, entre outras, as seguintes zonas: campo da feira, campos de ténis e outros equipamentos desportivos, praça de touros, campo de tiro, pista de corrida para galgos e um parque de campismo.
 
 ##### SUBSECÇÃO III — Áreas turísticas
 
-###### Art. 56.º As áreas com vocação turística, delimitadas na planta de ordenamento e na planta anexa n.º 65, serão sujeitas a planos de pormenor, onde serão definidas as suas características, com obediência ao que se estabelece nesta secção e na legislação em vigor.
+Art. 56.º As áreas com vocação turística, delimitadas na planta de ordenamento e na planta anexa n.º 65, serão sujeitas a planos de pormenor, onde serão definidas as suas características, com obediência ao que se estabelece nesta secção e na legislação em vigor.
 
-###### Art. 57.º Os planos de pormenor referidos no número anterior deverão conter, obrigatoriamente, projectos de arranjo de espaços exteriores.
+Art. 57.º Os planos de pormenor referidos no número anterior deverão conter, obrigatoriamente, projectos de arranjo de espaços exteriores.
 
-###### Art. 58.º As áreas com vocação turística deverão ser dotadas de sistemas de infra-estruturas próprios, nomeadamente de drenagem de águas residuais e respectivo tratamento.
+Art. 58.º As áreas com vocação turística deverão ser dotadas de sistemas de infra-estruturas próprios, nomeadamente de drenagem de águas residuais e respectivo tratamento.
 
-###### Art. 59.º A densidade populacional máxima permitida nas áreas turísticas incluídas nos perímetros urbanos é de 75 habitantes/ha.
+Art. 59.º A densidade populacional máxima permitida nas áreas turísticas incluídas nos perímetros urbanos é de 75 habitantes/ha.
 
 #### SECÇÃO III — Turismo de habitação, turismo rural, agroturismo e estabelecimentos hoteleiros
 
-###### Art. 60.º Nas explorações agrícolas poderão ser criados, nos termos da legislação em vigor, empreendimentos de turismo de habitação, turismo rural e agroturismo, bem como estabelecimentos hoteleiros em geral.
+Art. 60.º Nas explorações agrícolas poderão ser criados, nos termos da legislação em vigor, empreendimentos de turismo de habitação, turismo rural e agroturismo, bem como estabelecimentos hoteleiros em geral.
 
 1 - Estes empreendimentos deverão, de preferência, apoiar-se em construções já existentes, de forma a contribuir para recuperar e valorizar o património arquitectónico rural em que é rico o concelho de Cuba.
 
-###### Art. 61.º O número máximo de pisos permitido na construção de edifícios nos espaços destinados a turismo, no exterior dos aglomerados, é de dois pisos.
+Art. 61.º O número máximo de pisos permitido na construção de edifícios nos espaços destinados a turismo, no exterior dos aglomerados, é de dois pisos.
 
-###### Art. 62.º Nas proximidades da albufeira de Alvito define-se uma área de vocação turística, onde se prevê a instalação de equipamento turístico indiferenciado, com as necessárias instalações de apoio.
+Art. 62.º Nas proximidades da albufeira de Alvito define-se uma área de vocação turística, onde se prevê a instalação de equipamento turístico indiferenciado, com as necessárias instalações de apoio.
 
 1 - Não será permitida a ocupação com quaisquer construções numa faixa de 100 m em torno da albufeira, medida a partir da linha do NPA.
 
@@ -510,29 +642,29 @@ Para além destes valores, os planos de urbanização e os planos de pormenor do
 
 3 - O índice de construção máximo é de 0,06.
 
-###### Art. 63.º O abate de árvores resultante da implantação de instalações turísticas e recreativas deve ser reduzido ao mínimo indispensável.
+Art. 63.º O abate de árvores resultante da implantação de instalações turísticas e recreativas deve ser reduzido ao mínimo indispensável.
 
 ### CAPÍTULO V — Espaços industriais
 
-###### Art. 64.º Designam-se por espaços industriais os que se destinam a actividades transformadoras e serviços próprios, apresentando elevado nível de infra-estruturação, de acordo com a alínea c) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412).
+Art. 64.º Designam-se por espaços industriais os que se destinam a actividades transformadoras e serviços próprios, apresentando elevado nível de infra-estruturação, de acordo com a alínea c) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412).
 
-###### Art. 65.º Os espaços industriais encontram-se delimitados na planta de ordenamento e nas plantas complementares n.os 65 e 66 e subdividem-se em espaço industrial existente e proposto.
+Art. 65.º Os espaços industriais encontram-se delimitados na planta de ordenamento e nas plantas complementares n.os 65 e 66 e subdividem-se em espaço industrial existente e proposto.
 
 #### SECÇÃO I — Espaços industriais propostos
 
-###### Art. 66.º Os espaços industriais propostos deverão ser objecto de um plano de pormenor que tenha em consideração a legislação em vigor, designadamente o [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) e o [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, não devendo contemplar estabelecimentos industriais de classe A.
+Art. 66.º Os espaços industriais propostos deverão ser objecto de um plano de pormenor que tenha em consideração a legislação em vigor, designadamente o [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) e o [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, não devendo contemplar estabelecimentos industriais de classe A.
 
-###### Art. 67.º No espaço industrial proposto para a vila de Cuba poderão ser licenciadas novas indústrias das classes B, C e D, não poluentes.
+Art. 67.º No espaço industrial proposto para a vila de Cuba poderão ser licenciadas novas indústrias das classes B, C e D, não poluentes.
 
-###### Art. 68.º No espaços industriais propostos para Faro do Alentejo, Vila Alva e Vila Ruiva, apenas serão licenciadas novas indústrias das classes C e D, não poluentes.
+Art. 68.º No espaços industriais propostos para Faro do Alentejo, Vila Alva e Vila Ruiva, apenas serão licenciadas novas indústrias das classes C e D, não poluentes.
 
-###### Art. 69.º A construção de estabelecimentos industriais deverá obedecer às seguintes prescrições:
+Art. 69.º A construção de estabelecimentos industriais deverá obedecer às seguintes prescrições:
 
 1) Índice de construção máximo - 0,4;
 
 2) Cércea máxima - 7 m, exceptuando casos de instalações especiais devidamente justificados.
 
-###### Art. 70.º O estacionamento de veículos nos espaços industriais deverá processar-se dentro de cada lote, na proporção de um lugar por cada 150 m2 de área bruta de construção.
+Art. 70.º O estacionamento de veículos nos espaços industriais deverá processar-se dentro de cada lote, na proporção de um lugar por cada 150 m2 de área bruta de construção.
 
 1 - Quando a área do lote for superior a 1000 m2, a área de estacionamento obrigatória será equivalente a um lugar por cada 100 m2 de área coberta total de pavimentos.
 
@@ -540,15 +672,15 @@ Para além destes valores, os planos de urbanização e os planos de pormenor do
 
 #### SECÇÃO II — Espaços industriais existentes
 
-###### Art. 71.º A localização de novas indústrias nos espaços intersticiais do tecido urbano existente deverá ter em consideração a legislação em vigor, nomeadamente o [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) e o [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, e ainda o [Decreto-Lei n.º 186/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1990-574930), de 6 de Junho, bem como as prescrições expressas nos artigos 69.º e 70.º deste Regulamento.
+Art. 71.º A localização de novas indústrias nos espaços intersticiais do tecido urbano existente deverá ter em consideração a legislação em vigor, nomeadamente o [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) e o [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, e ainda o [Decreto-Lei n.º 186/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1990-574930), de 6 de Junho, bem como as prescrições expressas nos artigos 69.º e 70.º deste Regulamento.
 
-###### Art. 72.º As indústrias classificadas de classe D poderão exercer-se quer em edifícios próprios, quer em edifícios destinados a outras finalidades, inclusive habitacional, desde que se observem as restrições impostas a estas actividades expressas em legislação específica sobre esta matéria, em especial no que diz respeito às limitações decorrentes de eventuais incómodos causados a terceiros.
+Art. 72.º As indústrias classificadas de classe D poderão exercer-se quer em edifícios próprios, quer em edifícios destinados a outras finalidades, inclusive habitacional, desde que se observem as restrições impostas a estas actividades expressas em legislação específica sobre esta matéria, em especial no que diz respeito às limitações decorrentes de eventuais incómodos causados a terceiros.
 
 ### CAPÍTULO VI — Espaços culturais e naturais - Rede de protecção e valorização ambiental
 
 #### SECÇÃO I — Áreas abrangidas e disposições gerais
 
-###### Art. 73.º Os espaços culturais e naturais constituem a rede de protecção e valorização ambiental do concelho de Cuba (RPVA), que tem como objectivo garantir a salvaguarda do equilíbrio ambiental, a protecção e ou recuperação de recursos biofísicos e a prevenção de degradações, sendo constituída pelas áreas seguintes, identificadas na planta de ordenamento:
+Art. 73.º Os espaços culturais e naturais constituem a rede de protecção e valorização ambiental do concelho de Cuba (RPVA), que tem como objectivo garantir a salvaguarda do equilíbrio ambiental, a protecção e ou recuperação de recursos biofísicos e a prevenção de degradações, sendo constituída pelas áreas seguintes, identificadas na planta de ordenamento:
 
 1) Montado de sobro ou misto, com funções predominantes de protecção e recuperação;
 
@@ -558,7 +690,7 @@ Para além destes valores, os planos de urbanização e os planos de pormenor do
 
 4) Outras áreas da RPVA (áreas abrangidas pela Reserva Ecológica Nacional).
 
-###### Art. 74.º - 1 - Nas áreas da RPVA as funções de protecção e recuperação prevalecem sobre as funções de produção quando se verifique incompatibilidade.
+Art. 74.º - 1 - Nas áreas da RPVA as funções de protecção e recuperação prevalecem sobre as funções de produção quando se verifique incompatibilidade.
 
 2 - Sempre que a utilização destas áreas esteja a contribuir para o agravamento das degradações existentes, nomeadamente no que se refere à produtividade dos solos, à destruição da vegetação e da fauna, podem tais utilizações ser interditadas, por deliberação fundamentada da Câmara Municipal, cabendo recurso desta decisão para a Assembleia Municipal.
 
@@ -588,15 +720,15 @@ f) A colocação de painéis publicitários.
 
 #### SECÇÃO II — Montados
 
-###### Art. 75.º Sem prejuízo do disposto no [Decreto-Lei n.º 172/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1988-374809), de 16 de Maio, e na legislação específica dos montados de sobro e azinho, a conversão dos montados existentes nestas áreas só poderá ser permitida após parecer favorável da Câmara Municipal.
+Art. 75.º Sem prejuízo do disposto no [Decreto-Lei n.º 172/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1988-374809), de 16 de Maio, e na legislação específica dos montados de sobro e azinho, a conversão dos montados existentes nestas áreas só poderá ser permitida após parecer favorável da Câmara Municipal.
 
 1 - Nas áreas de montado de sobro não são permitidas as culturas arvenses nem as mobilizações do solo, excepto mobilizações ligeiras para instalação de pastagens permanentes.
 
 #### SECÇÃO III — Património edificado
 
-###### Art. 76.º Os valores patrimoniais existentes no concelho de Cuba encontram-se classificados como «monumentos nacionais» e «imóveis de interesse público». Considera-se ainda a figura de «imóvel em vias de classificação». As áreas de protecção incluem zonas non aedificandi ou condicionamentos especiais para a realização de obras com base na legislação em vigor.
+Art. 76.º Os valores patrimoniais existentes no concelho de Cuba encontram-se classificados como «monumentos nacionais» e «imóveis de interesse público». Considera-se ainda a figura de «imóvel em vias de classificação». As áreas de protecção incluem zonas non aedificandi ou condicionamentos especiais para a realização de obras com base na legislação em vigor.
 
-###### Art. 77.º O património edificado protegido existente no concelho de Cuba é constituído por:
+Art. 77.º O património edificado protegido existente no concelho de Cuba é constituído por:
 
 1) Monumento nacional:
 
@@ -616,7 +748,7 @@ a) Ermida de Nossa Senhora da Represa;
 
 b) Ermida de São Bartolomeu.
 
-###### Art. 78.º Para além do património edificado classificado e referido no artigo anterior, existem ainda no concelho de Cuba inúmeros testemunhos do passado, que, não se encontrando classificados ou em vias de classificação, deverão ser objecto de proposta de classificação, dado que inegavelmente têm um importante valor histórico e artístico:
+Art. 78.º Para além do património edificado classificado e referido no artigo anterior, existem ainda no concelho de Cuba inúmeros testemunhos do passado, que, não se encontrando classificados ou em vias de classificação, deverão ser objecto de proposta de classificação, dado que inegavelmente têm um importante valor histórico e artístico:
 
 1) Represa romana, junto ao entroncamento da estrada nacional n.º 258-1 com a estrada nacional n.º 522;
 
@@ -648,7 +780,7 @@ b) Ermida de São Bartolomeu.
 
 15) Igreja de São Luís, em Faro do Alentejo.
 
-###### Art. 79.º Para além do património referido no artigo anterior, devem ser protegidos e preservados os sítios arqueológicos que a seguir se enumeram [qualquer pretensão de intervenção nas suas imediatações (num raio de 50 m) deverá ser condicionada a parecer e eventual actuação dos técnicos de arqueologia do IPPAR]:
+Art. 79.º Para além do património referido no artigo anterior, devem ser protegidos e preservados os sítios arqueológicos que a seguir se enumeram [qualquer pretensão de intervenção nas suas imediatações (num raio de 50 m) deverá ser condicionada a parecer e eventual actuação dos técnicos de arqueologia do IPPAR]:
 
 1) Anta da Fareloa;
 
@@ -696,7 +828,7 @@ b) Ermida de São Bartolomeu.
 
 23) Aroeira II.
 
-###### Art. 80.º Os achados avulsos de bens arqueológicos ficarão sujeitos ao quadro geral da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), conforme o seu artigo 39.º:
+Art. 80.º Os achados avulsos de bens arqueológicos ficarão sujeitos ao quadro geral da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), conforme o seu artigo 39.º:
 
 1 - Quem tiver encontrado ou encontrar em terreno público ou particular, incluindo em meio submerso, quaisquer testemunhos arqueológicos fica obrigado a dar imediato conhecimento à autoridade local, que, por sua vez, informará de imediato o Ministério da Cultura, a fim de serem tomadas providências convenientes.
 
@@ -708,7 +840,7 @@ O património edificado em zonas urbanas deve ser objecto de estudo, delimitaç�
 
 #### SECÇÃO I — Áreas abrangidas e disposições gerais
 
-###### Art. 81.º - 1 - Os espaços agrícolas são constituídos pelas áreas com aptidão agrícola dominante, identificadas na planta de ordenamento pelas designações seguintes:
+Art. 81.º - 1 - Os espaços agrícolas são constituídos pelas áreas com aptidão agrícola dominante, identificadas na planta de ordenamento pelas designações seguintes:
 
 a) Áreas com grande aptidão para a agricultura intensiva;
 
@@ -720,13 +852,13 @@ b) Outras áreas com aptidão agrícola.
 
 #### SECÇÃO II — Áreas com grande aptidão para sistemas agrícolas intensivos
 
-###### Art. 82.º É interdita a instalação de novos povoamentos florestais nestas áreas.
+Art. 82.º É interdita a instalação de novos povoamentos florestais nestas áreas.
 
 ### CAPÍTULO VIII — Espaços florestais (áreas com aptidão silvo-pastoril dominante)
 
 #### SECÇÃO I — Áreas abrangidas e disposições gerais
 
-###### Art. 83.º - 1 - Os espaços florestais são constituídos pelas áreas com aptidão silvo-pastoril dominante, identificadas na planta de ordenamento com as seguintes designações:
+Art. 83.º - 1 - Os espaços florestais são constituídos pelas áreas com aptidão silvo-pastoril dominante, identificadas na planta de ordenamento com as seguintes designações:
 
 a) Áreas de montado de sobro existente;
 
@@ -744,29 +876,29 @@ d) Áreas vocacionadas para sistemas silvo-pastoris à base de montados e pastag
 
 #### SECÇÃO II — Áreas de montado de sobro
 
-###### Art. 84.º Sem prejuízo do disposto no [Decreto-Lei n.º 172/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1988-374809), de 16 de Maio, a conversão dos montados existentes nestas áreas só poderá ser permitida após parecer favorável da Câmara Municipal.
+Art. 84.º Sem prejuízo do disposto no [Decreto-Lei n.º 172/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1988-374809), de 16 de Maio, a conversão dos montados existentes nestas áreas só poderá ser permitida após parecer favorável da Câmara Municipal.
 
 ### CAPÍTULO IX — Outras disposições
 
 #### SECÇÃO I — Reserva Agrícola Nacional
 
-###### Art. 85.º Para efeitos do disposto no [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, consideram-se integradas na Reserva Agrícola Nacional (RAN) todas as áreas assinaladas como tal na planta de condicionantes anexa a este Regulamento.
+Art. 85.º Para efeitos do disposto no [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, consideram-se integradas na Reserva Agrícola Nacional (RAN) todas as áreas assinaladas como tal na planta de condicionantes anexa a este Regulamento.
 
-###### Art. 86.º Nas áreas da RAN a ocupação e o uso do solo regem-se pelo disposto na legislação aplicável, nomeadamente o [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho.
+Art. 86.º Nas áreas da RAN a ocupação e o uso do solo regem-se pelo disposto na legislação aplicável, nomeadamente o [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho.
 
-###### Art. 87.º Na comissão regional da RAN prevista no [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, sempre que os assuntos em análise se refiram exclusivamente ao concelho de Cuba, aquela comissão integrará um representante deste município.
+Art. 87.º Na comissão regional da RAN prevista no [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, sempre que os assuntos em análise se refiram exclusivamente ao concelho de Cuba, aquela comissão integrará um representante deste município.
 
-###### Art. 88.º Nos termos da [Portaria n.º 528/89](https://diariodarepublica.pt/dr/detalhe/portaria/528-1989-619560), de 11 de Junho, não é permitida a florestação de solos englobados nas classes de capacidade de uso A e B da RAN.
+Art. 88.º Nos termos da [Portaria n.º 528/89](https://diariodarepublica.pt/dr/detalhe/portaria/528-1989-619560), de 11 de Junho, não é permitida a florestação de solos englobados nas classes de capacidade de uso A e B da RAN.
 
-###### Art. 89.º Para os efeitos do número anterior, considera-se que existe florestação quando se verifique a plantação de árvores florestais em área superior a 1000 m2 contínuos, excluindo sebes e quebra-ventos.
+Art. 89.º Para os efeitos do número anterior, considera-se que existe florestação quando se verifique a plantação de árvores florestais em área superior a 1000 m2 contínuos, excluindo sebes e quebra-ventos.
 
-###### Art. 90.º Nestas áreas só se admitem novas construções desde que se destinem às actividades agrícola e florestal, para habitação do proprietário ou titular dos direitos de exploração, para alojamento de trabalhadores permanentes, bem como as destinadas a actividades e empreendimentos turísticos previstos no artigo 60.º deste Regulamento.
+Art. 90.º Nestas áreas só se admitem novas construções desde que se destinem às actividades agrícola e florestal, para habitação do proprietário ou titular dos direitos de exploração, para alojamento de trabalhadores permanentes, bem como as destinadas a actividades e empreendimentos turísticos previstos no artigo 60.º deste Regulamento.
 
 1 - O número máximo de pisos é de dois.
 
 #### SECÇÃO II — Arborização com espécies de crescimento rápido
 
-###### Art. 91.º - 1 - Nos termos dos Decretos-Leis n.os [139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de Abril, e [175/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1988-374803), de 17 de Maio, carecem de licenciamento municipal as arborizações com espécies florestais de crescimento rápido em área inferior a 50 ha.
+Art. 91.º - 1 - Nos termos dos Decretos-Leis n.os [139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de Abril, e [175/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1988-374803), de 17 de Maio, carecem de licenciamento municipal as arborizações com espécies florestais de crescimento rápido em área inferior a 50 ha.
 
 2 - Nos termos dos mesmos diplomas, carecem de prévio parecer da Câmara Municipal todas as acções de arborização abrangendo áreas superiores a 50 ha.
 
@@ -784,11 +916,11 @@ d) Áreas de montado de sobro.
 
 #### SECÇÃO III — Destruição do revestimento vegetal e alteração do relevo
 
-###### Art. 92.º Nos termos do [Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de Abril, e sem prejuízo do disposto no seu artigo 2.º, carecem de autorização municipal as acções de destruição do revestimento vegetal que não tenham fins agrícolas, bem como as acções de aterro ou escavação que conduzam à alteração do relevo natural e das camadas de solo arável.
+Art. 92.º Nos termos do [Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de Abril, e sem prejuízo do disposto no seu artigo 2.º, carecem de autorização municipal as acções de destruição do revestimento vegetal que não tenham fins agrícolas, bem como as acções de aterro ou escavação que conduzam à alteração do relevo natural e das camadas de solo arável.
 
 #### SECÇÃO IV — Fraccionamento de prédios rústicos
 
-###### Art. 93.º Conforme determina a legislação em vigor sobre parcelamento e emparcelamento rural, do fraccionamento dos prédios rústicos não poderão resultar parcelas com área inferior a:
+Art. 93.º Conforme determina a legislação em vigor sobre parcelamento e emparcelamento rural, do fraccionamento dos prédios rústicos não poderão resultar parcelas com área inferior a:
 
 a) 1 ha ou 0,50 ha, consoante se trate ou não de áreas incluídas na RAN, em terrenos com aptidão e utilização hortícola de regadio;
 
@@ -796,4 +928,4 @@ b) 5 ha ou 2,50 ha, consoante se trate ou não de áreas incluídas na RAN, em o
 
 c) 7,50 ha em todas as restantes áreas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/133b00/30583064.pdf))](https://files.diariodarepublica.pt/1s/1993/06/133b00/30583064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/133b00/30583064.pdf)

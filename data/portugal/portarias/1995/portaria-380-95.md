@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/100b00/24512452.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/380/1995/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/380-1995-515235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 363aeb449b8e4ff8de406acfba9d4ab27f66511eba2a08520403f251b030ea7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 250ef970bbe632b771249fb27f316a6617ec824746ae1d071c928efd22da5933
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/358/1991/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/358/1991/04/22/p/dre
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594079:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:622312:por
+  label: "Revogada pelo PORT.1076/2000.2000.11.07.ME DR.IS-B [257]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1076-2000-622312
+  date: '2000-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:12Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +132,6 @@ O curso de bacharelato em Engenharia da Produção e da Manutenção Industrial,
 
 Ministério da Educação.
 
-**Assinada em 16 de Março de 1995.**
+Assinada em 16 de Março de 1995.
 
 Pela Ministra da Educação, Pedro Lynce da Faria, Secretário de Estado do Ensino Superior.

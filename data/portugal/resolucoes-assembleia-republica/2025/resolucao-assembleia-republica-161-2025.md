@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/161/2025/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/161-2025-941547427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c09fd29bb7f1d3cc690a5e7a3e534b2d8d50bb2aed2d76c78f22952bfe3654af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e4b6fc38b04013effb25cf0fbaad239a43fd858f8625f2f97a47d49892687ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Governo
 - Jogos de Fortuna e Azar
+- Jogos e Apostas Online
 - Proteção do Consumidor
 - Recomendação
-- Governo
-- Jogos e Apostas Online
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:40Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +112,6 @@ b) Disponibilização de soluções tecnológicas de bloqueio voluntário, que p
 
 Aprovada em 26 de setembro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+119677018

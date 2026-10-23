@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/226/1994/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-1994-265972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50d90679a299d6d657fa3b379106bc108f0f7d81c3c36238160dc18aa09d7edb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2721f9c9bd8e2ef532de01a08485716af0d7a580d161682a0ce3a1c6060fd57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério do Planeamento e da Administração do Território
-- Gabinete para os Assuntos Europeus e Relações Externas
 - Descrição de Funções
+- Gabinete para os Assuntos Europeus e Relações Externas
+- Ministério do Planeamento e da Administração do Território
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,20 +75,35 @@ relationships:
   target: pt:dre:233094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 1204/95 DE 04-OUT DR.IS-B [230] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-04'
+- type: amended_by
+  target: pt:dre:233094:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.559/96.09.10.1996.PCM, DR.IS-B [234] de 09.10.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/559-1996-233094
+  date: '1996-10-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/366/1993/10/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/366/1993/10/28/p/dre
+- type: cites
+  target: pt:dre:664552:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:26Z'
   warnings: []
   errors: []
 ---
@@ -109,13 +124,13 @@ Manda o Governo, pelos Ministros das Finanças e do Planeamento e da Administra�
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 15 de Março de 1994.**
+Assinada em 15 de Março de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 Mapa I anexo à Portaria n.º 226/94, de 15 de Abril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/088b00/18071808.pdf))](https://files.diariodarepublica.pt/1s/1994/04/088b00/18071808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/088b00/18071808.pdf)
 
 Mapa II anexo à Portaria n.º 226/94, de 15 de Abril
 

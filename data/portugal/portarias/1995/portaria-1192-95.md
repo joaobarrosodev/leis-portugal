@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1192/1995/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1192-1995-574877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce4cfc0321145239beac8de56af8fc3e635b20d6ffaa82b594450bc4621f9af5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68db5e9964fe66c5ea2bcd899c0580933ce6957151db9a07d93c68d14c814f7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Cartão de Identificação
 - Conservatória do Registo Predial
 - Instituto Português de Cartografia e Cadastro
+- Modernização Administrativa
 - Prédio Rústico
-- Propriedade Imobiliária
 - Prédio Urbano
+- Propriedade Imobiliária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1995/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/1995/07/18/p/dre
+- type: cites
+  target: pt:dre:462035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:06Z'
   warnings: []
   errors: []
 ---
@@ -125,10 +129,10 @@ b) A propriedade horizontal e as fracções autónomas que a compõem, devendo s
 
 Ministérios das Finanças, do Planeamento e da Administração do Território e da Justiça.
 
-**Assinada em 18 de Setembro de 1995.**
+Assinada em 18 de Setembro de 1995.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.**
+O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.
 
 ## ANEXO I — Modelo de cartão de identificação de prédio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/228b00/60826082.pdf))](https://files.diariodarepublica.pt/1s/1995/10/228b00/60826082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/228b00/60826082.pdf)

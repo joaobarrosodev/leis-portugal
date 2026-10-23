@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/657/1994/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/657-1994-299472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b29b263ad1a79c51254984b16ae3465a80f7c43e1c658aacfaaec11cf410f1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3b0b0d7869a7dee013e86035a314807eeeed3e6c156e8dad6b70b14976591c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,11 @@ relationships:
   target: pt:dre:407502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407502:por
+  label: "Alterado o prazo fixado no nº 3º pela PORT.121/2000.2000.03.08.MDN,DR.IS-B [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/121-2000-407502
+  date: '2000-03-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/160/1994/06/04/p/dre
   label: null
@@ -87,16 +92,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1030/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1030/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:01Z'
   warnings: []
   errors: []
 ---
@@ -157,11 +190,11 @@ A = valor da prestação em vencimento;
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 15 de Junho de 1994.**
+Assinada em 15 de Junho de 1994.
 
 Pelo Ministro da Defesa Nacional, António Jorge de Figueiredo Lopes, Secretário de Estado da Defesa Nacional. - Pelo Ministro das Finanças, Francisco Adelino Gusmão Esteves de Carvalho, Secretário de Estado do Tesouro.
 
-## Anexo a que se refere o n.º 1.º
+Anexo a que se refere o n.º 1.º
 
 1 - Bases técnicas
 
@@ -187,23 +220,23 @@ Número total de beneficiários: 3487, distribuídos da seguinte forma:
 
 Regime normal (artigo 5.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de Fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de Setembro, e [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de Junho):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf))](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf)
 
 Período de transição [alínea a) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de Fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de Setembro, e [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de Junho]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf))](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf)
 
 3 - Resultados
 
 Responsabilidades totais em 1 de Janeiro de 1994: 15023200 contos, distribuídas da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf))](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf)
 
 4 - Benefícios garantidos
 
 Os constantes do artigo 5.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de Fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de Setembro, e [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de Junho:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf))](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/165b00/39153917.pdf)
 
 Valor de referência: pensão calculada em cada momento pela Caixa Geral de Aposentações, integrando o tempo de serviço militar do beneficiário, até ao limite de 36 anos, a remuneração base do respectivo escalão, o suplemento da condição militar e os suplementos abrangidos pela alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação (com excepção dos auferidos pelo desempenho de cargos não integrados na estrutura das Forças Armadas ou funções não previstas no Estatuto dos Militares das Forças Armadas), conforme estabelecido nos n.os 4 e 5 do artigo 5.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de Fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de Setembro, e [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de Junho.
 

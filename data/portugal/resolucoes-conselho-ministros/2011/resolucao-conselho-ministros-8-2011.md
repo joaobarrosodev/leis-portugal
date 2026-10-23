@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/8/2011/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-2011-280944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 790aaddab1ccf2e148f92933c1d36f68f63806d563782349fce5c80ecd71c7ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d70a6e858009128c872761cf8e7c95b240d87cbc19add7523d819d1751fddb79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Ortográfico da Língua Portuguesa
-- Educação
 - Diário da República
-- Material de Ensino
+- Educação
 - Manual Escolar
+- Material de Ensino
 - Página na Internet
 - Sistema de Educação
 relationships:
@@ -99,16 +99,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/35/2008/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/35/2008/07/29/p/dre
+- type: cites
+  target: pt:dre:403301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636177:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:606158:por
+  label: "Revogado, a partir de 15.01.2014, o Dec Lei 261/2007 de 17-jul, na redação do presente diploma, pelo DEC LEI.5/2014.14.01.2014.MECI,\
+    \ DR.IS [9] de 14.01.2014, sem prejuízo do disposto no art. 20.º deste \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2014-606158
+  date: '2014-01-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:10Z'
   warnings: []
   errors: []
 ---

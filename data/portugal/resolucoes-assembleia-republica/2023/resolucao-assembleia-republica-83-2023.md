@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13500/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/83/2023/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/83-2023-215603986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfd0b5dff2a7b1e96fa8180187345862e59c9da5c7465a0d350cb6d7fcaf7eca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 490d609ac718acf91d0324f08e7b7d3b9b86bfbbfd812486ba420bb9ca0d0e6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Marinha Mercante
-- Pessoal do MAR
+- Armador
 - Convenção
+- Genebra
+- Marinha Mercante
+- OIT
+- Pessoal do MAR
 - Portugal
 - Regime Laboral
-- OIT
-- Armador
-- Genebra
 - Tripulação
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:215603985:por
+  label: Ratificadas as Emendas de 2016 à Convenção do Trabalho Marítimo pelo(a) Decreto do Presidente da República n.º 65/2023
+    - Diário da República n.º 135/2023, Série I de 2023-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/65-2023-215603985
+  date: '2023-07-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:15Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de junho de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 AMENDEMENTS DE 2016 À LA CONVENTION DU TRAVAIL MARITIME, 2006
 
@@ -191,7 +197,7 @@ Substituir o atual n.º 4 pelo texto seguinte:
 
 «Sem prejuízo do disposto no n.º 1 da presente norma, quando, após uma inspeção de renovação concluída antes da cessação da validade do certificado de trabalho marítimo, for verificado que o navio continua a cumprir a legislação nacional ou outras medidas que visam aplicar as disposições da presente Convenção, mas o novo certificado não pode ser emitido de imediato e disponibilizado a bordo do navio, a autoridade competente ou organização reconhecida, devidamente autorizada para o efeito, pode prorrogar a validade do certificado por um período não superior a cinco meses, a contar da data de cessação do certificado existente. O novo certificado é válido por um período não superior a cinco anos, a contar da data indicada no n.º 3 da presente norma.»
 
-## Anexo A5-II - Certificado de trabalho marítimo
+Anexo A5-II - Certificado de trabalho marítimo
 
 Aditar o seguinte texto no final do modelo do certificado de trabalho marítimo:
 
@@ -215,10 +221,12 @@ O texto que precede é o texto autêntico das emendas devidamente adotadas pela 
 
 Em fé do que nós apusemos a nossa assinatura neste 10.º dia de junho de 2016.
 
-**A Presidente da Conferência:**
+A Presidente da Conferência:
 
 Mildred Oliphant.
 
 O Diretor-Geral do Secretariado Internacional do Trabalho:
 
 Guy Ryder.
+
+116622767

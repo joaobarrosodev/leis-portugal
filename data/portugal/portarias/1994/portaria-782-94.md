@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/782/1994/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/782-1994-655335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 279ddd970f688932d7fe7835f153903bd80c38d47b33968ad88f5ec5b2a6e177
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8efc77409bf5af93c21a0d2c50a352b0081afa6dc00851b8b729164ac5c16fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ subjects:
 - Empreiteiro de Obras Públicas
 - Industrial da Construção Civil
 - Obras Públicas
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:00Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +102,12 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 1.º Às classes das autorizações contidas nos alvarás de empreiteiro de obras públicas e de industrial da construção civil correspondem os valores das obras indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/200b00/50285028.pdf))](https://files.diariodarepublica.pt/1s/1994/08/200b00/50285028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/200b00/50285028.pdf)
 
 2.º O disposto na presente portaria vigora durante todo o ano civil de 1995.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 28 de Julho de 1994.**
+Assinada em 28 de Julho de 1994.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.

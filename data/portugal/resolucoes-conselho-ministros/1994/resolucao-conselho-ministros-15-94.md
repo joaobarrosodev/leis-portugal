@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/15/1994/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-1994-283138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 158df3054c309478b9e694ed80b83863e96d3b7d650bf6da7a99e0f0c22e87b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e21d3b3b566a287b94c1c071db4ee8491b4605597ca870f5c57d715c9a6b1160
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aterro Sanitário
 - Gestão de Resíduos
+- Oeiras
 - Ordenamento do Território
 - Plano Director Municipal
-- Aterro Sanitário
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
-- Oeiras
 relationships:
+- type: amended_by
+  target: pt:dre:463590:por
+  label: "Ratificada a alteração ao n.º 3 do artigo 2.º do Regulamento, pela RES.65/95.06.07.1995.PCM, DR.IS-B [154] de 06.07.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/65-1995-463590
+  date: '1995-07-06'
+- type: amended_by
+  target: pt:dre:70280688:por
+  label: Aprovada a Revisão do Plano Diretor Municipal de Oeiras ratificado pela presente Resolução, na redação da Res 65/95
+    de 06-jul, da PCM, pelo(a) Aviso n.º 10445/2015 - Diário da República n.º 179/2015, Série II de 2015-09-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10445-2015-70280688
+  date: '2015-09-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -90,16 +102,148 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/183/1992/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/183/1992/03/16/p/dre
+- type: cites
+  target: pt:dre:142362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
 article_structure:
   article_count: 106
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:01Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +298,7 @@ Presidência do Conselho de Ministros, 27 de Janeiro de 1994. - O Primeiro-Minis
 
 Regulamento do Plano Director Municipal de Oeiras
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ### CAPÍTULO I — Disposições prévias
 
@@ -244,7 +388,7 @@ c) A organização da rede urbana, por forma a impedir a proliferação de urban
 
 d) A criação das infra-estruturas, equipamentos e áreas verdes necessários à preservação do meio ambiente e à melhoria da qualidade de vida das populações.
 
-# PARTE II — Ordenamento
+## PARTE II — Ordenamento
 
 ### CAPÍTULO I — Condicionantes
 
@@ -586,7 +730,7 @@ A área da Quinta da Moura consta da planta de ordenamento e é descrita no rela
 
 A expansão urbana da referida área deve confinar-se ao perímetro delimitado, mantendo a actual tipologia e uso do solo, bem como os respectivos índices.
 
-# PARTE III — Áreas de intervenção sectorial
+## PARTE III — Áreas de intervenção sectorial
 
 ### CAPÍTULO I — Habitação
 
@@ -760,7 +904,7 @@ b) A ampliação das construções ou a edificação de novas construções apen
 
 2 - A apresentação de qualquer projecto de alteração ou reconversão de usos, ampliação das edificações existentes ou de novas construções está sujeita à aprovação de um estudo prévio.
 
-# PARTE IV — Disposições administrativas e processuais
+## PARTE IV — Disposições administrativas e processuais
 
 ### CAPÍTULO I — Execução e avaliação
 
@@ -916,7 +1060,7 @@ O processo de alteração rege-se pelo disposto nos n.os 1 e 3 do artigo anterio
 
 ## ANEXO I — UOPG's - Aglomerados urbanos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/068b00/14121423.pdf))](https://files.diariodarepublica.pt/1s/1994/03/068b00/14121423.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/068b00/14121423.pdf)
 
 Perímetro do aglomerado (PA) - expresso em hectares e definido pelo limite do espaço urbano e urbanizável e industrial existente e previsto que lhes são contíguos.
 
@@ -1014,4 +1158,4 @@ Servidão da Bateria da Parede - [Lei n.º 2078](https://diariodarepublica.pt/dr
 
 Localização do aterro sanitário de Laveiras/Caxias e respectiva zona de protecção, representadas na planta de condicionantes 3 A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/068b00/14121423.pdf))](https://files.diariodarepublica.pt/1s/1994/03/068b00/14121423.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/068b00/14121423.pdf)

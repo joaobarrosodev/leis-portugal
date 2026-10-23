@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/118/1996/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/118-1996-407294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e54d48bd49a9cee140b539c6d9030bed04b2f5714f259d0cc04bcff9120ff0d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf79fac94224ba99508372c33e14ac33e1c197a94e191fae4f88875437c78e92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Boticas
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:247433:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247433:por
+  label: "Aprovada, nos termos da planta anexa, a alteração de delimitação da Reserva Ecológica Nacional para a área do município\
+    \ de Boticas, pela RES.46/2008.29.02.2008.PCM, DR.IS [43] de 29.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/46-2008-247433
+  date: '2008-02-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -83,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:47Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +139,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 3 de Julho de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/177b00/22502258.pdf))](https://files.diariodarepublica.pt/1s/1996/08/177b00/22502258.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/177b00/22502258.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/211b00/53765376.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/807/1994/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/807-1994-591720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4145d9a9a3c0440e30f98fde7edcaa867b91c55259e4519cf2348f59d4674fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7fb8130bf75f7dfdc1f9e1adcf78ef96ff316ce417f422071708523ce35ecce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,44 @@ reuse:
 subjects:
 - Alcácer do SAL
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 relationships:
+- type: amended_by
+  target: pt:dre:59039523:por
+  label: Tornada pública a aprovação da suspensão do Plano de Pormenor de Alberge, Alcácer do Sal, publicado em anexo ao presente
+    diploma e o estabelecimento das respetivas medidas preventivas pelo(a) Aviso n.º 13146/2014 - Diário da República n.º
+    229/2014, Série II de 2014-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13146-2014-59039523
+  date: '2014-11-26'
+- type: amended_by
+  target: pt:dre:114123401:por
+  label: Tornada pública a revogação do Plano de Pormenor de Alberge pelo(a) Aviso n.º 13020/2017 - Diário da República n.º
+    209/2017, Série II de 2017-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13020-2017-114123401
+  date: '2017-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:38Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +125,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 3 de Agosto de 1994.**
+Assinada em 3 de Agosto de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor de Alberge
 
@@ -116,38 +137,38 @@ O presente Regulamento diz respeito ao Plano de Pormenor de Alberge, concelho de
 
 II - Condições gerais
 
-###### Artigo 1.º Todas as obras que venham a efectuar-se na área do Plano terão de ajustar-se a este Regulamento, à legislação vigente, ao Regulamento Geral das Edificações Urbanas, aos regulamentos camarários e bem assim a todas as normas que venham a ser estabelecidas pela Câmara Municipal de Alcácer do Sal e demais entidades competentes.
+Artigo 1.º Todas as obras que venham a efectuar-se na área do Plano terão de ajustar-se a este Regulamento, à legislação vigente, ao Regulamento Geral das Edificações Urbanas, aos regulamentos camarários e bem assim a todas as normas que venham a ser estabelecidas pela Câmara Municipal de Alcácer do Sal e demais entidades competentes.
 
-###### Art. 2.º Não poderá dar-se início a nenhuma construção nova, alteração, ampliação ou reparação de construção sem prévia licença da Câmara Municipal de Alcácer do Sal, requerida em conformidade com as regras estabelecidas por esta última e com a legislação aplicável.
+Art. 2.º Não poderá dar-se início a nenhuma construção nova, alteração, ampliação ou reparação de construção sem prévia licença da Câmara Municipal de Alcácer do Sal, requerida em conformidade com as regras estabelecidas por esta última e com a legislação aplicável.
 
-###### Art. 3.º Com o fim de salvaguardar os aspectos estéticos, funcionais e de integração para a obtenção da licença camarária referida no artigo anterior, poderá a Câmara Municipal, sempre que assim o entender, solicitar à PROJECOOP a elaboração de um parecer que fundamente a sua decisão.
+Art. 3.º Com o fim de salvaguardar os aspectos estéticos, funcionais e de integração para a obtenção da licença camarária referida no artigo anterior, poderá a Câmara Municipal, sempre que assim o entender, solicitar à PROJECOOP a elaboração de um parecer que fundamente a sua decisão.
 
-###### Art. 4.º Os lotes previstos no Plano de Pormenor e indicados na planta de apresentação (síntese) destinam-se à construção de moradias em banda contínua ou geminadas de um só piso, constituídas por um único fogo.
+Art. 4.º Os lotes previstos no Plano de Pormenor e indicados na planta de apresentação (síntese) destinam-se à construção de moradias em banda contínua ou geminadas de um só piso, constituídas por um único fogo.
 
 § 1.º Nos lotes n.os 13, 18, 23 e 62 as moradias unifamiliares serão isoladas, a desenvolver num só piso.
 
 § 2.º Os lotes n.os 44 e 53 destinam-se a habitação e comércio associado, devendo este último localizar-se da forma indicada nas peças desenhadas do Plano.
 
-###### Art. 5.º As frentes das habitações devem respeitar os alinhamentos definidos nas peças desenhadas do Plano.
+Art. 5.º As frentes das habitações devem respeitar os alinhamentos definidos nas peças desenhadas do Plano.
 
-###### Art. 6.º Deverão ser respeitados os afastamentos indicados nas peças desenhadas do Plano.
+Art. 6.º Deverão ser respeitados os afastamentos indicados nas peças desenhadas do Plano.
 
-###### Art. 7.º A área total do pavimento das construções (área de construção) não pode ultrapassar 60% da área total do lote.
+Art. 7.º A área total do pavimento das construções (área de construção) não pode ultrapassar 60% da área total do lote.
 
 § 1.º Entende-se como área total do pavimento a área limitada pelas paredes exteriores. A área será medida segundo a sua projecção horizontal.
 
 § 2.º Sempre que haja garagens, arrecadação ou outras dependências que o proprietário julgue indispensáveis à organização do seu fogo, estas, juntamente com a habitação, não podem exceder a percentagem de ocupação definida no corpo deste artigo.
 
-###### Art. 8.º Os lotes são indivisíveis, sendo constituídos 62 lotes de acordo com a numeração expressa na planta de apresentação (síntese).
+Art. 8.º Os lotes são indivisíveis, sendo constituídos 62 lotes de acordo com a numeração expressa na planta de apresentação (síntese).
 
-###### Art. 9.º A cor dos edifícios será obrigatoriamente branca, com excepção dos socos, molduras dos vãos, cimalhas e cunhais dos edifícios, onde deverão aplicar-se cores mais escuras e tradicionalmente usadas.
+Art. 9.º A cor dos edifícios será obrigatoriamente branca, com excepção dos socos, molduras dos vãos, cimalhas e cunhais dos edifícios, onde deverão aplicar-se cores mais escuras e tradicionalmente usadas.
 
-###### Art. 10.º As futuras construções que se realizem dentro da área do Plano, nomeadamente os equipamentos previstos, deverão respeitar o espírito deste Regulamento, especialmente no que diz respeito à preservação das características arquitectónicas da região.
+Art. 10.º As futuras construções que se realizem dentro da área do Plano, nomeadamente os equipamentos previstos, deverão respeitar o espírito deste Regulamento, especialmente no que diz respeito à preservação das características arquitectónicas da região.
 
-###### Art. 11.º Na zona definida por non aedificandi nos desenhos do Plano não é permitida a construção de edificações, exceptuando-se pequenas construções de carácter provisório destinadas a armazenamento de máquinas e produtos agrícolas.
+Art. 11.º Na zona definida por non aedificandi nos desenhos do Plano não é permitida a construção de edificações, exceptuando-se pequenas construções de carácter provisório destinadas a armazenamento de máquinas e produtos agrícolas.
 
-###### Art. 12.º Na zona de protecção à estrada nacional n.º 5 definida nos desenhos do Plano não é permitida a construção de qualquer edificação.
+Art. 12.º Na zona de protecção à estrada nacional n.º 5 definida nos desenhos do Plano não é permitida a construção de qualquer edificação.
 
-###### Art. 13.º Os muros de separação dos lotes deverão ser construídos em alvenaria rebocada e pintada ou caiada a branco, não devendo a sua altura exceder 1,20 m. Admite-se que a separação entre os lotes possa ser constituída por sebes de arbustos devidamente tratados.
+Art. 13.º Os muros de separação dos lotes deverão ser construídos em alvenaria rebocada e pintada ou caiada a branco, não devendo a sua altura exceder 1,20 m. Admite-se que a separação entre os lotes possa ser constituída por sebes de arbustos devidamente tratados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b00/53765376.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b00/53765376.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b00/53765376.pdf)

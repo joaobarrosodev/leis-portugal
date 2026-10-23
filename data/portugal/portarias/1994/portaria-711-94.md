@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/711/1994/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-1994-222991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: faa14a6e4d992525c177f987db76c2e309ce92e71bebc4256684033d092951bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfc05dfec578d90da2dd890cf935725c275f5db5f9dbd51464c1f457bb17791c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Escola Superior de Enfermagem
 - Pessoal de Enfermagem
-- Vila Real
 - Quadro de Pessoal
+- Vila Real
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/1992/08/05/p/dre
@@ -79,16 +79,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1085/1992/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1085/1992/11/26/p/dre
+- type: cites
+  target: pt:dre:274440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599119:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:19Z'
   warnings: []
   errors: []
 ---
@@ -109,10 +121,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 24 de Junho de 1994.**
+Assinada em 24 de Junho de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal da Escola Superior de Enfermagem de Vila Real
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/182b00/45154516.pdf))](https://files.diariodarepublica.pt/1s/1994/08/182b00/45154516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/182b00/45154516.pdf)

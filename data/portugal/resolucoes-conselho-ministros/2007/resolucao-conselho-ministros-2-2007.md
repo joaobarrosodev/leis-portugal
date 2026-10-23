@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/2/2007/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2007-262345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40285ab47b93f1f0d0137c3a3b3b743924337c26011402d8a08b901887bacb76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca0cf883588d905f0f155e6c463fb66690ffde97d3c57314f8010dc37f4bab55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Montemor-o-Novo
 - Ordenamento do Território
 - Plano Director Municipal
-- Montemor-o-Novo
 - Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:2485869:por
+  label: "Tornada pública a aprovação da correção material ao Plano Diretor Municipal de Montemor-o-Novo e publicadas em anexo\
+    \ as cartas de ordenamento pela DECL.206/2012.11.10.2012.MMONTEMOR-O-NOV, DR.IIS [197] de 11.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/206-2012-2485869
+  date: '2012-10-11'
+- type: amended_by
+  target: pt:dre:66071290:por
+  label: Tornada pública a suspensão do art. 10.º do Regulamento do Plano de Urbanização de Montemor-o-Novo, ratificado pela
+    Res 54/2005 de 07-mar da PCM, com as alterações ratificadas pela presente, pelo(a) Aviso n.º 147/2015 - Diário da República
+    n.º 4/2015, Série II de 2015-01-07, que publicou igualmente a aprovação de medidas preventivas para a mesma área pelo
+    período de dois anos.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/147-2015-66071290
+  date: '2015-01-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/169/2005/09/26/p/dre
   label: null
@@ -111,16 +125,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8/1994/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/1994/02/02/p/dre
+- type: cites
+  target: pt:dre:147612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688035:por
+  label: null
+  source: null
 article_structure:
   article_count: 46
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:09Z'
   warnings: []
   errors: []
 ---
@@ -1153,4 +1255,4 @@ Parque urbano.
 
 2 - Equipamentos de menor dimensão, nomeadamente escolas do 1.º e 2.º ciclos do ensino básico, centros infantis, extensões do Centro de Saúde e outros de nível idêntico, instalar-se-ão nos aglomerados de nível II e serão localizados de acordo com o Plano de Urbanização ou planos de pormenor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00400/00490065.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00400/00490065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00490065.pdf)

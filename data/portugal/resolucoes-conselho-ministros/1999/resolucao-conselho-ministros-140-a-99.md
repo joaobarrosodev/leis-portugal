@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 271/1999, 1º Suplemento, Série I-B de 1999-11-20
   number: '271'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8276-(2) a 8276-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/271b01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/140-a/1999/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/140-a-1999-529605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 164fe73056b6b0c915f548a7e9fec8096d2a4437a2996dea20fa75bddf5902e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8cc77e8567bc72064ae27623498f19b82a1a8ac2ec8434c998af23da5776a80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77-a/1999/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77-a/1999/07/23/p/dre
+- type: cites
+  target: pt:dre:234757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673254:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:19Z'
   warnings: []
   errors: []
 ---

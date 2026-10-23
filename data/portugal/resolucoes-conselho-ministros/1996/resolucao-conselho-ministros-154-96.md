@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/154/1996/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-1996-219731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3cb903c71758b58ce97cec3137e0b83fd92df4553176af6dad61c034f0a6509
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68d7b9af4b60ffd314ed1e455de564bc57be3e99893d68022a1e69a00028b106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Comissão de Coordenação Regional
+- Criação de Emprego
 - Definição de Competências
 - Desenvolvimento Regional
-- Comissão de Coordenação Regional
-- Incentivos ao Desenvolvimento
-- Criação de Emprego
-- Programa das Iniciativas de Desenvolvimento Local
-- Microempresa
-- Regulamento
+- Financiamento
 - IAPMEI
+- Incentivos ao Desenvolvimento
+- Microempresa
+- Programa das Iniciativas de Desenvolvimento Local
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:391580:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515398:por
+  label: "Alterado o num 1 do art 9º, a al b) do art 6º e o num 7 do art 5º do Regulamento aprovado pelo presente diploma,\
+    \ pela Res.35/97.1997.01.09.PCM, DR.IS-B [56] de 1997.03.07\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/35-1997-515398
+  date: '1997-01-09'
+- type: amended_by
+  target: pt:dre:175357:por
+  label: "Alterada a redacção dos arts. 3º, 8º, 9º, 10º e 13º e o Anexo I - quadro nº 1 do Regulamento aprovado pelo presente\
+    \ diploma, pela RES.51/98.1998.04.02.PCM, DR.IS-A [92] de 20/Abr/1998, com a redacção dada pela Res 35/97 de 09-Jan da\
+    \ PCM\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/51-1998-175357
+  date: '1998-04-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/34/1995/02/11/p/dre
   label: null
@@ -96,16 +109,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/57/1995/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/57/1995/06/17/p/dre
+- type: cites
+  target: pt:dre:198144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:516525:por
+  label: "Rectificada pela DECL-RECT.14-M/96.30.09.1996.PCM, DR.IS-B [227]4ºSupl de 30.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-m-1996-516525
+  date: '1996-09-30'
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:22Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +180,7 @@ Presidência do Conselho de Ministros, 14 de Agosto de 1996. - O Primeiro-Minist
 
 REGULAMENTO DE APLICAÇÃO DO REGIME DE INCENTIVOS ÀS MICROEMPRESAS
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 1.º
 
@@ -198,7 +236,7 @@ Tipo de projectos
 
 3 - Podem também ser apresentados projectos de investimento incorpóreo, desde que estejam associados a projectos de investimento produtivo e sejam apresentados simultaneamente com estes pelo mesmo promotor, não podendo o valor somado dos dois investimentos ultrapassar o valor de 20000 contos.
 
-# PARTE II — Condições de acesso
+## PARTE II — Condições de acesso
 
 6.º
 
@@ -302,7 +340,7 @@ b) Os subsídios a fundo perdido para a criação de emprego são iguais a 12 ve
 
 7 - O limite disposto no número anterior não se aplica a projectos apresentados por novas empresas cujo capital social seja detido exclusivamente por desempregados.
 
-# PARTE III — Critérios de classificação dos projectos de investimento
+## PARTE III — Critérios de classificação dos projectos de investimento
 
 10.º
 
@@ -376,7 +414,7 @@ Despesas elegíveis
 
 3 - Não podem ser apoiadas despesas com aquisição de equipamento em estado de uso, salvo em circunstâncias excepcionais, devidamente fundamentadas pelo promotor e autorizadas pelas comissões regionais de selecção, no âmbito das suas competências, nomeadamente as constantes da alínea a) do n.º 3.1 do artigo 13.º, sob proposta das entidades locais que prestam serviços de recepção de candidaturas, referidas no n.º 2 do artigo seguinte e nos termos da sua alínea f) do n.º 2.1.
 
-# PARTE IV — Quadro institucional de gestão do regime de incentivos
+## PARTE IV — Quadro institucional de gestão do regime de incentivos
 
 12.º
 
@@ -526,7 +564,7 @@ c) Apresentar estudos, relatórios, pareceres e informações, por iniciativa pr
 
 2 - O coordenador nacional e o conselho coordenador são assistidos por um serviço de apoio técnico e administrativo.
 
-# PARTE V — Tramitação, decisão e formalização das candidaturas
+## PARTE V — Tramitação, decisão e formalização das candidaturas
 
 15.º
 

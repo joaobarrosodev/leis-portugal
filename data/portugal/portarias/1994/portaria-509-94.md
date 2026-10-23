@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/509/1994/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/509-1994-291246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acbe6dfcc2c63068df01e1620dc2a266d5f0b29f3ef626a1aad7eb56a40f446b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07a5ffea355f70c705ed847af2c3180c49f098806eea289a588b14ab0d1fda5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,23 @@ relationships:
   target: pt:dre:287636:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERA A REDACÇÃO DO NUM 1 E SUBSTITUÍDA A PLANTA ANEXO PELA PORT 1008/95 DE 19-AGO DR.IS-B [191]\0B [191]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-19'
+- type: amended_by
+  target: pt:dre:650311:por
+  label: "Alterado o nº 1º e aditado o nº 1º-A pela PORT.956/97.1997.09.12.MADRP, DR.IS-B [211], que mantém em vigor o restante\
+    \ preceituado\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/956-1997-650311
+  date: '1997-09-12'
+- type: amended_by
+  target: pt:dre:287636:por
+  label: "Renovada por 12 anos a concessão de zona de caça e anexados vários prédios rústicos à mesma, com a redacção conferida\
+    \ nas Port 1008/95, de 19-Ago e 956/97, de 12-Set, pela PORT.493/2006.30.05.2006.MADRP, DR.IS-B [104] de 30.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/493-2006-287636
+  date: '2006-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:29:25Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +162,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 17 de Junho de 1994.**
+Assinada em 17 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155b00/36293630.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155b00/36293630.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155b00/36293630.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/38/2004/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/38-2004-210027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d422605e108bd8dde5d75d9781072cdbccaf7b2df28e65e5487a51130fd2c480
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cce9fb764c7ee2d704588d416f9a125661813342e97d737b2bd885e3fcc4d268
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,33 @@ reuse:
 subjects:
 - Castro Marim
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Pormenor
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:3016977:por
+  label: "Tornado público o registo do Plano de Pormenor n.º 1 de Altura, compatível com o Plano Director Municipal de Castro\
+    \ Marim, ratificado pela Res 56/94 de 20-Jul, da PCM, com alterações ratificadas pelo presente diploma, pela DECL.312/2007.14.11.2007.DGOTDU-MAOTDR,\
+    \ DR.IIS [219] de 14.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/312-2007-3016977
+  date: '2007-11-14'
+- type: amended_by
+  target: pt:dre:74477469:por
+  label: Tornada pública a correção material da planta de ordenamento (na redação da presente Resolução) do PDM de Castro
+    Marim ratificado pela Res 56/94 de 20-jul, pelo(a) Declaração n.º 35/2016 - Diário da República n.º 96/2016, Série II
+    de 2016-05-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/35-2016-74477469
+  date: '2016-05-18'
+- type: amended_by
+  target: pt:dre:74477470:por
+  label: Tornada pública a correção material e a alteração por adaptação da planta de condicionantes (na redação da presente
+    Resolução) do PDM de Castro Marim ratificado pela Res 56/94 de 20-jul, pelo(a) Declaração n.º 36/2016 - Diário da República
+    n.º 96/2016, Série II de 2016-05-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/36-2016-74477470
+  date: '2016-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/152/1997/06/19/p/dre
   label: null
@@ -113,16 +134,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/res
   label: null
   source: http://data.dre.pt/eli/res
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:55Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/906/1994/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/906-1994-618933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e9eeae901647d374a55d4c5ddc9e99e30bf17c8552b1ec7a72ada2e24a59d11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfc580c0d345c1015e52c7b2e10e60dd7d5c4717d765eeb8447561dbb2041745
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Hospital Distrital
 - Descrição de Funções
-- Pessoal Técnico Profissional
 - Figueira da Foz
+- Hospital Distrital
+- Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:484820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:413223:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.266/96.19.07.1996.PCM, DR.IS-B [166] de 19.07.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-1996-413223
+  date: '1996-07-19'
+- type: amended_by
+  target: pt:dre:468604:por
+  label: "Alterado o quadro de pessoal pela PORT.257/97.1997.04.15.PCM, DR.IS-B [88]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/257-1997-468604
+  date: '1997-04-15'
+- type: amended_by
+  target: pt:dre:484820:por
+  label: "Substituido o quadro de pessoal anexo ao presente diploma, pela PORT.393/98.1998.07.11.PCM DR.IS-B [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-1998-484820
+  date: '1998-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1202/1992/12/23/p/dre
   label: null
@@ -87,16 +103,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/422/1992/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/422/1992/05/22/p/dre
+- type: cites
+  target: pt:dre:180458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624028:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:06Z'
   warnings: []
   errors: []
 ---
@@ -121,13 +193,13 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 19 de Setembro de 1994.**
+Assinada em 19 de Setembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital Distrital da Figueira da Foz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/235b00/61526156.pdf))](https://files.diariodarepublica.pt/1s/1994/10/235b00/61526156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/235b00/61526156.pdf)
 
 ## ANEXO I
 
@@ -137,19 +209,19 @@ Repartição de Pessoal e Admissão de Doentes, com:
 
 #### Secção de Pessoal;
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
 Repartição de Contabilidade, com:
 
 #### Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 Repartição de Aprovisionamento, com:
 
 #### Secção de Gestão de Stocks;
 
-#### Secção de Aquisições e Armazéns.
+Secção de Aquisições e Armazéns.
 
 ## ANEXO II — Carreira de pessoal técnico-profissional de nível 3
 

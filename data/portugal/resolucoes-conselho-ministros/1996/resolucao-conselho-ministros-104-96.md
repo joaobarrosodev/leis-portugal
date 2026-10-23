@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/104/1996/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-1996-422852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2bec38adaf0202028ecefd1c38d42d6fec0721de538d7a03da860163f005ed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b98ea4b27bfbb480ab9f72533cdc5fec9bec9fd24374c10c9fb098985d20f8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão para o Mercado Social de Emprego
+- Criação de Emprego
 - Criação de Serviços
 - Definição de Competências
-- Criação de Emprego
-- Mercado Social de Emprego
 - Economia Social
 - Emprego
-- Promoção de Emprego
 - Mercado do Trabalho
+- Mercado Social de Emprego
+- Promoção de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:66325237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517264:por
+  label: "Alterados os num 11.2, 11.5 e 11.6, e aditado o num 11.7 pela RES.39/97.1997.02.20.PCM, DR.IS-B [61] de 1997.03.13\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-1997-517264
+  date: '1997-02-20'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Actividades Económicas e do Trabalho da Comissão do Mercado Social\
+    \ de Emprego (integrada no agora extinto Ministério da Segurança Social e do Trabalho), pelo DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade Social da Comissão do Mercado Social de\
+    \ Emprego (integrada no extinto Ministério das Actividades Económicas e do Trabalho), criada no presente diploma, pelo\
+    \ DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extinta a Comissão do Mercado Social de Emprego criada no presente diploma e integrada no MTSS pelo Dec Lei 79/2005\
+    \ de 15-Abr, pelo DEC LEI.211/2006.27.10.2006.MTSSO, DR.IS [208] de 27.10.2006, nos termos do preceituado no respectivo\
+    \ art. 36º, sendo as suas atribuições integradas no Instituto de Emprego e Formação Profissional.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10-a/1996/03/23/p/dre
   label: null
@@ -87,16 +114,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/247/1995/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/247/1995/03/29/p/dre
+- type: cites
+  target: pt:dre:173696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477287:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66325237:por
+  label: Revogada a partir de 31.01.2015 pelo(a) Decreto-Lei n.º 13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:32Z'
   warnings: []
   errors: []
 ---

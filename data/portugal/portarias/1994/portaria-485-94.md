@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/485/1994/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/485-1994-291444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40c617a3e0643d7fa53b7d34c54e37584c1b7f04180f8fc3bc5641903e3c018b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3a0ee8ebbbb60a09cc7d528c6bffd7a9e9e184f860a92712b006db80afd6b4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Diploma
 - Ensino Oficial
 - Escola Superior de Enfermagem
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:49Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +106,9 @@ Manda o Governo, pelos Ministros da Educação e da Saúde, aprovar o modelo de 
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 19 de Maio de 1994.**
+Assinada em 19 de Maio de 1994.
 
-**A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO I — Escolas superiores de enfermagem públicas
 

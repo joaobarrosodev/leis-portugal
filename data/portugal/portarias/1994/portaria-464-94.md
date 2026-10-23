@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/150b00/34843485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/464/1994/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/464-1994-291625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37e081a650a0b4a40328bfe5022e7cb75ef27dfd0e38b698fdd73df79cd7dc91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cb41d21362635112fe2bc94a53800a8667b3fba34d2894abd466227b956c62a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Residência de Estrangeiros
+- Admissão de Estrangeiros
 - Boletim de Alojamento
 - Cidadão Estrangeiro
 - Impresso
-- Admissão de Estrangeiros
+- Residência de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:449466:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518616:por
+  label: "Mantidos em vigor, pelo prazo de seis meses, os procedimentos de entrega dos boletins de alojamento, definidos no\
+    \ presente diploma, quanto às entidades que não disponham de meios ou, por outra razão, entendam não optar pelos meios\
+    \ de comunicação previstos no nº 6º pela PORT.287/2007.16.03.2007.MAI, DR.IS [54] de 16.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/287-2007-518616
+  date: '2007-03-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/59/1993/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/1993/03/03/p/dre
+- type: cites
+  target: pt:dre:626471:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:182858:por
+  label: "Revogado o nº 3º pela PORT.72/99.1999.01.29.MF, DR.IS-B [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1999-182858
+  date: '1999-01-29'
+- type: repealed_by
+  target: pt:dre:449466:por
+  label: "Revogada, a partir de 16.06.2008, pela PORT.415/2008.11.06.2008.MAI, DR.IS [3393] de 11.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/415-2008-449466
+  date: '2008-06-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:18Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +130,8 @@ Assim, ao abrigo do disposto nos artigos 65.º e 66.º do [Decreto-Lei n.º 59/9
 
 Ministérios da Administração Interna e das Finanças.
 
-**Assinada em 17 de Junho de 1994.**
+Assinada em 17 de Junho de 1994.
 
 Pelo Ministro da Administração Interna, Carlos Manuel Sousa Encarnação, Secretário de Estado Adjunto do Ministro da Administração Interna. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/150b00/34843485.pdf))](https://files.diariodarepublica.pt/1s/1994/07/150b00/34843485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/150b00/34843485.pdf)

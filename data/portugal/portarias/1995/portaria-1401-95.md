@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1401/1995/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1401-1995-692449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39598a8bb021f70729c8b5774d03098956b761e861cfdda37efa952763eeb48b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9099f1ed9f98f0764eb9b09e1859d32f88a6ee50b606b2a3e78ef9e343711157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,26 @@ relationships:
   target: pt:dre:616064:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650100:por
+  label: "Alterado nº 1º da Port 636/92 de 03-Jul, na redacção do presente diploma, pela PORT.911/97.1997.09.11.MADRP, DR.IS-B\
+    \ [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/911-1997-650100
+  date: '1997-09-11'
+- type: amended_by
+  target: pt:dre:515424:por
+  label: "Suspenso, pelo prazo máximo de nove meses, o exercício da caça e de actividades de carácter venatório na zona de\
+    \ caça associativa atribuída pela Port 636/92 de 03-Jul, na redacção do presente diploma, pela Port.1009/2004.09.08.2004.MADRP,\
+    \ DR.IS-B [186] de 09.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1009-2004-515424
+  date: '2004-08-09'
+- type: amended_by
+  target: pt:dre:616064:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa concessionada pela Port 636/92, de\
+    \ 03-Jul, alterada pelo presente diploma e pela Port 911/97, de 11-Set, pela PORT.1264-P/2004.29.09.2004.MAPF, DR.IS-B\
+    \ [230-Supl] de 29.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1264-p-2004-616064
+  date: '2004-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -85,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/891/1994/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/891/1994/10/03/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600486:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:09Z'
   warnings: []
   errors: []
 ---
@@ -117,8 +153,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 891/94](h
 
 Ministério da Agricultura.
 
-**Assinada em 9 de Outubro de 1995.**
+Assinada em 9 de Outubro de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/271b00/72567256.pdf))](https://files.diariodarepublica.pt/1s/1995/11/271b00/72567256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/271b00/72567256.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/209/1997/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/209-1997-402893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f0f7fadeede39e29d29b74dd017f0741a0befa39d1b819c63903926e0f0c24f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b03699a9d64ef16aa23d59bcf6ef0585b5a1da42f8579f05784ce8db35540450
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Cabeceiras de Basto
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/85/1995/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/85/1995/09/05/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546618:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:44Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +212,7 @@ c) Os afastamentos mínimos das construções aos limites dos lotes serão de 5 
 
 2 - Exceptuam-se do disposto na alínea c) do número anterior os casos em que uma única unidade industrial ocupe mais de um lote, formando bandas contínuas, podendo nestes casos ser adoptados os afastamentos previstos nos esquemas desenhados a seguir, desde que os índices urbanísticos previstos no quadro inserido na planta de implantação sejam respeitados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/283b00/65326535.pdf))](https://files.diariodarepublica.pt/1s/1997/12/283b00/65326535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/283b00/65326535.pdf)
 
 ###### Artigo 8.º — Construção
 
@@ -308,4 +324,4 @@ c) A manutenção do referido colector será da responsabilidade dos seus utente
 
 5 - A Câmara Municipal de Cabeceiras de Basto reserva-se o direito de não admitir unidades industriais fortemente poluentes, nomeadamente tinturarias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/283b00/65326535.pdf))](https://files.diariodarepublica.pt/1s/1997/12/283b00/65326535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/283b00/65326535.pdf)

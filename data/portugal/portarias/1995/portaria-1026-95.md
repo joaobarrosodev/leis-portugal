@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1026/1995/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1026-1995-431580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea5ff64f5932fb6f166903802b9a34427e2c5114dab0315c5346a1fd384a4304
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fb601b93773a66dd849415bd0a68d676a29e21eb3b44c4881f959615e4f8b05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Universidade Lusíada
-- Plano de Estudos
 - Curso de Design Industrial
 - Ensino Particular
-- Licenciatura
 - Ensino Superior
+- Licenciatura
+- Plano de Estudos
+- Universidade Lusíada
 relationships:
 - type: amended_by
   target: pt:dre:532851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:358968:por
+  label: "Alterado o Plano de Estudos pela PORT.376/96.1997.06.11.ME DR.IS-B [133] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/376-1997-358968
+  date: '1997-06-11'
+- type: amended_by
+  target: pt:dre:532851:por
+  label: "Substituido o Plano de Estudos, na redacção da Port 376/97, de 11-Jun, pela PORT.773/99.1999.08.30.ME, DR.IS-B [202]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-1999-532851
+  date: '1999-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:06Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +135,7 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 25 de Julho de 1995.**
+Assinada em 25 de Julho de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
@@ -124,4 +143,4 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 Curso de Design Industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/192b00/52335235.pdf))](https://files.diariodarepublica.pt/1s/1995/08/192b00/52335235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/192b00/52335235.pdf)

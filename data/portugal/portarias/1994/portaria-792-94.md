@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/792/1994/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/792-1994-657421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60a81a134a7f414609837b91e16aad7b431eeab02beb76b09ffbc6355cfd4f97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cee1714e32e7402443d1200e18d19c065aa2a92433b2a6ca13f915fa285d8f18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código do Imposto Municipal de SISA e do Imposto sobre as Sucessões e Doações
-- Sisa
 - Imposto sobre Sucessões e Doações
+- Sisa
 - TAXA de Desconto
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:392835:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:17Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +101,6 @@ Manda o Governo, pelo Ministro das Finanças, nos termos das alíneas a) e b) da
 
 Ministério das Finanças.
 
-**Assinada em 1 de Agosto de 1994.**
+Assinada em 1 de Agosto de 1994.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.

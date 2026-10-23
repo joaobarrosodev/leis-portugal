@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/97/2009/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2009-490430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcc4ed71243983464f18251ddcc29ac5907bf590ab2dd688aba5f3a808a0c0cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d723f1699258766e211c4e5e9e1f2449856b35d78e90694861715d2310547374
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - EP-Estradas de Portugal
-- Rede de Estradas
-- Projeto de Investimento
+- Financiamento
 - Obras Públicas
 - Plano Rodoviario
 - Plano Rodoviario Nacional
+- Projeto de Investimento
+- Rede de Estradas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/2007/11/13/p/dre
@@ -107,16 +107,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/56/2008/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/56/2008/03/26/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:05Z'
   warnings: []
   errors: []
 ---
@@ -183,4 +215,4 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 3 de Setembro de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/18500/0677106772.pdf))](https://files.diariodarepublica.pt/1s/2009/09/18500/0677106772.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/18500/0677106772.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/510/1994/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/510-1994-291248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:29:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da41053356bee7771d639098c27f3ddf6e19814e696d87412f59be609be828aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98cc2a7800adfbae3da35aecef09efe5f0204b3bd762a9ebe8d877028c09d624
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:29:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Oficial
-- Ensino Superior Politécnico
-- Numerus Clausus
-- Estabelecimento de Ensino
-- Prova de Aferição
 - Ensino Superior
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Numerus Clausus
+- Prova de Aferição
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:29:29Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +127,7 @@ São divulgadas, através do anexo II à presente portaria, as vagas para o conc
 
 Ministério da Educação.
 
-**Assinada em 17 de Junho de 1994.**
+Assinada em 17 de Junho de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
@@ -133,14 +137,14 @@ Vagas aprovadas ao abrigo do disposto nos n.os 2 e 5 do artigo 5.º do [Decreto-
 
 I.1 - Ensino universitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155b00/36303639.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155b00/36303639.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155b00/36303639.pdf)
 
 I.2 - Ensino politécnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155b00/36303639.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155b00/36303639.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155b00/36303639.pdf)
 
 ## ANEXO II — Instituições sujeitas a dupla tutela
 
 Vagas aprovadas nos termos do disposto nos n.os 3 e 5 do artigo 5.º do [Decreto-Lei n.º 189/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1992-240823), de 3 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155b00/36303639.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155b00/36303639.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155b00/36303639.pdf)

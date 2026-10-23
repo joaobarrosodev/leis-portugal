@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/100/2012/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2012-190621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b29a6729f62f61ab772bb2c31d831c3bcdc83b7c383fd88da3654d05a292b82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64d8c98287d2000e26a806c232c69913a15f9964a184d309c9148b8febd3a91f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Ordenamento do Território
-- Emparcelamento
-- Feader
 - Aproveitamento Hidroagrícola
-- Matriz Cadastral
+- Emparcelamento
 - Exploração Agrícola
+- Feader
 - Figueira da Foz
+- Financiamento
+- Matriz Cadastral
+- Ordenamento do Território
 - Prédio Rústico
+- Proder
 - Registo Predial
 relationships:
 - type: cites
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/302/2004/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/302/2004/03/20/p/dre
+- type: cites
+  target: pt:dre:333336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541826:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:13Z'
   warnings: []
   errors: []
 ---
@@ -143,4 +155,4 @@ Delimitação do perímetro do projeto de emparcelamento de Maiorca
 
 A norte inicia-se no ponto de intersecção entre a vala da Veia e o caminho de ligação desta mesma com a estrada nacional n.º 111, passando a sul dos Montes de Santa Olaia e Ferrestelo e seguindo pelo troço antigo da estrada nacional n.º 111 até ao limite da freguesia de Santana com a de Montemor-o-Velho. Segue este limite até à intersecção com a vala da Tabueira ou dos Malhões. De seguida inflete para sudoeste, acompanhando esta vala até ao cruzamento com a estrada Santa Eulália-Ereira, coincidindo com esta estrada até à Ponte da Ereira. Desenvolve-se para sudoeste, acompanhando o rio Mondego Velho até à estação elevatória de enxugo de Foja, após o que segue o leito regularizado do rio Mondego até ao início do prédio n.º 25 592 da carta n.º 5, escala de 1:5000 da Direção-Geral dos Serviços Hidráulicos. Inflete para nordeste, acompanhando a vala que se desenvolve ao longo do prédio n.º 25 588 da carta 15, escala de 1:5000 da Direção-Geral dos Serviços Hidráulicos, até à intersecção com a A 14. Neste troço, o limite coincide com a A 14 até ao fim da estrema do prédio n.º 25 548 da carta 5, escala de 1:5000 da Direção-Geral dos Serviços Hidráulicos, ponto em que inflete para sudeste até ao rio Foja. O limite acompanha o leito do rio até ao início da estrema do prédio n.º 25 509 da carta 14, escala de 1:5000 da Direção-Geral dos Serviços Hidráulicos. Fletindo para noroeste na direção dos prédios n.os 25541 e 25542 da carta 14, escala de 1:5000 da Direção-Geral dos Serviços Hidráulicos, até encontrar a vala do Simonte, que passa a acompanhar até ao ponto inicial desta descrição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/23300/0687006871.pdf))](https://files.diariodarepublica.pt/1s/2012/12/23300/0687006871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/23300/0687006871.pdf)

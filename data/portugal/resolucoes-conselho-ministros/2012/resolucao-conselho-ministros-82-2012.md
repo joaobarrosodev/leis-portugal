@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/82/2012/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2012-175808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 620b066e962b3dfa38195f0759c47760e059901e5f2985612ecf55e0e002d0ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb7ef2a6275d1ce1da9649f731c410b270a42488d22a2b002846d853592fa4f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cascais
 - Ordenamento do Território
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
-- Cascais
 relationships:
 - type: amended_by
   target: pt:dre:122074192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75554998:por
+  label: Alterada, a planta de síntese aprovada pela Res. 123/98 de 19-out PCM, na redação do presente diploma, pelo(a) Resolução
+    do Conselho de Ministros n.º 64/2016 - Diário da República n.º 201/2016, Série I de 2016-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/64-2016-75554998
+  date: '2016-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/2011/01/06/p/dre
   label: null
@@ -113,16 +119,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/123/1998/10/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/123/1998/10/19/p/dre
+- type: cites
+  target: pt:dre:240050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:191113:por
+  label: "Retificada a presente resolução, na parte que altera o anexo i [aditando um mapa à planta de síntese - planos de\
+    \ praia ] o anexo ii [alterando um mapa que conste da planta de síntese à escala 1:5000] da Res123/98, de 19-out,da PCM,\
+    \ pela DECL-RECT.64/2012.14.11.2012.PCM, DR.IS [220] de 14.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/64-2012-191113
+  date: '2012-11-14'
+- type: repealed_by
+  target: pt:dre:122074192:por
+  label: Revogado o Plano de Ordenamento da Orla Costeira Cidadela-Forte de São Julião da Barra, aprovado pela Res 123/98
+    de 19-out da PCM, na redação do presente diploma, pelo(a) Resolução do Conselho de Ministros n.º 66/2019 - Diário da República
+    n.º 72/2019, Série I de 2019-04-11, sem prejuízo do seu n.º 6
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/66-2019-122074192
+  date: '2019-04-11'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:35Z'
   warnings: []
   errors: []
 ---
@@ -525,11 +581,11 @@ Funcionalidades e áreas a prever para cada tipo de apoio de praia
 
 (n.º 9 do artigo 69.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0552705535.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0552705535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0552705535.pdf)
 
 Planta de síntese - Planos de praia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0552705535.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0552705535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0552705535.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3)
 
@@ -537,4 +593,4 @@ Planta de síntese à escala 1:5000
 
 ([Resolução do Conselho de Ministros n.º 123/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-1998-240050), de 19 de outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0552705535.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0552705535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0552705535.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/18/2007/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2007-518189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f52c44de5d08bfbee3df37b323879a15893109f038c88b15df3adad6a858505
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44a858417a0963b1a03efc8b3baad83970174c89a91b45a899c8cf07a1008506
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Almada
 - ÁREA de Paisagem Protegida da Arriba Fóssil da Costa da Caparica
-- Ordenamento do Território
+- Capitania
 - Comissão Mista de Coordenação
 - Costa de Caparica
-- Proteção do Ambiente
-- Zona de Proteção
-- Capitania
+- Ordenamento do Território
 - Porto de Setúbal
+- Proteção do Ambiente
 - Sesimbra
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/145/2006/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/145/2006/10/31/p/dre
+- type: cites
+  target: pt:dre:383996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:00Z'
   warnings: []
   errors: []
 ---

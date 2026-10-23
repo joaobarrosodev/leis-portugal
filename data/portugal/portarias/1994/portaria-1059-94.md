@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1059/1994/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1059-1994-549204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61429a1d4262a8c3724d1e2c2be99c7708c8ab4745c705927311bdefa49045e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a31846932416ae9277a2cb860c9bcc6d582301f2446d13e8b9f061cf4522f44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Eléctrica Industrial
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
 - Tomar
 relationships:
@@ -79,16 +79,41 @@ relationships:
   target: pt:dre:176495:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:300849:por
+  label: "Alterado o plano de estudos constante do anexo pela PORT.8/97.1997.01.02.ME DR.IS-B [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/8-1997-300849
+  date: '1997-01-02'
+- type: amended_by
+  target: pt:dre:239989:por
+  label: "Aditado o nº 1-A, revogado o nº 3 e alterado o plano de estudos, pela PORT.914/98.1998.10.20.ME, DR.IS-B [242],\
+    \ na redacção dada pela Port 8/97 de 02-Jan\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/914-1998-239989
+  date: '1998-10-20'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176495:por
+  label: "Revogada, com a redacção dada pelas Port 8/97 de 02-Jan e 914/98 de 20-Out, pela PORT.56/2003.2003.01.16.MCES DR.IS-B\
+    \ [13], nos termos do disposto no respectivo nº 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-2003-176495
+  date: '2003-01-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:39Z'
   warnings: []
   errors: []
 ---
@@ -149,8 +174,8 @@ O curso referido no n.º 1.º entrará em funcionamento, progressivamente, um an
 
 Ministério da Educação.
 
-**Assinada em 14 de Novembro de 1994.**
+Assinada em 14 de Novembro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/278b00/71087109.pdf))](https://files.diariodarepublica.pt/1s/1994/12/278b00/71087109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/278b00/71087109.pdf)

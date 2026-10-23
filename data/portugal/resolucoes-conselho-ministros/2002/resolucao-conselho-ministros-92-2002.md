@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/92/2002/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/92-2002-369674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c6c20da79bbe41b34d5ccdaff87310e1921503b286298a7ab90b2316711b0a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a536ca41eb1800a04dfd909faad2dc4d643cd71323988648e336f149232e45f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Barragem da Caniçada
-- Ordenamento do Território
 - Albufeiras
+- Autarquia Local
+- Barragem da Caniçada
+- Domínio Público Hídrico
 - Medidas Preventivas
 - Montalegre
-- Zona de Proteção
+- Ordenamento do Território
 - Plano de Urbanização
-- Domínio Público Hídrico
 - Regulamento
 - Terras de Bouro
-- Autarquia Local
 - Vieira do Minho
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
@@ -102,16 +102,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/783/1998/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/783/1998/09/19/p/dre
+- type: cites
+  target: pt:dre:241456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
 article_structure:
   article_count: 89
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:00Z'
   warnings: []
   errors: []
 ---
@@ -788,7 +824,7 @@ c) Possuam motores a quatro tempos.
 
 1 - Os parâmetros máximos de edificabilidade a verificar nestes espaços são os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 2 - A área de implantação de construções e ampliações para habitação unifamiliar não pode exceder os 300 m2.
 
@@ -798,13 +834,13 @@ c) Possuam motores a quatro tempos.
 
 QUADRO I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 QUADRO II
 
 Loteamentos > 10 fracções
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 5 - As operações de loteamento de dimensão inferior ao acima referido ou de destaque de parcelas ao abrigo do disposto na legislação aplicável e em situações de alinhamentos preexistentes apenas ficarão sujeitas ao disposto no número anterior caso tal seja reconhecido pela autarquia em causa como de manifesto interesse público.
 
@@ -822,7 +858,7 @@ Loteamentos > 10 fracções
 
 1 - Os parâmetros máximos de edificabilidade a verificar nestes espaços são os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 2 - A área máxima de implantação de construções e ampliações para habitação unifamiliar não pode exceder os 300 m2.
 
@@ -832,13 +868,13 @@ Loteamentos > 10 fracções
 
 QUADRO III
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 QUADRO IV
 
 Loteamentos > 10 fracções
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 5 - As operações de loteamento de dimensão inferior ao acima referido ou de destaque de parcelas ao abrigo do disposto na legislação aplicável apenas ficarão sujeitas ao disposto no número anterior caso tal seja reconhecido pela autarquia em causa como de manifesto interesse público.
 
@@ -1188,7 +1224,7 @@ b) Quaisquer acções que possam implicar a concentração de elevado número de
 
 4 - Para as novas construções os parâmetros de edificabilidade a verificar neste espaço são os constantes nos planos municipais de ordenamento do território que os abranjam, nomeadamente quanto a cérceas, número máximo de pisos, profundidade máxima de empenas, usos, estacionamento, logradouros e indicadores urbanísticos, desde que não ultrapassem os seguintes valores:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 5 - As novas construções bem como as intervenções de ampliação e alteração/conservação de construções existentes deverão integrar-se correctamente na envolvente, nomeadamente pela cor dos materiais de revestimento exterior, bem como pelo tipo e cor das vedações exteriores, devendo ser privilegiados os materiais tradicionais da região ou aqueles que não constituam um impacte visual negativo ou dissonante.
 
@@ -1218,7 +1254,7 @@ b) Quaisquer acções que possam implicar a concentração de elevado número de
 
 4 - Para as novas construções, os parâmetros de edificabilidade a verificar neste espaço são os constantes nos planos municipais de ordenamento do território que os abranjam, nomeadamente quanto a cérceas, número máximo de pisos, profundidade máxima de empenas, usos, estacionamento, logradouros e indicadores urbanísticos, desde que não ultrapassem os seguintes valores:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 5 - Exceptua-se no referido no número anterior a instalação de:
 
@@ -1296,7 +1332,7 @@ b) Quaisquer acções que possam implicar a concentração de elevado número de
 
 4 - Para as novas construções, os parâmetros de edificabilidade a verificar neste espaço são os constantes nos planos municipais de ordenamento do território que os abranjam, nomeadamente quanto a cérceas, número máximo de pisos, profundidade máxima de empenas, usos, estacionamento, logradouros e indicadores urbanísticos, desde que não ultrapassem os seguintes valores:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 5 - Em parcelas objecto de alteração do uso actual do solo pela construção de unidade habitacional ou hoteleira, admite-se a reconversão do uso florestal do solo para uso agrícola, até um máximo de 15% da área total da parcela, desde que tal se revele compatível com o disposto no artigo anterior do presente Regulamento.
 
@@ -1336,7 +1372,7 @@ c) Equipamentos associados aos espaços de lazer e recreio enunciados nos artigo
 
 4 - Os parâmetros de edificabilidade a verificar neste espaço são os constantes nos planos municipais de ordenamento do território que os abranjam, nomeadamente quanto a cérceas, número máximo de pisos, profundidade máxima de empenas, usos, estacionamento, logradouros e indicadores urbanísticos, desde que não ultrapassem os seguintes valores:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 5 - Em parcelas objecto de alteração do uso actual do solo pela construção de unidade habitacional ou hoteleira, admite-se a reconversão do uso florestal do solo para uso agrícola, até um máximo de 15% da área total da parcela, desde que tal se revele compatível com o disposto no artigo anterior do presente Regulamento.
 
@@ -1430,7 +1466,7 @@ b) Quaisquer acções que possam implicar a concentração de elevado número de
 
 4 - Os parâmetros de edificabilidade a verificar nestes espaços são os constantes nos planos municipais de ordenamento do território que os abranjam, nomeadamente quanto a cérceas, número máximo de pisos, profundidade máxima de empenas, usos, estacionamento, logradouros e indicadores urbanísticos, desde que não ultrapassem os seguintes valores:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)](https://files.diariodarepublica.pt/1s/2002/05/105b00/42964315.pdf)
 
 5 - As intervenções de ampliação e alteração/conservação de construções existentes deverão integrar-se correctamente na envolvente, nomeadamente pela cor dos materiais de revestimento exterior, bem como pelo tipo e cor das vedações exteriores, devendo ser privilegiados os materiais tradicionais da região ou aqueles que não constituam um impacte visual negativo ou dissonante.
 

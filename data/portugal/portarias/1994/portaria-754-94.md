@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/754/1994/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/754-1994-224783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30b3a3f773473d6f1cc95ff426ade69e486d63dacc74d8820eea8f28c571c93c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e71c5a3b402c41fca91fa6405f45ac9c4a5ab8d141d2f6654f1fe0cceaf5936
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,70 @@ relationships:
   target: pt:dre:543678:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 674/95 DE 28-JUN DR.IS-B [147]\0B [147]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-28'
+- type: amended_by
+  target: pt:dre:1716663:por
+  label: "Alterado o quadro de pessoal pela PORT.79/99(2ªSÉRIE).1998.12.29.PCM DR.IIS [20] de 25/Jan/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-1999-1716663
+  date: '1998-12-29'
+- type: amended_by
+  target: pt:dre:1886286:por
+  label: "Alterado o quadro de pessoal pela PORT.45/99(2ªSÉRIE).1998.12.29.PCM DR.IIS [16] de 20/Jan/1999 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-1999-1886286
+  date: '1998-12-29'
+- type: amended_by
+  target: pt:dre:540175:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção da Port 674/95, de 28-Jun, pela PORT.988/2000.2000.10.14.MF\
+    \ DR.IS-B [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/988-2000-540175
+  date: '2000-10-14'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital de Garcia de Orta aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:2163544:por
+  label: "Alterado o quadro de pessoal pela PORT.1816/2002(2ªSÉRIE).2002.11.19.MF e MS, DR.IIS [285] de 10/Dez/2002. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1816-2002-2163544
+  date: '2002-11-19'
+- type: amended_by
+  target: pt:dre:543678:por
+  label: "Alterado o quadro de pessoal, com a redacção das Port 754/94 de 17-Ago e 988/2000 de 14-Out, pela PORT.449/2003.2003.06.02.MF\
+    \ DR.IS-B [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/449-2003-543678
+  date: '2003-06-02'
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:17Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +162,13 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 28 de Julho de 1994.**
+Assinada em 28 de Julho de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital de Garcia de Orta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/189b00/47264732.pdf))](https://files.diariodarepublica.pt/1s/1994/08/189b00/47264732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/189b00/47264732.pdf)
 
 ## ANEXO I
 
@@ -128,9 +182,9 @@ Direcção de Serviços Farmacêuticos;
 
 Direcção de Serviços de Instalações e Equipamento:
 
-##### Divisão de Instalações e Equipamento Médico;
+Divisão de Instalações e Equipamento Médico;
 
-##### Divisão de Controlo e Apoio à Gestão.
+Divisão de Controlo e Apoio à Gestão.
 
 Unidades orgânicas de natureza administrativa:
 
@@ -138,25 +192,27 @@ Repartição de Administração de Pessoal:
 
 #### Secção de Vencimentos;
 
-#### Secção de Pessoal;
+Secção de Pessoal;
 
 Repartição de Contabilidade:
 
 #### Secção de Receita;
 
-#### Secção de Despesa;
+Secção de Despesa;
 
 Repartição de Informação e Gestão de Doentes:
 
-#### Secção de Consultas Externas e Admissão de Doentes;
+Secção de Consultas Externas e Admissão de Doentes;
 
-#### Secção de Expediente, Estatística e Arquivo Clínico;
+Secção de Expediente, Estatística e Arquivo Clínico;
 
 Repartição de Aprovisionamento:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisições. — ANEXO II
+#### Secção de Aquisições.
+
+## ANEXO II
 
 Carreiras de pessoal técnico-profissional de nível 4
 

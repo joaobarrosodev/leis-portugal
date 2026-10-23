@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/265/1995/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-1995-174523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca90faaeabb68b3d7bdecff1acc10036c9528dd6d63221b0a53d6ac4858b3aa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f980a254f9746ca7e94608d2dbb295432a5d30e64b98a5fec74c03b22ddfd83f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Engenharia de Sistemas de Informação
 - Ensino Superior Politécnico
 - Instituto Politécnico
 - Instituto Superior de Engenharia
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:405333:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571618:por
+  label: "Alterado o quadro 1 do anexo I do presente diploma, pela PORT.122/96.17.04.1996.ME, DR.IS-B [91] de 17.04.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-1996-571618
+  date: '1996-04-17'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405333:por
+  label: "Revogada, pela PORT.1555/2002.2002.12.26.MCES, DR.IS-B [298], nos termos do seu art. 3º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1555-2002-405333
+  date: '2002-12-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:26Z'
   warnings: []
   errors: []
 ---
@@ -344,8 +367,8 @@ O curso entrará em funcionamento no ano lectivo que for determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 22 de Fevereiro de 1995.**
+Assinada em 22 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/078b00/18441847.pdf))](https://files.diariodarepublica.pt/1s/1995/04/078b00/18441847.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/078b00/18441847.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/58/2003/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2003-226230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a5b55b2f9ab1c7d2498711012ca2a27830b43cd54b68a155f32520e8a2e3776
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20390954b16612613e8b28b443b026fb4336f5948ad09e243220699e8e310ca5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
 - Ajuda Comunitária
-- Financiamento
 - Desenvolvimento Rural
 - Feoga-garantia
+- Financiamento
 - Indemnização Compensatória
 - Proteção do Ambiente
 - Reforma Antecipada
 - Ruris
-- Agricultor
 relationships:
 - type: amended_by
   target: pt:dre:487944:por
@@ -91,16 +91,26 @@ relationships:
   target: celex:32002R0445
   label: null
   source: http://data.europa.eu/eli/reg/2002/445/oj
+- type: corrected_by
+  target: pt:dre:483606:por
+  label: "Rectificada pela DECL-RECT.5-F/2003.2003.04.30.PCM, DR.IS-B [100]4ºSupl de 30/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-f-2003-483606
+  date: '2003-04-30'
+- type: corrected_by
+  target: pt:dre:487944:por
+  label: "Rectificada pela DECL-RECT.7-I/2003.2003.05.30.PCM DR.IS-B [126]3º Supl de 31/Mai/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-i-2003-487944
+  date: '2003-05-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:33Z'
   warnings: []
   errors: []
 ---

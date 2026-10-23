@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/51/2009/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-2009-494569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c778605eb7d6c8e0bd48a3ed15778ab871525f978fbcb7b110b2c3c17b8d4ccf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b02319ec6cb70656186647f8e4d02c20ed902308002bd3bf591138906dcb6117
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Distribuição de Energia Elétrica
 - Energia Elétrica
+- Lisboa
 - Ordenamento do Território
 - Plano Director Municipal
-- Lisboa
 - Rede Elétrica Nacional
 - Rede Nacional de Transporte de Energia Elétrica
 relationships:
@@ -102,16 +102,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/1994/09/29/p/dre
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:25Z'
   warnings: []
   errors: []
 ---
@@ -148,4 +176,4 @@ Presidência do Conselho de Ministros, 28 de Maio de 2009. - O Primeiro-Ministro
 
 ## ANEXO — Extracto da planta de ordenamento do PDM de Lisboa com a delimitação da área abrangida pela suspensão parcial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11500/0369403694.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11500/0369403694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11500/0369403694.pdf)

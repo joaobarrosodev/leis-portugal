@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/085b00/21162116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/293/1995/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/293-1995-230763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f47e842e9b36fcca4fdfcd492f05afa2cff10963009889694fa1fd8db6505d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85a556b6ddeb34a48cf619258e8acec03a261f6e629484c304471e398364879e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Formação Profissional
 - Curso de Formação
+- Formação Profissional
 - Profissional de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:170478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogada, a partir de 01.08.2011, a Port 26-O/80, de 09-Jan, na redacção da presente portaria, pelo DEC LEI.92/2011.27.07.2011.MTSSO,\
+    \ DR.IS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:06Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +131,7 @@ Ao abrigo do artigo 9.º, n.º 2, do [Decreto-Lei n.º 519-F/79](https://diariod
 
 Manda o Governo, pelos Ministros da Educação, do Emprego e da Segurança Social e do Comércio e Turismo, que seja aditado um n.º 3 ao artigo 5.º da [Portaria n.º 26-O/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-o-1980-508622), de 9 de Janeiro, na redacção dada pelo n.º 1.º da [Portaria n.º 747/85](https://diariodarepublica.pt/dr/detalhe/portaria/747-1985-177044), de 1 de Outubro, com a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - ...
 
@@ -117,6 +139,6 @@ Manda o Governo, pelos Ministros da Educação, do Emprego e da Segurança Socia
 
 Ministérios da Educação, do Emprego e da Segurança Social e do Comércio e Turismo.
 
-**Assinada em 27 de Fevereiro de 1995.**
+Assinada em 27 de Fevereiro de 1995.
 
-**A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.

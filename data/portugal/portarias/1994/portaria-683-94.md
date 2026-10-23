@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/683/1994/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/683-1994-297812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3cd91d3496e23d5ed599083c165d73fc73f3fe429acbc0b144cf9a9a4176766
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 008b8e647114f3fd32521d0b06e4ede0455fcb42789465eaeb12d24218813fdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,18 @@ reuse:
 subjects:
 - Ordenamento do Território
 relationships:
+- type: amended_by
+  target: pt:dre:2575323:por
+  label: "Alterado o plano de pormenor da zona industrial de Arraiolos pela DECL.98/99(2ªSÉRIE).1999.03.05.DGOTDU-MEPAT, DR.IIS\
+    \ [72] de 26/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/98-1999-2575323
+  date: '1999-03-05'
+- type: amended_by
+  target: pt:dre:198338:por
+  label: "Determinada a manutenção em vigor do Plano de Pormenor da Zona Industrial de Arraiolos, pelo Regulamento integrante\
+    \ á RES.18/2003.2003.01.09.PCM DR.IS-B [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/18-2003-198338
+  date: '2003-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -83,16 +95,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:37Z'
   warnings: []
   errors: []
 ---
@@ -119,57 +167,57 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 14 de Junho de 1994.**
+Assinada em 14 de Junho de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Zona Industrial de Arraiolos
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A área de intervenção do Plano de Pormenor da Zona Industrial de Arraiolos, adiante designado por Plano, é a constante da planta de síntese em anexo.
+Artigo 1.º A área de intervenção do Plano de Pormenor da Zona Industrial de Arraiolos, adiante designado por Plano, é a constante da planta de síntese em anexo.
 
-###### Art. 2.º As prescrições do presente Regulamento serão obrigatoriamente observadas em todas as instalações a promover na área de intervenção do Plano.
+Art. 2.º As prescrições do presente Regulamento serão obrigatoriamente observadas em todas as instalações a promover na área de intervenção do Plano.
 
 ### CAPÍTULO II — Condicionamentos de índole edificacional
 
-###### Artigo 1.º Todos os lotes previstos no Plano objecto deste Regulamento destinam-se à implementação de edificações e instalações de carácter industrial.
+Artigo 1.º Todos os lotes previstos no Plano objecto deste Regulamento destinam-se à implementação de edificações e instalações de carácter industrial.
 
-###### Art. 2.º Nas edificações e instalações de carácter industrial incluem-se as destinadas a laboratórios, armazéns, depósitos, silos, serviços de apoio (instalações sanitárias, balneários/vestiários e serviços administrativos), actividades de carácter social e habitação para o pessoal de vigilância e manutenção, quando justificável.
+Art. 2.º Nas edificações e instalações de carácter industrial incluem-se as destinadas a laboratórios, armazéns, depósitos, silos, serviços de apoio (instalações sanitárias, balneários/vestiários e serviços administrativos), actividades de carácter social e habitação para o pessoal de vigilância e manutenção, quando justificável.
 
-###### Art. 3.º As áreas e os índices de ocupação e de edificabilidade máximos serão, respectivamente, em cada lote, os fixados no capítulo V deste Regulamento, sendo:
+Art. 3.º As áreas e os índices de ocupação e de edificabilidade máximos serão, respectivamente, em cada lote, os fixados no capítulo V deste Regulamento, sendo:
 
 Índice de ocupação = área da construção/área do lote;
 
 Índice de edificabilidade = volume total da construção/área da construção.
 
-###### Art. 4.º É permitida a construção de anexos, que ocuparão um máximo de 20% da área livre do lote, podendo ser construídos quer agregados ao edifício principal, nas suas fachadas posterior ou lateriais, quer na parte traseira dos lotes, com excepção daqueles cuja área integra a faixa non aedificandi de protecção à estrada nacional.
+Art. 4.º É permitida a construção de anexos, que ocuparão um máximo de 20% da área livre do lote, podendo ser construídos quer agregados ao edifício principal, nas suas fachadas posterior ou lateriais, quer na parte traseira dos lotes, com excepção daqueles cuja área integra a faixa non aedificandi de protecção à estrada nacional.
 
-###### Art. 5.º Os edifícios respeitarão o tipo de ocupação - geminada ou isolada - e serão implantados e alinhados pela frente, de acordo com o previsto em planta para cada lote. As cotas de soleira serão as definidas para cada lote na planta de trabalho deste Plano. Em cada lote será garantida uma passagem lateral, a todo o comprimento dos edifícios a construir, de acesso à parte traseira dos logradouros, com uma largura mínima desimpedida de 3 m.
+Art. 5.º Os edifícios respeitarão o tipo de ocupação - geminada ou isolada - e serão implantados e alinhados pela frente, de acordo com o previsto em planta para cada lote. As cotas de soleira serão as definidas para cada lote na planta de trabalho deste Plano. Em cada lote será garantida uma passagem lateral, a todo o comprimento dos edifícios a construir, de acesso à parte traseira dos logradouros, com uma largura mínima desimpedida de 3 m.
 
 Quando existente, a empena resultante entre duas construções geminadas de lotes contíguos não poderá elevar-se em nenhum ponto a uma altura superior à diferença de cotas de soleiras respectivas e terão acabamento idêntico ao das fachadas.
 
-###### Art. 6.º Serão construídos muros ou redes divisórias entre cada logradouro, com a altura de 2 m.
+Art. 6.º Serão construídos muros ou redes divisórias entre cada logradouro, com a altura de 2 m.
 
-###### Art. 7.º Todos os edifícios terão paredes exteriores com acabamento duradouro e uniforme de cor branca. É permitido o uso de qualquer tipo de material de revestimento para cobertura industrial, desde que tenha acabamento duradouro com cor uniforme cinzenta ou cor de telha cerâmica.
+Art. 7.º Todos os edifícios terão paredes exteriores com acabamento duradouro e uniforme de cor branca. É permitido o uso de qualquer tipo de material de revestimento para cobertura industrial, desde que tenha acabamento duradouro com cor uniforme cinzenta ou cor de telha cerâmica.
 
-###### Art. 8.º As fachadas deverão ter todas uma altura uniforme de 6 m, a partir da cota de soleira, e as coberturas não deverão exceder a cota máxima de 9 m de altura.
+Art. 8.º As fachadas deverão ter todas uma altura uniforme de 6 m, a partir da cota de soleira, e as coberturas não deverão exceder a cota máxima de 9 m de altura.
 
 Contudo, excepcionam-se algumas infra-estruturas de apoio (silos e fábricas de rações), as quais, apesar de tudo, nunca poderão ultrapassar 15 m a 30 m de altura, respectivamente.
 
-###### Art. 9.º Os portões serão em chapa de ferro liso ou perfilado e as portas e janelas serão em madeira, ferro ou alumínio lacado, tudo pintado da mesma cor.
+Art. 9.º Os portões serão em chapa de ferro liso ou perfilado e as portas e janelas serão em madeira, ferro ou alumínio lacado, tudo pintado da mesma cor.
 
-###### Art. 10.º Não serão permitidos revestimentos exteriores em mármore, azulejo ou tijoleira que não sejam integralmente brancos.
+Art. 10.º Não serão permitidos revestimentos exteriores em mármore, azulejo ou tijoleira que não sejam integralmente brancos.
 
-###### Art. 11.º Os anexos deverão ser construídos com estruturas aligeiradas e as suas coberturas poderão ser em chapa metálica, fibrocimento ou telha cerâmica.
+Art. 11.º Os anexos deverão ser construídos com estruturas aligeiradas e as suas coberturas poderão ser em chapa metálica, fibrocimento ou telha cerâmica.
 
-###### Art. 12.º A área não impermeabilizada de cada lote não poderá ser inferior a 20% da área total e deverá ser tratada como espaço verde.
+Art. 12.º A área não impermeabilizada de cada lote não poderá ser inferior a 20% da área total e deverá ser tratada como espaço verde.
 
-###### Art. 13.º A ocupação dos logradouros deverá respeitar as normas de higiene, por forma a não prejudicar os utentes da via pública e vizinhos.
+Art. 13.º A ocupação dos logradouros deverá respeitar as normas de higiene, por forma a não prejudicar os utentes da via pública e vizinhos.
 
-###### Art. 14.º Não são permitidos depósitos de sucata ou detritos, bem como materiais ou produtos que não tenham utilização para o funcionamento da unidade industrial.
+Art. 14.º Não são permitidos depósitos de sucata ou detritos, bem como materiais ou produtos que não tenham utilização para o funcionamento da unidade industrial.
 
-###### Art. 15.º As sebes a plantar, encostadas às vedações, deverão ser de ligustro ou mioporo e as árvores a utilizar deverão ser escolhidas de entre as seguintes espécies:
+Art. 15.º As sebes a plantar, encostadas às vedações, deverão ser de ligustro ou mioporo e as árvores a utilizar deverão ser escolhidas de entre as seguintes espécies:
 
 Tipuanas, sóforas, casuarinas, robínias, lódãos;
 
@@ -177,21 +225,21 @@ Olaias, palmeiras, catalpas, grevíleas.
 
 ### CAPÍTULO III — Condicionamentos relativos a infra-estruturas
 
-###### Artigo 1.º Os lotes que necessitem de alimentação eléctrica com potência superior a 100 kVA deverão prever na construção um espaço próprio para um PT privativo (cerca de 15 m2), cumprindo o Regulamento de Segurança de Postos de Transformação.
+Artigo 1.º Os lotes que necessitem de alimentação eléctrica com potência superior a 100 kVA deverão prever na construção um espaço próprio para um PT privativo (cerca de 15 m2), cumprindo o Regulamento de Segurança de Postos de Transformação.
 
-###### Art. 2.º A rede pública de distribuição de água incluirá bocas de serviço de incêndio, respeitando as seguintes condições:
+Art. 2.º A rede pública de distribuição de água incluirá bocas de serviço de incêndio, respeitando as seguintes condições:
 
 a) O serviço de incêndio só poderá ser manobrado pelo pessoal responsável pela gestão da zona e bombeiros, salvo em casos de reconhecida emergência;
 
 b) Os estabelecimentos industriais, mediante justificação comprovativa de necessidade, poderão acordar com a Câmara Municipal de Arraiolos a instalação de um serviço de incêndio privativo directamente ligado à rede e devidamente selado e de exclusiva utilização em caso de emergência.
 
-###### Art. 3.º As ligações às redes públicas de infra-estruturas são encargo dos estabelecimentos industriais, as quais deverão ser requeridas à Câmara Municipal de Arraiolos ou entidades concessionárias, a quem deverão ser pagos os respectivos custos de instalação, utilização e consumo.
+Art. 3.º As ligações às redes públicas de infra-estruturas são encargo dos estabelecimentos industriais, as quais deverão ser requeridas à Câmara Municipal de Arraiolos ou entidades concessionárias, a quem deverão ser pagos os respectivos custos de instalação, utilização e consumo.
 
 ### CAPÍTULO IV — Condicionamentos relativos aos estabelecimentos industriais
 
-###### Artigo 1.º Não será permitida a instalação de estabelecimentos industriais da classe A, constantes da tabela anexa ao Regulamento do Exercício da Actividade Industrial - [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março.
+Artigo 1.º Não será permitida a instalação de estabelecimentos industriais da classe A, constantes da tabela anexa ao Regulamento do Exercício da Actividade Industrial - [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março.
 
-###### Art. 2.º É permitida a instalação de estabelecimentos das classes B e C, constantes da mesma tabela, com as seguintes condicionantes:
+Art. 2.º É permitida a instalação de estabelecimentos das classes B e C, constantes da mesma tabela, com as seguintes condicionantes:
 
 a) O abastecimento de água deverá processar-se, sempre que possível, a partir da rede pública de distribuição;
 
@@ -209,10 +257,10 @@ g) Os estabelecimentos industriais que utilizem substâncias perigosas e se enco
 
 h) Não será permitida a instalação de estabelecimentos industriais que não cumpram com o disposto no Regulamento Geral sobre o Ruído - Decretos-Leis n.os [251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de Junho, e [292/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1989-546986), de 2 de Setembro.
 
-###### Art. 3.º É permitida a instalação de estabelecimentos da classe D, constantes da tabela anexa ao Regulamento do Exercício da Actividade Industrial, sem quaisquer condicionamentos específicos.
+Art. 3.º É permitida a instalação de estabelecimentos da classe D, constantes da tabela anexa ao Regulamento do Exercício da Actividade Industrial, sem quaisquer condicionamentos específicos.
 
-###### Art. 4.º A concessão de alvará de licença de construção para instalação ou alteração dos estabelecimentos industriais ficará condicionada à apresentação, pelo interessado, de documento comprovativo do licenciamento efectuado pela Direcção-Geral de Indústria.
+Art. 4.º A concessão de alvará de licença de construção para instalação ou alteração dos estabelecimentos industriais ficará condicionada à apresentação, pelo interessado, de documento comprovativo do licenciamento efectuado pela Direcção-Geral de Indústria.
 
 ### CAPÍTULO V — Quadro de áreas e índices
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/168b00/40584060.pdf))](https://files.diariodarepublica.pt/1s/1994/07/168b00/40584060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/168b00/40584060.pdf)

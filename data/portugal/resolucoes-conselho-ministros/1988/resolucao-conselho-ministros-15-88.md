@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-1988-285325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:31:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e7728b7238e0cba3c1c2299fabcc0d3600aca754f3b65df21ce877884226859
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af32b1502a846e7f15cad316fd0f40f3b807af2de278b57edf19a4a4efe245fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:31:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional para a Política de Terceira Idade
+- Definição de Competências
+- Orgânica
+- Proteção na Velhice
+- Segurança Social
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:545639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA SOLIDARIEDADE E SEGURANÇA SOCIAL ATRAVES DO DEC LEI 296-A/95 DE 17-NOV\
+    \ DR.IS-A [266]SUPL\0[266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:476916:por
+  label: "Extinta a Comissão Nacional para a Política de Terceira Idade, criada no presente diploma, e determinado que as\
+    \ suas funções consultivas passem a ser da competência do Conselho Nacional para a Política de Terceira Idade, transmitindo-se\
+    \ as outras competências, direitos e deveres para a Direcção-Geral da Acção Social, cuja orgânica foi aprovada no Dec\
+    \ Lei 217/93, de 16-Jun, pelo DEC LEI.35/96.02.05.1996.MSSS, DR.IS-A [102] de 02.05.1996, nos termos dos arts. 22.º e\
+    \ 23.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1996-476916
+  date: '1996-05-02'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extinta sem qualquer transferência de atribuições, a Comissão Nacional para a Política da Terceira Idade, criada\
+    \ no presente diploma e cujo regimento consta do Desp 3899/89 de 24-Jan DR.IIS [31], pelo DEC LEI.211/2006.27.10.2006.MTSSO,\
+    \ DR.IS [208] de 27.10.2006, nos termos do preceituado no respectivo art. 36º\06º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:31:31Z'
   warnings: []
   errors: []
 ---

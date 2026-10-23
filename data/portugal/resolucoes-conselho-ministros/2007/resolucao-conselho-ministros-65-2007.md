@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/65/2007/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/65-2007-520842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2359b67ff0a2d666c0c8e87f21cb70b12a9a16113ed9b2be947ebc6adc08b11d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d094212da1d70782788323d52acb4c3ec71752efe04d5dcd4b68d37f83557b2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ subjects:
 - Agência Nacional de Compras Públicas
 - Aquisição de Bens e Serviços
 - Definição de Competências
+- Ministro de Estado e das Finanças
 - Ministro do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
 - Proteção do Ambiente
-- Ministro de Estado e das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:1725651:por
@@ -103,13 +103,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:43Z'
   warnings: []
   errors: []
 ---
@@ -274,7 +274,7 @@ QUADRO N.º 1
 
 Objectivos e metas anuais nacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
 
 Para medir a extensão da introdução de critérios ambientais nos contratos públicos adoptam-se os seguintes indicadores:
 
@@ -350,7 +350,7 @@ QUADRO N.º 3
 
 Definição de entidades, estruturas e responsabllldades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
 
 6.3 - Execução:
 
@@ -364,7 +364,7 @@ QUADRO N.º 4
 
 Calendarização das acções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
 
 7 - Divulgação:
 
@@ -374,7 +374,7 @@ QUADRO N.º 5
 
 Programa de divulgação/formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
 
 8 - Monitorização da implementação:
 
@@ -386,7 +386,7 @@ QUADRO N.º 6
 
 Acções e responsáveis pela execução das acções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
 
 9 - Referência aos documentos e estudos orientadores:
 
@@ -458,8 +458,8 @@ PCM - Presidência do Conselho de Ministros.
 
 ## ANEXO II — Minuta de declaração de compromisso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
 
 ## ANEXO III — Modelo de relatório do cumprimento de quotas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08700/29742981.pdf)

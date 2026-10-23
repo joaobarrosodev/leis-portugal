@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1116/1995/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1116-1995-563823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22e3af8f5a004d12937069f31bc935fbe4589fe2e7212758b94ca0b3673b18c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1cea0b1fcd62eee360df75ab4e95185f86b7572d858df8ee24c030f5e8d74da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Madeira.região Autónoma
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:10Z'
   warnings: []
   errors: []
 ---
@@ -97,8 +105,8 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 1.º do [Decr
 
 Ministério das Finanças.
 
-**Assinada em 25 de Agosto de 1995.**
+Assinada em 25 de Agosto de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/213b00/58145816.pdf))](https://files.diariodarepublica.pt/1s/1995/09/213b00/58145816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/213b00/58145816.pdf)

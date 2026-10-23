@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/272b00/73127315.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1417/1995/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1417-1995-692414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f994b15cc34d0fae75b29a26ebb29e0467300c1d303933986d5ce4e0a57ab28f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f20733e1390db8b9871a4beddb7bfda42d354daa971660b32b2a4545ac722225
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,6 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Acumulação de Pensões
-- Suplemento de Pensão a Grandes Inválidos
-- Trabalhador Rural
 - Pensão de Invalidez
 - Pensão de Orfandade
 - Pensão de Velhice
@@ -81,6 +79,8 @@ subjects:
 - Regimes de Segurança Social
 - Segurança Social
 - Subsídio por Assistência de Terceira Pessoa
+- Suplemento de Pensão a Grandes Inválidos
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:200446:por
@@ -102,16 +102,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1066/1994/12/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1066/1994/12/05/p/dre
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:200446:por
+  label: "Revogada pela PORT.700/96.03.12.1996.MSSS, DR.IS-B [279] de 03.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-1996-200446
+  date: '1996-12-03'
 article_structure:
   article_count: 1
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:32Z'
   warnings: []
   errors: []
 ---
@@ -332,12 +373,12 @@ Revogação
 
 Ministério da Solidariedade e Segurança Social.
 
-**Assinada em 15 de Novembro de 1995.**
+Assinada em 15 de Novembro de 1995.
 
-**O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**
+O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.
 
 Tabela anexa
 
 Actualização de pensões para efeitos de cúmulo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/73127315.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/73127315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/73127315.pdf)

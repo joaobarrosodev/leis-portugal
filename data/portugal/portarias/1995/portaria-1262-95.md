@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1262/1995/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1262-1995-668161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fc409092a73938d41abc9794c37ee702ed8b080ea70d3a6f6f734a35e2073fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b052037c5dc56939a3207a0bf92fdc1c3a0cc0cd0701f9ca433182387b6b2a20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina Privada
+- Administração Regional de Saúde
 - Comissão de Fiscalização
 - Comissão de Verificação Técnica
-- Hemodiálise
-- Serviço de Saúde
-- Administração Regional de Saúde
 - Controlo Sanitário
-- Fiscalização
-- Medicamento
 - Doença Renal
-- Regulamento Interno
+- Fiscalização
+- Hemodiálise
 - Material Médico-Cirúrgico
+- Medicamento
+- Medicina Privada
+- Regulamento Interno
+- Serviço de Saúde
 - Tratamento de ÁGUA
 relationships:
 - type: amended_by
@@ -91,16 +91,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/392/1993/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/392/1993/11/23/p/dre
+- type: cites
+  target: pt:dre:586007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674419:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:643284:por
+  label: "Revogada pelo DEC LEI.505/99.1999.11.20.MS DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/505-1999-643284
+  date: '1999-11-20'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:49Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +134,9 @@ Manda o Governo, pelo Ministro da Saúde, aprovar o Regulamento Interno da Comis
 
 Ministério da Saúde.
 
-**Assinada em 26 de Setembro de 1995.**
+Assinada em 26 de Setembro de 1995.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO — Regulamento Interno da Comissão de Verificação Técnica e Sanitária
 

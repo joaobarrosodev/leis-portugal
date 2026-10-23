@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/118-2000-572092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d8909addbe7da23baf932eec76b6e77c25d235577e930a6cef946aaed68391f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08ca5672822d19583bc8d29a448ea34e7a3abbef6a0e6eaab38bdaeb73936f27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,18 @@ subjects:
 - Direcção Regional de Agricultura do Alentejo
 - Direcção Regional de Agricultura do Algarve
 - Direcção Regional de Agricultura do Ribatejo e Oeste
-- Proteção da Floresta
-- Proteção do Ambiente
-- Plano Regional
 - Exploração Florestal
+- Plano Regional
 - Plano Regional de Ordenamento Florestal
 - Política Florestal
+- Proteção da Floresta
+- Proteção do Ambiente
 relationships:
+- type: amended_by
+  target: pt:dre:445742:por
+  label: "Alterados os nºs 1 e 5 e revogado o nº 12 pela RES.179/2003.31.10.2003.PCM, DR.IS-B [267] de 18.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/179-2003-445742
+  date: '2003-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1999/06/09/p/dre
   label: null
@@ -88,16 +93,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:310799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:16Z'
   warnings: []
   errors: []
 ---

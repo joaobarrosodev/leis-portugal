@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/53/2005/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2005-589946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7bb87c227dd7c3a3946d61d4a6eb521e43522779f224328854923aa6f275eb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35faa0514cb584513d413474c3d8ea40e2777a938a0b1865b064f96fd2e17a95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Pnale
-- Efeito de Estufa
+- Comissão para as Alterações Climáticas
 - Definição de Competências
+- Efeito de Estufa
 - Instituto do Ambiente
 - Licenciamento
-- Comissão para as Alterações Climáticas
+- Pnale
 - Poluição
 relationships:
 - type: amended_by
@@ -98,16 +98,21 @@ relationships:
   target: celex:32004L0101
   label: null
   source: http://data.europa.eu/eli/dir/2004/101/oj
+- type: repealed_by
+  target: pt:dre:386780:por
+  label: "Revogada, a partir de 09.01.2008, pela RES.1/2008.04.01.2008.PCM, DR.IS [3] de 04.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/1-2008-386780
+  date: '2008-01-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:57Z'
   warnings: []
   errors: []
 ---
@@ -264,7 +269,7 @@ FIGURA N.º 1
 
 Resumo da metodologia de atribuição de licenças PNALE 2005-2007
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
 
 I - Introdução
 
@@ -358,7 +363,7 @@ FIGURA N.º 2
 
 Síntese dos instrumentos de política em vigor (oferta e procura de energia)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
 
 II - Definição do total de licenças de emissão a atribuir em 2005-2007
 
@@ -374,7 +379,7 @@ FIGURA N.º 3
 
 Metodologia para definição de licenças a atribuir em 2005-2007
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
 
 24 - A escolha do cenário «médio» de referência do PNAC 2004 tem implícitas taxas de crescimento do PIB de 3% por ano até 2015. Relativamente aos sectores da directiva, este cenário traduz-se num crescimento do VAB de 3,7% por ano e de 1,5% por ano das emissões de CO(índice 2) para 2005-2007.
 
@@ -396,7 +401,7 @@ FIGURA N.º 4
 
 Evolução das emissões de GEE em Portugal
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
 
 29 - No futuro, estão previstas reduções adicionais de emissões no sector da energia e reforço da eficiência energética dos sectores industriais abrangidos pela directiva, mas uma vez que os ciclos de investimento são relativamente longos, o impacte destas medidas irá concentrar-se essencialmente no segundo período da directiva (2008-2012). Estas reduções adicionais de emissões com impacte nos sectores da directiva, juntamente com a pressão provocada pelo crescimento dos sectores dos transportes e serviços, traduzir-se-ão numa diminuição progressiva da proporção de emissões de GEE dos sectores da directiva (43,8% das emissões de GEE em 2010), de acordo com as estimativas actualizadas com base no PNAC 2004.
 
@@ -440,7 +445,7 @@ FIGURA N.º 5
 
 Impacte esperado das medidas de redução de emissões
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
 
 37 - A aplicação com sucesso das medidas enunciadas permitirá chegar ao final do primeiro período de cumprimento do Protocolo de Quioto com um défice de 3,7 Mt CO(índice 2)e, considerando um cenário de referência «médio» do PNAC 2004.
 
@@ -468,7 +473,7 @@ FIGURA N.º 6
 
 Atribuição de licenças por sector para 2005-2007
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
 
 42 - O critério base para cálculo de emissões por instalação resultará do valor máximo da média dos dois anos de maiores emissões dos triénios de 2000-2002 ou 2001-2003.
 
@@ -538,7 +543,7 @@ FIGURA N.º 7
 
 Atribuição de licenças por instalação
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
 
 55 - Para as instalações com aumentos recentes de capacidade, produção ou transferência de emissões para co-geração, recalculou-se o histórico incorporando-se informação mais recente ou utilizaram-se projecções consistentes com a metodologia utilizada para a definição das licenças a atribuir a cada sector.
 
@@ -548,7 +553,7 @@ FIGURA N.º 8
 
 Sectores/subsectores com ajustamento do mix de combustível
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
 
 57 - Para as instalações com impossibilidade de reconversão de combustível por questões técnicas ou de infra-estrutura, não foram realizados quaisquer ajustamentos. Por exemplo, esta metodologia não foi aplicada às instalações de subsectores em que a utilização de gás natural é generalizada, mas em que uma instalação específica usa fuelóleo porque não tem acesso à rede de gás natural. Caberá às instalações dos sectores abrangidos que usam combustíveis com níveis de emissão de CO(índice 2) mais elevados a comprovação da impossibilidade de utilização de outro tipo de combustível.
 
@@ -590,7 +595,7 @@ FIGURA N.º 9
 
 Evolução produção/emissões dos sectores directiva
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)](https://files.diariodarepublica.pt/1s/2005/03/044b00/19101927.pdf)
 
 65 - Se considerarmos os factores de eficiência actuais aplicados aos volumes de produção estimados para 2010, o nível de emissões estimado para os sectores da directiva seria de 49,2 Mt CO(índice 2) versus 37,9 Mt CO(índice 2) previstos no PNALE. Este diferencial deve-se às medidas de melhoria de eficiência dos diversos sectores industriais (melhoria de eficiência de 1%/ano) e à alteração do mix de fontes de produção de energia (melhoria de eficiência de 5%/ano) por reforço de energias renováveis, co-geração, centrais de ciclo combinado a gás natural (CCGT) e correcção da hidraulicidade de 2002 (ano seco).
 

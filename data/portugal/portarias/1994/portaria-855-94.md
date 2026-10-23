@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/221b00/57415742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/855/1994/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/855-1994-605300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1a7f3e07e30125385b87826cd7f6fbd9b0de8105371c415b7e32a2bd7634972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 095274b2bfc4cda5db26165a9ffb63359dc266aff776bc6934d321a18552a2ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,21 @@ relationships:
   target: celex:31992L0061
   label: null
   source: http://data.europa.eu/eli/dir/1992/61/oj
+- type: repealed_by
+  target: pt:dre:275775:por
+  label: "Revogada pelo DEC LEI.72/2000.2000.05.06.MAI,DR.IS-A [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2000-275775
+  date: '2000-05-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:50Z'
   warnings: []
   errors: []
 ---
@@ -160,6 +165,6 @@ Categoria 04 - reboques com peso bruto superior a 10 t.
 
 Ministério da Administração Interna.
 
-**Assinada em 5 de Setembro de 1994.**
+Assinada em 5 de Setembro de 1994.
 
-**O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.**
+O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.

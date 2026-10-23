@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/74/2003/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-2003-542005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c01a7b5a2b13734925964b7fd073086401669352b282db8e502427aea3691422
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49b67addc3883c76c7c07bdacc6f0119371a3f403d3d330816e6047f91ca58e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Portugal
-- Definição de Competências
-- Instituto de Gestão do Crédito Público
-- Fundo para o Ambiente Global
-- Pagamento
-- Proteção do Ambiente
-- Diversidade Biológica
 - Cooperação Internacional
-- Política do Ambiente
+- Definição de Competências
+- Diversidade Biológica
+- Financiamento
+- Fundo para o Ambiente Global
+- Instituto de Gestão do Crédito Público
 - Ministro de Estado e das Finanças
+- Pagamento
+- Política do Ambiente
+- Portugal
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/257/1992/11/20/p/dre
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/59/2001/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/59/2001/05/30/p/dre
+- type: cites
+  target: pt:dre:223453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621510:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:44Z'
   warnings: []
   errors: []
 ---

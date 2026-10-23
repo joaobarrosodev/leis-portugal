@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/4/2011/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2011-485643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60289559a077521b3ca950ce76dbab22a07df3dccd18a11a12d5e8dc35be55d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae95b551f76885bd93b4f92352f06e8260b42f131c31349a4a7d8d31f1238d61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- Turismo
-- Indústria Automóvel
+- Apoio ao Investimento
+- Benefícios Fiscais
 - Construção Naval
 - Contrato de Concessão
 - Contrato de Investimento
 - Definição de Competências
-- Indústria Têxtil
-- Apoio ao Investimento
-- Projeto de Investimento
+- Indústria Alimentar
+- Indústria Automóvel
 - Indústria da Cerâmica
 - Indústria Electrónica
 - Indústria Química
+- Indústria Têxtil
+- Indústria Transformadora
 - Investimento
 - Investimento Estrangeiro
-- Indústria Transformadora
-- Indústria Alimentar
-- Benefícios Fiscais
+- Projeto de Investimento
+- Turismo
 relationships:
+- type: amended_by
+  target: pt:dre:70241305:por
+  label: Determinada, com produção de efeitos a 03.09.2015, a resolução do contrato de investimento e respetivos anexos, celebrado
+    entre o Estado Português, representado pela AICEP, E.P.E e a Naval Ria - Docas, Construções e Reparações Navais, S.A.,
+    constante da al.b) do n.º 1 da presente Resolução, pelo(a) Resolução do Conselho de Ministros n.º 76/2015 - Diário da
+    República n.º 177/2015, Série I de 2015-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/76-2015-70241305
+  date: '2015-09-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/409/1999/10/15/p/dre
   label: null
@@ -116,16 +124,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/99/2003/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/99/2003/08/07/p/dre
+- type: cites
+  target: pt:dre:143332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667137:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:49Z'
   warnings: []
   errors: []
 ---

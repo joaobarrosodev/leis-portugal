@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/970/1993/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/970-1993-645487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:14:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b850415bcfa9635b1ce8fbad7b0f0da1000c097d18334d6ef3a88fb5cefb5dd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e5eb72d4f975679dd2c1bded3478e943638983d388c52c9879dd4ed0c4c2502
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:14:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:171902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:14:25Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +108,10 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, que o quadro de 
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 6 de Setembro de 1993.**
+Assinada em 6 de Setembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.
 
 Mapa anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/232b00/55775578.pdf))](https://files.diariodarepublica.pt/1s/1993/10/232b00/55775578.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/232b00/55775578.pdf)

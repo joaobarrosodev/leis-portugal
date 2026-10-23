@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/708/1994/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/708-1994-230925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b569907991c4c4befb7a2f8f539584678e355fee891e5b85f3ccb91d3322b2a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc22976fd40025124bbc4d776765e71975f91ca9bbfb7001d431880903a670ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,28 @@ reuse:
 subjects:
 - Ensino Cooperativo
 - Ensino Particular
-- Estabelecimento de Ensino
 - Ensino Superior
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:140083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:587845:por
+  label: "Introduzidos aditamentos ao anexo I pela PORT.847/94.21.09.1994.ME, DR.IS-B [219] de 21.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/847-1994-587845
+  date: '1994-09-21'
+- type: amended_by
+  target: pt:dre:587846:por
+  label: "Introduzidos aditamentos ao anexo I pela PORT.848/94.21.09.1994.ME, DR.IS-B [219] de 21.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/848-1994-587846
+  date: '1994-09-21'
+- type: amended_by
+  target: pt:dre:140083:por
+  label: "Introduzidos aditamentos ao anexo I pela PORT.70/95.26.01.1995.ME, DR.IS-B [22] de 26.01.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/70-1995-140083
+  date: '1995-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -83,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:14Z'
   warnings: []
   errors: []
 ---
@@ -157,10 +184,10 @@ A presente portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 21 de Julho de 1994.**
+Assinada em 21 de Julho de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Vagas aprovadas ao abrigo do disposto nos n.os 4 e 5 do artigo 5.º do [Decreto-Lei n.º 189/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1992-240823), de 3 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/179b00/44494454.pdf))](https://files.diariodarepublica.pt/1s/1994/08/179b00/44494454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/179b00/44494454.pdf)

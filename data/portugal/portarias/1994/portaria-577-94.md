@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/577/1994/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1994-294703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:30:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fb6fdd73d4f26591ae87f4487f4e289bf6afdacc40b4918ba50a2665b3bb390
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 957ce6a08f9e5e1b26e935a935925278dc817a1e833b59264b1cba81f25b76c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:30:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Financiamento
 - Pesca
-- QCA
 - Programa para o Desenvolvimento Económico do Sector das Pescas
+- QCA
 - Regime de Apoio ao Ajustamento do Esforço de Pesca
 - Regulamento
 relationships:
@@ -77,20 +77,36 @@ relationships:
   target: pt:dre:429207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429207:por
+  label: "Alterados os arts. 2º, 3º, 4º, 6º, 7º, 9º, 10º, 11º, 12º, 13º e o anexo I e revogado o art. 8º do Regulamento pela\
+    \ PORT.445/98.1998.07.28.MADRP, DR.IS-B [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/445-1998-429207
+  date: '1998-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1994/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1994/07/05/p/dre
+- type: cites
+  target: pt:dre:291604:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:305613:por
+  label: "RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 136/94, DA PCM, DE 26 DE AGOSTO, PUBLICADA NO DR.IS-B, 201, 2SUPL, DE\
+    \ 940831.\0 940831."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/136-1994-305613
+  date: '1994-08-31'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:30:57Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +125,9 @@ Assim, manda o Governo, pelo Ministro do Mar, o seguinte:
 
 Ministério do Mar.
 
-**Assinada em 28 de Junho de 1994.**
+Assinada em 28 de Junho de 1994.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
 Regulamento do Regime de Apoio ao Ajustamento do Esforço de Pesca
 
@@ -251,4 +267,4 @@ O pagamento das ajudas a conceder às imobilizações definitivas no âmbito do 
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/159b00/37283730.pdf))](https://files.diariodarepublica.pt/1s/1994/07/159b00/37283730.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/159b00/37283730.pdf)

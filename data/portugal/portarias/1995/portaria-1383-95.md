@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1383/1995/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1383-1995-692665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51e4199aeba0862c74fd52a860504b9ca706a4e4f3356c470fa7eba4ecca2f53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfd5f149246d3fe5f0edc7dce01565af93c16544719ec4502cd4b11fc2c9d456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:635809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:372828:por
+  label: "Alterada a concessão constante da Port 555/91, de 25-Jun, alterada pelo presente diploma, pela PORT.880/2001.2001.07.27.MADRP\
+    \ DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/880-2001-372828
+  date: '2001-07-27'
+- type: amended_by
+  target: pt:dre:635809:por
+  label: "Extinta a zona de caça criada pela Port 555/91 de 25-Jun, com a renovação constante do presente diploma, pela PORT.761/2007.04.07.2007.MADRP,\
+    \ DR.IS [127] de 04.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/761-2007-635809
+  date: '2007-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -84,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/555/1991/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/555/1991/06/25/p/dre
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647907:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:44Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +140,6 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 13 de Outubro de 1995.**
+Assinada em 13 de Outubro de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

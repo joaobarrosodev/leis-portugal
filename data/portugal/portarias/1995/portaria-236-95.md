@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/236/1995/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-1995-173286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c558a77da0657004c3b3cbbe4c75a4d2b5be408eee9a7fea5c539f49271fb06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b58d93ebf99ed2662ac8ddecc513061079e1da4bbf436da678faeb9add0dab25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,66 @@ relationships:
   target: pt:dre:1410267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198109:por
+  label: "Alterado o quadro de pessoal pelo DR.14/96.1996.11.22.MJ DR.IS-B [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/14-1996-198109
+  date: '1996-11-22'
+- type: amended_by
+  target: pt:dre:517872:por
+  label: "Alterado o quadro de pessoal pela Port.192/97.1997.03.21.PCM DR.IS-B [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-1997-517872
+  date: '1997-03-21'
+- type: amended_by
+  target: pt:dre:3240653:por
+  label: "Alterado o quadro de pessoal pela PORT.418/97(2ªSÉRIE).1997.06.24.PCM, MF, MJ DR.IIS [159] de 1997.07.12\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/418-1997-3240653
+  date: '1997-06-24'
+- type: amended_by
+  target: pt:dre:3615548:por
+  label: "Alterado o quadro de pessoal pela PORT.448/97(2ªSÉRIE).1997.06.30.PCM, MF E MJ DR.IIS [166] DE 21/JUL/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-1997-3615548
+  date: '1997-06-30'
+- type: amended_by
+  target: pt:dre:3391514:por
+  label: "Alterado o quadro de pessoal pela PORT.551/97(2ªSÉRIE).1997.08.05.PCM,MF e MJ DR.IIS [190] de 1997.08.19\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/551-1997-3391514
+  date: '1997-08-05'
+- type: amended_by
+  target: pt:dre:843555:por
+  label: "Alterado o quadro de pessoal pela PORT.1051/97(2ªSÉRIE).1997.12.05.PCM, DR.IIS [291] de 1997.12.18\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1051-1997-843555
+  date: '1997-12-05'
+- type: amended_by
+  target: pt:dre:2102971:por
+  label: "Alterado o quadro de pessoal pela PORT.181/98(2ªSÉRIE).1998.02.03.PCM, DR.IIS [37] de 13/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-1998-2102971
+  date: '1998-02-03'
+- type: amended_by
+  target: pt:dre:1378940:por
+  label: "Alterado o quadro de pessoal pela PORT.653/98(2ªSÈRIE).1998.07.01.PCM, DR.IIS [158] de 11/Jul/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/653-1998-1378940
+  date: '1998-07-01'
+- type: amended_by
+  target: pt:dre:1507084:por
+  label: "Alterado o quadro de pessoal pela PORT.927/98(2ªSÉRIE).1998.08.20.PCM DR.IIS [206] DE 07/SET/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/927-1998-1507084
+  date: '1998-08-20'
+- type: amended_by
+  target: pt:dre:2759488:por
+  label: "Alterado o quadro de pessoal pela PORT.410/99(2ªSÉRIE).1999.04.05.PCM DR.IIS [93] de 21/Abr/1999D\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/410-1999-2759488
+  date: '1999-04-05'
+- type: amended_by
+  target: pt:dre:2435562:por
+  label: "Alterado o quadro de pessoal pela PORT.339/2001(2ªSÉRIE).2001.02.01.MJ, DR.IIS [44] de 21/Fev/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/339-2001-2435562
+  date: '2001-02-01'
+- type: amended_by
+  target: pt:dre:1410267:por
+  label: "Alterado o quadro de pessoal pela PORT.1025/2003(2ªSÉRIE).2003.07.22.MF e MJ, DR.IIS [179] de 5/Ago/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1025-2003-1410267
+  date: '2003-08-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/173/1994/06/25/p/dre
   label: null
@@ -108,16 +168,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/636/1993/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/636/1993/07/05/p/dre
+- type: cites
+  target: pt:dre:225436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:46Z'
   warnings: []
   errors: []
 ---
@@ -142,10 +250,10 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 16 de Fevereiro de 1995.**
+Assinada em 16 de Fevereiro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
 
 Mapa a que se refere o n.º 2 do artigo 33.º do [Decreto-Lei n.º 173/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1994-305592), de 25 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/074b00/16971699.pdf))](https://files.diariodarepublica.pt/1s/1995/03/074b00/16971699.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/074b00/16971699.pdf)

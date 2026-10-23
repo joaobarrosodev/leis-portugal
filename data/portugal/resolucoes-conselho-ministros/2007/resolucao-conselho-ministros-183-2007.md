@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/183/2007/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2007-627840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c78f889c760d8d2f221c671b439e3e97fe8a8f36e2407c9db49c44f3275db0d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2628057b4a0c35bacb863a4d17ee58cebabfcf2b0f16bc0176b99c2b10d7b6aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Benavente
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política do Ambiente
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:2055012:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional para o município de Benavente, aprovada pela Res\
+    \ 6/2002 de 23-fev da PCM e alterada pelo presente diploma, pelo AV.6683/2013.22.05.2013.CCDRLVT-MAMAOT, DR.IIS [98] de\
+    \ 22.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6683-2013-2055012
+  date: '2013-05-22'
+- type: amended_by
+  target: pt:dre:107508460:por
+  label: Aprovada, com efeitos a 13.06.2017, a alteração da delimitação da Reserva Ecológica Nacional do Concelho de Benavente,
+    aprovada pela Res 61/2002 de 23-mar PCM e alterada pelo presente diploma, pelo Aviso n.º 6637/2017 - Diário da República
+    n.º 113/2017, Série II de 2017-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6637-2017-107508460
+  date: '2017-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/180/2006/09/06/p/dre
   label: null
@@ -92,16 +106,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/2002/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/2002/03/23/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645096:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:03Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +168,4 @@ Ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 93/90](https://diariod
 
 Presidência do Conselho de Ministros, 31 de Outubro de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24300/0895608958.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24300/0895608958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24300/0895608958.pdf)

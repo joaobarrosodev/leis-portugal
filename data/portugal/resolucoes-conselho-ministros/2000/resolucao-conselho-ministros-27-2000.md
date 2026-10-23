@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/27/2000/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-2000-274021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7082370f3aac5d0f58b82abcab046281b30f74d4182bc6104f3009e415592850
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 316c4afb3fa4350a615418ce19687a65dfe888033f1529bb1979c37e88bf232b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,49 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
+- Agricultura
 - Ajuda Comunitária
 - Assistência Técnica
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Ministério do Trabalho e da Solidariedade
-- Formação Profissional
-- Investigação Científica e Tecnológica
 - Chefe de Projecto
-- Desenvolvimento Rural
-- Fundação para a Ciência e a Tecnologia
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
-- Ministro da Economia
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Ministro do Trabalho e da Solidariedade
 - Coordenador
-- Educação
-- Saúde
+- Cultura
 - Definição de Competências
+- Desenvolvimento Rural
 - Desenvolvimento Social
 - Direcção Geral das Pescas
-- Política de Saúde
+- Direcção Geral do Desenvolvimento Regional
+- Direcção Regional de Educação
+- Educação
+- Emprego
 - Estrutura de Apoio Técnico
 - FEDER
-- Secretaria Geral
-- Ministério da Economia
-- Pesca
+- Financiamento
+- Formação Profissional
+- FSE
+- Fundação para a Ciência e a Tecnologia
 - Gabinete de Coordenação dos Investimentos
 - Gabinete de Gestão Financeira
 - Gestor
-- Ministério da Cultura
-- Ministro da Cultura
-- Instituto de Financiamento e Apoio ao Turismo
-- Sociedade da Informação
-- Instituto Nacional do Desporto
+- IAPMEI
+- ICEP
 - Inofor
+- Instituto de Financiamento e Apoio ao Turismo
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional do Desporto
 - Interesse Público
-- Intervenção Operacional Regional do Alentejo
+- Intervenção Desconcentrada da Agricultura e Desenvolvimento Rural
+- Intervenção Desconcentrada da Ciência Tecnologia e Inovação
 - Intervenção Desconcentrada da Cultura
-- Intervenção Operacional Regional do Centro
+- Intervenção Desconcentrada da Economia
 - Intervenção Desconcentrada da Educação
+- Intervenção Desconcentrada da Saúde
+- Intervenção Desconcentrada da Sociedade de Informação
+- Intervenção Desconcentrada das Pescas
 - Intervenção Desconcentrada de Acessibilidades e Transportes
+- Intervenção Desconcentrada do Ambiente
 - Intervenção Desconcentrada do Desporto
 - Intervenção Desconcentrada do Emprego Formação e Desenvolvimento Social
 - Intervenção Estrutural de Iniciativa Comunitária Equal
@@ -128,59 +125,230 @@ subjects:
 - Intervenção Operacional de Assistência Técnica
 - Intervenção Operacional do Ambiente
 - Intervenção Operacional do Emprego Formação e Desenvolvimento Social
+- Intervenção Operacional Pescas
 - Intervenção Operacional Regional
-- Intervenção Desconcentrada da Agricultura e Desenvolvimento Rural
-- Intervenção Desconcentrada da Ciência Tecnologia e Inovação
-- Intervenção Desconcentrada da Economia
-- Intervenção Desconcentrada da Saúde
-- Intervenção Desconcentrada da Sociedade de Informação
-- Intervenção Desconcentrada das Pescas
-- Intervenção Desconcentrada do Ambiente
+- Intervenção Operacional Regional de Lisboa e VALE do TEJO
+- Intervenção Operacional Regional do Alentejo
+- Intervenção Operacional Regional do Algarve
+- Intervenção Operacional Regional do Centro
+- Intervenção Operacional Regional do Norte
+- Investigação Científica e Tecnológica
 - Investimento
-- FSE
-- Direcção Geral do Desenvolvimento Regional
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Cultura
+- Ministério da Economia
+- Ministério da Saúde
+- Ministério do Ambiente e do Ordenamento do Território
 - Ministério do Equipamento Social
+- Ministério do Trabalho e da Solidariedade
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro da Ciência e da Tecnologia
+- Ministro da Cultura
+- Ministro da Economia
+- Ministro da Educação
 - Ministro da Reforma do Estado e da Administração Pública
+- Ministro da Saúde
 - Ministro do Planeamento
+- Ministro do Trabalho e da Solidariedade
 - Nomeação
-- Direcção Regional de Educação
 - Observatório do QCA III
 - Observatório do Quadro Comunitário de Apoio
 - Orçamento
-- Cultura
-- Emprego
-- QCA III
-- Intervenção Operacional Regional de Lisboa e VALE do TEJO
-- Intervenção Operacional Regional do Algarve
-- Intervenção Operacional Regional do Norte
+- Pesca
+- Política de Saúde
 - Projeto
-- Ministério da Saúde
-- Intervenção Operacional Pescas
-- Agricultura
-- Ministro da Educação
-- Ministério do Ambiente e do Ordenamento do Território
-- IAPMEI
+- QCA III
+- Saúde
+- Secretaria Geral
+- Sociedade da Informação
 - Unidade de Gestão
 relationships:
 - type: amended_by
   target: pt:dre:521029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3247013:por
+  label: "Exonerada Maria Isabel Albuquerque Carvalho Seabra pela RES.154/2000(2ªSÉRIE).2000.11.09.PCM, DR.IIS [275] de 28/Nov/2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/154-2000-3247013
+  date: '2000-11-09'
+- type: amended_by
+  target: pt:dre:1353874:por
+  label: "Exonarada Ana Luisa Vaz Cardoso Nunes pelo DESP.16229/2001(2ªSÉRIE).2001.07.16.MJ DR.IIS [180] DE 04/AGO/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/16229-2001-1353874
+  date: '2001-07-16'
+- type: amended_by
+  target: pt:dre:2777585:por
+  label: "Exonerado Francisco Ventura Ramos, pela RES.113/2001(2ªSÉRIE).2001.08.23.PCM, DR.IIS [213] de 13/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/113-2001-2777585
+  date: '2001-08-23'
+- type: amended_by
+  target: pt:dre:2777586:por
+  label: "Exonerada Elisabete dos Santos Alves Azevedo pela RES.114/2001(2ªSÉRIE).2001.08.23.PCM, DR.IIS [213] de 13/Set/2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/114-2001-2777586
+  date: '2001-08-23'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros do Gabinete de Gestão da Intervenção Operacional\
+    \ para a Sociedade de Informação (integrado no agora extinto Ministério da Ciência e da Tecnologia), pelo DEC LEI.120/2002.2002.05.03.PCM,\
+    \ DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:1576664:por
+  label: "Exonerado José Manuel Vieira Conde Rodrigues pelo DESP.13337/2002(2ªSÉRIE).2002.05.20.MC DR.IIS [134] DE 12/JUN/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/13337-2002-1576664
+  date: '2002-05-20'
+- type: amended_by
+  target: pt:dre:1512439:por
+  label: "Exonerada Paula Maria Mendes Nanita Lopes de Oliveira, pelo DESP.16974/2002(2ªSÉRIE).2002.06.30.ME DR.IIS [176]\
+    \ DE 01/AGO/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/16974-2002-1512439
+  date: '2002-06-30'
+- type: amended_by
+  target: pt:dre:2084084:por
+  label: "Alterado o nº 2 do nº 3 do anexo I do presente diploma, e exonerado Luís Pereira de Quintanilha e Mendonça Dias\
+    \ Torres Magalhães pela RES.65/2002(2ªSÉRIE).2002.07.18.PCM DR.IIS [190] DE 19/AGO/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/65-2002-2084084
+  date: '2002-07-18'
+- type: amended_by
+  target: pt:dre:1537988:por
+  label: "Exonerado Pedro Manuel Barbosa Veiga e revogado o nº 1 do art. 4.º do anexo I pela RES.67/2002(2ªSÉRIE).2002.08.01.PCM\
+    \ DR.IIS [195] DE 24/AGO/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/67-2002-1537988
+  date: '2002-08-01'
+- type: amended_by
+  target: pt:dre:451783:por
+  label: "Alterados os arts. 2º e 4º do anexo I ao presente diploma, pela RES.135/2002.2002.10.26.PCM, DR.IS-B [268], de 20/11/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/135-2002-451783
+  date: '2002-10-26'
+- type: amended_by
+  target: pt:dre:232882:por
+  label: "Alterado o nº 1 do nº 1º do anexo II pela RES.50/2003.2003.03.13.PCM DR.IS-B [79] de 03/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/50-2003-232882
+  date: '2003-03-13'
+- type: amended_by
+  target: pt:dre:3434105:por
+  label: "Alterado o n.º 2 do art. 3.º do anexo I pela RES.41/2003(2ªSÉRIE).2003.06.13.PCM DR.IIS [150] DE 02/JUL/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/41-2003-3434105
+  date: '2003-06-13'
+- type: amended_by
+  target: pt:dre:647110:por
+  label: "Determinado manter a estrutura de apoio bem como os órgãos de gestão da Intervenção Operacional da Economia e exonerado\
+    \ o licenciado Alfredo de Oliveira Lopes do cargo de coordenador na componente para os sectores Comércio e Serviços nomeado\
+    \ pela Res 27/2000, de 04-Abr da PCM DR.IS-B [113] de 16/Mai/2000, pela RES.101/2003.2003.07.10.PCM DR.IS-B [182] DE 08/AGO/2003\
+    \ devendo qualquer referência ao POE entender-se como feito ao PRIME\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/101-2003-647110
+  date: '2003-07-10'
+- type: amended_by
+  target: pt:dre:1487669:por
+  label: "Exonerada a licenciada Maria Ernestina Varela Marques de Sá pela RES.66/2003(2ªSÉRIE).2003.08.29.PCM, DR.IIS [216]\
+    \ de 18/Set/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/66-2003-1487669
+  date: '2003-08-29'
+- type: amended_by
+  target: pt:dre:1101495:por
+  label: "Alterados os n.ºs 2 e 3 do art. 3.º do anexo I do presente diploma, pela RES.20/2004(2ªSérie).04.03.2004.PCM, DR.IIS\
+    \ [71] de 24.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/20-2004-1101495
+  date: '2004-03-04'
+- type: amended_by
+  target: pt:dre:2383971:por
+  label: "Alterado o n.º 2 do art. 5.º do anexo I, pela RES.44/2004(2ªSérie).15.04.2004.PCM, DR.IIS [105] de 05.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/44-2004-2383971
+  date: '2004-04-15'
+- type: amended_by
+  target: pt:dre:2837822:por
+  label: "Exonerados os nomeados pelo nº 1 do art. 10º do anexo I e pelo art. 8º do anexo II pela RES.42/2004(2ªSérie).15.04.2004.PCM,\
+    \ DR.IIS [102] de 30.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/42-2004-2837822
+  date: '2004-04-15'
+- type: amended_by
+  target: pt:dre:3642327:por
+  label: "Exonerada a gestora Cármen Pignatelli pela RES.90/2004(2ªSérie).27.08.2004.PCM, DR.IIS [214] de 10.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/90-2004-3642327
+  date: '2004-08-27'
+- type: amended_by
+  target: pt:dre:1788012:por
+  label: "Exonerado o nomeado pelo nº 4 do art. 4º do anexo III pela RES.1/2005(2ªSérie).07.12.2004.PCM, DR.IIS [5] de 07.01.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/1-2005-1788012
+  date: '2004-12-07'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério da Ciência, Tecnologia e Ensino Superior, do Gabinete criado no presente\
+    \ diploma (integrado na Presidência do Conselho de Ministros), pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005,\
+    \ cuja alteração de denominação do citado Gabinete está prevista no presente decreto Lei.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:2354681:por
+  label: "Exonerados os coordenadores Prof. Doutor Miguel Jorge de Campos Cruz e o mestre Hélder Manuel Barreiros Raimundo,\
+    \ pela RES.28/2005(2ªSérie).12.05.2005.PCM, DR.IIS [108] de 06.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/28-2005-2354681
+  date: '2005-05-12'
+- type: amended_by
+  target: pt:dre:1808097:por
+  label: "Exonerada a gestora Teresa Leite de Azevedo, pelo DC.759/2005.14.09.2005.PCM, DR.IIS [189] de 30.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/759-2005-1808097
+  date: '2005-09-14'
+- type: amended_by
+  target: pt:dre:2766500:por
+  label: "Exonerado o licenciado Armando Manuel Nunes da Silva pelo DC.805/2005.28.09.2005.PCM, DR.IIS [201] de 19.10.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/805-2005-2766500
+  date: '2005-09-28'
+- type: amended_by
+  target: pt:dre:521029:por
+  label: "Extinta a Estrutura de Apoio Técnico à Comissão de Gestão do QCA III, instituída no Decreto-Lei n.º 54-A/2000, de\
+    \ 7 de Abril e no presente diploma, e integradas as respectivas atribuições no IFDR, pelo DEC LEI.137/2007.27.04.2007.MAOTDR,\
+    \ DR.IS [82] de 27.04.2007, nos termos do seu artigo 14.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2007-521029
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:628809:por
+  label: "Determinado que a estrutura de apoio técnico da Intervenção Estrutural de Iniciativa Comunitária EQUAL do QCA III\
+    \ passe a funcionar junto do IEFP, I.P., pela RES.180/2007.11.12.2007.PCM, DR.IS [238] de 11.12.2007, nos termos do nº\
+    \ 2. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/180-2007-628809
+  date: '2007-12-11'
+- type: amended_by
+  target: pt:dre:3088491:por
+  label: "Exonerado o licenciado David Carvalho da Silva pelo DESP.18165/2008.08.07.2008.PCM, DR.IIS [130] de 08.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/18165-2008-3088491
+  date: '2008-07-08'
+- type: amended_by
+  target: pt:dre:2058215:por
+  label: "Exonerado o licenciado Luís Patrício Vieira Duarte, nomeado nos termos do n.º 4 do n.º 8.º e declarada extinta,\
+    \ ao abrigo dos n.ºs 2, 3 e 4 do art. 27.º-A do Dec Lei 80/2008, de 16-Maio, a estrutura de apoio técnico do Programa\
+    \ MARE, da Intervenção Operacional das Pescas (QCA III), criada nos termos do n.º 2 do n.º 8.º da presente resolução,\
+    \ pelo DESP.8559/2010.20.05.2010.SEPEA-MADRP, DR.IIS [98] de 20.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8559-2010-2058215
+  date: '2010-05-20'
 - type: cites
   target: celex:31999R1260
   label: null
   source: http://data.europa.eu/eli/reg/1999/1260/oj
+- type: repealed_by
+  target: pt:dre:3247818:por
+  label: "Revogado o nº 4 do nº 2 do anexo III pela RES.80/2002(2ªSÉRIE).2002.11.07.PCM, DR.IIS [275] de 28/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/80-2002-3247818
+  date: '2002-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:51Z'
   warnings: []
   errors: []
 ---

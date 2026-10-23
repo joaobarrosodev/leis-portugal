@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/151/2000/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2000-613429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f8e86434da140f6538330a603399ede97af9d1a3ad6c1db734cbb593a25bc19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cdd8d2f15cff3f72d66b66b77309e4c59185e6d7f903abcf751fb8df76bd6b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 - Santa Comba DÃO
 relationships:
 - type: amended_by
   target: pt:dre:627818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627818:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional, do concelho de Santa Comba Dão, na área abrangida\
+    \ pelo POAA, pela RES.186/2007.21.12.2007.PCM, DR.IS [246] de 21.12.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/186-2007-627818
+  date: '2007-12-21'
+- type: amended_by
+  target: pt:dre:108000334:por
+  label: Aprovada, com efeitos a 15.08.2017, a terceira alteração da delimitação da Reserva Ecológica Nacional do concelho
+    de Santa Comba Dão, aprovada pela presente resolução, na redação da Res 186/2007, de 21-dez, PCM e do Av 9964/2013, de
+    06-ago e republicada a carta da REN na versão aprovada pelo(a) Aviso n.º 9293/2017 - Diário da República n.º 156/2017,
+    Série II de 2017-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9293-2017-108000334
+  date: '2017-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -88,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/1995/11/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/1995/11/02/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679469:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:25Z'
   warnings: []
   errors: []
 ---

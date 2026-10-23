@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 220/2012, 1º Suplemento, Série I de 2012-11-14
   number: '220'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6618-(2) a 6618-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/22001/0000200009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/94-a/2012/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/94-a-2012-348910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb77f77978119cd3ffac9508747d70a4e6de99df48c46722d00387654afef8d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5911c1edf42bc20fb2ce4f322dbcb7bf1fa11c6a6cc825e61a12ec45a67c0b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
+- ANA
 - Caderno de Encargos
 - Capital Social
 - Conselho de Ministros
@@ -75,28 +75,32 @@ subjects:
 - Delegação de Competências
 - Empresa Pública
 - Fiscalização
-- Isenção de Taxas e Emolumentos
 - Governo XIX
+- Isenção de Taxas e Emolumentos
+- Ministro de Estado e das Finanças
 - OPV
 - Privatização
-- Ministro de Estado e das Finanças
-- ANA
+- Sociedade Anónima
 - Venda
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/232/2012/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/232/2012/10/29/p/dre
+- type: cites
+  target: pt:dre:192587:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:50Z'
   warnings: []
   errors: []
 ---

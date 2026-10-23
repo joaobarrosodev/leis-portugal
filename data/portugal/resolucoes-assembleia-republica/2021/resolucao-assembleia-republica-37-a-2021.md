@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 22/2021, 2º Suplemento, Série I de 2021-02-02
   number: '22'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 15-(3) a 15-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02202/0000300014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/37-a/2021/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-a-2021-156296213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd1a9c8c5dbb99f64a5460d10936eb5579500f4c19d9cde0f2f9236e3e57510f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eeb36b643c1b265f2954f5ad9cec5972b015e0af3335814411cb23d55967eb3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açúcar
 - CE Países
-- Matéria Plástica
-- Gestão Financeira
+- Comércio
 - Decisão CE
 - Despesas Públicas
-- Empréstimo
-- União Europeia
-- IVA
+- Doença Infecciosa
 - Embalagem
+- Empréstimo
+- Epidemia
+- Gestão Financeira
+- IVA
+- Matéria Plástica
 - Mercado de Capitais
 - Operações de Tesouraria
 - Orçamento
-- Açúcar
 - Países Terceiros
-- Doença Infecciosa
-- Epidemia
 - Política Orçamental
 - Reembolso
 - Regulamento CE
 - Rendimento
 - Taxa
-- Comércio
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:156296212:por
+  label: Ratificada a Decisão (UE, Euratom) 2020/2053 do Conselho, aprovada pelo presente diploma, pelo(a) Decreto do Presidente
+    da República n.º 10-A/2021 - Diário da República n.º 22/2021, 2º Suplemento, Série I de 2021-02-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/10-a-2021-156296212
+  date: '2021-02-02'
 - type: cites
   target: celex:31970D0243
   label: null
@@ -180,13 +186,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:12:41Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +205,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 29 de janeiro de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 [DECISÃO (UE, EURATOM) 2020/2053](https://data.europa.eu/eli/dec/2020/2053/oj?locale=pt) DO CONSELHO, DE 14 DE DEZEMBRO DE 2020, RELATIVA AO SISTEMA DE RECURSOS PRÓPRIOS DA UNIÃO EUROPEIA E QUE REVOGA A [DECISÃO 2014/335/UE, EURATOM](https://data.europa.eu/eli/dec/2014/335/oj?locale=pt)
 
@@ -321,7 +327,7 @@ O RNB a que se refere o n.º 1, alínea d), entende-se como o RNB anual a preço
 
 4 - Se as alterações do [Regulamento (UE) n.º 549/2013](https://data.europa.eu/eli/reg/2013/549/oj?locale=pt) representarem alterações significativas do nível do RNB, a Comissão volta a calcular os limites máximos fixados nos n.os 1 e 2, tal como temporariamente aumentados nos termos do artigo 6.º, com base na seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/02/02202/0000300014.pdf))](https://files.diariodarepublica.pt/1s/2021/02/02202/0000300014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/02/02202/0000300014.pdf)
 
 ###### Artigo 4.º — Utilização dos fundos resultantes de empréstimos nos mercados de capitais
 
@@ -461,4 +467,6 @@ Pelo Conselho, o Presidente, M. Roth.
 
 ## ANEXO — Tabela de correspondência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/02/02202/0000300014.pdf))](https://files.diariodarepublica.pt/1s/2021/02/02202/0000300014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/02/02202/0000300014.pdf)
+
+113941659

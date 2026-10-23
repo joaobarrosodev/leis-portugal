@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/188b00/47104719.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/751/1994/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/751-1994-225045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6161f575d9c43dea908ff3abc23be23cb0eaccd4b95410267502aaff04423c03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08c208ea72f0c4e7527eb95ffd5c990393aa86e72c76ff0b25d8a1e972687052
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Biotecnologia
-- Organismo Geneticamente Modificado
 - Decisão CE
 - Notificação
+- Organismo Geneticamente Modificado
 - Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:226806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478251:por
+  label: "Alterados os nº 4º e 5º e aditados os anexos III e IV, pelo DEC LEI.172/98.1998.06.25.MAM DR.IS-A [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1998-478251
+  date: '1998-06-25'
 - type: cites
   target: celex:31990L0220
   label: null
@@ -88,16 +93,21 @@ relationships:
   target: celex:31994L0015
   label: null
   source: http://data.europa.eu/eli/dir/1994/15/oj
+- type: repealed_by
+  target: pt:dre:226806:por
+  label: "Revogada pelo DEC LEI.72/2003.2003.04.10.MCOTA, DR.IS-A [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2003-226806
+  date: '2003-04-10'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:14Z'
   warnings: []
   errors: []
 ---
@@ -210,9 +220,9 @@ A Direcção-Geral do Ambiente terá à disposição do público interessado uma
 
 Ministérios da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 5 de Julho de 1994.**
+Assinada em 5 de Julho de 1994.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
 ## ANEXO I
 
@@ -220,7 +230,7 @@ Modelo de resumo de notificação sobre a libertação de organismos geneticamen
 
 Nos termos do disposto na alínea a) do n.º 1 do n.º 3.º da Portaria n.º 751/94, de 16 de Agosto:
 
-# PARTE 1
+## PARTE 1
 
 Modelo do resumo de notificação sobre a libertação de plantas superiores geneticamente modificadas (Angiospermae e Gymnospermae).
 
@@ -230,9 +240,9 @@ O modelo do resumo de notificação sobre a libertação de plantas superiores g
 
 O modelo do resumo de notificação sobre a libertação de plantas superiores geneticamente modificadas não pretende incluir todas as informações necessárias à avaliação dos riscos ambientais. O espaço que se segue a cada pergunta não indica o grau de pormenor das informações exigidas no modelo do resumo de notificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/188b00/47104719.pdf))](https://files.diariodarepublica.pt/1s/1994/08/188b00/47104719.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/188b00/47104719.pdf)
 
-# PARTE 2 — Modelo do resumo de notificação sobre a libertação de organismos geneticamente modificados, à excepção de plantas superiores
+## PARTE 2 — Modelo do resumo de notificação sobre a libertação de organismos geneticamente modificados, à excepção de plantas superiores
 
 Introdução
 
@@ -240,7 +250,7 @@ O modelo do resumo de notificação foi elaborado tendo em conta as finalidades 
 
 O modelo do resumo de notificação não se destina a incluir a informação requerida para a avaliação pormenorizada do risco ambiental. A referida informação deve, porém, transmitir, sob forma adequada (condensada), a informação apresentada às autoridades competentes nos termos dos artigos 5.º e 6.º da Directiva n.º [90/220/CEE](http://data.europa.eu/eli/dir/1990/220/oj?locale=pt), nas condições especificadas no prefácio do anexo II. O espaço que se segue a cada questão não indica o grau de pormenor requerido no modelo do resumo de notificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/188b00/47104719.pdf))](https://files.diariodarepublica.pt/1s/1994/08/188b00/47104719.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/188b00/47104719.pdf)
 
 ## ANEXO II — Informações requeridas na notificação
 

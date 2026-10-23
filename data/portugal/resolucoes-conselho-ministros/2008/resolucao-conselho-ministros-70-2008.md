@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07900/0230702309.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/70/2008/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/70-2008-249856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9dc0de3af31ee1e1056ee2697287e13f6b1d0af542399203d3a3f6b354d7c3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fb8aa3ee3e63cac8f01a751ff9598afcd765bab027869f6d413d713e8d08c25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Direção Geral do Tesouro e Finanças
 - Empresa Pública
-- Setor Empresarial do Estado
+- Gestão Financeira
 - Ministro das Finanças
 - Setor Empresarial
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:500215:por
@@ -96,16 +96,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/2007/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/2007/05/07/p/dre
+- type: cites
+  target: pt:dre:520247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:500215:por
+  label: "Revogada a partir de 02.12.2013, pelo DEC LEI.133/2013.03.10.2013.MF, DR.IS [191] de 03.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2013-500215
+  date: '2013-10-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:01Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +175,7 @@ II - Principais áreas de orientação dirigidas ao sector empresarial do Estado
 
 a) Indicadores financeiros: proceder à definição de objectivos de natureza financeira, alinhados com as melhores práticas de empresas congéneres do sector a nível europeu e aferir, através de indicadores apropriados, designadamente os previstos no quadro abaixo, o grau de cumprimento dos mesmos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07900/0230702309.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07900/0230702309.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07900/0230702309.pdf)
 
 b) Contratualização da prestação de serviço público: as empresas encarregues da prestação de serviço público devem elaborar e apresentar ao Estado propostas de contratualização da prestação desse serviço, associando metas quantitativas a custos auditáveis e que reflictam um esforço de comparação permanente com as melhores práticas de mercado. Os contratos devem ser equilibrados e estabelecer direitos e obrigações recíprocos entre Estado e empresas, bem como as correspondentes penalizações em caso de incumprimento;
 

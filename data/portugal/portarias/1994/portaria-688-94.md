@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/688/1994/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/688-1994-297818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b02bda954b990ac0fb99b4a28c7ed898031ba7fe3f6f184e7d70f2592c6d4112
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f047ae802cfda52a018019d4105b6c0d723d6265fdb055389aa5f03e1a81325
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
 - CEE
+- Exploração Florestal
+- Ifadap
 - Instituto da Conservação da Natureza
 - Instituto de Estruturas Agrárias e Desenvolvimento Rural
 - Instituto de Protecção da Produção Agro-Alimentar
 - Instituto Florestal
-- Proteção do Ambiente
 - Política Agrícola Comum
-- Exploração Florestal
 - Produção Agrícola
+- Proteção do Ambiente
 - Regulamento CE
-- Agricultura
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:475973:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584818:por
+  label: "Alterados os numº 5 e 7 e revogada os num 6, 8, 9,11 e 12 e demais regulamentação que nomeadamente contrarie o disposto\
+    \ no presente diploma, pela Port.745-O/96.1996.12.18.MADRP, DR.IS-B [292]3Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-o-1996-584818
+  date: '1996-12-18'
 - type: cites
   target: celex:31992R2078
   label: null
   source: http://data.europa.eu/eli/reg/1992/2078/oj
+- type: repealed_by
+  target: pt:dre:209843:por
+  label: "Revogados os nºs 1º a 4º pela PORT.85/98.1998.02.19.MADRP, DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-1998-209843
+  date: '1998-02-19'
+- type: repealed_by
+  target: pt:dre:475973:por
+  label: "Revogados os nºs 5 e 7 pela PORT.345/98.1998.06.05.MADRP, DR.IS-A [130] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-1998-475973
+  date: '1998-06-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:43Z'
   warnings: []
   errors: []
 ---
@@ -282,6 +298,6 @@ Os membros das unidades de gestão são designados por despacho do Ministro da A
 
 Ministérios da Agricultura e do Ambiente e Recursos Naturais.
 
-**Assinada em 7 de Julho de 1994.**
+Assinada em 7 de Julho de 1994.
 
-**O Ministro da Agricultura, António Duarte Silva. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Agricultura, António Duarte Silva. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.

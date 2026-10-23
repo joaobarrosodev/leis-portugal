@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 162/1994, 2º Suplemento, Série I-B de 1994-07-15
   number: '162'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3862-(41) a 3862-(42)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b02/00410042.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/640-t1/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/640-t1-1994-276409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9616bb4ceccfb0e47c731dea101b9317e1946d3c7149ac5140baea2c1450e0e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15534c1674338964b984df3841139663821d260346876879e0a81b22c026aa93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,50 @@ relationships:
   target: pt:dre:541794:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434668:por
+  label: "Alterado o n.º 1.º e substituída a planta anexa pela PORT.1002/95.19.08.1995.MA, DR.IS-B [191] de 19.08.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1002-1995-434668
+  date: '1995-08-19'
+- type: amended_by
+  target: pt:dre:644487:por
+  label: "Alterado o nº 1º do presente diploma, com a redacção dada na Port 1002/95 de 19-Ago, e aditado um nº 1º-A, pela\
+    \ PORT.866/97.1997.09.10.MADRP, DR.IS-B [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/866-1997-644487
+  date: '1997-09-10'
+- type: amended_by
+  target: pt:dre:243878:por
+  label: "Anexados vários prédios rústicos, na redacção dada pela Port 1002/95 de 19-Ago, pela PORT.726/98.1998.09.09.MADRP,\
+    \ DR.IS-B [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/726-1998-243878
+  date: '1998-09-09'
+- type: amended_by
+  target: pt:dre:433672:por
+  label: "Anexados vários prédios à zona de caça associativa criada pelo presente diploma, pela PORT.716/99.1999.08.24.MADRP\
+    \ DR.IS-B [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1999-433672
+  date: '1999-08-24'
+- type: amended_by
+  target: pt:dre:661693:por
+  label: "Anexados vários prédios rústicos á zona de caça associativa criada pelo presente diploma, com a redacção dada pelas\
+    \ Port 1002/95, de 19-Ago, 866/97, de 10-Set, 726/98, de 09-Set e 716/99, de 24-Ago, pela PORT.854/2003.2003.08.18.MADRP\
+    \ DR.IS-B [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/854-2003-661693
+  date: '2003-08-18'
+- type: amended_by
+  target: pt:dre:284101:por
+  label: "Renovada, por um período de 12 anos, a concessão de zona de caça associativa concessionada pelo presente diploma,\
+    \ alterado pelas Ports. 1002/95, de 19-Ago, 866/97, de 10-Set, 726/98, de 09-Set, 716/99, de 24-Ago e 854/2003, de 18-Ago,\
+    \ pela PORT.1033-BU/2004.10.08.2004.MADRP, DR.IS-B [187]Supl de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-bu-2004-284101
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:541794:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída neste diploma, com as alterações introduzidas pelas Port\
+    \ 1002/95, de 19-Ago, 866/97, de 10-Set, 726/98, de 09-Set, 716/99, de 24-Ago e 854/2003, de 18-Ago, e a renovação efectuada\
+    \ pela Port 1033-BU/2004, de 10-Ago, pela PORT.1073/2006.03.10.2006.MAOTDR, DR.IS [191] de 03.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1073-2006-541794
+  date: '2006-10-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +125,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:16Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +189,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 5 de Julho de 1994.**
+Assinada em 5 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b02/00410042.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b02/00410042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b02/00410042.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/210/1995/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-1995-166791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 259afc49f9056b3a44d489de465cfac913b5fd24ec5b39edde23a283ef2ad16e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe28e7ecc0ed2912b96fbee0218550aad95c586af9c3a0c641e36322a2ea3fa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
-- Remuneração Acessória
 - Instituto Nacional de Pilotagem dos Portos
 - Pessoal Técnico Superior
 - Remuneração
+- Remuneração Acessória
 - Senha de Presença
+- Sistema Retributivo
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ACTUALIZADOS OS MONTANTES DAS TABELAS DE REMUNERAÇÕES BASE DOS PILOTOS, PELA PORT 240/96 DE 04-JUL DR.IS-B [153]\0\
+    B [153]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/489/1994/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/489/1994/07/04/p/dre
+- type: cites
+  target: pt:dre:291432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:11Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +125,6 @@ b) 4% com efeitos a partir de 1 de Janeiro de 1995.
 
 Ministério do Mar.
 
-**Assinada em 10 de Março de 1995.**
+Assinada em 10 de Março de 1995.
 
 Pelo Ministro do Mar, João Prates Bebiano, Secretário de Estado Adjunto e das Pescas.

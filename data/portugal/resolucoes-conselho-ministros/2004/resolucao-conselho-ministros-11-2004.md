@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/11/2004/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-2004-570534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 346fe676a5c590a8b946027a7f25389afbf2592d91a1ef3b9964b472f884f26b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 279a13b84d6c3e023b631946f2796b5a2496115f9cab439a57a6c95a7ec7a894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Análise Económica
-- Encarregado de Missão
 - Apoio ao Investimento
-- Projeto de Investimento
+- Desenvolvimento Económico
+- Encarregado de Missão
 - Incentivos Fiscais
 - Nomeação
 - Plano de Desenvolvimento
-- Desenvolvimento Económico
 - Programa de Recuperação de Áreas e Sectores Deprimidos
+- Projeto de Investimento
 - Prorrogação de Prazo
 - Setor Empresarial
 relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:42/2003
+  label: "Prorroga com efeitos desde 1 de Outubro de 2003 até Junho de 2004 o mandato do encarregado de missão Prof. Daniel\
+    \ Bessa Fernandes Coelho, conferido pela Resolução do Conselho de Ministros n.º 42/2003, de 20 de Fevereiro DR.IS-B [72]\
+    \ de 26/Mar/2003\0\0"
+  source: null
+  date: '2003-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/42/2003/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/42/2003/03/26/p/dre
+- type: cites
+  target: pt:dre:232948:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:04Z'
   warnings: []
   errors: []
 ---

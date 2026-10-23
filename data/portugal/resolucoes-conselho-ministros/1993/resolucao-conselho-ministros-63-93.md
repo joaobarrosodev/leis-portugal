@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/11/261b00/62366243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/63/1993/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-1993-686852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 735d3e97078183c84405431911e4e835d4584cbd3390789559c6ae8767facf33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25046ac50073bbfb2dcedc3a9702ff5e8049ad818ef76765fe679377baa72f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
+- Exploração Florestal
 - Ordenamento do Território
 - Plano Director Municipal
-- Zona de Proteção
 - Política de Solos
-- Vila Real
-- Urbanismo
-- Exploração Florestal
 - Protecção do Património
 - Regulamento
+- Reserva Ecológica Nacional
+- Urbanismo
+- Vila Real
+- Zona de Proteção
 - Zona Industrial
 - ZONA Urbana
 relationships:
@@ -82,6 +82,26 @@ relationships:
   target: pt:dre:406359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406359:por
+  label: "Ratificada suspensão parcial do Plano Director Municipal de Vila Real e o estabelecimento de medidas preventivas,\
+    \ pelo período de dois anos, para a mesma área pela RES.201/97.1997.10.30.PCM, DR.IS-B [276] de 1997.11.28\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/201-1997-406359
+  date: '1997-10-30'
+- type: amended_by
+  target: pt:dre:3267951:por
+  label: "Tornada pública a correção material do Plano Diretor Municipal de Vila Real ratificado pelo presente diploma e republicadas\
+    \ as partes D e E da respetiva planta de ordenamento - qualificação do solo, pela DECL.178/2013.19.08.2013.MVILA REAL,\
+    \ DR.IIS [158] de 19.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/178-2013-3267951
+  date: '2013-08-19'
+- type: amended_by
+  target: pt:dre:59039543:por
+  label: Tornada pública a correção material e republicada a parte D da planta de ordenamento-qualificação do solo, do Plano
+    Diretor Municipal de Vila Real, ratificado pela presente Resolução, pelo(a) Declaração n.º 202/2014 - Diário da República
+    n.º 229/2014, Série II de 2014-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/202-2014-59039543
+  date: '2014-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1991/01/09/p/dre
   label: null
@@ -102,16 +122,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693442:por
+  label: null
+  source: null
 article_structure:
   article_count: 46
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:46Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +278,7 @@ Deverá ser dado cumprimento às limitações à ocupação na vizinhança de li
 
 1 - Em função do uso dominante, consideram-se as seguintes classes e categorias de espaços, demarcadas na planta de ordenamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/261b00/62366243.pdf))](https://files.diariodarepublica.pt/1s/1993/11/261b00/62366243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/261b00/62366243.pdf)
 
 2 - Consideram-se ainda na planta de ordenamento as seguintes áreas onde são condicionados a ocupação, o uso e a transformação do solo e que não definem espaços específicos, sobrepondo-se, como tal, a diferentes classes de espaços:
 
@@ -774,4 +842,4 @@ c) Ajustamento de pormenor nos limites entre espaços desde que por razões de c
 
 2 - Qualquer ajustamento só terá eficácia depois de aprovado pela Câmara Municipal, precedido de parecer técnico dos serviços municipais competentes, registado e publicado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/261b00/62366243.pdf))](https://files.diariodarepublica.pt/1s/1993/11/261b00/62366243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/261b00/62366243.pdf)

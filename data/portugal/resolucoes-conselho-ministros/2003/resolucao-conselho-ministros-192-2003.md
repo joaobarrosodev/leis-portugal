@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/192/2003/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/192-2003-423918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cd045d8edda9ca04b21e20bc68b5af02fb823d3168a7cd82f83fc23ad956773
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e04a782c1a5a52cf158b46e39729556e862efdbbaf3bf0541e410f0d860f464
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exclusão Social
-- Luta contra a Pobreza
-- Pobreza
 - Desenvolvimento Social
-- PNAI
 - Direitos Cívicos
-- Estratégia de Lisboa
-- Política Social
 - Economia Social
+- Estratégia de Lisboa
+- Exclusão Social
 - Inserção Social
+- Luta contra a Pobreza
+- PNAI
+- Pobreza
+- Política Social
 relationships:
 - type: cites
   target: 'eli:http:'
@@ -116,16 +116,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/91/2001/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/91/2001/08/06/p/dre
+- type: cites
+  target: pt:dre:273979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:06Z'
   warnings: []
   errors: []
 ---
@@ -250,7 +298,7 @@ Do desenvolvimento de políticas que favoreçam a articulação entre a vida pro
 
 Da utilização de oportunidades de inserção e de emprego na economia social.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Para a promoção da participação no emprego, nomeadamente de grupos vulneráveis da população, concorrem medidas, programas e projectos com percursos de acompanhamento da inserção no emprego, de políticas de formação, de políticas favorecedoras da articulação entre a vida profissional e a vida familiar, observando-se que algumas destas metas foram definidas em estreita articulação com o PNE e a estratégia europeia para o emprego.
 
@@ -296,7 +344,7 @@ Por último, saliente-se que esta é uma das directrizes de melhor execução, o
 
 b) Prevenir as rupturas profissionais desenvolvendo a capacidade de inserção profissional graças à gestão dos recursos humanos, à organização do trabalho e à aprendizagem ao longo da vida:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Para a promoção do emprego e, particularmente, para a prevenção de rupturas profissionais contribuem significativamente as apostas no desenvolvimento, formação e gestão de recursos humanos, bem como na estratégia de aprendizagem ao longo da vida, algumas das quais em estreita articulação com as do PNE, como se tornará perceptível ao longo da análise seguinte.
 
@@ -348,7 +396,7 @@ Contribuam para garantir a todas as pessoas os recursos necessários para vivere
 
 Ajudem a superar os obstáculos à aceitação de emprego, assegurando que o acesso ao emprego se traduza num aumento do rendimento e favorecendo a capacidade de inserção profissional.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 A reforma que o sistema de protecção social português conheceu no período que antecedeu a implementação do PNAI 2001-2003 assume um papel nuclear na prossecução do alcance estratégico dos objectivos do Plano. Com efeito, a mudança que se vem operando no sistema incorpora elementos ao nível da cobertura das prestações sociais, na garantia de sustentabilidade financeira do sistema público, na melhoria da eficiência do sistema e na promoção da lógica de proximidade dos serviços aos cidadãos.
 
@@ -370,7 +418,7 @@ Deve ressaltar-se, no cômputo desta directriz, a importância de terem sido alc
 
 b) Criar políticas que tenham como objectivo o acesso de cada pessoa a uma habitação decente e salubre, bem como aos serviços essenciais necessários, atendendo ao contexto local e a uma existência normal nessa habitação (electricidade, água, aquecimento...):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Constituindo a habitação um dos factores determinantes para o bem-estar das famílias, o contributo de um conjunto de programas e medidas que visam melhorar as condições de habitabilidade dos alojamentos e apoiar as famílias no acesso à habitação tem sido fundamental. Assim, das principais medidas implícitas na directriz destacam-se o realojamento de famílias, a recuperação de edifícios, nomeadamente através dos Programas RECRIA, REHABITA, RECRIPH e SOLARH e o incentivo ao arrendamento jovem.
 
@@ -384,7 +432,7 @@ Relativamente ao Programa de Incentivo ao Arrendamento Jovem, destaca-se o facto
 
 c) Criar políticas que tenham por objectivo o acesso de todas as pessoas aos cuidados de saúde necessários, inclusivamente em caso de falta de autonomia:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Algumas medidas têm vindo a ser introduzidas no sentido de melhorar o acesso de todas as pessoas aos cuidados de saúde, inclusivamente em caso de falta de autonomia. No entanto, continuam a subsistir algumas fragilidades e problemas que fazem com que se atribua ao sector da saúde uma importância prioritária.
 
@@ -412,7 +460,7 @@ O número de casos com prática de consumo de drogas problemático diminuiu, ent
 
 d) Desenvolver, à atenção das pessoas em causa, prestações, serviços ou acções de acompanhamento que permitam um acesso efectivo à educação, à justiça e aos demais serviços públicos e privados, tais como a cultura, o desporto e os tempos livres:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 O acesso efectivo por parte dos cidadãos às prestações, serviços e acções de acompanhamento públicos assegura o usufruto dos direitos sociais e uma vivência de acordo com os padrões dos modos de vida correntes.
 
@@ -430,7 +478,7 @@ A possibilidade de prática de actividades desportivas e o preenchimento dos tem
 
 a) Explorar plenamente o potencial da sociedade do conhecimento e das novas tecnologias da informação e da comunicação e assegurar que ninguém seja delas excluído, dando, nomeadamente, uma atenção especial às necessidades das pessoas com deficiência:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 No sentido de ligar à Internet todos os equipamentos sociais da rede solidária e pública, no intuito de combater a info-exclusão, foi apresentada uma candidatura ao Programa Operacional Sociedade de Informação do QCA III, visando a cobertura de 500 instituições da rede solidária. O financiamento aprovado no âmbito deste Programa permitirá instalar o equipamento informático que sirva de suporte quer à criação de um espaço público de utilização da Internet, quer à condução de acções de formação para a atribuição de diplomas de competências básicas aos recursos humanos das instituições e ao público em geral (ver nota 24).
 
@@ -446,7 +494,7 @@ Resta salientar que, pelo número de medidas incluídas nesta directriz, é not�
 
 b) Criar políticas destinadas a evitar rupturas em condições de existência susceptíveis de conduzir a situações de exclusão, nomeadamente no que se refere aos casos de sobreendividamento, à exclusão escolar ou à perda de habitação:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Em resultado do período de elevado crescimento económico ao qual se associou o aumento dos rendimentos das famílias, registou-se na última década, em Portugal, um acentuado crescimento do consumo e do endividamento dos particulares. O risco associado de incorrer em compromissos nem sempre suportáveis face à posse efectiva dos recursos necessários ao seu cumprimento levou à criação do Gabinete de Apoio aos Sobreendividados. Este Gabinete visa, em primeira instância, acompanhar a situação e, na sua sequência, desenvolver acções de informação e educação, criar espaços de aconselhamento e estruturas de apoio e regular regras de publicidade, em articulação com regras legais de protecção dos consumidores.
 
@@ -460,7 +508,7 @@ Apesar de ser positiva a informação existente sobre as medidas enunciadas, dev
 
 c) Desenvolver acções destinadas a preservar a solidariedade familiar sob todas as suas formas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 A nova geração de políticas sociais activas em Portugal tem sido orientada no sentido de, por um lado, dar resposta às necessidades das famílias modernas, cujos modelos de organização requerem a disponibilização de novos serviços, principalmente com vista a facilitar a conciliação da vida familiar e profissional das mulheres e a participação dos homens na vida familiar, e por outro, de preservar e explorar todos os esquemas de solidariedade familiar existentes.
 
@@ -496,7 +544,7 @@ Finalmente, as respostas sociais para as pessoas em situação de dependência c
 
 a) Favorecer a integração social das mulheres e dos homens que, devido nomeadamente à sua deficiência ou à sua pertença a um grupo social com dificuldades de inserção especiais, sejam susceptíveis de se confrontarem com situações de pobreza persistente e ou exclusão social:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Portugal conheceu nas últimas décadas um processo de desenvolvimento e modernização que o tem vindo a aproximar dos níveis médios europeus, que porém se encontram ainda a alguma distância. Os níveis de pobreza são um indicador desse menor desenvolvimento, enquanto certas manifestações de fenómenos de exclusão social vão emergindo com o próprio processo de modernização.
 
@@ -524,7 +572,7 @@ No decorrer de 2001 foram também promovidas várias campanhas de sensibilizaç�
 
 b) Tender para a eliminação das situações de exclusão social que atingem as crianças e dar-lhes todas as oportunidades de uma boa inserção social:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 O conjunto de políticas e medidas direccionadas para as crianças e jovens em risco tem procurado articular uma dupla estratégia de resposta ao objectivo de promoção do desenvolvimento e de protecção social das crianças e das famílias. Partindo do pressuposto de que estas problemáticas não podem ser isoladas dos contextos familiares, sociais, económicos, culturais e territoriais em que se inserem, as políticas e medidas, para além de assegurarem um sistema de protecção de garantia dos direitos, têm subjacentes como componentes estratégicas de actuação o princípio da multidimensionalidade e o princípio da territorialidade, significando que a resposta procura ser integrada quer na sua forma (cruzando intervenções sectoriais e agentes públicos e privados), quer nos níveis de intervenção (cruzando o nível nacional com o local). O Pacto de Cooperação para a Solidariedade apresenta-se, a este nível, como um instrumento estratégico fundamental para o estabelecimento de parcerias alargadas aos mais importantes agentes e sectores da solidariedade social.
 
@@ -552,7 +600,7 @@ Entre 1999 e 2002, o Programa sem Fronteiras abrangeu 3617 crianças e jovens em
 
 c) Desenvolver acções globais a favor dos territórios confrontados com a exclusão:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Portugal possui hoje um vasto conjunto de instrumentos na prossecução das políticas sociais que, ao possibilitarem e estimularem intervenções com vista à resolução dos problemas das comunidades mais desfavorecidas, são, em grande parte, responsáveis pelo despertar do interesse pelas dinâmicas de desenvolvimento comunitário e, na medida em que pressupõem o trabalho em parceria, promovem a implementação e crescimento de uma forte cultura de cooperação entre as instituições.
 
@@ -588,7 +636,7 @@ Por fim, no âmbito da meta «Apoiar 183 projectos de desenvolvimento social e c
 
 a) Promover, de acordo com as práticas nacionais, a participação e a expressão das pessoas em situação de exclusão, nomeadamente sobre a sua situação e sobre as políticas e acções desenvolvidas em sua intenção:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 O combate à pobreza tem de ser feito com a colaboração e implicação directa das próprias pessoas vítimas dos fenómenos, no sentido de se combaterem as causas e de as políticas implementadas darem respostas concretas às reais necessidades dessas pessoas.
 
@@ -608,7 +656,7 @@ Do desenvolvimento dos procedimentos e estruturas de coordenação adequados;
 
 Da adaptação dos serviços administrativos e sociais às necessidades das pessoas em situação de exclusão e da sensibilização para essas necessidades dos intervenientes que actuam in loco.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Os planos municipais de prevenção primária das toxicodependências (PMP) constituem uma medida de intervenção, que visa incentivar o envolvimento da sociedade civil no sentido de desenvolver projectos de prevenção em meio escolar e familiar, junto de jovens não escolarizados e em espaços de lazer e desportivos, em parceria com as autarquias.
 
@@ -622,7 +670,7 @@ Do incentivo à responsabilização e à acção por parte de todos os cidadãos
 
 Do incentivo à responsabilização social das empresas.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Esta directriz remete para a formação de uma consciência colectiva, assente no diálogo e na circulação de informação e, simultaneamente, uma partilha de responsabilidades na detecção dos problemas, propostas de soluções e definição concertada de intervenções eficazes. Apela, portanto, à consolidação de parcerias entre organizações não governamentais e serviços sociais (públicos), assente em complementaridades e articulações, assim como à participação e implicação de todos os cidadãos, incluindo os mais desfavorecidos, e, ainda, à responsabilização social das empresas.
 
@@ -656,13 +704,13 @@ O Conselho Europeu de Lisboa e os compromissos por que se orientou, de amplitude
 
 A afirmação deste impulso assentou num método aberto de coordenação, que conjuga objectivos comuns, planos nacionais de acção e um programa apresentado pela comissão com vista a promover a cooperação neste domínio. Este novo método deverá contribuir para uma melhor integração dos objectivos sociais nos processos já em curso com vista à consecução da ambiciosa meta estratégica estabelecida em Lisboa para a Europa comunitária - «tornar-se na economia baseada no conhecimento mais competitiva e dinâmica do mundo, capaz de garantir um crescimento económico sustentável, com mais e melhores empregos, e com maior coesão social». Para este efeito, deverá, mais concretamente, contribuir para garantir uma interacção positiva e dinâmica das políticas económicas, sociais e de emprego, bem como para mobilizar todos os agentes, enunciando-se, assim, um modelo de acção política que ficou consagrado como «triângulo de Lisboa».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf))](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 No âmbito da presidência portuguesa, ganhou ainda particular relevo a decisão de instituir, por um período transitório, o Grupo de Alto Nível de Protecção Social, que, tomando como referência as orientações apontadas na comunicação da Comissão «Uma estratégia concertada para modernizar a protecção social» de 14 de Julho de 1999 e nas conclusões do Conselho de 17 de Dezembro de 1999, iniciou um debate aprofundado sobre o reforço da cooperação para a modernização e melhoria dos sistemas de protecção social. Na continuidade do Grupo de Alto Nível de Protecção Social, foi instituído durante a presidência portuguesa o Comité de Protecção Social, que desempenhará um papel central no acompanhamento permanente do processo europeu de inclusão social.
 
 Em execução do mandato dos Conselhos Europeus de Lisboa e de Santa Maria da Feira, o Conselho aprovou, em Outubro de 2000, quatro «objectivos adequados» para a luta contra a pobreza e a exclusão social, que foram posteriormente adoptados pelo Conselho Europeu de Nice, em Dezembro de 2000.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf))](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Estes objectivos comuns constituem a base dos planos nacionais de acção bienais apresentados pelos Estados membros que, por sua vez, contribuem para o relatório conjunto do Conselho e da Comissão sobre a inclusão social, apresentado ao Conselho Europeu.
 
@@ -858,7 +906,7 @@ Promover a verificação no âmbito laboral da igualdade de tratamento e da não
 
 Integrar na organização social e na cultura das empresas a noção de que a conciliação da actividade profissional com a vida pessoal e familiar é um direito e um dever dos trabalhadores e trabalhadoras, bem como uma responsabilidade social das empresas.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 b) Prevenir as rupturas profissionais desenvolvendo a capacidade de inserção profissional graças à gestão dos recursos humanos, à organização do trabalho e à formação ao longo da vida:
 
@@ -894,7 +942,7 @@ Reforçar o desenvolvimento da estratégia de educação e formação ao longo d
 
 Consolidar os sistemas de reconhecimento, validação e certificação de competências adquiridas, por via não formal e informal.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 1.2 - Promover o acesso de todos aos recursos, aos direitos, aos bens e aos serviços
 
@@ -952,7 +1000,7 @@ Racionalizar os instrumentos de flexibilização da idade da reforma;
 
 Melhorar a qualidade das respostas sociais e o acesso aos serviços.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 b) Criar políticas que tenham como objectivo o acesso de cada pessoa a uma habitação decente e salubre, bem como aos serviços essenciais necessários, atendendo ao contexto local e a uma existência normal nessa habitação (electricidade, água, aquecimento...):
 
@@ -986,7 +1034,7 @@ Incrementar o apoio à habitação de custos controlados mediante: política de 
 
 Prosseguir acções desenvolvidas no âmbito do realojamento, garantindo realojamento condigno às famílias que ainda vivem em barracas ou similares.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 c) Criar políticas que tenham por objectivo o acesso de todas as pessoas aos cuidados de saúde necessários, inclusivamente em caso de falta de autonomia:
 
@@ -1014,7 +1062,7 @@ Criar e desenvolver programas de prevenção e intervenção ao nível do tratam
 
 Prevenir a institucionalização de doentes mentais.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 d) Desenvolver, à atenção das pessoas em causa, prestações, serviços ou acções de acompanhamento que permitam um acesso efectivo à educação, à justiça e aos demais serviços públicos e privados, tais como a cultura, o desporto e os tempos livres:
 
@@ -1046,7 +1094,7 @@ Fomentar a criação e desenvolvimento de hábitos culturais e de novos público
 
 Proporcionar aos jovens oportunidades de participação em actividades salutares e prevenir práticas de risco, através da valorização das estruturas associativas e da ocupação dos tempos livres.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 2 - Prevenir os riscos de exclusão
 
@@ -1082,7 +1130,7 @@ Promover a cultura digital, a habilitação dos Portugueses, e o conhecimento ap
 
 Garantir serviços públicos orientados para o cidadão e próximos do cidadão.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 b) Criar políticas destinadas a evitar rupturas em condições de existência susceptíveis de conduzir a situações de exclusão, nomeadamente no que se refere aos casos de sobreendividamento, à exclusão escolar ou à perda de habitação (ver nota 50):
 
@@ -1100,7 +1148,7 @@ Prioridades:
 
 Educação dos cidadãos para o consumo responsável e para o exercício dos seus direitos e deveres de cidadania.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 c) Desenvolver acções destinadas a preservar a solidariedade familiar sob todas as suas formas (ver nota 51):
 
@@ -1124,7 +1172,7 @@ Promover uma «estratégia global da idade» - e não apenas das crianças ou do
 
 Privilegiar soluções que permitam que as pessoas dependentes possam permanecer no seu meio natural de vida.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 3 - Actuar em favor dos mais vulneráveis
 
@@ -1152,7 +1200,7 @@ Promover uma política de igualdade de oportunidades no ensino superior com vist
 
 Garantir o acesso ao ensino superior da comunidade estudantil, em especial aos cidadãos com deficiência.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 b) Tender para a eliminação das situações de exclusão social que atingem as crianças e dar-lhes todas as oportunidades de uma boa inserção social:
 
@@ -1190,7 +1238,7 @@ Agilizar o processo de adopção;
 
 Contrariar a tendência para a inserção precoce dos jovens no mercado de trabalho, simultaneamente inimiga da qualificação e da sustentabilidade futura do emprego.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 c) Desenvolver acções globais a favor dos territórios confrontados com a exclusão:
 
@@ -1214,7 +1262,7 @@ Estabelecer medidas de combate à desertificação humana e incentivadoras da re
 
 Incentivar a criação de empregos em sectores e actividades que possam absorver trabalhadores que tenham sido dispensados por via de encerramento de empresas e ou reconversões sectoriais.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 4 - Mobilizar o conjunto dos intervenientes
 
@@ -1246,7 +1294,7 @@ Promover uma «cultura» de participação nas instituições em geral;
 
 Promover a participação de grupos considerados em riscos de exclusão e de grupos de jovens e pessoas idosas em programas de voluntariado.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 b) Assegurar a integração da luta contra as exclusões no conjunto das políticas, através, nomeadamente:
 
@@ -1274,7 +1322,7 @@ Identificar as medidas transversais de promoção da inclusão nos diversos plan
 
 Criação e implementação de uma estratégia de mobilização para a participação por parte de todas as entidades com responsabilidades em áreas incluídas ou a incluir no PNAI, independentemente da sua natureza pública ou privada, lucrativa ou solidária, e do nível da sua actuação, central, regional ou local.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 c) Promover o diálogo e a parceria entre todos os intervenientes públicos e privados em causa, através, nomeadamente:
 
@@ -1312,7 +1360,7 @@ Estimular o diálogo social, através da participação dos parceiros sociais;
 
 Apostar no incentivo à responsabilização social das empresas.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 ### CAPÍTULO 5 — Disposições institucionais
 
@@ -1498,7 +1546,9 @@ Os destinatários são os menores que se encontrem nas seguintes situações: ab
 
 Por forma a alcançar os objectivos descritos, desenvolve metodologicamente as seguintes medidas: sinalização/diagnóstico/encaminhamento de situações de TI e abandono escolar; Programa Integrado e Planos Individuais de Educação e Formação; Programa/Projectos de Férias; atribuição de bolsas de formação, e acompanhar situações de piores formas de exploração. O Plano possui cinco estruturas de coordenação regional do PIEF com representantes do PEETI, do IEFP, das DRE e do ISSS. Em cada uma das cinco regiões há um coordenador regional do PEETI da respectiva área.
 
-## ANEXO N.º 1 — Abreviaturas/siglas
+ANEXO N.º 1
+
+Abreviaturas/siglas
 
 ACIME - Alto Comissariado para a Imigração e Minorias Étnicas.
 
@@ -1848,7 +1898,9 @@ UMTS - Universal Mobile Telecomunications System.
 
 VMER - viaturas médias de emergência e reanimação.
 
-## ANEXO N.º 2 — Boas práticas
+ANEXO N.º 2
+
+Boas práticas
 
 Programa Rede Social
 
@@ -1898,7 +1950,7 @@ Concretização da metodologia
 
 O Programa propõe uma metodologia de planeamento, cujos instrumentos fundamentais são o Diagnóstico Participado e o Plano de Desenvolvimento Social.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf))](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Portanto, como se depreende do exposto, os resultados a obter são de tipos diversos: as parcerias (e respectivos regulamentos internos) que se constituem como redes e que se vão consolidando através da realização conjunta, articulada, consensualizada, de diagnósticos sociais (e respectivas actualizações, sempre que necessário), de sistemas de informação, de planos de desenvolvimento social e planos de acção exequíveis, numa óptica de desenvolvimento que integre a resolução de problemas e necessidades, nomeadamente de situações de pobreza e exclusão social.
 
@@ -2230,7 +2282,7 @@ O esquema seguinte sintetiza a metodologia do PEETI.
 
 Concretização da metodologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf))](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 Portanto, como se depreende do exposto, os resultados a obter são de tipos diversos: a nível dos menores e das suas famílias; a nível das equipas pedagógicas; a nível das parcerias, e na comunidade, nas várias vertentes da educativa e social à empresarial.
 
@@ -2252,11 +2304,15 @@ Garantir que o trabalho em curso, quer no âmbito do PEETI, quer no do PIEF tem 
 
 Encontrar formas de apoiar efectivamente e em tempo útil as vítimas de situações intoleráveis de exploração de menores.
 
-## ANEXO N.º 3 — Instrumentos/metas por grupos alvo
+ANEXO N.º 3
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+Instrumentos/metas por grupos alvo
 
-## ANEXO N.º 4 — Indicadores de monitorização
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+
+ANEXO N.º 4
+
+Indicadores de monitorização
 
 0 - Enquadramento - Principais tendências e desafios
 
@@ -2592,7 +2648,7 @@ Portugal - 4.3 - Participação da população em iniciativas e organizações d
 
 (nota 7) A vigência do primeiro plano decorre de Junho de 2001 a Junho de 2003.
 
-[(ver nota referente ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[(ver nota referente ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 (nota 9) Este Programa encontra-se suspenso pois relaciona-se com o Programa Rendimento Mínimo Garantido, recentemente substituído pelo rendimento social de inserção.
 
@@ -2618,7 +2674,7 @@ Portugal - 4.3 - Participação da população em iniciativas e organizações d
 
 (nota 20) Relatório Intercalar, PNE, 2002, p. 11.
 
-[(ver nota referente ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[(ver nota referente ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 (nota 22) Actualmente já existem 370 serviços deste tipo.
 
@@ -2656,11 +2712,11 @@ Portugal - 4.3 - Participação da população em iniciativas e organizações d
 
 (nota 39) INE, Inquérito ao Emprego.
 
-[(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 (nota 44) Medida no âmbito do Ano Europeu das Pessoas com Deficiência.
 
-[(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 (nota 50) Note-se que, por opção metodológica, a problemática da exclusão escolar é abordada na directriz 1.2, d).
 
@@ -2670,7 +2726,7 @@ Portugal - 4.3 - Participação da população em iniciativas e organizações d
 
 (nota 53) Idem.
 
-[(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
 
 (nota 62) Deverá assentar, sempre que referido o número de pessoas, em estatísticas desagregadas por sexos.
 
@@ -2690,4 +2746,4 @@ Portugal - 4.3 - Participação da população em iniciativas e organizações d
 
 (nota 70) «Projecto piloto, financiado pela segurança social no âmbito do Programa de Luta contra a Pobreza que visa, essencialmente, fornecer, 'pistas' sobre a forma de criar condições e de incentivar a efectiva participação das pessoas afectadas por situações de exclusão social, quer em termos do diagnóstico dos seus problemas, quer na avaliação das medidas postas em prática para os ultrapassar.»
 
-[(ver nota referente ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)
+[[[(ver nota referente ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)](https://files.diariodarepublica.pt/1s/2003/12/295b00/85768662.pdf)

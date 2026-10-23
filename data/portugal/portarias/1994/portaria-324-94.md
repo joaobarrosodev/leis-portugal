@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/324/1994/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/324-1994-301025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cfabe3a04af581aab2c77ed964d5e72c2746f84fbc083e883da1a7ec7f568b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 028cfe5ffe14cffb91bbb1d31ed2ae5e370b715bdfa5ce1283d28c8930cf0b46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
+- Equipamento de Veículo
 - Homologação
 - Veículo
-- Equipamento de Veículo
 relationships:
 - type: amended_by
   target: pt:dre:515268:por
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:52Z'
   warnings: []
   errors: []
 ---
@@ -122,14 +122,14 @@ Manda o Governo, pelo Ministro da Administração Interna, que os anexos I e II 
 
 ## ANEXO I — Veículos automóveis e seus componentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/123b00/27992803.pdf))](https://files.diariodarepublica.pt/1s/1994/05/123b00/27992803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/123b00/27992803.pdf)
 
 ## ANEXO II — Directiva contendo disposições sobre características técnicas dos veículos automóveis e seus componentes e sua aprovação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/123b00/27992803.pdf))](https://files.diariodarepublica.pt/1s/1994/05/123b00/27992803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/123b00/27992803.pdf)
 
 Ministério da Administração Interna.
 
-**Assinada em 10 de Maio de 1994.**
+Assinada em 10 de Maio de 1994.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.

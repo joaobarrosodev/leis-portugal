@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/118b00/31613163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/487/1995/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/487-1995-503228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3d1a6cb4b4985ebf3cb9340569c7508e540c0e171cfa4b909458c1bcbc8a41d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18077ae6127ecc34217b1cc3e385673a2c08bf6066a4cb63ebd4fe35361d82f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Produção Animal
-- Vida Selvagem
-- Proteção dos Animais
 - CAÇA
+- Comércio
 - Controlo Sanitário
+- Espécie Protegida
 - Instituto de Protecção da Produção Agro-Alimentar
 - Instituto Florestal
-- Espécie Protegida
-- Comércio
+- Produção Animal
+- Proteção dos Animais
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:481498:por
@@ -88,16 +88,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:316167:por
+  label: "Revogada pela PORT.464/2001.2001.05.08.MADRP,DR.IS-B [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/464-2001-316167
+  date: '2001-05-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:55Z'
   warnings: []
   errors: []
 ---
@@ -256,8 +277,8 @@ b) O disposto na alínea anterior aplica-se à incubação de ovos de perdiz-ver
 
 Ministério da Agricultura.
 
-**Assinada em 30 de Março de 1995.**
+Assinada em 30 de Março de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/118b00/31613163.pdf))](https://files.diariodarepublica.pt/1s/1995/05/118b00/31613163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/118b00/31613163.pdf)

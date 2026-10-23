@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1058/1994/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1058-1994-549203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1fafa895a2d63934444dea1c04addd620ce16c8bc1b78fdf98122d1bcc6b724
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55e1ef6cb5559b68338683cd29c59298d29cf112592744d21e376642fec84812
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Produto Químico
 - Aproximação das Legislações
-- Poluição Atmosférica
-- Indústria
+- Atividade Industrial
 - Co-geração
-- Proteção do Ambiente
+- Indústria
+- Poluição Atmosférica
 - Poluição Industrial
+- Produto Químico
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:494796:por
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/286/1993/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/286/1993/03/12/p/dre
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218329:por
+  label: "Revogada, com a entrada em vigor das Portarias previstas no n.º 1 do art. 17.º do DEC LEI.78/2004.03.04.2004.MCOTA,\
+    \ DR.IS-A [80] de 03.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2004-218329
+  date: '2004-04-03'
+- type: repealed_by
+  target: pt:dre:494796:por
+  label: "Revogada, sem prejuízo do disposto no art. 7.º, pela PORT.677/2009.23.06.2009.MAOTDR, DR.IS [119] de 23.06.2009\
+    \ (Ver notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-2009-494796
+  date: '2009-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:36Z'
   warnings: []
   errors: []
 ---
@@ -120,10 +140,10 @@ II) Instalações com potência > 50 MWt - 450 mg/m3N;
 
 III) Instalações com potência > 10 MWt e < 50 MWt - entre 1500 mg/m3N e 450 mg/m3N, proporcionalmente à potência, a cumprir após o ano 2000, aplicando-se até essa data e a partir de 31 de Dezembro de 1997 valores limites entre 2500 mg/m3N e 450 mg/m3N, proporcionalmente à potência, conforme se ilustra na figura seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/278b00/71087108.pdf))](https://files.diariodarepublica.pt/1s/1994/12/278b00/71087108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/278b00/71087108.pdf)
 
 Ministérios da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 11 de Novembro de 1994.**
+Assinada em 11 de Novembro de 1994.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.

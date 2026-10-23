@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/63/2012/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2012-179540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b008b14b709148ddf01ad0877c11d69c5c7bb99a6866578f040e24c8cc3eb88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 433791d2a6641b40175e0362376f886f905988085fb8ccfeae6dc62066a4c1a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,23 @@ subjects:
 - Conselho de Ministros
 - Delegação de Competências
 - Equipamento Militar
-- Ministro da Economia e do Emprego
-- Indústria Aeronáutica
 - Governo XIX
+- IAPMEI
+- Indústria Aeronáutica
+- Ministro da Economia e do Emprego
 - Ministro de Estado e da Defesa Nacional
 - Ministro de Estado e das Finanças
-- IAPMEI
 relationships:
 - type: amended_by
   target: pt:dre:70331761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70331761:por
+  label: Alterado os n.ºs 1 e 2 pelo(a) Resolução do Conselho de Ministros n.º 78/2015 - Diário da República n.º 184/2015,
+    Série I de 2015-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/78-2015-70331761
+  date: '2015-09-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
@@ -90,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:15Z'
   warnings: []
   errors: []
 ---

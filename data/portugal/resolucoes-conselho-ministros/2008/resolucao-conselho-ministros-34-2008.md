@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/34/2008/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-2008-247676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8379d17b621d227f7b5446be6eb0a95ece6dfb92e92e1d8aff77c5d25166d4d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2a4a14b65d67661c9a8067c93eb6dbbfc393b0e50b688ff297df3c45aefbf9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Administração Pública
 - Aquisição de Bens e Serviços
-- Região Autónoma
-- Modernização Administrativa
+- Autarquia Local
 - Dívida
 - Empresa Pública
-- Administração Pública
-- Setor Empresarial do Estado
 - Gestão Orçamental
-- Pagamento
-- Publicitação
-- Lista
 - Internet
+- Lista
+- Modernização Administrativa
+- Pagamento
 - Prazo
 - Programa Pagar a Tempo e Horas
+- Publicitação
+- Região Autónoma
+- Setor Empresarial do Estado
 - Transacção Comercial
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/2003/02/17/p/dre
@@ -124,16 +124,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2007/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2007/02/19/p/dre
+- type: cites
+  target: pt:dre:189484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:38Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +236,7 @@ d) Criação de mecanismos de substituição de dívida a fornecedores por empr�
 
 6 - Para os efeitos deste Programa, o prazo médio de pagamentos a fornecedores (PMP) de cada entidade pública registado no final do trimestre t é definido pelo seguinte indicador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
 
 7 - Para os efeitos deste Programa:
 
@@ -216,7 +256,7 @@ e) No caso das unidades de saúde, as dívidas de curto prazo a fornecedores (DF
 
 Grau de cumprimento do objectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
 
 #### SECÇÃO II — Administração directa e indirecta do Estado
 
@@ -284,7 +324,7 @@ a) O montante referido no n.º 4 do artigo 128.º da [Lei n.º 67-A/2007](https:
 
 b) O montante de financiamento (F) obtido pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
 
 25 - O financiamento é composto por dois empréstimos de médio e longo prazos, um a conceder por uma instituição de crédito, correspondendo a 60 % do total do financiamento, e outro a conceder pelo Estado, através da Direcção-Geral do Tesouro e Finanças, correspondendo a 40 % do total do financiamento.
 
@@ -308,7 +348,7 @@ b) O montante máximo determinado pelo disposto no n.º 24.
 
 33 - No caso de a soma dos montantes de financiamento atribuíveis exceder 375 milhões de euros, o montante de financiamento atribuível a cada Região Autónoma e município será deduzido do seguinte valor, em euros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
 
 34 - A Direcção-Geral do Tesouro e Finanças divulga na sua página electrónica, até 30 de Maio de 2008, a lista das Regiões Autónomas e municípios elegíveis para financiamento ao abrigo deste Programa, bem como o respectivo montante autorizado de financiamento.
 
@@ -318,7 +358,7 @@ b) O montante máximo determinado pelo disposto no n.º 24.
 
 37 - Cada Região Autónoma ou município deverá efectuar apenas um pedido de desembolso, acompanhado dos elementos constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
 
 38 - O período de utilização do montante do empréstimo a conceder pela instituição de crédito é de 30 dias a contar da data do visto do Tribunal de Contas.
 
@@ -328,7 +368,7 @@ a) Em 2008, o objectivo é reduzir o PMP para o maior dos seguintes valores:
 
 i) O PMP obtido pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03800/0116701172.pdf)
 
 ii) 40 dias;
 

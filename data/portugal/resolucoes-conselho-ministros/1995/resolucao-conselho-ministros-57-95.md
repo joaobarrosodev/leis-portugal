@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/57/1995/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-1995-517403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6668c3f4f0f3cda1003b19cd14fcdd14871e60516f5ca676dcd4cd9d2f7259e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 815f59945f7a2080d24e71d17546f6b200550e32c1c2372c0f6420954ff96cbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Desenvolvimento Rural
-- Definição de Competências
-- Desenvolvimento Regional
-- Projeto de Investimento
-- Incentivos ao Desenvolvimento
-- QCA
 - Criação de Emprego
-- Direcção Geral do Desenvolvimento Regional
-- Desenvolvimento Urbano
+- Definição de Competências
 - Desenvolvimento Económico
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Desenvolvimento Urbano
+- Direcção Geral do Desenvolvimento Regional
+- Financiamento
+- Incentivos ao Desenvolvimento
+- Microempresa
 - Programa das Iniciativas de Desenvolvimento Local
 - Programa Leader
+- Projeto de Investimento
+- QCA
 - Regime de Apoio
-- Microempresa
 - Regulamento
 - Sistema de Incentivos Regionais
 relationships:
@@ -87,6 +87,17 @@ relationships:
   target: pt:dre:391580:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3027753:por
+  label: "Alterado o n.º 2 do art. 8.º, pelo DC.DDC13/96.18.12.1995.PCM, DR.IIS [38] de 14.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1996-3027753
+  date: '1995-12-18'
+- type: amended_by
+  target: pt:dre:219731:por
+  label: "Alteradas as alíneas a) dos artigos 4.º e 21.º, e revogados os artigos 5.º a 19.º, pela RES.154/96.14.08.1996.PCM,\
+    \ DR.IS-B [216] de 17.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/154-1996-219731
+  date: '1996-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/193/1994/07/19/p/dre
   label: null
@@ -99,16 +110,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
+- type: cites
+  target: pt:dre:198144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620336:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:611520:por
+  label: "Rectificada pela DECL-RECT.115-A/95.15.09.1995.PCM, DR.IS-B [215]Supl de 16.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/115-a-1995-611520
+  date: '1995-09-15'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:10Z'
   warnings: []
   errors: []
 ---

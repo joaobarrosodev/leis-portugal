@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/250/1995/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/250-1995-173923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03289d97a86f6168adfbd16929f241a34d1145a60f75d56f58f93ba61e413b65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 948a78f321ba9ec166fd87f903b25a0032195678548d5acd2f625704ea39d0d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Medidas Preventivas
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Política de Solos
 - Valpaços
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:06Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +122,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 21 de Fevereiro de 1995.**
+Assinada em 21 de Fevereiro de 1995.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 ## ANEXO — Medidas preventivas
 
@@ -128,4 +136,4 @@ b) Instalação de exploração ou ampliação das já existentes;
 
 c) Alterações importantes por meio de aterro ou escavações da configuração do terreno.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/076b00/17711772.pdf))](https://files.diariodarepublica.pt/1s/1995/03/076b00/17711772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/076b00/17711772.pdf)

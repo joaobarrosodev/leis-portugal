@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/151/2001/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2001-621509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 621e595fe3a42f4c0ccba30fa246721520ebb54c7bcb054b2175ccf09102af1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 158dea1aa5ac9a6d2301b6b80ee7a6bbc019ae3d6bd73ed25c1351f3f49e6397
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,27 @@ reuse:
 subjects:
 - Conselho Nacional de Segurança Rodoviária
 - Definição de Competências
-- Segurança Rodoviária
 - Ministro da Administração Interna
+- Segurança Rodoviária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/42/1997/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/42/1997/03/13/p/dre
+- type: cites
+  target: pt:dre:517261:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:35Z'
   warnings: []
   errors: []
 ---

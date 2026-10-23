@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/951/1993/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/951-1993-651683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b1d8e9bb2a02f06c7f2557a6d93e3d36edf87630095a4a8413de2229c7de5db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71069482631574771cf19e8771be7e523c77f427522e870323722b91e0302cee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
 - Viseu
 relationships:
 - type: cites
@@ -79,16 +79,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:219080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:58Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +135,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 26 de Agosto de 1993.**
+Assinada em 26 de Agosto de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento/Zonamento
 
@@ -161,4 +181,4 @@ D - Zonas verdes. - As áreas reservadas às zonas serão cedidas gratuitamente,
 
 E - Áreas destinadas a equipamentos diversos (hoteleiro e comercial). - As áreas em causa destinam-se à instalação de equipamentos diversos, na base dos condicionamentos emergentes da legislação respectiva, devendo as áreas de logradouro afectas em regime privado ficar definidas pela Câmara Municipal aquando do licenciamento das edificações respectivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/229b00/54815482.pdf))](https://files.diariodarepublica.pt/1s/1993/09/229b00/54815482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/229b00/54815482.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1272/1995/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1272-1995-668303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3925da86e52279d0fb9101815a5b337b8a60c0b40896fdaea365f3f4c6259513
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e685149c7b22a5d6c7ad72c77c49d9690057a5c146623e0a2fca91fabf63b40b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
 - Centro de Formação Profissional
-- Formação Profissional
-- Plano de Estudos
 - Definição de Competências
+- Direcção Regional de Educação
+- Ensino Básico
 - Ensino Profissional
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Jovem
 - Jovem Trabalhador
-- Direcção Regional de Educação
+- Mercado do Trabalho
+- Plano de Estudos
+- Política de Emprego
 - Primeiro Emprego
 - Qualificação Profissional
-- Ensino Básico
-- Política de Emprego
-- Mercado do Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/301/1993/08/31/p/dre
@@ -110,16 +110,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/464/1994/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/464/1994/06/28/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633944:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:02Z'
   warnings: []
   errors: []
 ---
@@ -422,15 +454,15 @@ b) A classificação parcial da formação profissional é a resultante da médi
 
 c) Classificação final do curso de iniciação profissional de nível I:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf))](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)
 
 d) Classificação final do curso de iniciação profissional de nível I e qualificação inicial de nível II, com diploma equivalente ao 3.º ciclo do ensino básico:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf))](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)
 
 e) Classificação final do curso de qualificação inicial de nível II:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf))](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)
 
 18.º
 
@@ -558,7 +590,7 @@ Disposições finais
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 28 de Agosto de 1995.**
+Assinada em 28 de Agosto de 1995.
 
 Pela Ministra da Educação, Manuel Castro de Almeida, Secretário de Estado da Educação do Desporto. - Pelo Ministro do Emprego e da Segurança Social, José Mateus Varatojo Júnior, Secretário de Estado do Emprego e da Formação Profissional.
 
@@ -566,10 +598,10 @@ Pela Ministra da Educação, Manuel Castro de Almeida, Secretário de Estado da 
 
 Modelo curricular da formação profissional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf))](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)
 
 ## ANEXO II — Curso de educação e formação profissional
 
 Plano curricular da formação escolar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf))](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/247b00/66276634.pdf)

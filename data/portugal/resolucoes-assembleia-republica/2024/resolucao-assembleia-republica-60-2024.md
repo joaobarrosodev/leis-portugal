@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/14700/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/60/2024/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2024-873975837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:21:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 737bdad42691109f251309186828bff034f44265ffc52b62ad17812aadf2c281
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83ede4c2676b7f522fb247954a875ee29c1d857dcc777621eda665238bea9d3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Lisboa
 - Inquérito Parlamentar
-- Santa Casa da Misericórdia
+- Lisboa
 - Recomendação
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:906044199:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:895836367:por
+  label: Suspensa, entre os dias 1 e 29 de novembro, a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito
+    constituída pelo presente diploma pelo(a) Resolução da Assembleia da República n.º 102/2024 - Diário da República n.º
+    216/2024, Série I de 2024-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/102-2024-895836367
+  date: '2024-11-07'
+- type: amended_by
+  target: pt:dre:899582833:por
+  label: Suspensa a contagem do prazo de funcionamento da Comissão Parlamentar de Inquérito pelo(a) Resolução da Assembleia
+    da República n.º 103/2024 - Diário da República n.º 239/2024, Série I de 2024-12-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/103-2024-899582833
+  date: '2024-12-10'
+- type: amended_by
+  target: pt:dre:906044199:por
+  label: Suspensa, entre os dias 31 de janeiro de 2025 e 10 de março de 2025, a contagem do prazo de funcionamento da Comissão
+    Parlamentar de Inquérito pelo(a) Resolução da Assembleia da República n.º 24/2025 - Diário da República n.º 24/2025, Série
+    I de 2025-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/24-2025-906044199
+  date: '2025-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/126/1997/12/10/p/dre
   label: null
@@ -91,16 +111,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1993/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1993/03/01/p/dre
+- type: cites
+  target: pt:dre:122151045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626806:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:21:15Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +145,7 @@ validation:
 
 Comissão Parlamentar de Inquérito à gestão estratégica e financeira e à tutela política da Santa Casa da Misericórdia de Lisboa
 
-A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º e do n.º 1 do artigo 178.º da Constituição e da alínea a) do n.º 1 do artigo 2.º da [Lei n.º 5/93](https://diariodarepublica.pt/dr/detalhe/lei/5-1993-626806), de 1 de março, alterada pelas Leis n.<sup>os</sup>[126/97](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), de 10 de dezembro, [15/2007](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), de 3 de abril, e [29/2019](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045), de 23 de abril, constituir uma Comissão Parlamentar de Inquérito à gestão estratégica e financeira e à tutela política da Santa Casa da Misericórdia de Lisboa (SCML) com o seguinte objeto:
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º e do n.º 1 do artigo 178.º da Constituição e da alínea a) do n.º 1 do artigo 2.º da [Lei n.º 5/93](https://diariodarepublica.pt/dr/detalhe/lei/5-1993-626806), de 1 de março, alterada pelas Leis n.os[126/97](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), de 10 de dezembro, [15/2007](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), de 3 de abril, e [29/2019](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045), de 23 de abril, constituir uma Comissão Parlamentar de Inquérito à gestão estratégica e financeira e à tutela política da Santa Casa da Misericórdia de Lisboa (SCML) com o seguinte objeto:
 
 1 - Inquirir as decisões de gestão estratégica e financeira efetuadas por parte da SCML, associadas ou subsidiárias, desde 2011, que possam ter contribuído para o desequilíbrio financeiro da SCML.
 
@@ -137,4 +173,6 @@ iii) Esclarecer quais serão, no total, os encargos para a SCML e para o Estado 
 
 Aprovada em 21 de junho de 2024.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+117960977

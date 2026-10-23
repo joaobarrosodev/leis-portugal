@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1050/1995/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1050-1995-432807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9afdc1c5a90db250e51d9b1d023b92bdd4fa9f68fa958cc5b6d10e712bec9e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4d3b1975546d3633d012ebdd38700d758c0c4cbdb6ad9b8700b688a432834ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,19 @@ reuse:
 subjects:
 - Ensino Cooperativo
 - Ensino Particular
-- Numerus Clausus
-- Estabelecimento de Ensino
 - Ensino Superior
+- Estabelecimento de Ensino
+- Numerus Clausus
 relationships:
 - type: amended_by
   target: pt:dre:626874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626874:por
+  label: "Alterado o anexo ao presente diploma, pela PORT.1433/95.27.11.1995.ME, DR.IS-B [274] de 27.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1433-1995-626874
+  date: '1995-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -92,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:166202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:40Z'
   warnings: []
   errors: []
 ---
@@ -166,10 +191,10 @@ A presente portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 3 de Agosto de 1995.**
+Assinada em 3 de Agosto de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Estabelecimentos não integrados de ensino universitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/198b00/54055407.pdf))](https://files.diariodarepublica.pt/1s/1995/08/198b00/54055407.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/198b00/54055407.pdf)

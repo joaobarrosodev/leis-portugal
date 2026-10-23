@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16900/0008300112.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/107/2023/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/107-2023-221100280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddca1f3cedad37a530374e0f122d7bdb85859d845986ece579b41786e2c8debf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4e586b1ca39d75defb2c70e95d972745a015d54830c32db3849fb86baac3326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
 - Base de Dados
+- Confidencialidade
+- Conselho da Europa
+- Convenção
 - Segurança da Informação
 - Sistema de Informação
-- Conselho da Europa
-- Confidencialidade
 relationships: []
 article_structure:
   article_count: 40
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:19Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de julho de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 PROTOCOL AMENDING THE CONVENTION FOR THE PROTECTION OF INDIVIDUALS WITH REGARD TO AUTOMATIC PROCESSING OF PERSONAL DATA
 
@@ -1355,7 +1355,7 @@ Não são admitidas reservas às disposições do presente Protocolo.
 
 ###### Artigo 40.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa e qualquer outra Parte na Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa e qualquer outra Parte na Convenção:
 
 a) De qualquer assinatura;
 
@@ -1369,7 +1369,7 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assina
 
 Feito em Estrasburgo, a 10 de outubro de 2018, em francês e inglês, fazendo ambos os textos igualmente fé, num único exemplar que será depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa enviará uma cópia autenticada a cada um dos Estados membros do Conselho da Europa, às outras Partes na Convenção e a qualquer Estado convidado a aderir à Convenção.
 
-## Anexo ao Protocolo: Elementos para o regulamento interno do Comité da Convenção
+Anexo ao Protocolo: Elementos para o regulamento interno do Comité da Convenção
 
 1 - Cada Parte tem direito de voto e dispõe de um voto.
 
@@ -1386,3 +1386,5 @@ Feito em Estrasburgo, a 10 de outubro de 2018, em francês e inglês, fazendo am
 7 - Em caso de votação, todas as Partes devem ser informadas do objeto e do momento da votação, bem como se a votação será exercida pelas Partes individualmente ou por uma organização de integração regional em nome dos seus Estados membros.
 
 8 - O Comité da Convenção pode alterar, posteriormente, o seu regulamento interno mediante uma maioria de dois terços, exceto no que diz respeito às modalidades de votação que só podem ser alteradas por unanimidade das Partes e às quais se aplica o artigo 25.º da Convenção.
+
+116764922

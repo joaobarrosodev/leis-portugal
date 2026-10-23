@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/020b00/07060716.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/21/2005/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2005-620934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff40d7c9d1b6c5788c1ade9aa722e00eed3e7f892c6cf8cd4b514405baf563ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f24c49240db4db80fc4c117e8a6a9ba781626020e22d47f0052b344e8872ef01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Combate à Violência
-- Gestão Financeira
 - Coordenador
 - Definição de Competências
 - Equipa de Missão
-- Ministro da Segurança Social da Família e da Criança
-- Mandato
 - Estrutura de Missão contra a Violência Doméstica
+- Gestão Financeira
+- Mandato
+- Ministro da Segurança Social da Família e da Criança
 - Nomeação
 - Remuneração
 - Segurança Social
@@ -82,6 +82,21 @@ relationships:
   target: pt:dre:521260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234095:por
+  label: "Derrogadas todas as disposições contrárias ao disposto na RES.104/2005.08.06.2005.PCM, DR.IS-B [121] de 27.06.2005,\
+    \ e exoneradas Maria da Conceição Reis de Oliveira Neves Lavadinho, Mariana Macedo Santos Dardoso Salgado Cabral da Câmara\
+    \ e Sofia Serrano Neto Saudade e Silva de Macedo Franco pelo citado diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/104-2005-234095
+  date: '2005-06-08'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extinta, sendo objecto de fusão, - a Estrutura de Missão contra a Violência Doméstica, criada no presente diploma,\
+    \ e integradas as suas atribuições na Comissão para a Cidadania e a Igualdade de Género, pelo DEC LEI.202/2006.27.10.2006.PCM,\
+    \ DR.IS [208] de 27.10.2006, nos termos dos seus artigos 32.º e 33.º, onde são, igualmente integradas as atribuições da\
+    \ Comissão para a Igualdade e para os Direitos das Mulheres\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/323/2000/12/19/p/dre
   label: null
@@ -94,16 +109,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/88/2003/07/07/p/dre
+- type: cites
+  target: pt:dre:345129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666708:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521260:por
+  label: "Revogada pelo DEC LEI.164/2007.03.05.2007.PCM, DR.IS [85] de 03.05.2007, a partir de 01.06.2007 e determinado que\
+    \ a CIG suceda nas atribuições da Estrutura de Missão contra a violência Doméstica (que se extingue) \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2007-521260
+  date: '2007-05-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:39Z'
   warnings: []
   errors: []
 ---

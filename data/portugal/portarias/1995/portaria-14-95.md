@@ -4,7 +4,7 @@ id: pt:dre:366813:por
 title: Portaria n.º 14/95
 short_title: null
 summary: 'Aprova o Regulamento de Aplicação do Regime de Ajudas a Conceder às Organizações e Agrupamentos de Produtores: Regulamentos
-  (CEE) n.os 1035 e 1360'
+  (CEE) n.os  1035 e 1360'
 jurisdiction: portugal
 territory: null
 document_type: portaria
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/006b00/00790080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/14/1995/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-1995-366813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cdca86eff3ae9aa1673cc21691be0570123768f011956cde4bf7cc1bd2fe0bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33cbbd28a570627eac9a2be43538b9ec723314ebad9c6f71254467b6940b908c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
 - Agrupamento de Produtores
+- Ajuda Comunitária
 - CEE
 - Política Agrícola Comum
 - Produção Agrícola
@@ -78,6 +78,11 @@ relationships:
   target: pt:dre:431256:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 7/95 DE 31-JAN DR.IS-B [26]2SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-31'
 - type: cites
   target: celex:31972R1035
   label: null
@@ -90,16 +95,26 @@ relationships:
   target: celex:31993R3669
   label: null
   source: http://data.europa.eu/eli/reg/1993/3669/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 220/96 DE 19-JUN DR.IS-B [140]\0.IS-B [140]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-19'
+- type: repealed_by
+  target: pt:dre:431256:por
+  label: "Revogado o presente diploma, pela PORT.220/96.19.06.1996.MADRP, DR.IS-B [140] de 19.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-1996-431256
+  date: '1996-06-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:07Z'
   warnings: []
   errors: []
 ---
@@ -120,29 +135,29 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 15 de Dezembro de 1994.**
+Assinada em 15 de Dezembro de 1994.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.
 
 ## ANEXO
 
 Regulamento de Aplicação do Regime de Ajudas a Conceder às Organizações e Agrupamentos de Produtores: Regulamentos (CEE) n.os [1035](https://data.europa.eu/eli/reg/1972/1035/oj?locale=pt) e [1360](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt).
 
-###### Artigo 1.º O presente Regulamento estabelece o regime das ajudas a conceder às organizações e agrupamentos de produtores, tendo por objectivo reforçar a organização dos produtores, incentivando a concentração da oferta e a adaptação da produção às exigências do mercado.
+Artigo 1.º O presente Regulamento estabelece o regime das ajudas a conceder às organizações e agrupamentos de produtores, tendo por objectivo reforçar a organização dos produtores, incentivando a concentração da oferta e a adaptação da produção às exigências do mercado.
 
-###### Art. 2.º Para prossecução dos objectivos enunciados no artigo anterior, podem ser concedidas ajudas à constituição e funcionamento de organizações e agrupamentos de produtores, bem como às uniões de agrupamentos.
+Art. 2.º Para prossecução dos objectivos enunciados no artigo anterior, podem ser concedidas ajudas à constituição e funcionamento de organizações e agrupamentos de produtores, bem como às uniões de agrupamentos.
 
-###### Art. 3.º Podem beneficiar das ajudas previstas neste Regulamento as organizações e agrupamentos de produtores e uniões de agrupamentos reconhecidos nos termos dos Regulamentos (CEE) n.os [1035/72](https://data.europa.eu/eli/reg/1972/1035/oj?locale=pt), do Conselho, de 18 de Maio, e [1360/78](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt), do Conselho, de 19 de Junho, bem como noutros regulamentos comunitários que estabeleçam organizações comuns de mercado específicas para determinados produtos e que prevejam medidas de apoio à constituição e funcionamento daqueles.
+Art. 3.º Podem beneficiar das ajudas previstas neste Regulamento as organizações e agrupamentos de produtores e uniões de agrupamentos reconhecidos nos termos dos Regulamentos (CEE) n.os [1035/72](https://data.europa.eu/eli/reg/1972/1035/oj?locale=pt), do Conselho, de 18 de Maio, e [1360/78](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt), do Conselho, de 19 de Junho, bem como noutros regulamentos comunitários que estabeleçam organizações comuns de mercado específicas para determinados produtos e que prevejam medidas de apoio à constituição e funcionamento daqueles.
 
-###### Art. 4.º - 1 - As ajudas são concedidas em cinco prestações anuais no montante de, no máximo, 10%, 10%, 8%, 6% e 4% do valor da produção comercializada, respectivamente, no 1.º, 2.º, 3.º, 4.º e 5.º anos.
+Art. 4.º - 1 - As ajudas são concedidas em cinco prestações anuais no montante de, no máximo, 10%, 10%, 8%, 6% e 4% do valor da produção comercializada, respectivamente, no 1.º, 2.º, 3.º, 4.º e 5.º anos.
 
 2 - O pagamento das cinco prestações anuais tem lugar no prazo máximo de sete anos a contar da data do reconhecimento.
 
-###### Art. 5.º - 1 - As ajudas referidas no artigo anterior não podem exceder as despesas reais de constituição e de funcionamento.
+Art. 5.º - 1 - As ajudas referidas no artigo anterior não podem exceder as despesas reais de constituição e de funcionamento.
 
 2 - Quando se trate de uniões de agrupamentos, as ajudas não podem ultrapassar, nos três primeiros anos, 60%, 40% e 20% das despesas efectivas e o limite máximo de 120000 ECU.
 
-###### Art. 6.º - 1 - Para efeitos do presente Regulamento, são elegíveis despesas com:
+Art. 6.º - 1 - Para efeitos do presente Regulamento, são elegíveis despesas com:
 
 a) Trabalhos preparatórios da constituição, bem como elaboração da acta de constituição e estatutos e suas alterações;
 
@@ -162,18 +177,18 @@ h) Seguros relativos ao transporte de pessoal administrativo e às instalações
 
 2 - As despesas referidas nas alíneas c) a h) do número anterior só são tomadas em consideração para o cálculo das ajudas tendo em conta as funções desempenhadas e os objectivos prosseguidos pelas organizações e agrupamentos de produtores e suas uniões, tal como previsto nos Regulamentos (CEE) n.os [1035/72](https://data.europa.eu/eli/reg/1972/1035/oj?locale=pt) e [1360/78](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt).
 
-###### Art. 7.º - 1 - O processo de candidatura às ajudas previstas neste diploma inicia-se com a apresentação, até 30 de Setembro de cada ano, junto da direcção regional de agricultura ou do IEADR, consoante se trate de candidaturas de âmbito regional ou nacional, do respectivo projecto, de acordo com modelo a distribuir por esses serviços.
+Art. 7.º - 1 - O processo de candidatura às ajudas previstas neste diploma inicia-se com a apresentação, até 30 de Setembro de cada ano, junto da direcção regional de agricultura ou do IEADR, consoante se trate de candidaturas de âmbito regional ou nacional, do respectivo projecto, de acordo com modelo a distribuir por esses serviços.
 
 2 - Os projectos referidos no número anterior deverão ser acompanhados de todos os elementos indicados nas respectivas instruções.
 
-###### Art. 8.º As candidaturas apresentadas são objecto de análise e deliberação, até 31 de Novembro, pela:
+Art. 8.º As candidaturas apresentadas são objecto de análise e deliberação, até 31 de Novembro, pela:
 
 a) Unidade regional de gestão, quando se trate de candidaturas apresentadas por entidades de âmbito regional e cujo montante de ajuda não ultrapasse 100000 contos;
 
 b) Unidade nacional de gestão sectorial, nos restantes casos.
 
-###### Art. 9.º A atribuição das ajudas faz-se ao abrigo de contratos celebrados entre o IFADAP e os beneficiários até 31 de Dezembro.
+Art. 9.º A atribuição das ajudas faz-se ao abrigo de contratos celebrados entre o IFADAP e os beneficiários até 31 de Dezembro.
 
-###### Art. 10.º O pagamento das ajudas é efectuado pelo IFADAP de acordo com as cláusulas contratuais, podendo haver lugar à concessão de adiantamentos.
+Art. 10.º O pagamento das ajudas é efectuado pelo IFADAP de acordo com as cláusulas contratuais, podendo haver lugar à concessão de adiantamentos.
 
-###### Art. 11.º O direito às ajudas poderá ser limitado ao montante dos plafonds orçamentais nos termos dos artigos 3.º e 4.º do Regulamento (CE) n.º [3669/93](https://data.europa.eu/eli/reg/1993/3669/oj?locale=pt) , do Conselho, de 22 de Dezembro.
+Art. 11.º O direito às ajudas poderá ser limitado ao montante dos plafonds orçamentais nos termos dos artigos 3.º e 4.º do Regulamento (CE) n.º [3669/93](https://data.europa.eu/eli/reg/1993/3669/oj?locale=pt) , do Conselho, de 22 de Dezembro.

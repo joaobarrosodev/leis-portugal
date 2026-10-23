@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/929/1993/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/929-1993-655885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac3aa2b7069b97117c5d0a42629c1fea31b4de673a3eb93e868db4f547f6393c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0a5bea3f23f25a88e0c8c07f47655377d405b1bd0f1cb02212845381e14f12f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Particular
-- Mestrado em História da ARTE
 - Ensino Superior
+- Mestrado em História da ARTE
+- Plano de Estudos
 - Universidade Portucalense Infante DOM Henrique
 relationships:
 - type: amended_by
   target: pt:dre:517871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517871:por
+  label: "Substituido o plano de estudos do ramo Património do Curso de Ciências Históricas pela Port.197/97.1997.03.21.ME\
+    \ DR.IS-B [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/197-1997-517871
+  date: '1997-03-21'
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483092:por
+  label: "Revogado, sem prejuízo do disposto no art. 12.º, pela PORT.1179/2003.06.10.2003.MCES, DR.IS-B [231] de 06.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1179-2003-483092
+  date: '1993-09-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:25Z'
   warnings: []
   errors: []
 ---
@@ -109,12 +133,12 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 20 de Agosto de 1993.**
+Assinada em 20 de Agosto de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO — Universidade Portucalense Infante D. Henrique
 
 Curso de Ciências Históricas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/223b00/52265228.pdf))](https://files.diariodarepublica.pt/1s/1993/09/223b00/52265228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/223b00/52265228.pdf)

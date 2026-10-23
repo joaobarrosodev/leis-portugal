@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/1994, 3º Suplemento, Série I-B de 1994-12-27
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7388-(4) a 7388-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298b03/00040007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1152-b/1994/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1152-b-1994-303230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b78f58784b01a5ea9f7f771a502aba44a761621e87a12b65865bd934f6fb5f92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32eb426b7f3e83c6da87885b2bde04ec4d02ee0458af5c0743ca567fe42b8332
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Contingentação
 - Criação de Serviços
 - Extinção de Serviços
 - Fazenda Pública
-- Lisboa
 - Integração de Trabalhadores
+- Lisboa
+- Pessoal Dirigente
 - Pessoal Técnico
-- Setúbal
 - Quadro de Pessoal
+- Setúbal
 - Tesouraria da Fazenda Pública
 - Tesoureiro da Fazenda Pública
 relationships:
@@ -82,6 +82,12 @@ relationships:
   target: pt:dre:676650:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676650:por
+  label: "Desactivada a Tesouraria de Finanças de Lisboa 15, criada pelo presente diploma, pela PORT.184/2006.23.02.2006.MFAP,\
+    \ DR.IS-B [39] de 23.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2006-676650
+  date: '2006-02-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
@@ -98,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/871/1994/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/871/1994/09/29/p/dre
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655523:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:25Z'
   warnings: []
   errors: []
 ---
@@ -146,14 +180,14 @@ Manda o Governo, pelo Ministro das Finanças, nos termos da alínea c) do n.º 1
 
 Ministério das Finanças.
 
-**Assinada em 23 de Dezembro de 1994.**
+Assinada em 23 de Dezembro de 1994.
 
-**O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.**
+O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298b03/00040007.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298b03/00040007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00040007.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298b03/00040007.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298b03/00040007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00040007.pdf)

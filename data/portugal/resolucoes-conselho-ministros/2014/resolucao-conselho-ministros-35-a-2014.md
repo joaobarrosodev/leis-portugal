@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 104/2014, 1º Suplemento, Série I de 2014-05-30
   number: '104'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3022-(2) a 3022-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/05/10401/0000200003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/35-a/2014/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-a-2014-25345146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79548ddb2fd0cebebadbb15a35c01abc5facae6c89fd808e1a7b7e03bfb60515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daa0f55f12cf2924a777ab4aad2f86e55ea6eb2247c3eb90adddceee86ae0bd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ subjects:
 - Alienação de Acções
 - Caixa Geral de Depósitos
 - Empresa Pública
-- Setor Empresarial do Estado
 - Mercado de Valores
 - OPV
 - Parpública
 - Preço
 - Privatização
 - Ren-redes Energéticas Nacionais
+- Setor Empresarial do Estado
 - SGPS
 - Venda Directa
 relationships:
@@ -112,16 +112,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/52-b/2011/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52-b/2011/12/07/p/dre
+- type: cites
+  target: pt:dre:181979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671005:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:09Z'
   warnings: []
   errors: []
 ---

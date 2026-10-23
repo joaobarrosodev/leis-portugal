@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/731/1994/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/731-1994-225450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ecaeb9546f1d70a763aadf950cfc4752eeabff687e271e8726c047564020d70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c002c58c63802397fb38ebbde5011353e91f51e5c77f558200f7f5802aaeb754
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - Controlo Sanitário
+- Exportação
 - Fiscalização
 - Importação
 - País Estrangeiro
-- Zona de Proteção
-- Exportação
-- Proteção Fitossanitária
 - Produção Vegetal
+- Proteção Fitossanitária
 - Troca Intracomunitária
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:486163:por
@@ -103,16 +103,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/344/1994/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/344/1994/06/01/p/dre
+- type: repealed_by
+  target: pt:dre:486163:por
+  label: "Revogada pelo DEC LEI.14/99.1999.01.12.MADRP DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1999-486163
+  date: '1999-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:47Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +138,7 @@ Assim, ao abrigo do disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 154/94
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Julho de 1994.**
+Assinada em 14 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -165,7 +170,7 @@ Bolbos de flores e rizomas de Crocus L., cultivares ananicadas e seus híbridos 
 
 d) Vírus e organismos afins
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf))](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf)
 
 9 - Na parte A do anexo III, o texto da coluna da direita do n.º 13 passa ater a seguinte redacção:
 
@@ -173,7 +178,7 @@ d) Vírus e organismos afins
 
 10 - Na parte A, a secção II, do anexo IV, o n.º 31.2 passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf))](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf)
 
 11 - Na parte A, secção I, do anexo IV, a alínea a) da coluna da direita do n.º 51 passa a ter a seguinte redacção:
 
@@ -189,7 +194,7 @@ a) As sementes são originárias de zonas reconhecidas como isentas de Xanthomon
 
 15 - À parte B do anexo IV é aditado o seguinte ponto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf))](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf)
 
 16 - A parte A n.º 2.4 da secção I do anexo V passa a ter a seguinte redacção:
 
@@ -211,4 +216,4 @@ Grécia, Espanha, Irlanda, Portugal, Reino Unido [Escócia, Irlanda do Norte, In
 
 21 - À alínea d) do anexo VI é aditado o seguinte n.º 4:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf))](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/186b00/46864688.pdf)

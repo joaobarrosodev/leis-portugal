@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/199b00/54225423.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1058/1995/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1058-1995-433029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6486ea5b424e04cd905ce830a7f528df671f014cd4494a1e84f62a27fbd25e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c570b96d0a4de6cb1741dd9db21aba21c7414ddf68fa7109ca98b647aa9f9bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
+- Ave de Capoeira
 - Carne
 - Carne de AVES de Capoeira
 - CEE
 - Certificado de Origem
+- Certificado de Qualidade
 - Controlo Sanitário
-- Ave de Capoeira
+- Doença Animal
 - Importação
 - Legislação Veterinária
-- Certificado de Qualidade
 - País Estrangeiro
 - Regulamento
 - Troca Intracomunitária
@@ -105,16 +105,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/323/1994/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/323/1994/05/26/p/dre
+- type: repealed_by
+  target: pt:dre:315153:por
+  label: "Revogada pelo DEC LEI.20/2001.2001.01.30.MADRP,DR.IS-A [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2001-315153
+  date: '2001-01-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:50Z'
   warnings: []
   errors: []
 ---
@@ -131,9 +136,9 @@ Considerando que importa transpor as referidas directivas para a ordem jurídica
 
 Manda o Governo, pelos Ministros da Agricultura, da Saúde, do Comércio e Turismo e do Ambiente e Recursos Naturais, ao abrigo do artigo 2.º do Decreto-Lei n.º 112/93, de 10 de Abril, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º e 7.º do Regulamento aprovado pela Portaria n.º 323/94, de 26 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º e 7.º do Regulamento aprovado pela Portaria n.º 323/94, de 26 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) Tenham permanecido no território da Comunidade desde o nascimento ou tenham sido importadas de países terceiros, de acordo com os requisitos previstos na secção III do Regulamento aprovado pela Portaria n.º 231/93, de 27 de Fevereiro, devendo as carnes de aves de capoeira, destinadas aos Estados membros ou regiões dos Estados membros cujo estatuto tenha sido estabelecido nos termos do n.º 2 do artigo 10.º do mesmo Regulamento, ser provenientes de aves de capoeira que não tenham sido vacinadas com vacinas vivas contra a doença de Newcastle nos 30 dias que precederam o abate;
 
@@ -151,7 +156,7 @@ e) ...
 
 f) Sejam acompanhados de um certificado sanitário constante do anexo II do presente diploma, caso se destinem a um Estado membro ou uma região de um Estado membro reconhecidamente indemne da doença de Newcastle ou a um Estado membro após transitarem por um país terceiro.
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - ...
 
@@ -173,7 +178,7 @@ d) Que, sem prejuízo do disposto no artigo 4.º, alínea c), do presente Regula
 
 e) Que tenham sido examinadas no matadouro, na altura do exame ante ou post mortem, com vista a detectar sintomas da doença de Newcastle.
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 a) ...
 
@@ -181,11 +186,11 @@ b) Provenham de países em que a gripe aviária e a doença de Newcastle sejam d
 
 c) ...
 
-###### Art. 2.º O texto do anexo II do Regulamento aprovado pela Portaria n.º 323/94, de 26 de Maio, é substituído pelo anexo ao presente diploma, que dele faz parte integrante.
+Art. 2.º O texto do anexo II do Regulamento aprovado pela Portaria n.º 323/94, de 26 de Maio, é substituído pelo anexo ao presente diploma, que dele faz parte integrante.
 
 Ministérios da Agricultura, da Saúde, do Comércio e Turismo e do Ambiente e Recursos Naturais.
 
-**Assinada em 7 de Agosto de 1995.**
+Assinada em 7 de Agosto de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 

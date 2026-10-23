@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/029b00/04530457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/17/1998/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1998-223996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e872def64500b62580e4cd9a20efe3fbcb44a14ed50713ea5ca6dffb1980cf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37e17ba79f274fd8fb607e3b373acc9e44989078aef3a88cb33829d86b07b4a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Mealhada
-- Proteção do Ambiente
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:2507191:por
+  label: Tornada pública a aprovação da suspensão parcial, pelo período de dois anos, do Plano de Urbanização do Luso e do
+    estabelecimento de medidas preventivas pelo mesmo prazo e para a mesma área pelo(a) Aviso n.º 9431/2012 - Diário da República
+    n.º 132/2012, Série II de 2012-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9431-2012-2507191
+  date: '2012-07-10'
+- type: amended_by
+  target: pt:dre:58828343:por
+  label: Tornada pública a prorrogação por mais um ano da suspensão parcial do Plano de Urbanização do Luso (ratificado pelo
+    presente diploma) e respetivas medidas preventivas publicitadas pelo AV 9431/2012 de 10-jul, pelo(a) Aviso n.º 12632/2014
+    - Diário da República n.º 218/2014, Série II de 2014-11-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12632-2014-58828343
+  date: '2014-11-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -80,16 +94,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/60/1994/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/1994/07/30/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67027893:por
+  label: Revogado o Plano de Urbanização do Luso ratificado pelo presente diploma, pelo(a) Aviso n.º 4234/2015 - Diário da
+    República n.º 76/2015, Série II de 2015-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/4234-2015-67027893
+  date: '2015-04-20'
 article_structure:
   article_count: 43
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:00Z'
   warnings: []
   errors: []
 ---

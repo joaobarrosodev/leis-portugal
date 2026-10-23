@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/124/2006/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/124-2006-541802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3edd08e5cffcaa3bea54b4609c255bf494daa5990e5aceaeab18b0dcdf1afe0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2eae2cba4ed010c7e1b4d2c13657bd076d53b1f22ea1136d1353a47341d82d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AEE
-- Reestruturação de Serviços
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
+- Agência para a Qualidade e Segurança Alimentar
 - Consórcio
 - Criação de Serviços
 - Direcção Geral de Protecção das Culturas
@@ -76,44 +74,54 @@ subjects:
 - Entidade sem FINS Lucrativos
 - Estatuto Jurídico
 - Extinção de Serviços
+- Fundação para a Ciência e a Tecnologia
 - Fundação para a Computação Científica Nacional
 - Grupo de Trabalho
 - Ineti
 - Instituto de Biologia Experimental e Tecnológica
 - Instituto de Genética Médica Dr Jacinto de Magalhães
+- Instituto de Investigação Científica e Tropical
 - Instituto de Investigação das Pescas e do Mar
 - Instituto de Medicina Legal
+- Instituto de Meteorologia
 - Instituto de Tecnologia Química e Biológica
 - Instituto Hidrográfico
-- Instituto de Meteorologia
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Instituto Português da Qualidade
 - Instituto Tecnológico e Nuclear
 - Integração de Serviços
 - Investigação Agronómica
+- Investigação Científica e Tecnológica
 - Laboratório
+- Laboratório Nacional de Engenharia Civil
 - Laboratório Nacional de Investigação Veterinária
 - Livro Branco
-- Laboratório Nacional de Engenharia Civil
-- Instituto Português da Qualidade
-- Instituto de Investigação Científica e Tropical
 - Ministro da Ciência Tecnologia e Ensino Superior
-- Agência para a Qualidade e Segurança Alimentar
-- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Reestruturação de Serviços
 - Relatório
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/198/2005/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/198/2005/12/28/p/dre
+- type: cites
+  target: pt:dre:2210338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469005:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:42Z'
   warnings: []
   errors: []
 ---

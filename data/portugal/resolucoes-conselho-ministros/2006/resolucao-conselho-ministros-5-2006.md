@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/5/2006/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-2006-537658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 007ab868c693d9d2d9388eeafa0c4b0002fa36b19dfea2622c5a243f9c6188d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dd50efdb0d1a5db15856211e7593c565fb34511a3763dceb055875576e556da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
+- Autarquia Local
 - Conselho Nacional de Reflorestação
 - Direcção Geral dos Recursos Florestais
-- Proteção da Floresta
 - Exploração Florestal
+- Incêndio
 - Plano Regional de Ordenamento Florestal
-- Autarquia Local
+- Prevenção de Incêndios
+- Proteção da Floresta
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/17/2004/03/02/p/dre
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/23/2005/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/23/2005/01/28/p/dre
+- type: cites
+  target: pt:dre:551849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620933:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:30Z'
   warnings: []
   errors: []
 ---

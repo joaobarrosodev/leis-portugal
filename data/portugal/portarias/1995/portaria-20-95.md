@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/20/1995/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-1995-366182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b42b3bb4be06822dac8e3e8e359f5d7ab29f09385f07cea9cec2ca2c9ea0fa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 970a167401c9b99d0f3a13431dec23edd75030645fea68b286fa60b8f2418652
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,49 @@ relationships:
   target: pt:dre:621358:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE FARO PELA PORT 1259/95 DE 24-OUT DR.IS-B [246]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 342/96 DE 08-AGO DR.IS-B [183] \0]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-08'
+- type: amended_by
+  target: pt:dre:411657:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.342/96.08.08.1996.PCM, DR.IS-B [183] de 08.08.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-1996-411657
+  date: '1996-08-08'
+- type: amended_by
+  target: pt:dre:213432:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Faro, pela PORT.522/96.30.09.1996.PCM, DR.IS-B [227] de 30.09.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/522-1996-213432
+  date: '1996-09-30'
+- type: amended_by
+  target: pt:dre:423066:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.631/99.1999.08.11.PCM, DR.IS-B[186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/631-1999-423066
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:2171390:por
+  label: "Alterado o quadro de pessoal pela PORT.1286/2000(2ªSÉRIE).2000.08.02.MS, DR.IIS [198] de 29/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1286-2000-2171390
+  date: '2000-08-02'
+- type: amended_by
+  target: pt:dre:2552080:por
+  label: "Alterado o quadro de pessoal pela PORT.1410/2000(2ªSÉRIE).2000.08.14.MF, DR.IIS [217] de 19/Set/2000 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1410-2000-2552080
+  date: '2000-08-14'
+- type: amended_by
+  target: pt:dre:621358:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, alterado pelas Ports. 1259/95, de 24-Out, 342/96, de\
+    \ 08-Ago, 522/96, de 30-Set e 631/99, de 11-Ago, pela PORT.1048/2000.2000.10.30.MF DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1048-2000-621358
+  date: '2000-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/458/1993/04/30/p/dre
   label: null
@@ -81,16 +124,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/47/1992/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/47/1992/01/29/p/dre
+- type: cites
+  target: pt:dre:150882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:56Z'
   warnings: []
   errors: []
 ---
@@ -113,13 +176,13 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 5 de Dezembro de 1994.**
+Assinada em 5 de Dezembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital Distrital de Faro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/007b00/00860091.pdf))](https://files.diariodarepublica.pt/1s/1995/01/007b00/00860091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/007b00/00860091.pdf)
 
 ## ANEXO I
 
@@ -129,7 +192,7 @@ Direcção de Serviços Farmacêuticos;
 
 ##### Divisão de Gestão Financeira;
 
-##### Divisão de Instalações e Equipamento.
+Divisão de Instalações e Equipamento.
 
 Unidades orgânicas de natureza administrativa:
 
@@ -137,28 +200,28 @@ Repartição de Gestão de Pessoal, com:
 
 #### Secção de Pessoal;
 
-#### Secção de Vencimentos e Assiduidade;
+Secção de Vencimentos e Assiduidade;
 
 Repartição de Expediente Geral, Arquivo Geral e Informação, com:
 
-#### Secção de Informação e Relações Públicas;
+Secção de Informação e Relações Públicas;
 
-#### Secção de Expediente Geral e Arquivo;
+Secção de Expediente Geral e Arquivo;
 
 Repartição de Gestão de Doentes, com:
 
 #### Secção de Gestão de Doentes;
 
-#### Secção de Arquivo Clínico e Estatística;
+Secção de Arquivo Clínico e Estatística;
 
 Repartição de Contabilidade, com:
 
-#### Secção de Contabilidade Orçamental;
+Secção de Contabilidade Orçamental;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 Repartição de Aprovisionamento, com:
 
 #### Secção de Aquisições e Armazéns;
 
-#### Secção de Inventário e Gestão de Stocks.
+Secção de Inventário e Gestão de Stocks.

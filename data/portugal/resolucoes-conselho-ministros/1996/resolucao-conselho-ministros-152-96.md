@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/152/1996/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/152-1996-220165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb723e81793200b76e332e656a2d49560284d43fcbf59e13224c243fa321b318
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60555561723556e8f32994386100010f29d67d91e6ea37f66cf7eec0d4ea6439
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arcos de Valdevez
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:247719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223661:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional do município de Arcos de Valdevez constante do\
+    \ presente diploma, pela RES.55/2003.2003.03.13.PCM DR.IS-B [83] DE 08/ABR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/55-2003-223661
+  date: '2003-03-13'
+- type: amended_by
+  target: pt:dre:247719:por
+  label: "Alterada a delimitação da Reserva Ecológica Nacional do concelho de Arcos de Valdevez constante do presente diploma,\
+    \ com as alterações aprovadas pela Res 55/2003, de 08-Abr, da PCM, pela RES.35/2008.25.02.2008.PCM, DR.IS [39] de 25.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/35-2008-247719
+  date: '2008-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -83,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:20Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +146,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 14 de Agosto de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/212b00/31393159.pdf))](https://files.diariodarepublica.pt/1s/1996/09/212b00/31393159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/212b00/31393159.pdf)

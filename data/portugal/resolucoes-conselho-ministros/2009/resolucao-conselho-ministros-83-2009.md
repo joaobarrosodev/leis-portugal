@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/83/2009/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2009-489984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 472d42335477d62aacffdfca7fd0074029fd1a21e3e18fdf4b4cb9e4e11e5fb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a97f8d57376d836c63e491bd2f01f945032e177762100e8286b4b3113538c6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Agrícola
-- Turismo
-- Investigação Científica e Tecnológica
-- Ordenamento do Território
+- Autoridade Florestal Nacional
 - CAÇA
 - Contra-ordenação
-- Recursos Hídricos
-- Património Cultural
-- Fiscalização
-- Pesca
-- Serra da Estrela
-- Parque Natural da Serra da Estrela
-- Proteção do Ambiente
-- Zona de Proteção
-- Política de Solos
 - Exploração Florestal
-- Autoridade Florestal Nacional
+- Fiscalização
 - Instituto da Conservação da Natureza e da Biodiversidade
-- Regulamento
+- Investigação Científica e Tecnológica
+- Ordenamento do Território
+- Parque Natural da Serra da Estrela
+- Património Cultural
 - Pecuária
+- Pesca
+- Política de Solos
+- Proteção do Ambiente
+- Recursos Hídricos
+- Regulamento
+- Serra da Estrela
+- Turismo
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/
@@ -126,16 +126,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/115-a/2008/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/115-a/2008/07/21/p/dre
+- type: cites
+  target: pt:dre:430620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694208:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:52Z'
   warnings: []
   errors: []
 ---
@@ -446,7 +498,7 @@ d) Áreas de protecção complementar.
 
 #### SECÇÃO II — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo I
 
@@ -488,7 +540,7 @@ i) A realização de acções de repovoamento aquícola, à excepção da sua re
 
 3 - Nas áreas de protecção parcial do tipo I apenas são permitidas actividades de investigação científica, visitação e pastorícia, quando compatíveis com os objectivos definidos.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo II
 
@@ -536,7 +588,7 @@ c) A instalação de novos aproveitamentos hídricos para abastecimento público
 
 4 - Nas áreas de protecção parcial do tipo II, o exercício da pesca desportiva e os repovoamentos aquícolas, quando realizados fora das áreas ordenadas, estão sujeitos a parecer do ICNB, I. P.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Áreas de protecção parcial do tipo III
 
@@ -1020,4 +1072,4 @@ Nos termos do n.º 6 do artigo 23.º do [Decreto-Lei n.º 142/2008](https://diar
 
 O presente Regulamento entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17500/0612906148.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17500/0612906148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17500/0612906148.pdf)

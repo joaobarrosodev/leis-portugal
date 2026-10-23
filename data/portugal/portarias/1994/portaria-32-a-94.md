@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 8/1994, 2º Suplemento, Série I-B de 1994-01-11
   number: '8'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 112-(2) a 112-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/008b02/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32-a/1994/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-a-1994-198950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e96a9d34f0a33d4a7c0a8ea5c2cd2aa4f492393c43bc6a0ebdaf370b4d3fa38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b975e6994e3d7585fe3d46ebee1131df0022af97409af92d9d943476ca073cae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Mercado de Títulos
 - Bolsa de Valores
-- TAXA de JURO
+- Mercado de Títulos
 - Obrigações do Tesouro
+- TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:241413:por
@@ -79,16 +79,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424-a/1993/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424-a/1993/04/22/p/dre
+- type: cites
+  target: pt:dre:268420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498553:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241413:por
+  label: "Revogado pelo DEC LEI.280/98.1998.09.17.MF, DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1998-241413
+  date: '1998-09-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:48Z'
   warnings: []
   errors: []
 ---
@@ -123,11 +140,11 @@ b) Fixada de acordo com a média ponderada das propostas de compra satisfeitas, 
 
 6.º O preço de colocação dos títulos de juro semestral (P) será determinado, para cada subscritor, pela forma seguinte, arredondado para o centavo do escudo mais próximo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/008b02/00020003.pdf))](https://files.diariodarepublica.pt/1s/1994/01/008b02/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/008b02/00020003.pdf)
 
 7.º O preço de colocação dos títulos de juro anual (P) será determinado, para cada subscritor, pela forma seguinte, arredondado para o centavo do escudo mais próximo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/008b02/00020003.pdf))](https://files.diariodarepublica.pt/1s/1994/01/008b02/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/008b02/00020003.pdf)
 
 8.º São revogadas as Portarias n.os [67-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/67-a-1988-268420) e [424-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/424-a-1993-279447), de 4 de Fevereiro e 22 de Abril, respectivamente.
 
@@ -135,6 +152,6 @@ b) Fixada de acordo com a média ponderada das propostas de compra satisfeitas, 
 
 Ministério das Finanças.
 
-**Assinada em 10 de Janeiro de 1994.**
+Assinada em 10 de Janeiro de 1994.
 
 Pelo Ministro das Finanças, Francisco Adelino Gusmão Esteves de Carvalho, Secretário de Estado do Tesouro.

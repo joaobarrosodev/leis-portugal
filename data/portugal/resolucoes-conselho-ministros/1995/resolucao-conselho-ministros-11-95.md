@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/11/1995/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-1995-198494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6916515901fbe42402a1ee7e43a20f578e45d9155d4d6e768a704dc0115706c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24abe49d50c9b2c004b2ebb00f8f2e7f637e551aab119f551011d3a964cc65f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
 - Figueiró dos Vinhos
+- Ordenamento do Território
 - Património Histórico
+- Plano Director Municipal
 - Política de Solos
 - Protecção do Património
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1690814:por
+  label: "Publicitadas as alterações aos arts. 6.º e 37.º do Regulamento do Plano Diretor Municipal pelo AV-EXT.5427/2012.12.04.2012.MFIGUEIR\
+    \ VINHOS, DR.IIS [73] de 12.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/5427-2012-1690814
+  date: '2012-04-12'
+- type: amended_by
+  target: pt:dre:70133782:por
+  label: Tornada pública a revisão do Plano Diretor Municipal de Figueiró dos Vinhos, pelo(a) Aviso n.º 9814/2015 - Diário
+    da República n.º 168/2015, Série II de 2015-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9814-2015-70133782
+  date: '2015-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/1994/01/15/p/dre
   label: null
@@ -113,16 +125,200 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/333/1992/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/333/1992/04/10/p/dre
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684616:por
+  label: null
+  source: null
 article_structure:
-  article_count: 40
+  article_count: 41
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:19Z'
   warnings: []
   errors: []
 ---
@@ -1157,7 +1353,9 @@ c) O edifício, pelo seu porte e recorte na paisagem, não prejudique imagens na
 
 d) A área de construção total do hotel resulta da concentração total ou parcial da área de construção admissível para a parcela onde o hotel se implanta. A área de construção referida resulta da aplicação dos parâmetros e índices da área onde a parcela se insere.
 
-### CAPÍTULO VIII — Artigo 36.º
+### CAPÍTULO VIII
+
+###### Artigo 36.º
 
 Operações de loteamento
 
@@ -1345,7 +1543,9 @@ b) Numa distância a 200 m dos espaços urbanos e urbanizáveis.
 
 3 - Deverão ter tratamento dos efluentes antes do lançamento nas linhas de água e de drenagem natural, de acordo com a alínea a) do n.º 6 do artigo 21.º deste Regulamento.
 
-### CAPÍTULO XIII — Artigo 41.º
+### CAPÍTULO XIII
+
+###### Artigo 41.º
 
 Certidão de localização para estabelecimentos industriais não licenciados
 
@@ -1355,43 +1555,43 @@ Certidão de localização para estabelecimentos industriais não licenciados
 
 ## ANEXO I — Regulamento do Plano de Salvaguarda do Núcleo Histórico de Figueiró dos Vinhos
 
-###### Artigo 1.º O presente Regulamento para a salvaguarda do núcleo histórico de Figueiró dos Vinhos aplica-se à área de intervenção do gabinete técnico local (GTL) aprovada no decorrer da criação do GTL, sem prejuízo de alargamento posterior.
+Artigo 1.º O presente Regulamento para a salvaguarda do núcleo histórico de Figueiró dos Vinhos aplica-se à área de intervenção do gabinete técnico local (GTL) aprovada no decorrer da criação do GTL, sem prejuízo de alargamento posterior.
 
-###### Art. 2.º O presente Regulamento toma em conta as disposições do Regulamento Geral de Edificações Urbanas (RGEU), [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951, sem prejuízo de algumas disposições conforme os artigos 26.º, 27.º e 28.º deste Regulamento.
+Art. 2.º O presente Regulamento toma em conta as disposições do Regulamento Geral de Edificações Urbanas (RGEU), [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951, sem prejuízo de algumas disposições conforme os artigos 26.º, 27.º e 28.º deste Regulamento.
 
-###### Art. 3.º Consideram-se as disposições do código de posturas da Câmara Municipal de Figueiró dos Vinhos.
+Art. 3.º Consideram-se as disposições do código de posturas da Câmara Municipal de Figueiró dos Vinhos.
 
-###### Art. 4.º A Câmara Municipal de Figueiró dos Vinhos obriga-se a fazer cumprir o disposto no articulado do presente Regulamento, bem como no plano de pormenor de salvaguarda, no caso de reparações, construções ou reconstruções que se venham a registar na área de intervenção.
+Art. 4.º A Câmara Municipal de Figueiró dos Vinhos obriga-se a fazer cumprir o disposto no articulado do presente Regulamento, bem como no plano de pormenor de salvaguarda, no caso de reparações, construções ou reconstruções que se venham a registar na área de intervenção.
 
-###### Art. 5.º A passagem de licenças para a execução de obras na área de intervenção do GTL é da competência da Câmara, mediante prévio parecer daquele gabinete.
+Art. 5.º A passagem de licenças para a execução de obras na área de intervenção do GTL é da competência da Câmara, mediante prévio parecer daquele gabinete.
 
-###### Art. 6.º O plano de salvaguarda do centro histórico de Figueiró dos Vinhos é considerado um plano de pormenor ao abrigo da legislação sobre planos gerais e parciais e para os efeitos de aprovação, gestão e implantação.
+Art. 6.º O plano de salvaguarda do centro histórico de Figueiró dos Vinhos é considerado um plano de pormenor ao abrigo da legislação sobre planos gerais e parciais e para os efeitos de aprovação, gestão e implantação.
 
-###### Art. 7.º Em caso de omissões ou dúvidas suscitadas na aplicação deste Regulamento e do plano de salvaguarda, compete a decisão à Câmara Municipal de Figueiró dos Vinhos, depois de ouvido o parecer do GTL.
+Art. 7.º Em caso de omissões ou dúvidas suscitadas na aplicação deste Regulamento e do plano de salvaguarda, compete a decisão à Câmara Municipal de Figueiró dos Vinhos, depois de ouvido o parecer do GTL.
 
-###### Art. 8.º O projecto de arquitectura de novas construções, alterações, restauros ou obras de beneficiação a realizar na área de intervenção deverão ser da responsabilidade de arquitectos ([Decreto n.º 73/73](https://diariodarepublica.pt/dr/detalhe/decreto/73-1973-684616), artigo 3.º, n.º 4).
+Art. 8.º O projecto de arquitectura de novas construções, alterações, restauros ou obras de beneficiação a realizar na área de intervenção deverão ser da responsabilidade de arquitectos ([Decreto n.º 73/73](https://diariodarepublica.pt/dr/detalhe/decreto/73-1973-684616), artigo 3.º, n.º 4).
 
 1 - Caso o requerente não tenha possibilidade de contratar projectistas, ou desde que o deseje, poderá requerer à Câmara a execução do projecto e acompanhamento de obras pelo GTL.
 
 2 - Toda e qualquer alteração (excluem-se pinturas, caiações ou simples limpezas) obriga à apresentação do respectivo projecto.
 
-###### Art. 9.º Apoio técnico - a Câmara, através do GTL, poderá prestar apoio técnico às populações em projectos de reparação, beneficiação, recuperação ou reconstrução de edifícios.
+Art. 9.º Apoio técnico - a Câmara, através do GTL, poderá prestar apoio técnico às populações em projectos de reparação, beneficiação, recuperação ou reconstrução de edifícios.
 
 § único. O pedido de apoio técnico será considerado para o ano em curso, tomando-se em conta a capacidade financeira do agregado familiar, o estado de conservação dos edifícios e a ordem de entrada do mesmo, transitando para o ano seguinte com ordem de prioridade os pedidos que não possam ser atendidos.
 
-###### Art. 10.º Com a aprovação do plano de pormenor de salvaguarda fica a vila de Figueiró dos Vinhos dotada de meios técnicos (apoio concedido pelo GTL) e financeiros (empréstimos, compra de imóveis degradados), razão que não justifica o abandono do património edificado da vila.
+Art. 10.º Com a aprovação do plano de pormenor de salvaguarda fica a vila de Figueiró dos Vinhos dotada de meios técnicos (apoio concedido pelo GTL) e financeiros (empréstimos, compra de imóveis degradados), razão que não justifica o abandono do património edificado da vila.
 
 § único. Às edificações que não sejam recuperadas pelos seus proprietários, poderá aplicar-se o disposto no n.º 2, alínea h), do artigo 51.º do [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715), de 29 de Março, e bem assim, como solução última, o disposto no artigo 11.º do RGEU.
 
-###### Art. 11.º O plano de pormenor prevê a definição de índices de construção, utilização e cores.
+Art. 11.º O plano de pormenor prevê a definição de índices de construção, utilização e cores.
 
 § único. Não serão permitidas alterações nas águas das coberturas que se traduzam em alterações da silhueta urbana.
 
-###### Art. 12.º Os moradores têm o direito de reclamar junto da Câmara Municipal contra os proprietários que não façam obras de beneficiação.
+Art. 12.º Os moradores têm o direito de reclamar junto da Câmara Municipal contra os proprietários que não façam obras de beneficiação.
 
-###### Art. 13.º O plano de pormenor de salvaguarda prevê a criação de subzonas com graus de protecção diferentes e decorrentes de características diferentes.
+Art. 13.º O plano de pormenor de salvaguarda prevê a criação de subzonas com graus de protecção diferentes e decorrentes de características diferentes.
 
-###### Art. 14.º Graus de protecção afectos a áreas urbanas (sítios urbanos):
+Art. 14.º Graus de protecção afectos a áreas urbanas (sítios urbanos):
 
 1 - Grau de protecção 1 - GP 1 - respeita integralmente a arquitectura preexistente, compatível com os indispensáveis trabalhos de limpeza, manutenção e restauro. Não é autorizada qualquer demolição, salvo quando a reabilitação o obrigue. A área afecta ao GP 1 representa o carácter monumental, histórico, arquitectónico e urbanístico de Figueiró dos Vinhos.
 
@@ -1401,7 +1601,7 @@ Certidão de localização para estabelecimentos industriais não licenciados
 
 4 - Zona verde/área livre - zona de grandes espaços livres a conservar e valorizar, devendo as construções obedecer a critérios de integração daí decorrentes.
 
-###### Art. 15.º As obras de recuperação, conservação ou adaptação num edifício classificado de qualidade ou acompanhamento deverão observar a tipologia do edifício, bem como os elementos arquitectónicos que lhe dão carácter.
+Art. 15.º As obras de recuperação, conservação ou adaptação num edifício classificado de qualidade ou acompanhamento deverão observar a tipologia do edifício, bem como os elementos arquitectónicos que lhe dão carácter.
 
 1 - Sendo classificados como dissonantes, procurar-se-á reintegrá-los nas características arquitectónicas anteriores, remover as dissonâncias, se forem parciais.
 
@@ -1437,7 +1637,7 @@ Certidão de localização para estabelecimentos industriais não licenciados
 
 17 - Fica interdito o rasgamento de vãos envidraçados que alterem a tipologia dos edifícios.
 
-###### Art. 16.º Quando os edifícios de qualidade ou acompanhamento necessitem de reparação de elementos deteriorados das fachadas, de recuperação ou reforma, atender-se-á como condicionante fundamental a sua tipologia, obedecendo aos seguintes princípios:
+Art. 16.º Quando os edifícios de qualidade ou acompanhamento necessitem de reparação de elementos deteriorados das fachadas, de recuperação ou reforma, atender-se-á como condicionante fundamental a sua tipologia, obedecendo aos seguintes princípios:
 
 1 - Utilizar-se-ão sempre nas reparações necessárias materiais com as mesmas características.
 
@@ -1459,23 +1659,23 @@ Certidão de localização para estabelecimentos industriais não licenciados
 
 10 - Muros, cercas, gradeamentos e portões, excepto os dissonantes, não poderão ser alterados.
 
-###### Art. 17.º Nos trabalhos de recuperação deve-se recorrer, na medida do possível, a artífices locais.
+Art. 17.º Nos trabalhos de recuperação deve-se recorrer, na medida do possível, a artífices locais.
 
-###### Art. 18.º O presente Regulamento considera os edifícios já classificados como monumentos nacionais ou imóveis de interesse público e de valor concelhio.
+Art. 18.º O presente Regulamento considera os edifícios já classificados como monumentos nacionais ou imóveis de interesse público e de valor concelhio.
 
-###### Art. 19.º Serão permitidos todos os usos que as leis, regulamentos municipais e outros vigentes permitam. Contudo, deverá acautelar-se a integridade, carácter, estrutura urbana e ambiental dos edifícios de forma que não ocasionem roturas com as tipologias arquitectónicas e morfologia urbana existente.
+Art. 19.º Serão permitidos todos os usos que as leis, regulamentos municipais e outros vigentes permitam. Contudo, deverá acautelar-se a integridade, carácter, estrutura urbana e ambiental dos edifícios de forma que não ocasionem roturas com as tipologias arquitectónicas e morfologia urbana existente.
 
-###### Art. 20.º A instalação de indústrias na área de protecção não poderá produzir fumos, ruídos ou cheiros que possam incomodar os habitantes, devendo ser do tipo normalmente classificados de artesanais.
+Art. 20.º A instalação de indústrias na área de protecção não poderá produzir fumos, ruídos ou cheiros que possam incomodar os habitantes, devendo ser do tipo normalmente classificados de artesanais.
 
-###### Art. 21.º O uso de garagens deverá reduzir-se às de carácter particular e de forma a não interferir com a estrutura viária ou unidade do edifício.
+Art. 21.º O uso de garagens deverá reduzir-se às de carácter particular e de forma a não interferir com a estrutura viária ou unidade do edifício.
 
-###### Art. 22.º Deverá encarar-se a libertação dos espaços actualmente ocupados por construções abarracadas, capoeiras, lixeiras, etc.
+Art. 22.º Deverá encarar-se a libertação dos espaços actualmente ocupados por construções abarracadas, capoeiras, lixeiras, etc.
 
-###### Art. 23.º Nos edifícios ocupados com comércio, serviços ou outras actividades que não seja a habitação, todas as áreas afectas a esse tipo de uso deverão estar separadas por paredes de alvenaria.
+Art. 23.º Nos edifícios ocupados com comércio, serviços ou outras actividades que não seja a habitação, todas as áreas afectas a esse tipo de uso deverão estar separadas por paredes de alvenaria.
 
-###### Art. 24.º Cada edifício que ultrapasse um piso deverá possuir um acesso à cobertura.
+Art. 24.º Cada edifício que ultrapasse um piso deverá possuir um acesso à cobertura.
 
-###### Art. 25.º São autorizadas as demolições totais ou parciais de edifícios classificados como dissonantes:
+Art. 25.º São autorizadas as demolições totais ou parciais de edifícios classificados como dissonantes:
 
 1 - A demolição só poderá ocorrer depois de aprovado o projecto de substituição.
 
@@ -1483,40 +1683,40 @@ Certidão de localização para estabelecimentos industriais não licenciados
 
 3 - Deve recusar-se a integração pela integração, aceitando-se a contemporaneidade dos edifícios que respeitem o presente Regulamento.
 
-###### Art. 29.º Considera-se a classificação de espaços urbanos de qualidade e zonas verdes exemplares não sendo admissível qualquer intervenção que transfigure ou altere a morfologia urbanística e ambiental.
+Art. 29.º Considera-se a classificação de espaços urbanos de qualidade e zonas verdes exemplares não sendo admissível qualquer intervenção que transfigure ou altere a morfologia urbanística e ambiental.
 
-###### Art. 30.º Nos espaços verdes públicos ou privados classificados de qualidade só serão utilizadas construções que completem a utilização do espaço, quer se trate de mobiliário urbano, recreio ou equipamento de utilização pública.
+Art. 30.º Nos espaços verdes públicos ou privados classificados de qualidade só serão utilizadas construções que completem a utilização do espaço, quer se trate de mobiliário urbano, recreio ou equipamento de utilização pública.
 
-###### Art. 31.º Prevê-se a classificação de exemplares arbóreos ou maciços dignos de menção.
+Art. 31.º Prevê-se a classificação de exemplares arbóreos ou maciços dignos de menção.
 
-###### Art. 32.º Só é permitido o derrube de árvores e maciços de arbustos quando devidamente justificado.
+Art. 32.º Só é permitido o derrube de árvores e maciços de arbustos quando devidamente justificado.
 
 § único. A substituição de novas espécies vegetais deverá restringir-se às naturais da região e deverá ser precedida de um estudo adequado.
 
-###### Art. 33.º O mobiliário urbano, publicidade, lettering, recolha do lixo e iluminação pública deverão ser alvo de estudo visando uma perfeita integração.
+Art. 33.º O mobiliário urbano, publicidade, lettering, recolha do lixo e iluminação pública deverão ser alvo de estudo visando uma perfeita integração.
 
-###### Art. 34.º A numeração dos prédios é estipulada pela Câmara Municipal de Figueiró dos Vinhos, pressupondo-se que a cada propriedade corresponde um só número, subdividido por classificação alfabética.
+Art. 34.º A numeração dos prédios é estipulada pela Câmara Municipal de Figueiró dos Vinhos, pressupondo-se que a cada propriedade corresponde um só número, subdividido por classificação alfabética.
 
-###### Art. 35.º Sempre que possível, deve-se encarar a remoção de fios eléctricos do exterior das fachadas e racionalizar antenas de TV.
+Art. 35.º Sempre que possível, deve-se encarar a remoção de fios eléctricos do exterior das fachadas e racionalizar antenas de TV.
 
-###### Art. 36.º O trânsito automóvel e o estacionamento de viaturas serão alvo de estudo de conjunto tendo em conta os fluxos e os circuitos pedonais de excelência.
+Art. 36.º O trânsito automóvel e o estacionamento de viaturas serão alvo de estudo de conjunto tendo em conta os fluxos e os circuitos pedonais de excelência.
 
-###### Art. 37.º A rede de iluminação pública será revista, prevendo-se a substituição e integração dos candeeiros de acordo com as características do aglomerado e substituição progressiva das redes aéreas.
+Art. 37.º A rede de iluminação pública será revista, prevendo-se a substituição e integração dos candeeiros de acordo com as características do aglomerado e substituição progressiva das redes aéreas.
 
 § único. Prevê-se a iluminação dos monumentos para a sua valorização.
 
-###### Art. 38.º Todos os elementos arquitectónicos e achados arqueológicos encontrados em obras de conservação ou recuperação deverão ser comunicados à Câmara Municipal de Figueiró dos Vinhos, que enviará técnicos ao local para apreciação do valor dos respectivos achados e para orientação das obras.
+Art. 38.º Todos os elementos arquitectónicos e achados arqueológicos encontrados em obras de conservação ou recuperação deverão ser comunicados à Câmara Municipal de Figueiró dos Vinhos, que enviará técnicos ao local para apreciação do valor dos respectivos achados e para orientação das obras.
 
-###### Art. 39.º O espólio arquitectónico e arqueológico eventualmente removido deverá fazer parte de uma reserva a utilizar em futuras obras de recuperação ou fundo do futuro museu de Figueiró dos Vinhos.
+Art. 39.º O espólio arquitectónico e arqueológico eventualmente removido deverá fazer parte de uma reserva a utilizar em futuras obras de recuperação ou fundo do futuro museu de Figueiró dos Vinhos.
 
-###### Art. 40.º Todo o monumento ou edifício notável deverá dispor de um roteiro (no próprio local) que elucide sobre a história e valor do imóvel, bem assim como de trabalhos a que foi sujeito para reutilização.
+Art. 40.º Todo o monumento ou edifício notável deverá dispor de um roteiro (no próprio local) que elucide sobre a história e valor do imóvel, bem assim como de trabalhos a que foi sujeito para reutilização.
 
-###### Art. 41.º A Câmara Municipal poderá instituir um prémio anual para atribuir ao proprietário que for exemplo de renovação. O júri será constituído por um elemento nomeado pela Câmara Municipal, outro pela Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano e outro pelo centro cultural.
+Art. 41.º A Câmara Municipal poderá instituir um prémio anual para atribuir ao proprietário que for exemplo de renovação. O júri será constituído por um elemento nomeado pela Câmara Municipal, outro pela Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano e outro pelo centro cultural.
 
-###### Art. 42.º O presente Regulamento deverá ser revisto, no máximo, de 10 em 10 anos.
+Art. 42.º O presente Regulamento deverá ser revisto, no máximo, de 10 em 10 anos.
 
 Nota. - Os artigos 26.º, 27.º e 28.º foram suprimidos dada a não aprovação superior.
 
 ## ANEXO II — Marcos geodésicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/035b00/08400851.pdf))](https://files.diariodarepublica.pt/1s/1995/02/035b00/08400851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/035b00/08400851.pdf)

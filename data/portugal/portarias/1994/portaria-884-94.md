@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/884/1994/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/884-1994-600136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74c6e04de91bf5a97036992fa70c92b0a38ac4dfc2c7ea0145799427a8b6e4a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e0ac92d558678e85d902638a113b05cb20b7b69fee48c59cc1854d2b586bb5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,31 @@ relationships:
   target: pt:dre:67626867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311466:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67626867:por
+  label: Revogada, a partir de 01.07.2015, a Port. 487/83 de 27-abr, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    119/2015 - Diário da República n.º 124/2015, Série I de 2015-06-29 nos termos do disposto nos n.ºs 3 e 4 do art. 3.º do
+    diploma preambular deste e nos arts. 101.º e segs do novo Regulamento
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2015-67626867
+  date: '2015-06-29'
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:31Z'
   warnings: []
   errors: []
 ---
@@ -224,7 +239,7 @@ A prova do estado de carência económica poderá ser feita pela apresentação 
 
 1 - Os beneficiários pagarão até ao último dia de cada mês contribuições calculadas pela aplicação da taxa de 17% a uma remuneração convencional, escolhida pelo beneficiário de entre os seguintes escalões indexados à remuneração mínima mensal mais elevada garantida por lei:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/228b00/60456048.pdf))](https://files.diariodarepublica.pt/1s/1994/10/228b00/60456048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/228b00/60456048.pdf)
 
 2 - Os beneficiários devem declarar, nos meses de Outubro e Novembro de cada ano, ou no prazo de 30 dias a contar da reinscrição ou mudança de situação, o escalão de remunerações convencional escolhido para base de incidência das contribuições que, fora os casos previstos expressamente na lei, deve ser igual ou superior ao 2.º escalão.
 
@@ -328,6 +343,6 @@ As pensões reduzidas, se inferiores, são elevadas a partir do mês de Janeiro 
 
 Ministérios da Justiça e do Emprego e da Segurança Social.
 
-**Assinada em 15 de Setembro de 1994.**
+Assinada em 15 de Setembro de 1994.
 
-**O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - Pelo Ministro do Emprego e da Segurança Social, José Frederico de Lemos Salter Cid, Secretário de Estado da Segurança Social.**
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - Pelo Ministro do Emprego e da Segurança Social, José Frederico de Lemos Salter Cid, Secretário de Estado da Segurança Social.

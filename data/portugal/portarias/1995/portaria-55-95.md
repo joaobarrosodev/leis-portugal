@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/55/1995/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/55-1995-139751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb5ceccd54b2d34af0dba8de1eebfa93649f297ab5816c75bc26faea127fe8c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d5f4a8c4a7d5a4768cefcf0ba32b89faeb481051c1cae63976780dd6a9ca3fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/121/1993/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/121/1993/02/03/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599143:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:23Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +119,6 @@ Manda o Governo, pelos Secretários de Estado da Cultura e do Orçamento, que o 
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 22 de Dezembro de 1994.**
+Assinada em 22 de Dezembro de 1994.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.

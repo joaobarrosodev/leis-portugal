@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/700/1994/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/700-1994-229931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61d67a82f3ee440d69e2e2e053f5cd6c76c6add12da86e04423a012e982b8428
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eab9f88a2b39cf7cf5f358df0f64da62bb8b228dabf6dcf1a2ef703e8777155
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:03Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +116,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 27 de Junho de 1994.**
+Assinada em 27 de Junho de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Medidas preventivas
 
@@ -114,7 +126,7 @@ Na sequência da aprovação anterior em reunião de 21 de Novembro de 1991 das 
 
 Assim, e de acordo com a comunicação da Direcção-Geral do Ordenamento do Território, propõe-se a aprovação, em aditamento às medidas preventivas anteriormente aprovadas, das seguintes alterações:
 
-###### Artigo 1.º Nos termos dos artigos 7.º e 9.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, ficam sujeitas às medidas preventivas, pelo prazo de dois anos, as áreas situadas no concelho da Nazaré definidas na planta anexa e limitadas, sendo o mesmo definido pelo limite exterior do traço:
+Artigo 1.º Nos termos dos artigos 7.º e 9.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, ficam sujeitas às medidas preventivas, pelo prazo de dois anos, as áreas situadas no concelho da Nazaré definidas na planta anexa e limitadas, sendo o mesmo definido pelo limite exterior do traço:
 
 Zona I - Caixins:
 
@@ -146,7 +158,7 @@ A nascente - terrenos particulares;
 
 A poente - terrenos particulares e Escola Primária n.º 4.
 
-###### Art. 2.º As medidas preventivas referidas no artigo anterior consistem na proibição ou sujeição a prévia autorização da Câmara Municipal da Nazaré, sem prejuízo de quaisquer outras condicionantes legais exigidas, da prática dos actos em actividades seguintes:
+Art. 2.º As medidas preventivas referidas no artigo anterior consistem na proibição ou sujeição a prévia autorização da Câmara Municipal da Nazaré, sem prejuízo de quaisquer outras condicionantes legais exigidas, da prática dos actos em actividades seguintes:
 
 a) Criação de novos núcleos populacionais;
 
@@ -162,6 +174,6 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 2.1 - Para as áreas não abrangidas pelas medidas preventivas mantém-se em vigor o plano de urbanização e planeamento eficaz.
 
-###### Art. 3.º Compete à Câmara Municipal da Nazaré ou à Comissão de Coordenação de Lisboa e Vale do Tejo fiscalizar a observância dos condicionalismos estabelecidos e ordenar a aplicação do disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, sem prejuízo de aplicação de outras medidas legalmente previstas.
+Art. 3.º Compete à Câmara Municipal da Nazaré ou à Comissão de Coordenação de Lisboa e Vale do Tejo fiscalizar a observância dos condicionalismos estabelecidos e ordenar a aplicação do disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, sem prejuízo de aplicação de outras medidas legalmente previstas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/172b00/41814182.pdf))](https://files.diariodarepublica.pt/1s/1994/07/172b00/41814182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/172b00/41814182.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/76/1997/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1997-397511
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdd9de7a38207c7751eddcf4d59140cd2e7f0a63fdb24db2d463616352dbec03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56a6002c14564795f67f8ad4ee7fe5d5a32360d9b88b14dea805363a9706c643
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,42 +68,42 @@ reuse:
 subjects:
 - Acnur
 - Aeroporto
-- PSP
 - Ajuda Humanitária
 - Ajuda Judicial
+- ANA
 - Asilo Político
 - Assistência Médica
-- Financiamento
+- Assistência Social
 - Cidadão Estrangeiro
 - Companhia Aérea
-- Transporte Aéreo
 - Convenção
-- Segurança Interna
-- Portugal
-- Fronteiras
-- Refugiado
-- Ministério da Solidariedade e Segurança Social
-- Assistência Social
-- Imigrante
-- Notificação
-- Serviço de Estrangeiros e Fronteiras
-- Prazo
-- ANA
-- Ministério da Saúde
-- Repatriamento
-- Ministro da Administração Interna
 - Direito Territorial
+- Financiamento
+- Fronteiras
+- Imigrante
+- Ministério da Saúde
+- Ministério da Solidariedade e Segurança Social
+- Ministro da Administração Interna
+- Notificação
+- Portugal
+- Prazo
+- PSP
+- Refugiado
+- Repatriamento
+- Segurança Interna
+- Serviço de Estrangeiros e Fronteiras
+- Transporte Aéreo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:14Z'
   warnings: []
   errors: []
 ---

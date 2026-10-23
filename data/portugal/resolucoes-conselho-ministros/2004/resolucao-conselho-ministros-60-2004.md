@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/60/2004/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/60-2004-302289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bdae98acbabb4bda0ede6c5edecd09cb70e369101defeb1c391d9780ffe68f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c43b084942d43c9063ee0a9af1f4c8722ef426fd3d6b80eef3ac65cd13020cff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,42 @@ subjects:
 - ALTO Comissariado para a Imigração e Minorias Étnicas
 - Crime
 - Delinquência Juvenil
-- Jovem
-- Instituto de Reinserção Social
-- Menoridade
 - Inserção Social
-- Protecção à Juventude
-- Programa Escolhas
+- Instituto de Reinserção Social
+- Jovem
+- Menoridade
 - Prevenção Criminal
+- Programa Escolhas
+- Protecção à Juventude
 relationships:
 - type: amended_by
   target: pt:dre:493229:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624785:por
+  label: "Alterados os nºs 10.2 e 11 do presente diploma, que renovou o Programa Escolhas criado pela Res 4/2001 de 09-Jan,\
+    \ pela RES.15/2005.07.12.2004.PCM, DR.IS-B [13] de 19.01.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/15-2005-624785
+  date: '2004-12-07'
+- type: amended_by
+  target: pt:dre:360114:por
+  label: "Procedida à renovação do Programa Escolhas, criado pela Res 4/2001, de 09-Jan, renovado pelo presente diploma, pela\
+    \ RES.80/2006.25.05.2006.PCM, DR.IS-B [121] de 26.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/80-2006-360114
+  date: '2006-05-25'
+- type: amended_by
+  target: pt:dre:493229:por
+  label: "Renovado o Programa Escolhas criado pela Res 4/2001 de 09-Jan da PCM e posteriormente renovado neste diploma, pela\
+    \ RES.63/2009.23.07.2009.PCM, DR.IS [141] de 23.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/63-2009-493229
+  date: '2009-07-23'
+- type: amended_by
+  target: pt:dre:175292:por
+  label: "Renovada para o período de 2013-2015 o Programa Escolhas, criado pela Res 4/2001 de 09-jan da PCM, e renovado pelo\
+    \ presente diploma, pela RES.68/2012.09.08.2012.PCM, DR.IS [154] de 09.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/68-2012-175292
+  date: '2012-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/2002/11/22/p/dre
   label: null
@@ -88,16 +112,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/4/2001/01/09/p/dre
+- type: cites
+  target: pt:dre:239016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448756:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:05Z'
   warnings: []
   errors: []
 ---

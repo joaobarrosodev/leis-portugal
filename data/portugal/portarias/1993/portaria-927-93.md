@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/927/1993/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/927-1993-655883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21268d9ab0e2f4c9fe238acc58137feb3d7699e0da48ce3cf914d50869f84383
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21184f8c94fa3c446db118e2f3d017ef58f398f3eb032ef44852e191a6e92590
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Integração Escolar
-- Formação de Professores
 - Ensino Superior Politécnico
 - Escola Superior de Educação
+- Formação de Professores
 - Instituto Politécnico
-- Setúbal
 - Pessoal Docente
-relationships: []
+- Plano de Estudos
+- Setúbal
+relationships:
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:23Z'
   warnings: []
   errors: []
 ---
@@ -301,8 +321,8 @@ O curso entrará em funcionamento no ano lectivo que foi determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 20 de Agosto de 1993.**
+Assinada em 20 de Agosto de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/223b00/52235226.pdf))](https://files.diariodarepublica.pt/1s/1993/09/223b00/52235226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/223b00/52235226.pdf)

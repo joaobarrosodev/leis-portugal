@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 213/1995, 1º Suplemento, Série I-B de 1995-09-14
   number: '213'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5828-(2) a 5828-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/213b01/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1128-a/1995/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1128-a-1995-441765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60685171f00f43bfff74bf5ad41da3430219c1726c834dea16f247f0f31b66cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1872bad14cb21af33a9ca2756b4d18fb2494076ffdfb9e09c1f2c10116aa0ebb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Lisboa
 - Junta Médica
-- Pessoal Aeronáutico
 - Licença de Pilotagem
+- Lisboa
+- Pessoal Aeronáutico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre
@@ -80,16 +80,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/978-a/1992/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/978-a/1992/10/13/p/dre
+- type: cites
+  target: pt:dre:240067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264276:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:481732:por
+  label: "Revogada pelo DEC LEI.250/2003.11.10.2003.MOPTH, DR.IS-A [236] de 11.10.2003, sem prejuízo das respectivas disposições\
+    \ finais e transitórias\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2003-481732
+  date: '1995-09-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:33Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +132,6 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 13 de Setembro de 1995.**
+Assinada em 13 de Setembro de 1995.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.

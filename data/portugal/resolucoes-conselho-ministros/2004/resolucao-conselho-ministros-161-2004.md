@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/161/2004/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/161-2004-548673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25f5a9b2e58a5285f936f2a851576a739160896c5411a438c617134dda48a0de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 190ad1961dc9ac01962ad22c61c6277f163db52cf05e2fafdf8c11581f7ccd16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Alentejo
 - Contra-ordenação
+- Diversidade Biológica
 - Fiscalização
 - Instituto da Conservação da Natureza
+- Ordenamento do Território
 - Parque Natural do Vale do Guadiana
-- Proteção do Ambiente
-- Diversidade Biológica
-- Zona de Proteção
 - Política de Solos
-- Alentejo
+- Proteção do Ambiente
 - Regulamento
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -87,14 +87,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1992/43/oj
 article_structure:
   article_count: 48
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:34Z'
   warnings: []
   errors: []
 ---
@@ -449,7 +449,7 @@ b) Áreas de intervenção para a valorização patrimonial e cultural.
 
 As áreas de protecção parcial integram espaços que se destinam a garantir a conservação dos recursos biocenóticos e dos habitats mais relevantes na área do PNVG, nomeadamente os que abrigam espécies faunísticas e florísticas de maior importância conservacionista.
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo I
 
@@ -491,7 +491,7 @@ c) Estas áreas podem, ainda, ser vedadas e possuir uma rede de trilhos e zonas 
 
 5 - Nestas áreas ficam as actividades a desenvolver sujeitas, preferencialmente, a contratualização do Estado com os proprietários, nos termos legais em vigor.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo II
 
@@ -531,7 +531,7 @@ c) A instalação de aproveitamentos eólicos.
 
 As áreas de protecção complementar integram espaços de enquadramento, transição ou amortecimento de impactes, necessárias à protecção das áreas em que foram aplicados os níveis anteriores de protecção e ainda áreas rurais onde é praticada agricultura permanente ou temporária, exploração cinegética, silvicultura, silvo-pastorícia e pastorícia, em proporções e intensidade de que resultam habitats importantes no seu conjunto para a conservação da natureza e onde a estrutura e as componentes da paisagem devem ser mantidas ou valorizadas, através de contratos de gestão ambiental a estabelecer com os proprietários, a par da promoção do desenvolvimento sustentável das populações, nomeadamente através da melhoria da sua qualidade de vida e incentivo à fixação na área do PNVG.
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção complementar do tipo I
 
@@ -551,7 +551,7 @@ As áreas de protecção complementar do tipo I são áreas com características
 
 5 - Nestas áreas são permitidas novas instalações ou alterações de estabelecimentos industriais, designadamente fornos para fabrico de carvão vegetal, desde que explorados de acordo com as técnicas tradicionais, e instalações de fabrico de alimentos compostos para animais, dando cumprimento, quando aplicável, ao disposto na legislação sobre fabricação de alimentos compostos para animais que contenham aditivos ou pré-misturas.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção complementar do tipo II
 

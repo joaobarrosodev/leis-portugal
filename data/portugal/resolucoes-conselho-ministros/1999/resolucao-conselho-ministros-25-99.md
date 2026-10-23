@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/25/1999/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-1999-549058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bb36d47515b3f94d0ef73ad222df97d2cc9744ad266832b3506f98431f99aad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb5b5ca48f6b85bb1e6329195d164236ce7c9a14974fb55268c77c0762bd93d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caminha
-- Ordenamento do Território
-- Espinho
-- Protecção do Litoral
-- Plano de Ordenamento da Orla Costeira
-- Zona de Proteção
-- Política de Solos
 - Domínio Público Hídrico
+- Espinho
+- Ordenamento do Território
+- Plano de Ordenamento da Orla Costeira
+- Política de Solos
+- Protecção do Litoral
 - Regulamento
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:169418565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:269451:por
+  label: "Suspensas nos termos do n&#186; 6 e mantidas em vigor todas as demais disposi&#231;&#245;es, a al f) do art 11&#186;\
+    \ do Regulamento, o n&#186; 5 do art 54&#186; e o quadro n&#186; 4 do anexo II do Regulamento, o art 55&#186; do Regulamento\
+    \ e as &#225;reas constantes dos quadros n&#186;s 1 a 3 do anexo II do Regulamento , todas do POOC de Caminha-Espinho,\
+    \ aprovado pelo presente diploma, pela Res 62/2004, de 17-Mai, DR. IS-B [115] de 17.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/62-2004-269451
+  date: '2004-04-22'
+- type: amended_by
+  target: pt:dre:642545:por
+  label: "Aprovada a alteração ao POOC de Caminha-Espinho, aprovado pelo presente diploma, pela RES.154/2007.02.10.2007.PCM,\
+    \ DR.IS [190] de 02.10.2007, e determinado que, nas situações em que os planos municipais de ordenamento do território\
+    \ abrangidos não se conformem com as disposições do referido POOC, devem os mesmos ser objecto de alteração, \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/154-2007-642545
+  date: '2007-10-02'
+- type: amended_by
+  target: pt:dre:165239:por
+  label: "Determinada a suspensão da al. j) do nº1 art. 22º do POOC de Caminha-Espinho, aprovado pelo presente diploma, alterado\
+    \ pela Res 154/2007, de 02-Out, da PCM, pela RES.168-B/2008.14.11.2008.PCM, DR.IS [222-Supl] de 14.11.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/168-b-2008-165239
+  date: '2008-11-14'
+- type: amended_by
+  target: pt:dre:439872:por
+  label: "Determinado que, na área de intervenção do POPNLN, seja alterada a planta de síntese bem como o Plano de Ordenamento\
+    \ da Orla Costeira (POOC) de Caminha-Espinho, aprovado pelo presente diploma, alterado pela Res 154/2007, de 02-Out, da\
+    \ PCM, e com a suspensão, por dois anos, determinada pela Res 168-B/2008, de 14-Nov, da PCM, pela RES.175/2008.24.11.2008.PCM,\
+    \ DR.IS [228] de 24.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/175-2008-439872
+  date: '2008-11-24'
+- type: amended_by
+  target: pt:dre:169418565:por
+  label: Determinado que nos termos do n.º 5 do diploma de origem, se mantêm em vigor as disposições do Plano de Ordenamento
+    da Orla Costeira de Caminha-Espinho, ora referido, e revogado, sem prejuízo do disposto no n.º 5, nos termos do n.º 6
+    o Plano de ordenamento da Orla Costeira de Caminha-Espinho aprovado pela presente resolução, pelo(a) Resolução do Conselho
+    de Ministros n.º 111/2021 - Diário da República n.º 155/2021, Série I de 2021-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/111-2021-169418565
+  date: '2021-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -107,16 +144,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:162668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
 article_structure:
   article_count: 80
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:28Z'
   warnings: []
   errors: []
 ---

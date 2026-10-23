@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/652/1994/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/652-1994-298662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eceaadacc7dc9b2a995696ae20d3f6e963a1f55e03580ad3f8be330801fefca1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a106f6532e49175493dc3e669e37d51aaddb4d7f333dcc6feca51ff9fe88edd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,13 +75,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:54Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +102,17 @@ Nestes termos:
 
 Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, nos termos e para os efeitos do artigo 29.º do Decreto-Lei n.º 228/93, de 22 de Junho, que sejam aprovados os procedimentos constantes dos seguintes anexos à presente portaria e que dela fazem parte integrante:
 
-## Anexo I - Procedimento de exame de tipo.
+Anexo I - Procedimento de exame de tipo.
 
-## Anexo II - Procedimento de conformidade com o tipo.
+Anexo II - Procedimento de conformidade com o tipo.
 
-## Anexo III - Procedimento de garantia de qualidade de produção.
+Anexo III - Procedimento de garantia de qualidade de produção.
 
-## Anexo IV - Procedimento de garantia plena de qualidade.
+Anexo IV - Procedimento de garantia plena de qualidade.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 20 de Junho de 1994.**
+Assinada em 20 de Junho de 1994.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/88/2008/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-2008-448971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e59a9b941f41bb07125769d6d41b8b8514a3f5bedcde1a11a846fbe023e8c2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a6973a93205add50c28d3915d9928d173554ce4cc2e9ba8b84457d1b1bdb863
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Deficiente
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Pessoa em Situação de Dependência
-- Proteção ao Deficiente
-- Programa de Acção
 - Instituto Nacional para a Reabilitação
+- Pessoa em Situação de Dependência
+- Programa de Acção
+- Proteção ao Deficiente
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/319/1991/08/23/p/dre
@@ -81,16 +81,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/120/2006/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/120/2006/09/21/p/dre
+- type: cites
+  target: pt:dre:234360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541782:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:14Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +153,7 @@ Presidência do Conselho de Ministros, 8 de Maio de 2008. - O Primeiro-Ministro,
 
 ## ANEXO — I PLANO DE ACÇÃO PARA A INTEGRAÇÃO DAS PESSOAS COM DEFICIÊNCIAS E OU INCAPACIDADES
 
-# Parte I
+Parte I
 
 [...]
 
@@ -145,7 +161,7 @@ O segundo capítulo reporta-se às condições necessárias para a intervenção
 
 4.2 - [...]
 
-# Parte II
+Parte II
 
 ### Capítulo I — Intervenção e estratégias para a qualidade de vida
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/131b00/29652968.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/359/1994/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/359-1994-302325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:25:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1058fbf6cd33efad476631216959ab4d3ed43492272501a8df6accbc64a1a92f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89c8325f0fd537252cf103189168ee7ff379368470635affddc0b7d39db0a7c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:25:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embalagem
 - Comércio
+- Embalagem
 - Normalização
 relationships:
 - type: amended_by
@@ -78,16 +78,27 @@ relationships:
   target: celex:31973L0173
   label: null
   source: http://data.europa.eu/eli/dir/1973/173/oj
+- type: repealed_by
+  target: pt:dre:421633:por
+  label: "Revogados os nº 4 e 5 do presente diploma, no que respeita aos produtos do sector vitivinícola, pelo DEC LEI.376/97.1997.12.24.MADRP\
+    \ DR.IS-A [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1997-421633
+  date: '1997-12-24'
+- type: repealed_by
+  target: pt:dre:452915:por
+  label: "Revogada, a partir de 11.04.2009, pelo DEC LEI.199/2008.08.10.2008.MEI, DR.IS [195] de 08.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-2008-452915
+  date: '2008-10-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:25:47Z'
   warnings: []
   errors: []
 ---
@@ -146,9 +157,9 @@ b) Alínea a) do n.º 2 e n.º 4, independentemente do volume nominal e destinad
 
 Ministérios da Agricultura, da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 2 de Maio de 1994.**
+Assinada em 2 de Maio de 1994.
 
-**O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
 ## ANEXO I — Valores das quantidades nominais dos pré-embalados
 
@@ -342,7 +353,7 @@ Cocktails de frutas, concentrados de frutas:
 
 Produtos de lavagem e de limpeza em pó
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/131b00/29652968.pdf))](https://files.diariodarepublica.pt/1s/1994/06/131b00/29652968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/131b00/29652968.pdf)
 
 ## ANEXO III
 
@@ -442,4 +453,4 @@ b) Gás propulsor composto unicamente de óxido nitroso, ou unicamente de anidri
 
 ## ANEXO IV — Volumes nominais de certos líquidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/131b00/29652968.pdf))](https://files.diariodarepublica.pt/1s/1994/06/131b00/29652968.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/131b00/29652968.pdf)

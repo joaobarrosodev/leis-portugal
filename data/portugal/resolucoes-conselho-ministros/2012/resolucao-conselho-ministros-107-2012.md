@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/107/2012/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-2012-189940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3102b8b23ef62986a8453b10c3d3e184e3bbeee8d4357696ad507fc54767b6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ee65f98508ff69b8aa59de85ac5e91eeb3978d35ad2a81f666c34cedc94c5a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Barragem de FOZ tua
+- Agência Portuguesa do Ambiente
+- Albufeiras
 - Alijó
 - Aproveitamento Hidroeléctrico
+- Barragem de FOZ tua
 - Barragem do Carrapatelo
 - Carrazeda de Ansiães
-- Ordenamento do Território
 - Comissão de Coordenação e Desenvolvimento Regional do Norte
-- Plano Director Municipal
-- Albufeiras
+- Domínio Público Hídrico
 - Energia Hidroelétrica
-- Política Energética
 - Medidas Preventivas
 - Mirandela
 - Murça
-- Zona de Proteção
+- Ordenamento do Território
+- Plano Director Municipal
 - Política de Solos
+- Política Energética
 - Recursos Naturais
-- Domínio Público Hídrico
 - Régua
 - Regulamento
 - VILA FLOR
-- Agência Portuguesa do Ambiente
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/182/2008/09/04/p/dre
@@ -126,16 +126,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/99/2000/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/99/2000/08/04/p/dre
+- type: cites
+  target: pt:dre:145674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668289:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:117159945:por
+  label: Revogado o Plano Diretor Municipal de Vila Flor ratificado pela Res 115/94 de 10-nov, na redação da presente Resolução,
+    pelo(a) Aviso n.º 17545/2018 - Diário da República n.º 230/2018, Série II de 2018-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/17545-2018-117159945
+  date: '2018-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:18Z'
   warnings: []
   errors: []
 ---
@@ -244,24 +350,24 @@ Extratos da planta síntese do Plano de Ordenamento das Albufeiras da Régua e d
 
 Extrato da planta síntese do Plano de Ordenamento das Albufeiras da Régua e do Carrapatelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
 
 Extrato da planta de ordenamento do Plano Diretor Municipal do concelho de Alijó
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
 
 Extrato da planta de ordenamento do concelho de Carrazeda de Ansiães
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
 
 Extrato da planta de ordenamento do concelho de Mirandela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
 
 Extrato da planta de ordenamento do concelho de Murça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
 
 Extrato da planta de ordenamento do concelho de Vila Flor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24400/0712407129.pdf)

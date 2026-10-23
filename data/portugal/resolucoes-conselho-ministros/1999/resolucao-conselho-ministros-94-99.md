@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/94/1999/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/94-1999-428858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef4194be51bf914d4d80d412345021b4b2eabe3898b6bfc7e6784dc32f6be43a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8823c4ac7195d50235682ee9257d802a016b889ef24af596995291329fbe2283
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Administração Pública
+- Comércio
+- Comércio Eletrónico
+- Comércio Externo
 - Comércio Interno
-- Tecnologia da Informação
+- Definição de Competências
+- Desenvolvimento Económico
+- Documento Orientador da Iniciativa Nacional para o Comércio Electrónico
+- Empresa
+- Estatística
+- Iniciativa Nacional para o Comércio Electrónico
+- Mercado Financeiro
+- Ministro Adjunto do Primeiro-ministro
 - Ministro da Ciência e da Tecnologia
 - Ministro da Economia
-- Comércio Externo
-- Definição de Competências
-- Documento Orientador da Iniciativa Nacional para o Comércio Electrónico
-- Administração Pública
-- Ministro Adjunto do Primeiro-ministro
 - Ministro das Finanças
-- Sociedade da Informação
-- Mercado Financeiro
-- Iniciativa Nacional para o Comércio Electrónico
-- Desenvolvimento Económico
-- Estatística
 - Pequenas e Médias Empresas
 - PME
 - Setor Empresarial
 - Setor Público
-- Comércio Eletrónico
-- Comércio
+- Sociedade da Informação
+- Tecnologia da Informação
 relationships:
 - type: cites
   target: celex:31996L0009
@@ -99,13 +99,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:04Z'
   warnings: []
   errors: []
 ---
@@ -560,7 +560,7 @@ Medida 8.2 - Reforçar a cooperação com outros parceiros internacionais no sen
 
 Medida 8.3 - Apoiar as iniciativas internacionais para o desenvolvimento e a aplicação de standards globais de suporte ao comércio electrónico.
 
-## ANEXO À INICIATIVA NACIONAL PARA O COMÉRCIO ELECTRÓNICO
+ANEXO À INICIATIVA NACIONAL PARA O COMÉRCIO ELECTRÓNICO
 
 No actual momento não existem indicadores disponíveis para uma avaliação do grau de generalização do uso do comércio electrónico na economia portuguesa. Os indicadores disponíveis dizem apenas respeito ao que podemos chamar de infra-estrutura de apoio (números de hosts, servers, secure web servers, estimativas de utilizadores da Internet, etc.) e não especificamente dirigidos à mensuração da actividade em si.
 

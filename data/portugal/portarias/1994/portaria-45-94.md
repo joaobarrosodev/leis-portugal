@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/011b00/01720175.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/45/1994/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-1994-509611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:27:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95436917cb0a79afd2faee8922b7d0899061bb913ee3cc4ac8b8b26c180a4aa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8aaa223cdd9cbd1ef88521ab5a81f6fd8753da3ebb35ec78e13092f59c23e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:27:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,40 @@ reuse:
 subjects:
 - Aeronave com Motor
 - Aeronave de Voo Livre
+- Aviação Civil
 - Avião
+- Desporto
 - Formação Profissional
 - Licença de Pilotagem
-- Aviação Civil
 - Regulamento
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:218363:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:332403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571212:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218363:por
+  label: "Revogada pelo DEC LEI.238/2004.18.12.2004.MOPTC, DR.IS-A [295] de 18.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2004-218363
+  date: '2004-12-18'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:27:53Z'
   warnings: []
   errors: []
 ---
@@ -110,13 +123,13 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 11 de Junho de 1993.**
+Assinada em 11 de Junho de 1993.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
 
 Regulamento das Aeronaves Ultraleves de Desporto e Recreio
 
-# PARTE I — Tipos e requisitos técnicos das aeronaves
+## PARTE I — Tipos e requisitos técnicos das aeronaves
 
 Versões autorizadas
 
@@ -216,7 +229,7 @@ e) A montagem e desmontagem da estrutura e seus componentes deverão obedecer a 
 
 f) A construção deverá assegurar os meios e condições apropriados para fácil inspecção da estrutura primária de resistência e dos seus sistemas, bem como para cuidada observação, reparação e substituição de qualquer componente que exija manutenção, ajustamento, correcção, lubrificação e limpeza periódicos.
 
-# PARTE II — Certificado de voo
+## PARTE II — Certificado de voo
 
 Natureza e emissão do certificado
 
@@ -250,7 +263,7 @@ d) Declaração do proprietário antecedente, nos casos de aeronave já usada, a
 
 14.º Na falta ou em caso de não aceitação, total ou parcial, da documentação referida nas alíneas c) e d) do n.º 12, deverá ser feita a demonstração experimental prevista na alínea a) do n.º 10, nos termos do disposto no n.º 3 do artigo 11.º do [Decreto-Lei n.º 71/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1990-332403), de 2 de Março.
 
-# PARTE III — Licença de pilotagem
+## PARTE III — Licença de pilotagem
 
 Emissão da licença
 
@@ -308,7 +321,7 @@ Exames e verificações de voo
 
 24.º Os exames e verificações de pilotos de ultraleves são da competência da DGAC, a qual poderá delegar essa competência em instrutores de ultraleves, que, tendo demonstrado proficiência e idoneidade, expressamente designará e credenciará.
 
-# PARTE IV — Normas operacionais
+## PARTE IV — Normas operacionais
 
 Condição geral de utilização
 

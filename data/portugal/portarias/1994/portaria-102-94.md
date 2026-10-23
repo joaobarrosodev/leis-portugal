@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/102/1994/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/102-1994-522059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b593bbf0bb386cd8003899ae0bc15ed965b6e27aa4692d3aae54a478fb279fa0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d1cd9aa1b658e858148fa1692f53b7beb0c5e2c4998a0218d68c6bf8f7db8a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ subjects:
 - Microfilmagem
 - Prazo de Conservação
 - Viana do Castelo
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:15:39Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +108,11 @@ Manda o Governo, pelo Ministro da Saúde e pelo Secretário de Estado da Cultura
 
 Presidência do Conselho de Ministros e Ministério da Saúde.
 
-**Assinada em 17 de Janeiro de 1994.**
+Assinada em 17 de Janeiro de 1994.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes.
 
-## Anexo à Portaria n.º 102/94
+Anexo à Portaria n.º 102/94
 
 Regulamento Arquivístico do Hospital Distrital de Viana do Castelo
 
@@ -170,13 +174,13 @@ A tabela de selecção que consta do anexo I ao presente Regulamento deve ser su
 
 ## ANEXO I — Hospital Distrital de Viana do Castelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/034b00/06460651.pdf))](https://files.diariodarepublica.pt/1s/1994/02/034b00/06460651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/034b00/06460651.pdf)
 
 ## ANEXO II — Guia de Remessa
 
 Aos ... dias do mês de ... do ano de 19..., o serviço de ... deste Hospital Distrital transferiu para o seu arquivo definitivo a documentação que a seguir se relaciona:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/034b00/06460651.pdf))](https://files.diariodarepublica.pt/1s/1994/02/034b00/06460651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/034b00/06460651.pdf)
 
 O conjunto documental identificado incorporará o arquivo definitivo dos serviços, de harmonia com o artigo 2.º do anexo à Portaria n.º 102/94, de 10 de Fevereiro, e disposições fixadas na tabela de selecção.
 
@@ -192,7 +196,7 @@ O responsável pelo serviço emissor: ...
 
 Aos ... dias do mês de ... de ..., neste Hospital Distrital, em ... (local), na presença dos abaixo assinados, procedeu-se à inutilização, por ... (processo), de acordo com os artigos 3.º, 4.º, 5.º e 6.º do anexo à Portaria n.º 102/94, de 10 de Fevereiro, e disposições da tabela de selecção, dos documentos a seguir identificados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/034b00/06460651.pdf))](https://files.diariodarepublica.pt/1s/1994/02/034b00/06460651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/034b00/06460651.pdf)
 
 Data: ...
 

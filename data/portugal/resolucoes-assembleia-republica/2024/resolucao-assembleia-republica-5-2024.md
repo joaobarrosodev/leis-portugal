@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00700/0000900014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/5/2024/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/5-2024-836437681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bc2a1509e24846b91bbe19a42d9bcf1884f101b5a9abe977ebc55d71c3f823e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5911b89159fa4bbd14aeacbd67ea15ad04deeeb321c6ba7961c9ee2bda20e1c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Lisboa
 - Brasil
+- Convenção
+- Lisboa
+- Portugal
 - Prova
 - Testemunha
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:836437677:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 10/2024 - Diário da República n.º 7/2024, Série
+    I de 2024-01-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/10-2024-836437677
+  date: '2024-01-10'
 article_structure:
-  article_count: 20
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:55Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de novembro de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FEDERATIVA DO BRASIL EM MATÉRIA DE PROTEÇÃO DE TESTEMUNHAS
 
@@ -123,15 +129,21 @@ Tendo ainda em conta o respeito pelos princípios da soberania, da dignidade da 
 
 acordam o seguinte:
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 O presente Acordo estabelece o regime jurídico aplicável à cooperação entre as Partes em matéria de proteção de testemunhas em processo penal, em conformidade com o direito vigente aplicável.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 As Partes cooperam, em conformidade com o direito internacional aplicável, com o respetivo direito interno e com o presente Acordo, no âmbito da proteção de testemunhas em processo penal, mediante a cooperação direta entre as autoridades competentes de cada uma das Partes, tendo em conta o princípio da proporcionalidade de meios.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para efeitos do presente Acordo, considera-se:
 
@@ -147,7 +159,9 @@ e) «Programa de proteção de testemunha» o programa criado oficialmente por c
 
 f) «Agregado familiar» o cônjuge ou a pessoa que com a testemunha viva em condições análogas às dos cônjuges, seus descendentes, bem como outros parentes, consanguíneos ou afins, que coabitem ou que tenham convivência habitual com a testemunha.
 
-###### Artigo 4.º — Autoridades competentes
+Artigo 4.º
+
+Autoridades competentes
 
 As autoridades competentes responsáveis pela aplicação do presente Acordo são:
 
@@ -155,7 +169,9 @@ a) Pela República Portuguesa: a Comissão de Programas Especiais de Segurança,
 
 b) Pela República Federativa do Brasil: o Ministro de Estado dos Direitos Humanos e da Cidadania.
 
-###### Artigo 5.º — Pedido para recolocação internacional
+Artigo 5.º
+
+Pedido para recolocação internacional
 
 1 - O pedido para a recolocação internacional de testemunha é apresentado por escrito e contém:
 
@@ -191,7 +207,9 @@ f) Termo de consentimento, assinado de forma livre e consciente pela pessoa indi
 
 4 - O pedido tem natureza confidencial e é remetido à Parte requerida com observância das adequadas regras de segurança na transmissão de documentos.
 
-###### Artigo 6.º — Obrigações da Parte requerida
+Artigo 6.º
+
+Obrigações da Parte requerida
 
 1 - A Parte requerida assegura a proteção da testemunha, garantindo igual proteção e tratamento ao conferido aos seus nacionais nos termos do direito interno em vigor e acorda com aquela as regras de comportamento, informando-a de que a sua inobservância dolosa implicará o termo da proteção.
 
@@ -201,13 +219,17 @@ f) Termo de consentimento, assinado de forma livre e consciente pela pessoa indi
 
 4 - O relatório referido no número anterior contém, no mínimo, informação sobre a adaptação da testemunha, considerando os aspetos sociais, psicológicos, económicos e, em particular, às exigências do programa no que se refere à segurança e às regras de comportamento.
 
-###### Artigo 7.º — Recusa do pedido
+Artigo 7.º
+
+Recusa do pedido
 
 1 - O pedido para a recolocação internacional de testemunha pode ser recusado sempre que a Parte requerida considerar que o seu cumprimento pode causar prejuízo à segurança ou à ordem pública do Estado ou que é contrário ao seu direito interno ou aos interesses fundamentais do Estado.
 
 2 - A Parte requerente é notificada, por escrito e em tempo oportuno, dos motivos da recusa do pedido.
 
-###### Artigo 8.º — Duração da recolocação internacional
+Artigo 8.º
+
+Duração da recolocação internacional
 
 1 - A recolocação internacional de testemunha tem natureza excecional e uma duração definida de até três anos, podendo essa duração ser prorrogada através de novo pedido a ser submetido pela Parte requerente à Parte requerida.
 
@@ -215,19 +237,25 @@ f) Termo de consentimento, assinado de forma livre e consciente pela pessoa indi
 
 3 - No final do prazo de duração da colocação da testemunha no território da Parte requerida, a Parte requerente tomará todas as medidas necessárias à sua remoção do território de recolocação, tendo em vista o seu repatriamento ou uma nova recolocação em Estado terceiro.
 
-###### Artigo 9.º — Confidencialidade do pedido
+Artigo 9.º
+
+Confidencialidade do pedido
 
 1 - A Parte requerida mantém a confidencialidade do pedido, do seu conteúdo e dos documentos de apoio que o acompanhem.
 
 2 - A Parte requerente não utilizará para fins diferentes dos constantes do pedido as informações e demais elementos obtidos em resultado deste sem prévio consentimento da Parte requerida.
 
-###### Artigo 10.º — Despesas
+Artigo 10.º
+
+Despesas
 
 1 - A Parte requerente suporta todas as despesas resultantes da recolocação de testemunha e do seu agregado familiar, nomeadamente as despesas de transporte, habitação, assistência médica pública e subsídio de subsistência.
 
 2 - A Parte requerida suporta as despesas relativas ao transporte no seu território, bem como as relativas à proteção e segurança da testemunha e do seu agregado familiar.
 
-###### Artigo 11.º — Outras modalidades de cooperação
+Artigo 11.º
+
+Outras modalidades de cooperação
 
 A cooperação entre as Partes implementar-se-á, nomeadamente:
 
@@ -237,7 +265,9 @@ b) Pelo intercâmbio de experiências e de especialistas, incluindo ações de f
 
 c) Pela troca de legislação, de literatura e de dados científicos e técnicos sobre as funções das autoridades competentes em matéria de proteção de testemunhas.
 
-###### Artigo 12.º — Informações confidenciais, documentos e dados pessoais
+Artigo 12.º
+
+Informações confidenciais, documentos e dados pessoais
 
 1 - As Partes assegurarão a confidencialidade da informação, dos documentos e dos dados de natureza pessoal recebidos, por escrito ou verbalmente, que visem alcançar a finalidade do presente Acordo, com base no disposto no presente Acordo, no direito internacional e no direito interno aplicável.
 
@@ -247,7 +277,9 @@ c) Pela troca de legislação, de literatura e de dados científicos e técnicos
 
 4 - As Partes comprometem-se a adotar todas as medidas de segurança da informação, nomeadamente contra o acesso indevido ou não autorizado aos dados de natureza pessoal, sendo responsáveis em caso de transmissão incorreta ou não autorizada dos referidos dados.
 
-###### Artigo 13.º — Utilização e transferência de dados pessoais
+Artigo 13.º
+
+Utilização e transferência de dados pessoais
 
 1 - Nos termos do direito internacional e do direito interno aplicável, os dados pessoais utilizados e transferidos no âmbito do presente Acordo devem:
 
@@ -263,29 +295,41 @@ d) Ser conservados de forma a permitir a identificação das pessoas em causa ap
 
 3 - A verificação do incumprimento do disposto nos números anteriores é da responsabilidade de uma entidade independente que seja competente, em cada uma das Partes, pelas regras de proteção de dados pessoais.
 
-###### Artigo 14.º — Consultas
+Artigo 14.º
+
+Consultas
 
 As autoridades competentes de ambas as Partes efetuarão consultas regulares para avaliar o grau de cumprimento do presente Acordo.
 
-###### Artigo 15.º — Relação com outras convenções internacionais
+Artigo 15.º
+
+Relação com outras convenções internacionais
 
 As disposições do presente Acordo não prejudicam os direitos e obrigações decorrentes de outras convenções internacionais, nas quais ambas as Partes sejam parte.
 
-###### Artigo 16.º — Entrada em vigor
+Artigo 16.º
+
+Entrada em vigor
 
 O presente Acordo entrará em vigor 30 dias após a data da receção da segunda notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos de direito interno das Partes necessários para o efeito.
 
-###### Artigo 17.º — Solução de controvérsias
+Artigo 17.º
+
+Solução de controvérsias
 
 Qualquer controvérsia relativa à interpretação ou à aplicação do presente Acordo será solucionada através de negociação, por via diplomática.
 
-###### Artigo 18.º — Revisão
+Artigo 18.º
+
+Revisão
 
 1 - O presente Acordo poderá ser objeto de revisão a pedido de qualquer das Partes.
 
 2 - As emendas entrarão em vigor nos termos previstos no artigo 16.º do presente Acordo.
 
-###### Artigo 19.º — Vigência e denúncia
+Artigo 19.º
+
+Vigência e denúncia
 
 1 - O presente Acordo permanecerá em vigor por tempo indeterminado.
 
@@ -293,7 +337,9 @@ Qualquer controvérsia relativa à interpretação ou à aplicação do presente
 
 3 - A denúncia será notificada por escrito e por via diplomática, produzindo efeitos 180 dias após a data de receção da respetiva notificação.
 
-###### Artigo 20.º — Registo
+Artigo 20.º
+
+Registo
 
 Após a sua entrada em vigor, a Parte em cujo território o presente Acordo for assinado submetê-lo-á, o mais rapidamente possível, para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas. A outra Parte será notificada do cumprimento deste procedimento e do número de registo que lhe foi atribuído.
 
@@ -306,3 +352,5 @@ João Gomes Cravinho, Ministro dos Negócios Estrangeiros.
 Pela República Federativa do Brasil:
 
 Silvio Luiz de Almeida, Ministro de Estado dos Direitos Humanos e da Cidadania.
+
+117178613

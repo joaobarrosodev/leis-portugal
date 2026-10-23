@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/96/1996/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/96-1996-427394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cb93567dee68d4458df2aa82fe0e1e2b7f22fda90dbc4713d891f9b0932b215
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53a1526a34001d209b420361fd367080c2d65c29e945f240f077943b0ff8ebb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 - Sertã
 relationships:
+- type: amended_by
+  target: pt:dre:119486726:por
+  label: Alterada a delimitação da reserva ecológica nacional do município da Sertã, aprovada pelo presente diploma, com a
+    correção material publicada pelo Desp 7150/2017 de 16-ago, pelo(a) Aviso n.º 2473/2019 - Diário da República n.º 31/2019,
+    Série II de 2019-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2473-2019-119486726
+  date: '2019-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -79,16 +86,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:108007980:por
+  label: Determinada, com efeitos a 17.08.2017, a correção material da carta da Reserva Ecológica Nacional do município da
+    Sertã, aprovada pelo presente diploma, pelo(a) Despacho n.º 7150/2017 - Diário da República n.º 157/2017, Série II de
+    2017-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/7150-2017-108007980
+  date: '2017-08-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:21Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +143,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 5 de Junho de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/146b00/16181620.pdf))](https://files.diariodarepublica.pt/1s/1996/06/146b00/16181620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/146b00/16181620.pdf)

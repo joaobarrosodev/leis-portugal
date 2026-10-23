@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/060b00/12381251.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/145/1994/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/145-1994-274261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1adc9792caf5892b1c2749b353cdfa6e6a328ede7c4851109ea1992925918bf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3be9486c54518b4c436b725610d7412616213dc22bac0d3d12a40f4184a8e15c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CEE
+- Certificado de Qualidade
 - Controlo de Qualidade
-- Marca
-- Segurança no Trabalho
 - Fabrico Industrial
 - Indústria Mecânica
-- Máquina-Ferramenta
-- Certificado de Qualidade
-- Normas de Segurança
 - Informação do Consumidor
+- Máquina-Ferramenta
+- Marca
+- Normas de Segurança
 - Proteção do Consumidor
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:577359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416867:por
+  label: "Alterados os anexos I, II, III, IV e V pela PORT.280/96.22.07.1996.MECO, DR.IS-B [168] de 22.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-1996-416867
+  date: '1996-07-22'
 - type: cites
   target: celex:31989L0392
   label: null
   source: http://data.europa.eu/eli/dir/1989/392/oj
+- type: repealed_by
+  target: pt:dre:577359:por
+  label: "Revogada pelo DEC LEI.320/2001.2001.12.12.MECO DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-2001-577359
+  date: '2001-12-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:25Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +122,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, ao abrigo do artigo 3.º
 
 Ministério da Indústria e Energia.
 
-**Assinada em 7 de Janeiro de 1994.**
+Assinada em 7 de Janeiro de 1994.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO I — Exigências essenciais de segurança e de saúde relativas à concepção e ao fabrico de máquinas
 
@@ -1354,7 +1364,7 @@ Essa documentação não tem de incluir os desenhos de pormenor e outras informa
 
 ## ANEXO III — Marca CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/060b00/12381251.pdf))](https://files.diariodarepublica.pt/1s/1994/03/060b00/12381251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/060b00/12381251.pdf)
 
 Os diferentes elementos da marca CE devem ter sensivelmente a mesma dimensão vertical, que não pode ser inferior a 5 mm.
 

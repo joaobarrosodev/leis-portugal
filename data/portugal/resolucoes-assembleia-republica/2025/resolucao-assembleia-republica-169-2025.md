@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/169/2025/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/169-2025-942401302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f71747b7841f9a2f162f70b0bbccf82d580fa4c6e82fa47d7e032e5b55df6ec2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6d03a4987057f4cdae17447ef9bc5790de8023a1a246f6986929901a3e3991d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
 subjects:
 - África do Sul
 - Convenção
-- Política de Cooperação
-- Portugal
-- Política de Defesa
-- Pretória
 - Cooperação Militar
-relationships: []
+- Política de Cooperação
+- Política de Defesa
+- Portugal
+- Pretória
+relationships:
+- type: amended_by
+  target: pt:dre:942401297:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 103/2025 - Diário da República n.º 207/2025, Série
+    I de 2025-10-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/103-2025-942401297
+  date: '2025-10-27'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:50Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 30 de setembro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar-Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar-Branco.
 
 Acordo entre a República Portuguesa e a República da África do Sul sobre Cooperação no Domínio da Defesa
 
@@ -258,11 +264,13 @@ Feito em Pretoria, no dia 6 de junho de 2023.
 
 Pela República Portuguesa:
 
-![](https://files.diariodarepublica.pt/images/942401302/942404066.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/942401302/942404066.png) |
+| --- |
 
 Pela República da África do Sul:
 
-![](https://files.diariodarepublica.pt/images/942401302/942404067.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/942401302/942404067.png) |
+| --- |
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF SOUTH AFRICA ON DEFENCE COOPERATION PREAMBLE
 
@@ -456,8 +464,12 @@ Done at Pretoria, on 6th of June 2023.
 
 For the Portuguese Republic:
 
-![](https://files.diariodarepublica.pt/images/942401302/942404068.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/942401302/942404068.png) |
+| --- |
 
 For the Republic of South Africa:
 
-![](https://files.diariodarepublica.pt/images/942401302/942404069.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/942401302/942404069.png) |
+| --- |
+
+119664577

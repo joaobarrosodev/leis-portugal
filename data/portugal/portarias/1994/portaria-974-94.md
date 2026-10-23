@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/974/1994/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/974-1994-621124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c2dcc67a9249dae8ba9f31b8a27a91099b8c058ebd32a172a169131973aaab3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55ac465026c25c3aea46d6251a292e89013036a8486eccd3bc59aa44c3ecc452
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Coimbra
-- Quadro de Pessoal
 - Estabelecimento Hospitalar
+- Quadro de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
@@ -97,16 +97,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/858/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/858/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:152139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:45Z'
   warnings: []
   errors: []
 ---
@@ -141,6 +209,6 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 28 de Setembro de 1994.**
+Assinada em 28 de Setembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.

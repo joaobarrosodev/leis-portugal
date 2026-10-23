@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/18/2001/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2001-387575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed0f92c414f849fd0dcaeea60e9d7b108bc0c00527d7a23a999e64c0c3a06413
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2a6c32c4e23796e0cfb1e7651f2336b34e1ba306c619a45062653e78d365b6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ subjects:
 - Conflito de Consumo
 - Definição de Competências
 - Direcção Geral da Administração Extrajudicial
-- União Europeia
-- Ministério da Justiça
-- Instituto do Consumidor
 - Informação do Consumidor
+- Instituto do Consumidor
+- Ministério da Justiça
+- Ministro da Presidência
 - Proteção do Consumidor
 - Representante do Estado
-- Ministro da Presidência
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/1998/257/oj
@@ -86,13 +86,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:52Z'
   warnings: []
   errors: []
 ---

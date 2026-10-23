@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/162/2008/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2008-438714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd86cf10df1871f1e85d78f2b575fdd576acf91dc6ceea91fbda5d9f4f30f0da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40ddb851f631fc8f2af38afaf8a9fbd725757700b970a2e0bd5cac63fc7dcb30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho de Coordenação de Gestão Patrimonial
-- Obras de Conservação e Restauro
-- Direção Geral do Tesouro e Finanças
 - BENS Imóveis do Estado
+- Conselho de Coordenação de Gestão Patrimonial
+- Direção Geral do Tesouro e Finanças
 - Gestão do Património
+- Inventário
+- Obras de Conservação e Restauro
 - Património do Estado
 - Programa de Gestão do Património Imobiliário Público
-- Inventário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/1/2006/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1/2006/01/02/p/dre
+- type: cites
+  target: pt:dre:202671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:59Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +172,7 @@ O RIAP permitiu, assim, a obtenção de informação mais detalhada sobre a situ
 
 Paralelamente, foi a informação contida no RIAP de extrema importância na preparação das operações de alienação de imóveis levadas a cabo no decurso dos exercícios de 2006, 2007 e do presente exercício, incidindo a sua maioria sobre imóveis vagos ou excedentários. As alienações levadas a cabo até ao momento podem caracterizar-se nos termos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/20700/0751907523.pdf))](https://files.diariodarepublica.pt/1s/2008/10/20700/0751907523.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20700/0751907523.pdf)
 
 II - Programa de Gestão do Património Imobiliário do Estado (PGPI)
 
@@ -250,7 +258,7 @@ O referido programa conterá igualmente a calendarização detalhada das acçõe
 
 b) Entrará em funcionamento o sistema electrónico de reporte de informação e de gestão do património do Estado, tendo em vista garantir a cobertura integral do âmbito da inventariação até ao final de 2012, nos termos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/20700/0751907523.pdf))](https://files.diariodarepublica.pt/1s/2008/10/20700/0751907523.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20700/0751907523.pdf)
 
 2 - Regularização jurídica dos imóveis:
 
@@ -258,7 +266,7 @@ b) Entrará em funcionamento o sistema electrónico de reporte de informação e
 
 2.2 - Acções. - O Ministério das Finanças e da Administração Pública procederá ao acompanhamento e controlo do processo de regularização matricial e registral dos imóveis do Estado, a implementar em todos os ministérios através dos instrumentos jurídicos adequados, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/20700/0751907523.pdf))](https://files.diariodarepublica.pt/1s/2008/10/20700/0751907523.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20700/0751907523.pdf)
 
 O Ministério das Finanças e da Administração Pública procederá ainda, anualmente, à regularização documental e à actualização das cedências e afectações de imóveis do Estado, no âmbito do programa global de ocupação previsto no n.º ii, alínea B), n.º 4.
 

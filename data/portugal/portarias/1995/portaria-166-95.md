@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/166/1995/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-1995-196948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc15f8a88a091ad319575a57d2aabd73766510916cfca16478a0a908dd267848
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f60352604b19316d686889866902106e009a374ec30186cc71e015fe1c461b9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
-- Financiamento
 - Cidadão Estrangeiro
 - Direcção Geral do Tesouro
 - Dívida Pública
+- Financiamento
+- IRC
 - IRS
-- Junta de Crédito Público
 - Isenção Fiscal
+- Junta de Crédito Público
 - Mercado de Capitais
 - Mercado Financeiro
-- Orçamento Geral do Estado
-- IRC
-- TAXA de JURO
 - Obrigações do Tesouro
+- Orçamento Geral do Estado
+- TAXA de JURO
+- Valores Mobiliários
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/88/1994/04/02/p/dre
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/1-e/1995/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1-e/1995/01/11/p/dre
+- type: cites
+  target: pt:dre:258157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:05Z'
   warnings: []
   errors: []
 ---
@@ -129,6 +149,6 @@ Nos termos do n.º 3 do artigo 1.º do referido decreto-lei, manda o Governo, pe
 
 Ministério das Finanças.
 
-**Assinada em 7 de Fevereiro de 1995.**
+Assinada em 7 de Fevereiro de 1995.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga.**
+O Ministro das Finanças, Eduardo de Almeida Catroga.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/182/2008/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/182-2008-440077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f364d5654181f1e923f04522e9c6a4870db26429c2fa31db8ed6fd1905856fb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbf53be2e349ad0dbe89a0395109faeecdaf29c2d37f87e5d7af221b3231c952
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcácer do SAL
-- Ordenamento do Território
 - Contra-ordenação
-- Protecção do Litoral
 - Grândola
-- Palmela
-- Proteção do Ambiente
-- Setúbal
-- Política de Solos
 - Instituto da Conservação da Natureza e da Biodiversidade
+- Ordenamento do Território
+- Palmela
+- Política de Solos
+- Proteção do Ambiente
+- Protecção do Litoral
 - Regulamento
+- Setúbal
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -87,14 +87,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1992/43/oj
 article_structure:
   article_count: 44
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:18Z'
   warnings: []
   errors: []
 ---
@@ -525,7 +525,7 @@ g) A funcionários ou comissários do ICNB, I. P.
 
 ##### SUBSECÇÃO II — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo i
 
@@ -569,7 +569,7 @@ g) A realização de competições desportivas não motorizadas.
 
 4 - Sem prejuízo do disposto no artigo 9.º do presente Regulamento, nas áreas de protecção parcial do tipo i ficam sujeitas a parecer vinculativo do ICNB, I. P., a instalação de infra-estruturas de produção, distribuição e transporte de energia eléctrica, de telecomunicações, de transporte de gás natural, de abastecimento e saneamento básico e de visitação vocacionadas para a observação de avifauna e interpretação ambiental.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo ii
 
@@ -609,7 +609,7 @@ e) A conversão de salinas em culturas marinhas.
 
 ##### SUBSECÇÃO III — Áreas de protecção complementar
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção complementar do tipo i
 
@@ -643,7 +643,7 @@ c) As obras de construção de edificações de apoio às actividades aquícolas
 
 d) As obras de reconstrução, ampliação e alteração das edificações existentes.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção complementar do tipo ii
 
@@ -1131,4 +1131,4 @@ A fiscalização do cumprimento do presente plano compete ao ICNB, I. P., e às 
 
 O PORNES entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22800/0842808444.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22800/0842808444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22800/0842808444.pdf)

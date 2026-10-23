@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/633/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-1994-298829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b138010015a45ed5c00956d29907f8396461f417031575922b32ce8cfdf0d2d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd92a56332b65c98b3eb7054045af5288abe1a86cf23d754bfafaa92978f3849
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,34 @@ relationships:
   target: pt:dre:438719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157451:por
+  label: "Renovada a concessão da zona de caça associativa pela Port 254-BZ/96.1996.07.15.MADRP, DR.IS-B [162]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-bz-1996-157451
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:355155:por
+  label: "Anexado um prédio rústico à zona de caça associativa pela PORT.374/2001.2001.04.10.MADRP DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/374-2001-355155
+  date: '2001-04-10'
+- type: amended_by
+  target: pt:dre:673208:por
+  label: "Suspenso o exercício da caça na zona concessionada pelo presente diploma, na redacção da Port 254-BZ/96, de 15-Jul\
+    \ e da Port 374/2001, de 10-Abr, pela PORT.545-I/2002.2002.05.29.MADRP, DR.IS-B [124]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/545-i-2002-673208
+  date: '2002-05-29'
+- type: amended_by
+  target: pt:dre:434403:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.1400/2002.2002.10.28.MADRP, DR.IS-B [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1400-2002-434403
+  date: '2002-10-28'
+- type: amended_by
+  target: pt:dre:438719:por
+  label: "Anexados vários prédios rústicos e renovada, por um período de seis anos, a zona de caça concessionada pelo presente\
+    \ diploma, alterada pela Port 254-BZ/96, de 15-Jul, pela Port 374/2001, de 10-Abr e pela Port 1400/2002, de 28-Out, pela\
+    \ PORT.1221/2008.24.10.2008.MAOTDR, DR.IS [207] de 24.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1221-2008-438719
+  date: '2008-10-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:17Z'
   warnings: []
   errors: []
 ---
@@ -132,8 +184,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 4 de Julho de 1994.**
+Assinada em 4 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b00/38443844.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b00/38443844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b00/38443844.pdf)

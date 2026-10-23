@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1077/1995/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1077-1995-546845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52a9881adeb60e3962686a666f1a5817ce3b434c35a666e0fd971a9d1b588606
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdbc14176f667796402d863c47d440ead6b38111396261eea14e4fb16b9ff680
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
-- Doença Animal
 - CEE
 - Certificado de Origem
-- Proteção dos Animais
+- Comércio
 - Controlo Sanitário
+- Doença Animal
 - Exploração Pecuária
 - Fiscalização
+- GADO
 - Importação
-- Reprodução Animal
 - Legislação Veterinária
-- País Estrangeiro
-- Regulamento
 - Material Biológico
-- Comércio
+- País Estrangeiro
+- Proteção dos Animais
+- Regulamento
+- Reprodução Animal
 - Troca Intracomunitária
 - Vacinação
 relationships:
@@ -88,6 +88,13 @@ relationships:
   target: pt:dre:670027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671385:por
+  label: "Alterados os arts 1º e 6º, o anexo E e aditado os anexos F e G, todos do Regulamento das Condições de Polícia Sanitária\
+    \ que Regem o Comércio e as Importações de Animais, Sémens, Óvulos e Alguns Embriões, aprovado pelo presente diploma,\
+    \ pelo DEC LEI.73/2006.24.03.2006.MADRP, DR.IS-A [60] de 24.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2006-671385
+  date: '2006-03-24'
 - type: cites
   target: celex:31964L0432
   label: null
@@ -124,16 +131,26 @@ relationships:
   target: celex:31992L0065
   label: null
   source: http://data.europa.eu/eli/dir/1992/65/oj
+- type: repealed_by
+  target: pt:dre:430392:por
+  label: "Revogados os cap. I e II do anexo D pela PORT.455/98.1998.07.29.MADRP, DR.IS-B [173]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-1998-430392
+  date: '1998-07-29'
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogada, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:16Z'
   warnings: []
   errors: []
 ---
@@ -150,23 +167,23 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, ao abr
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 10 de Agosto de 1995.**
+Assinada em 10 de Agosto de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
 
-## ANEXO A QUE SE REFERE A PORTARIA N.º 1077/95
+ANEXO A QUE SE REFERE A PORTARIA N.º 1077/95
 
 Regulamento das Condições de Polícia Sanitária Que Regem o Comércio e as Importações de Animais, Sémens, Óvulos e Embriões não Sujeitos, no Que Se Refere às Condições de Polícia Sanitária, às Regulamentações Específicas Referidas na Secção I do Anexo A da Portaria n.º 575/93, de 4 de Junho.
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - O presente Regulamento define as condições de polícia sanitária que regem o comércio e as importações de animais, sémens, óvulos e embriões não sujeitos, no que se refere às condições de polícia sanitária, às regulamentações específicas referidas na secção I do anexo A da Portaria n.º 575/93, de 4 de Junho.
+Artigo 1.º - 1 - O presente Regulamento define as condições de polícia sanitária que regem o comércio e as importações de animais, sémens, óvulos e embriões não sujeitos, no que se refere às condições de polícia sanitária, às regulamentações específicas referidas na secção I do anexo A da Portaria n.º 575/93, de 4 de Junho.
 
 2 - O presente Regulamento é aplicável sem prejuízo das disposições adoptadas no âmbito do Regulamento (CEE) n.º [3626/82](http://data.europa.eu/eli/reg/1982/3626/oj?locale=pt), do Conselho, de 3 de Dezembro.
 
 3 - O presente Regulamento não afecta as regras aplicáveis aos animais de estimação, sem prejuízo da supressão dos controlos veterinários nas fronteiras entre os Estados membros.
 
-###### Art. 2.º - 1 - Para efeitos do presente Regulamento, entende-se por:
+Art. 2.º - 1 - Para efeitos do presente Regulamento, entende-se por:
 
 a) Comércio: o comércio tal como definido na alínea c) do artigo 2.º do anexo a que se refere a Portaria n.º 575/93, de 4 de Junho;
 
@@ -186,9 +203,9 @@ d) Doenças de declaração obrigatória: as doenças referidas no anexo A ao pr
 
 ### CAPÍTULO II — Disposições aplicáveis ao comércio
 
-###### Art. 3.º O comércio a que se refere o n.º 1 do artigo 1.º apenas pode ser proibido ou restringido por motivos de polícia sanitária resultantes da aplicação do presente Regulamento ou de medidas de salvaguarda eventualmente tomadas.
+Art. 3.º O comércio a que se refere o n.º 1 do artigo 1.º apenas pode ser proibido ou restringido por motivos de polícia sanitária resultantes da aplicação do presente Regulamento ou de medidas de salvaguarda eventualmente tomadas.
 
-###### Art. 4.º Para efeitos de aplicação do n.º 1 do artigo 4.º da Portaria n.º 575/93, de 4 de Junho, os animais referidos nos artigos 5.º a 10.º do presente Regulamento só podem ser objecto de comércio, sem prejuízo do artigo 13.º, se satisfizerem as condições previstas nos artigos 5.º a 10.º e se forem provenientes de explorações ou estabelecimentos comerciais referidos nos n.os 1 a 3 do artigo 12.º do presente Regulamento que se encontrem registados junto da autoridade competente e que se comprometam:
+Art. 4.º Para efeitos de aplicação do n.º 1 do artigo 4.º da Portaria n.º 575/93, de 4 de Junho, os animais referidos nos artigos 5.º a 10.º do presente Regulamento só podem ser objecto de comércio, sem prejuízo do artigo 13.º, se satisfizerem as condições previstas nos artigos 5.º a 10.º e se forem provenientes de explorações ou estabelecimentos comerciais referidos nos n.os 1 a 3 do artigo 12.º do presente Regulamento que se encontrem registados junto da autoridade competente e que se comprometam:
 
 a) A mandar examinar regularmente os animais detidos, nos termos do n.º 6 do artigo 3.º da Portaria n.º 575/93, de 4 de Junho;
 
@@ -200,11 +217,11 @@ d) A só colocar no mercado, para efeitos de comércio, os animais que não apre
 
 e) A respeitar as exigências destinadas a assegurar o bem-estar dos animais detidos.
 
-###### Art. 5.º - 1 - Os macacos (Simiae e Prosimiae) apenas serão objecto de comércio a partir de e com destino a organismos, institutos ou centros oficialmente aprovados pela autoridade competente nos termos do artigo 13.º, devendo ser acompanhados de um certificado veterinário de acordo com o modelo constante do anexo E ao presente Regulamento, do qual faz parte integrante, cuja declaração deve ser preenchida pelo veterinário oficial do organismo, instituto ou centro de origem, a fim de garantir o estado sanitário dos animais.
+Art. 5.º - 1 - Os macacos (Simiae e Prosimiae) apenas serão objecto de comércio a partir de e com destino a organismos, institutos ou centros oficialmente aprovados pela autoridade competente nos termos do artigo 13.º, devendo ser acompanhados de um certificado veterinário de acordo com o modelo constante do anexo E ao presente Regulamento, do qual faz parte integrante, cuja declaração deve ser preenchida pelo veterinário oficial do organismo, instituto ou centro de origem, a fim de garantir o estado sanitário dos animais.
 
 2 - Em derrogação do n.º 1, a autoridade sanitária veterinária pode autorizar um organismo, instituto ou centro aprovado a adquirir macacos pertencentes a particulares.
 
-###### Art. 6.º Sem prejuízo do artigo 14.º, os ungulados das espécies não referidas nas Portarias n.os 467/90, de 22 de Junho, e 331/93, de 20 de Março, e na Directiva n.º [91/68/CEE](http://data.europa.eu/eli/dir/1991/68/oj?locale=pt), do Conselho, de 28 de Janeiro, só podem ser objecto de comércio se satisfizerem as seguintes exigências:
+Art. 6.º Sem prejuízo do artigo 14.º, os ungulados das espécies não referidas nas Portarias n.os 467/90, de 22 de Junho, e 331/93, de 20 de Março, e na Directiva n.º [91/68/CEE](http://data.europa.eu/eli/dir/1991/68/oj?locale=pt), do Conselho, de 28 de Janeiro, só podem ser objecto de comércio se satisfizerem as seguintes exigências:
 
 a) De um modo geral:
 
@@ -252,7 +269,7 @@ iii) Serem provenientes de um efectivo indemne de brucelose, em conformidade com
 
 iv) Se não forem provenientes de um efectivo que satisfaça as condições previstas na subalínea iii), terem sido submetidos, nos últimos 30 dias antes da expedição e com resultado negativo, a um teste destinado a comprovar a ausência de anticorpos contra a brucelose.
 
-###### Art. 7.º As aves não referidas na Portaria n.º 231/93, de 27 de Fevereiro, só podem ser objecto de comércio se satisfizerem as seguintes exigências:
+Art. 7.º As aves não referidas na Portaria n.º 231/93, de 27 de Fevereiro, só podem ser objecto de comércio se satisfizerem as seguintes exigências:
 
 a) De um modo geral:
 
@@ -270,13 +287,13 @@ ii) Estarem identificados nos termos da alínea b) do n.º 1 do artigo 3.º da P
 
 iii) Serem acompanhados de um documento comercial visado por um veterinário oficial ou pelo veterinário responsável pela exploração ou pelo estabelecimento de origem e em quem a autoridade competente tenha delegado essas funções.
 
-###### Art. 8.º As abelhas (Apis melifera) só podem ser objecto de comércio se satisfizerem as seguintes exigências:
+Art. 8.º As abelhas (Apis melifera) só podem ser objecto de comércio se satisfizerem as seguintes exigências:
 
 a) Serem provenientes de uma zona que não seja objecto de qualquer proibição ligada ao aparecimento de loque americana, sendo o período de proibição de, pelo menos, 30 dias a contar do último caso verificado e da data em que todas as colmeias situadas num raio de 3 km tiverem sido controladas pela autoridade competente e todas as colmeias infectadas tiverem sido queimadas ou tratadas e controladas nos termos determinados pela autoridade competente;
 
 b) Serem acompanhadas de um certificado sanitário de acordo com o modelo constante do anexo E, cuja declaração deverá ser preenchida pela autoridade competente, que atestará o cumprimento das exigências previstas na alínea a).
 
-###### Art. 9.º - 1 - Os lagomorfos só podem ser objecto de comércio se satisfizerem as seguintes exigências:
+Art. 9.º - 1 - Os lagomorfos só podem ser objecto de comércio se satisfizerem as seguintes exigências:
 
 a) Não serem provenientes ou não terem estado em contacto com animais de uma exploração em que tenha surgido ou tenha sido presumida a presença de raiva no decurso do último mês;
 
@@ -288,7 +305,7 @@ Eu, abaixo assinado, ..., certifico que o lote acima mencionado respeita as exig
 
 3 - A declaração referida no número anterior deve ser passada pelo veterinário oficial ou pelo veterinário responsável pela exploração de origem e em quem a autoridade competente tenha delegado essas funções e, no que se refere às explorações de criação industriais, pelo veterinário oficial.
 
-###### Art. 10.º - 1 - É proibido o comércio de furões, visões e raposas provenientes de uma exploração, ou que tenham estado em contacto com animais de uma exploração, onde tenham surgido ou se presuma que surgiram casos de raiva nos últimos seis meses, caso os animais não sejam submetidos a uma vacinação sistemática.
+Art. 10.º - 1 - É proibido o comércio de furões, visões e raposas provenientes de uma exploração, ou que tenham estado em contacto com animais de uma exploração, onde tenham surgido ou se presuma que surgiram casos de raiva nos últimos seis meses, caso os animais não sejam submetidos a uma vacinação sistemática.
 
 2 - Para serem objecto de comércio, com excepção do comércio entre os Estados membros referidos no n.º 3, os gatos e os cães devem satisfazer as seguintes exigências:
 
@@ -344,7 +361,7 @@ iii) Além disso, ter sido submetidos, após uma das vacinações, a um teste se
 
 iv) Ou, no caso de não terem sido satisfeitas as condições previstas na subalínea i), ser dirigidos sob controlo para um centro de quarentena aprovado pelo Estado membro de destino, para aí serem submetidos a uma quarentena de seis meses.
 
-###### Art. 11.º - 1 - Os sémens, óvulos e embriões que sejam objecto de comércio devem satisfazer as condições referidas nos n.os 2 e 3.
+Art. 11.º - 1 - Os sémens, óvulos e embriões que sejam objecto de comércio devem satisfazer as condições referidas nos n.os 2 e 3.
 
 2 - Sem prejuízo de eventuais critérios a respeitar para a inscrição de equídeos nos livros genealógicos no que se refere a certas raças específicas, os sémens das espécies ovina, caprina e equina devem:
 
@@ -366,7 +383,7 @@ c) Ser acompanhados, quando da expedição para outro Estado membro, de um certi
 
 d) Os sémens utilizados na inseminação de fêmeas dadoras devem obedecer às disposições do n.º 2, no que se refere aos ovinos, caprinos e equídeos, e às disposições da Portaria n.º 1124/92, de 9 de Dezembro, no que se refere aos suínos.
 
-###### Art. 12.º - 1 - As regras de controlo previstas na Portaria n.º 575/93, de 4 de Junho, são aplicáveis nomeadamente no tocante à organização e ao seguimento a dar aos controlos a efectuar nos animais e sémens, óvulos e embriões referidos na presente portaria que sejam acompanhados de um certificado sanitário.
+Art. 12.º - 1 - As regras de controlo previstas na Portaria n.º 575/93, de 4 de Junho, são aplicáveis nomeadamente no tocante à organização e ao seguimento a dar aos controlos a efectuar nos animais e sémens, óvulos e embriões referidos na presente portaria que sejam acompanhados de um certificado sanitário.
 
 2 - Os animais que não se encontrem abrangidos pelo disposto no número anterior devem ser provenientes de explorações que estejam sujeitas aos princípios da Portaria n.º 575/93, de 4 de Junho, no que respeita aos controlos a efectuar na origem e no destino.
 
@@ -378,7 +395,7 @@ d) Os sémens utilizados na inseminação de fêmeas dadoras devem obedecer às 
 
 6 - Sem prejuízo das disposições específicas do presente Regulamento, a autoridade competente deve proceder a todos os controlos que considerar adequados caso suspeite do seu não cumprimento ou hajam dúvidas quanto à saúde dos animais ou à qualidade dos sémens, óvulos e embriões referidos no artigo 1.º
 
-###### Art. 13.º - 1 - O comércio de animais das espécies sensíveis às doenças referidas no anexo A, ou às doenças referidas no anexo B, no caso de estar em curso um programa previsto no artigo 14.º, bem como o comércio de sémen, óvulos ou embriões desses animais, a partir de e com destino a organismos, institutos ou centros aprovados nos termos do anexo C ao presente Regulamento, do qual faz parte integrante, deve ser subordinado à apresentação de um documento de transporte de acordo com o modelo constante do anexo E, o qual deve ser preenchido pelo veterinário responsável pelo organismo, instituto ou centro de origem, devendo especificar que os animais, sémens, óvulos ou embriões provêm de um organismo, instituto ou centro aprovado em conformidade com o anexo C e acompanhá-los durante o transporte.
+Art. 13.º - 1 - O comércio de animais das espécies sensíveis às doenças referidas no anexo A, ou às doenças referidas no anexo B, no caso de estar em curso um programa previsto no artigo 14.º, bem como o comércio de sémen, óvulos ou embriões desses animais, a partir de e com destino a organismos, institutos ou centros aprovados nos termos do anexo C ao presente Regulamento, do qual faz parte integrante, deve ser subordinado à apresentação de um documento de transporte de acordo com o modelo constante do anexo E, o qual deve ser preenchido pelo veterinário responsável pelo organismo, instituto ou centro de origem, devendo especificar que os animais, sémens, óvulos ou embriões provêm de um organismo, instituto ou centro aprovado em conformidade com o anexo C e acompanhá-los durante o transporte.
 
 2 - Com vista à sua aprovação, os organismos, institutos ou centros devem apresentar à autoridade sanitária veterinária todos os documentos comprovativos pertinentes relativos às exigências constantes do anexo C, no que se refere às doenças de declaração obrigatória.
 
@@ -386,13 +403,13 @@ d) Os sémens utilizados na inseminação de fêmeas dadoras devem obedecer às 
 
 4 - A aprovação deve ser retirada pela autoridade sanitária veterinária nos casos previstos no n.º 3 do anexo C.
 
-###### Art. 14.º O IPPAA pode elaborar, directamente ou através dos criadores, um programa, facultativo ou obrigatório, de vigilância ou de luta contra uma das doenças referidas no anexo B.
+Art. 14.º O IPPAA pode elaborar, directamente ou através dos criadores, um programa, facultativo ou obrigatório, de vigilância ou de luta contra uma das doenças referidas no anexo B.
 
 ### CAPÍTULO III — Disposições aplicáveis às importações de países não comunitários
 
-###### Art. 15.º As condições aplicáveis às importações de animais, sémens, óvulos e embriões abrangidos pelo presente Regulamento devem ser, pelo menos, equivalentes às previstas no capítulo II.
+Art. 15.º As condições aplicáveis às importações de animais, sémens, óvulos e embriões abrangidos pelo presente Regulamento devem ser, pelo menos, equivalentes às previstas no capítulo II.
 
-###### Art. 16.º - 1 - Para efeitos da aplicação uniforme do artigo 15.º, aplicam-se as disposições do número seguinte.
+Art. 16.º - 1 - Para efeitos da aplicação uniforme do artigo 15.º, aplicam-se as disposições do número seguinte.
 
 2 - Só podem ser importados animais, sémens, óvulos e embriões referidos no artigo 11.º que satisfaçam as seguintes exigências:
 
@@ -400,7 +417,7 @@ a) Serem provenientes de um país terceiro que conste de lista a estabelecer de 
 
 b) Serem acompanhados de um certificado sanitário, em conformidade com um modelo a elaborar de acordo com o procedimento comunitariamente previsto, assinado pela autoridade competente do país exportador, que certifique que esses animais, sémens, óvulos e embriões preenchem as condições suplementares ou oferecem garantias equivalentes de acordo com o procedimento comunitariamente previsto, ou provêm de centros, organismos, instituições ou centros de recolha aprovados que ofereçam essas garantias.
 
-###### Art. 17.º Os animais, sémens, óvulos e embriões abrangidos pelo presente Regulamento só podem ser importados se:
+Art. 17.º Os animais, sémens, óvulos e embriões abrangidos pelo presente Regulamento só podem ser importados se:
 
 a) Forem acompanhados de um certificado, de modelo a determinar de acordo com o procedimento comunitariamente previsto, emitido pelo veterinário oficial;
 
@@ -410,21 +427,21 @@ c) Tiverem sido sujeitos, antes de serem transportados para o território da Uni
 
 d) No caso dos animais referidos nos artigos 5.º a 10.º, tiverem sido submetidos, antes da importação, a uma quarentena, cujas regras serão fixadas de acordo com o procedimento comunitariamente previsto.
 
-###### Art. 18.º Os princípios e as regras previstos na Portaria n.º 774/93, de 3 de Setembro, são aplicáveis, nomeadamente, no que respeita à organização e à sequência a dar aos controlos a efectuar e às medidas de salvaguarda a aplicar.
+Art. 18.º Os princípios e as regras previstos na Portaria n.º 774/93, de 3 de Setembro, são aplicáveis, nomeadamente, no que respeita à organização e à sequência a dar aos controlos a efectuar e às medidas de salvaguarda a aplicar.
 
 ### CAPÍTULO IV — Disposições finais e comuns
 
-###### Art. 19.º A introdução de animais (incluindo aves de gaiola), sémens, óvulos e embriões abrangidos pelo presente Regulamento que tenham transitado pelo território de um país terceiro pode estar subordinada à apresentação de um certificado sanitário que garanta o cumprimento das exigências do presente Regulamento.
+Art. 19.º A introdução de animais (incluindo aves de gaiola), sémens, óvulos e embriões abrangidos pelo presente Regulamento que tenham transitado pelo território de um país terceiro pode estar subordinada à apresentação de um certificado sanitário que garanta o cumprimento das exigências do presente Regulamento.
 
 ## ANEXO A — Doenças de declaração obrigatória no âmbito do presente Regulamento (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf))](https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf)
 
 (nota a) Sem prejuízo das doenças de declaração obrigatória previstas no anexo I à Portaria n.º 768/91, de 6 de Agosto.
 
 ## ANEXO B — Lista de doenças para as quais podem ser executados programas nacionais ao abrigo do presente Regulamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf))](https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf)
 
 ## ANEXO C — Condições de aprovação dos organismos, institutos ou centros aprovados
 
@@ -500,7 +517,9 @@ d) Se os resultados das análises forem negativos no que diz respeito aos agente
 
 e) O organismo, instituto ou centro só será aprovado de novo se, após erradicação dos focos de infecção, voltarem a estar preenchidas as condições previstas no n.º 1 do presente anexo.
 
-## ANEXO D — CAPÍTULO I
+## ANEXO D
+
+### CAPÍTULO I
 
 Condições de aprovação e fiscalização dos centros e estações de colheita de sémen
 
@@ -634,4 +653,4 @@ Só podem ser afectas à colheita de embriões ou óvulos as fêmeas que, a cont
 
 Comunidade Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf))](https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/202b00/55255531.pdf)

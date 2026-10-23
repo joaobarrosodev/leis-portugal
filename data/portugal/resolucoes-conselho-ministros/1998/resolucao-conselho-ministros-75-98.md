@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/150b00/29492950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/75/1998/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/75-1998-489065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d21939fabdd72c3dd3a0edfa7e50279c123659b6e9092ee5d85e7a0e86a44f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7278bf3100147acd254bea33c27849d32ffd5a6940de6dd9720bc9816674ec03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,40 +68,52 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
-- Instituto do Emprego e Formação Profissional
-- Criança
 - Comissão Nacional de Combate ao Trabalho Infantil
-- Ministro do Trabalho e da Solidariedade
+- Conselho Nacional contra a Exploração do Trabalho Infantil
 - Criação de Serviços
+- Criança
 - Definição de Competências
 - Equipa de Projecto
 - Extinção de Serviços
-- Recrutamento de Pessoal
 - Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Instituto do Emprego e Formação Profissional
 - Integração de Trabalhadores
-- Conselho Nacional contra a Exploração do Trabalho Infantil
-- Proteção à Infância
-- Trabalho de Menores
+- Ministro do Trabalho e da Solidariedade
 - Plano para a Eliminação da Exploração do Trabalho Infantil
+- Proteção à Infância
+- Recrutamento de Pessoal
+- Trabalho de Menores
 relationships:
 - type: amended_by
   target: pt:dre:437975:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:437975:por
+  label: "Alterada a composição do Conselho Nacional contra a Exploração do Trabalho Infantil; prorrogados, até 31 de Dezembro\
+    \ de 2003, os mandatos do referido Conselho e da equipa de projecto do PEETI pela RES.1/2000.1999.12.16.PCM DR.IS-B [10]\
+    \ de 13/Jan/2000, e mantida em vigor a presente resolução em tudo o que não contrariar a atràs referida. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/1-2000-437975
+  date: '1999-12-16'
 - type: cites
   target: celex:31994L0033
   label: null
   source: http://data.europa.eu/eli/dir/1994/33/oj
+- type: repealed_by
+  target: pt:dre:541835:por
+  label: "Revogada pela RES.37/2004.26.02.2004.PCM, DR.IS-B [68] de 20.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/37-2004-541835
+  date: '2004-02-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:33Z'
   warnings: []
   errors: []
 ---

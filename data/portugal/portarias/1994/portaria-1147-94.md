@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/297b00/73587367.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1147/1994/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1147-1994-575506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25533c51c94b81564d6ce56a7d1479baacd0f8c1c76e75f1ac5b59ac29b5b885
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f122965ead5481c59ec60c7f2ce4d5c7b095aa9f23ef2b0b68c72a1c87a6f76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Águas Residuais
 - Aproximação das Legislações
-- Recursos Hídricos
-- Saúde Pública
 - Fiscalização
 - Imersão de Resíduos
 - Licenciamento
-- Resíduo
 - Óxido
-- Proteção do Ambiente
-- Águas Residuais
 - Poluição da água
 - Poluição Industrial
+- Proteção do Ambiente
+- Recursos Hídricos
+- Resíduo
 - Resíduo Industrial
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:499546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430457:por
+  label: "Mantida em vigor pelo DEC LEI.236/98.1998.08.01.MAM DR.IS-A [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1998-430457
+  date: '1998-08-01'
 - type: cites
   target: celex:31978L0176
   label: null
@@ -96,16 +101,21 @@ relationships:
   target: celex:31992L0112
   label: null
   source: http://data.europa.eu/eli/dir/1992/112/oj
+- type: repealed_by
+  target: pt:dre:499546:por
+  label: "Revogada a presente portaria pelo DEC LEI.127/2013.30.08.2013.MAMAOT, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2013-499546
+  date: '2013-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:15Z'
   warnings: []
   errors: []
 ---
@@ -374,9 +384,9 @@ O estabelecido na presente portaria pode, por despacho do presidente do Institut
 
 Ministérios da Indústria e Energia, da Saúde, do Ambiente e Recursos Naturais e do Mar.
 
-**Assinada em 6 de Dezembro de 1994.**
+Assinada em 6 de Dezembro de 1994.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
 ## ANEXO I — Informações a fornecer para efeitos de atribuição de licença em acréscimo às determinadas em outra legislação aplicável
 
@@ -424,4 +434,4 @@ C) Métodos de eliminação e características do local de deposição, de armaz
 
 4 - Características dos métodos de deposição, de armazenagem e de injecção, incluindo a avaliação das precauções tomadas para evitar a poluição das águas, do solo e da atmosfera.
 
-## ANEXO II ao ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/297b00/73587367.pdf))](https://files.diariodarepublica.pt/1s/1994/12/297b00/73587367.pdf)
+## ANEXO II ao ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/297b00/73587367.pdf)

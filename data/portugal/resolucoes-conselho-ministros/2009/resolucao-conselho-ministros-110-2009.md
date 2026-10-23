@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/110/2009/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/110-2009-491240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa82ec838767e9270ca30cf6aa3f7116e93e053060b6f0d98e99555f0ead0f73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb6fc681ba463af02114b0e625868a9966c9f3a89bcb13116866eb4c40e66015
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,12 +70,12 @@ subjects:
 - Encarregado de Missão
 - Equipa de Missão
 - Estrutura de Missão para a Gestão de Fundos Comunitários
-- Programa Quadro Solidariedade e Gestão dos Fluxos Migratorios
 - Fundo Europeu para a Integração de Nacionais de Países Terceiros
-- Programa Operacional Tematico Valorização do Território
 - Fundo Europeu para os Refugiados
-- Ministro da Presidência
 - Ministro da Administração Interna
+- Ministro da Presidência
+- Programa Operacional Tematico Valorização do Território
+- Programa Quadro Solidariedade e Gestão dos Fluxos Migratorios
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-l
@@ -117,16 +117,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/75/2008/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/75/2008/05/08/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662522:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:39Z'
   warnings: []
   errors: []
 ---

@@ -46,43 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1975-314446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:27:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6125d02d6f35c3919cbeba31f3f912eb4610111dd13debc67937348a56770d2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57c3fccbe698fa5bf0683ca9ce804660a6d8d79ad841ef62f3adc4b4ae36d597
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:27:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Diploma
+- Ensino Superior
+- Estudante
+- Exame
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:27:21Z'
   warnings: []
   errors: []
 ---
 
 # Resolução do Conselho de Ministros
 
-**O Ministro da Educação e da Investigação Científica estabeleceu, com carácter provisório e a título experimental, certas normas mínimas relativas aos critérios de avaliação do aproveitamento escolar dos alunos do ensino superior, entre as quais figurava a rejeição da classificação por Apto e Não apto.**
+O Ministro da Educação e da Investigação Científica estabeleceu, com carácter provisório e a título experimental, certas normas mínimas relativas aos critérios de avaliação do aproveitamento escolar dos alunos do ensino superior, entre as quais figurava a rejeição da classificação por Apto e Não apto.
 
 As razões que motivam esta decisão quanto à tabela de classificação baseiam-se, fundamentalmente, no facto de, não vivendo as escolas divorciadas da sociedade em que estão implantadas, se dever ter em consideração a estrutura nesta vigente no que se refere ao provimento e promoção profissional das pessoas, bem como à avaliação dos méritos de cada uma. De outro modo estão a defender-se situações equívocas que só contribuem para criar ilusões e, em última análise, para sacrificar as pessoas cujos interesses se querem proteger.
 
@@ -120,7 +125,7 @@ b) Sempre que de entre os elementos de avaliação conste um trabalho escrito, i
 
 4. - 1. Quando for indispensável, para efeitos de concursos ou outros converter as tabelas de classificações praticadas até esta data, nos anos lectivos de 1973-1974 e 1974-1975, na tabela numérica tradicional, adoptar-se-á a seguinte tábua de correspondência:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18300/11071108.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18300/11071108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18300/11071108.pdf)
 
 5. - 1. Os diplomas universitários, segundo modelo único a aprovar por portaria do Ministério da Educação e da Investigação Científica, farão apenas menção do grau académico que titulam.
 

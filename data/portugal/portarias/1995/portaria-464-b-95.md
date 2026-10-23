@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 112/1995, 1º Suplemento, Série I-B de 1995-05-15
   number: '112'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2830-(2) a 2830-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/112b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/464-b/1995/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/464-b-1995-215364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8fe981f1fcb0d2c21fe0866bff43636e0e3a00723493563730f246ca6c26ab0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9416a7244a21974dce45324d3d705efe6ca1bdca3282da9f72d15bc1e28efa0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
 - Instituto da ÁGUA
-- Santiago do Cacém
 - Preço
 - Preço de Venda
-- Abastecimento de Água
+- Santiago do Cacém
 relationships:
 - type: amended_by
   target: pt:dre:3081196:por
@@ -80,16 +80,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/121/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/121/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:515458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615242:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3081196:por
+  label: "Revogado e substituído pela PORT.192/96IIS.1996.10.08.MECO E MAM DR.IIS [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-1996-3081196
+  date: '1996-10-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:18Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +137,7 @@ b) Na venda de água aos municípios, no mês seguinte à entrada em vigor desta
 
 Ministérios da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 15 de Maio de 1995.**
+Assinada em 15 de Maio de 1995.
 
 Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria. - Pela Ministra do Ambiente e Recursos Naturais, Joaquim Manuel Veloso Poças Martins, Secretário de Estado do Ambiente e do Consumidor.
 

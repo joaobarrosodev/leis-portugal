@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/442/1995/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/442-1995-506633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c98a1a378c64a7b54b339bf691bce4f7bcac4803f4dd7e7b0ae5fff88ef60756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97756d70611c234ba29c52cd28a295c6d69d558437d9cb57931a3653f66cdb57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
+- Açores
 - Estudante
-- Jovem
-- Transporte de Mercadorias
 - Funchal
+- Jovem
+- Madeira.região Autónoma
 - Porto Santo
 - Preço
 - Preço Máximo
-- Madeira.região Autónoma
-- Açores
+- Transporte Aéreo
 - Transporte de Carga
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - VOO Doméstico
 relationships:
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/150/1994/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/150/1994/03/16/p/dre
+- type: cites
+  target: pt:dre:283564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674434:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:40Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +132,11 @@ Manda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes
 
 1.º Os preços máximos das tarifas de residente e estudante a aplicar entre qualquer aeródromo na Madeira ou nos Açores e o primeiro aeródromo de entrada ou o último de saída no continente, bem como o preço máximo da tarifa de estudante aplicável entre qualquer aeródromo nos Açores e qualquer aeródromo na Madeira, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/110b00/27632764.pdf))](https://files.diariodarepublica.pt/1s/1995/05/110b00/27632764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/110b00/27632764.pdf)
 
 2.º Os preços máximos das tarifas de passageiros aplicáveis entre o Aeroporto de Porto Santo e o Aeroporto do Funchal são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/110b00/27632764.pdf))](https://files.diariodarepublica.pt/1s/1995/05/110b00/27632764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/110b00/27632764.pdf)
 
 3.º As tarifas normais de 1.ª classe, classe executiva e classe económica acima especificadas ficam sujeitas às condições gerais em vigor para este tipo de tarifas nas ligações internacionais.
 
@@ -150,6 +162,6 @@ Tarifa de 45 kg (ou mais) - 27$50.
 
 Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-**Assinada em 15 de Março de 1995.**
+Assinada em 15 de Março de 1995.
 
 Pelo Ministro das Finanças, Francisco Adelino Gusmão Esteves de Carvalho, Secretário de Estado das Finanças. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.

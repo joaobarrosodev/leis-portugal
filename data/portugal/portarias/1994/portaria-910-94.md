@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/910/1994/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/910-1994-618308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88a6a76bd62284df5209fc6c222de70976f7c319de21120e0fd287e2cd94b27b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52c100bd9ba65090b5ad62eee659d2559f79224a724cdbb5fb69535ce98883ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,14 @@ relationships:
   target: pt:dre:353926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353926:por
+  label: "Ratificada a suspensão do artigo 4.º do Regulamento do Plano de Urbanização de Avis, publicado em anexo ao presente\
+    \ diploma, que ratifica o referido Plano de Urbanização, pela RES.186/2004.02.12.2004.PCM, DR.IS-B [300] de 24.12.2004,\
+    \ na área assinalada na planta anexa ao presente diploma, pelo prazo de dois anos, assim como ratificado o estabelecimento\
+    \ de medidas preventivas para a mesma área e pelo mesmo prazo \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/186-2004-353926
+  date: '2004-12-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -107,16 +115,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:12Z'
   warnings: []
   errors: []
 ---
@@ -139,9 +203,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 15 de Setembro de 1994.**
+Assinada em 15 de Setembro de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Urbanização de Avis
 
@@ -449,4 +513,4 @@ Para a EN 244 existente e as EN 243 e EN 370 classificadas pelo PRN como outras 
 
 Os locais para a implantação de edifícios e requisitos técnico-funcionais dos edifícios, assim como o tráfego rodoviário, ficam sujeitos ao Regulamento Geral sobre o Ruído ([Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de Junho), e ao [Decreto-Lei n.º 292/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1989-546986), de 2 de Setembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/237b00/62246227.pdf))](https://files.diariodarepublica.pt/1s/1994/10/237b00/62246227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/237b00/62246227.pdf)

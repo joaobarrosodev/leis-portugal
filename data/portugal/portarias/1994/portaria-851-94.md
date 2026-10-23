@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/851/1994/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/851-1994-604454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a238a8c948bf63db23fb77dfc185b0e5834ff75d2b65c7a9684ba3230ffd545
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: befe8854b8ff1dc70eb7fe37f76925dc009c1c808d3e9dd01af770a9a8064a1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
-- Veículo
-- Segurança Rodoviária
 - Equipamento de Veículo
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:383017:por
@@ -78,16 +78,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:383017:por
+  label: "Revogado o n.º 22.º, pela PORT.311-C/2005.24.03.2005.MAI, DR.IS-B [59-2ºSupl] de 24.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-c-2005-383017
+  date: '2005-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:46Z'
   warnings: []
   errors: []
 ---
@@ -762,10 +771,10 @@ e) Ficam dispensados da instalação da luz referida neste número os veículos 
 
 Ministério da Administração Interna.
 
-**Assinada em 5 de Setembro de 1994.**
+Assinada em 5 de Setembro de 1994.
 
-**O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.**
+O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/220b00/56835690.pdf))](https://files.diariodarepublica.pt/1s/1994/09/220b00/56835690.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/220b00/56835690.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/220b00/56835690.pdf))](https://files.diariodarepublica.pt/1s/1994/09/220b00/56835690.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/220b00/56835690.pdf)

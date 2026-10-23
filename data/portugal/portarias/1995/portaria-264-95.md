@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/264/1995/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-1995-174522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fde240e0321ccff1ed678a1dc20cf680ac5ed124eac9a0a97e361651866ee3f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdc1ea716d8f6d81290d3148b8960ded531f30da4af9ba209953b657fbbed12b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 - são JOÃO da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:344250:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344250:por
+  label: "Aprovada a alteração à delimitação da Reserva Ecológica Nacional do município de São João da Madeira pela PORT.864/2010.07.09.2010.MAOT,\
+    \ DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/864-2010-344250
+  date: '2010-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -84,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/316/1993/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/316/1993/09/21/p/dre
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655520:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:24Z'
   warnings: []
   errors: []
 ---
@@ -112,12 +130,12 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território, da Agricultura, das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo, do Ambiente e Recursos Naturais e do Mar.
 
-**Assinada em 15 de Fevereiro de 1995.**
+Assinada em 15 de Fevereiro de 1995.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, António Duarte Silva. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, António Duarte Silva. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
 RESERVA ECOLOGICA NACIONAL
 
 CONCELHO DE SÃO JOÃO DA MADEIRA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/078b00/18431844.pdf))](https://files.diariodarepublica.pt/1s/1995/04/078b00/18431844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/078b00/18431844.pdf)

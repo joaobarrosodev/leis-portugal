@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/74/2009/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-2009-488803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5031b025a74c2cec4fca6672eb89ed275c9535cb14802c94f45a85b96b8a8bd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab5798258894a0aab15ee36921f86cfeef544c11a90c94b99dabbf81152f5eb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Assistência Técnica
 - Equipa de Missão
 - FEDER
 - FSE
 - Programa Operacional
+- QREN
 - Secretariado Técnico
 relationships:
 - type: amended_by
   target: pt:dre:174869:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:174869:por
+  label: "Dada nova redação ao anexo III da Res 25/2008 de 13-fev, alterada pelo presente diploma, pela RES.76/2012.06.09.2012.PCM,\
+    \ DR.IS [173] de 06.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/76-2012-174869
+  date: '2012-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/25/2008/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/2008/02/13/p/dre
+- type: cites
+  target: pt:dre:248059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:43Z'
   warnings: []
   errors: []
 ---

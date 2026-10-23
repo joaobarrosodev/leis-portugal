@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/241/1994/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-1994-264745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e4bf2b69f9e0a2eb25d5da2a26835d747a1e589d5353ddb4c5c4e52a6adcf44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad51ade4be11eaae640df67b244d32f2a11b5c3d25319c7c48512ca7da0fe9db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
-- Multa
 - Impresso
+- Multa
 - Regulamento de Transportes em Automóveis
 relationships:
 - type: cites
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/203/1991/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/203/1991/03/13/p/dre
+- type: cites
+  target: pt:dre:288438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:47Z'
   warnings: []
   errors: []
 ---
@@ -160,8 +176,8 @@ c) Para os pagamentos de coimas a efectuar à ordem da autoridade administrativa
 
 Ministérios da Administração Interna, das Finanças, da Justiça e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 20 de Janeiro de 1994.**
+Assinada em 20 de Janeiro de 1994.
 
-**O Ministro da Administração Interna, Manuel Dias Loureiro. - O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro da Administração Interna, Manuel Dias Loureiro. - O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/090b00/18321835.pdf))](https://files.diariodarepublica.pt/1s/1994/04/090b00/18321835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/090b00/18321835.pdf)

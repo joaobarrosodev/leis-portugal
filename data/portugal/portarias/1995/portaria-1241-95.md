@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1241/1995/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1241-1995-664076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55024b3270ec65256dffc92213731b4f0e0791ad3c5103dd89e2cdb4dedfb970
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eea3543e6ce0bf09be16d7c46b6742f261fd114782e981824e825103234a3abf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Produtores
-- Financiamento
+- Autarquia Local
 - Cereal
 - Cooperativa Agrícola
 - Crédito Bonificado
-- Geada
-- Trigo
-- Linha de Crédito
-- SECA
-- Olivicultura
-- Região Desfavorecida
+- Financiamento
 - Fruticultura
-- Pecuária
+- Geada
 - Ifadap
-- Autarquia Local
+- Linha de Crédito
+- Olivicultura
+- Pecuária
+- Região Desfavorecida
+- SECA
+- Trigo
 - Vinha
 relationships:
 - type: amended_by
   target: pt:dre:147415:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A REDACÇÃO DO NUM 5, NUM 2, PELA PORT 61/96 DE 27-FEV DR.IS-B [49]\0-B [49]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-02-27'
+- type: amended_by
+  target: pt:dre:626390:por
+  label: "Alterado o nº 2 do nº 5º, pela PORT.61/96.27.02.1996.MADRP, DR.IS-B [49] de 27.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/61-1996-626390
+  date: '1996-02-27'
+- type: amended_by
+  target: pt:dre:147415:por
+  label: "Alterada a al a) do nº 1, pela PORT.506/97.1997.07.21.MADRP DR.IS-B [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/506-1997-147415
+  date: '1997-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/145/1994/05/24/p/dre
   label: null
@@ -99,16 +114,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/238/1995/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/238/1995/09/13/p/dre
+- type: cites
+  target: pt:dre:269594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563043:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:18Z'
   warnings: []
   errors: []
 ---
@@ -165,6 +192,6 @@ d) Da Direcção Regional do Ribatejo e Oeste, os concelhos de Abrantes, Chamusc
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Setembro de 1995.**
+Assinada em 21 de Setembro de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.

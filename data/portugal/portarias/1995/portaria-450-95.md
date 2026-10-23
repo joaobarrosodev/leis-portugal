@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/110b00/27802782.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/450/1995/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/450-1995-506626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c413885b999eb7eef941aff55b154d3dfaed45e589f58596aada75fff8efe71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56a31af5a1a2636f3791f616e765eb9ac4777a921a20e34c793ee240df5bc4cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,58 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Agro-alimentar
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
 relationships:
 - type: amended_by
   target: pt:dre:531667:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161882:por
+  label: "Alterado o anexo ao presente diploma pela PORT.427/97.1997.06.30.ME, DR.IS-B [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-1997-161882
+  date: '1997-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/453/1991/05/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/453/1991/05/28/p/dre
+- type: cites
+  target: pt:dre:358495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631230:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:531667:por
+  label: "Revogada, findo o processo de transição nos termos do artigo 31.º do Regulamento aprovado pela Portaria 413-A/98,\
+    \ de 17 de Julho, na redacção da Port 427/97, de 30-Jun, pela PORT.1025/2000.2000.10.25.ME DR.IS-B [247] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1025-2000-531667
+  date: '2000-10-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:57Z'
   warnings: []
   errors: []
 ---
@@ -206,8 +233,8 @@ São revogadas as Portarias n.os [317-G/86](https://diariodarepublica.pt/dr/deta
 
 Ministério da Educação.
 
-**Assinada em 11 de Abril de 1995.**
+Assinada em 11 de Abril de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/110b00/27802782.pdf))](https://files.diariodarepublica.pt/1s/1995/05/110b00/27802782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/110b00/27802782.pdf)

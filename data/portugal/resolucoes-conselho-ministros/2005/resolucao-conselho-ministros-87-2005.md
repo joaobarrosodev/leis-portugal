@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/87/2005/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2005-532430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 018da6d4271219a94b43eddb19303a16bbfa8f02c5b20b92fc0bfc9152bb57b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f11c9ad224f7840138d402e749d990f3646b747ec422d399ce3df9e8a7e96b2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
 subjects:
 - Acesso ao Emprego
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Prémio de Colocação
-- Jovem
 - Criação de Emprego
-- Mercado de Emprego
-- Estratégia de Lisboa
-- Internet
 - Emprego
+- Estratégia de Lisboa
+- Formação Profissional
+- IAPMEI
+- Instituto do Emprego e Formação Profissional
+- Internet
+- Jovem
+- Mercado de Emprego
+- Mercado do Trabalho
+- Pequenas e Médias Empresas
+- Política de Emprego
+- Prémio de Colocação
 - Programa Inov-jovem
 - Promoção de Emprego
-- Política de Emprego
-- Pequenas e Médias Empresas
-- IAPMEI
-- Mercado do Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
@@ -91,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:17Z'
   warnings: []
   errors: []
 ---

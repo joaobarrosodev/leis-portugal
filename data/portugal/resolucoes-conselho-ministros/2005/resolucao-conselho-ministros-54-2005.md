@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/54/2005/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-2005-589288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aa2f102d3db47ebb60c1c4514ad662e5b3f41c48e179bfc5bd4a6fa1177d889
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aa316c05de1708bf1f8a9b9bc32484fa304a57bd2fa458cb0f5f23a46d8ee38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Montemor-o-Novo
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:262345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262345:por
+  label: "Ratificadas as alterações ao nº 3 do art. 2º, ao nº 3 do art. 4º, ao art. 5º, aos nºs 1 e 2 do art. 6º, ao art.\
+    \ 7º, ao nº 1, à al. a) do nº 4 e ao nº 6 do art. 8º, ao art. 9º, aos nºs 1, 2, 3, 4, 8, 9 e 10.1 do art. 10º, ao art.\
+    \ 13º, ao nº 3 do art. 14º, ao art. 16º, ao nº 2 do art. 17º, aos arts. 20º, 22º, 23º e 24º, aos nºs 3 e 4 do art. 25º,\
+    \ aos arts. 26º e 27º, ao nº 2 do art. 30º, aos nºs 1 e 2 do art. 31º, ao nº 2 do art. 32º, às als. a) e b) do nº 2 do\
+    \ art. 33º, às als. a) e b) do nº 2 do art. 34º, à al. b) do art. 35º, ao art. 36º, ao nº 1 do art. 37º, aos arts. 38º\
+    \ e 39º, ao nº 2.2 do art. 40º, à al. d) do nº 2 do art. 42º e ao art. 44º do Regulamento e a actualização das plantas\
+    \ de ordenamento e de condicionantes do Plano Director Municipal de Montemor-o-Novo, ratificado pela Res 8/94 de 02-Fev,\
+    \ da PCM, com as alterações ratificadas no presente diploma, pela RES.2/2007.16.11.2006.PCM, DR.IS [4] de 05.01.2007 \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/2-2007-262345
+  date: '2006-11-16'
+- type: amended_by
+  target: pt:dre:66071290:por
+  label: Tornada pública a suspensão do art. 10.º do Regulamento do Plano de Urbanização de Montemor-o-Novo, ratificado pelo
+    presente diploma, com as alterações ratificadas pela Res 2/2007, de 05-jan da PCM, pelo(a) Aviso n.º 147/2015 - Diário
+    da República n.º 4/2015, Série II de 2015-01-07, que publicou igualmente a aprovação de medidas preventivas para a mesma
+    área pelo período de dois anos.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/147-2015-66071290
+  date: '2015-01-07'
+- type: amended_by
+  target: pt:dre:75627327:por
+  label: Tornada pública a suspensão da al. a) do n.º 1 e n.ºs 2,3 e 4 do artigo 15.º do Regulamento do Plano de Urbanização
+    de Montemor-o-Novo, ratificado pelo presente diploma, e a aprovação de medidas preventivas para a mesma área pelo período
+    de dois anos, pelo(a) Aviso n.º 13451/2016 - Diário da República n.º 209/2016, Série II de 2016-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13451-2016-75627327
+  date: '2016-10-31'
+- type: amended_by
+  target: pt:dre:121357913:por
+  label: Tornada pública a aprovação da suspensão parcial e o estabelecimento de medidas preventivas do Plano de Urbanização
+    de Montemor-o-Novo, ratificado pelo presente diploma, pelo(a) Aviso n.º 4943/2019 - Diário da República n.º 57/2019, Série
+    II de 2019-03-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/4943-2019-121357913
+  date: '2019-03-21'
+- type: amended_by
+  target: pt:dre:127059868:por
+  label: Tornada pública a suspensão parcial do Plano de Urbanização da Cidade de Montemor-o-Novo e estabelecimento de Medidas
+    Preventivas pelo(a) Aviso (extrato) n.º 19836/2019 - Diário da República n.º 237/2019, Série II de 2019-12-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/19836-2019-127059868
+  date: '2019-12-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
   label: null
@@ -103,16 +144,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8/1994/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/1994/02/02/p/dre
+- type: cites
+  target: pt:dre:184960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658678:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:59Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/086b00/21322133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/303/1995/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/303-1995-230675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70d8e3267c9c426b4767f9fa81427623f72726a83c5f36f882466da1fc222f15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d520a3c5be27d535cb3810c1cc955a45ca44d9e8e46efd38f09feca5afe2d834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Instrumentação e Qualidade Industrial
 - Ensino Superior Politécnico
 - Instituto Politécnico
 - Instituto Superior de Engenharia
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
@@ -82,16 +82,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/596/1991/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/596/1991/07/01/p/dre
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649125:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544640:por
+  label: "Revogada a Port 596/91 de 01-Jul, com a redacção do presente diploma, pela PORT.963/2000.2000.10.09.ME DR.IS-B [233],\
+    \ nos termos do respectivo nº 2º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/963-2000-544640
+  date: '2000-10-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:27Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +142,8 @@ As alterações aprovadas pela presente portaria entrarão em funcionamento nos 
 
 Ministério da Educação.
 
-**Assinada em 21 de Fevereiro de 1995.**
+Assinada em 21 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/086b00/21322133.pdf))](https://files.diariodarepublica.pt/1s/1995/04/086b00/21322133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/086b00/21322133.pdf)

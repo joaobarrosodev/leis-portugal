@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/275b00/70197023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1048/1994/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1048-1994-547401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e7ea62de3a5ca79583b4c85f114011ad8fcb7e32b81dad8e84c067b21dd7128
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2601d825fca2dbbe683a633b66f1e80e3d2d2b7f0caaf0f2e314811655492f04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carne
-- Produto Cárneo
-- Definição de Competências
+- Comércio
 - Controlo Sanitário
+- Definição de Competências
+- Embalagem
 - Etiquetagem
 - Importação
 - Instituto de Protecção da Produção Agro-Alimentar
-- Embalagem
-- Transporte de Mercadorias
+- Produto Cárneo
 - Regulamento
-- Comércio
+- Transporte de Mercadorias
 - Troca Intracomunitária
 relationships:
 - type: amended_by
@@ -95,16 +95,21 @@ relationships:
   target: celex:31992L0110
   label: null
   source: http://data.europa.eu/eli/dir/1992/110/oj
+- type: repealed_by
+  target: pt:dre:445559:por
+  label: "Revogada pelo DEC LEI.62/96.1996.05.25.MADRP, DR.IS-A [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-1996-445559
+  date: '1996-05-25'
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:21Z'
   warnings: []
   errors: []
 ---
@@ -123,15 +128,15 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, que se
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 7 de Novembro de 1994.**
+Assinada em 7 de Novembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.
 
 Regulamento da Produção e Comércio de Carne Picada, de Carne em Pedaços de Menos de 100 g e de Preparados de Carne Destinados ao Consumo Humano Directo ou à Indústria.
 
-###### Artigo 1.º O presente Regulamento estabelece os requisitos relativos à produção e ao comércio de carne picada, de carne em pedaços com menos de 100 g e de preparados de carne destinados ao consumo humano directo ou à indústria.
+Artigo 1.º O presente Regulamento estabelece os requisitos relativos à produção e ao comércio de carne picada, de carne em pedaços com menos de 100 g e de preparados de carne destinados ao consumo humano directo ou à indústria.
 
-###### Art. 2.º - 1 - Para efeitos do presente Regulamento, aplicam-se as definições constantes do artigo 2.º do Regulamento aprovado pela Portaria n.º 971/94, de 29 de Outubro, do n.º 3.º da Portaria n.º 41/92, de 22 de Janeiro, e do n.º 3.º da Portaria n.º 743/92, de 24 de Julho.
+Art. 2.º - 1 - Para efeitos do presente Regulamento, aplicam-se as definições constantes do artigo 2.º do Regulamento aprovado pela Portaria n.º 971/94, de 29 de Outubro, do n.º 3.º da Portaria n.º 41/92, de 22 de Janeiro, e do n.º 3.º da Portaria n.º 743/92, de 24 de Julho.
 
 2 - Entende-se, ainda, por:
 
@@ -163,7 +168,7 @@ i) Veterinário oficial: o médico veterinário designado pela autoridade compet
 
 4 - A carne picada e a carne em pedaços com menos de 100 g que tenha sido submetida a um tratamento pelo frio não é considerada preparado de carne.
 
-###### Art. 3.º - 1 - As carnes e os preparados de carne só podem ser expedidos para outro Estado membro se satisfizerem as seguintes condições:
+Art. 3.º - 1 - As carnes e os preparados de carne só podem ser expedidos para outro Estado membro se satisfizerem as seguintes condições:
 
 a) Terem sido preparados a partir de carne fresca:
 
@@ -213,7 +218,7 @@ d) Não terem sido objecto de tratamento por raios ionizantes ou ultravioletas;
 
 e) No que respeita aos preparados de carne, os temperos não podem exceder 3% do produto acabado, sempre que sejam incorporados no estado seco, e 10%, quando sejam incorporados noutro estado.
 
-###### Art. 4.º Sem prejuízo do disposto no artigo 6.º, não podem ser expedidas para outro Estado membro as seguintes carnes:
+Art. 4.º Sem prejuízo do disposto no artigo 6.º, não podem ser expedidas para outro Estado membro as seguintes carnes:
 
 a) Carne de solípedes, picada ou em pedaços com menos de 100 g;
 
@@ -223,7 +228,7 @@ c) Carne picada, carne em pedaços com menos de 100 g ou preparados de carne obt
 
 d) Carne picada de aves de capoeira.
 
-###### Art. 5.º - 1 - O IPPAA pode conceder a um ou mais países expedidores autorizações, gerais ou limitadas, a casos especiais, nos termos das quais podem ser introduzidos no território nacional a carne ou os preparados de carne:
+Art. 5.º - 1 - O IPPAA pode conceder a um ou mais países expedidores autorizações, gerais ou limitadas, a casos especiais, nos termos das quais podem ser introduzidos no território nacional a carne ou os preparados de carne:
 
 a) Referidos no n.º 2 do artigo 2.º que não satisfaçam os requisitos previstos na alínea h) do n.º 1, na subalínea i) da alínea a) do n.º 2 e na alínea c) do artigo 3.º, bem como as regras do capítulo VI do anexo I;
 
@@ -233,7 +238,7 @@ b) Referidos no artigo 4.º
 
 3 - Deverá constar do certificado sanitário previsto na alínea g) do n.º 1 do artigo 3.º que foi feito uso das possibilidades previstas no n.º 1 do presente artigo.
 
-###### Art. 6.º - 1 - É proibido o transporte de carne picada, de carne em pedaços com menos de 100 g ou de preparados de carne refrigerados, salvo quando em unidades de acondicionamento que se destinem ao consumidor final, bem como a entrada em território nacional dessas carnes ou preparados provenientes de outros Estados membros.
+Art. 6.º - 1 - É proibido o transporte de carne picada, de carne em pedaços com menos de 100 g ou de preparados de carne refrigerados, salvo quando em unidades de acondicionamento que se destinem ao consumidor final, bem como a entrada em território nacional dessas carnes ou preparados provenientes de outros Estados membros.
 
 2 - É autorizada a produção e a comercialização, nas condições definidas no presente Regulamento, de:
 
@@ -243,11 +248,11 @@ b) Carne picada, congelada ou ultracongelada, a partir de, ou com, carne de aves
 
 3 - A expedição da carne e preparados referidos no número anterior só pode ser feita nos termos do n.º 2 do artigo 3.º e, quando se trate de carne que inclua carne fresca de aves de capoeira, devem ainda ser satisfeitos os requisitos da Portaria n.º 743/92, de 24 de Julho.
 
-###### Art. 7.º - 1 - O IPPAA elaborará uma lista de estabelecimentos de fabrico dos produtos definidos nas alíneas a), b) e c) do n.º 2 do artigo 2.º e atribuirá a cada estabelecimento, depois de devidamente verificado o cumprimento das condições previstas neste Regulamento, um número de aprovação com a menção de que está autorizado para a sua produção.
+Art. 7.º - 1 - O IPPAA elaborará uma lista de estabelecimentos de fabrico dos produtos definidos nas alíneas a), b) e c) do n.º 2 do artigo 2.º e atribuirá a cada estabelecimento, depois de devidamente verificado o cumprimento das condições previstas neste Regulamento, um número de aprovação com a menção de que está autorizado para a sua produção.
 
 2 - As instalações de fabrico, bem como as unidades de produção autónoma, constarão de uma lista, elaborada segundo os mesmos critérios, com colunas específicas para cada tipo de estabelecimento, conforme dispõem o artigo 10.º do Regulamento aprovado pela Portaria n.º 971/94, de 29 de Outubro, ou o n.º 10.º da Portaria n.º 1164/90, de 29 de Novembro.
 
-###### Art. 8.º - 1 - O IPPAA assegurará que as instalações de fabrico e as unidades de produção autónomas sejam submetidas a um controlo oficial que permita garantir que são respeitados os requisitos em matéria de higiene e produção.
+Art. 8.º - 1 - O IPPAA assegurará que as instalações de fabrico e as unidades de produção autónomas sejam submetidas a um controlo oficial que permita garantir que são respeitados os requisitos em matéria de higiene e produção.
 
 2 - A carne picada, a carne em pedaços de menos de 100 g e os preparados de carne devem ser submetidos a um controlo microbiológico a efectuar pelos próprios estabelecimentos, sob a supervisão, controlo e responsabilidade do veterinário oficial, a fim de garantir que as referidas carnes satisfazem os requisitos do presente Regulamento.
 
@@ -261,11 +266,11 @@ b) Carne picada, congelada ou ultracongelada, a partir de, ou com, carne de aves
 
 7 - Se nos controlos efectuados, ou em caso de suspeitas fundamentadas, vier a verificar-se que os requisitos do presente Regulamento não são respeitados, o médico veterinário oficial tomará as medidas adequadas, podendo, designadamente, propor ao IPPAA a suspensão da laboração.
 
-###### Art. 9.º Para efeitos do presente Regulamento, a inspecção e o controlo dos estabelecimentos referidos no artigo 7.º serão efectuados nos termos do n.º 11 do artigo 10.º do Regulamento aprovado pela Portaria n.º 971/94, de 29 de Outubro, bem como do n.º 12.º da Portaria n.º 1164/90, de 24 de Novembro, e do artigo 2.º da Directiva n.º [88/409/CEE](http://data.europa.eu/eli/dir/1988/409/oj?locale=pt).
+Art. 9.º Para efeitos do presente Regulamento, a inspecção e o controlo dos estabelecimentos referidos no artigo 7.º serão efectuados nos termos do n.º 11 do artigo 10.º do Regulamento aprovado pela Portaria n.º 971/94, de 29 de Outubro, bem como do n.º 12.º da Portaria n.º 1164/90, de 24 de Novembro, e do artigo 2.º da Directiva n.º [88/409/CEE](http://data.europa.eu/eli/dir/1988/409/oj?locale=pt).
 
-###### Art. 10.º As trocas comerciais das carnes e preparados de carne definidos no n.º 2 do artigo 2.º estão sujeitas às regras de polícia sanitária estabelecidas na Portaria n.º 765/90, de 30 de Agosto, para as trocas comerciais de carne fresca.
+Art. 10.º As trocas comerciais das carnes e preparados de carne definidos no n.º 2 do artigo 2.º estão sujeitas às regras de polícia sanitária estabelecidas na Portaria n.º 765/90, de 30 de Agosto, para as trocas comerciais de carne fresca.
 
-###### Art. 11.º - 1 - Sem prejuízo do disposto no n.º II do anexo II que entra imediatamente em vigor, a partir de 1 de Janeiro de 1996 toda a carne picada, carne em pedaços com menos de 100 g e preparados de carne produzidos e comercializados em território nacional devem satisfazer as exigências do presente Regulamento.
+Art. 11.º - 1 - Sem prejuízo do disposto no n.º II do anexo II que entra imediatamente em vigor, a partir de 1 de Janeiro de 1996 toda a carne picada, carne em pedaços com menos de 100 g e preparados de carne produzidos e comercializados em território nacional devem satisfazer as exigências do presente Regulamento.
 
 2 - Exceptuam-se do disposto no número anterior:
 
@@ -275,11 +280,13 @@ b) Aqueles que sejam preparados no local a pedido do comprador;
 
 c) Os que sejam adquiridos nos estabelecimentos que assegurem a venda directa ao consumidor, sem transporte nem acondicionamento prévio.
 
-###### Art. 12.º O disposto no presente Regulamento não afecta a regulamentação nacional e os acordos bilaterais vigentes à data de entrada em vigor deste Regulamento que restrinjam a utilização de aditivos nos produtos a que se refere este Regulamento.
+Art. 12.º O disposto no presente Regulamento não afecta a regulamentação nacional e os acordos bilaterais vigentes à data de entrada em vigor deste Regulamento que restrinjam a utilização de aditivos nos produtos a que se refere este Regulamento.
 
-###### Art. 13.º Ao comércio de carne picada, carne em pedaços de menos de 100 g e preparados de carne aplica-se o disposto no Decreto-Lei n.º 110/93, de 10 de Abril, e legislação complementar.
+Art. 13.º Ao comércio de carne picada, carne em pedaços de menos de 100 g e preparados de carne aplica-se o disposto no Decreto-Lei n.º 110/93, de 10 de Abril, e legislação complementar.
 
-## ANEXO I — CAPÍTULO I
+## ANEXO I
+
+### CAPÍTULO I
 
 Condições especiais de aprovação dos estabelecimentos de produção de carnes definidas no n.º 2 do artigo 2.º
 
@@ -421,13 +428,13 @@ A menção «Percentagem de colagénio nas proteínas da carne inferior a [...]�
 
 I - Normas de composição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/275b00/70197023.pdf))](https://files.diariodarepublica.pt/1s/1994/11/275b00/70197023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/275b00/70197023.pdf)
 
 II - Normas microbiológicas
 
 As instalações de fabrico ou unidades de produção autónomas devem providenciar para que, nos termos do capítulo VI do anexo I e segundo os métodos de interpretação adiante indicados, a carne picada e a carne de menos de 100 g destinadas a ser comercializadas tal como se encontram ou como componentes de preparados de carne obedeçam às seguintes normas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/275b00/70197023.pdf))](https://files.diariodarepublica.pt/1s/1994/11/275b00/70197023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/275b00/70197023.pdf)
 
 A interpretação dos resultados das análises microbiológicas deve ser feita do seguinte modo:
 

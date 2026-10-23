@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/29/1995/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-1995-231482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b92d328b258f54091fd921905592c016ee5bb65dd6c4dcb623a385cdbc6bfc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea6601531ebd667f85ad2645bc9e23a3153f1c52cb227e8156b46567fd603986
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
-- Património Cultural
-- Proteção do Ambiente
-- Política de Solos
-- Regulamento
 - Bragança
+- Ordenamento do Território
+- Património Cultural
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:292885:por
+  label: "Ratificada a alteração do PDM de Bragança (ratificado pelo presente diploma), pela RES.44/2000.2000.05.12.PCM, DR.IS-B\
+    \ [126] de 31/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/44-2000-292885
+  date: '2000-05-12'
+- type: amended_by
+  target: pt:dre:636708:por
+  label: "Ratificado parcialmente o Plano de Pormenor para a Zona Histórica de Bragança I, cujo regulamento e plantas de implantação\
+    \ e de condicionantes são publicados em anexo, ficando alterados a al. 1) do nº 1 e o nº 3 do art. 9º e os art.s 15º e\
+    \ 16º do Regulamento do Plano Director Municipal de Bragança, bem como a sua representação cartográfica, na respectiva\
+    \ área de intervenção, ratificado pelo presente diploma, com a alteração ratificada pela Res 44/2000, de 31-Maio, pela\
+    \ RES.99/2007.26.07.2007.PCM, DR.IS [143] de 26.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/99-2007-636708
+  date: '2007-07-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/1994/05/03/p/dre
   label: null
@@ -97,16 +112,252 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678600:por
+  label: null
+  source: null
 article_structure:
-  article_count: 108
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 94
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:02Z'
   warnings: []
   errors: []
 ---
@@ -219,11 +470,11 @@ Reserva Ecológica Nacional (REN) (relatório).
 
 ## Anexo n.º 1 - «Definições»;
 
-## Anexo n.º 2 - «Identificação dos espaços naturais»;
+Anexo n.º 2 - «Identificação dos espaços naturais»;
 
-## Anexo n.º 3 - «Identificação dos espaços culturais»;
+Anexo n.º 3 - «Identificação dos espaços culturais»;
 
-## Anexo n.º 4 - «Servidões administrativas e outras restrições de utilidade pública ao uso do solo».
+Anexo n.º 4 - «Servidões administrativas e outras restrições de utilidade pública ao uso do solo».
 
 ###### Artigo 2.º — Prazo de vigência e revisão
 
@@ -461,7 +712,7 @@ QUADRO N.º 1
 
 Edificabilidade, zonas da cidade de Bragança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
 
 ###### Artigo 10.º — Lugares de estacionamento
 
@@ -471,7 +722,7 @@ QUADRO N.º 2
 
 Critérios para lugares de estacionamento na cidade de Bragança, na vila de Izeda e nas aldeias, com excepção da zona histórica, das zonas antigas e das zonas de habitação consolidada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
 
 2 - O número mínimo de lugares de estacionamento na zona histórica é estabelecido no quadro n.º 3. A sua aplicação é diferenciada de acordo com as seguintes regras:
 
@@ -485,7 +736,7 @@ QUADRO N.º 3
 
 Critérios para lugares de estacionamento na zona histórica, nas zonas antigas e nas zonas de habitação consolidada da cidade de Bragança, na vila de Izeda e nas aldeias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
 
 3 - O tráfego motorizado na cidadela será tendencialmente restrito a moradores, cargas e descargas, ambulâncias e viaturas de segurança pública, pelo que não são exigíveis os lugares para estacionamento público previstos no quadro n.º 3.
 
@@ -557,7 +808,7 @@ QUADRO N.º 4
 
 Edificabilidade, zonas da vila de Izeda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
 
 ###### Artigo 15.º — Lugares de estacionamento
 
@@ -617,7 +868,7 @@ QUADRO N.º 5
 
 Edificabilidade, zonas das aldeias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
 
 ###### Artigo 20.º — Lugares de estacionamento
 
@@ -789,7 +1040,7 @@ QUADRO N.º 6
 
 Edificabilidade nos espaços agrícolas e florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
 
 ### CAPÍTULO VI — Espaços florestais
 
@@ -1063,13 +1314,13 @@ QUADRO N.º 7
 
 Servidões non aedificandi e excepções nos espaços-canais integrantes das redes rodoviárias municipais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
 
 QUADRO N.º 8
 
 Implantações condicionadas a afastamentos mínimos relativamente aos espaços-canais integrantes das redes rodoviárias municipais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
 
 ### CAPÍTULO X — Áreas de protecção dos sistemas de abastecimento de águas e de esgotos das águas residuais domésticas
 
@@ -2211,7 +2462,7 @@ Decreto de 19 de Dezembro de 1892 - Regulamento dos Serviços Hidráulicos:
 
 ### CAPÍTULO II — Das concessões para obras
 
-###### Art. 261.º Não é permitido igualmente sem licença:
+Art. 261.º Não é permitido igualmente sem licença:
 
 1.º As plantações ou execução de quaisquer obras, quer permanentes quer temporárias, nas margens, leitos ou álveos das lagoas, rios, valas, canais, e mais corrente de água, quer públicas quer comuns, e nos seus cômoros, motas, valados, diques, campos e terrrenos maginais inundados habitualmente pelas águas, quer ordinárias quer de cheias, e as plantações e edificações para aquém da linha que nos terrenos junto aos leitos limita o domínio do Estado;
 
@@ -2219,17 +2470,17 @@ Decreto de 19 de Dezembro de 1892 - Regulamento dos Serviços Hidráulicos:
 
 3.º As plantações ou execução de quaisquer obras, quer permanentes quer temporárias, nas margens, álveos ou leitos das lagoas, ribeiros, lagos, pântanos e mais correntes de água não navegáveis nem flutuáveis, quando tiverem por fim o uso industrial das águas, ou forem feitas por indivíduos não proprietários dos prédios confinantes com o cursos de águas ou invidíduos proprietários de prédios confinantes, mas em localidades diferentes daquela onde se pretendem construir as obras.
 
-###### Art. 262.º Todas as licenças para obras nas margens e leitos dos rios, lagos, lagoas, valas ou quaisquer outras correntes de água, ou para uso das águas respectivas, serão sempre concedidas com a declaração expressa de que o são sem prejuízo de direitos de terceiros, aos quais fica portanto livre a faculdade de interpor judicialmente as acções competentes para fazer valer os seus direitos.
+Art. 262.º Todas as licenças para obras nas margens e leitos dos rios, lagos, lagoas, valas ou quaisquer outras correntes de água, ou para uso das águas respectivas, serão sempre concedidas com a declaração expressa de que o são sem prejuízo de direitos de terceiros, aos quais fica portanto livre a faculdade de interpor judicialmente as acções competentes para fazer valer os seus direitos.
 
 [Decreto-Lei n.º 23925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23925-1934-464419), de 29 de Maio de 1934:
 
-###### Art. 5.º As obras a executar no subsolo e espaço aéreo das áreas onde se exerce a jurisdição da Direcção-Geral dos Serviços Hidráulicas [...] ficam sujeitas ao regime aplicável às margens e leitos dos cursos de água.
+Art. 5.º As obras a executar no subsolo e espaço aéreo das áreas onde se exerce a jurisdição da Direcção-Geral dos Serviços Hidráulicas [...] ficam sujeitas ao regime aplicável às margens e leitos dos cursos de água.
 
 [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), de 26 de Fevereiro (define o regime das zonas adjacentes).
 
 [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro (define o regime das albufeiras de águas públicas de serviço público):
 
-###### Art. 7.º - 1 - As zonas de protecção das albufeiras de águas públicas classificadas como protegidas, de utilização limitada e de utilização livre terão a largura de 500 m, contada a partir da linha do nível de pleno armazenamento (NPA) e medida na horizontal.
+Art. 7.º - 1 - As zonas de protecção das albufeiras de águas públicas classificadas como protegidas, de utilização limitada e de utilização livre terão a largura de 500 m, contada a partir da linha do nível de pleno armazenamento (NPA) e medida na horizontal.
 
 2 - As zonas de protecção das albufeiras de águas públicas classificadas como condicionadas terão uma largura de 200 m, a contar da linha do NPA.
 
@@ -2239,7 +2490,7 @@ Decreto de 19 de Dezembro de 1892 - Regulamento dos Serviços Hidráulicos:
 
 5 - As zonas de respeito das barragens e dos órgãos de segurança e utilização das albufeiras de águas públicas serão estabelecidas por despacho ministerial e farão parte integrante das zonas de protecção das albufeiras classificadas, ficando submetidas aos condicionalismos destas, sem prejuízo dos que possam vir a ser fixados especificamente para essas zonas de respeito.
 
-###### Art. 8.º Nas zonas de protecção das albufeiras de águas públicas classificadas ficam proibidos:
+Art. 8.º Nas zonas de protecção das albufeiras de águas públicas classificadas ficam proibidos:
 
 a) O estabelecimento de indústrias que produzam ou usem produtos químicos tóxicos ou com elevados teores de fósforo ou de azoto;
 
@@ -2275,7 +2526,7 @@ c) Sempre que tal se justifique, poderá a atribuição de licença de estabelec
 
 ...
 
-## TÍTULO III
+TÍTULO III
 
 Das restrições ao regime de direito privado
 
@@ -2321,7 +2572,7 @@ Decreto n.º 84/90, de 16 de Março (aprova o Regulamento das Águas de Nascente
 
 Decreto n.º 86/90 de 16 de Março (aprova o Regulamento das Águas Minerais):
 
-###### Art. 27.º - 1 - O perímetro de protecção e as respectivas zonas, previstos no n.º 4 do artigo 12.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de Março, são fixadas por portaria dos membros do Governo competentes, sob proposta do concessionário.
+Art. 27.º - 1 - O perímetro de protecção e as respectivas zonas, previstos no n.º 4 do artigo 12.º do [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de Março, são fixadas por portaria dos membros do Governo competentes, sob proposta do concessionário.
 
 2 - A proposta a que se refere o número anterior deverá ser apresentada pelo concessionário na Direcção-Geral, instruída, nomeadamente, com os seguintes elementos:
 
@@ -2341,7 +2592,7 @@ Decreto-Lei n.º 38039 (proíbe a plantação de eucaliptos, acácias e ailantus
 
 [Decreto-Lei n.º 175/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1988-374803), de 17 de Maio.
 
-###### Artigo 1.º - 1 - As acções de arborização e rearborização com recurso a espécies florestais de rápido crescimento exploradas em revoluções curtas estão condicionadas a autorização prévia da Direcção-Geral das Florestas.
+Artigo 1.º - 1 - As acções de arborização e rearborização com recurso a espécies florestais de rápido crescimento exploradas em revoluções curtas estão condicionadas a autorização prévia da Direcção-Geral das Florestas.
 
 2 - Para efeitos do disposto no número anterior consideram-se apenas as acções que envolvam áreas superiroes a 50 ha, considerando-se para este limite a inclusão de povoamentos preexistentes das mesmas espécies, em continuidade no mesmo prédio ou em prédios distintos, incluídos ou não na mesma unidade empresarial.
 
@@ -2351,7 +2602,7 @@ Decreto-Lei n.º 38039 (proíbe a plantação de eucaliptos, acácias e ailantus
 
 ...
 
-###### Art. 5.º - 1 - Sempre que na área territorial do município se verifique um desenvolvimento espacial de povoamentos de espécies de rápido crescimento exploradas em revoluções curtas que exceda 25% da respectiva superfície, deverão todas as acções de arborização e rearborização com recurso a essas espécies ser objecto do procedimento previsto no n.º 1 do artigo 1.º, independentemente da sua dimensão.
+Art. 5.º - 1 - Sempre que na área territorial do município se verifique um desenvolvimento espacial de povoamentos de espécies de rápido crescimento exploradas em revoluções curtas que exceda 25% da respectiva superfície, deverão todas as acções de arborização e rearborização com recurso a essas espécies ser objecto do procedimento previsto no n.º 1 do artigo 1.º, independentemente da sua dimensão.
 
 [Portaria n.º 513/89](https://diariodarepublica.pt/dr/detalhe/portaria/513-1989-619701), de 6 de Julho:
 
@@ -2359,7 +2610,7 @@ Decreto-Lei n.º 38039 (proíbe a plantação de eucaliptos, acácias e ailantus
 
 [Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de Abril:
 
-###### Artigo 1.º - 1 - Carecem de licença das câmaras municipais:
+Artigo 1.º - 1 - Carecem de licença das câmaras municipais:
 
 a) As acções de destruição do revestimento vegetal que não tenham fins agrícolas;
 
@@ -2367,7 +2618,7 @@ b) As acções de aterro ou escavação que conduzam à alteração do relevo na
 
 2 - As câmaras municipais, sempre que não disponham de serviços técnicos qualificados para se pronunciarem sobre as licenças a conceder para as acções referidas no número anterior, solicitarão, para o efeito, parecer aos serviços centrais, regionais ou locais dos ministérios competentes.
 
-###### Art. 2.º - 1 - Exceptuam-se do disposto no artigo anterior:
+Art. 2.º - 1 - Exceptuam-se do disposto no artigo anterior:
 
 a) As acções que, estando sujeitas ao regime legal específico, já se encontrem devidamente autorizadas, licenciadas ou aprovadas pelos órgãos competentes;
 
@@ -2377,7 +2628,7 @@ b) As acções preparatórias de outras que se encontrem na situação descrita 
 
 [Decreto-Lei n.º 327/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1990-565445), de 22 de Outubro:
 
-###### Artigo 1.º - 1 - Nos terrenos com povoamentos florestais percorridos por incêndios ficam proibidas, pelo prazo de 10 anos a contar da data do fogo:
+Artigo 1.º - 1 - Nos terrenos com povoamentos florestais percorridos por incêndios ficam proibidas, pelo prazo de 10 anos a contar da data do fogo:
 
 a) Todas as acções que tenham por objecto, ou simplesmente tenham por efeito, a divisão em lotes de qualquer área de um ou vários prédios destinados, imediata e subsequentemente, à construção;
 
@@ -2401,11 +2652,11 @@ j) O campismo fora dos locais destinados a esse fim.
 
 [Decreto-Lei n.º 334/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1990-565874), de 29 de Outubro:
 
-###### Artigo 1.º - 1 - Quem proceder ao corte, abate ou desbaste de árvores em povoamentos florestais é obrigado a proceder à recolha e transportes dos produtos sobrantes para local afastado no mínimo de 200 m da mata, que deverá ser previamente limpo de mato ou outra qualquer vegetação.
+Artigo 1.º - 1 - Quem proceder ao corte, abate ou desbaste de árvores em povoamentos florestais é obrigado a proceder à recolha e transportes dos produtos sobrantes para local afastado no mínimo de 200 m da mata, que deverá ser previamente limpo de mato ou outra qualquer vegetação.
 
 2 - A operação descrita no número anterior deve ser efectuada no prazo máximo de 15 dias a contar do termo do corte, abate ou desbaste das árvores.
 
-###### Art. 2.º - 1 - Constitui contra-ordenação punível com coima [...]:
+Art. 2.º - 1 - Constitui contra-ordenação punível com coima [...]:
 
 a) Fazer queimadas em terrenos situados no interior das matas ou na sua periferia até 300 m dos seus limites;
 
@@ -2437,7 +2688,7 @@ e) Executar os trabalhos preventivos que, no uso dos poderes conferidos na alín
 
 [Decreto-Lei n.º 355/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1979-370045), de 30 de Agosto:
 
-###### Art. 6.º - 1 - Dentro dos limites do Parque Natural de Montesinho (excluindo os perímetros urbanos dos aglomerados), ficam sujeitos a autorização da comissão instaladora:
+Art. 6.º - 1 - Dentro dos limites do Parque Natural de Montesinho (excluindo os perímetros urbanos dos aglomerados), ficam sujeitos a autorização da comissão instaladora:
 
 a) Construção, reconstrução, ampliação ou demolição de edifícios e outras construções de qualquer natureza;
 
@@ -2457,7 +2708,7 @@ g) Captação e desvio de águas.
 
 ...
 
-###### Art. 8.º É aplicável às obras e trabalhos efectuados com inobservância do preceituado neste diploma o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro (Lei dos Solos).
+Art. 8.º É aplicável às obras e trabalhos efectuados com inobservância do preceituado neste diploma o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro (Lei dos Solos).
 
 2 - Património cultural:
 
@@ -2467,13 +2718,13 @@ g) Captação e desvio de águas.
 
 ### CAPÍTULO II — Do regime específico dos bens imóveis
 
-###### Art. 22.º - 1 - Os imóveis classificados pelo Ministério da Cultura dispõem sempre de uma zona especial de protecção.
+Art. 22.º - 1 - Os imóveis classificados pelo Ministério da Cultura dispõem sempre de uma zona especial de protecção.
 
 2 - Deverá ser fixada uma zona especial de protecção, em prazos a estabelecer pelo Ministéro da Cultura, sob proposta do IPPC, com audição das autarquias, nela podendo incluir-se uma zona non aedificandi em todos os casos, salvo naqueles cujo enquadramento fique perfeitamente salvaguardado com a zona de protecção tipo.
 
 3 - Enquanto não for fixada uma zona especial de protecção, os imóveis classificados beneficiarão de uma zona de protecção de 50 m contados a partir dos limites exteriores do imóvel.
 
-###### Art. 23.º - 1 - As zonas de protecção dos imóveis classificados nos termos do artigo anterior são servidões administrativas, nas quais não podem ser autorizadas pelas câmaras municipais ou por outras entidades alienações ou quaisquer obras de demolição, instalação, construção, reconstrução, criação ou transformação de zonas verdes, bem como qualquer movimento de terras ou dragagens, nem alteração ou diferente utilização contrária à traça originária, sem prévia autorização do Ministro da Cultura.
+Art. 23.º - 1 - As zonas de protecção dos imóveis classificados nos termos do artigo anterior são servidões administrativas, nas quais não podem ser autorizadas pelas câmaras municipais ou por outras entidades alienações ou quaisquer obras de demolição, instalação, construção, reconstrução, criação ou transformação de zonas verdes, bem como qualquer movimento de terras ou dragagens, nem alteração ou diferente utilização contrária à traça originária, sem prévia autorização do Ministro da Cultura.
 
 2 - Todos os pedidos de licença de obras em bens classificados ou na área da respectiva zona de protecção devem ser elaborados e subscritos por técnicos especializados de qualificação reconhecida ou sob a sua directa responsabilidade.
 
@@ -2483,7 +2734,7 @@ g) Captação e desvio de águas.
 
 ### CAPÍTULO IV — Do regime específico do património arqueológico
 
-###### Art. 40.º - 1 - Em qualquer lugar onde se presuma a existência de monumentos, conjuntos ou sítios arqueológicos poderá ser estabelecida, com carácter preventivo e temporário, pelo Ministério da Cultura uma reserva arqueológica de protecção, por forma a garantir-se a execução de trabalhos de emergência, com vista a determinar o seu interesse.
+Art. 40.º - 1 - Em qualquer lugar onde se presuma a existência de monumentos, conjuntos ou sítios arqueológicos poderá ser estabelecida, com carácter preventivo e temporário, pelo Ministério da Cultura uma reserva arqueológica de protecção, por forma a garantir-se a execução de trabalhos de emergência, com vista a determinar o seu interesse.
 
 3 - Qualquer particular que se prove ter sido directamente prejudicado por efeito do disposto no n.º 1 poderá requerer indemnização à entidade responsável pelo estabelecimento da reserva arqueológica.
 
@@ -2491,29 +2742,29 @@ g) Captação e desvio de águas.
 
 [Decreto-Lei n.º 34993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34993-1945-468233), de 11 de Outubro de 1945:
 
-###### Artigo 1.º As zonas de protecção de edifícios públicos não classificados como monumentos nacionais, a estabelecer ao abrigo do Decreto 21875, de 18 de Novembro de 1932, serão fixadas pelo Ministro das Obras Públicas e Comunicações, sobre proposta da Direcção Geral dos Serviços de Urbanização.
+Artigo 1.º As zonas de protecção de edifícios públicos não classificados como monumentos nacionais, a estabelecer ao abrigo do Decreto 21875, de 18 de Novembro de 1932, serão fixadas pelo Ministro das Obras Públicas e Comunicações, sobre proposta da Direcção Geral dos Serviços de Urbanização.
 
 § único. Aos serviços encarregados da construção e conservação dos edifícios a que se refere o presente artigo compete sugerir à Direcção-Geral dos Serviços de Urbanização o estabelecimento das respectivas zonas de protecção, fazendo acompanhar as suas sugestões das peças desenhadas e outros elementos necessários à completa apreciação do problema.
 
-###### Art. 2.º As câmaras municipais não poderão conceder licenças para a construção ou reconstrução de edifícios particulares nas zonas de protecção fixadas nos termos do artigo 1.º do presente diploma sem prévia aprovação dos respectivos projectos pelo Ministro das Obras Públicas e Comunicações, que decidirá depois de ouvida a Direcção-Geral dos Serviços de Urbanização.
+Art. 2.º As câmaras municipais não poderão conceder licenças para a construção ou reconstrução de edifícios particulares nas zonas de protecção fixadas nos termos do artigo 1.º do presente diploma sem prévia aprovação dos respectivos projectos pelo Ministro das Obras Públicas e Comunicações, que decidirá depois de ouvida a Direcção-Geral dos Serviços de Urbanização.
 
 [Decreto-Lei n.º 40388](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40388-1955-247242), de 21 de Novembro de 1955:
 
-###### Artigo 1.º Fica o Governo autorizado a aplicar aos edifícios e outras construções de interesse público cuja natureza ou importância especiais assim o requeiram as disposições que em relação a zonas de protecção e edifícios públicos não classificados como monumentos nacionais foram fixadas pelo [Decreto n.º 21875](https://diariodarepublica.pt/dr/detalhe/decreto/21875-1932-596932), de 18 de Novembro de 1932, com as alterações e aditamentos introduzidos pelo Decretos-Leis n.os 31467, de 19 de Agosto de 1941, e 34993, de 11 de Outubro de 1945.
+Artigo 1.º Fica o Governo autorizado a aplicar aos edifícios e outras construções de interesse público cuja natureza ou importância especiais assim o requeiram as disposições que em relação a zonas de protecção e edifícios públicos não classificados como monumentos nacionais foram fixadas pelo [Decreto n.º 21875](https://diariodarepublica.pt/dr/detalhe/decreto/21875-1932-596932), de 18 de Novembro de 1932, com as alterações e aditamentos introduzidos pelo Decretos-Leis n.os 31467, de 19 de Agosto de 1941, e 34993, de 11 de Outubro de 1945.
 
 § único. A fixação das zonas de protecção ao abrigo do presente diploma será feita pelo Ministro das Obras Públicas, sob proposta fundamentada da Direcção-Geral dos Serviços de Urbanização, ouvida a câmara municipal interessada, e mediante parecer do Conselho Superior de Obras Públicas.
 
-###### Art. 2.º A Direcção-Geral dos Serviços de Urbanização, mediante despacho do Ministro das Obras Públicas, é compentente para promover directamente o embargo e a demolição das obras realizadas sem prévia autorização nas zonas de protecção dos edifícios ou construções de interesse público não classificados como monumentos nacionais, e, bem assim, das obras realizadas nas áreas urbanizadas ou urbanizáveis com desrespeito dos condicionamentos fixados nos respectivos planos de urbanização e seus regulamentos.
+Art. 2.º A Direcção-Geral dos Serviços de Urbanização, mediante despacho do Ministro das Obras Públicas, é compentente para promover directamente o embargo e a demolição das obras realizadas sem prévia autorização nas zonas de protecção dos edifícios ou construções de interesse público não classificados como monumentos nacionais, e, bem assim, das obras realizadas nas áreas urbanizadas ou urbanizáveis com desrespeito dos condicionamentos fixados nos respectivos planos de urbanização e seus regulamentos.
 
 Num caso e noutro não assistirá ao proprietário direito a qualquer indemnização.
 
 [Decreto-Lei n.º 39847](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39847-1954-678600), de 8 de Outubro de 1954:
 
-###### Artigo único. Os projectos de novas construções e de reconstruções importantes a levar a efeito nas zonas de protecção fixadas ao abrigo dos Decretos-Leis n.os 21875 e 34993, respectivamente de 18 de Novembro de 1932 e 11 de Outubro de 1945, deverão ser assinados por arquitectos ou engenheiros civis diplomados por escolas nacionais, ou por arquitectos ou engenheiros civis diplomados por escolas estrangeiras equivalentes às nacionais, que estejam devidamente inscritos no Sindicato Nacional dos Arquitectos ou na Ordem dos Engenheiros.
+Artigo único. Os projectos de novas construções e de reconstruções importantes a levar a efeito nas zonas de protecção fixadas ao abrigo dos Decretos-Leis n.os 21875 e 34993, respectivamente de 18 de Novembro de 1932 e 11 de Outubro de 1945, deverão ser assinados por arquitectos ou engenheiros civis diplomados por escolas nacionais, ou por arquitectos ou engenheiros civis diplomados por escolas estrangeiras equivalentes às nacionais, que estejam devidamente inscritos no Sindicato Nacional dos Arquitectos ou na Ordem dos Engenheiros.
 
 [Decreto-Lei n.º 28468](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28468-1938-230365), de 15 de Fevereiro de 1938:
 
-###### Artigo 1.º O arranjo, incluindo o corte e a derrama das árvores em jardins, parques, matas ou manchas de arvoredo existentes nas zonas de protecção de monumentos nacionais, edifícios de interesse público ou edifícios do Estado de reconhecido valor arquitectónico, definidos nos termos do Decreto com força de lei n.º 20985, de 7 de Março de 1932, e no [Decreto n.º 21875](https://diariodarepublica.pt/dr/detalhe/decreto/21875-1932-596932), de 18 de Novembro de 1932, respectivamente, fica sujeito a autorização prévia da Direcção-Geral da Fazenda Pública, ouvidas as indicações de ordem técnica das Direcções-Gerais dos Edifícios e Monumentos Nacionais e dos Serviços Flroestais e Aquícolas e parecer da Junta Nacional de Educação (6.ª Secção).
+Artigo 1.º O arranjo, incluindo o corte e a derrama das árvores em jardins, parques, matas ou manchas de arvoredo existentes nas zonas de protecção de monumentos nacionais, edifícios de interesse público ou edifícios do Estado de reconhecido valor arquitectónico, definidos nos termos do Decreto com força de lei n.º 20985, de 7 de Março de 1932, e no [Decreto n.º 21875](https://diariodarepublica.pt/dr/detalhe/decreto/21875-1932-596932), de 18 de Novembro de 1932, respectivamente, fica sujeito a autorização prévia da Direcção-Geral da Fazenda Pública, ouvidas as indicações de ordem técnica das Direcções-Gerais dos Edifícios e Monumentos Nacionais e dos Serviços Flroestais e Aquícolas e parecer da Junta Nacional de Educação (6.ª Secção).
 
 § único. Consideram-se abrangidos, para todos os efeitos, pelo disposto neste artigo os exemplares isolados de espécie vegetais que, pela sua raridade, a Direcção-Geral dos Serviços Florestais e Aquícolas classifique de interesse público.
 
@@ -2601,13 +2852,13 @@ c) O estabelecimento de postos de abastecimento de combustíveis ou as obras nel
 
 [Decreto-Lei n.º 13/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1994-509198), de 15 de Janeiro:
 
-###### Artigo 1.º - 1 - O presente diploma aplica-se às estradas nacionais constantes do Plano Rodoviário Nacional.
+Artigo 1.º - 1 - O presente diploma aplica-se às estradas nacionais constantes do Plano Rodoviário Nacional.
 
 2 - Exceptuam-se do disposto no número anterior a construção de áreas de serviço, de repouso ou outros equipamentos de apoio à estrada ou aos seus utentes.
 
 ...
 
-###### Art. 3.º - 1 - As faixas de terreno de 200 m situadas em cada lado do eixo da estrada, bem como o solo situado num círculo de 1300 m de diâmetro centrado em cada nó de ligação, são consideradas zonas de servidão non aedificandi de protecção à estrada a construir ou reconstruir.
+Art. 3.º - 1 - As faixas de terreno de 200 m situadas em cada lado do eixo da estrada, bem como o solo situado num círculo de 1300 m de diâmetro centrado em cada nó de ligação, são consideradas zonas de servidão non aedificandi de protecção à estrada a construir ou reconstruir.
 
 2 - A servidão a que se refere o número anterior é constituída com a publicação, no Diário da República, da aprovação de estudo prévio de uma estrada nacional ou de documento equivalente, nomeadamente estudos de viabilidade ou plantas à escala e esboços corográficos devidamente cotados, desde que superiormente aprovados.
 
@@ -2615,9 +2866,9 @@ c) O estabelecimento de postos de abastecimento de combustíveis ou as obras nel
 
 4 - A servidão manter-se-á até à publicação, nos termos do Código das Expropriações, de acto declarativo de utilidade pública dos terrenos e da respectiva planta parcelar.
 
-###### Art. 4.º Quando existam planos de alinhamento devidamente aprovados pela JAE, nas zonas referidas no artigo anterior, pode aquela entidade autorizar a redução dos limites indicados no n.º 1 daquela disposição.
+Art. 4.º Quando existam planos de alinhamento devidamente aprovados pela JAE, nas zonas referidas no artigo anterior, pode aquela entidade autorizar a redução dos limites indicados no n.º 1 daquela disposição.
 
-###### Art. 5.º Após a publicação da planta parcelar para o caso dos IP, IC e OE, bem como para as estradas nacionais já existentes, ficam estabelecidas as seguintes zonas de servidão non aedificandi:
+Art. 5.º Após a publicação da planta parcelar para o caso dos IP, IC e OE, bem como para as estradas nacionais já existentes, ficam estabelecidas as seguintes zonas de servidão non aedificandi:
 
 a) Para os IP: 50 m para cada lado do eixo da estrada, e nunca menos de 20 m da zona da estrada;
 
@@ -2625,11 +2876,11 @@ b) Para os IC: 35 m para cada lado do eixo da estrada, e nunca menos de 15 m da 
 
 c) Para as OE: 20 m para cada lado do eixo da estrada, e nunca menos de 5 m da zona da estrada.
 
-###### Art. 6.º - 1 - Nos caso dos ramos dos nós de ligação, ramais de acesso, cruzamentos e entroncamentos das estradas nacionais entre si ou com estradas não nacionais a distância a considerar na determinação dos terrenos que integram as zonas de servidão non aedificandi será a distância correspondente à categoria da estrada nacional onde nasce o ramo ou o ramal.
+Art. 6.º - 1 - Nos caso dos ramos dos nós de ligação, ramais de acesso, cruzamentos e entroncamentos das estradas nacionais entre si ou com estradas não nacionais a distância a considerar na determinação dos terrenos que integram as zonas de servidão non aedificandi será a distância correspondente à categoria da estrada nacional onde nasce o ramo ou o ramal.
 
 2 - A marcação da distância a que se refere o número anterior prolongar-se-á, com valor constante, até ao perfil transversal do ponto de tangência do ramo ou ramal com a via secundária, não se considerando, em consequência, zona de transição entre as faixas de servidão non aedificandi referentes a cada uma das estradas ligadas pelo ramo ou ramal.
 
-###### Art. 7.º - 1 - As servidões a estabelecer nos termos do presente diploma não prejudicam a possibilidade de construção de vedações dos terrenos, desde que não excedam a altura de 2,5 m, podendo as mesmas ser cheias até 0,9 m de altura, contada da conformação natural do solo, nos seguintes termos:
+Art. 7.º - 1 - As servidões a estabelecer nos termos do presente diploma não prejudicam a possibilidade de construção de vedações dos terrenos, desde que não excedam a altura de 2,5 m, podendo as mesmas ser cheias até 0,9 m de altura, contada da conformação natural do solo, nos seguintes termos:
 
 a) No caso dos IP e IC, a uma distância mínima de 7 m da zona da estrada;
 
@@ -2637,7 +2888,7 @@ b) No caso das OE, a uma distância mínima de 5 m da zona da estrada.
 
 2 - A construção das vedações carece de autorização da JAE, a conceder no prazo máximo de 30 dias após a recepção do pedido, e será recusada quando se verifique que da mesma resultam inconvenientes para a manutenção das condições de circulação e de segurança da estrada, designadamente a nível de visibilidade.
 
-###### Art. 8.º - 1 - Nos IP e IC é proibida a ocupação da zona da estrada a título definitivo ou precário, com excepção de equipamentos ou serviços de telecomunicações relacionados com a exploração e, em especial, com a segurança das rodovias.
+Art. 8.º - 1 - Nos IP e IC é proibida a ocupação da zona da estrada a título definitivo ou precário, com excepção de equipamentos ou serviços de telecomunicações relacionados com a exploração e, em especial, com a segurança das rodovias.
 
 2 - Quaisquer outras infra-estruturas ou equipamentos, afectos ou não à concessão de serviço público, podem ser implantados ou instalados ao longo da faixa de 7 m integrante do domínio público marginal à zona da estrada, mediante aprovação da JAE, salvo se existirem impedimentos de natureza técnica, devidamente justificados, e havendo sempre lugar ao pagamento de uma taxa.
 
@@ -2647,9 +2898,9 @@ b) No caso das OE, a uma distância mínima de 5 m da zona da estrada.
 
 5 - No caso previsto no número anterior, deverão os respectivos projectos e planos de trabalho ser submetidos a aprovação da JAE, que se pronunciará no prazo máximo de 30 dias após a sua recepção, prorrogável por igual período quando a complexidade ou dimensão das infra-estruturas e equipamentos o justifiquem.
 
-###### Art. 9.º Nas OE, a implantação ou instalação das infra-estruturas e equipamentos a que se refere o artigo anterior deve fazer-se fora dos limites da plataforma da estrada, admitindo-se, em caso de interesse público de especial relevo, devidamente comprovado, o atravessamento perpendicular ao eixo da estrada, nos exactos termos definidos para as restantes estradas nacionais, mediante aprovação da JAE em conformidade com o n.º 5 daquele artigo.
+Art. 9.º Nas OE, a implantação ou instalação das infra-estruturas e equipamentos a que se refere o artigo anterior deve fazer-se fora dos limites da plataforma da estrada, admitindo-se, em caso de interesse público de especial relevo, devidamente comprovado, o atravessamento perpendicular ao eixo da estrada, nos exactos termos definidos para as restantes estradas nacionais, mediante aprovação da JAE em conformidade com o n.º 5 daquele artigo.
 
-###### Art. 10.º - 1 - Ficam proibidos os acessos directos aos IP e IC por parte de propriedades públicas ou privadas e de vias municipais não classificadas.
+Art. 10.º - 1 - Ficam proibidos os acessos directos aos IP e IC por parte de propriedades públicas ou privadas e de vias municipais não classificadas.
 
 2 - A JAE promoverá o levantamento das situações existentes que se não conformem com o disposto no número anterior, devendo proceder ao estudo de soluções que tendam à sua eliminação, as quais submeterá à aprovação do Ministro das Obras Públicas, Transportes e Comunicações.
 
@@ -2681,7 +2932,7 @@ b) No caso das OE, a uma distância mínima de 5 m da zona da estrada.
 
 ### CAPÍTULO III — O caminho de ferro e os proprietários confinantes
 
-###### Art. 30.º - 1 - Os proprietários e possuidores de prédios confinantes com o caminho de ferro não podem nesses prédios plantar árvores ou fazer construções a distância inferior a 1,5 m. Exceptuam-se desta proibição os muros, sebes, grades e quaisquer outras obras destinadas a vedar o terreno, as quais podem ser feitas nas estremas do prédio.
+Art. 30.º - 1 - Os proprietários e possuidores de prédios confinantes com o caminho de ferro não podem nesses prédios plantar árvores ou fazer construções a distância inferior a 1,5 m. Exceptuam-se desta proibição os muros, sebes, grades e quaisquer outras obras destinadas a vedar o terreno, as quais podem ser feitas nas estremas do prédio.
 
 2 - A distância a que se refere o número anterior mede-se da aresta superior da escavação, ou da aresta inferior do talude de aterro, ou da borda exterior dos fossos do caminho.
 
@@ -2693,7 +2944,7 @@ Na falta destes pontos de referência, medir-se-á de uma linha traçada a 1,50 
 
 ...
 
-###### Art. 33.º É proibido aos proprietários ou possuidores de prédios confinantes com o caminho de ferro:
+Art. 33.º É proibido aos proprietários ou possuidores de prédios confinantes com o caminho de ferro:
 
 1.º Fazer exlorações minerais ou subterrâneas que possam afectar a segurança da circulação dos comboios;
 
@@ -2705,7 +2956,7 @@ Na falta destes pontos de referência, medir-se-á de uma linha traçada a 1,50 
 
 [Decreto n.º 15401](https://diariodarepublica.pt/dr/detalhe/decreto/15401-1928-645711), de 20 de Abril de 1928:
 
-###### Art. 77.º Para todas as nascentes de águas potáveis que servem para o abastecimento público de povoações de importância podem as autoridades locais requerer a concessão da área de defesa bacteriológica nos termos dos artigos 25.º e 45.º
+Art. 77.º Para todas as nascentes de águas potáveis que servem para o abastecimento público de povoações de importância podem as autoridades locais requerer a concessão da área de defesa bacteriológica nos termos dos artigos 25.º e 45.º
 
 3.4 - Sistemas de esgoto das águas residuais:
 
@@ -2719,11 +2970,11 @@ Na falta destes pontos de referência, medir-se-á de uma linha traçada a 1,50 
 
 [Decreto-Lei n.º 488/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315), de 25 de Novembro:
 
-###### Artigo 1.º O detentor de resíduos, qualquer que seja a sua natureza e origem, deve promover a sua recolha, armazenagem, transporte e eliminação ou utilização de tal forma que não ponham em perigo a saúde humana nem causem prejuízo ao ambiente.
+Artigo 1.º O detentor de resíduos, qualquer que seja a sua natureza e origem, deve promover a sua recolha, armazenagem, transporte e eliminação ou utilização de tal forma que não ponham em perigo a saúde humana nem causem prejuízo ao ambiente.
 
 ...
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 ...
 
@@ -2733,7 +2984,7 @@ a) Definir os sistemas municipais para remoção, tratamento e destino final dos
 
 ...
 
-###### Art. 7.º - 1 - As câmara municipais e, bem assim, as empresas e unidades de saúde, em relação aos seus próprios resíduos, devem organizar e manter actualizado um inventário que indique, com adequada referência temporal, as quantidades, natureza, origem e destino dos resíduos produzidos ou recolhidos.
+Art. 7.º - 1 - As câmara municipais e, bem assim, as empresas e unidades de saúde, em relação aos seus próprios resíduos, devem organizar e manter actualizado um inventário que indique, com adequada referência temporal, as quantidades, natureza, origem e destino dos resíduos produzidos ou recolhidos.
 
 [Portaria n.º 768/88](https://diariodarepublica.pt/dr/detalhe/portaria/768-1988-357109), de 30 de Novembro:
 
@@ -2745,7 +2996,7 @@ a) Definir os sistemas municipais para remoção, tratamento e destino final dos
 
 Decreto regulamentar n.º 1/92, de 18 de Fevereiro (Regulamento de Segurança das Linhas de Alta Tensão):
 
-###### Art. 79.º - 1 - Na proximidade de edifícios, com excepção dos exclusivamente adstritos ao serviço de exploração de instalações eléctricas, as linhas serão estabelecidas por forma a observar-se, nas condições de flecha máxima, o seguinte:
+Art. 79.º - 1 - Na proximidade de edifícios, com excepção dos exclusivamente adstritos ao serviço de exploração de instalações eléctricas, as linhas serão estabelecidas por forma a observar-se, nas condições de flecha máxima, o seguinte:
 
 a) Em relação às coberturas, chaminés e todas as partes salientes susceptíveis de serem normalmente escaladas por pessoas, os condutores nus deverão ficar, desviados ou não pelo vento, a uma distância D, em metros, arredondada ao decimetro, não inferior à dada pela expressão:
 
@@ -2791,7 +3042,7 @@ h) A varandas ou paredes de sacada: 2,50 m acima do pavimento; 1,20 m de afastam
 
 [Decreto-Lei n.º 446/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), de 5 de Junho (alterações ao Regulamento de Licenças para Instalações Eléctricas):
 
-###### Art. 2.º - 1 - Os planos de urbanização de aglomerados populacionais ou as suas ampliações deverão incluir sempre as infra-estruturas de abastecimento de energia eléctrica, sob a forma de projecto ou anteprojecto, incluindo os corredores de acesso para linhas eléctricas de alta tensão destinadas a alimentação dos aglomerados.
+Art. 2.º - 1 - Os planos de urbanização de aglomerados populacionais ou as suas ampliações deverão incluir sempre as infra-estruturas de abastecimento de energia eléctrica, sob a forma de projecto ou anteprojecto, incluindo os corredores de acesso para linhas eléctricas de alta tensão destinadas a alimentação dos aglomerados.
 
 Na elaboração do anteprojecto deverá ouvir-se o distribuidor público, que dará o seu parecer por escrito.
 
@@ -2805,7 +3056,7 @@ Considera-se como parecer concordante a falta de resposta no prazo de 45 dias.
 
 [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro:
 
-###### Art. 8.º Nas zonas de libertação primárias é proibido, salvo autorização dada pela instância oficial competente, ouvida a entidade exploradora do centro radioeléctrico protegido, qualquer acção que envolva:
+Art. 8.º Nas zonas de libertação primárias é proibido, salvo autorização dada pela instância oficial competente, ouvida a entidade exploradora do centro radioeléctrico protegido, qualquer acção que envolva:
 
 a) A instalação ou manutenção, ainda que temporária, de estruturas ou outros obstáculos metálicos;
 
@@ -2827,7 +3078,7 @@ Despacho conjunto A-7/91-XII, de 9 de Junho de 1992 (FH Nogueira-Miranda do Dour
 
 2) Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos terminais, encontra-se demarcada em plano horizontal na planta topográfica, na escala de 1:250000 conforme o anexo I a este despacho.
 
-5 - 1) Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção, sobre a linha atrás referida, das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
+5 - 1) Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção, sobre a linha atrás referida, das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
 
 2) O elipsóide da 1.ª zona de Fresnel e o perfil do terreno entre as antenas consideradas estão representados em plano vertical no anexo II a este despacho, nas escalas seguintes: eixo das abcissas 1:400000; eixo das ordenadas 1:6000.
 
@@ -2849,7 +3100,7 @@ Despacho conjunto de 9 de Março de 1993 (FH Bragança-Nogueira):
 
 4.2 - Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos terminais, encontra-se demarcada em plano horizontal na planta topográfica, na escala de 1:250000 conforme o anexo I a este despacho.
 
-5 - 1 - Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção sobre a linha atrás referida das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
+5 - 1 - Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção sobre a linha atrás referida das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
 
 5.2 - O elipsóide da 1.ª zona de Fresnel e o perfil do terreno entre as antenas consideradas estão representados em plano vertical no anexo II a este despacho, nas escalas seguintes: eixo das abcissas 1:50000; eixo das ordenadas 1:10000.
 
@@ -2871,7 +3122,7 @@ Despacho conjunto de 9 de Março de 1993 (FH Nogueira-Vinhais):
 
 4.1 - Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos terminais, encontra-se demarcada em plano horizontal na planta topográfica, na escala de 1:25000, conforme o anexo I a este despacho.
 
-5.1 - Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção sobre a linha atrás referida, das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
+5.1 - Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção sobre a linha atrás referida, das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
 
 5.2 - O elipsóide da 1.ª zona de Fresnel e o perfil do terreno entre as antenas consideradas estão representados em plano vertical no anexo II a este despacho, nas escalas seguintes: eixo das abcissas 1:100000; eixo das ordenadas 1:10000.
 
@@ -2893,7 +3144,7 @@ Despacho conjunto de 9 de Março de 1993 (FH Nogueira-Vimioso):
 
 4.2 - Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos terminais, encontra-se demarcada em plano horizontal na planta topográfica, na escala de 1:25000 conforme o anexo I a este despacho.
 
-5.1 - Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção sobre a linha atrás referida, das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
+5.1 - Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção sobre a linha atrás referida, das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
 
 5.2 - O elipsóide da 1.ª zona de Fresnel e o perfil do terreno entre as antenas consideradas estão representados em plano vertical no anexo II a este despacho, nas escalas seguintes: eixo das abcissas 1:125000; eixo das ordenadas 1:10000.
 
@@ -2915,7 +3166,7 @@ Despacho conjunto de 9 de Março de 1993 (FH Padrela-Nogueira):
 
 4.2 - Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos terminais encontra-se demarcada em plano horizontal na planta topográfica, na escala de 1:25000 conforme o anexo I a este despacho.
 
-5.1 - Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção sobre a linha atrás referida, das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
+5.1 - Na zona de desobstrução definida no número anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais, menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf), sendo d1 e d2 obtidos pela projecção sobre a linha atrás referida, das distâncias em quilómetros, entre o ponto considerado e os pontos extremos.
 
 5.2 - O elipsóide da 1.ª zona de Fresnel e o perfil do terreno entre as antenas consideradas estão representados em plano vertical no anexo II a este despacho, nas escalas seguintes: eixo das abcissas 1:400000; eixo das ordenadas 1:10000.
 
@@ -2931,11 +3182,11 @@ c) Aplicar, nos termos do artigo 24 do [Decreto-Lei n.º 597/73](https://diariod
 
 [Decreto do Governo n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-governo/3-1988-286938), de 20 de Fevereiro:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com o radiofarol NDB de Bragança, abrangidos na planta anexa a este decreto e constituindo uma zona assim definida:
+Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com o radiofarol NDB de Bragança, abrangidos na planta anexa a este decreto e constituindo uma zona assim definida:
 
 Zona primária do NDB: terrenos situados no interior de uma circunferência de 300 m de raio, com centro no NDB [M = 116918 e P = 237478 de coordenadas rectangulares referidas ao ponto central (Melriça)].
 
-###### Art. 2.º Os terrenos compreendidos na zona definida no artigo anterior ficam sujeitos a servidão, nos termos do artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença da Direcção-Geral da Aviação Civil (DGAC) a execução dos trabalhos e actividades seguintes:
+Art. 2.º Os terrenos compreendidos na zona definida no artigo anterior ficam sujeitos a servidão, nos termos do artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença da Direcção-Geral da Aviação Civil (DGAC) a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -2955,9 +3206,9 @@ h) Quaisquer outros trabalhos ou actividades que inequivocamente possam afectar 
 
 Anteprojecto de decreto do Governo (processo DNA/DINFRA/9.1.4.1.7) de 29 de Janeiro de 1990:
 
-###### Artigo 1.º Fica sujeita a servidão aeronáutica a área confinante com o Aeródromo Municipal de Bragança, indicada na planta anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º Fica sujeita a servidão aeronáutica a área confinante com o Aeródromo Municipal de Bragança, indicada na planta anexa ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º - 1 - A área sujeita a servidão compreende as seguintes zonas:
+Art. 2.º - 1 - A área sujeita a servidão compreende as seguintes zonas:
 
 a) Zona 1 (zona de ocupação e 1.ª zona de protecção): área de terreno ocupado pelo Aeródromo e a necessária ao seu desenvolvimento e protecção, incluindo as zonas consideradas de maior risco estatístico de acidente; os respectivos limites são definidos por um rectângulo, com vértices nos pontos com as seguintes coordenadas rectangulares: (+118846; +245420), (+118559; +245484), (+118364; +243270), (+118077; +243335), respectivamente M e P;
 
@@ -2969,11 +3220,11 @@ d) Zona 4 (superfície cónica): área de terreno confinante com a zona 3 e limi
 
 2 - As coordenadas rectagulares referidas neste diploma são do sistema Hayford-Gauss, com datum no ponto central (Melriça).
 
-###### Art. 3.º Na zona 1 é proibida a execução dos trabalhos e actividades constantes do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, exceptuando-se apenas os que, directa ou indirectamente, se tornem indispensáveis à segurança e regular funcionamento do Aeródromo.
+Art. 3.º Na zona 1 é proibida a execução dos trabalhos e actividades constantes do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, exceptuando-se apenas os que, directa ou indirectamente, se tornem indispensáveis à segurança e regular funcionamento do Aeródromo.
 
-###### Art. 4.º Os terrenos compreendidos na zona 2 ficam sujeitos a servidão geral, nos termos do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964.
+Art. 4.º Os terrenos compreendidos na zona 2 ficam sujeitos a servidão geral, nos termos do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964.
 
-###### Art. 5.º - 1 - Ficam sujeitos a servidão particular, de acordo com o disposto no artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), as áreas de terreno compreendidas nas zonas a seguir indicadas, necessitando de licença prévia da Direcção-Geral da Aviação Civil as construções ou a criação de quaisquer obstáculos, mesmo de caráter temporário, nas seguintes condições:
+Art. 5.º - 1 - Ficam sujeitos a servidão particular, de acordo com o disposto no artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), as áreas de terreno compreendidas nas zonas a seguir indicadas, necessitando de licença prévia da Direcção-Geral da Aviação Civil as construções ou a criação de quaisquer obstáculos, mesmo de caráter temporário, nas seguintes condições:
 
 1.º Na zona 3: quando ultrapassem a cota de 730 m;
 
@@ -2981,7 +3232,7 @@ d) Zona 4 (superfície cónica): área de terreno confinante com a zona 3 e limi
 
 2 - As cotas indicadas neste artigo são referenciadas à rede de nivelamento do País, datum de Cascais e, quando variáveis, aumentam uniformemente com a distância ao eixo da pista de aeródromo ou, no caso de áreas circulares, com a distância aos respectivos centros.
 
-###### Art. 6.º Em todo o espaço abrangido por esta servidão ficam proibidos, sem licença prévia da Direcção-Geral da Aviação Civil, as actividades columbólifas e de columbicultura, o lançamento para o ar de projectéis ou objectos susceptíveis de porem em risco a segurança da navegação área (incluindo fogos-de-artifício ou outros), bem como a execução de todas as contruções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações por rádio ou nas emissões das radioajudas ou produzir poeiras ou fumos susceptíveis de alterar as condições de visibilidade.
+Art. 6.º Em todo o espaço abrangido por esta servidão ficam proibidos, sem licença prévia da Direcção-Geral da Aviação Civil, as actividades columbólifas e de columbicultura, o lançamento para o ar de projectéis ou objectos susceptíveis de porem em risco a segurança da navegação área (incluindo fogos-de-artifício ou outros), bem como a execução de todas as contruções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações por rádio ou nas emissões das radioajudas ou produzir poeiras ou fumos susceptíveis de alterar as condições de visibilidade.
 
 4 - Equipamentos colectivos:
 
@@ -2989,15 +3240,15 @@ d) Zona 4 (superfície cónica): área de terreno confinante com a zona 3 e limi
 
 [Decreto-Lei n.º 37575](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37575-1949-265742), de 8 de Outubro de 1949:
 
-###### Artigo 1.º Os terrenos para construção de edifícios escolares não deverão ficar, em regra, a menos de 200 m de cemitérios ou estabelecimentos qualificados como insalubres, incómodos, tóxicos ou perigosos.
+Artigo 1.º Os terrenos para construção de edifícios escolares não deverão ficar, em regra, a menos de 200 m de cemitérios ou estabelecimentos qualificados como insalubres, incómodos, tóxicos ou perigosos.
 
 § único. Em casos especiais, justificados, entre outros factores, pelas condições topográficas e regime de ventos do local, ou ainda pelas características das instalações a considerar, poderá admitir-se um afastamento inferior ao mencionado no corpo deste artigo, mediante parecer favorável da Direcção-Geral de Saúde e da Direcção-Geral dos Serviços de Urbanização quando se trate de centros populacionais para os quais seja legalmente obrigatória a elaboração de plano de urbanização.
 
-###### Art. 2.º Sem prejuízo do preceituado no regulamento do respectivo plano de urbanização, se o houver, e também das disposições da legislação relativa a zonas de protecção de edifícios públicos, é proibido erigir qualquer construção cuja distância a um edifício escolar previsto, em execução ou já concluído, ou a qualquer das suas dependências urbanas ou rurais, seja inferior a uma vez e meia a altura da referida construção, com um mínimo de 12 m.
+Art. 2.º Sem prejuízo do preceituado no regulamento do respectivo plano de urbanização, se o houver, e também das disposições da legislação relativa a zonas de protecção de edifícios públicos, é proibido erigir qualquer construção cuja distância a um edifício escolar previsto, em execução ou já concluído, ou a qualquer das suas dependências urbanas ou rurais, seja inferior a uma vez e meia a altura da referida construção, com um mínimo de 12 m.
 
 São igualmente proibidos, com a ressalva dos casos especiais a que alude o § único do artigo anterior, instalações da natureza das citadas no corpo do referido artigo a menos de 200 m do perímetro de um terreno destinado ou afecto já a uma edificação escolar.
 
-###### Art. 3.º As câmaras municipais, os serviços do Ministério das Obras Públicas que superintendem na construção dos edifícios escolares e os serviços respectivos do Ministério da Educação Nacional são competentes para promover o embargo e a demolição das obras feitas em contravenção do disposto no artigo 2.º
+Art. 3.º As câmaras municipais, os serviços do Ministério das Obras Públicas que superintendem na construção dos edifícios escolares e os serviços respectivos do Ministério da Educação Nacional são competentes para promover o embargo e a demolição das obras feitas em contravenção do disposto no artigo 2.º
 
 4.2 - Equipamentos de saúde:
 
@@ -3057,9 +3308,9 @@ Observação. - Para além das previstas no [Decreto-Lei n.º 117/94](https://di
 
 [Portaria n.º 6065](https://diariodarepublica.pt/dr/detalhe/portaria/6065-1929-355742), de 30 de Março de 1929:
 
-###### Art. 4.º Os estabelecimentos compreendidos na 1.ª classe deverão ficar sempre afastados das habitações e instalados dentro de uma zona preventiva de isolamento que será fixada para cada caso especial.
+Art. 4.º Os estabelecimentos compreendidos na 1.ª classe deverão ficar sempre afastados das habitações e instalados dentro de uma zona preventiva de isolamento que será fixada para cada caso especial.
 
-###### Art. 5.º Os estabelecimentos compreendidos na 2.ª classe poderão estar contíguos ou próximos das habitações, conforme as condições locais, a probabilidade da futura habitação das vizinhanças e a natureza e a importância do estabelecimento; em todo o caso, ficarão sujeitos a condições que atenuem os seus inconvenientes.
+Art. 5.º Os estabelecimentos compreendidos na 2.ª classe poderão estar contíguos ou próximos das habitações, conforme as condições locais, a probabilidade da futura habitação das vizinhanças e a natureza e a importância do estabelecimento; em todo o caso, ficarão sujeitos a condições que atenuem os seus inconvenientes.
 
 § único. Quando se verifique que não podem estar contíguos das habitações, ser-lhes-á marcada a respectiva zona de isolamento.
 
@@ -3097,7 +3348,7 @@ Estabelecimentos de 1.ª classe [...]:
 
 Decreto-Lei n.º 422/75, de 11 e 26 de Agosto (Regulamento de Segurança das Instalações para Armazenagem e Tratamento Industrial de Petróleos Brutos, Seus Derivados e Resíduos):
 
-###### Artigo 1.º - 1 - Os reservatórios de gases de petróleo liquefeito deverão ser instalados no exterior de edifícios e, quer sejam amovíveis, quer sejam fixos, deverão estar localizados, em relação aos edifícios mais próximos ou à linha divisória da propriedade adjacente onde se possa vir a construir, de acordo com a tabela I anexa ao presente diploma.
+Artigo 1.º - 1 - Os reservatórios de gases de petróleo liquefeito deverão ser instalados no exterior de edifícios e, quer sejam amovíveis, quer sejam fixos, deverão estar localizados, em relação aos edifícios mais próximos ou à linha divisória da propriedade adjacente onde se possa vir a construir, de acordo com a tabela I anexa ao presente diploma.
 
 ...
 
@@ -3111,4 +3362,4 @@ Distâncias mínimas de protecção (em metros) a edifícios e linha divisória 
 
 para as capacidades úteis por reservatório, em água e metros cúbicos, respectivamente, de 100 a 200, de 30 a 100, de 8 a 30, de 2,5 a 8, de 0,5 a 2,5 e inferior a 0,5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf))](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/080b00/18681943.pdf)

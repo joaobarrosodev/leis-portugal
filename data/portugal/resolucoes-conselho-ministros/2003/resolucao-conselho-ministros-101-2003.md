@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101/2003/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2003-647110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ab91a2278a1645f244c86e8b060864b99b7f640152ce048b2bbfb048fcb752f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 353989663dbca6e78cc2b3572624ae72ef6406814f4e59f6bbf0a237a318c257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Exoneração
-- Mudança Tecnológica
 - Encarregado de Missão
-- Projeto de Investimento
+- Exoneração
+- Formação Profissional
 - Intervenção Operacional da Economia
+- Mudança Tecnológica
 - Nomeação
-- Programa Ideia
-- QCA III
-- Programa Quadros
 - Prime
-- Setor Empresarial
+- Programa Ideia
 - Programa Operacional da Economia
+- Programa Quadros
+- Projeto de Investimento
+- QCA III
+- Setor Empresarial
 relationships:
 - type: amended_by
   target: pt:dre:545431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Determinada a superintendência pelo Ministro do Turismo no que concerne aos projectos referentes ao turismo, da\
+    \ actividade do gabinete do gestor do PRIME criado pelo presente diploma, pelo DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A\
+    \ [286] de 07.12.2004\004\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
+- type: amended_by
+  target: pt:dre:2354681:por
+  label: "Exonerada a Dr.a Maria da Piedade Brito Monteiro Valente, pela RES.28/2005(2ªSérie).12.05.2005.PCM, DR.IIS [108]\
+    \ de 06.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/28-2005-2354681
+  date: '2005-05-12'
+- type: amended_by
+  target: pt:dre:2478753:por
+  label: "Extinta, a partir de 01.10.2008, a autoridade do Gabinete de Gestão do PRIME, pelo DESP.25290/2008.10.10.2008.MEI,\
+    \ DR.IIS [197] de 10.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/25290-2008-2478753
+  date: '2008-10-10'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -124,16 +143,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/58/2002/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/58/2002/03/14/p/dre
+- type: cites
+  target: pt:dre:197496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545630:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:10Z'
   warnings: []
   errors: []
 ---

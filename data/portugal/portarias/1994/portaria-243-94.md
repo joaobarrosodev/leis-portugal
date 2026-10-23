@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/090b00/18361838.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/243/1994/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-1994-264747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8acff621e4de73f63fab85a6f1f0f4ef25e94cba127cfd7a3501b72f7ef4936e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eca3d7e7e12c93e3615634456734f4959de6b606cb8c5f0e0da85ecaf5cf3134
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gado Caprino
 - Circulação de GADO
 - Gado Bovino
+- Gado Caprino
+- Gado Ovino
 - Gado Suíno
 - Importação
-- Gado Ovino
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:433825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantida em vigor pelo DEC LEI.245/96.1996.12.20.MADRP DR.IS-A [294], até à data da entrada em vigor da portaria\
+    \ correspondente, prevista no art 26º. do mesmo diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-12-20'
 - type: cites
   target: celex:31992L0102
   label: null
@@ -89,16 +95,21 @@ relationships:
   target: celex:31993D0317
   label: null
   source: http://data.europa.eu/eli/dec/1993/317/oj
+- type: repealed_by
+  target: pt:dre:433825:por
+  label: "Revogada pelo DEC LEI.338/99.1999.08.24.MADRP DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1999-433825
+  date: '1999-08-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:51Z'
   warnings: []
   errors: []
 ---
@@ -137,15 +148,15 @@ Manda o Governo, pelos Ministros da Justiça e da Agricultura, que seja aprovado
 
 Ministérios da Justiça e da Agricultura.
 
-**Assinada em 23 de Março de 1994.**
+Assinada em 23 de Março de 1994.
 
-**O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.**
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
 Regulamento da Identificação e Registo de Animais
 
-###### Artigo 1.º O presente diploma estabelece as exigências mínimas em matéria de identificação e registo de animais, sem prejuízo de regras específicas estabelecidas para erradicação ou controlo de doenças.
+Artigo 1.º O presente diploma estabelece as exigências mínimas em matéria de identificação e registo de animais, sem prejuízo de regras específicas estabelecidas para erradicação ou controlo de doenças.
 
-###### Art. 2.º Para efeitos do presente diploma, entende-se por:
+Art. 2.º Para efeitos do presente diploma, entende-se por:
 
 a) Animal: qualquer animal das espécies bovina, suína, ovina e caprina;
 
@@ -157,13 +168,13 @@ d) Autoridade competente: o Instituto de Protecção da Produção Agro-Alimenta
 
 e) Comércio: o comércio entre Estados membros, tanto de produtos deles originários como de produtos provenientes de países terceiros, que se encontrem em livre prática nos Estados membros.
 
-###### Art. 3.º - 1 - A autoridade competente deve dispor de uma lista actualizada de todas as explorações situadas no território nacional em que existam animais abrangidos pelo presente diploma, na qual se mencionem as espécies de animais existentes e os seus detentores, devendo essas explorações constar da referida lista durante três anos após o desaparecimento dos animais.
+Art. 3.º - 1 - A autoridade competente deve dispor de uma lista actualizada de todas as explorações situadas no território nacional em que existam animais abrangidos pelo presente diploma, na qual se mencionem as espécies de animais existentes e os seus detentores, devendo essas explorações constar da referida lista durante três anos após o desaparecimento dos animais.
 
 2 - Na lista a que se refere o número anterior deverá igualmente constar a marca ou marcas utilizadas para identificação da exploração, nos termos das alíneas a) e d) do n.º 1 do artigo 8.º e do artigo 13.º
 
 3 - O acesso a todas as informações obtidas ao abrigo do presente diploma deverá ser facultado à Comissão da Comunidade Europeia (Comissão), à autoridade competente e à autoridade responsável pela execução do Regulamento (CEE) n.º [3508/92](http://data.europa.eu/eli/reg/1992/3508/oj?locale=pt), de 27 de Novembro.
 
-###### Art. 4.º - 1 - Todos os detentores de animais das espécies bovina e suína incluídos na lista prevista no n.º 1 do artigo 3.º devem manter um registo em que se indique o número de animais presentes na sua exploração.
+Art. 4.º - 1 - Todos os detentores de animais das espécies bovina e suína incluídos na lista prevista no n.º 1 do artigo 3.º devem manter um registo em que se indique o número de animais presentes na sua exploração.
 
 2 - O registo a que se refere o número anterior deve incluir uma informação actualizada de todos os nascimentos, mortes e deslocações de animais - número de animais envolvidos em cada operação de entrada e saída -, pelo menos com base em conjuntos deslocados, com menção, consoante o caso, da origem ou destino dos animais e da data das deslocações.
 
@@ -171,7 +182,7 @@ e) Comércio: o comércio entre Estados membros, tanto de produtos deles origin�
 
 4 - No caso de suínos de raça pura e híbridos inscritos num livro genealógico, nos termos da Portaria n.º 500/93, de 12 de Maio, pode ser comunitariamente reconhecido um sistema de registo baseado numa identificação individual dos animais, se esse sistema oferecer garantia equivalente a um registo.
 
-###### Art. 5.º - 1 - Os detentores de ovinos e caprinos cujas explorações constem da lista prevista no n.º 1 do artigo 3.º devem manter um registo contendo, pelo menos, o número total de ovinos e caprinos presentes na exploração em cada ano, numa data a determinar pela autoridade competente.
+Art. 5.º - 1 - Os detentores de ovinos e caprinos cujas explorações constem da lista prevista no n.º 1 do artigo 3.º devem manter um registo contendo, pelo menos, o número total de ovinos e caprinos presentes na exploração em cada ano, numa data a determinar pela autoridade competente.
 
 2 - O registo a que se refere o número anterior incluirá igualmente:
 
@@ -179,13 +190,13 @@ a) Um assento actualizado do número de fêmeas presentes na exploração com ma
 
 b) As deslocações de ovinos e caprinos - número de animais envolvido em cada operação de entrada e saída -, pelo menos com base em conjuntos deslocados, com menção, consoante o caso, da origem ou destino dos animais e da data das deslocações.
 
-###### Art. 6.º - 1 - Os detentores de animais devem fornecer à autoridade competente, a pedido desta, todas as informações relativas à origem, identificação e, se for caso disso, destino dos animais que tiverem possuído, detido, transportado, comercializado ou abatido.
+Art. 6.º - 1 - Os detentores de animais devem fornecer à autoridade competente, a pedido desta, todas as informações relativas à origem, identificação e, se for caso disso, destino dos animais que tiverem possuído, detido, transportado, comercializado ou abatido.
 
 2 - Os detentores dos animais destinados a um mercado ou centro de reagrupamento, ou deles provenientes, devem fornecer ao operador, temporariamente detentor dos animais no mercado ou no centro de reagrupamento, um documento com informações pormenorizadas sobre esses animais, nomeadamente os números ou marcas de identificação dos bovinos, podendo esse operador utilizar os documentos obtidos para cumprir as obrigações previstas no n.º 3 do artigo 4.º
 
 3 - Os registos e informações devem estar disponíveis na exploração e ser colocados à disposição da autoridade competente, a seu pedido, durante um período mínimo de três anos.
 
-###### Art. 7.º As marcas de identificação devem respeitar os seguintes princípios gerais:
+Art. 7.º As marcas de identificação devem respeitar os seguintes princípios gerais:
 
 a) Devem ser aplicadas antes de os animais abandonarem a exploração de nascimento;
 
@@ -195,7 +206,7 @@ c) O detentor assentará qualquer nova marca no registo referido no artigo 4.º,
 
 d) A marca auricular prevista na alínea a) do n.º 1 do artigo 8.º deve ser de um modelo aprovado pela autoridade competente, à prova de falsificação e legível durante toda a vida do animal, não podendo ser utilizada mais de uma vez e devendo ser concebida de modo a permanecer aposta no animal sem interferir com o seu bem-estar.
 
-###### Art. 8.º - 1 - A marcação dos bovinos deve respeitar as seguintes regras:
+Art. 8.º - 1 - A marcação dos bovinos deve respeitar as seguintes regras:
 
 a) Os animais presentes numa exploração devem ser identificados através de uma marca auricular que inclua um código alfanumérico com um máximo de 14 caracteres que permita identificar individualmente cada animal e a sua exploração de nascimento ou, no caso dos touros destinados a manifestações culturais ou desportivas, excluindo feiras e exposições, segundo um sistema de identificação que ofereça garantias equivalentes e seja reconhecido pela Comissão;
 
@@ -207,25 +218,25 @@ d) A autoridade competente pode permitir que os vitelos destinados a abate antes
 
 2 - O código de uma marca auricular de bovino deve iniciar-se com as letras que identificam o Estado membro de origem, segundo a correspondência prevista no anexo a este Regulamento, e ser completado por uma série de números ou letras que permitam identificar o animal e a exploração em que nasceu.
 
-###### Art. 9.º Os suínos, ovinos e caprinos devem ser marcados, o mais rapidamente possível e sempre antes de deixarem a exploração, com uma marca auricular ou uma tatuagem que permita relacionar o animal com a sua exploração de proveniência e fazer uma referência à lista referida no n.º 1 do artigo 3.º, devendo os documentos de acompanhamento mencionar essa marca.
+Art. 9.º Os suínos, ovinos e caprinos devem ser marcados, o mais rapidamente possível e sempre antes de deixarem a exploração, com uma marca auricular ou uma tatuagem que permita relacionar o animal com a sua exploração de proveniência e fazer uma referência à lista referida no n.º 1 do artigo 3.º, devendo os documentos de acompanhamento mencionar essa marca.
 
-###### Art. 10.º - 1 - Os animais portadores de uma marca temporária de identificação de uma remessa devem ser acompanhados, durante toda a deslocação, por um documento que permita identificar a sua origem, proprietário e locais de partida e de destino.
+Art. 10.º - 1 - Os animais portadores de uma marca temporária de identificação de uma remessa devem ser acompanhados, durante toda a deslocação, por um documento que permita identificar a sua origem, proprietário e locais de partida e de destino.
 
 2 - A autoridade competente pode autorizar a deslocação de ovinos e caprinos não munidos de marcas entre explorações com o mesmo estatuto sanitário, pertencentes ao mesmo proprietário e situadas no território português, desde que essa deslocação se realize no âmbito de um sistema nacional que permita relacionar o animal com a exploração de nascimento.
 
-###### Art. 11.º - 1 - Sempre que a autoridade competente do Estado membro de destino decidir não conservar a marca de identificação atribuída à exploração de origem, todas as despesas associadas à substituição da marca estarão a cargo da referida autoridade.
+Art. 11.º - 1 - Sempre que a autoridade competente do Estado membro de destino decidir não conservar a marca de identificação atribuída à exploração de origem, todas as despesas associadas à substituição da marca estarão a cargo da referida autoridade.
 
 2 - Se a marca tiver sido substituída nos termos do número anterior, deverá ser estabelecida uma relação entre a identificação atribuída pela autoridade competente do Estado membro de expedição e a nova identificação atribuída pela autoridade competente do Estado membro de destino, devendo essa relação constar do registo previsto no artigo 4.º
 
 3 - Não se pode recorrer à possibilidade prevista no n.º 1, no caso de animais destinados ao matadouro importados em conformidade com o artigo 13.º, sem necessidade de uma nova marca nos termos dos artigos 7.º a 9.º
 
-###### Art. 12.º Todas as informações relativas às deslocações de animais não acompanhados de um certificado ou documento exigido pela legislação veterinária ou zootécnica devem ser conservadas, a fim de serem apresentadas, a seu pedido, à autoridade competente, durante um período mínimo de três anos.
+Art. 12.º Todas as informações relativas às deslocações de animais não acompanhados de um certificado ou documento exigido pela legislação veterinária ou zootécnica devem ser conservadas, a fim de serem apresentadas, a seu pedido, à autoridade competente, durante um período mínimo de três anos.
 
-###### Art. 13.º - 1 - Os animais importados de um país terceiro que tenham sido submetidos, com resultados satisfatórios, aos controlos previstos na Portaria n.º 574/93, de 4 de Junho, e que permaneçam no território da Comunidade deverão ser identificados por uma marca, tal como previsto nos artigos 7.º a 9.º, nos 30 dias seguintes a terem sido sujeitos a esses controlos e sempre antes da sua deslocação, excepto se a exploração de destino for um matadouro situado no território da autoridade responsável pelos controlos veterinários e se o animal for efectivamente abatido nesse prazo de 30 dias.
+Art. 13.º - 1 - Os animais importados de um país terceiro que tenham sido submetidos, com resultados satisfatórios, aos controlos previstos na Portaria n.º 574/93, de 4 de Junho, e que permaneçam no território da Comunidade deverão ser identificados por uma marca, tal como previsto nos artigos 7.º a 9.º, nos 30 dias seguintes a terem sido sujeitos a esses controlos e sempre antes da sua deslocação, excepto se a exploração de destino for um matadouro situado no território da autoridade responsável pelos controlos veterinários e se o animal for efectivamente abatido nesse prazo de 30 dias.
 
 2 - Deve ser estabelecida uma relação entre a identificação feita pelo país terceiro e a identificação que lhe foi atribuída pelo Estado membro de destino, devendo essa relação constar no registo previstos no artigo 4.º
 
-###### Art. 14.º As regras de identificação e registo de animais previstas no presente Regulamento entram em vigor:
+Art. 14.º As regras de identificação e registo de animais previstas no presente Regulamento entram em vigor:
 
 a) No dia imediato ao da publicação, no que se refere aos bovinos e suínos;
 

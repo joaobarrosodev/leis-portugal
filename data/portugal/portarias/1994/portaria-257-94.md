@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/257/1994/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-1994-302536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d13d78c9bfe2723a1c86d8a173d49632b7933f30c4a897e91553398c661f40b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 398841b7c19f45b1baae7791f2ecd1869f2015a457ac624ef698e26312eb118c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ reuse:
 subjects:
 - Aquisição de Equipamento
 - Aquisição de Imóveis
-- Financiamento
+- CASA do POVO
 - Cooperativa de Ensino
 - Equipamento Social
-- CASA do POVO
+- Financiamento
 - Piddac
 - Segurança Social
 relationships:
@@ -80,20 +80,45 @@ relationships:
   target: pt:dre:407753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407753:por
+  label: "Reposta em vigor pela PORT.328/96.02.08.1996.MSSS, DR.IS-B [178] de 02.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/328-1996-407753
+  date: '1996-08-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/75/1992/05/20/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/75/1992/05/20/p/dre
+- type: cites
+  target: pt:dre:287461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573113:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:12Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +145,6 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 28 de Março de 1994.**
+Assinada em 28 de Março de 1994.
 
-**O Secretário de Estado da Segurança Social, Fernando Mário Teixeira de Almeida.**
+O Secretário de Estado da Segurança Social, Fernando Mário Teixeira de Almeida.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/220b00/59325933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1164/1995/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1164-1995-571644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8d7cfec008e6a0dd749b010aee7dd9a42612bafea149ce0ef0abdd3426820b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4708b32aa6d436310e01fd43f5784e75865590e7c91a903abeeb94cf46caf7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Embarcação
 - Equipamento Eléctrico
-- Instalações Radioelétricas
 - Fiscalização
+- Instalações Radioelétricas
 - Licenciamento
 - Regulamento
 - TAXA de Prestação de Serviços
@@ -77,20 +77,39 @@ relationships:
   target: pt:dre:185335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485058:por
+  label: "Mantida em vigor pelo DEC LEI.190/98.1998.07.10.MEPAT, DR.IS-A [157], considerando-se feitas ao Regulamento por\
+    \ ele aprovado, as referências feitas ao Regulamento neste diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1998-485058
+  date: '1998-07-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/144/1995/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/1995/06/14/p/dre
+- type: cites
+  target: pt:dre:518659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686805:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:185335:por
+  label: "Revogada pela PORT.97/99.1999.02.04.MEPAT, DR.IS-B [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-1999-185335
+  date: '1999-02-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:27Z'
   warnings: []
   errors: []
 ---
@@ -127,8 +146,8 @@ TSF é o valor da remuneração horária normal de um técnico da função públ
 
 Ministério do Mar.
 
-**Assinada em 4 de Setembro de 1995.**
+Assinada em 4 de Setembro de 1995.
 
-**O Ministro do Mar, António Baptista Duarte Silva.**
+O Ministro do Mar, António Baptista Duarte Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/220b00/59325933.pdf))](https://files.diariodarepublica.pt/1s/1995/09/220b00/59325933.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/220b00/59325933.pdf)

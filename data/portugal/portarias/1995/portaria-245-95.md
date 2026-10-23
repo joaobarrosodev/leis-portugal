@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/075b00/17441749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/245/1995/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/245-1995-173698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4223095127b30d910fd9a882b4ce1285fb8eef5c8d91ad9a532f9c4601b6096e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e63f291be45073c7249c7f0a5c0f44fa852e5918950fdfc714f7c609d88a4f45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Controlo Sanitário
 - Gado Bovino
 - Importação
 - País Estrangeiro
 - Política Agrícola Comum
+- Produção Animal
 - Regulamento
 - Troca Intracomunitária
 relationships:
@@ -95,16 +95,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/231/1991/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/231/1991/03/21/p/dre
+- type: repealed_by
+  target: pt:dre:515390:por
+  label: "Revogada pelo Dec Lei.187/2004.07.08.2004.MADRP, DR.IS-A [185] de 07.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2004-515390
+  date: '2004-08-07'
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:59Z'
   warnings: []
   errors: []
 ---
@@ -127,19 +132,19 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, ao abr
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 17 de Fevereiro de 1995.**
+Assinada em 17 de Fevereiro de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.
 
-## ANEXO A QUE SE REFERE A PORTARIA n.º 245/95
+ANEXO A QUE SE REFERE A PORTARIA n.º 245/95
 
 Regulamento das Trocas Intracomunitárias e de Importação de Países Terceiros de Sémen Congelado de Animais da Espécie Bovina
 
 ### CAPÍTULO I — Âmbito de aplicação e definições
 
-###### Artigo 1.º A presente portaria estabelece as condições de polícia sanitária aplicáveis às trocas intracomunitárias e às importações provenientes de países terceiros de sémen de animais da espécie bovina.
+Artigo 1.º A presente portaria estabelece as condições de polícia sanitária aplicáveis às trocas intracomunitárias e às importações provenientes de países terceiros de sémen de animais da espécie bovina.
 
-###### Art. 2.º Para os efeitos da presente portaria aplicam-se:
+Art. 2.º Para os efeitos da presente portaria aplicam-se:
 
 a) As definições das disposições complementares dos Decretos-Leis n.os 80/90, de 12 de Março, e 6/92, de 22 de Janeiro;
 
@@ -161,7 +166,7 @@ vii) Colheita: uma quantidade de sémen retirada de um dador em qualquer altura.
 
 ### CAPÍTULO II — Trocas comerciais intracomunitárias
 
-###### Art. 3.º Só pode ser expedido sémen do território nacional que satisfaça as seguintes condições gerais:
+Art. 3.º Só pode ser expedido sémen do território nacional que satisfaça as seguintes condições gerais:
 
 a) Ter sido colhido e tratado, para inseminação artificial, num centro de colheita autorizado do ponto de vista sanitário, para efeitos de trocas intracomunitárias de acordo com o disposto no anexo A;
 
@@ -171,7 +176,7 @@ c) Ter sido colhido, tratado, armazenado e transportado de acordo com o estipula
 
 d) Ser acompanhado durante o transporte para o país de destino de um certificado sanitário nos termos das alíneas a) e b) do artigo 6.º
 
-###### Art. 4.º - 1 - Sem prejuízo da alínea e), os Estados membros autorizarão a admissão do sémen de touros que reajam negativamente ao teste de seroneutralização ou ao teste ELISA para o rastreio da rinotraqueíte infecciosa bovina ou da vulvovaginite pustulosa infecciosa, ou que reajam positivamente após vacinação efectuada nos termos do presente Regulamento.
+Art. 4.º - 1 - Sem prejuízo da alínea e), os Estados membros autorizarão a admissão do sémen de touros que reajam negativamente ao teste de seroneutralização ou ao teste ELISA para o rastreio da rinotraqueíte infecciosa bovina ou da vulvovaginite pustulosa infecciosa, ou que reajam positivamente após vacinação efectuada nos termos do presente Regulamento.
 
 2 - Até 31 de Dezembro de 1998, a autoridade sanitária competente pode autorizar a admissão de sémen de touros que reajam positivamente ao teste da seroneutralização ou ao teste ELISA para o rastreio da rinotraqueíte infecciosa bovina ou da vulvovaginite pustulosa infecciosa e que não tenham sido vacinados nos termos do presente Regulamento.
 
@@ -183,7 +188,7 @@ d) Ser acompanhado durante o transporte para o país de destino de um certificad
 
 6 - É permitida a admissão de sémen de touros vacinados contra a febre aftosa; no entanto, sempre que o sémen provier de um touro que tenha sido vacinado contra a febre aftosa durante um período de 12 meses que proceda a colheita, 5% do sémen de cada colheita destinado a outro Estado membro (com um mínimo de cinco palhetas) serão submetidos, num laboratório do Estado membro destinatário ou num laboratório por este designado, a uma análise de isolamento do vírus para rastreio da febre aftosa, com resultados negativos.
 
-###### Art. 5.º - 1 - É concedida a autorização prevista na alínea a) do artigo 3.º se forem respeitadas as disposições do anexo A e se o centro de colheita de sémen estiver em condições de respeitar as restantes disposições do presente diploma.
+Art. 5.º - 1 - É concedida a autorização prevista na alínea a) do artigo 3.º se forem respeitadas as disposições do anexo A e se o centro de colheita de sémen estiver em condições de respeitar as restantes disposições do presente diploma.
 
 2 - O veterinário oficial deve controlar a observância das disposições do presente diploma e retirará a autorização quando uma ou várias destas disposições deixarem de ser respeitadas.
 
@@ -195,7 +200,7 @@ d) Ser acompanhado durante o transporte para o país de destino de um certificad
 
 6 - Esta proibição pode ser levantada por meio de novo parecer emitido por um ou vários peritos veterinários, cuja nacionalidade deverá ser de um Estado membro diferente da dos Estados membros em litígio.
 
-###### Art. 6.º - 1 - Aquando da importação, deverá ser apresentado um certificado sanitário do sémen, passado por um veterinário oficial do Estado membro de colheita, nos termos do anexo D.
+Art. 6.º - 1 - Aquando da importação, deverá ser apresentado um certificado sanitário do sémen, passado por um veterinário oficial do Estado membro de colheita, nos termos do anexo D.
 
 2 - O certificado mencionado no número anterior deve ser redigido pelo menos numa das línguas oficiais do Estado membro de colheita, devendo o exemplar original, emitido numa folha única, previsto para um só destinatário, acompanhar o lote até ao destino.
 
@@ -209,13 +214,13 @@ c) As decisões tomadas nos termos das alíneas a) e b) deste número não imped
 
 5 - As decisões tomadas pela autoridade sanitária nacional nos termos dos n.os 3 e 4 devem ser comunicadas com indicação dos fundamentos ao expedidor ou seu mandatário.
 
-###### Art. 7.º - 1 - É concedido aos expedidores cuja remessa de sémen tenha sido objecto das medidas previstas no n.º 3 do artigo 6.º o direito de obterem o parecer de um perito veterinário antes de a autoridade sanitária nacional tomar outras medidas, a fim de determinar se foi respeitado o disposto naquele número.
+Art. 7.º - 1 - É concedido aos expedidores cuja remessa de sémen tenha sido objecto das medidas previstas no n.º 3 do artigo 6.º o direito de obterem o parecer de um perito veterinário antes de a autoridade sanitária nacional tomar outras medidas, a fim de determinar se foi respeitado o disposto naquele número.
 
 2 - O perito veterinário deve ter a nacionalidade de um Estado membro diferente da do Estado membro de colheita ou do de destino.
 
 ### CAPÍTULO III — Importações provenientes de países terceiros
 
-###### Art. 8.º - 1 - Só é autorizada a importação de sémen de animais da espécie bovina provenientes dos países terceiros constantes da lista de países do anexo F.
+Art. 8.º - 1 - Só é autorizada a importação de sémen de animais da espécie bovina provenientes dos países terceiros constantes da lista de países do anexo F.
 
 2 - A inscrição do país terceiro na lista a que se refere o número anterior é condicionada:
 
@@ -231,7 +236,7 @@ e) À organização e à execução da prevenção e da luta contra as doenças 
 
 f) Às garantias que o país terceiro pode dar no que se refere ao cumprimento do disposto no presente Regulamento.
 
-###### Art. 9.º - 1 - Será elaborada uma lista dos centros de colheita de sémen de cuja proveniência os Estados membros podem autorizar a importação de sémen originário de países terceiros, que pode ser completada ou alterada.
+Art. 9.º - 1 - Será elaborada uma lista dos centros de colheita de sémen de cuja proveniência os Estados membros podem autorizar a importação de sémen originário de países terceiros, que pode ser completada ou alterada.
 
 2 - Para decidir se um centro de colheita de sémen situado num país terceiro pode figurar na lista referida no número anterior, deve ter-se em conta o controlo veterinário exercido no país terceiro, no que respeita às modalidades de produção de sémen, os poderes de que os serviços veterinários dispõem e a vigilância a que são submetidos os centros de colheita de sémen.
 
@@ -247,7 +252,7 @@ d) Estar sob vigilância de um veterinário de centro do país terceiro em causa
 
 e) Ser regularmente inspeccionado pelo menos duas vezes por ano por um veterinário do país terceiro em causa.
 
-###### Art. 10.º - 1 - O sémen deve provir de animais que, imediatamente antes da colheita, tenham estado pelo menos seis meses no território de um país terceiro que conste da lista estabelecida nos termos do n.º 1 do artigo 8.º
+Art. 10.º - 1 - O sémen deve provir de animais que, imediatamente antes da colheita, tenham estado pelo menos seis meses no território de um país terceiro que conste da lista estabelecida nos termos do n.º 1 do artigo 8.º
 
 2 - Sem prejuízo do n.º 1 do artigo 8.º e do número anterior, só é autorizada a importação de sémen proveniente de um país terceiro que conste da lista se esse sémen corresponder às prescrições de polícia sanitária adoptadas.
 
@@ -267,7 +272,7 @@ d) As prescrições relativas às análises a que deve ser submetido o sémen.
 
 6 - O disposto no artigo 4.º do presente Regulamento é igualmente aplicado.
 
-###### Art. 11.º - 1 - Só é admitida a importação de sémen se este for acompanhado de um certificado sanitário passado e assinado por um veterinário oficial do país terceiro de colheita.
+Art. 11.º - 1 - Só é admitida a importação de sémen se este for acompanhado de um certificado sanitário passado e assinado por um veterinário oficial do país terceiro de colheita.
 
 2 - O certificado referido no número anterior deve:
 
@@ -277,11 +282,11 @@ b) Acompanhar o sémen no seu exemplar original;
 
 c) Ser previsto para um único destinatário.
 
-###### Art. 12.º As normas previstas na Portaria n.º 774/93, de 3 de Setembro, que fixa princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade, aplicam-se em especial à organização e ao acompanhamento dos controlos a efectuar pelos Estados membros e às medidas de salvaguarda a aplicar.
+Art. 12.º As normas previstas na Portaria n.º 774/93, de 3 de Setembro, que fixa princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade, aplicam-se em especial à organização e ao acompanhamento dos controlos a efectuar pelos Estados membros e às medidas de salvaguarda a aplicar.
 
 ### CAPÍTULO IV — Medidas de salvaguarda
 
-###### Art. 13.º - 1 - Portugal pode, em caso de perigo de propagação de uma doença dos animais devido à introdução no seu território de sémen proveniente de um outro Estado membro, tomar as seguintes medidas:
+Art. 13.º - 1 - Portugal pode, em caso de perigo de propagação de uma doença dos animais devido à introdução no seu território de sémen proveniente de um outro Estado membro, tomar as seguintes medidas:
 
 a) Em caso de uma doença epizoótica noutro Estado membro, proibir ou restringir temporariamente a introdução de sémen proveniente das regiões do território desse Estado membro onde surgiu a doença;
 
@@ -297,11 +302,13 @@ b) No caso de uma doença epizoótica assumir um carácter extensivo, ou em caso
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 14.º - 1 - O presente Regulamento não se aplica ao sémen colhido e tratado num Estado membro antes de 1 de Janeiro de 1990.
+Art. 14.º - 1 - O presente Regulamento não se aplica ao sémen colhido e tratado num Estado membro antes de 1 de Janeiro de 1990.
 
 2 - Até à entrada em vigor das decisões aprovadas em aplicação dos artigos 8.º, 9.º e 10.º, Portugal não aplicará às importações de sémen proveniente de países terceiros condições mais favoráveis do que as que resultam do capítulo II.
 
-## ANEXO A — CAPÍTULO I
+## ANEXO A
+
+### CAPÍTULO I
 
 Condições de autorização dos centros de colheita de sémen
 
@@ -371,7 +378,9 @@ l) Que o agente criogénico utilizado não tenha servido anteriormente para outr
 
 m) Cada dose individual de sémen será acompanhada de uma marca evidente que permita identificar facilmente a data da colheita de sémen, a raça e a identificação do animal dador, o nome do centro e o estatuto serológico do animal dador em relação à rinotraqueíte infecciosa bovina e à vulvovaginite pustulosa infecciosa, eventualmente por código; as características e o modelo desta marca serão definidas por portaria do Ministro da Agricultura.
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Condições aplicáveis à admissão dos animais nos centros autorizados de colheita de sémen
 

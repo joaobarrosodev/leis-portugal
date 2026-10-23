@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 273/1996, 1º Suplemento, Série I-B de 1996-11-25
   number: '273'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4260-(2) a 4260-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/273b01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/183-a/1996/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-a-1996-673215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60b8c6d5c32a0d64e204bbb2c1af407ef22e35ac9abea53a325f400e1014d999
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2095d5140774b08f092bc6b4accb812984ef053de9c7f9fe29cff014fefcc0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Aquisição de Bens e Serviços
+- Equipamento de Pesca
+- Equipamento Informático
 - Formação Profissional
-- Sificap
+- Ifadap
+- Inspecção Geral das Pescas
+- Marinha
 - Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Monicap
-- Equipamento de Pesca
-- Marinha
 - Pesca
-- Inspecção Geral das Pescas
-- Equipamento Informático
-- Ifadap
+- Sificap
 relationships:
 - type: cites
   target: celex:31995D0527
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:55Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/492/1994/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-1994-291588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b03737f4cd05193feeec807605e44fe30350e09794c9bc0225c85f522da4431
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8d28f5b11e8d510c002c51fdb77bcca24572ff4ec1c7b6251bc9bafd81c1286
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,23 @@ relationships:
   target: pt:dre:334936:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS NUM 1 E 6 E SUBSTITUÍDA A PLANTA ANEXA PELA PORT 13/95 DE 07-JAN DR.IS-B [6].\0B [6]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-07'
+- type: amended_by
+  target: pt:dre:204217:por
+  label: "Alterado o nº 1 e aditado um nº 1-A, pela PORT.638/97.1997.08.08.MADRP DR.IS-B [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/638-1997-204217
+  date: '1997-08-08'
+- type: amended_by
+  target: pt:dre:334936:por
+  label: "Renovada a concessão da zona de caça associativa das Alcobertas criada pelo presente diploma, alterada pela Port\
+    \ 13/95, de 07-Jan e pela Port 638/97, de 08-Ago, e anexados a esta zona de caça vários prédios rústicos sitos na freguesia\
+    \ de Alcobertas, pela PORT.447/2010.29.06.2010.MADRP, DR.IS [124] de 29.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/447-2010-334936
+  date: '2010-06-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:59Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +162,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Junho de 1994.**
+Assinada em 7 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/153b00/35453546.pdf))](https://files.diariodarepublica.pt/1s/1994/07/153b00/35453546.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/153b00/35453546.pdf)

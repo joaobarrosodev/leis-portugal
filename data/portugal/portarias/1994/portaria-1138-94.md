@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1138/1994/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1138-1994-574756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a89ea808d8b153f73a816d02f067f534e0fd72c1a975868151df946b730b2b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0061239b83d1b8e2954470b66a99407c29f9a666d38169fbac8d01a4fb0c252
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/9/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:00Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +124,6 @@ Manda o Governo, pelos Ministros das Finanças e da Indústria e Energia, o segu
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 18 de Novembro de 1994.**
+Assinada em 18 de Novembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

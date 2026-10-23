@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/12400/0001700017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/43/2024/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/43-2024-870265819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ebe469162659f26a52f176ef64e4accbbd764635c287d82e0ff980a158aff73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 790778795ae762fb7f4937d6c21362aa5d4bef6a90fac8d443928cc958f8732d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
 - Conselho Superior do Ministério Público
+- Eleição
 relationships:
+- type: amended_by
+  target: pt:dre:1017369014:por
+  label: Declarado que Paulo Rui da Costa Valério renunciou ao mandato pelo(a) Declaração n.º 4/2026/1 - Diário da República
+    n.º 14/2026, Série I de 2026-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/4-2026-1017369014
+  date: '2026-01-21'
+- type: amended_by
+  target: pt:dre:1073606540:por
+  label: Declarado que Orlando Salvador da Silva Cardoso Massarico renunciou ao mandato pelo(a) Declaração n.º 7/2026/1 -
+    Diário da República n.º 54/2026, Série I de 2026-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/7-2026-1073606540
+  date: '2026-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/68/2019/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/68/2019/08/27/p/dre
+- type: cites
+  target: pt:dre:124220738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:45Z'
   warnings: []
   errors: []
 ---
@@ -110,4 +126,6 @@ Pedro Miguel Ramos Almeida (PS).
 
 Aprovada em 19 de junho de 2024.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+117835629

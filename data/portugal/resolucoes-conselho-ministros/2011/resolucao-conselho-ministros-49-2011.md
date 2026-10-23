@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/11/22800/0509305093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/49/2011/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2011-146190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8e73363502f50a6699fd25fea836b1d2475a43da35033e245ac3e23993e6891
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c897d334a2e17d74351268c24ddf63cb358954ab756987c58c3a3d14cc2f9dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Ajuda Comunitária
-- Financiamento
 - Definição de Competências
 - Equipa de Missão
 - FEDER
-- Secretaria Geral
-- Ministro das Finanças
+- Financiamento
 - Integração de Serviços
+- Ministro das Finanças
 - Observatório do QREN
 - Programa Operacional
+- QREN
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:503034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260881:por
+  label: "Integrada na Presidência do Conselho de Ministros (cuja orgânica consta do Dec Lei 126-A/2011 de 29-dez) o Observatório\
+    \ do Quadro de Referência Estratégico Nacional (Observatório do QREN), cujas atribuições e orgânica constam do Dec Lei\
+    \ 312/2007 de 17-set DR.IS [179], com as alterações introduzidas pelos Dec Lei 74/2008 de 22-abr e 99/2009 de 28-abr,\
+    \ anteriormente colocado na dependência do Ministro das Finanças pelo presente diploma, pelo DEC LEI.60/2013.09.05.2013.PCM,\
+    \ DR.IS [89] de 09.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2013-260881
+  date: '2013-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -118,16 +127,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24/2008/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24/2008/02/13/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640354:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:503034:por
+  label: "Revogada pelo DEC LEI.140/2013.18.10.2013.PCM, DR.IS [202] de 18.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2013-503034
+  date: '2013-10-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:54Z'
   warnings: []
   errors: []
 ---

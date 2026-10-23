@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/262b00/68146814.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/993/1994/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/993-1994-534048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6171c16d1c9aaa54f06cd1c7fcc54c901fee9c2f38240d3279426ff899bb8b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75dcc5eadb89f3cedfcf34d7753eb97f315c1eef7331fd1a8d25c7a951ec56e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Ensino de Condução
 - Instrutor de Condução
 - Licenciamento
-- Veículo
 - Livre Circulação de Pessoas
 - Trabalhador Comunitário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:167382:por
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/137/1994/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/137/1994/05/23/p/dre
+- type: cites
+  target: pt:dre:265545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553008:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:167382:por
+  label: "Revogada pelo DR.5/98.1998.04.09.MAI, DR.IS-B [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-1998-167382
+  date: '1998-04-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:17Z'
   warnings: []
   errors: []
 ---
@@ -127,6 +140,6 @@ f) Declaração da escola de condução em que prestou serviço ou declaração,
 
 Ministério da Administração Interna.
 
-**Assinada em 11 de Outubro de 1994.**
+Assinada em 11 de Outubro de 1994.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.

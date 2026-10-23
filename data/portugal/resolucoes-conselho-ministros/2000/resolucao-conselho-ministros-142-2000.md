@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/142/2000/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-2000-533814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8a3b8e12cf253d9b5ad6b21e0e924c90422c7d99e62fbe6322654bbcc1801a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d48a921d70032d9a7a4d3a832d4b46a9cb3e46f89dc325fbb20b99f83d63bc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Marinha Grande
 - Ordenamento do Território
 - Orla Costeira
 - Ovar
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
-- Marinha Grande
+- Proteção do Ambiente
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:107987275:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578559:por
+  label: "Alterada a classificação de praia definida na planta de síntese anexa ao presente diploma, pela RES.76/2005.13.01.2005.PCM,\
+    \ DR.IS-B [56] de 21.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/76-2005-578559
+  date: '2005-01-13'
+- type: amended_by
+  target: pt:dre:553900:por
+  label: "Determinada a suspensão, pelo prazo de três anos, da al. f) do nº 3 do art. 57º do Regulamento do Plano de Ordenamento\
+    \ da Orla Costeira de Ovar-Marinha Grande, pela RES.39/2012.29.03.2012.PCM, DR.IS [64] de 29.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-2012-553900
+  date: '2012-03-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -94,16 +106,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107987275:por
+  label: Revogado, a partir de 11.08.2017, o Plano de Ordenamento da Orla Costeira de Ovar - Marinha Grande (POOC-OMG), aprovado
+    pelo presente diploma, alterado pela Res 76/2005 de 21-mar da PCM, pelo(a) Resolução do Conselho de Ministros n.º 112/2017
+    - Diário da República n.º 154/2017, Série I de 2017-08-10, sem prejuízo do disposto no n.º 7 desta última resolução.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/112-2017-107987275
+  date: '2017-08-10'
 article_structure:
   article_count: 68
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:25Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +187,7 @@ Presidência do Conselho de Ministros, 28 de Setembro de 2000. - O Primeiro-Mini
 
 REGULAMENTO DO PLANO DE ORDENAMENTO DA ORLA COSTEIRA DE OVAR-MARINHA GRANDE
 
-## TÍTULO I
+TÍTULO I
 
 Do plano e sua intervenção
 
@@ -320,7 +363,7 @@ xx) Zona de banhos - correspondente à área do plano de água associado, com um
 
 zz) Zona vigiada - correspondente à área do plano de água associado sujeita a vigilância, onde é garantido o socorro a banhistas, com extensão igual à do areal objecto de concessão ou licença; a zona vigiada inclui a zona de banhos e os canais para actividades aquáticas, desportivas e lúdicas.
 
-## TÍTULO II
+TÍTULO II
 
 Das servidões administrativas e restrições de utilidades pública
 
@@ -356,7 +399,7 @@ l) Domínio hídrico.
 
 3 - Sempre que o domínio hídrico se refira a leitos ou margens das águas do mar ou de correntes navegáveis ou flutuáveis, tal como definidas no artigo 3.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, estes terrenos são designados no presente Regulamento como domínio público hídrico.
 
-## TÍTULO III
+TÍTULO III
 
 Dos usos da orla costeira
 
@@ -1882,7 +1925,7 @@ a) Características das construções - ligeiras ou mistas;
 
 b) Cércea máxima - 3,5 m, contados a partir da cota de soleira.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposições finais e transitórias
 

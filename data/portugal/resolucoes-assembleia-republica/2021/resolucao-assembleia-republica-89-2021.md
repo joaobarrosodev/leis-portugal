@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05800/0000400034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/89/2021/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/89-2021-160076720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 081ee2236a02266b2b10c75d91909b5e835248f7dbba8427ba24fe1684f19347
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c182af4955bbf624e44e408ef2b43438d6dc22cdd14d3ef9713e98540665430
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,83 +66,89 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Humanitária
 - Alfândega
-- Luta contra a Pobreza
+- Alteração Climática
 - ARMA de Destruição Maciça
+- Armamento
 - Asilo Político
 - Austrália
-- Proteção Civil
+- Branqueamento de Capitais
 - CE Países
-- Turismo
-- Desenvolvimento Rural
+- Cibercrime
+- Combate à Droga
+- Combate ao Crime
 - Combate ao Terrorismo
-- Política Fiscal
-- Unesco
-- Proteção dos Animais
+- Comércio
 - Comité Misto
 - Comunicação Social
+- Concorrência
+- Confidencialidade
+- Contratação Pública
 - Contrato Administrativo
 - Controlo Aduaneiro
+- Controlo Sanitário
 - Convenção
+- Cooperação Agrícola
 - Cooperação Comercial
 - Cooperação Consular
-- Cooperação Interempresas
-- Cooperação Financeira
-- Segurança Interna
-- Corrupção
-- Combate ao Crime
-- Crime Organizado
-- Saúde
-- Desenvolvimento Social
-- Concorrência
-- Controlo Sanitário
-- Combate à Droga
-- Migração
-- Política Energética
-- Armamento
-- União Europeia
-- Política de Saúde
-- Política Externa
-- Manila
-- ONU
-- Pesca
-- Branqueamento de Capitais
-- Cibercrime
-- Sociedade da Informação
-- Segurança da Informação
-- Investimento Estrangeiro
-- Investimento no Estrangeiro
-- Matéria-Prima
-- Política de Transportes
-- Segurança Internacional
-- Terrorismo
-- Proteção do Ambiente
-- Desenvolvimento Económico
-- Política da Justiça
-- Cooperação Agrícola
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
+- Cooperação Interempresas
 - Cooperação Internacional
 - Cooperação Judiciária
 - Cooperação Política
+- Corrupção
+- Crime Organizado
+- Desenvolvimento Económico
+- Desenvolvimento Rural
+- Desenvolvimento Social
+- Emprego
+- Investimento Estrangeiro
+- Investimento no Estrangeiro
+- Luta contra a Pobreza
+- Manila
+- Matéria-Prima
+- Migração
+- ONU
+- Pesca
+- Política Agrícola
+- Política da Justiça
+- Política de Educação
+- Política de Emprego
 - Política de Investigação e Desenvolvimento
+- Política de Saúde
+- Política de Transportes
 - Política do Ambiente
 - Política do Audiovisual
 - Política Económica
-- Política de Educação
+- Política Energética
+- Política Externa
 - Política Financeira
-- Proteção Fitossanitária
-- Emprego
-- Política de Emprego
+- Política Fiscal
 - Propriedade Intelectual
-- Confidencialidade
-- Política Agrícola
-- Agricultura
-- Alteração Climática
-- Comércio
-- Contratação Pública
+- Proteção Civil
+- Proteção do Ambiente
+- Proteção dos Animais
+- Proteção Fitossanitária
+- Saúde
+- Segurança da Informação
+- Segurança Interna
+- Segurança Internacional
+- Sociedade da Informação
+- Terrorismo
+- Turismo
+- Unesco
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:160076719:por
+  label: Ratificado o Acordo-Quadro entre a União Europeia e os seus Estados-Membros, por um lado, e a Austrália, por outro,
+    pelo(a) Decreto do Presidente da República n.º 30/2021 - Diário da República n.º 58/2021, Série I de 2021-03-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/30-2021-160076719
+  date: '2021-03-24'
 - type: cites
   target: celex:31995D0553
   label: null
@@ -154,13 +160,13 @@ relationships:
 article_structure:
   article_count: 64
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:57Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +179,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 25 de fevereiro de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 ACORDO-QUADRO ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A AUSTRÁLIA, POR OUTRO
 
@@ -947,4 +953,6 @@ O presente acordo é redigido em dois exemplares, nas línguas alemã, búlgara,
 
 (1) A Austrália concorda com o uso do termo «proteção consular» no presente artigo, em vez do termo «funções consulares», ficando entendido que o primeiro cobre as funções referidas no artigo 9.º da Diretiva (UE) [2015/637](http://data.europa.eu/eli/dir/2015/637/oj?locale=pt) do Conselho, de 20 de abril de 2015, relativa a medidas de coordenação e cooperação para facilitar a proteção consular dos cidadãos da União não representados em países terceiros e que revoga a Decisão 95/553/CE e que tais funções incluem a emissão de passaportes de urgência e/ou de documentos de viagem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05800/0000400034.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05800/0000400034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05800/0000400034.pdf)
+
+114059724

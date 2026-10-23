@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/162/2007/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2007-641419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e1ddb90f6cdb865b59e4c50fdcb97661d2bd78b67944327bc61ace6f67a70d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d38997b489e4ba36e6543b71e7a57472a2b9e409e39644f0d30da33ccbc1ea9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Ajuda Comunitária
-- Financiamento
 - Comissão Directiva
 - Definição de Competências
 - Equipa de Missão
 - FEDER
-- Fundo de Coesão
+- Financiamento
 - FSE
+- Fundo de Coesão
 - Nomeação
 - Presidente
 - Programa Operacional
+- QREN
 - Remuneração
 - Vogal
 relationships:
@@ -85,20 +85,43 @@ relationships:
   target: pt:dre:543032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2478753:por
+  label: "Determinado que as atribuições, direitos e obrigações da autoridade de gestão do PRIME sejam transferidos, a partir\
+    \ de 01.10.2008, para a autoridade de gestão do POFC, criada pelo presentwe diploma, pelo DESP.25290/2008.10.10.2008.MEI,\
+    \ DR.IIS [197] de 10.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/25290-2008-2478753
+  date: '2008-10-10'
+- type: amended_by
+  target: pt:dre:543032:por
+  label: "Alterados os nºs 2, 4, 6 (os três retificados pela Decl Rect 109/2007, de 11-dez) e 11, aditados os nºs 19 e 20\
+    \ e revogados os nºs 8, 15 e 16, pela RES.17/2012.14.02.2012.PCM, DR.IS [32] de 14.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/17-2012-543032
+  date: '2012-02-14'
 - type: cites
   target: celex:32006R1083
   label: null
   source: http://data.europa.eu/eli/reg/2006/1083/oj
+- type: corrected_by
+  target: pt:dre:629162:por
+  label: "Rectificada pela DECL-RECT.106/2007.13.11.2007.PCM, DR.IS [218] de 13.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/106-2007-629162
+  date: '2007-11-13'
+- type: corrected_by
+  target: pt:dre:628791:por
+  label: "Rectificada pela DECL-RECT.109/2007.11.12.2007.PCM, DR.IS [238] de 11.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/109-2007-628791
+  date: '2007-12-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:45Z'
   warnings: []
   errors: []
 ---

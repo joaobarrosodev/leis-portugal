@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/897/1993/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/897-1993-654760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:12:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 127edc259774bdd5d625be54d5ef831bc0a6483e974f7ca31eefe66565fb04f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0156728256023bbc7a20804bcfa5cb4d8d302055c40085204eac36b3120008a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:12:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Licenciamento de Obras
 - Medidas Preventivas
+- Ordenamento do Território
 - Património Histórico
 - Plano de Pormenor
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RATIFICADA A PRORROGAÇÃO DAS MEDIDAS PREVENTIVAS DO PLANO DE PORMENOR DE BELAS PELA PORT 1117/95 DE 14-SET DR.IS-B\
+    \ [213]\0S-B [213]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:12:40Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +127,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 31 de Julho de 1993.**
+Assinada em 31 de Julho de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Medidas preventivas
 
@@ -241,4 +263,4 @@ b) Com a entrada em vigor de qualquer plano de urbanização na área por ele ab
 
 A fiscalização do disposto nos artigos anteriores, bem como a aplicação das sanções previstas no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, será da competência da Câmara Municipal de Sintra.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/220b00/51225124.pdf))](https://files.diariodarepublica.pt/1s/1993/09/220b00/51225124.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/220b00/51225124.pdf)

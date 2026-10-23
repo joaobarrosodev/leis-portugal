@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1032/1995/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1032-1995-431991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c7e616fa5eefe0d7ee7e229930592c42db9f5e690edbf441505766672cd007f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ae856c5de9a5eb0c3fb4fd8adb5dd0e075c1eb3b429ff0492ce3026482f3ab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,23 @@ relationships:
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168797:por
+  label: "Alterado o quadro de pessoal pela PORT.677/96.1996.11.19.PCM, DR.IS-B [268] de 19/Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-1996-168797
+  date: '1996-11-19'
+- type: amended_by
+  target: pt:dre:615864:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção da Port 677/96, de 19-Nov, pela PORT.1090/2000.2000.11.16.MF\
+    \ DR.IS-B [265]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1090-2000-615864
+  date: '2000-11-16'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital de Egas Moniz aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1043/1993/10/18/p/dre
   label: null
@@ -92,16 +109,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/999/1993/10/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/999/1993/10/11/p/dre
+- type: cites
+  target: pt:dre:182664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670288:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:15Z'
   warnings: []
   errors: []
 ---
@@ -126,13 +223,13 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 19 de Julho de 1995.**
+Assinada em 19 de Julho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital de Egas Moniz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/195b00/53385345.pdf))](https://files.diariodarepublica.pt/1s/1995/08/195b00/53385345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/195b00/53385345.pdf)
 
 ## ANEXO I
 
@@ -140,15 +237,15 @@ Unidades orgânicas de natureza técnica:
 
 Direcção de Serviços Farmacêuticos:
 
-##### Divisão de Aquisição e Distribuição de Medicamentos;
+Divisão de Aquisição e Distribuição de Medicamentos;
 
 Direcção de Serviços de Instalações e Equipamento;
 
 Direcção de Serviços de Gestão de Recursos Humanos;
 
-##### Divisão de Organização e Gestão da Informação;
+Divisão de Organização e Gestão da Informação;
 
-##### Divisão de Gestão Financeira.
+Divisão de Gestão Financeira.
 
 Unidades orgânicas de natureza administrativa:
 
@@ -156,29 +253,29 @@ Repartição de Pessoal:
 
 #### Secção de Vencimentos;
 
-#### Secção de Pessoal;
+Secção de Pessoal;
 
-#### Secção de Expediente e Arquivo;
+Secção de Expediente e Arquivo;
 
 Repartição de Contabilidade:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 Repartição de Gestão de Doentes:
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
-#### Secção de Arquivo Clínico;
+Secção de Arquivo Clínico;
 
-#### Secção de Estatística Hospitalar;
+Secção de Estatística Hospitalar;
 
 Repartição de Aprovisionamento:
 
 #### Secção de Aquisições;
 
-#### Secção de Gestão de Stocks.
+Secção de Gestão de Stocks.
 
 ## ANEXO II — Fiscal técnico de obras
 

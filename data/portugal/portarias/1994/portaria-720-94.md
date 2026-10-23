@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/720/1994/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/720-1994-222619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dec0602519e566268ed26b8b68095e897e6cd92dfbc9ab491eb261fdc24ddb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beb3f0ee3e5da3a37b5bbce16e899f265a3e8602b499f47228282a297d96e762
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Nacional de Protecção Civil
 - Descrição de Funções
 - Quadro de Pessoal
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:1072088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:166395:por
+  label: "Alterado o quadro de pessoal pela PORT.659/96.1996.11.14.PCM DR.IS-B [264]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/659-1996-166395
+  date: '1996-11-14'
+- type: amended_by
+  target: pt:dre:2268168:por
+  label: "Alterado o quadro de pessoal pelo AV.7443/99(2ªSÉRIE).1999.03.31.SNPC-PCM DR.IIS [91] de 19/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7443-1999-2268168
+  date: '1999-03-31'
+- type: amended_by
+  target: pt:dre:331175:por
+  label: "Alterado o quadro de pessoal do Serviço Nacional de Protecção Civil, pelo DEC LEI.152/99.1999.05.10.MAI DR.IS-A\
+    \ [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-1999-331175
+  date: '1999-05-10'
+- type: amended_by
+  target: pt:dre:1893196:por
+  label: "Alterado o quadro de pessoal pela PORT.1373/2001(2ªSÉRIE).2001.07.19.MAI DR.IIS [183] DE 08/AGO/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1373-2001-1893196
+  date: '2001-07-19'
+- type: amended_by
+  target: pt:dre:1072088:por
+  label: "Alterado o quadro de pessoal pela PORT.1019/2002(2ªSÉRIE).2002.06.18.MF e MAI, DR.IIS [153] de 5/Jul/2002. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1019-2002-1072088
+  date: '2002-07-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/203/1993/06/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/203/1993/06/03/p/dre
+- type: cites
+  target: pt:dre:257591:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:355891:por
+  label: "19941130 - RECTIFICADA PELA DECL-RECT 220/94 DE 21-NOV DR.IS-B [277]4SUPL DE 30/NOV/1994 A\0994 A"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/220-1994-355891
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:32Z'
   warnings: []
   errors: []
 ---
@@ -113,25 +147,25 @@ Manda o Governo, pelos Ministros da Administração Interna e das Finanças, o s
 
 Ministérios da Administração Interna e das Finanças.
 
-**Assinada em 28 de Julho de 1994.**
+Assinada em 28 de Julho de 1994.
 
-**O Ministro da Administração Interna, Manuel Dias Loureiro. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.**
+O Ministro da Administração Interna, Manuel Dias Loureiro. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
 
 ## ANEXO I — Quadro de pessoal dos serviços centrais do Serviço Nacional de Protecção Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf))](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf)
 
 ## ANEXO II-A — Quadro de pessoal de cada delegação distrital de protecção civil de tipo A - Baixo risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf))](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf)
 
 ## ANEXO II-B — Quadro de pessoal de cada delegação distrital de protecção civil de tipo B - Médio risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf))](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf)
 
 ## ANEXO II-C — Quadro de pessoal de cada delegação distrital de protecção civil de tipo C - Alto risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf))](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/185b00/46214625.pdf)
 
 ## ANEXO III — Conteúdos funcionais
 

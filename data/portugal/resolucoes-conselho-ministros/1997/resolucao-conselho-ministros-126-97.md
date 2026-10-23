@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/126/1997/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/126-1997-144780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b534892b6ba01cf6c8a4155b6167c9fb068b41ac041ed80b7f4bd5bbad3a82d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a574152641813f0ec155f83bb51012c7f73b64c3f3ca8e23ee9969843d660c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,37 @@ relationships:
   target: pt:dre:172751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554412:por
+  label: "Alterada pela RES.108/99.1999.09.02.PCM DR.IS-B [225] DE 25/Set/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/108-1999-554412
+  date: '1999-09-02'
+- type: amended_by
+  target: pt:dre:378937:por
+  label: "Alterada a planta de ordenamento para as áreas urbanas (planta 2A) do Plano Director Municipal de Castelo de Vide\
+    \ ratificado pelo presente diploma, pela RES.89/2001.2001.06.21.PCM, DR.IS-B[175]de 30/Jul/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/89-2001-378937
+  date: '2001-06-21'
+- type: amended_by
+  target: pt:dre:172751:por
+  label: "Alterada a planta de ordenamento do Plano Director Municipal pela RES.111/2002.2002.07.24.PCM DR.IS-B [194] de 23/Ago/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/111-2002-172751
+  date: '2002-07-24'
+- type: amended_by
+  target: pt:dre:1582207:por
+  label: "Efectuada a correcção material da Reserva Ecológica Nacional do concelho de Castelo de Vide, constante da presente\
+    \ resolução, pelo DESP-EXT.14751/2010.24.09.2010.CCDRALT-MAOT, DR.IIS [187] de 24.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/14751-2010-1582207
+  date: '2010-09-24'
+- type: amended_by
+  target: pt:dre:107795944:por
+  label: Tornadas públicas a aprovação da alteração, por adaptação, do regulamento e plantas do Plano Diretor Municipal de
+    Castelo de Vide, ratificado pelo presente diploma, na versão revista e publicada pelo Av 9513/2015 de 25-ago, e a republicação
+    dos referidos regulamento e plantas na versão atual, pelo(a) Declaração n.º 58/2017 - Diário da República n.º 149/2017,
+    Série II de 2017-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/58-2017-107795944
+  date: '2017-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
   label: null
@@ -114,16 +145,273 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/843/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/843/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678600:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139228:por
+  label: "Rectificada pela DECL-RECT.14-N/97.1997.07.31.PCM, DR.IS-B [175] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-n-1997-139228
+  date: '1997-07-31'
 article_structure:
   article_count: 49
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:37Z'
   warnings: []
   errors: []
 ---
@@ -872,4 +1160,4 @@ a) Revisão do Plano Director Municipal;
 
 b) Plano municipal em desconformidade mas ratificado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/174b00/39383946.pdf))](https://files.diariodarepublica.pt/1s/1997/07/174b00/39383946.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/174b00/39383946.pdf)

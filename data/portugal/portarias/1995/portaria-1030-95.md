@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1030/1995/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1030-1995-431799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9d330c7598ce4d9b5e5479669c0e7962dfc494ae5ac856dc79a306a478bd9e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91dd27cc975f031d4d82fc39b2f25f31b4f6f567cf409a9f199211ac89a10dde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,37 @@ relationships:
   target: pt:dre:616041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506975:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça atribuída pela Port 640-R2/94,\
+    \ de 15-Jul, com a redacção dada pelo presente diploma, pela PORT.915/2004.26.07.2004.MADRP, DR.IS-B [174] de 26.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/915-2004-506975
+  date: '2004-07-26'
+- type: amended_by
+  target: pt:dre:616041:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça turística concessionada pela Port 640-R2/94, de\
+    \ 15-Jul, alterada pelo presente diploma, pela PORT.1264-CV/2004.29.09.2004.MAPF, DR.IS-B [230-Supl] de 29.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1264-cv-2004-616041
+  date: '2004-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/640-r2/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640-r2/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:276254:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:12Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +126,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 640-R2/94
 
 Ministério da Agricultura.
 
-**Assinada em 31 de Julho de 1995.**
+Assinada em 31 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/193b00/52655265.pdf))](https://files.diariodarepublica.pt/1s/1995/08/193b00/52655265.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/193b00/52655265.pdf)

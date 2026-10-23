@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1174/1995/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1174-1995-574536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf7acc77af8da7631c81411317e2a7653be53e038855d6ab6905fe0469dd8b21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47bcbbaae148a08cef5aa8dbe36e83b22c19786a51912e00e8ebd3cbc428e041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,35 @@ reuse:
 subjects:
 - Exército
 - Força Aérea
-- Marinha
-- Serviço Militar
-- Recrutamento de Pessoal
 - Forças Armadas
-- Pessoal Contratado
+- Marinha
 - Militar
+- Pessoal Contratado
+- Recrutamento de Pessoal
+- Serviço Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/157/1992/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/157/1992/07/31/p/dre
+- type: cites
+  target: pt:dre:275443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:42Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ Manda o Governo, pelo Ministro da Defesa Nacional, nos termos do disposto no n.�
 
 1.º Os quantitativos máximos de militares na efectividade de serviço em RV e RC na Marinha, Exército e Força Aérea em 1996 são os constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/223b00/59825982.pdf))](https://files.diariodarepublica.pt/1s/1995/09/223b00/59825982.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/223b00/59825982.pdf)
 
 2.º Nos efectivos máximos fixados no n.º 1.º não são incluídos os militares em RV e RC que se encontrem nas seguintes situações:
 
@@ -117,6 +125,6 @@ c) Abrangidos pelos artigos 387.º e 408.º do EMFAR.
 
 Ministério da Defesa Nacional.
 
-**Assinada em 11 de Setembro de 1995.**
+Assinada em 11 de Setembro de 1995.
 
-**O Ministro da Defesa Nacional, António Jorge de Figueiredo Lopes.**
+O Ministro da Defesa Nacional, António Jorge de Figueiredo Lopes.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31/1995/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-1995-145854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69112cf2dec6f3d5abc1a27369688bad8cb9d7593258571643d069d2a2e4af66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81011c7448f13074a5fa1db073c70b51961048c833c125084bcd9dac37e5ec02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- CEE
-- Silvicultura
 - Apoio ao Investimento
-- Projeto de Investimento
-- Indústria Agrícola
+- CEE
+- Comércio
 - Exploração Agrícola
-- Política Agrícola Comum
 - Exploração Florestal
+- Indústria Agrícola
+- Indústria Alimentar
+- Política Agrícola Comum
+- Produto Agrícola
+- Programa de Apoio à Modernização Agrícola e Florestal
+- Projeto de Investimento
 - Regulamento
 - Regulamento CE
-- Programa de Apoio à Modernização Agrícola e Florestal
-- Agricultura
-- Indústria Alimentar
-- Comércio
-- Produto Agrícola
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:197730:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 9 E O ANEXO I AO REGULAMENTO PELA PORT 284/95 DE 10-ABR DR.IS-B [85].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-04-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ANEXO I AO REGULAMENTO, PELA PORT 1213/95 DE 07-OUT DR.IS- B [232]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUM 4 DO PONTO II DO ANEXO II AO REGULAMENTO, PELA PORT 391/96 DE 21-AGO DR.IS-B [193]\01-AGO DR.IS-B\
+    \ [193]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-21'
+- type: amended_by
+  target: pt:dre:406543:por
+  label: "Alterado o n.º 4 do ponto II do anexo II do Regulamento aprovado pelo presente diploma, pela PORT.391/96.21.08.1996.MADRP,\
+    \ DR.IS-B [193] de 21.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-1996-406543
+  date: '1996-08-21'
+- type: amended_by
+  target: pt:dre:533427:por
+  label: "Alterado o anexo I pela Port.47/97.1997.01.17.MADRP, DR.IS-B [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-1997-533427
+  date: '1997-01-17'
 - type: cites
   target: celex:31972R1035
   label: null
@@ -116,16 +143,21 @@ relationships:
   target: celex:31994D0173
   label: null
   source: http://data.europa.eu/eli/dec/1994/173/oj
+- type: repealed_by
+  target: pt:dre:197730:por
+  label: "Revogada pela PORT.198/98.1998.03.25.MADRP, DR.IS-B [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/198-1998-197730
+  date: '1998-03-25'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:34Z'
   warnings: []
   errors: []
 ---
@@ -148,11 +180,11 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 15 de Dezembro de 1994.**
+Assinada em 15 de Dezembro de 1994.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.
 
-## Anexo a que se refere a Portaria n.º 31/95
+Anexo a que se refere a Portaria n.º 31/95
 
 Regulamento de Aplicação da Acção Transformação e Comercialização de Produtos Agrícolas e Silvícolas - Regulamentos (CEE) n.os [866/90](https://data.europa.eu/eli/reg/1990/866/oj?locale=pt) e [867/90](https://data.europa.eu/eli/reg/1990/867/oj?locale=pt).
 
@@ -962,7 +994,7 @@ III - Níveis de ajuda:
 
 a) As ajudas a conceder revestem a forma de subsídio em capital a fundo perdido, fixando-se, para esse efeito, taxas de comparticipação que podem atingir os seguintes níveis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf))](https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf)
 
 b) Os níveis de ajuda variam em função do tipo de investimento e da natureza do beneficiário.
 
@@ -978,7 +1010,7 @@ Outras entidades.
 
 Os níveis de ajuda a atribuir aos investimentos são os que constam no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf))](https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf)
 
 c) As excepções às regras definidas anteriormente são as seguintes:
 
@@ -1130,4 +1162,4 @@ c) Categorias C e D - 90 dias.
 
 7 - A tipologia das alterações. enquadradas nas categorias descritas no n.º 2 consta do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf))](https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/010b00/01740183.pdf)

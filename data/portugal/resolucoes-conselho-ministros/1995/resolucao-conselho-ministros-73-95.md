@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/73/1995/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/73-1995-484405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d755bc2bee53721dfa58b687568da0472b90c8fe9694e9a840202f9a9bd0e3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe1838c48bd52de8c051974f947968f077334df728f1a17883dc92ee2f887757
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Instituição de Crédito
+- Apoio ao Investimento
 - Direcção Geral dos Transportes Terrestres
 - Empresa Transitária
-- Apoio ao Investimento
-- Projeto de Investimento
-- Veículo
-- Proteção do Ambiente
-- Transporte de Mercadorias
+- Financiamento
+- Instituição de Crédito
 - Poluição Sonora
+- Projeto de Investimento
+- Proteção do Ambiente
 - Simiat
+- Transporte de Mercadorias
 - Transporte Público
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:666893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219167:por
+  label: "Alterados os nºs 3º, 4º, 6º e 8º e revogado o nº 2º, todos do Anexo, pela RES.144/98.1998.10.22.PCM DR.IS-B [289]\
+    \ de 16/Dez/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/144-1998-219167
+  date: '1998-10-22'
+- type: amended_by
+  target: pt:dre:666893:por
+  label: "Alterado o nº 6º do anexo pela RES.120/99.1999.09.23.PCM,DR.IS-B [240] de 14/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/120-1999-666893
+  date: '1999-09-23'
 - type: cites
   target: celex:31988L0077
   label: null
@@ -98,13 +109,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:20Z'
   warnings: []
   errors: []
 ---

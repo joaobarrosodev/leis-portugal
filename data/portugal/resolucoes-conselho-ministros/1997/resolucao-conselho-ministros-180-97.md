@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/180/1997/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/180-1997-673606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a100e29a5279fae63fdbd3af45f6e4dd6486a2715632747020975e3d730be00b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64eb44bb44881c7485d7d9f2661cffc0516099bef6c3e53017d3714297bf17b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 - Sever do Vouga
 relationships:
+- type: amended_by
+  target: pt:dre:505669:por
+  label: "Ratificada a alteração do Plano Director Municipal de Sever do Vouga ratificado pelo presente diploma, pela RES.101/2004.01.07.2004.PCM,\
+    \ DR.IS-B [170] de 21.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/101-2004-505669
+  date: '2004-07-01'
+- type: amended_by
+  target: pt:dre:58986481:por
+  label: Determinada a suspensão parcial, pelo prazo de dois anos, de disposições do Regulamento do Plano Diretor Municipal
+    de Sever do Vouga, ratificado pelo presente diploma pelo(a) Resolução do Conselho de Ministros n.º 69/2014 - Diário da
+    República n.º 226/2014, Série I de 2014-11-21, aplicáveis às áreas delimitadas na planta constante do anexo I e estabelecidas
+    medidas preventivas nas mesmas
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/69-2014-58986481
+  date: '2014-11-21'
+- type: amended_by
+  target: pt:dre:67072214:por
+  label: Tornada pública a 1.ª Revisão do Plano Diretor Municipal de Sever do Vouga pelo(a) Aviso (extrato) n.º 4469/2015
+    - Diário da República n.º 80/2015, Série II de 2015-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/4469-2015-67072214
+  date: '2015-04-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -89,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:17Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +197,7 @@ O PDM deve ser revisto, sempre que a Câmara Municipal o entender conveniente, p
 
 1 - Para efeitos da aplicação do presente Regulamento, são consideradas, em função do seu uso dominante, classes e categorias (subclasses) de espaços, assinaladas na planta de ordenamento, que constituem os elementos da estrutura espacial de ordenamento do território municipal e que são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/249b00/58015810.pdf))](https://files.diariodarepublica.pt/1s/1997/10/249b00/58015810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/249b00/58015810.pdf)
 
 2 - O território municipal incluído nas classes de espaço urbano e industrial é qualificado como área de ocupação urbanística, podendo à parte do restante território vir a atribuir-se a mesma qualificação, nas condições previstas no presente Regulamento para a modificação da estrutura espacial de ordenamento.
 
@@ -299,7 +339,7 @@ c) O ajustamento do limite dos EU só se realizará dentro da área definida na 
 
 d) Qualquer ajustamento só será possível mediante aprovação da Assembleia Municipal (precedido de parecer técnico dos serviços municipais competentes) e após aquisição de eficácia jurídica da deliberação da Assembleia Municipal, conforme a lei.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/249b00/58015810.pdf))](https://files.diariodarepublica.pt/1s/1997/10/249b00/58015810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/249b00/58015810.pdf)
 
 ## ANEXO I — Notas escritas
 
@@ -507,4 +547,4 @@ Terreno arborizado: todos os terrenos deverão ser plantados segundo um certo í
 
 Estacionamentos: o seu número e dimensão estabelece-se de acordo com o definido no quadro regulamentar para espaços existentes, aplicando-se a [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro, para os espaços potenciais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/249b00/58015810.pdf))](https://files.diariodarepublica.pt/1s/1997/10/249b00/58015810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/249b00/58015810.pdf)

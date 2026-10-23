@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 101/1994, 1º Suplemento, Série I-B de 1994-05-02
   number: '101'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2160-(2) a 2160-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/101b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/265-a/1994/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-a-1994-152540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcf27d780c91de1b145bd449bad8f28f3180806ac1725cc27dd4505bc38c2087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18ca66e45f298169400a047448554a1f10f31f6a44792deae6e03593f2888130
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,63 @@ relationships:
   target: pt:dre:658452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345102:por
+  label: "Alterado o n.º 2.º pela PORT.756/94.18.08.1994.MF, DR.IS-B [190]Supl de 18.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/756-1994-345102
+  date: '1994-08-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O N.2 PELA PORTARIA 137/94IIS, PUBLICADA NO DR.IIS, 252\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-31'
+- type: amended_by
+  target: pt:dre:303231:por
+  label: "Alterado o n.º 2.º pela PORT.1152-C/94.27.12.1994.MF, DR.IS-B [298]3ºSupl de 27.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1152-c-1994-303231
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:305258:por
+  label: "Alterado o n.º 2.º pela PORT.210-A/95.23.03.1995.MF, DR.IS-B [70]Supl de 23.03.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/210-a-1995-305258
+  date: '1995-03-23'
+- type: amended_by
+  target: pt:dre:157815:por
+  label: "Alterado o n.º 2.º pela PORT.660-A/95.23.06.1995.MF, DR.IS-B [143]Supl de 23.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/660-a-1995-157815
+  date: '1995-06-23'
+- type: amended_by
+  target: pt:dre:300031:por
+  label: "Alterado o n.º 2.º e revogado o n.º 3.º pela PORT.1278-A/95.27.10.1995.MF, DR.IS-B [249]Supl de 27.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1278-a-1995-300031
+  date: '1995-10-27'
+- type: amended_by
+  target: pt:dre:658452:por
+  label: "Alterado o n.º 2.º pela PORT.1445-B/95.30.11.1995.MF, DR.IS-B [277]2ºSupl de 30.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1445-b-1995-658452
+  date: '1995-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1219/1991/12/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1219/1991/12/26/p/dre
+- type: cites
+  target: pt:dre:239799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518811:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:27Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +158,6 @@ Manda o Governo, pelo Secretário de Estado do Tesouro, o seguinte:
 
 Ministério das Finanças.
 
-**Assinada em 2 de Maio de 1994.**
+Assinada em 2 de Maio de 1994.
 
-**O Secretário de Estado do Tesouro, Francisco Adelino Gusmão Esteves de Carvalho.**
+O Secretário de Estado do Tesouro, Francisco Adelino Gusmão Esteves de Carvalho.

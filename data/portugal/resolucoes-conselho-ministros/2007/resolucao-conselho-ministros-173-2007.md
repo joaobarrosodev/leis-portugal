@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/173/2007/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/173-2007-629163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83939f81c2bb041c9e1b079371990944b552c26c6ece79a1fdd4dd418e213683
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a879c7e1622bc6d9ba47843e01774c8f15612bcd16b530a9d378ce3c8dfb70f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Financiamento
 - Caderneta Individual de Competências
 - Catálogo Nacional de Qualificações
-- Formação Profissional
 - Curso Profissional
-- Jovem
-- Iniciativa Novas Oportunidades
 - Educação dos Adultos
-- Sistema Nacional de Qualificações
 - Ensino Secundário
-- Qualificação Profissional
+- Financiamento
+- Formação Profissional
+- Iniciativa Novas Oportunidades
+- Jovem
+- QREN
 - Quadro Nacional de Qualificações
+- Qualificação Profissional
 - Sistema de Regulação de Acesso a Profissões
+- Sistema Nacional de Qualificações
 - Sistema Nacional de Reconhecimento Validação e Certificação de Competências
 relationships:
 - type: amended_by
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:51Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +160,7 @@ Em Portugal, o impacte da subida no nível de qualificações no emprego tende a
 
 Evolução da criação líquida de emprego por nível de escolaridade (em milhares)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Fonte: INE, inquérito ao emprego, variação homóloga no trimestre.
 
@@ -168,11 +168,11 @@ Por outro lado o investimento em educação e formação diminui significativame
 
 Taxas de desemprego por níveis de habilitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Tempo de inscrição no desemprego e habilitação escolar - 2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Fonte: IEFP.
 
@@ -180,7 +180,7 @@ Os benefícios económicos resultantes do investimento em capital humano têm ta
 
 Ganhos salariais por nível de escolaridade, segundo o grupo etário (base de nível 100 para o secundário)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 O investimento em educação e formação produz efeitos significativos em diversos domínios de organização da vida social. A UNESCO tem alertado para que a promoção do acesso à educação contribui para proporcionar melhores níveis de participação cívica, política e cultural. Traduzida em maior igualdade de oportunidades para todos, a educação contribui para dissipar mecanismos de segregação social, promovendo uma maior igualdade na aquisição de condições de bem estar social, uma maior tolerância às diferenças sociais e raciais e, simultaneamente, gerando sentimentos de maior segurança.
 
@@ -198,13 +198,13 @@ Elevar a qualificação dos jovens à entrada no mercado de trabalho. - A persis
 
 Taxas de abandono escolar e de saídas antecipada e precoce
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Das várias iniciativas a tomar neste sentido destaca-se, como fundamental, a diversificação de ofertas de nível secundário, nomeadamente através do reforço das vias profissionalizantes e da generalização de escolhas curriculares apropriadas. Portugal apresenta a este nível uma situação única no conjunto dos países da OCDE com um valor muito baixo de jovens inseridos e a concluírem o nível secundário através de vias profissionais.
 
 Taxas bruta de conclusão no nível secundário por via de acesso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Fazer com que até 2010 as vias profissionalizantes representem 50 % da oferta de nível secundário, como assumido na Iniciativa Novas Oportunidades, exige a diversificação da oferta de carácter escolar e a concentração de recursos em percursos de dupla certificação do lado da oferta na esfera do Ministério do Trabalho e da Solidariedade Social. Na verdade, ao longo dos últimos anos financiou-se a formação e permitiu-se a entrada no mercado de trabalho de milhares de jovens sem o 9.º ou 12.º anos, dotando-os de uma qualificação profissional que, mesmo se importante, não permitirá, no médio prazo, trajectórias de inserção profissional mais sólidas e sustentadas e limitará as possibilidades de prosseguimento de estudos para níveis habilitacionais superiores. É, pois, essencial afirmar, como regra para a expansão do sistema de qualificação para jovens, as vias conferentes de dupla certificação escolar e profissional, capazes de assegurar um espectro robusto de competências transversais, bem como as mais variadas opções, nomeadamente em termos de prosseguimento de estudos.
 
@@ -214,7 +214,7 @@ Por outro lado, a existência de uma base sólida de competências transversais,
 
 Taxa de participação anual em educação e formação não formal associada ao posto de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Esta realidade impõe, dado o contexto particular do nosso país, que se opere uma profunda ruptura na abordagem da formação profissional destinada aos activos. A formação profissional deve permitir e estar associada à obtenção de competências transversais, mobilizáveis em diversos contextos. No contexto português o conceito de formação para a adaptabilidade deve assumir-se, significativamente, como reforço da qualificação de base, ou seja, a criação de patamares mínimos de competências que permitam a adaptação à mudança e igualmente uma atitude de contínua aprendizagem.
 
@@ -388,13 +388,13 @@ Sistema Nacional de Qualificações
 
 Objectivo-base - assegurar a relevância das qualificações face às necessidades das empresas e dos cidadãos, orientando a oferta e a procura de formação profissional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Sistema de Regulação do Acesso a Profissões
 
 Objectivo-base - produzir normas de acesso ao exercício de profissões que obriguem à posse de demonstrativo de aptidão profissional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 3.2.4 - A Agência Nacional para a Qualificação (ANQ, I. P.). - A realidade portuguesa justifica, como porventura poucas outras a nível internacional, uma forte articulação educação-formação. Quer pela natureza da estratégia de qualificação, quer pela evolução que os subsistemas tiveram e pela sua realidade actual na sociedade portuguesa, mas essencialmente pela dimensão dos desafios, reforçar as vias profissionalizantes para jovens e a formação de base dos activos, bem como alargar significativamente os dispositivos exige integração e partilha de instrumentos, coordenação de esforços e utilização total das capacidades instaladas.
 
@@ -530,11 +530,11 @@ Tem sido esta a linha de cooperação seguida no período já decorrido de imple
 
 1 - População activa por nível de instrução segundo o grupo etário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 2 - Factores explicativos das diferenças nas taxas de crescimento entre países da OCDE entre os anos 70 e 90:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 3 - Crescimento do PIB per capita, da produtividade e do capital humano:
 
@@ -544,7 +544,7 @@ The role of skills and labour utilisation in labour productivity growth (1)
 
 Average annual percentage change, 1990-2000 (2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 (1) This is based on a simple quantitative decomposition: growth in GDP per person employed = hourly GDP per constant quality unit of labour + growth in average hours worked + human capital adjustment.
 
@@ -556,7 +556,7 @@ Fonte: OCDE, 2003 - Economic Surveys - Portugal - Structural reform for sustaini
 
 4 - O impacte macroeconómico do QCA III:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Fonte: DPP, Impacte Macroeconómico do QCA III.
 
@@ -570,7 +570,7 @@ The overall incentives to invest in human capital that are embedded in the labou
 
 Private rate of return (1) to education for men in selected OECD countries
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 6 - Síntese do inquérito ao impacte das acções de formação profissional nas empresas no triénio 2002-2004:
 
@@ -584,7 +584,7 @@ Foram analisadas 46 053 empresas, que representam cerca de 1 806 605 pessoas ao 
 
 14 444 (31 %) realizaram ou promoveram acções de formação profissional. Estas empresas ocupavam cerca de 1 115 208 pessoas (61,7 % do total de trabalhadores).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Numa análise por actividade económica, verifica-se uma participação de:
 
@@ -614,37 +614,37 @@ Alterações no funcionamento das empresas:
 
 Impacte da AFP na tecnologia e organização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Adicionalmente, do universo das empresas que realizaram AFP, importa avaliar qual o entendimento que os gestores têm sobre o facto de as melhorias identificadas se deverem (ou não) a essas AFP realizadas.
 
 Tecnologia e organização - 14 444 empresas que promoveram AFP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 2 - Produtividade, qualidade e competitividade - importa verificar qual o impacte que a promoção de AFP teve na alteração de factores relacionados com produtividade, qualidade e competitividade.
 
 Impacte da AFP na produtividade, qualidade e emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Adicionalmente, do universo das empresas que realizaram AFP, importa avaliar qual o entendimento que os gestores têm sobre o facto de as melhorias identificadas se deverem (ou não) a essas AFP realizadas.
 
 Produtividade, qualidade e emprego - 14 444 empresas que promoveram AFP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 3 - Empregabilidade e condições de trabalho - importa verificar qual o impacte que a promoção de AFP teve na alteração de factores relacionados com empregabilidade e condições de trabalho.
 
 Impacte da AFP na empregabilidade e condições de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Adicionalmente, do universo das empresas que realizaram AFP, importa avaliar qual o entendimento que os gestores têm sobre o facto de as melhorias identificadas se deverem (ou não) a essas AFP realizadas.
 
 Empregabilidade e condições de trabalho 14 444 empresas que promoveram AFP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 7 - Estudos sobre impacte do processo de reconhecimento, validação e certificação de competências e das práticas internacionais:
 
@@ -654,17 +654,17 @@ Uma parte significativa dos adultos inquiridos referiu que o processo de RVCC te
 
 Avaliação do contributo da participação no processo de RVCC para um conjunto de aspectos pessoais de carácter subjectivo, de acordo com a opinião dos adultos certificados (percentagens horizontais):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Os resultados obtidos através de estimação econométrica de um modelo de duração do desemprego apontam para que a probabilidade de um adulto desempregado que desenvolva processo RVCC encontrar uma ocupação remunerada aumenta de forma significativa (do ponto de vista estatístico) - mais de um terço dos adultos, analisados no Estudo, que estavam desempregados quando iniciaram o processo RVCC obtiveram emprego em data posterior (mais significativo nas mulheres):
 
 Probabilidades de transição média (%) entre estados face ao mercado de trabalho (situação seis meses após a certificação face ao momento da inscrição)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Probabilidades de transição média (%) entre estados face ao mercado de trabalho [situação actual ((maior que) 9 meses) face ao momento da inscrição]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 No que respeita à questão da influência da posse de um certificado em termos de transições do desemprego para o emprego os resultados são algo limitados. No entanto, sugerem uma menor propensão para esse tipo de transição nos desempregados que obtiveram nível básico 2, em comparação com os que obtiveram certificado equivalente ao 9.º ano de escolaridade (nível 3);
 
@@ -680,7 +680,7 @@ Em termos de prosseguimento de estudos, cerca de 13 % dos adultos inquiridos pro
 
 Realização de formação complementar por parte de adultos certificados que responderam ao questionário (valores absolutos e percentagens verticais)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21400/0813508151.pdf)
 
 Práticas internacionais sobre processos RVCC. - Na maior parte dos países europeus os processos de reconhecimento e validação de aprendizagens foram concebidos e estão a funcionar no âmbito profissional. Também existem sistemas que permitem o acesso ao ensino superior. A questão do escolar não superior não se colocava porque, nesses países, a conclusão da escolaridade obrigatória é um dado adquirido há longo tempo.
 

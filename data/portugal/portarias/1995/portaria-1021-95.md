@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1021/1995/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1021-1995-431575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f300377def99acc6831b8540a72183dd8ea178d15dd26c2a2298f89543e8e87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a19bb44138d57f65b9630a3e5773c902a84d738e0b5854faca93f8c67e9c8a37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,23 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - CEE
+- Exploração Agrícola
 - Exploração Pecuária
 - Indemnização Compensatória
-- SECA
-- Exploração Agrícola
 - Política Agrícola Comum
-- Regulamento CE
 - Região Desfavorecida
+- Regulamento CE
+- SECA
 relationships:
 - type: amended_by
   target: pt:dre:160512:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160512:por
+  label: "Alterado o num 2 do num 3 e o num 2 do num 5 pela PORT.431/97.1997.07.01.MADRP, DR.IS-B [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/431-1997-160512
+  date: '1997-07-01'
 - type: cites
   target: celex:31975L0268
   label: null
@@ -111,13 +116,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:00Z'
   warnings: []
   errors: []
 ---
@@ -194,23 +199,23 @@ c) Remeter ao Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR),
 
 Ministério da Agricultura.
 
-**Assinada em 26 de Julho de 1995.**
+Assinada em 26 de Julho de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.
 
-## Anexo I a que se refere o n.º 2.º
+Anexo I a que se refere o n.º 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf))](https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf)
 
-## Anexo II a que se refere o n.º 1 do n.º 5.º
+Anexo II a que se refere o n.º 1 do n.º 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf))](https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf)
 
-## Anexo III a que se refere o n.º 1 do n.º 5.º
+Anexo III a que se refere o n.º 1 do n.º 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf))](https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/192b00/52295231.pdf)
 
-## Anexo IV a que se refere o n.º 2 do n.º 5.º
+Anexo IV a que se refere o n.º 2 do n.º 5.º
 
 Quadro de conversão dos bovinos, equídeos, ovinos e caprinos em cabeças normais (CN)
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06800/0001500065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/125/2025/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/125-2025-913947256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8ca3512bcb4845c414ed3f6375e8af2eeab616b13459258d31162925dee0263
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e15b86ec562eebee18f5cb9939927413ba4e781b1bf25b1e7f0552207fec8fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Definição de Competências
 - Orgânica
-- Assembleia da República
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:20/2004
+  label: Altera, a partir de 22 de maio de 2025, os artigos 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 15.º, 16.º, 19.º, 20.º,
+    22.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º e 41.º e altera, reordena e renumera as epígrafes das secções ii,
+    iii, iv, v, vi e viii do capítulo iii, adita os artigos 11.º-A, 22.º-A, 26.º-A, 29.º-A, 31.º-A, 31.º-B, 31.º-C, 31.º-D,
+    31.º-E, 31.º-F, 31.º-G e 31.º-H e as secções vii-A e vii-B, revoga a alínea l) do n.º 1 do artigo 8.º, as alíneas d),
+    e), g), v), w), x), Y) e z) do artigo 9.º, a alínea d) do n.º 1 e a alínea d) do n.º 2 do artigo 10.º, as alíneas c),
+    d) e e) do n.º 2 do artigo 13.º, os artigos 14.º, 17.º e 18.º, as alíneas n) e o) do artigo 22.º, a alínea j) do n.º 1
+    do artigo 24.º, a alínea h) do artigo 25.º, as alíneas f), h), j) e k) do artigo 26.º, as alíneas d), f) e g) do n.º 1
+    do artigo 27.º, as alíneas e) a r) do n.º 1, os n.ºs 2, 3, 4 e 5 do artigo 31.º e os n.ºs 2 e 3 do artigo 41.º e republica
+    a Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro, Diário da República n.º 39/2004, Série I-A
+  source: null
+  date: '2004-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/2011/05/20/p/dre
   label: null
@@ -102,16 +115,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/82/2004/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/82/2004/12/27/p/dre
+- type: cites
+  target: pt:dre:114891061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67164531:por
+  label: null
+  source: null
 article_structure:
-  article_count: 89
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 58
+  section_count: 38
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:52Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +173,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 ###### Artigo 1.º — Objeto
 
-A presente resolução procede à sétima alteração à [Resolução da Assembleia da República n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2004-579366), de 16 de fevereiro, que aprova a estrutura e competências dos serviços da Assembleia da República, alterada pelas Resoluções da Assembleia da República n.<sup>os</sup>[82/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/82-2004-353947), de 27 de dezembro, [53/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/53-2006-538625), de 7 de agosto, [57/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-2010-335231), de 23 de junho, [60/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2014-25345624), de 30 de junho, [48/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/48-2015-67164531), de 7 de maio, e [74/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/74-2018-114891061), de 20 de março.
+A presente resolução procede à sétima alteração à [Resolução da Assembleia da República n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2004-579366), de 16 de fevereiro, que aprova a estrutura e competências dos serviços da Assembleia da República, alterada pelas Resoluções da Assembleia da República n.os[82/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/82-2004-353947), de 27 de dezembro, [53/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/53-2006-538625), de 7 de agosto, [57/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-2010-335231), de 23 de junho, [60/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2014-25345624), de 30 de junho, [48/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/48-2015-67164531), de 7 de maio, e [74/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/74-2018-114891061), de 20 de março.
 
 ###### Artigo 2.º — Alteração à [Resolução da Assembleia da República n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2004-579366), de 16 de fevereiro
 
@@ -206,7 +255,9 @@ x) A Divisão de Gestão Contratual (DGC).
 
 3 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Compete à DSAP:
 
@@ -250,7 +301,9 @@ e) [Anterior alínea d).]
 
 3 - Para o cumprimento das suas competências, a DSAP pode criar núcleos de apoio transversais à sua atividade, com mandato de duração limitada e compostos por recursos humanos afetos às suas divisões, coordenados por funcionários designados pelo Secretário-Geral, mediante proposta da Direção da DSAP.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 [...]
 
@@ -306,7 +359,9 @@ y) (Revogada.)
 
 z) (Revogada.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -362,7 +417,9 @@ d) (Revogada.)
 
 3 - A DAC é organizada por equipas, constituídas para apoio às comissões parlamentares, bem como para garantia de tarefas transversais, necessárias ao funcionamento da Divisão, podendo as mesmas ser dirigidas por coordenadores designados pelo Secretário-Geral, mediante proposta da Chefia de Divisão, com o acordo da Direção da DSAP.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 [...]
 
@@ -384,13 +441,17 @@ h) Estabelecer canais de comunicação com organizações públicas e privadas, 
 
 i) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A UTAO é dirigida por um coordenador.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Compete à DDP:
 
@@ -416,7 +477,9 @@ d) (Revogada.)
 
 e) (Revogada.)
 
-###### Artigo 15.º — Divisão de Biblioteca
+Artigo 15.º
+
+Divisão de Biblioteca
 
 [...]
 
@@ -442,7 +505,9 @@ j) [...]
 
 k) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 16.º — Divisão de Arquivo Histórico Parlamentar, Expediente e Gestão Documental
+Artigo 16.º
+
+Divisão de Arquivo Histórico Parlamentar, Expediente e Gestão Documental
 
 Compete à DAHPEGD:
 
@@ -472,7 +537,9 @@ l) Coordenar o movimento postal, obtendo e aprovando, em articulação com a DGC
 
 m) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Compete à DARHFP:
 
@@ -516,7 +583,9 @@ d) A Divisão de Valorização e Conservação do Património (DVCP);
 
 e) [Anterior alínea d).]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 [...]
 
@@ -562,7 +631,9 @@ t) [...]
 
 u) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 22.º — Divisão de Gestão Patrimonial e Logística
+Artigo 22.º
+
+Divisão de Gestão Patrimonial e Logística
 
 Compete à DGPL:
 
@@ -606,7 +677,9 @@ s) Elaborar o relatório de avaliação do impacto carbónico da Assembleia da R
 
 t) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Compete à DRERPP:
 
@@ -640,7 +713,9 @@ b) A Divisão de Protocolo (DP);
 
 c) A Divisão de Eventos e Relações Públicas (DERP).
 
-###### Artigo 25.º — Divisão de Relações Externas e Cooperação
+Artigo 25.º
+
+Divisão de Relações Externas e Cooperação
 
 Compete à DREC:
 
@@ -666,7 +741,9 @@ j) [...]
 
 k) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 26.º — Divisão de Protocolo
+Artigo 26.º
+
+Divisão de Protocolo
 
 Compete à DP:
 
@@ -694,7 +771,9 @@ k) (Revogada.)
 
 l) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência nomeadamente os relativos aos serviços de reportagem fotográfica de atos oficiais da Assembleia da República.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -732,7 +811,9 @@ b) A Divisão de Desenvolvimento Aplicacional (DDA);
 
 c) O Centro Operacional de Segurança Informática (COSI).
 
-###### Artigo 28.º — Divisão de Infraestruturas e Suporte Tecnológico
+Artigo 28.º
+
+Divisão de Infraestruturas e Suporte Tecnológico
 
 Compete à DIST:
 
@@ -772,7 +853,9 @@ q) Acompanhar, em articulação com a DGC, a execução dos contratos da sua ár
 
 r) Propor junto da DGPL a alienação de bens informáticos desnecessários, salvados, sucatas e desperdícios.
 
-###### Artigo 29.º — Divisão de Desenvolvimento Aplicacional
+Artigo 29.º
+
+Divisão de Desenvolvimento Aplicacional
 
 Compete à DDA:
 
@@ -798,7 +881,9 @@ j) [...]
 
 k) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -822,7 +907,9 @@ g) Promover a elaboração e a respetiva monitorização do plano estratégico d
 
 4 - [...]
 
-###### Artigo 31.º — Competências
+Artigo 31.º
+
+Competências
 
 1 - Compete à DCI:
 
@@ -898,7 +985,9 @@ c) A Divisão de Publicações e Imagem (DPI);
 
 d) A Divisão de Programas Educativos, Cidadania e Cultura (PEDUC).
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -916,7 +1005,7 @@ São aditados à [Resolução da Assembleia da República n.º 20/2004](https://
 
 «Artigo 11.º-A
 
-##### Divisão de Estudos Legislativos e Parlamentares
+Divisão de Estudos Legislativos e Parlamentares
 
 Compete à DELP:
 
@@ -948,7 +1037,9 @@ m) Satisfazer os pedidos de informação dos grupos parlamentares, gabinetes e d
 
 n) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 22.º-A — Divisão de Valorização e Conservação do Património
+Artigo 22.º-A
+
+Divisão de Valorização e Conservação do Património
 
 Compete à DVCP:
 
@@ -972,7 +1063,9 @@ i) Organizar e acompanhar a submissão de pedido de parecer junto das entidades 
 
 j) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 26.º-A — Divisão de Eventos e Relações Públicas
+Artigo 26.º-A
+
+Divisão de Eventos e Relações Públicas
 
 Compete à DERP:
 
@@ -984,7 +1077,9 @@ c) Acompanhar, em articulação com a DGC, a execução dos contratos da sua ár
 
 d) Assegurar, em coordenação com o Serviço de Segurança, o acesso dos cidadãos ao Palácio de São Bento, a respetiva receção e identificação, ficando o encaminhamento a cargo da entidade que recebe.
 
-###### Artigo 29.º-A — Centro Operacional de Segurança Informática
+Artigo 29.º-A
+
+Centro Operacional de Segurança Informática
 
 Compete ao COSI:
 
@@ -1002,7 +1097,9 @@ f) Elaborar relatórios e suportar a tomada de decisões estratégicas em matér
 
 g) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 31.º-A — Divisão de Imprensa e Media
+Artigo 31.º-A
+
+Divisão de Imprensa e Media
 
 Compete à DIM:
 
@@ -1026,7 +1123,9 @@ i) Propor e implementar, em articulação com os demais serviços, a realizaçã
 
 j) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 31.º-B — Divisão do Canal Parlamento
+Artigo 31.º-B
+
+Divisão do Canal Parlamento
 
 Compete ao DCP:
 
@@ -1046,7 +1145,9 @@ g) Assegurar a interpretação em língua gestual das intervenções efetuadas e
 
 h) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 31.º-C — Divisão de Publicações e Imagem
+Artigo 31.º-C
+
+Divisão de Publicações e Imagem
 
 Compete à DPI:
 
@@ -1064,7 +1165,9 @@ f) Organizar cerimónias de lançamentos de livros editados pela Assembleia da R
 
 g) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 31.º-D — Divisão de Programas Educativos, Cidadania e Cultura
+Artigo 31.º-D
+
+Divisão de Programas Educativos, Cidadania e Cultura
 
 Compete à PEDUC:
 
@@ -1082,7 +1185,9 @@ f) Organizar exposições temáticas em conjunto com outros serviços da Assembl
 
 g) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 31.º-E — Competências e estrutura
+Artigo 31.º-E
+
+Competências e estrutura
 
 1 - Compete à DCGC:
 
@@ -1104,7 +1209,9 @@ a) A Divisão de Contratação (DC);
 
 b) A Divisão de Gestão Contratual (DGC).
 
-###### Artigo 31.º-F — Divisão de Contratação
+Artigo 31.º-F
+
+Divisão de Contratação
 
 Compete à DC:
 
@@ -1118,7 +1225,9 @@ d) Instruir e enviar processos de submissão de contratos a visto prévio do Tri
 
 e) Analisar, acompanhar e elaborar respostas a reclamações e recursos.
 
-###### Artigo 31.º-G — Divisão de Gestão Contratual
+Artigo 31.º-G
+
+Divisão de Gestão Contratual
 
 Compete à DGC:
 
@@ -1140,7 +1249,9 @@ h) Acompanhar a execução e proceder à gestão dos contratos relativos à aqui
 
 i) Gerir as cauções pendentes a favor da Assembleia da República e promover a respetiva liberação no termos contratualmente previstos.
 
-###### Artigo 31.º-H — Competências
+Artigo 31.º-H
+
+Competências
 
 1 - Compete ao GA assegurar, junto do gabinete do Secretário-Geral, o suporte especializado em matérias excluídas das competências dos demais serviços.
 
@@ -1166,7 +1277,7 @@ b) São aditadas as secções vii-A e vii-B com as epígrafes «Direção de Con
 
 ###### Artigo 5.º — Norma revogatória
 
-São revogados a alínea l) do n.º 1 do artigo 8.º, as alíneas d), e), g) e v) a z) do artigo 9.º, a alínea d) do n.º 1 e a alínea d) do n.º 2 do artigo 10.º, as alíneas c) a e) do n.º 2 do artigo 13.º, os artigos 14.º, 17.º e 18.º, as alíneas n) e o) do artigo 22.º, a alínea j) do n.º 1 do artigo 24.º, a alínea h) do artigo 25.º, as alíneas f), h), j) e k) do artigo 26.º, as alíneas d), f) e g) do n.º 1 do artigo 27.º, as alíneas e) a r) do n.º 1, os n.<sup>os</sup>2 a 5 do artigo 31.º e os n.<sup>os</sup>2 e 3 do artigo 41.º da [Resolução da Assembleia da República n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2004-579366), de 16 de fevereiro.
+São revogados a alínea l) do n.º 1 do artigo 8.º, as alíneas d), e), g) e v) a z) do artigo 9.º, a alínea d) do n.º 1 e a alínea d) do n.º 2 do artigo 10.º, as alíneas c) a e) do n.º 2 do artigo 13.º, os artigos 14.º, 17.º e 18.º, as alíneas n) e o) do artigo 22.º, a alínea j) do n.º 1 do artigo 24.º, a alínea h) do artigo 25.º, as alíneas f), h), j) e k) do artigo 26.º, as alíneas d), f) e g) do n.º 1 do artigo 27.º, as alíneas e) a r) do n.º 1, os n.os2 a 5 do artigo 31.º e os n.os2 e 3 do artigo 41.º da [Resolução da Assembleia da República n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2004-579366), de 16 de fevereiro.
 
 ###### Artigo 6.º — Republicação
 
@@ -1178,7 +1289,7 @@ A presente resolução entra em vigor 45 dias após a data da sua publicação.
 
 Aprovada em 13 de março de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
 
 ## ANEXO — Estrutura e competências dos Serviços da Assembleia da República
 
@@ -1246,7 +1357,7 @@ f) Sistema contabilístico que, nos termos da lei, possibilite um adequado plane
 
 ###### Artigo 4.º — Atribuições e competências
 
-**O Secretário-Geral tem as atribuições e competências definidas pela LOFAR.**
+O Secretário-Geral tem as atribuições e competências definidas pela LOFAR.
 
 ###### Artigo 5.º — Adjuntos do Secretário-Geral
 
@@ -1382,7 +1493,9 @@ e) A Unidade Técnica de Apoio Orçamental (UTAO).
 
 3 - Para o cumprimento das suas competências, a DSAP pode criar núcleos de apoio transversais à sua atividade, com mandato de duração limitada e compostos por recursos humanos afetos às suas divisões, coordenados por funcionários designados pelo Secretário-Geral, mediante proposta da Direção da DSAP.
 
-###### Artigo 9.º — Divisão de Apoio ao Plenário
+###### Artigo 9.º
+
+##### Divisão de Apoio ao Plenário
 
 Compete à DAPLEN:
 
@@ -1422,7 +1535,9 @@ q) Acompanhar e apoiar o processo relativo às perguntas ao Governo e requerimen
 
 r) Organizar, acompanhar e disponibilizar informação sobre os processos de eleição da Mesa, do Conselho de Administração e dos titulares de entidades e órgãos externos para os quais a Assembleia da República designa membros, incluindo as respetivas resoluções e declarações e os eventuais autos de posse.
 
-###### Artigo 10.º — Divisão de Apoio às Comissões
+###### Artigo 10.º
+
+##### Divisão de Apoio às Comissões
 
 1 - Compete à DAC:
 
@@ -1474,7 +1589,9 @@ c) Apoiar a participação dos Deputados nas reuniões de cooperação interparl
 
 3 - A DAC é organizada por equipas, constituídas para apoio às comissões parlamentares, bem como para garantia de tarefas transversais, necessárias ao funcionamento da Divisão, podendo as mesmas ser dirigidas por coordenadores designados pelo Secretário-Geral, mediante proposta da Chefia de Divisão, com o acordo da Direção da DSAP.
 
-###### Artigo 11.º — Divisão de Redação
+###### Artigo 11.º
+
+##### Divisão de Redação
 
 Compete à DR:
 
@@ -1496,7 +1613,9 @@ h) Estabelecer canais de comunicação com organizações públicas e privadas, 
 
 i) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 12.º — Divisão de Estudos Legislativos e Parlamentares
+###### Artigo 12.º
+
+##### Divisão de Estudos Legislativos e Parlamentares
 
 Compete à DELP:
 
@@ -1572,7 +1691,9 @@ a) A Divisão de Biblioteca (BIB);
 
 b) A Divisão de Arquivo Histórico Parlamentar, Expediente e Gestão Documental (DAHPEGD).
 
-###### Artigo 15.º — Divisão de Biblioteca
+###### Artigo 15.º
+
+##### Divisão de Biblioteca
 
 Compete à BIB:
 
@@ -1598,7 +1719,9 @@ j) Preservar e disponibilizar a coleção impressa do Diário da Assembleia da R
 
 k) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 16.º — Divisão de Arquivo Histórico Parlamentar, Expediente e Gestão Documental
+###### Artigo 16.º
+
+##### Divisão de Arquivo Histórico Parlamentar, Expediente e Gestão Documental
 
 Compete à DAHPEGD:
 
@@ -1674,7 +1797,9 @@ d) A Divisão de Valorização e Conservação do Património (DVCP);
 
 e) O Gabinete Médico e de Enfermagem (GME).
 
-###### Artigo 18.º — Divisão de Recursos Humanos e Formação
+###### Artigo 18.º
+
+##### Divisão de Recursos Humanos e Formação
 
 À DRHF compete assegurar os procedimentos técnicos e administrativos relativos à gestão dos recursos humanos, cabendo-lhe, em particular:
 
@@ -1720,7 +1845,9 @@ t) Apoiar o Secretário-Geral nas questões relativas às relações laborais e 
 
 u) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 19.º — Divisão de Gestão Financeira
+###### Artigo 19.º
+
+##### Divisão de Gestão Financeira
 
 Compete à DGF:
 
@@ -1766,7 +1893,9 @@ t) Assegurar o expediente relativo à emissão de certidões, declarações ou g
 
 u) Emitir parecer e organizar os processos de atribuição, em regime transitório, de subsídios de reintegração e de subvenção mensal vitalícia a Deputados, neste último caso a remeter à Caixa Geral de Aposentações.
 
-###### Artigo 20.º — Divisão de Gestão Patrimonial e Logística
+###### Artigo 20.º
+
+##### Divisão de Gestão Patrimonial e Logística
 
 Compete à DGPL:
 
@@ -1806,7 +1935,9 @@ q) Elaborar o relatório de avaliação do impacto carbónico da Assembleia da R
 
 r) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 21.º — Divisão de Valorização e Conservação do Património
+###### Artigo 21.º
+
+##### Divisão de Valorização e Conservação do Património
 
 Compete à DVCP:
 
@@ -1880,7 +2011,9 @@ b) A Divisão de Protocolo (DP);
 
 c) A Divisão de Eventos e Relações Públicas (DERP).
 
-###### Artigo 24.º — Divisão de Relações Externas e Cooperação
+###### Artigo 24.º
+
+##### Divisão de Relações Externas e Cooperação
 
 Compete à DREC:
 
@@ -1904,7 +2037,9 @@ i) Apoiar a realização de atividades de formação interparlamentar, designada
 
 j) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 25.º — Divisão de Protocolo
+###### Artigo 25.º
+
+##### Divisão de Protocolo
 
 Compete à DP:
 
@@ -1924,7 +2059,9 @@ g) Assegurar os serviços de interpretação nos atos da Assembleia da Repúblic
 
 h) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência nomeadamente os relativos aos serviços de reportagem fotográfica de atos oficiais da Assembleia da República.
 
-###### Artigo 26.º — Divisão de Eventos e Relações Públicas
+###### Artigo 26.º
+
+##### Divisão de Eventos e Relações Públicas
 
 Compete à DERP:
 
@@ -1978,7 +2115,9 @@ c) A Divisão de Publicações e Imagem (DPI);
 
 d) A Divisão de Programas Educativos, Cidadania e Cultura (PEDUC).
 
-###### Artigo 28.º — Divisão de Imprensa e Media
+###### Artigo 28.º
+
+##### Divisão de Imprensa e Media
 
 Compete à DIM:
 
@@ -2002,7 +2141,9 @@ i) Propor e implementar, em articulação com os demais serviços, a realizaçã
 
 j) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 29.º — Divisão do Canal Parlamento
+###### Artigo 29.º
+
+##### Divisão do Canal Parlamento
 
 Compete ao DCP:
 
@@ -2022,7 +2163,9 @@ g) Assegurar a interpretação em língua gestual das intervenções efetuadas e
 
 h) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 30.º — Divisão de Publicações e Imagem
+###### Artigo 30.º
+
+##### Divisão de Publicações e Imagem
 
 Compete à DPI:
 
@@ -2040,7 +2183,9 @@ f) Organizar cerimónias de lançamentos de livros editados pela Assembleia da R
 
 g) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 31.º — Divisão de Programas Educativos, Cidadania e Cultura
+###### Artigo 31.º
+
+##### Divisão de Programas Educativos, Cidadania e Cultura
 
 Compete à PEDUC:
 
@@ -2094,7 +2239,9 @@ b) A Divisão de Desenvolvimento Aplicacional (DDA);
 
 c) O Centro Operacional de Segurança Informática (COSI).
 
-###### Artigo 33.º — Divisão de Infraestruturas e Suporte Tecnológico
+###### Artigo 33.º
+
+##### Divisão de Infraestruturas e Suporte Tecnológico
 
 Compete à DIST:
 
@@ -2134,7 +2281,9 @@ q) Acompanhar, em articulação com a DGC, a execução dos contratos da sua ár
 
 r) Propor junto da DGPL a alienação de bens informáticos desnecessários, salvados, sucatas e desperdícios.
 
-###### Artigo 34.º — Divisão de Desenvolvimento Aplicacional
+###### Artigo 34.º
+
+##### Divisão de Desenvolvimento Aplicacional
 
 Compete à DDA:
 
@@ -2202,7 +2351,9 @@ a) A Divisão de Contratação (DC);
 
 b) A Divisão de Gestão Contratual (DGC).
 
-###### Artigo 37.º — Divisão de Contratação
+###### Artigo 37.º
+
+##### Divisão de Contratação
 
 Compete à DC:
 
@@ -2216,7 +2367,9 @@ d) Instruir e enviar processos de submissão de contratos a visto prévio do Tri
 
 e) Analisar, acompanhar e elaborar respostas a reclamações e recursos.
 
-###### Artigo 38.º — Divisão de Gestão Contratual
+###### Artigo 38.º
+
+##### Divisão de Gestão Contratual
 
 Compete à DGC:
 
@@ -2413,3 +2566,5 @@ h) A descrição dos mecanismos de mobilidade a utilizar.
 1 - A presente resolução revoga o Regulamento dos Serviços da Assembleia da República, publicado no Diário da Assembleia da República, 2.ª série-C, n.º 30, suplemento, de 15 de julho de 1994.
 
 2 - Mantêm-se válidos os modelos de cartão de identidade aprovados pelo Regulamento referido no n.º 1.
+
+118905103

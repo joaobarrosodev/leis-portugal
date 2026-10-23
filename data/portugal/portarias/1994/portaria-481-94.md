@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/481/1994/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/481-1994-291448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50983b08fc3b05ecdf1d29125fd2066d608bd8aeabcbaf9c52d809c1278d2c8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89f9b50afb278e52fee6e22b8e3e37f9a22c2ec4650122c608e24408afb90c9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aditivo Alimentar
+- Alimento para Animais
 - Aproximação das Legislações
 - CEE
-- Aditivo Alimentar
 - Produto Proteico
-- Alimento para Animais
 relationships:
 - type: amended_by
   target: pt:dre:476909:por
@@ -85,16 +85,22 @@ relationships:
   target: celex:31993L0056
   label: null
   source: http://data.europa.eu/eli/dir/1993/56/oj
+- type: repealed_by
+  target: pt:dre:476909:por
+  label: "Revogada a Port 1105/89 de 27-Dez, com a redacção do presente diploma, pelo DEC LEI.15/2005.12.01.2005.MAPF, DR.IS-A\
+    \ [8] de 12.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2005-476909
+  date: '2005-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:44Z'
   warnings: []
   errors: []
 ---
@@ -115,26 +121,26 @@ Manda o Governo, pelo Ministro da Agricultura, ao abrigo do artigo 2.º do Decre
 
 Ministério da Agricultura.
 
-**Assinada em 23 de Maio de 1994.**
+Assinada em 23 de Maio de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 481/94
+Anexo a que se refere a Portaria n.º 481/94
 
 1 - No grupo 2 - Compostos azotados não proteicos, ao n.º 2.2 - Sais de amónio é aditado o seguinte produto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf))](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf)
 
 2 - no grupo 3 - Ácidos aminados e seus sais:
 
 a) Ao n.º 3.1 - Metionina é aditado é aditado o seguinte produto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf))](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf)
 
 b) Ao n.º 3.2 - Lisina são aditados os seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf))](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf)
 
 3 - O texto do grupo 4 - Análogos hidroxilados dos ácidos aminados é substituído pelo texto seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf))](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/151b00/35063508.pdf)

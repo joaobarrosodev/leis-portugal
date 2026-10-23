@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/115b00/26662667.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/306/1994/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/306-1994-262607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4931c30a843331ad3f38e64ffd417b16a6c0022aa2351edda809d04c352af921
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 320b87fba514558358dea76f5c051702841a2f9ed0b9342e3719197a20df8369
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CEE
-- Leite
+- Ifadap
 - Instituto Nacional de Intervenção e Garantia Agrícola
+- Leite
 - Organização Comum de Mercado
 - Política Agrícola Comum
 - Produção Leiteira
 - Regulamento CE
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:566244:por
@@ -92,16 +92,21 @@ relationships:
   target: celex:31993R0536
   label: null
   source: http://data.europa.eu/eli/reg/1993/536/oj
+- type: repealed_by
+  target: pt:dre:566244:por
+  label: "Revogada pela PORT.115/96.12.04.1996.MADRP, DR.IS-B [87] de 12.04.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-1996-566244
+  date: '1996-04-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:24Z'
   warnings: []
   errors: []
 ---
@@ -142,6 +147,6 @@ b) Para efeitos da aplicação da alínea anterior, o produtor adquirente dever�
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Abril de 1994.**
+Assinada em 21 de Abril de 1994.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.

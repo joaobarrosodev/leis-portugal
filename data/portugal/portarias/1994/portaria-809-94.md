@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/809/1994/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-1994-591724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eabd241fc97c6d60ec46fb1bb8f10416c7262c6f61fd74a9a25414534976e8b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9073dc661a1889ce0d6d7942395c4ee41f0804b0fb497e8535c9d6f155b4e9f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pessoal Dirigente
 - Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Ministério do Emprego e da Segurança Social
 - Pessoal de Inspecção
+- Pessoal Dirigente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/219/1993/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/219/1993/06/16/p/dre
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421422:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:40Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +127,8 @@ Manda o Governo, pelo Ministro do Emprego e da Segurança Social, ao abrigo do d
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 11 de Agosto de 1994.**
+Assinada em 11 de Agosto de 1994.
 
-**O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b00/53825382.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b00/53825382.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b00/53825382.pdf)

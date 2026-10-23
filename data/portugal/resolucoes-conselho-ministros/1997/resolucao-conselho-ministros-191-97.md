@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/251b00/58905891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/191/1997/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/191-1997-677069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb25ef1e0852a2c7a690c7517940987b363bb08546c19dbd915feffba63b467d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fff9802a3760519c375559b790a7464b26475881844b370beb10806751800bd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Exoneração
-- Pessoal Dirigente
-- Comissão para a Promoção de Adaptação das Empresas não Financeiras ao EURO
-- EURO
-- Diretor Geral
-- União Europeia
 - Comissão
+- Comissão para a Promoção de Adaptação das Empresas não Financeiras ao EURO
+- Diretor Geral
+- Empresa
+- EURO
+- Exoneração
 - Nomeação
+- Pessoal Dirigente
 - Política Económica
 - Regulamento de Aplicação da Medida Formação e Educação do Pamaf
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:3222896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1205195:por
+  label: "Exonerado Raul Lopes Rodrigues pelo DESP.4677/98(2ªSÉRIE).1998.03.05.MECO, DR.IIS [66] de 19/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4677-1998-1205195
+  date: '1998-03-05'
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3222896:por
+  label: "Revogada pela RES.60/2000(2ªSÉRIE).2000.05.12.PCM, DR.IIS [124], de 29/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/60-2000-3222896
+  date: '2000-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:32Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/054b00/23712374.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/68/2005/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-2005-574359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 393a89290e2c561a0ede8c555f67c21bd75508f00c5c51b05a5e185bfba4d444
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32a166aba63b9df39ee4c431d4625012ac4de9a3431f21fcabce0723a48c9cc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
+- Alteração Climática
 - Convenção
-- Portugal
 - Decisão CE
 - Definição de Competências
+- Efeito de Estufa
 - Inerpa
 - Instituto do Ambiente
+- Poluição
+- Portugal
 - Proteção do Ambiente
 - Quioto
-- Poluição
-- Alteração Climática
 - Snierpa
 relationships:
 - type: cites
@@ -86,16 +86,22 @@ relationships:
   target: celex:32004D0280
   label: null
   source: http://data.europa.eu/eli/dec/2004/280/oj
+- type: repealed_by
+  target: pt:dre:66970762:por
+  label: Revogada a presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 20/2015 - Diário da República n.º 72/2015,
+    Série I de 2015-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/20-2015-66970762
+  date: '2015-04-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:06Z'
   warnings: []
   errors: []
 ---

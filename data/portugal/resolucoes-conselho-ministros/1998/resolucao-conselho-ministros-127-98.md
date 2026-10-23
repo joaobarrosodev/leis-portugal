@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/127/1998/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/127-1998-223040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6a9f2fbef8f552d4b297a10cd59d41bbf28ae4357fb44223b41c1ca9e70a14c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0186a26364839f3d75a5b5c26217bba3782645c9c504f08449ad14ff19c3b884
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Nova Aldeia da Luz
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: cites
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/163/1995/12/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/163/1995/12/06/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631425:por
+  label: null
+  source: null
 article_structure:
   article_count: 86
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:40Z'
   warnings: []
   errors: []
 ---
@@ -718,7 +730,7 @@ O EA constituirá o domínio público municipal do espaço urbano.
 
 1 - No EA apenas podem ser instalados os materiais referidos na col. 1.ª do quadro que se segue (de acordo com a descrição que consta do artigo 83.º) e em conformidade com o disposto na col. 2.ª, sem prejuízo do disposto nos n.os 2, 4 e 5 do presente artigo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 2 - Admite-se a plantação de árvores pertencentes às formações vegetais da região (tais como azinheiras, sobreiros e pinheiros-mansos), de árvores típicas e bem adaptadas à região (tais como citrinos e oliveiras) e de palmeiras.
 
@@ -822,33 +834,33 @@ Nos ENA aplica-se o disposto nos artigos 44.º a 50.º
 
 3 - O telhado terá entre uma e quatro águas e será construído de acordo com um dos seguintes modelos ou suas adaptações:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 4 - É proibida a construção de telhados com drenagem interior, tais como os seguintes:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 5 - As águas dos telhados deverão drenar para o ou os arruamentos que servem lote ou para o interior do mesmo quando o beiral distar, em projecção horizontal, mais de 3 m do lote adjacente ou de qualquer edifício implantado no mesmo lote.
 
 6 - A ligação entre si das cumieiras das águas de telhado com drenagem centrífuga será construída de acordo com um dos seguintes modelos:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 7 - A ligação entre a cumieira de água de telhado e a parede exterior será construída de acordo com um dos seguintes modelos:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 9 - A ligação, entre si, dos bordos das águas de telhado com drenagem centrípeta realizar-se-á através de laró, de acordo com o seguinte modelo:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 10 - A ligação, entre si, dos bordos das águas de telhado com drenagem centrífuga realizar-se-á através de rincão, de acordo com um dos seguintes modelos:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 11 - A ligação entre o bordo da água do telhado e a parede exterior será construída de acordo com o seguinte modelo:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 ###### Artigo 58.º — Beiral
 
@@ -856,7 +868,7 @@ Nos ENA aplica-se o disposto nos artigos 44.º a 50.º
 
 2 - O beiral será construído no mesmo tipo de telha do telhado e de acordo com um dos seguintes modelos:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 ###### Artigo 59.º — Açoteia
 
@@ -868,7 +880,7 @@ Nos ENA aplica-se o disposto nos artigos 44.º a 50.º
 
 4 - A guarda da açoteia será em murete e construída de acordo com o seguinte modelo ou sua adaptação:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 ###### Artigo 60.º — Cobertura das arramadas
 
@@ -902,7 +914,7 @@ Nos ENA aplica-se o disposto nos artigos 44.º a 50.º
 
 2 - A caleira será construída em chapa galvanizada, zincada ou em zinco, obrigatoriamente de acordo com um dos seguintes modelos:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 3 - A utilização de caleira será apenas admitida sobre portões, portas e escadas exteriores que dêem acesso ao edifício ou ao longo dos beirais de arramadas, sendo o seu comprimento máximo igual à largura destes vãos, acrescida de 0,4 m.
 
@@ -942,7 +954,7 @@ Nos ENA aplica-se o disposto nos artigos 44.º a 50.º
 
 2 - O vão do portão será construído de acordo com os seguintes modelos ou suas adaptações:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 3 - O vão do portão terá as dimensões máximas de 5 m x 4 m (largura x altura).
 
@@ -978,7 +990,7 @@ A distância mínima entre vãos (portas, janelas, portões ou marquises) é de 
 
 2 - As grades serão construídas de acordo com um dos seguintes modelos ou suas adaptações:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 ###### Artigo 70.º — Varanda
 
@@ -992,7 +1004,7 @@ A distância mínima entre vãos (portas, janelas, portões ou marquises) é de 
 
 5 - A guarda será em ferro ou aço e será construída de acordo com um dos seguintes modelos ou suas adaptações:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 ###### Artigo 71.º — Escada exterior
 
@@ -1006,7 +1018,7 @@ A distância mínima entre vãos (portas, janelas, portões ou marquises) é de 
 
 5 - A guarda ou será construída em ferro pintado ou aço, ou será constituída em murete revestido com reboco areado, liso e caiado a branco. A guarda será construída de acordo com um dos seguintes modelos:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 ###### Artigo 72.º — Caixa do correio
 
@@ -1048,11 +1060,11 @@ Além dos referidos, podem ser instalados outros materiais no exterior dos edif�
 
 1 - As naves obedecerão ao seguinte modelo:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 2 - Os estabelecimentos de rés-do-chão obedecerão ao seguinte modelo:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 3 - As paredes exteriores dos estabelecimentos de rés-do-chão serão revestidas com reboco areado, com acabamento liso e caiadas a branco.
 
@@ -1074,19 +1086,19 @@ Além dos referidos, podem ser instalados outros materiais no exterior dos edif�
 
 Na AE6 implantar-se-á edificação com as seguintes características:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 ###### Artigo 81.º — AE7
 
 Na AE7 implantar-se-á edificação com as seguintes características:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 ###### Artigo 82.º — AE8
 
 Na AE8 implantar-se-á edificação com as seguintes características:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[[[[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 #### SECÇÃO V — Das áreas abertas
 
@@ -1100,7 +1112,7 @@ Os seguintes materiais destinam-se a ser instalados nas AA1, AA2 e AA3, conforme
 
 1 - Nas AA1 apenas podem ser instalados os materiais referidos na col. 1.ª do quadro que se segue e de acordo com as disposições que constam da col. 2.ª, sem prejuízo do disposto nos n.os 2 e 4 do presente artigo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 2 - Admite-se a plantação de espécies vegetais típicas de pomares, hortas e quintais (tais como citrinos, outras árvores de fruto e outras espécies destinadas ao consumo doméstico), espécies pertencentes a formações vegetais da região (tais como azinheiras, sobreiros e pinheiros-mansos), espécies vegetais típicas e bem adaptadas à região (tais como citrinos e oliveiras) e espécies vegetais exóticas típicas dos jardins da região (tais como palmeiras).
 
@@ -1112,7 +1124,7 @@ Os seguintes materiais destinam-se a ser instalados nas AA1, AA2 e AA3, conforme
 
 1 - Nas AA2 apenas podem ser instalados os materiais referidos, na col. 1.ª do quadro que se segue e de acordo com as disposições que constam da col. 2.ª, sem prejuízo do disposto nos n.os 4, 5, 6 e 8 do presente artigo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 2 - A ligação entre o atendimento ao público, escritórios da empresa e arruamentos realizar-se-á no mesmo material e com o mesmo desenho da faixa de rodagem e ou do passeio do arruamento.
 
@@ -1132,7 +1144,7 @@ Os seguintes materiais destinam-se a ser instalados nas AA1, AA2 e AA3, conforme
 
 1 - Nas AA3 apenas podem ser instalados os materiais referidos na col. 1.ª do quadro que se segue e de acordo com as disposições que constam da col. 2.ª, sem prejuízo do disposto nos n.os 2 e 4 do presente artigo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)](https://files.diariodarepublica.pt/1s/1998/11/254b00/57735791.pdf)
 
 2 - Admite-se a plantação de espécies pertencentes a formações vegetais da região (tais como azinheiras, sobreiros e pinheiros-mansos) e espécies vegetais típicas e bem adaptadas à região (tais como citrinos e oliveiras).
 

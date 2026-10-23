@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/116/1995/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/116-1995-138547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cea88d90ed4020e0073077a3a986a9291ea9058f36707a6c60385dfd4f7d9ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d15babb0ef5be6f4f4df7bb7d4e2a2be2d772aa296988cdedd5fb5d271d8b271
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Contabilidade e Gestão de Empresas
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Estudos Industriais e de Gestão
 - Instituto Politécnico
-- VILA do Conde
-- Ensino Superior
+- Plano de Estudos
 - Porto
+- VILA do Conde
 relationships:
 - type: amended_by
   target: pt:dre:321364:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643368:por
+  label: "Alterado o num 1, pela PORT.812/97.1997.09.04.ME DR.IS-B [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/812-1997-643368
+  date: '1997-09-04'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321364:por
+  label: "Revogada a presente Portaria, alterada pela Port 812/97, de 04-Set, (findo o processo de transição fixado nos termos\
+    \ do art. 31.º do Regulamento aprovado pela Port 413-A/98, de 17-Jul), pela PORT.496/2000.2000.07.24.ME DR.IS-B [169]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/496-2000-321364
+  date: '2000-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:21Z'
   warnings: []
   errors: []
 ---
@@ -330,8 +350,8 @@ O curso entrará em funcionamento no ano lectivo que for determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 5 de Janeiro de 1995.**
+Assinada em 5 de Janeiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/029b00/06740677.pdf))](https://files.diariodarepublica.pt/1s/1995/02/029b00/06740677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/029b00/06740677.pdf)

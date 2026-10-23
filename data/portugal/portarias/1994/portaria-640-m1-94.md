@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 162/1994, 2º Suplemento, Série I-B de 1994-07-15
   number: '162'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3862-(36) a 3862-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b02/00360037.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/640-m1/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/640-m1-1994-276401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 618399210d98d5369b7b4bcf1e63a2e7e44df876af44f215464fb76c98a993c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eaa24afe8f14bbb32c7be007a6ca13ee890d55f6ccf84c39154743011e5caa55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,38 @@ relationships:
   target: pt:dre:611277:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RENOVADA A CONCESSAO DA ZONA DE CAÇA ASSOCIATIVA PELA PORT 1010/95 DE 19-AGO DR.IS-B [191]\0B [191]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-19'
+- type: amended_by
+  target: pt:dre:631057:por
+  label: "Determinada a suspensão do exercício da caça e de actividades de carácter venatório na zona de caça associativa\
+    \ concessionada pelo presente diploma e renovada pela Port 1010/95, de 19-Ago, pela PORT.1067/2001.2001.09.04.MADRP, DR.IS-B\
+    \ [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-2001-631057
+  date: '2001-09-04'
+- type: amended_by
+  target: pt:dre:567686:por
+  label: "Renovada a concessão da zona de caça associativa concessionada pelo presente diploma, renovada pela Port 1010/95,\
+    \ de 19-Ago, pela PORT.1322/2001.2001.11.30.MADRP DR.IS-B [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1322-2001-567686
+  date: '2001-11-30'
+- type: amended_by
+  target: pt:dre:449199:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça concessionada pelo presente diploma, renovada\
+    \ pelas Ports 1010/95, de 19-Ago e 1322/2001 de 30-Nov, pela PORT.379/2008.26.05.2008.MADRP, DR.IS [100] de 26.05.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-2008-449199
+  date: '2008-05-26'
+- type: amended_by
+  target: pt:dre:611277:por
+  label: "Anexados, vários prédios rústicos, à zona de caça associativa da Herdade da Amoreira e outras, concessionada pelo\
+    \ presente diploma, renovada pelas Ports 1010/95, de 19-Ago, 1322/2001 de 30-Nov e 379/2008 de 26-Mai, pela PORT.132/2010.02.03.2010.MADRP,\
+    \ DR.IS [42] de 02.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/132-2010-611277
+  date: '2010-03-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -87,16 +119,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-s13/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-s13/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:38Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +193,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 5 de Julho de 1994.**
+Assinada em 5 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b02/00360037.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b02/00360037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b02/00360037.pdf)

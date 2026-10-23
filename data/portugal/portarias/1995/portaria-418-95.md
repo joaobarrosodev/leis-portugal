@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/418/1995/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-1995-513991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6babe6710402364c7352c6f9d7aa8862ce72a0b445ae367200c402a4aa7ad317
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a813afa0653c9ddd2da6120d386bdf92a51c6be6dbaf0024b8d347d8d039053f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,48 @@ relationships:
   target: pt:dre:482844:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644525:por
+  label: "Alterado o nº 1º da Port 448/91 de 28-Mai, com a redacção conferida no presente diploma, pela PORT.881/97.10.09.1997.MADRP,\
+    \ DR.IS-B [209] de 10.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/881-1997-644525
+  date: '1997-09-10'
+- type: amended_by
+  target: pt:dre:666725:por
+  label: "Renovada por um período de 12 anos, a concessão da zona de caça associativa atribuída pela Port 448/91, de 28-Mai,\
+    \ alterada pelo presente diploma, pela PORT.524/2003.2003.07.04.MADRP DR.IS-B [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/524-2003-666725
+  date: '2003-07-04'
+- type: amended_by
+  target: pt:dre:142140:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 448/91 de 28-Mai, com a redacção dada pelo presente\
+    \ diploma, pela PORT.796/2005.05.09.2005.MADRP, DR.IS-B [170] de 05.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/796-2005-142140
+  date: '2005-09-05'
+- type: amended_by
+  target: pt:dre:482844:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 448/91, de 28-Maio, alterada pelo presente\
+    \ diploma, pela PORT.1299/2009.19.10.2009.MADRP, DR.IS [202] de 19.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1299-2009-482844
+  date: '2009-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/448/1991/05/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/448/1991/05/28/p/dre
+- type: cites
+  target: pt:dre:631236:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:05Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +139,6 @@ Manda o Governo, pelo Ministro da Agricultura, que os n.os 2.º, 3.º e 4.º da 
 
 Ministério da Agricultura.
 
-**Assinada em 27 de Março de 1995.**
+Assinada em 27 de Março de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

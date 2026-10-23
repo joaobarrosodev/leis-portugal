@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/364/1994/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-1994-303618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:25:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 992282730c53d2bf8b2a281ace97e27443568f411423f9de9ca7629340cbf74e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0636fb3c5358662bce3c747d26e64cdc70743585897b661d6909eb2b045d18a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:25:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instalação de GÁS
 - Combustível
+- Instalação de GÁS
 - Normas de Construção
 - Regulamento
 - Segurança dos Edifícios
@@ -84,16 +84,21 @@ relationships:
   target: celex:31988L0182
   label: null
   source: http://data.europa.eu/eli/dir/1988/182/oj
+- type: repealed_by
+  target: pt:dre:479399:por
+  label: "Revogada pela PORT.361/98.1998.06.26.MECO, DR.IS-B [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/361-1998-479399
+  date: '1998-06-26'
 article_structure:
   article_count: 51
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:25:53Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +123,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
 
 Ministério da Indústria e Energia.
 
-**Assinada em 13 de Abril de 1994.**
+Assinada em 13 de Abril de 1994.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO
 
@@ -290,7 +295,7 @@ d) Referência aos lotes de fabrico, devendo estes ser acompanhados de um certif
 
 1 - Sempre que uma tubagem enterrada penetre num edifício através das suas paredes ou fundações no subsolo, o espaço anelar entre a tubagem e a parede deve ser obturado de modo estanque, conforme se ilustra na figura 1:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf))](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
 
 2 - As tubagens em polietileno emergentes do solo devem ser protegidas por uma manga ou bainha metálica, obedecendo aos seguintes requisitos:
 
@@ -302,7 +307,7 @@ c) Acompanhar a tubagem de gás até uma altura de 0,6 m acima do solo, a menos 
 
 d) Satisfazer o disposto nos n.os 14 e 15 do artigo 12.º, conforme se ilustra na figura 2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf))](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
 
 3 - A extremidade superior do espaço anelar entre a tubagem e a manga ou bainha deve ser obturada com um material inerte.
 
@@ -312,7 +317,7 @@ d) Satisfazer o disposto nos n.os 14 e 15 do artigo 12.º, conforme se ilustra n
 
 6 - A protecção deve ficar complanar com o tecto na sua extremidade inferior e ultrapassar o pavimento em, pelo menos, 0,05 m, conforme se ilustra na figura 3:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf))](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
 
 7 - O espaço anelar entre a tubagem e a protecção deve ser preenchido com uma matéria isolante e não higroscópica.
 
@@ -548,7 +553,7 @@ c) No ponto de entrada da tubagem em cada fogo, caso o contador se encontre dist
 
 7 - Deve existir, do lado de dentro da porta referida no número anterior, junto ao pavimento, um murete com altura igual ou superior a 0,2 m, conforme se ilustra na figura 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf))](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
 
 8 - A iluminação dos compartimentos dos contadores e das colunas montantes deve ser adequada aos locais e situada no exterior dos compartimentos reservados referidos no n.º 4.
 
@@ -832,7 +837,7 @@ API STD 1104 - Standard for welding pipelines and related facilities.
 
 Tubos de aço com costura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf))](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/134b00/30393047.pdf)
 
 Tubos de cobre:
 

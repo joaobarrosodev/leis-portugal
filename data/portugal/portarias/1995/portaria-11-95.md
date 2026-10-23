@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/11/1995/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-1995-367245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bf1eade5c50002128f4c84ce2edd0f7a627b6e458738bfd9d9843cf4e78d2e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd9dae4cd1642b7b7c7c129ecb4833b536deb67efbdb3aa3257d3c5e9fa260de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,82 @@ relationships:
   target: pt:dre:3272037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468412:por
+  label: "Alterado o quadro de pessoal pela Port 247/97.1997.04.14.PCM, DR.IS-B [87] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-1997-468412
+  date: '1997-04-14'
+- type: amended_by
+  target: pt:dre:3272037:por
+  label: "Alterado o quadro de pessoal, pela PORT.991/2001(2ºSÉRIE).2001.04.30.MS,DR.IIS[123] de 28/05/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/991-2001-3272037
+  date: '2001-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/130/1993/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/130/1993/02/04/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665733:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:46Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +172,7 @@ Unidades orgânicas de natureza técnica:
 
 Direcção de Serviços de Instalações e Equipamento;
 
-##### Divisão de Serviços Farmacêuticos;
+Divisão de Serviços Farmacêuticos;
 
 Unidades orgânicas de natureza administrativa:
 
@@ -118,25 +180,25 @@ Repartição de Pessoal e Expediente Geral, com:
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente Geral;
+Secção de Expediente Geral;
 
 Repartição de Gestão de Doentes, com:
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
-#### Secção de Arquivo Clínico;
+Secção de Arquivo Clínico;
 
 Repartição de Serviços Financeiros e Aprovisionamento, com:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Aquisições e Armazéns.
+Secção de Aquisições e Armazéns.
 
 3.º Os conteúdos funcionais das carreiras de secretária dos serviços de saúde e de desenhador de construção civil, do grupo de pessoal técnico-profissional, de nível 4, são os constantes do anexo I ao presente diploma.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 5 de Dezembro de 1994.**
+Assinada em 5 de Dezembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
@@ -156,4 +218,4 @@ Organização do processo clínico do doente; secretariado dos serviços clínic
 
 Quadro de pessoal do Hospital de Sobral Cid
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/005b00/00710075.pdf))](https://files.diariodarepublica.pt/1s/1995/01/005b00/00710075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/005b00/00710075.pdf)

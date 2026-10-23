@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/12/2007/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-2007-522658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fd230e8ab14887e898cfc5c83375540b2b320bb0c536afa448303bc4b901f36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd5652a6d56d39fb717b1f4d63bc8c68f92e530ca94ef8b42214a5d8c71d130a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auto-estrada do Grande Porto
-- SCUT
 - Contrato de Concessão
-- Rede de Estradas
 - Obras Públicas
 - Porto
+- Rede de Estradas
+- SCUT
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/2002/08/28/p/dre
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/114/2002/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114/2002/08/28/p/dre
+- type: cites
+  target: pt:dre:173758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661564:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:18Z'
   warnings: []
   errors: []
 ---
@@ -154,19 +170,19 @@ A [ ]e o [ ] foram designados representantes do Concedente nos termos do artigo 
 
 1.1 - Fazem parte integrante do primeiro aditamento, para todos os efeitos legais e contratuais, os seus anexos e respectivos apêndices, organizados da forma seguinte:
 
-## Anexo n.º 1 - caso base;
+Anexo n.º 1 - caso base;
 
-## Anexo n.º 2 - definição dos sublanços e calendário de alargamentos;
+Anexo n.º 2 - definição dos sublanços e calendário de alargamentos;
 
-## Anexo n.º 3 - tarifas e bandas;
+Anexo n.º 3 - tarifas e bandas;
 
-## Anexo n.º 4 - alterações aos contratos do projecto;
+Anexo n.º 4 - alterações aos contratos do projecto;
 
-## Anexo n.º 5A - limite do lanço IC 25 nó da EN 106-nó de Lousada para efeitos de cobrança de portagens SCUT;
+Anexo n.º 5A - limite do lanço IC 25 nó da EN 106-nó de Lousada para efeitos de cobrança de portagens SCUT;
 
-## Anexo n.º 5B - limite do lanço IC 25 nó da EN 106-nó de Lousada para efeitos de concepção, projecto, construção e financiamento;
+Anexo n.º 5B - limite do lanço IC 25 nó da EN 106-nó de Lousada para efeitos de concepção, projecto, construção e financiamento;
 
-## Anexo n.º 5C - limite do lanço IC 25 nó da EN 106-nó de Lousada para efeitos de operação e manutenção.
+Anexo n.º 5C - limite do lanço IC 25 nó da EN 106-nó de Lousada para efeitos de operação e manutenção.
 
 1.2 - Na interpretação, integração ou aplicação de qualquer disposição do primeiro aditamento deverão ser consideradas as disposições dos documentos que nele se consideram integrados nos termos do número anterior e que tenham relevância na matéria em causa, e vice-versa.
 
@@ -222,7 +238,7 @@ e) IC 25 nó da EN 106-nó de Lousada.
 
 29.1 - As datas limite de entrada em serviço de cada um dos lanços referidos nos n.os 5.1, 5.2 e 5.3, com o número de vias previsto no anexo n.º 3 ao primeiro aditamento, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01600/06010604.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01600/06010604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01600/06010604.pdf)
 
 4.2 - O Concedente e a Concessionária acordam aditar ao Contrato de Concessão as seguintes cláusulas, cuja numeração indica os locais onde nele se devem ter por inseridas:
 

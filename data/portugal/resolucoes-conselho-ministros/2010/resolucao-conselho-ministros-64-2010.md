@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/64/2010/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-2010-343917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a5d3f4a9a0551fc41bd00f164d0bbb3d6fd83f7496b52ac37a76910d6f4da51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2da96d988056fd9fc8c88e17fac12b4cc7c0113b13e71828d15b6f225014f53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ subjects:
 - Comissão de Acompanhamento
 - Definição de Competências
 - Direção Geral das Autarquias Locais
-- Secretaria Geral
 - Livro Branco
 - Nomeação
-- Presidente
 - Presidência do Conselho de Ministros
+- Presidente
+- Secretaria Geral
 - Sector Empresarial Local
 - Vogal
 relationships:
@@ -80,6 +80,13 @@ relationships:
   target: pt:dre:671038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671038:por
+  label: "Prorrogado até 15.10.2011 o prazo do mandato da comissão de acompanhamento do estudo «Livro Branco do Sector Empresarial\
+    \ Local» e determinada a extinção do mesmo mandato no termo da prorrogação ou com a conclusão dos respectivos trabalhos,\
+    \ pela RES.39/2011.22.09.2011.PCM, DR.IS [183] de 22.09.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-2011-671038
+  date: '2011-09-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/53-f/2006/12/29/p/dre
   label: null
@@ -88,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/1998/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/1998/08/18/p/dre
+- type: cites
+  target: pt:dre:197493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:03Z'
   warnings: []
   errors: []
 ---

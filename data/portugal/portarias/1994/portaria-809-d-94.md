@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 211/1994, 1º Suplemento, Série I-B de 1994-09-12
   number: '211'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5388-(21) a 5388-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/809-d/1994/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-d-1994-617288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3d51be1dc1bd3dace9cf0e276fedfaee440ff79e93a2ee31c137eefe1fde845
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f41bd64c4c0efa6b12ca63ca9f599255dc51071e2347b33873d85d566ef5630
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,49 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Arborização
-- Projeto de Investimento
 - Exploração Florestal
+- Projeto de Investimento
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:197727:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: FIXADO UM PERIODO EXCEPCIONAL DE CANDIDATURA AS AJUDAS PREVISTAS NO PRESENTE DIPLOMA, PELA PORT 1044/94 DE 26-NOV
+    DR.IS-B [274]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PRORROGADO O PRAZO EXCEPCIONAL DE CANDIDATURA AS AJUDAS PREVISTAS NO PRESENTE DIPLOMA, FIXADO NO NUM 2 DA PORT 1044/94
+    DE 26-NOV PELA PORT 34-A/95 DE 13-JAN DR.IS-B [11]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO OS ART 14, 15 E 17 DO REGULAMENTO APROVADO PELA PORT 952/95 DE 04-AGO DR.IS-B [179]\0179]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-04'
+- type: amended_by
+  target: pt:dre:226427:por
+  label: "Alterados os arts. 4º, 7º, 8º, 9º, 11º, 13º, 14º, 15º, 16º e 17º e os anexos I e II, todos do regulamento anexo\
+    \ ao presente diploma pela PORT.606/96.1996.10.25.MADRP, DR.IS-B [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/606-1996-226427
+  date: '1996-10-25'
+- type: amended_by
+  target: pt:dre:574171:por
+  label: "Alterados os artºs 15.º e 17.º do Regulamento, na redacção da Port nº 606/96, de 25-Out pela PORT.14-A/98.1998.01.07.MADRP\
+    \ DR.IS-B [5]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-a-1998-574171
+  date: '1998-01-07'
+- type: amended_by
+  target: pt:dre:209846:por
+  label: "Alterado o nº 2 do art. 15º e o nº 1 do art. 17º do Regulamento aprovado pelo presente diploma na redacção dada\
+    \ pela Port 606/96 de 25-Out pela PORT.83/98.1998.02.19.MADRP, DR.IS-B [42]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/83-1998-209846
+  date: '1998-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre
   label: null
@@ -91,16 +126,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+- type: cites
+  target: pt:dre:232147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619560:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197727:por
+  label: "Revogada pela PORT.199/98.1998.03.25.MADRP, DR.IS-B [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/199-1998-197727
+  date: '1998-03-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:43Z'
   warnings: []
   errors: []
 ---
@@ -123,17 +183,17 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 9 de Setembro de 1994.**
+Assinada em 9 de Setembro de 1994.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.
 
-## Anexo a que se refere a Portaria n.º 809-D/94
+Anexo a que se refere a Portaria n.º 809-D/94
 
 Regulamento do Programa de Desenvolvimento Florestal
 
-###### Artigo 1.º O presente Regulamento estabelece o regime de aplicação do Programa de Desenvolvimento Florestal (PDF).
+Artigo 1.º O presente Regulamento estabelece o regime de aplicação do Programa de Desenvolvimento Florestal (PDF).
 
-###### Art. 2.º O PDF tem por objectivos, nomeadamente, os seguintes:
+Art. 2.º O PDF tem por objectivos, nomeadamente, os seguintes:
 
 a) Promover a rearborização de áreas ardidas, assim como a arborização de áreas de potencial uso florestal;
 
@@ -143,9 +203,9 @@ c) Fomentar a utilização com fins múltiplos da floresta;
 
 d) Promover a produção de materiais de reprodução seleccionados e controlados e apoiar a criação ou a modernização de viveiros florestais.
 
-###### Art. 3.º As áreas arborizadas e beneficiadas ao abrigo da [Portaria n.º 199/94](https://diariodarepublica.pt/dr/detalhe/portaria/199-1994-254239), de 6 de Abril, são excluídas do âmbito de aplicação do presente Regulamento.
+Art. 3.º As áreas arborizadas e beneficiadas ao abrigo da [Portaria n.º 199/94](https://diariodarepublica.pt/dr/detalhe/portaria/199-1994-254239), de 6 de Abril, são excluídas do âmbito de aplicação do presente Regulamento.
 
-###### Art. 4.º - 1 - Podem ser concedidas ajudas a projectos de investimento referentes às seguintes acções:
+Art. 4.º - 1 - Podem ser concedidas ajudas a projectos de investimento referentes às seguintes acções:
 
 a) Rearborização de áreas florestais ardidas, ou em que os povoamentos apresentem uma produtividade inferior a 50% da produtividade potencial estimada para as estações que ocupam;
 
@@ -167,7 +227,7 @@ g) Beneficiação e aproveitamento de recursos aquícolas em águas interiores.
 
 4 - A rearborização de áreas ardidas e a recuperação de áreas já ocupadas com espécie do género Eucalyptus apenas são objecto de ajudas quando aquelas sejam consideradas de reduzida ou baixa probabilidade de inadaptação da espécie à estação, nos termos da [Portaria n.º 528/89](https://diariodarepublica.pt/dr/detalhe/portaria/528-1989-619560), de 11 de Julho.
 
-###### Art. 5.º - 1 - Os projectos referentes às acções previstas nas alíneas a) a c) do n.º 1 do artigo anterior podem incluir, a título complementar, os seguintes investimentos:
+Art. 5.º - 1 - Os projectos referentes às acções previstas nas alíneas a) a c) do n.º 1 do artigo anterior podem incluir, a título complementar, os seguintes investimentos:
 
 a) Construção ou beneficiação de rede viária e divisional:
 
@@ -177,15 +237,15 @@ c) Promoção da utilização múltipla da floresta através, designadamente, da
 
 2 - Quando a construção da rede viária exceder um milhão de escudos por quilómetro deve ser apresentado um projecto específico.
 
-###### Art. 6.º Os beneficiários das ajudas referidas nas alíneas a) e b) do artigo 4.º têm, ainda, direito a uma ajuda destinada à manutenção dos povoamentos instalados, de acordo com o Plano Orientador de Gestão, por um período de cinco anos a contar da retancha.
+Art. 6.º Os beneficiários das ajudas referidas nas alíneas a) e b) do artigo 4.º têm, ainda, direito a uma ajuda destinada à manutenção dos povoamentos instalados, de acordo com o Plano Orientador de Gestão, por um período de cinco anos a contar da retancha.
 
-###### Art. 7.º - 1 - Podem, ainda, ser concedidos à elaboração de estudos de âmbito local na área do ordenamento e planeamento florestal que visem uma aplicação integrada do PDF.
+Art. 7.º - 1 - Podem, ainda, ser concedidos à elaboração de estudos de âmbito local na área do ordenamento e planeamento florestal que visem uma aplicação integrada do PDF.
 
 2 - A incidência geográfica dos estudos referidos no número anterior é objecto de despacho do Ministro da Agricultura, competindo ao Instituto Florestal a sua divulgação, bem como a definição dos seus parâmetros técnicos.
 
 3 - Os estudos realizados, depois de aprovados pelo Instituto Florestal e homologados pelo Ministro da Agricultura, condicionam a aplicação do presente Regulamento na área geográfica a que respeitem.
 
-###### Art. 8.º - 1 - Podem beneficiar das ajudas previstas nas alíneas a) a e) do n.º 1 do artigo 4.º, e nos artigos 5.º e 6.º deste Regulamento, as pessoas individuais ou colectivas, de direito público ou privado, bem como, excepto no caso da alínea d), organismos públicos.
+Art. 8.º - 1 - Podem beneficiar das ajudas previstas nas alíneas a) a e) do n.º 1 do artigo 4.º, e nos artigos 5.º e 6.º deste Regulamento, as pessoas individuais ou colectivas, de direito público ou privado, bem como, excepto no caso da alínea d), organismos públicos.
 
 2 - Podem beneficiar da ajuda referida no artigo anterior:
 
@@ -197,7 +257,7 @@ c) Instituto Florestal;
 
 d) Autarquias locais, desde que em articulação com um dos beneficiários referidos nas alíneas anteriores.
 
-###### Art. 9.º - 1 - Para efeitos do presente diploma, consideram-se agrupamentos de beneficiários aqueles que resultem da associação de, pelo menos, cinco titulares de superfícies florestais contíguas geridas de forma autónoma até ao momento da candidatura, desde que satisfaçam os seguintes requisitos:
+Art. 9.º - 1 - Para efeitos do presente diploma, consideram-se agrupamentos de beneficiários aqueles que resultem da associação de, pelo menos, cinco titulares de superfícies florestais contíguas geridas de forma autónoma até ao momento da candidatura, desde que satisfaçam os seguintes requisitos:
 
 a) Se proponham efectuar a gestão conjunta dessas superfícies;
 
@@ -209,7 +269,7 @@ c) Indiquem um representante, de entre os membros do agrupamento, que assuma a q
 
 3 - Para efeitos da alínea c) do n.º 1 do artigo 4.º, consideram-se agrupamentos de beneficiários os agrupamentos constituídos ao abrigo do Programa de Acção Florestal (PAF) do PEDAP.
 
-###### Art. 10.º Para efeitos de atribuição das ajudas previstas no presente Regulamento, os beneficiários devem comprometer-se, consoante a natureza daquelas, a:
+Art. 10.º Para efeitos de atribuição das ajudas previstas no presente Regulamento, os beneficiários devem comprometer-se, consoante a natureza daquelas, a:
 
 a) Respeitar as práticas silvícolas constantes do Plano Orientador de Gestão, integrante do projecto de investimento;
 
@@ -221,7 +281,7 @@ a) Manter em actividade normal os viveiros florestais melhorados, ou instalados,
 
 e) Promover, nos povoamentos seleccionados, o conjunto de cuidados adequados à prossecução dos seus fins por um período mínimo de 10 anos.
 
-###### Art. 11.º - 1 - Os projectos de investimento referentes às acções constantes das alíneas a), b) e c) do n.º 1 do artigo 4.º devem incidir sobre uma área mínima contínua definida regionalmente nos termos do anexo I a este Regulamento.
+Art. 11.º - 1 - Os projectos de investimento referentes às acções constantes das alíneas a), b) e c) do n.º 1 do artigo 4.º devem incidir sobre uma área mínima contínua definida regionalmente nos termos do anexo I a este Regulamento.
 
 2 - No caso de agrupamentos de beneficiários, os projectos referidos no número anterior não podem incidir sobre uma área superior a 750 ha.
 
@@ -229,19 +289,19 @@ e) Promover, nos povoamentos seleccionados, o conjunto de cuidados adequados à 
 
 4 - O disposto nos números anteriores não se aplica às áreas submetidas a regime florestal obrigatório, total ou parcial, à data da publicação do presente diploma.
 
-###### Art. 12.º - 1 - Os níveis das ajudas e os montantes máximos de investimentos elegíveis constam do anexo II a este Regulamento.
+Art. 12.º - 1 - Os níveis das ajudas e os montantes máximos de investimentos elegíveis constam do anexo II a este Regulamento.
 
 2 - As ajudas previstas neste Regulamento revestem a forma de subvenção financeira a fundo perdido.
 
-###### Art. 13.º - 1 - Os projectos de investimento devem ser elaborados e acompanhados tecnicamente por técnicos cujos requisitos são objecto de despacho do Ministro da Agricultura.
+Art. 13.º - 1 - Os projectos de investimento devem ser elaborados e acompanhados tecnicamente por técnicos cujos requisitos são objecto de despacho do Ministro da Agricultura.
 
 2 - As despesas com a elaboração e acompanhamento dos projectos são consideradas para efeitos de atribuição das ajudas, de acordo com os níveis de ajuda e montantes máximos elegíveis constantes do anexo III.
 
-###### Art. 14.º - 1 - A formalização das candidaturas às ajudas previstas neste diploma faz-se, entre 1 de Setembro e 31 de Outubro junto dos serviços centrais e regionais do Instituto Florestal, através do preenchimento de um formulário a distribuir por esses serviços.
+Art. 14.º - 1 - A formalização das candidaturas às ajudas previstas neste diploma faz-se, entre 1 de Setembro e 31 de Outubro junto dos serviços centrais e regionais do Instituto Florestal, através do preenchimento de um formulário a distribuir por esses serviços.
 
 2 - O formulário deve ser acompanhado de todos os documentos indicados nas respectivas instruções.
 
-###### Art. 15.º - 1 - As candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão competente até ao fim do mês de Fevereiro do ano seguinte ao da apresentação das candidaturas.
+Art. 15.º - 1 - As candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão competente até ao fim do mês de Fevereiro do ano seguinte ao da apresentação das candidaturas.
 
 2 - A análise e deliberação sobre as candidaturas apresentadas compete:
 
@@ -249,7 +309,7 @@ a) À unidade regional de gestão sectorial, no caso das ajudas referidas nas al
 
 b) À unidade nacional de gestão sectorial, nos restantes casos.
 
-###### Art. 16.º - 1 - A deliberação sobre as candidaturas apresentadas faz-se tendo em conta os seguintes critérios de prioridade:
+Art. 16.º - 1 - A deliberação sobre as candidaturas apresentadas faz-se tendo em conta os seguintes critérios de prioridade:
 
 a) Ajudas referidas nas alíneas a) a c) do n.º 1 do artigo 4.º:
 
@@ -269,14 +329,14 @@ c) Ajuda referida na alínea e) do n.º 1 do artigo 4.º: projectos que envolvam
 
 2 - Na aplicação dos critérios previstos na alínea a) do número anterior, em igualdade de circunstâncias, será dada prioridade a candidaturas apresentadas por agrupamentos de beneficiários ou em que tenha sido apresentada candidatura ao PAF que não tenha sido objecto de ajuda.
 
-###### Art. 17.º As ajudas previstas no presente diploma são concedidas ao abrigo de contratos celebrados, entre o IFADAP e os beneficiários, até 30 de Abril do ano seguinte ao da apresentação da candidatura.
+Art. 17.º As ajudas previstas no presente diploma são concedidas ao abrigo de contratos celebrados, entre o IFADAP e os beneficiários, até 30 de Abril do ano seguinte ao da apresentação da candidatura.
 
-###### Art. 18.º Compete ao IFADAP, nos termos do contrato referido no número anterior, proceder ao pagamento das ajudas, podendo haver lugar à concessão de adiantamentos.
+Art. 18.º Compete ao IFADAP, nos termos do contrato referido no número anterior, proceder ao pagamento das ajudas, podendo haver lugar à concessão de adiantamentos.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf)
 
 ## ANEXO II — Níveis de ajuda e montantes máximos elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf)

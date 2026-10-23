@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/371/1995/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/371-1995-223056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a36aa009849da24bee5ed403162ba921ed97d92d973ae76e97ee1b3c39f2ecb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8d5374fd353495594019a6f989196c526fa2c317e71276f4a8ec75add744994
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Ensino Profissional
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia da Saúde
 - Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:197154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197154:por
+  label: "Alterados os Planos de Estudos dos cursos de bacharelato em Análises Clínicas e Saúde Pública, Anatomia Patológica,\
+    \ Citlógica e Tanatológica, Cariopneumologia, Dietética, Farmácia|, Fisioterapia, Higiena e Saúde Ambiental, Ortóptica,\
+    \ Radiologia e Radioterapia, aprovados pelo presente diploma, pela PORT.31/99.1999.01.20.ME, DR.IS-B [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-1999-197154
+  date: '1999-01-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
   label: null
@@ -85,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/791/1994/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/791/1994/09/05/p/dre
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657621:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:00Z'
   warnings: []
   errors: []
 ---
@@ -157,8 +176,8 @@ Os cursos referidos no n.º 1.º entram em funcionamento no ano lectivo de 1994-
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 24 de Fevereiro de 1995.**
+Assinada em 24 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24272432.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24272432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24272432.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/177/2008/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-2008-439874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05f943c62c19079912e2319127cb6744301c61c688b57ec25be71d91b716cdc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13d872824dd92d3913d94fadd2f95b63478925566068dbcfd986b072dbf44950
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Proteção dos Animais
-- RIO TEJO
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Proteção dos Animais
 - Regulamento
+- RIO TEJO
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -78,14 +78,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1979/409/oj
 article_structure:
   article_count: 43
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:11Z'
   warnings: []
   errors: []
 ---
@@ -556,7 +556,7 @@ e) Em situações de risco ou calamidade.
 
 ##### SUBSECÇÃO II — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo i
 
@@ -586,7 +586,7 @@ f) As actividades de turismo de natureza.
 
 2 - Nas áreas de protecção parcial do tipo i são também interditas as actividades referidas nas alíneas a) e i) do n.º 1 e b), d) e f) do n.º 2 do artigo 9.º do presente Regulamento.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo ii
 
@@ -624,7 +624,7 @@ Nas áreas estuarinas de protecção complementar aplica-se o disposto nos artig
 
 ##### SUBSECÇÃO I — Protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas terrestres de protecção parcial
 
@@ -1110,4 +1110,4 @@ b) A Portaria n.º 817/93, de 7 de Setembro.
 
 O PORNET entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22800/0833208347.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22800/0833208347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22800/0833208347.pdf)

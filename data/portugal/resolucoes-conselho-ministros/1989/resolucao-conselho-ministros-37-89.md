@@ -47,36 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/37-1989-549396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:31:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe6398f2ad66d5b431a35385461e628282918e1db057e541579bec5c0b5f3163
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 395b6a5ee11da49f57772fee48c02cd787e9ec2645d0f346848bb45176cda587
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:31:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Confidencialidade
+- Conservação de Documentos
+- Documentação Classificada
+- Impresso
+- Indústria
+- Investigação Científica e Tecnológica
+- Normas de Segurança
+- Nova Tecnologia
+- Segredo de Estado
+- Segredo Profissional
+- Segurança da Informação
+- Segurança Interna
+- Segurança Internacional
+- Segurança Pública
+- Transporte Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:122124256:por
+  label: Determinado que são desclassificados os modelos de formulários «MOD. SEG. 1» e «MOD SEG. 4», constantes dos anexos
+    às normas para a segurança nacional, salvaguarda e defesa das matérias classificadas, segurança industrial, tecnológica
+    e de investigação aprovadas pelo presente diploma pelo(a) Resolução do Conselho de Ministros n.º 70/2019 - Diário da República
+    n.º 76/2019, Série I de 2019-04-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/70-2019-122124256
+  date: '2019-04-17'
+- type: cites
+  target: pt:dre:304706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461061:por
+  label: null
+  source: null
 article_structure:
   article_count: 122
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:31:50Z'
   warnings: []
   errors: []
 ---
@@ -1511,7 +1546,7 @@ As medidas de segurança preconizadas para o transporte internacional de matéri
 
 7 - Com base no pedido apresentado, no parecer do estabelecimento, empresa, organismo ou serviço e na apreciação da autoridade nacional de segurança, compete ao ministro da tutela ou ao membro do órgão de governo próprio da região autónoma responsável pelo sector a decisão final de autorização ou indeferimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24500/46724698.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24500/46724698.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24500/46724698.pdf)
 
 ## ANEXO I — Glossário de termos técnicos de segurança
 

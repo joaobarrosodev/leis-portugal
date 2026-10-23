@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/011b00/01970198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/33/1995/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-1995-146942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2d6c973b599e7e10801c6deb5d69be6937088caf9eeba92778a66d794d666ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 449a99f464a887d40aca94f8550de1b67cd1c55fe3c1951e4cc0774174fa5138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono Complementar a Crianças e Jovens Deficientes
+- Abono de Família
 - Deficiente
 - Função Pública
 - Prestações Familiares
@@ -77,23 +78,36 @@ subjects:
 - Subsídio de Casamento
 - Subsídio de Funeral
 - Subsídio de Nascimento
-- Abono de Família
 - Subsídio por Assistência de Terceira Pessoa
 relationships:
 - type: amended_by
   target: pt:dre:620924:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:618166:por
+  label: "Rectificado o n.º 3 do n.º 5.º pela DECL-RECT.26/95.31.03.1995.PCM, DR.IS-B [77]Supl de 31.03.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-1995-618166
+  date: '1995-03-31'
+- type: repealed_by
+  target: pt:dre:620924:por
+  label: "Revogada pela PORT.35/96.10.02.1996.MF, DR.IS-B [35] de 10.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-1996-620924
+  date: '1996-02-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:01Z'
   warnings: []
   errors: []
 ---
@@ -166,6 +180,6 @@ A actualização dos valores das prestações prevista nesta portaria produz efe
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 29 de Dezembro de 1994.**
+Assinada em 29 de Dezembro de 1994.
 
-**O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - O Secretário de Estado da Segurança Social, José Frederico de Lemos Salter Cid.**
+O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - O Secretário de Estado da Segurança Social, José Frederico de Lemos Salter Cid.

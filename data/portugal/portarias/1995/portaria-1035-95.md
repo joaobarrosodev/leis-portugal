@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1035/1995/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1035-1995-432211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6add2618b8d5b69743a208c57734bb4072f97d309d92fc9a2e2dd84b4633df08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bcd582103c25d4af275279c8e27c5ddba2d060976e4eb66b505fd7c9774a2b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,56 @@ relationships:
   target: pt:dre:430187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 425/96 DE 30-AGO DR.IS-B [201]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-30'
+- type: amended_by
+  target: pt:dre:241376:por
+  label: "Alterado o quadro de pessoal, pela PORT.425/96.30.08.1996.PCM, DR.IS-B [201] de 30.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-1996-241376
+  date: '1996-08-30'
+- type: amended_by
+  target: pt:dre:212604:por
+  label: "Alterado o quadro de pessoal, pela PORT.539/96.02.10.1996.PCM, DR.IS-B [229] de 02.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/539-1996-212604
+  date: '1996-10-02'
+- type: amended_by
+  target: pt:dre:526010:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma pela Port.204/97.1997.03.25.PCM DR.IS-B [71], alterado\
+    \ anteriomente pela Port 425/96 de 30-Ago\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-1997-526010
+  date: '1997-03-25'
+- type: amended_by
+  target: pt:dre:396890:por
+  label: "Alterado o quadro de pessoal pela PORT.334/97.1997.05.15.PCM, DR.IS-B [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/334-1997-396890
+  date: '1997-05-15'
+- type: amended_by
+  target: pt:dre:218520:por
+  label: "Alterado o quadro de pessoal pela PORT.129/98.1998.03.04.PCM, DR.IS-B [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/129-1998-218520
+  date: '1998-03-04'
+- type: amended_by
+  target: pt:dre:621359:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, alterado pelas Ports. 425/96, de 30-Ago, 539/96, de\
+    \ 02-Out, 204/97, de 25-Mai, 334/97, de 15-Mai e 129/98, de 04-Mar, pela PORT.1049/2000.2000.10.30.MF DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1049-2000-621359
+  date: '2000-10-30'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Centro Hospitalar de Coimbra aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:430187:por
+  label: "Alterado o quadro de pessoal do Centro Hospitalar de Coimbra, aprovado pelo presente diploma, e posteriormente alterado\
+    \ pelas Ports 425/96, de 30-Ago, 539/96, de 02-Out, 204/97, de 25-Mar, 334/97, de 15-Mai, 129/98, de 04-Mar, 1049/2000,\
+    \ de 30-Out e 1374/2002, de 22-Out, pela PORT.1345/2003.06.12.2003.MF, DR.IS-B [282] de 06.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1345-2003-430187
+  date: '2003-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1099/1992/11/28/p/dre
   label: null
@@ -100,16 +150,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/858/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/858/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:152139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:18Z'
   warnings: []
   errors: []
 ---
@@ -136,37 +282,37 @@ a) Direcção de Serviços de Instalações e Equipamento;
 
 b) Direcção de Serviços Farmacêuticos, com:
 
-##### Divisão de Serviços Farmacêuticos;
+Divisão de Serviços Farmacêuticos;
 
 2) Unidades orgânicas administrativas:
 
 a) Repartição de Serviços de Pessoal, com:
 
-#### Secção de Gestão de Pessoal;
+Secção de Gestão de Pessoal;
 
-#### Secção de Processamento de Vencimentos e Outras Remunerações;
+Secção de Processamento de Vencimentos e Outras Remunerações;
 
 b) Repartição de Serviços Financeiros, com:
 
 #### Secção de Receita;
 
-#### Secção de Despesa;
+Secção de Despesa;
 
-#### Secção de Controlo Financeiro;
+Secção de Controlo Financeiro;
 
 c) Repartição de Serviços de Aprovisionamento, com:
 
 #### Secção de Aquisições;
 
-#### Secção de Gestão de Stocks e Estudos de Mercado;
+Secção de Gestão de Stocks e Estudos de Mercado;
 
-#### Secção de Recolha de Dados;
+Secção de Recolha de Dados;
 
 d) Repartição de Informação e Admissão de Doentes, Arquivo Clínico e Estatística, com:
 
-#### Secção de Informação e Admissão de Doentes;
+Secção de Informação e Admissão de Doentes;
 
-#### Secção de Arquivo Clínico;
+Secção de Arquivo Clínico;
 
 Seçcão de Estatística.
 
@@ -174,13 +320,13 @@ Seçcão de Estatística.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 19 de Julho de 1995.**
+Assinada em 19 de Julho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO I — Quadro de pessoal do Centro Hospitalar de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/196b00/53675374.pdf))](https://files.diariodarepublica.pt/1s/1995/08/196b00/53675374.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/196b00/53675374.pdf)
 
 ## ANEXO II — Carreira de pessoal técnico-profissional de nível 4
 

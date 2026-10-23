@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/228/1995/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-1995-172958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4d690986bd74d85e2b51289066fa66060929f3ab27740ec09ba026691b3368c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4b3a718f7c0afbf3782b7513e07efd6e0e3e2a4bf4ee7f8e3260a4d12e79332
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Lugares
-- Pessoal Operário
 - Pessoal não Docente
+- Pessoal Operário
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 - Universidade Aberta
@@ -88,16 +88,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/867/1991/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/1991/08/22/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634501:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:36Z'
   warnings: []
   errors: []
 ---
@@ -116,10 +136,10 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, que o quadro de 
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 23 de Fevereiro de 1995.**
+Assinada em 23 de Fevereiro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite.
 
 Mapa anexo à Portaria n.º 228/95
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/073b00/16651666.pdf))](https://files.diariodarepublica.pt/1s/1995/03/073b00/16651666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/073b00/16651666.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/276/1995/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/276-1995-231085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f090cc52f225f702d576522901a02a751b5b982d1324096966cdf859dce2017f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 252a2dbf5f15830d6bd97fc00c107fa2c9d2a7ddc7c3173f54582914aa6b5a63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Diuturnidades
 - Administração de Portos
-- Junta Autónoma dos Portos
-- Remuneração Acessória
+- Diuturnidades
 - Horas Extraordinárias
+- Junta Autónoma dos Portos
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Prémio de Rendibilidade
 - Remuneração
+- Remuneração Acessória
 - Subsídio de Turno
 - Trabalhador Portuário
 relationships:
@@ -82,6 +82,12 @@ relationships:
   target: pt:dre:424146:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424146:por
+  label: "Actualizado em 4% os montantes das tabelas de remuneração base, incluindo diuturnidades estabelecidos pelo presente\
+    \ diploma e revogado o n.º 3 do mesmo diploma, pela PORT.239/96.04.07.1996.MEPAT, DR.IS-B [153] de 04.07.1996\096\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-1996-424146
+  date: '1996-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
   label: null
@@ -90,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/229/1994/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/229/1994/04/15/p/dre
+- type: cites
+  target: pt:dre:266076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618109:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:41Z'
   warnings: []
   errors: []
 ---
@@ -144,6 +166,6 @@ Manda o Governo, pelo Ministro do Mar, o seguinte:
 
 Ministério do Mar.
 
-**Assinada em 27 de Fevereiro de 1995.**
+Assinada em 27 de Fevereiro de 1995.
 
 Pelo Ministro do Mar, João Prates Bebiano, Secretário de Estado Adjunto e das Pescas.

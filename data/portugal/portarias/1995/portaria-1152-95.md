@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/217b00/58695871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1152/1995/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1152-1995-566069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5225a14e856b5d67573da21005480de89da559802f733b35fa8eaef8a3986c36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b901840c4fe79fb2c364731f327159c550dc664f344b8c927d58f4b9db3d6a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Consultivo
 - Criação de Serviços
 - Definição de Competências
 - Diretor
-- Hospitais Civis de Lisboa
-- Hospital de Curry Cabral
-- Hospital de Arroios
+- Estabelecimento Hospitalar
 - Grupo Hospitalar dos Hospitais Civis de Lisboa
+- Hospitais Civis de Lisboa
+- Hospital de Arroios
+- Hospital de Curry Cabral
 - Hospital de Santa Marta
 - Hospital de Santo António dos Capuchos
 - Hospital do Desterro
-- Conselho Consultivo
-- Estabelecimento Hospitalar
 - Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:437433:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 201/96 DE 05-JUN DR.IS-B [131]\0[131]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-05'
+- type: repealed_by
+  target: pt:dre:437433:por
+  label: "Revogado o presente diploma, pela PORT.201/96.05.06.1996.MF, DR.IS-B [131] de 05.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-1996-437433
+  date: '1996-06-05'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:11Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +129,9 @@ Manda o Governo, pelo Ministro da Saúde, que seja aprovado o regulamento intern
 
 Ministério da Saúde.
 
-**Assinada em 28 de Agosto de 1995.**
+Assinada em 28 de Agosto de 1995.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Regulamento interno do grupo hospitalar dos Hospitais Civis de Lisboa
 

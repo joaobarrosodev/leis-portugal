@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1085/1995/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1085-1995-546375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57bdcf2c238d117bb702be6efb9bd2abf4ff2110f4232b72aca1d02e2c37f509
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39212fa53f0e0904f52902bcae769e3f36c531ad96366db5b6ea488970a4811c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
 - Centro de Formação Profissional para o Comércio e Afins
 - Formação Profissional
-relationships: []
+- Instituto do Emprego e Formação Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:108301508:por
+  label: Homologadas as alterações ao Protocolo que criou o Centro de Formação Profissional para o Comércio e Afins (CECOA),
+    publicado em anexo à Port 510/86, de 10-set, alterada pelo presente diploma, pelo(a) Portaria n.º 303/2017 - Diário da
+    República n.º 199/2017, Série I de 2017-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/303-2017-108301508
+  date: '2017-10-16'
+- type: cites
+  target: pt:dre:220117:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:28Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +112,7 @@ Manda o Governo, pelo Ministro do Emprego e da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 31 de Julho de 1995.**
+Assinada em 31 de Julho de 1995.
 
 Pelo Ministro do Emprego e da Segurança Social, José Mateus Varatojo Júnior, Secretário de Estado do Emprego e Formação Profissional.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/246b00/64186419.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/943/1994/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/943-1994-626263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0af319e4174ff2e4338a1b395234634dd454d229ede972a39d02be7ce80a666
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4f4aa605709fb0b8845816759c3a42ae08913078f1d747161046010200e10e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Beja
 - Curso Técnico de Turismo
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
-- Beja
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:186552:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO DE ESTUDOS DO CURSO DE TÉCNICO DE TURISMO E REVOGADO O NUM 2 DO PRESENTE DIPLOMA, PELA PORT 1337/95\
+    \ DE 10-NOV DR.IS-B [260]\0.IS-B [260]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-10'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:186552:por
+  label: "Revogada pela PORT.173/98.1998.03.16.ME, DR.IS-B [63], sem prejuízo do disposto no nº 7 da referida portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-1998-186552
+  date: '1998-03-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:59Z'
   warnings: []
   errors: []
 ---
@@ -142,8 +161,8 @@ O curso referido no n.º 1.º entrará em funcionamento, progressivamente, um an
 
 Ministério da Educação.
 
-**Assinada em 3 de Outubro de 1994.**
+Assinada em 3 de Outubro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/246b00/64186419.pdf))](https://files.diariodarepublica.pt/1s/1994/10/246b00/64186419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/246b00/64186419.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1994, 2º Suplemento, Série I-B de 1994-12-29
   number: '300'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7492-(4) a 7492-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/300b02/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1152-h/1994/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1152-h-1994-173715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40b104f588f00162fe9dcc0c1ad4c18dc02c9308ed3a8cc87c88659c7fa155b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb96035b71e57512af183fee95476c9424f47401115468f4149f0b306118a6f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Navegação Marítima
 - Pilotagem
 - Regulamento dos Serviços e Taxas de Pilotagem
 - TAXA de Pilotagem
-- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:485049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:610011:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485049:por
+  label: "Revogada, pelo DEC LEI.200/98.1998.07.10.MEPAT DR.IS-A [157], com a entrada em vigor dos regulamentos a que se refere\
+    \ o seu nº 2 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1998-485049
+  date: '1998-07-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:30Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +116,6 @@ Manda o Governo, pelo Ministro do Mar, nos termos do n.º 1 do artigo 3.º do Re
 
 Ministério do Mar.
 
-**Assinada em 23 de Dezembro de 1994.**
+Assinada em 23 de Dezembro de 1994.
 
 Pelo Ministro do Mar, João Prates Bebiano, Secretário de Estado Adjunto e das Pescas.

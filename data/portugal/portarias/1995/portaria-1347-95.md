@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1347/1995/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1347-1995-689419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e84d86bb2fbf09d45d1368ab84e7755472a0420b7041ff157b2b1afc80a08d90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67b09fd4cc3563dd475c518dd22a34e2821b4714746dc687cc483b01bd660ad1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Relações Públicas Empresariais
 - Ensino Particular
-- Instituto Superior de Ciências Empresariais e do Turismo
 - Ensino Superior
+- Instituto Superior de Ciências Empresariais e do Turismo
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:544125:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544125:por
+  label: "Caducada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, a autorização de funcionamento do curso de estudos superiores especializados em Relações Públicas Empresariais\
+    \ pela PORT.974/2000.2000.10.10.ME,DR.IS-B [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/974-2000-544125
+  date: '2000-10-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554844:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:54Z'
   warnings: []
   errors: []
 ---
@@ -288,10 +307,10 @@ A autorização e o reconhecimento estabelecidos na presente portaria não preju
 
 Ministério da Educação.
 
-**Assinada em 29 de Setembro de 1995.**
+Assinada em 29 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Curso de estudos superiores especializados em Relações Públicas Empresariais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/262b00/69396941.pdf))](https://files.diariodarepublica.pt/1s/1995/11/262b00/69396941.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/262b00/69396941.pdf)

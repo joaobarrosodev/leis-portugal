@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1994, 2º Suplemento, Série I-B de 1994-07-15
   number: '162'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3862-(27) a 3862-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b02/00270028.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/640-z/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/640-z-1994-276416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9531ac03c97162fe45040b74e85f01c1b9c5158d7a3ac18b9250f32e9371dc1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95dbfc707cd50a7914145e9e4ad25d98384c71ad4015f5b182e83dc3e5de56df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Caldas da Rainha
 - CAÇA
+- Caldas da Rainha
 relationships:
 - type: amended_by
   target: pt:dre:245317:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 135/94, DA PCM, DE 24 DE AGOSTO, PUBLICADA NO DR.IS-B, 201, 2SUPL, DE
+    940831.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-31'
+- type: amended_by
+  target: pt:dre:659751:por
+  label: "Suspensa pelo prazo máximo de 180 dias a actividade cinegética na concessão atribuída neste diploma pela PORT.1012/97.1997.09.24.MADRP\
+    \ DR.IS-B [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1012-1997-659751
+  date: '1997-09-24'
+- type: amended_by
+  target: pt:dre:685019:por
+  label: "Alterado o nº 1 e aditado um nº 1-A pela PORT.1133/97.1997.11.07.MADRP, DR.IS-B [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1133-1997-685019
+  date: '1997-11-07'
+- type: amended_by
+  target: pt:dre:692057:por
+  label: "Alterada a redacção do nº 1, alterado pelas Ports. 965/95 de 08-Ago e 1133/97 de 07-Nov, pela PORT.964/99.1999.10.30.MADRP,\
+    \ DR.IS-B [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/964-1999-692057
+  date: '1999-10-30'
+- type: amended_by
+  target: pt:dre:245317:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pelo presente diploma, alterado pelas Port 957/94 de\
+    \ 26-Out, 965/95 de 08-Ago, 1113/97 de 17-Nov e 964/99 de 30-Out, pela PORT.744/2005.29.08.2005.MADRP, DR.IS-B [165] de\
+    \ 29.08.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-2005-245317
+  date: '2005-08-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -85,16 +115,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/668-f/1993/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/668-f/1993/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687048:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:34Z'
   warnings: []
   errors: []
 ---
@@ -135,8 +189,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 5 de Julho de 1994.**
+Assinada em 5 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b02/00270028.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b02/00270028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b02/00270028.pdf)

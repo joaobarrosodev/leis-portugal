@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 288/1994, 2º Suplemento, Série I-B de 1994-12-15
   number: '288'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7256-(24) a 7256-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/288b02/00240025.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1115-d/1994/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1115-d-1994-664882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 225c90da2c57d9a09478be3243d6ea486f86b5916931bc2b40263a55af31ccb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 619490bf56831a67cb6ee4318b3ac8104fdd95549ced404b63c5a4e3ce8a6214
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
+- Câmara Municipal
 - Construção Civil
 - Documentação Administrativa
 - Impresso
 - Industrial da Construção Civil
-- Publicitação
-- Licenciamento de Obras
 - Licença Municipal
-- Câmara Municipal
+- Licenciamento de Obras
+- Publicitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/250/1994/10/15/p/dre
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/143/1992/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/143/1992/03/05/p/dre
+- type: cites
+  target: pt:dre:168624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:18:30Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +137,9 @@ b) O aviso a que se refere o n.º 2 do artigo 9.º do [Decreto-Lei n.º 445/91](
 
 Ministérios do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 14 de Dezembro de 1994.**
+Assinada em 14 de Dezembro de 1994.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 ## ANEXO I — Aviso
 
@@ -189,7 +201,7 @@ Número de pisos: ... (ver nota h), ... (ver nota i), ... (ver nota j), cércea 
 
 Utilização ... (ver nota m).
 
-**O Presidente da Câmara Municipal, ...**
+O Presidente da Câmara Municipal, ...
 
 Instruções de preenchimento
 

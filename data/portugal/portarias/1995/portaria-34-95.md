@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/1995/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-1995-146940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc0c209c1ca4c79bc423b0e34951e05de1f617588dec902763d4f16de25ad074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dcd5a956f880a9b38f2cf9281612ab76e949fdc711234f3e100897be6003383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,26 @@ relationships:
   target: pt:dre:139217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139217:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pela Port 958/90 de 09-Out, alterada pelo presente\
+    \ diploma, pela PORT.831/2005.16.09.2005.MAOTDR, DR.IS-B [179] de 16.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/831-2005-139217
+  date: '2005-09-16'
+- type: cites
+  target: pt:dre:555645:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:14Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +119,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 958/90](h
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Dezembro de 1994.**
+Assinada em 21 de Dezembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/011b00/01980199.pdf))](https://files.diariodarepublica.pt/1s/1995/01/011b00/01980199.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/011b00/01980199.pdf)

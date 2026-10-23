@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/436/1994/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/436-1994-290045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:27:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 867b8c5713c29d316de1fe3862ca078efe9fe5551d76027241df1310c3e201f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d6ea1e451c8e3d99a9a5947df3316d6bdc598b934dd6f1383c68469838d30d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:27:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,24 @@ relationships:
   target: pt:dre:343594:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:204218:por
+  label: "Alterado o nº 1 e aditado um nº 1-A, pela PORT.639/97.1997.08.08.MADRP DR.IS-B [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/639-1997-204218
+  date: '1997-08-08'
+- type: amended_by
+  target: pt:dre:545839:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída no presente diploma, posteriormente alterada pela Port\
+    \ 639/97 de 08-Ago, e anexados à mesma zona de caça diversos prédios rústicos pela PORT.1118/2006.18.10.2006.MADRP, DR.IS\
+    \ [201] de 18.10.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1118-2006-545839
+  date: '2006-10-18'
+- type: amended_by
+  target: pt:dre:343594:por
+  label: "Desanexados vários prédios rústicos da zona de caça atribuída pelo presente diploma, alterada pela Port 639/97,\
+    \ de 08-Ago e pela Port 1118/2006, de 18-Out, pela PORT.805/2010.24.08.2010.MADRP, DR.IS [164] de 24.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/805-2010-343594
+  date: '2010-08-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:27:34Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +163,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 1 de Junho de 1994.**
+Assinada em 1 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/148b00/34323433.pdf))](https://files.diariodarepublica.pt/1s/1994/06/148b00/34323433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/148b00/34323433.pdf)

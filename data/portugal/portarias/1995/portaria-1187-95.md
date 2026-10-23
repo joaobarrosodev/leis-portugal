@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1187/1995/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1187-1995-573130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60f6156a273b0ac4cafc6a1dff1efaa32a680044bbdb9a3bc50d48d220e1e8c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25728337c7b6cf038c490630a07a975db374ad280f9f71ecf8b94c873fefd700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Desporto
 - Descrição de Funções
+- Instituto do Desporto
 - Pessoal Auxiliar
 - Pessoal Técnico Adjunto
 - Quadro de Pessoal
@@ -75,6 +75,32 @@ relationships:
   target: pt:dre:332463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA PELO DESP-EXT DDE31/96 DE 17-ABR DO ID-PCM DR.IIS [124]SUPL DE 28/MAI/1996
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-05-28'
+- type: amended_by
+  target: pt:dre:1205186:por
+  label: "Alterado o quadro de pessoal pelo AV-EXT.4293/98(2ªSÉRIE).1998.03.09.IND-PCM, DR.IIS [66] de 19/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/1998-1205186
+  date: '1998-03-09'
+- type: amended_by
+  target: pt:dre:1205187:por
+  label: "Alterado o quadro de pessoal pelo AV-EXT.4294/98(2ªSÉRIE).1998.03.09.IND-PCM, DR.IIS [66] de 19/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/1998-1205187
+  date: '1998-03-09'
+- type: amended_by
+  target: pt:dre:2245840:por
+  label: "Alterado o quadro de pessoal pela PORT.677/98(2ªSÉRIE).1998.06.23.IND-PCM, DR.IIS [168] de 23/Jul/1998 \098 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-1998-2245840
+  date: '1998-06-23'
+- type: amended_by
+  target: pt:dre:332463:por
+  label: "Alterado o quadro de pessoal do ex-Instituto do Desporto, aprovado pelo presente diploma, pela PORT.292/2010.31.05.2010.PCM,\
+    \ DR.IS [105] de 31.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/292-2010-332463
+  date: '2010-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/1993/04/26/p/dre
   label: null
@@ -83,16 +109,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/118/1995/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/118/1995/02/03/p/dre
+- type: cites
+  target: pt:dre:138551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665345:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:58Z'
   warnings: []
   errors: []
 ---
@@ -113,13 +147,13 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, ao abrigo do n.�
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 13 de Setembro de 1995.**
+Assinada em 13 de Setembro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pela Ministra da Educação, Manuel Castro de Almeida, Secretário de Estado da Educação e do Desporto.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1.º da [Portaria n.º 118/95](https://diariodarepublica.pt/dr/detalhe/portaria/118-1995-138551)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/225b00/60216025.pdf))](https://files.diariodarepublica.pt/1s/1995/09/225b00/60216025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/225b00/60216025.pdf)
 
 ## ANEXO II
 

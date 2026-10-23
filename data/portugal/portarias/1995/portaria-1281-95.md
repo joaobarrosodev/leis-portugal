@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/250b00/67376738.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1281/1995/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1281-1995-677824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0402c20aceaef950c853a05bb96d7e0493e0c690ca82156079c62659fce0c03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f0d2d66b6fc812e4d01b0c4cf39ba0f262146c13517c11b21ee3cdc5d626029
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia Hortofruticola
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Instituto Politécnico
+- Plano de Estudos
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:622311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226429:por
+  label: "Alterado o plano de estudos publicado em anexo pela PORT.608/96.1996.10.25.ME, DR.IS-B [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/608-1996-226429
+  date: '1996-10-25'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:622309:por
+  label: "Revogada, sem prejuízo do disposto no artigo 31.º do Regulamento aprovado pela Portaria 413-A/98, de 17 de Julho,\
+    \ pela PORT.1073/2000.2000.11.07.ME DR.IS-B [257] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1073-2000-622309
+  date: '2000-11-07'
+- type: repealed_by
+  target: pt:dre:622310:por
+  label: "Revogada pela PORT.1074/2000.2000.11.07.ME DR.IS-B [257]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1074-2000-622310
+  date: '2000-11-07'
+- type: repealed_by
+  target: pt:dre:622311:por
+  label: "Revogada pela PORT.1075/2000.2000.11.07.ME DR.IS-B [257]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1075-2000-622311
+  date: '2000-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:16Z'
   warnings: []
   errors: []
 ---
@@ -158,8 +187,8 @@ O curso referido no n.º 1.º entrará em funcionamento, progressivamente, um an
 
 Ministério da Educação.
 
-**Assinada em 21 de Setembro de 1995.**
+Assinada em 21 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/250b00/67376738.pdf))](https://files.diariodarepublica.pt/1s/1995/10/250b00/67376738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/250b00/67376738.pdf)

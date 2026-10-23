@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/970/1994/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/970-1994-621154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 609a0956c075cee4e78b2cf908ab5ce9e5a4e22511f0b72d3694230572e570bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61d271d16f664684459b86b2b73ee59f42aba5ccc6d41a6cb661f92b73fdaec0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia das Madeiras
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
+- Plano de Estudos
 - Viseu
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618751:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:40Z'
   warnings: []
   errors: []
 ---
@@ -154,8 +170,8 @@ Com a entrada em funcionamento do presente diploma, e sem prejuízo do período 
 
 Ministério da Educação.
 
-**Assinada em 3 de Outubro de 1994.**
+Assinada em 3 de Outubro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/250b00/65036504.pdf))](https://files.diariodarepublica.pt/1s/1994/10/250b00/65036504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/250b00/65036504.pdf)

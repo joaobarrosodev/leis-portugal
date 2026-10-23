@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/78/2009/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2009-489528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdf2910cfebe27f6fb5b4bc285acf177ad27388404bcbf495c841b4be3cfb628
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24a01ff23b5a660ab716570bd2fdb533553df4a63d10d3e49e9b1844ffc592b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Instituto da Conservação da Natureza e da Biodiversidade
 - Ordenamento do Território
 - Parque Natural da Ria Formosa
-- Proteção do Ambiente
 - Política de Solos
-- Instituto da Conservação da Natureza e da Biodiversidade
+- Proteção do Ambiente
 - Regulamento
 - Ria Formosa
 relationships:
@@ -83,14 +83,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1992/43/oj
 article_structure:
   article_count: 53
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:47Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +147,7 @@ Presidência do Conselho de Ministros, 30 de Abril de 2009. - O Primeiro-Ministr
 
 REGULAMENTO DO PLANO DE ORDENAMENTO DO PARQUE NATURAL DA RIA FORMOSA
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -347,7 +347,7 @@ x) Indústria extractiva.
 
 4 - Nas áreas objecto de servidões administrativas ou restrições de utilidade pública, os usos e as construções que venham a ter parecer favorável das entidades competentes, nos termos da legislação aplicável, não dispensam o cumprimento das regras constantes no presente Regulamento.
 
-## TÍTULO II
+TÍTULO II
 
 Regime de protecção
 
@@ -957,7 +957,7 @@ b) Na recuperação de habitat natural para espécies nidificantes.
 
 3 - Para efeitos do disposto no n.º 4 do artigo 75.º-C do regime jurídico dos instrumentos de gestão territorial, na área de intervenção do POPNRF, o ICNB, I. P., é considerado uma entidade à qual interessam os efeitos ambientais resultantes da aprovação de planos de urbanização ou de planos de pormenor.
 
-## TÍTULO III
+TÍTULO III
 
 Usos e actividades
 
@@ -1367,7 +1367,7 @@ d) Dragagens de primeiro estabelecimento, desde que devidamente justificadas e s
 
 5 - Quando seja necessária a realização de trabalhos de caracterização arqueológica prévia deve existir uma coordenação entre o ICNB, I. P., e o IGESPAR, I. P., de modo a salvaguardar os valores naturais.
 
-## TÍTULO IV
+TÍTULO IV
 
 Regime sancionatório
 
@@ -1381,7 +1381,7 @@ A fiscalização do cumprimento do presente Regulamento compete ao ICNB, I. P., 
 
 2 - Ao processamento das contra-ordenações, à aplicação e destino das coimas, à aplicação de sanções acessórias e à adopção de medidas de reposição da situação anterior à infracção aplica-se o disposto no Decreto-Lei n.º 142/2008, de 24 de Julho, e no Decreto-Lei n.º 136/2007, de 27 de Abril, sem prejuízo da legislação em vigor para as diferentes actividades.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições finais e transitórias
 
@@ -1415,12 +1415,12 @@ O POPNRF entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — Fundeadouros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17000/0581105848.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17000/0581105848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17000/0581105848.pdf)
 
 ## ANEXO II — Património cultural classificado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17000/0581105848.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17000/0581105848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17000/0581105848.pdf)
 
 ## ANEXO III — Sítios arqueológicos identificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17000/0581105848.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17000/0581105848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17000/0581105848.pdf)

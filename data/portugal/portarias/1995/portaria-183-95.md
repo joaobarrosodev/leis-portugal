@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/183/1995/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-1995-174873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e827d6dcb9b469727addfaf3170c08947ffe109e6791b006d423e835a5d7f4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 768009a2c462790b6e9c61485ae13e4bdced16c919eb38ee98c0920b0bc4012b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Educação Física
 - Ensino Superior Politécnico
 - Escola Superior de Educação
+- Plano de Estudos
 - Torres Novas
 relationships:
 - type: amended_by
   target: pt:dre:420799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420799:por
+  label: "Alterado o anexo pela PORT.1277/97.1997.12.29.ME, DR.IS-B [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1277-1997-420799
+  date: '1997-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:29Z'
   warnings: []
   errors: []
 ---
@@ -180,10 +197,10 @@ A autorização de funcionamento conferida pela presente portaria não prejudica
 
 Ministério da Educação.
 
-**Assinada em 24 de Janeiro de 1995.**
+Assinada em 24 de Janeiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Curso de estudos superiores especializados em Educação Física
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/058b00/12821283.pdf))](https://files.diariodarepublica.pt/1s/1995/03/058b00/12821283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/058b00/12821283.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1488/1995/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1488-1995-644895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23c4b4856ccdc1c873b07ceaf8866257cde55b8f82617f7d2296999a8e138c69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bdb571bf089f466da7034bbbe86f42a8fa5d3f99728ff2a42cd4b4f78395d9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,31 @@ reuse:
 subjects:
 - Gondomar
 - Instalação de Serviços
-- Tribunal de Comarca
 - Tribunal de Círculo
+- Tribunal de Comarca
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1120/1995/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1120/1995/09/14/p/dre
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:15Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +110,6 @@ Manda o Governo, pelo Ministro da Justiça, em conformidade com o disposto no n.
 
 Ministério da Justiça.
 
-**Assinada em 31 de Outubro de 1995.**
+Assinada em 31 de Outubro de 1995.
 
-**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**
+O Ministro da Justiça, José Eduardo Vera Cruz Jardim.

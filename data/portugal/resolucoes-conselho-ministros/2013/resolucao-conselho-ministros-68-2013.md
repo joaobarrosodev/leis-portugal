@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/68/2013/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-2013-502837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d2efa24eaaec6c2f80c3833736df569c831fd12dea18c17da613cabc70c70e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc350d9008892c6bd9e0867c72615f4229c7c04471e1e886934344571e4e3be5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Ordenamento do Território
-- Definição de Competências
+- Agência Portuguesa do Ambiente
 - Autoridade Marítima Nacional
-- Orla Costeira
-- Protecção do Litoral
-- Grândola
-- Medidas Preventivas
-- Instituto da Conservação da Natureza e das Florestas
 - Comissão de Coordenação e Desenvolvimento Regional do Alentejo
-- Rio Sado
+- Definição de Competências
+- Domínio Público Hídrico
 - Gestão do Ambiente
+- Grândola
+- Infraestrutura Turística
+- Instituto da Conservação da Natureza e das Florestas
+- Medidas Preventivas
+- Ordenamento do Território
+- Orla Costeira
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
-- Domínio Público Hídrico
+- Protecção do Litoral
 - Regulamento
+- Rio Sado
 - Sines
-- Infraestrutura Turística
-- Agência Portuguesa do Ambiente
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
@@ -110,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2010/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2010/08/02/p/dre
+- type: cites
+  target: pt:dre:333798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692070:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:59Z'
   warnings: []
   errors: []
 ---
@@ -174,11 +202,11 @@ Planta que identifica as áreas de proteção costeira do Plano de Ordenamento d
 
 Áreas A1 e A2 - Folha A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
 
 Áreas A3, A4 e A5 - Folha B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1)
 
@@ -188,22 +216,22 @@ As áreas sujeitas a suspensão e medidas preventivas são delimitadas através 
 
 Área A1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
 
 Área A2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
 
 Área A3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
 
 Área A4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
 
 Área A5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20800/0630306306.pdf)
 
 Nota: As coordenadas dos vértices que delimitam as áreas encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).

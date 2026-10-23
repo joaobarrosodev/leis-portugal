@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/663/1994/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/663-1994-299463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1512c9091172e959678c2befcec04e419d882b99c4070e831f61147da322e59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7472bfaf4bebc22cae3e24b4dff4d6c3d7beac8c16348bddeaea290c77157ccb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,110 @@ relationships:
   target: pt:dre:764492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DAS CONTRIBUICOES E IMPOSTOS, PELO DN 677/94 DE 02-SET DR.IS-B [223]
+    DE 26/SET/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO O QUADRO DE PESSOAL CONSTANTE DO QUADRO ANEXO I, PELA PORT 1141-A/95 DE 15-SET DR.IS-B [214]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-15'
+- type: amended_by
+  target: pt:dre:672139:por
+  label: "Aditados ao quadro anexo I ao presente diploma, pela PORT.1141-A/95.15.09.1995.MF, DR.IS-B [214]Supl de 15.09.1995,\
+    \ os lugares constantes do seu mapa I \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1141-a-1995-672139
+  date: '1995-09-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADOS 51 LUGARES AO QUADRO I ANEXO AO PRESENTE DIPLOMA PELA PORT 219/96 DE 19-JUN DR.IS-B [140]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-19'
+- type: amended_by
+  target: pt:dre:431257:por
+  label: "Aditado 51 lugares ao quadro I anexo ao presente diploma, pela PORT.219/96.19.06.1996.PCM, DR.IS-B [140] de 19.06.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-1996-431257
+  date: '1996-06-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "APROVADO O QUADRO DE PESSOAL PELO DESPACHO (DIDESP11/96), DE 27-AGO, PUBLICADO NO DR.IIS [232], DE 07/OUT/1996.\0\
+    LICADO NO DR.IIS [232], DE 07/OUT/1996."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-10-07'
+- type: amended_by
+  target: pt:dre:837232:por
+  label: "PORT.452/98(2ªSÉRIE).1998.04.13.PCM e MF, DR.IIS [101]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/452-1998-837232
+  date: '1998-05-02'
+- type: amended_by
+  target: pt:dre:3506828:por
+  label: "Alterada por PORT.892/2000(2ªSÉRIE).2000.05.22.MF e MREAP, DR.IIS [137] de 15/Jul/2000.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/892-2000-3506828
+  date: '2000-06-15'
+- type: amended_by
+  target: pt:dre:2039105:por
+  label: "Alterada por PORT.305/2001(2ªSÉRIE).2000.08.30.MF, DR.IIS [43] de 20/Fev/2001. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/305-2001-2039105
+  date: '2001-02-20'
+- type: amended_by
+  target: pt:dre:2618088:por
+  label: "ALTERADA PELA PORT.577/2001(2ªSÉRIE).2001.02.28.MF, MREAP, DR.IIS [62] DE 14/MAR/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-2001-2618088
+  date: '2001-03-14'
+- type: amended_by
+  target: pt:dre:3177644:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.106/2002(2ªSÉRIE).2002.01.15.MF, DR.IIS [23] DE 28/JAN/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-2002-3177644
+  date: '2002-01-15'
+- type: amended_by
+  target: pt:dre:930694:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.131/2002(2ªSÉRIE).2002.01.16.MF, DR.IIS [25] DE 30/JAN/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/131-2002-930694
+  date: '2002-01-16'
+- type: amended_by
+  target: pt:dre:930696:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.133/2002(2ªSÉRIE).2002.01.16.MF, DR.IIS [25] DE 30/JAN/2002 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/133-2002-930696
+  date: '2002-01-16'
+- type: amended_by
+  target: pt:dre:930697:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.134/2002(2ªSÉRIE).2002.01.16.MF, DR.IIS [25] 30/JAN/2002 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/134-2002-930697
+  date: '2002-01-16'
+- type: amended_by
+  target: pt:dre:2292318:por
+  label: "Alterado o quadro de pessoal por PORT.437/2003(2ªSÉRIE).2003.03.10.SEAF-MF, DR.IIS [80] de 4/Abr/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/437-2003-2292318
+  date: '2003-04-04'
+- type: amended_by
+  target: pt:dre:3269838:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.697/2003(2ªSÉRIE).2003.04.22.MF, DR.IIS [123] DE 28/MAI/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-2003-3269838
+  date: '2003-04-22'
+- type: amended_by
+  target: pt:dre:3269839:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.698/2003(2ªSÉRIE).2003.04.22.MF, DR.IIS [123] DE 28/MAI/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/698-2003-3269839
+  date: '2003-04-22'
+- type: amended_by
+  target: pt:dre:764490:por
+  label: "ALTERADO O QUADRO DE PESSSOAL POR PORT.779/2003(2ªSÉRIE).2003.05.19.MF, DR.IIS [146] DE 27/JUN/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/779-2003-764490
+  date: '2003-05-19'
+- type: amended_by
+  target: pt:dre:764491:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.780/2003(2ªSÉRIE).2003.05.26.MF, DR.IIS [146] DE 27/JUN/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/780-2003-764491
+  date: '2003-05-26'
+- type: amended_by
+  target: pt:dre:764492:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.781/2003(2ªSÉRIE).2003.05.26.MF, DR.IIS [146] DE 27/JUN/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/781-2003-764492
+  date: '2003-05-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre
   label: null
@@ -105,16 +209,140 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/76/1993/01/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/76/1993/01/21/p/dre
+- type: cites
+  target: pt:dre:150903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625617:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:09Z'
   warnings: []
   errors: []
 ---
@@ -145,13 +373,13 @@ Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
 Ministério das Finanças.
 
-**Assinada em 15 de Junho de 1994.**
+Assinada em 15 de Junho de 1994.
 
 Pelo Ministro das Finanças: Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento - Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.
 
 ## ANEXO I — Quadro de pessoal da Direcção-Geral das Contribuições e Impostos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/165b00/39223926.pdf))](https://files.diariodarepublica.pt/1s/1994/07/165b00/39223926.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/165b00/39223926.pdf)
 
 ## ANEXO II — Conteúdo funcional dos liquidadores tributários e dos administradores tributários
 

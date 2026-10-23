@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1975-335717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:27:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c5e624b4ef600ef94ee30e9e45f60ac86f3c31e27afd305e94e8aeed94b9179
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8005973ebe390aba20c759a8e0df5f92c50ce1b6c1210c3ab752c7b05bf95bb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:27:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Construção Civil
+- Conta Bancária
+- Definição de Competências
+- Empresa
+- Empresa Intervencionada
+- Empresa Privada
+- Indústria da Construção
+- Intervenção do Estado
+- Nomeação
+- Saneamento Económico e Financeiro
 relationships:
 - type: amended_by
   target: pt:dre:233083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:255409:por
+  label: Alterada a composição da comissão administrativa da empresa António Xavier de Lima pelo(a) Resolução n.º 199/77 -
+    Diário da República n.º 182/1977, Série I de 1977-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/199-1977-255409
+  date: '1977-08-08'
+- type: amended_by
+  target: pt:dre:281212:por
+  label: Prorrogada até 15.12.1977 a intervenção do Estado na empresa António Xavier de Lima pelo(a) Resolução n.º 302/77
+    - Diário da República n.º 279/1977, Série I de 1977-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/302-1977-281212
+  date: '1977-12-03'
+- type: amended_by
+  target: pt:dre:233083:por
+  label: Determinada a cessação da intervenção do Estado, com efeitos a 24.05.1978, na empresa António Xavier de Lima pelo(a)
+    Resolução n.º 79/78 - Diário da República n.º 119/1978, 1º Suplemento, Série I de 1978-05-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/79-1978-233083
+  date: '1978-05-24'
+- type: cites
+  target: pt:dre:169463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:27:03Z'
   warnings: []
   errors: []
 ---

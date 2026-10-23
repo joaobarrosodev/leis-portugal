@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/5/2001/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-2001-338595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd251e9df557094b112f1ab538c3d16f0b42c1855050150be845f8cbf0152488
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d24f87c589aa41f65d5de388099e92865c4286d5328acc04c684e1811116ec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Castro Marim
-- Ordenamento do Território
-- Política de Solos
-- Plano de Pormenor
-- Regulamento
 - Infraestrutura Turística
+- Ordenamento do Território
+- Plano de Pormenor
+- Política de Solos
+- Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:2751431:por
+  label: "Tornado público uma alteração ao Plano de Pormenor de Terras de Verdelago, ratificado pelo presente diploma, alterado\
+    \ por deliberação da Assembleia Municipal, tornado público pelas Decls 46/2001 (2ª. série) de 07-Fev e 327/2004 (2ª.série)\
+    \ de 31-Dez, e republica em anexo o plano actualizado, pela DECL.298/2007.30.10.2007.DGOTDU-MAOTDR, DR.IIS [209] de 30.10.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/298-2007-2751431
+  date: '2007-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/218/1994/08/20/p/dre
   label: null
@@ -105,16 +113,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
 article_structure:
   article_count: 71
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:15Z'
   warnings: []
   errors: []
 ---

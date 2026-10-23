@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 70/1994, 1º Suplemento, Série I-B de 1994-03-24
   number: '70'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1474-(2) a 1474-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/070b01/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/169-a/1994/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-a-1994-278974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bdf4df38190e871cd99eb66726e73769b23df2245c73d9a2f1429512a1155a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99d2758052ea3f1cb6d2fd3623a828b057f8d0391e3f1e9b3f8a62cd853e6302
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Equipamento
+- Comunicação Social
 - Financiamento
 - Formação Profissional
-- Jornalista
-- Comunicação Social
 - GAI
 - Imprensa
 - Imprensa Regional
+- Jornalista
 - Porte PAGO
 - Presidência do Conselho de Ministros
 - Subsídio de Transporte
@@ -82,20 +82,39 @@ relationships:
   target: pt:dre:261339:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553433:por
+  label: "Alterado o nº 10, pela PORT.45-B/95.1995.01.19.PCM, DR.IS-B [16]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-b-1995-553433
+  date: '1995-01-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/411/1992/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/411/1992/05/18/p/dre
+- type: cites
+  target: pt:dre:524646:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:176521:por
+  label: "Rectificada pela DECL-RECT.53/94.1994.04.11.PCM, DR.IS-B [100]3ºSupl de 30/Abr/1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/53-1994-176521
+  date: '1994-04-11'
+- type: repealed_by
+  target: pt:dre:261339:por
+  label: "Revogada pelo Dec Lei 37-A/97.1997.01.31.PCM, DR.IS-A [26]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-a-1997-261339
+  date: '1997-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:21:05Z'
   warnings: []
   errors: []
 ---
@@ -292,6 +311,6 @@ Disposições finais
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 23 de Março de 1994.**
+Assinada em 23 de Março de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação. - Pelo Ministro Adjunto, Amândio Santa Cruz Domingues Basto Oliveira, Subsecretário de Estado Adjunto do Ministro Adjunto.

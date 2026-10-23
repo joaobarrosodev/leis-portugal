@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/100/1996/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-1996-424145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 817f41d967b129b0e3471d12929754877c8b3fbedd619832d124619ecb9551ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a5126904b30a6f261a6e838a7cbe6945edc03dbfadbe917789a1eda1a02c476
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,54 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Falência
-- Liquidação Judicial
 - Ajuda à Modernização
 - Análise Económica
+- Apoio ao Investimento
 - Apoio Técnico
-- Financiamento
-- Garantia
-- Empresa
-- Formação Profissional
+- Concorrência
 - Cooperação Interempresas
+- Crédito Bancário
+- Criação de Emprego
 - Criação de Empresas
 - Criação de Serviços
 - Dação em Cumprimento
+- Desenvolvimento Económico
 - Desenvolvimento Regional
-- Concorrência
 - Dívidas à Segurança Social
 - Dívidas ao Estado
-- Fusão de Empresas
+- Empresa
 - Empresa Privada
 - Execução Fiscal
+- Falência
+- Financiamento
+- Formação Profissional
 - Fundo de Investimento
 - Fundo de Maneio
-- Apoio ao Investimento
+- Fusão de Empresas
 - Gabinete de Coordenação para a Recuperação de Empresas
-- Jovem
+- Garantia
 - Governo XIII
 - Incentivos ao Desenvolvimento
 - Incentivos Fiscais
 - Iniciativa Privada
 - Intervenção do Estado
-- QCA
 - Isenção Fiscal
+- Jovem
 - JURO Bonificado
 - LAY OFF
-- Criação de Emprego
-- Crédito Bancário
+- Liquidação Judicial
 - Modernização Industrial
-- Desenvolvimento Económico
-- Política Económica
-- Recuperação de Empresas
-- Promoção de Emprego
+- Pedip II
 - Política de Emprego
-- Reconversão Profissional
+- Política Económica
+- Promoção de Emprego
+- QCA
 - Reconversão de Empresas
+- Reconversão Profissional
+- Recuperação de Empresas
 - Saneamento Económico e Financeiro
 - Setor Empresarial
 - Setor Privado
-- Pedip II
 - Sistema de Garantia do Estado a Emprestimos Bancários
 - Situação Económica Dificil
 - Sociedade de Capital de Risco
@@ -122,6 +122,11 @@ relationships:
   target: pt:dre:196954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196954:por
+  label: "Extinto o Gabinete criado pelo presente diploma pela RES.40/98.1998.02.19.PCM, DR.IS-B [69] de 23/Mar/1998\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/40-1998-196954
+  date: '1998-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
   label: null
@@ -134,16 +139,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:139726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:28Z'
   warnings: []
   errors: []
 ---

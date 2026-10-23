@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/175/1994/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/175-1994-281807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:21:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0019aff4f335ada69a42afaaac207765461fd33553194f4a3f8804718656c60f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be3b9339880a4ca9447cf302b65506e5d2c38cb3171a6e03136a83e70b4f3b62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cascais
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
-- Cascais
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:21:15Z'
   warnings: []
   errors: []
 ---
@@ -116,15 +124,15 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 21 de Janeiro de 1994.**
+Assinada em 21 de Janeiro de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento
 
 I - Os terrenos compreendidos na área de intervenção são classificados, para efeitos de aplicação deste Regulamento, nas seguintes zonas:
 
-###### Artigo 1.º Zona A - zona residencial a renovar.
+Artigo 1.º Zona A - zona residencial a renovar.
 
 Zona comprometida com construções de origem clandestina, algumas já legalizadas.
 
@@ -144,27 +152,27 @@ Aos limites laterais (não podendo ser inferior a metade da altura) - 3 m;
 
 Ao limite de tardoz - 3 m.
 
-###### Art. 2.º Zona B - zona residencial em construção.
+Art. 2.º Zona B - zona residencial em construção.
 
 a) É permitida a construção de edifícios para habitação condicionada ao regulamentado pelo loteamento aprovado pela Câmara Municipal de Cascais, por despacho de 7 de Julho de 1987, com o alvará n.º 844, lavrado em 15 de Janeiro de 1988.
 
-###### Art. 3.º Zona C - zona destinada a ocupação residencial (plano de loteamento a apresentar em fase posterior).
+Art. 3.º Zona C - zona destinada a ocupação residencial (plano de loteamento a apresentar em fase posterior).
 
 a) É permitida a construção de edifícios para habitação colectiva, com um máximo de quatro pisos acima do solo para habitação e um piso em cave para estacionamento automóvel.
 
 b) A área máxima de construção para habitação na totalidade da zona é de 3,5000 m2.
 
-###### Art. 4.º Zona D - zona destinada a ocupação residencial (subdivide-se nas subzonas).
+Art. 4.º Zona D - zona destinada a ocupação residencial (subdivide-se nas subzonas).
 
-###### Art. 5.º Subzona D1 - faixa ocupada com a Auto-Estrada do Estoril e de protecção à mesma.
+Art. 5.º Subzona D1 - faixa ocupada com a Auto-Estrada do Estoril e de protecção à mesma.
 
 Zona non aedificandi.
 
-###### Art. 6.º Subzona D2 - zona destinada a equipamento social.
+Art. 6.º Subzona D2 - zona destinada a equipamento social.
 
 É permitida a construção de edifícios para equipamento social com a altura máxima de dois pisos.
 
-###### Art. 7.º Subzona D3 - zona destinada a ocupação predominantemente residencial.
+Art. 7.º Subzona D3 - zona destinada a ocupação predominantemente residencial.
 
 É constituída por:
 
@@ -180,13 +188,13 @@ e) Rede viária e estacionamento de superfície.
 
 II - Condições especiais para os edifícios de residência e comércio implantados na subzona D3 (mapa anexo ao Regulamento):
 
-###### Art. 8.º Os lotes de terreno para a implantação de edifícios para habitação e comércio são numerados de 1 a 40; a área dos lotes, número de pisos dos edifícios, áreas de construção e sua utilização são os constantes no mapa anexo a este Regulamento.
+Art. 8.º Os lotes de terreno para a implantação de edifícios para habitação e comércio são numerados de 1 a 40; a área dos lotes, número de pisos dos edifícios, áreas de construção e sua utilização são os constantes no mapa anexo a este Regulamento.
 
-###### Art. 9.º Os lotes numerados de 1 a 30 destinam-se à implantação de edifícios de quatro e cinco pisos, além da cave, para estacionamento coberto.
+Art. 9.º Os lotes numerados de 1 a 30 destinam-se à implantação de edifícios de quatro e cinco pisos, além da cave, para estacionamento coberto.
 
 Os lotes numerados de 31 a 40 destinam-se à implantação de edifícios de três pisos com estacionamento automóvel no interior dos lotes.
 
-###### Art. 10.º As distâncias entre pisos consecutivos são:
+Art. 10.º As distâncias entre pisos consecutivos são:
 
 Na cave para parqueamento - 2,70 m (lotes n.os 1 a 30);
 
@@ -196,7 +204,7 @@ Nos pisos para comércio - 3,50 m (lotes n.os 2 a 5).
 
 a) Os lotes n.os 1 a 6, com 1.º piso afecto à habitação, mas por estarem em contiguidade com os lotes n.os 2, 3, 4 e 5, afectos a comércio, poderão constituir excepção, devendo, contudo, o conjunto manter uma unidade arquitectónica.
 
-###### Art. 11.º A solução arquitectónica a adoptar para os edifícios deverá integrar-se no espírito do projecto de loteamento e expressa nos perfis tipo dos edifícios.
+Art. 11.º A solução arquitectónica a adoptar para os edifícios deverá integrar-se no espírito do projecto de loteamento e expressa nos perfis tipo dos edifícios.
 
 a) Os edifícios deverão acusar claramente a sua base saliente do terreno (lotes n.os 1 a 30).
 
@@ -204,50 +212,50 @@ b) Qualquer vedação que arquitectonicamente se torne necessária será constit
 
 Deverá integrar-se no conjunto do arranjo dos espaços exteriores, que será regulado no projecto de execução das obras de urbanização.
 
-###### Art. 12.º A planta de trabalho refere o afastamento do plano marginal relativamente ao limite frente do lote.
+Art. 12.º A planta de trabalho refere o afastamento do plano marginal relativamente ao limite frente do lote.
 
 a) Os elementos das fachadas serão constituídos por elementos volumétricos horizontais e verticais, avançados e reentrantes, relativamente ao plano marginal. O avanço relativamente ao plano marginal não poderá exceder 1,50 m.
 
 b) A largura teórica de edifício (empena) é de 13 m, que terá de ser respeitada nos lotes confinantes, pelo menos numa distância de 3 m para cada lado da linha divisória dos lotes, sem prejuízo do estipulado no artigo 17.º referente aos lotes n.os 2, 3, 4 e 5.
 
-###### Art. 13.º As fachadas correspondentes aos pisos de comércio (lotes n.os 2, 3, 4 e 5) serão reentrantes relativamente ao plano marginal, de forma a permitir uma galeria coberta, de ligação dos lotes, antecedendo o acesso ao espaço de comércio.
+Art. 13.º As fachadas correspondentes aos pisos de comércio (lotes n.os 2, 3, 4 e 5) serão reentrantes relativamente ao plano marginal, de forma a permitir uma galeria coberta, de ligação dos lotes, antecedendo o acesso ao espaço de comércio.
 
-###### Art. 14.º Os edifícios construídos em lotes agrupados devem ser objecto de estudo conjunto e possuir uma unidade arquitectónica com identidade de tratamento de fachadas.
+Art. 14.º Os edifícios construídos em lotes agrupados devem ser objecto de estudo conjunto e possuir uma unidade arquitectónica com identidade de tratamento de fachadas.
 
 III - Edifícios de quatro e cinco pisos (acima da cave):
 
-###### Art. 15.º A cave constitui a base do edifício e ficará semienterrada relativamente ao terreno.
+Art. 15.º A cave constitui a base do edifício e ficará semienterrada relativamente ao terreno.
 
-###### Art. 16.º A cota de implantação da cobertura da cave (1.º piso de entrada do edifício) foi determinada de forma a equilibrar as distâncias de altura ao terreno, medida na frente do lote confinante com as vias de acesso.
+Art. 16.º A cota de implantação da cobertura da cave (1.º piso de entrada do edifício) foi determinada de forma a equilibrar as distâncias de altura ao terreno, medida na frente do lote confinante com as vias de acesso.
 
-###### Art. 17.º Nos lotes n.os 2, 3, 4 e 5, com piso afecto a comércio, o acesso a partir do passeio será feito por rampa, no espaço do próprio lote.
+Art. 17.º Nos lotes n.os 2, 3, 4 e 5, com piso afecto a comércio, o acesso a partir do passeio será feito por rampa, no espaço do próprio lote.
 
-###### Art. 18.º A área da cave para estacionamento coberto afecta aos edifícios de quatro e cinco pisos ocupa, em regra, a totalidade da área do lote.
+Art. 18.º A área da cave para estacionamento coberto afecta aos edifícios de quatro e cinco pisos ocupa, em regra, a totalidade da área do lote.
 
 a) Caso a área da cave não venha a atingir a área do lote, a área sobrante será devidamente tratada, constituindo espaço privado comum do edifício, não se permitindo nela quaisquer construções complementares.
 
 IV - Edifícios de três pisos:
 
-###### Art. 19.º Os lotes n.os 31 a 40 são afectos à construção de edifícios de três pisos.
+Art. 19.º Os lotes n.os 31 a 40 são afectos à construção de edifícios de três pisos.
 
 A área dos lotes é a constante no mapa anexo a este Regulamento.
 
-###### Art. 20.º A área de construção máxima habitacional é a constante no mapa anexo a este Regulamento.
+Art. 20.º A área de construção máxima habitacional é a constante no mapa anexo a este Regulamento.
 
-###### Art. 21.º Além da área habitável deverão ser previstos, no interior do lote, abrigos para viaturas automóveis, igual ao número de fogos em anexo à construção.
+Art. 21.º Além da área habitável deverão ser previstos, no interior do lote, abrigos para viaturas automóveis, igual ao número de fogos em anexo à construção.
 
 a) O acesso automóvel ao interior do lote é feito no limite lateral do lote, fora da linha de implantação do edifício.
 
-###### Art. 22.º O afastamento do plano marginal ao limite frente do lote é de 1,50 m.
+Art. 22.º O afastamento do plano marginal ao limite frente do lote é de 1,50 m.
 
-###### Art. 23.º O afastamento mínimo lateral dos edifícios não confinantes ao limite lateral do lote é de 4,50 m (9 m, mínimo de afastamento lateral entre edifícios não confinantes).
+Art. 23.º O afastamento mínimo lateral dos edifícios não confinantes ao limite lateral do lote é de 4,50 m (9 m, mínimo de afastamento lateral entre edifícios não confinantes).
 
-###### Art. 24.º - a) Os muros de vedação confinantes com a rua de acesso fazem parte integrante do edifício. Deverão ser objecto de estudo conjunto com vista a uma unidade arquitectónica.
+Art. 24.º - a) Os muros de vedação confinantes com a rua de acesso fazem parte integrante do edifício. Deverão ser objecto de estudo conjunto com vista a uma unidade arquitectónica.
 
 b) Os muros laterais divisórios entre lotes serão constituídos por panos fechados da altura de 1,50 m.
 
 V - Condições gerais:
 
-###### Art. 25.º Em todo o omisso deverá ser seguida legislação aplicável em vigor.
+Art. 25.º Em todo o omisso deverá ser seguida legislação aplicável em vigor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/073b00/15201521.pdf))](https://files.diariodarepublica.pt/1s/1994/03/073b00/15201521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/073b00/15201521.pdf)

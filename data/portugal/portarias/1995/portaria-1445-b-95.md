@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 277/1995, 2º Suplemento, Série I-B de 1995-11-30
   number: '277'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7508-(166) a 7508-(166)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/277b02/01660166.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1445-b/1995/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1445-b-1995-658452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebfdef8a2b8a3ba983c9a6005d1e53d8faa17fcf8a5c2417834e7356b9ee0d79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d69a113842ca1da5e9f71211154437698604584e91ed0f7faa7502a654dcb8f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1219/1991/12/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1219/1991/12/26/p/dre
+- type: cites
+  target: pt:dre:518811:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:10Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +104,6 @@ No trimestre de capitalização a iniciar-se durante o mês de Dezembro de 1995,
 
 Ministério das Finanças.
 
-**Assinada em 28 de Novembro de 1995.**
+Assinada em 28 de Novembro de 1995.
 
-**O Secretário de Estado do Tesouro e das Finanças, Fernando Teixeira dos Santos.**
+O Secretário de Estado do Tesouro e das Finanças, Fernando Teixeira dos Santos.

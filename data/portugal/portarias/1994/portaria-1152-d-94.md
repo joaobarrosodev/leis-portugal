@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 298/1994, 3º Suplemento, Série I-B de 1994-12-27
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7388-(7) a 7388-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298b03/00070011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1152-d/1994/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1152-d-1994-303232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aefb9a3307befb384685974732b9dd56d94b359fd3ce61c713366f67e8ea91e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6cac75829ef207f4cb093984ab931cfa840eb64a60fa433232f1eab079b4759
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Seguro
+- Companhia de Seguros
 - Instituto de Seguros de Portugal
 - Operação de Capitalização
-- Companhia de Seguros
+- Seguro
 - Seguro de VIDA
 relationships:
 - type: amended_by
   target: pt:dre:332439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECL-RECT 272/94 DE 31-DEZ DR.IS-B [302]3SUPL.\0]3SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-31'
+- type: amended_by
+  target: pt:dre:517870:por
+  label: "Alterados os nºs 3, 4, 5 e 8 pela Port.194/97.1997.03.21.MF DR.IS-B [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/194-1997-517870
+  date: '1997-03-21'
+- type: amended_by
+  target: pt:dre:223995:por
+  label: "Alterados os nºs 3, 4, 5 e 8, na redacção dada pela Port 194/97, de 21-Mar DR.IS-B [68], pela PORT.48/98.1998.02.04.MF,\
+    \ DR.IS-B [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/48-1998-223995
+  date: '1998-02-04'
 - type: cites
   target: celex:31979L0267
   label: null
@@ -84,16 +100,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/102/1994/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/102/1994/04/20/p/dre
+- type: repealed_by
+  target: pt:dre:332439:por
+  label: "Revogada pela PORT.299/99.1999.04.30.MF DR.IS-B [101]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/299-1999-332439
+  date: '1999-04-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:25Z'
   warnings: []
   errors: []
 ---
@@ -208,7 +229,7 @@ Limites na composição da carteira dos ramos «Não vida»
 
 1 - Os activos representativos das provisões técnicas dos ramos «Não vida» devem obedecer aos seguintes limites percentuais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298b03/00070011.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298b03/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00070011.pdf)
 
 2 - As regras aplicáveis aos activos representativos têm as seguintes excepções, no que respeita à provisão para desvios de sinistralidade relativa ao risco de fenómenos sísmicos:
 
@@ -224,7 +245,7 @@ Limites na composição da carteira do ramo «Vida»
 
 1 - Os activos representativos das provisões técnicas do ramo «Vida» devem obedecer aos seguintes limites percentuais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298b03/00070011.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298b03/00070011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00070011.pdf)
 
 2 - O limite máximo estabelecido em obrigações não se aplica às responsabilidades exigíveis em moeda estrangeira.
 
@@ -296,6 +317,6 @@ Disposições transitórias e finais
 
 Ministério das Finanças.
 
-**Assinada em 27 de Dezembro de 1994.**
+Assinada em 27 de Dezembro de 1994.
 
-**O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques.**
+O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques.

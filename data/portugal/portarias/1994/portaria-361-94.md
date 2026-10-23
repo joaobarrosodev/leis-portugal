@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/361/1994/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/361-1994-302132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:25:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d7acb47de740f6da97f752710528b164919bb80dc4988f0c8686d3f6e85019c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fcdeabeae2e089364f4aa826eca211150d30b02d12fcfc2313d8984410a3a7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:25:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,32 @@ relationships:
   target: pt:dre:601561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUMERO 1 E SUBSTITUÍDA A PLANTA ANEXA PELA PORTARIA 938/94, DE 24 DE OUTUBRO, PUBLICADA NO DR.IS-B, 246.\0\
+    -B, 246."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-24'
+- type: amended_by
+  target: pt:dre:687792:por
+  label: "Alterado o nº 1º do presente diploma, com a redacção conferida na Port 938/94 de 24-Out, e aditado um nº 1º-A, pela\
+    \ PORT.1142/97.1997.11.10.MADRP, DR.IS-B [260]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1142-1997-687792
+  date: '1997-11-10'
+- type: amended_by
+  target: pt:dre:537439:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça, efectuada pelo presente diploma, alterada pelas\
+    \ Portarias 938/94, de 24 de Outubro, e 1142/97, de 10 de Novembro, anexados vários prédios rústicos á referida zona de\
+    \ caça.pela PORT.705/2006.13.07.2006.MADRP, DR.IS [134] de 13.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/705-2006-537439
+  date: '2006-07-13'
+- type: amended_by
+  target: pt:dre:601561:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, alterada pela Port 938/94, de 24-Out,\
+    \ pela Port 1142/97, de 10-Nov e pela Port 705/2006, de 13-Jul, pela PORT.145/2009.05.02.2009.MAOTDR, DR.IS [25] de 05.02.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/145-2009-601561
+  date: '2009-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -85,16 +111,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-l1/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-l1/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:206062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:25:52Z'
   warnings: []
   errors: []
 ---
@@ -135,8 +185,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério de Agricultura.
 
-**Assinada em 16 de Maio de 1994.**
+Assinada em 16 de Maio de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/132b00/29872987.pdf))](https://files.diariodarepublica.pt/1s/1994/06/132b00/29872987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/132b00/29872987.pdf)

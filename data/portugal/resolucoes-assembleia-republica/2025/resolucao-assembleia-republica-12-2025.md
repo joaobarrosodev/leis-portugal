@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00900/0001500015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/12/2025/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2025-903162168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7462c013089fcf172a07745c0980422bb04250b70171d063efdd73dd79387fc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bca8aff7e94640e2c1d0014ded18df0c82325f55adedceced0f4589c569c49c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia da República
-- Recomendação
-- Programa de Apoio ao Acesso à Habitação-1.º Direito
 - Fundo de emergência para a habitação
 - Governo XXIV
+- Programa de Apoio ao Acesso à Habitação-1.º Direito
+- Recomendação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26/2021/03/31/p/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82/2023/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82/2023/12/29/p/dre
+- type: cites
+  target: pt:dre:115440317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160631105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:41Z'
   warnings: []
   errors: []
 ---
@@ -103,10 +115,12 @@ Recomenda ao Governo a regulamentação do Fundo de Emergência para a Habitaç�
 
 A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
 
-1 - Regulamente o Fundo de Emergência para a Habitação no prazo de 30 dias, nos termos dos n.<sup>os</sup>2 e 3 do artigo 219.º do Orçamento do Estado para 2024, aprovado pela [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro.
+1 - Regulamente o Fundo de Emergência para a Habitação no prazo de 30 dias, nos termos dos n.os2 e 3 do artigo 219.º do Orçamento do Estado para 2024, aprovado pela [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro.
 
 2 - Incorpore no regulamento do Fundo de Emergência para a Habitação a competência de financiamento dos programas 1.º Direito - Programa de Apoio ao Acesso à Habitação, aprovado pelo [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho, e Bolsa Nacional de Alojamento Urgente e Temporário, aprovada pelo [Decreto-Lei n.º 26/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2021-160631105), de 31 de março.
 
 Aprovada em 20 de dezembro de 2024.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+118555216

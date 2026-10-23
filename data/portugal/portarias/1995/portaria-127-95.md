@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/127/1995/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-1995-143296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6c6ea58d14c13ae2ffe50eee88a2517d3cb87e5d68d2ae248c523fae7cab716
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43ab3debb578c0067d658f483f4b320ebfc0ffafd78464460a87d7709172b660
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,21 @@ subjects:
 - Consulado
 - Pessoal Assalariado
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:58Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +97,6 @@ Manda o Governo, pelo Ministro dos Negócios Estrangeiros, nos termos do § 1.º
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 10 de Janeiro de 1995.**
+Assinada em 10 de Janeiro de 1995.
 
 Pelo Ministro dos Negócios Estrangeiros, Domingos Manuel Martins Jerónimo, Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.

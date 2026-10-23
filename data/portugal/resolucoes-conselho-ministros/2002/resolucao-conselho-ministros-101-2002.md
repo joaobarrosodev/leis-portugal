@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101/2002/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2002-145209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f8b7977230363b6fdf68ca6ba9948dd64f38884ea178ebd065c88e073c2cc68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e264021a73bcb323f6358699ee12a419ef1ed202f4273bf987e8650cec0ee0d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,86 @@ subjects:
 - Ordenamento do Território
 - Plano Director Municipal
 - Política de Solos
-- Urbanismo
 - Regulamento
+- Urbanismo
 relationships:
+- type: amended_by
+  target: pt:dre:66030854:por
+  label: Tornada pública a 2ª correção material do PDM de Caldas da Rainha e publica em anexo a respectiva Planta de Ordenamento
+    pelo(a) Edital 5/2015 - Diário da República n.º 3/2015, Série II de 2015-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/edital/5-2015-66030854
+  date: '2015-01-06'
+- type: amended_by
+  target: pt:dre:66071277:por
+  label: Tornada pública a alteração dos arts. 12.º e 23.º do Regulamento do Plano Diretor Municipal de Caldas da Rainha,
+    ratificado pela presente Resolução, pelo Av 2662/2015, de 11-mar pelo(a) Aviso n.º 135/2015 - Diário da República n.º
+    4/2015, Série II de 2015-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/135-2015-66071277
+  date: '2015-01-07'
+- type: amended_by
+  target: pt:dre:66710958:por
+  label: Tornada pública a 3.ª Correção Material ao Plano Diretor Municipal de Caldas da Rainha, ratificado pelo presente
+    diploma, pelo(a) Aviso n.º 2662/2015 - Diário da República n.º 49/2015, Série II de 2015-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2662-2015-66710958
+  date: '2015-03-11'
+- type: amended_by
+  target: pt:dre:66723353:por
+  label: Tornada pública a alteração ao Plano Diretor Municipal na área industrial do Casal de Santa Cecília pelo(a) Aviso
+    n.º 2740/2015 - Diário da República n.º 50/2015, Série II de 2015-03-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2740-2015-66723353
+  date: '2015-03-12'
+- type: amended_by
+  target: pt:dre:66848752:por
+  label: Tornada pública a alteração do PDM das Caldas da Rainha, na área do Bouro, na União das Freguesias de Tornada e Salir
+    do Porto pelo(a) Av 3162/2015 - Diário da República n.º 59/2015, Série II de 2015-03-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/3162-2015-66848752
+  date: '2015-03-25'
+- type: amended_by
+  target: pt:dre:107981607:por
+  label: Tornada pública a declaração da 4.ª Correção Material ao Plano Diretor Municipal de Caldas da Rainha, ratificado
+    pela presente Resolução, e publicada a respectiva Planta de Ordenamento com a correção efetuada na área indicada, pelo(a)
+    Aviso n.º 9043/2017 - Diário da República n.º 153/2017, Série II de 2017-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9043-2017-107981607
+  date: '2017-08-09'
+- type: amended_by
+  target: pt:dre:114293464:por
+  label: Tornada pública a alteração da planta de ordenamento e o aditamento do art. 79.º-A e do Anexo III ao Regulamento
+    do Plano Diretor Municipal de Caldas da Rainha pelo(a) Aviso n.º 14508/2017 - Diário da República n.º 232/2017, Série
+    II de 2017-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14508-2017-114293464
+  date: '2017-12-04'
+- type: amended_by
+  target: pt:dre:114599567:por
+  label: Tornada pública a segunda alteração ao Plano Diretor Municipal das Caldas da Rainha ratificado pela presente resolução,
+    pelo(a) Aviso n.º 1430/2018 - Diário da República n.º 21/2018, Série II de 2018-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1430-2018-114599567
+  date: '2018-01-30'
+- type: amended_by
+  target: pt:dre:116936667:por
+  label: Tornada pública a alteração ao Plano Diretor Municipal de Caldas da Rainha ratificado pela presente Resolução, incidente
+    na planta de ordenamento da cidade, na área do Hotel Internacional até à rua Professor Abílio Moniz Barreto, pelo(a) Aviso
+    n.º 16334/2018 - Diário da República n.º 217/2018, Série II de 2018-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/16334-2018-116936667
+  date: '2018-11-12'
+- type: amended_by
+  target: pt:dre:123778716:por
+  label: Tornado público as alterações da planta de ordenamento de escala 1/25000 e 1/10000 e alterações no anexo III do regulamento
+    do PDM, bem como a deliberação da Assembleia Municipal que aprovou essas alterações, ratificado pela presente Resolução,
+    pelo(a) Aviso n.º 12613/2019 - Diário da República n.º 150/2019, Série II de 2019-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12613-2019-123778716
+  date: '2019-08-07'
+- type: amended_by
+  target: pt:dre:124201219:por
+  label: Tornada pública a segunda alteração ao Plano Diretor Municipal (PDM) de Caldas da Rainha, ratificado pela presente
+    resolução, pelo(a) Declaração n.º 63/2019 - Diário da República n.º 162/2019, Série II de 2019-08-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/63-2019-124201219
+  date: '2019-08-26'
+- type: amended_by
+  target: pt:dre:126151694:por
+  label: Tornada pública a alteração do art. 15.º do Regulamento do Plano Diretor Municipal de Caldas da Rainha, ratificado
+    pela presente resolução, pelo(a) Aviso n.º 18123/2019 - Diário da República n.º 219/2019, Série II de 2019-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/18123-2019-126151694
+  date: '2019-11-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
   label: null
@@ -112,16 +189,512 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1136/2001/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1136/2001/09/25/p/dre
+- type: cites
+  target: pt:dre:141784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693607:por
+  label: null
+  source: null
 article_structure:
   article_count: 83
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:56Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1399/1995/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1399-1995-692447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0016f3ec15ac8e4165c7dfe14e46cde40f9396971d9964c8da3f2cb294d06bb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c91f59b663b0f13dd910f75820a2f63350e89f1e6658c135298628a3cb762a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/771/1993/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/771/1993/09/03/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632879:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:04Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +115,6 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, que seja aument
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 27 de Julho de 1995.**
+Assinada em 27 de Julho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Agricultura, António Duarte Silva.

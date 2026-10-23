@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/71/2008/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/71-2008-249562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a42066ebdca8f698f87e1865c678949bec3e4d88b504d4034eabed32667205e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab9a1335d086c42ff26145188b8f8a15b85d9e24881a784406dafa8b9f29de20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Barreiro
-- Rede de Estradas
-- RIO TEJO
 - Medidas Preventivas
+- Ministro das Obras Públicas Transportes e Comunicações
 - Ponte
 - RAVE
-- Ministro das Obras Públicas Transportes e Comunicações
+- Rede de Estradas
+- RIO TEJO
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/1/2007/01/25/p/dre
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2000/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2000/08/02/p/dre
+- type: cites
+  target: pt:dre:248514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527634:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:02Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +162,7 @@ Por despacho do Ministro das Obras Públicas, Transportes e Comunicações de 12
 
 Assim, através da [Resolução do Conselho de Ministros n.º 13/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-2008-248514), de 10 de Janeiro, o Governo aprovou, preliminarmente, a localização do NAL na zona do campo de tiro de Alcochete bem como a solução rodo-ferroviária para a TTT no alinhamento Chelas-Barreiro, mandatando o Ministro das Obras Públicas, Transportes e Comunicações para promover o procedimento da avaliação ambiental estratégica e as consultas pública e institucionais que se mostrem necessárias para a tomada de decisão final sobre a respectiva localização.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações foi, ainda, mandatado para promover os trabalhos necessários de modo a garantir a adequada inserção da TTT nos sistemas viários do Barreiro e de Lisboa.**
+O Ministro das Obras Públicas, Transportes e Comunicações foi, ainda, mandatado para promover os trabalhos necessários de modo a garantir a adequada inserção da TTT nos sistemas viários do Barreiro e de Lisboa.
 
 Face à divulgação pública recente de propostas alternativas de localização da nova travessia do Tejo, o Governo, através de despacho do Ministro das Obras Públicas, Transportes e Comunicações de 7 de Fevereiro de 2008, entendeu mandatar o LNEC para, no âmbito da respectiva liberdade de investigação e autonomia técnica, elaborar, em complemento ao relatório sobre a localização do NAL, um relatório autónomo e objectivo de avaliação comparativa das alternativas existentes de travessia ferroviária do Tejo, na AML, devendo, em simultâneo, analisar a inclusão da componente rodoviária.
 

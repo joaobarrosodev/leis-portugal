@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/990/1993/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/990-1993-669478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:14:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 509811a0630a1183dc871b144511c4f0db591423f5f5e9e564b7bc922f9115c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e772f1d2abaeafb6c61475586e386eefc80a33c6d407278f1edf5fa6d90aca11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:14:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,11 @@ relationships:
   target: pt:dre:515029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515029:por
+  label: "Alterada pela Port 176/97.1997.03.11.PCM, DR.IS-B [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/176-1997-515029
+  date: '1997-03-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1117/1992/12/07/p/dre
   label: null
@@ -84,16 +89,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662316:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:14:55Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +155,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 2 de Setembro de 1993.**
+Assinada em 2 de Setembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO — Quadro de pessoal do Hospital Ortopédico do Outão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/236b00/56475649.pdf))](https://files.diariodarepublica.pt/1s/1993/10/236b00/56475649.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/236b00/56475649.pdf)

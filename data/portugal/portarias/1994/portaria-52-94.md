@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/017b00/02930294.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/52/1994/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/52-1994-512391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:29:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d6d1d501e068737fcbb5f1f492cd6fdac068cf62a834ab760c76833886c41c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf07d02ea8c297a4e051ed48ef1a294d3217ef432ea0e161ef0eb4afd31d48a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:29:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral de Viação
-- Registo Automóvel
 - Homologação
+- Registo Automóvel
 - Veículo
 relationships:
 - type: amended_by
@@ -79,16 +79,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
+- type: cites
+  target: pt:dre:410761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:537984:por
+  label: "Revogada pelo DEC LEI.128/2006.05.07.2006.MAI, DR.IS [128] de 05.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2006-537984
+  date: '2006-07-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:29:41Z'
   warnings: []
   errors: []
 ---
@@ -143,6 +156,6 @@ d) Exigir mais do que o valor correspondente a 100 ECU pela passagem do document
 
 Ministério da Administração Interna.
 
-**Assinada em 23 de Dezembro de 1993.**
+Assinada em 23 de Dezembro de 1993.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.

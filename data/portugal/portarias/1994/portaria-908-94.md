@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/908/1994/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/908-1994-619304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fc3318186df30b7b868878e07b3d74bfc44c21e0bf7d6df26e00c9c176263d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d93e3378dce6dfa13f6881a95cab78bfed91fd82338a10cb42a65f725b4fb9b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Covilhã
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
@@ -82,16 +82,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/279/1994/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/279/1994/05/10/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:08Z'
   warnings: []
   errors: []
 ---
@@ -120,25 +140,25 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 6 de Setembro de 1994.**
+Assinada em 6 de Setembro de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor dos Penedos Altos, na Covilhã
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 1.º As disposições deste Regulamento aplicam-se a todas as edificações abrangidas pelo Plano de Pormenor dos Penedos Altos.
+Artigo 1.º As disposições deste Regulamento aplicam-se a todas as edificações abrangidas pelo Plano de Pormenor dos Penedos Altos.
 
-###### Art. 2.º A zona de reserva definidos no Plano de Pormenor constitui uma reserva de terrenos nos quais a Câmara Municipal da Covilhã dará no futuro o uso que vier a revelar-se mais conveniente, destinando-se apenas a equipamento de interesse público e áreas verdes.
+Art. 2.º A zona de reserva definidos no Plano de Pormenor constitui uma reserva de terrenos nos quais a Câmara Municipal da Covilhã dará no futuro o uso que vier a revelar-se mais conveniente, destinando-se apenas a equipamento de interesse público e áreas verdes.
 
-###### Art. 3.º Todos os terrenos sujeitos a loteamento de iniciativa privada onde estejam previstos espaços destinados a equipamentos de interesse público, áreas verdes ou outros espaços de interesse público serão cedidos gratuitamente à Câmara Municipal da Covilhã.
+Art. 3.º Todos os terrenos sujeitos a loteamento de iniciativa privada onde estejam previstos espaços destinados a equipamentos de interesse público, áreas verdes ou outros espaços de interesse público serão cedidos gratuitamente à Câmara Municipal da Covilhã.
 
-###### Art. 4.º Todas as infra-estruturas locais necessárias ao desenvolvimento de loteamentos serão da responsabilidade do loteador.
+Art. 4.º Todas as infra-estruturas locais necessárias ao desenvolvimento de loteamentos serão da responsabilidade do loteador.
 
 ### CAPÍTULO II — Zonas habitacionais
 
-###### Art. 5.º As zonas habitacionais subdividem-se em:
+Art. 5.º As zonas habitacionais subdividem-se em:
 
 a) Zonas de moradias isoladas ou geminadas;
 
@@ -146,44 +166,44 @@ b) Zonas de edifícios para habitação colectiva.
 
 #### SECÇÃO I — Zonas de moradias isoladas
 
-###### Art. 6.º Os lotes poderão ser limitados por meio de sebes arbórias ou por muretes de alvenaria, não devendo a sua altura exceder 1,2 m. Para além desta altura e não ultrapassando os 2 m na totalidade admite-se a edificação de vedações com elementos vazados, nomeadamente gradeamentos em ferro, cimento ou vedações com rede metálica preenchidas com vegetação, à excepção de muros de suporte.
+Art. 6.º Os lotes poderão ser limitados por meio de sebes arbórias ou por muretes de alvenaria, não devendo a sua altura exceder 1,2 m. Para além desta altura e não ultrapassando os 2 m na totalidade admite-se a edificação de vedações com elementos vazados, nomeadamente gradeamentos em ferro, cimento ou vedações com rede metálica preenchidas com vegetação, à excepção de muros de suporte.
 
-###### Art. 7.º Os afastamentos mínimos ao limite dos lotes na implantação de moradias são os seguintes:
+Art. 7.º Os afastamentos mínimos ao limite dos lotes na implantação de moradias são os seguintes:
 
 a) Afastamento ao eixo da via - 8 m;
 
 b) Restantes afastamentos - 5 m.
 
-###### Art. 8.º Poderão ser construídos anexos desde que não excedam os 30 m2, respeitem os afastamentos indicados no artigo anterior e se destinem a garagem e arrumos.
+Art. 8.º Poderão ser construídos anexos desde que não excedam os 30 m2, respeitem os afastamentos indicados no artigo anterior e se destinem a garagem e arrumos.
 
-###### Art. 9.º O número máximo de pisos permitidos é de dois (rés-do-chão e um andar), admitindo-se a construção de uma cave, parcial ou totalmente enterrada, destinada a garagem e arrumos, desde que a topografia do terreno assim o justifique.
+Art. 9.º O número máximo de pisos permitidos é de dois (rés-do-chão e um andar), admitindo-se a construção de uma cave, parcial ou totalmente enterrada, destinada a garagem e arrumos, desde que a topografia do terreno assim o justifique.
 
 #### SECÇÃO II — Zonas de edifícios para habitação colectiva
 
-###### Art. 10.º Todos os terrenos particulares não ocupados por construções e não destinados a logradouros devem ser cedidos para uso público, destinando-se, nomeadamente, a zonas verdes, áreas de aparcamento ou outros de interesse público.
+Art. 10.º Todos os terrenos particulares não ocupados por construções e não destinados a logradouros devem ser cedidos para uso público, destinando-se, nomeadamente, a zonas verdes, áreas de aparcamento ou outros de interesse público.
 
-###### Art. 11.º Dentro do perímetro de construção dos edifícios particulares e ou no exterior, conforme planta de síntese, garantir-se-á o espaço suficiente para estacionamento de veículos automóveis na proporção de um lugar de estacionamento por fogo.
+Art. 11.º Dentro do perímetro de construção dos edifícios particulares e ou no exterior, conforme planta de síntese, garantir-se-á o espaço suficiente para estacionamento de veículos automóveis na proporção de um lugar de estacionamento por fogo.
 
-###### Art. 12.º É permitida a construção de caves parcial e totalmente enterradas para estacionamento de veículos e arrumações dos respectivos edifícios para efeitos do cumprimento do estipulado no artigo anterior, devendo assegurar-se uma conveniente ventilação. Não poderão, todavia, sob qualquer pretexto, serem utilizados para outros fins.
+Art. 12.º É permitida a construção de caves parcial e totalmente enterradas para estacionamento de veículos e arrumações dos respectivos edifícios para efeitos do cumprimento do estipulado no artigo anterior, devendo assegurar-se uma conveniente ventilação. Não poderão, todavia, sob qualquer pretexto, serem utilizados para outros fins.
 
-###### Art. 13.º O piso térreo (rés-do-chão) poder-se-á destinar a zonas comerciais ou de serviços, podendo ainda ser total ou parcialmente vazado para passagem de peões.
+Art. 13.º O piso térreo (rés-do-chão) poder-se-á destinar a zonas comerciais ou de serviços, podendo ainda ser total ou parcialmente vazado para passagem de peões.
 
-###### Art. 14.º Serão permitidos corpos balançados (abertos ou fechados) desde que não excedam 0,9 m, medidos a partir da fachada.
+Art. 14.º Serão permitidos corpos balançados (abertos ou fechados) desde que não excedam 0,9 m, medidos a partir da fachada.
 
 ### CAPÍTULO III — Zonas de equipamentos colectivos
 
-###### Art. 15.º Estas zonas destinam-se a ser ocupadas com instalações escolares, sociais, culturais, abastecimento à população e outros fins de interesse público.
+Art. 15.º Estas zonas destinam-se a ser ocupadas com instalações escolares, sociais, culturais, abastecimento à população e outros fins de interesse público.
 
-###### Art. 16.º Enquanto as áreas destinadas a equipamentos não forem ocupadas, não serão permitidas quaisquer construções, ainda que com carácter provisório.
+Art. 16.º Enquanto as áreas destinadas a equipamentos não forem ocupadas, não serão permitidas quaisquer construções, ainda que com carácter provisório.
 
 ### CAPÍTULO IV — Zonas verdes - Outros espaços públicos
 
-###### Art. 17.º Não serão autorizadas quaisquer construções nestas zonas, à excepção de pequenas instalações de interesse colectivo, desde que não prejudiquem a circulação dos peões e se integrem harmoniosamente no espaço verde urbano.
+Art. 17.º Não serão autorizadas quaisquer construções nestas zonas, à excepção de pequenas instalações de interesse colectivo, desde que não prejudiquem a circulação dos peões e se integrem harmoniosamente no espaço verde urbano.
 
-###### Art. 18.º Em toda a área do Plano só poderão ser abertos novos arruamentos ou consolidados os existentes de acordo com o presente Plano de Pormenor.
+Art. 18.º Em toda a área do Plano só poderão ser abertos novos arruamentos ou consolidados os existentes de acordo com o presente Plano de Pormenor.
 
-###### Art. 19.º As áreas indicadas para estacionamento não poderão ser utilizadas para outros fins nem serão aí permitidas construções, ainda que de carácter provisório.
+Art. 19.º As áreas indicadas para estacionamento não poderão ser utilizadas para outros fins nem serão aí permitidas construções, ainda que de carácter provisório.
 
-###### Art. 20.º Na zona indicada na planta de síntese como recinto paroquial afectar-se-á 50% dessa área a estcionamento, pelo que não poderá ser ocupada com qualquer tipo de construção.
+Art. 20.º Na zona indicada na planta de síntese como recinto paroquial afectar-se-á 50% dessa área a estcionamento, pelo que não poderá ser ocupada com qualquer tipo de construção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/236b00/61766177.pdf))](https://files.diariodarepublica.pt/1s/1994/10/236b00/61766177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/236b00/61766177.pdf)

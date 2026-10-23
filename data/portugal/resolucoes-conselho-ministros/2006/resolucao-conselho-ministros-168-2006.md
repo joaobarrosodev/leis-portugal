@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/168/2006/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-2006-552347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f0db0ec6ad22749102c267ba083d630661bdc142b700daff5fa12bd5526fde2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71249513b4d18fcff73d47b284032027e23990733cd275bd33b00c2b5da0a3e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,41 @@ reuse:
 subjects:
 - Assistência Médica
 - Assistência Medicamentosa
-- Ministro da Saúde
-- Unidade de Missão para os Cuidados Continuados Integrados
+- Cuidados Médicos
 - Definição de Competências
 - Equipa de Missão
-- Política de Saúde
-- Secretaria Geral
-- Ministério do Trabalho e da Solidariedade Social
-- Nomeação
-- Cuidados Médicos
 - Ministério da Saúde
+- Ministério do Trabalho e da Solidariedade Social
+- Ministro da Saúde
+- Nomeação
+- Política de Saúde
 - Remuneração
+- Secretaria Geral
+- Unidade de Missão para os Cuidados Continuados Integrados
 relationships:
 - type: amended_by
   target: pt:dre:543026:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614988:por
+  label: "Prorrogado, por quatro anos, o mandato da Unidade de Missão para os Cuidados Continuados Integrados, bem como o\
+    \ da sua coordenadora, pela RES.37/2010.14.05.2010.PCM, DR.IS [94] de 14.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/37-2010-614988
+  date: '2010-05-14'
+- type: amended_by
+  target: pt:dre:145186:por
+  label: "Extinta, sendo objecto de fusão, a Unidade de Missão para os Cuidados Continuados Integrados e integradas as suas\
+    \ atribuições na Administração Central do Sistema de Saúde, I. P., pelo DEC LEI.124/2011.29.12.2011.MS, DR.IS [249] de\
+    \ 29.12.2011, \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:543026:por
+  label: "Determinada a sucessão pela ACSS, I.P, das atribuições da ex-Unidade de Missão para os Cuidados Continuados Integrados\
+    \ pelo DEC LEI.35/2012.15.02.2012.MS, DR.IS [33] de 15.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2012-543026
+  date: '2012-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
   label: null
@@ -115,16 +134,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/84/2005/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/84/2005/04/27/p/dre
+- type: cites
+  target: pt:dre:241792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:07Z'
   warnings: []
   errors: []
 ---

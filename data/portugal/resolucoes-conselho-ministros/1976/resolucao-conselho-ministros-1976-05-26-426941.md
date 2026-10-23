@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1976-426941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09d954f2e68e18efba156be9df45672db00f7ad8f0f3e260a99ace954aa7c251
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cab1a9b7f927bec6b4cb7893aa91ca96e6ef4711337a15af0bbd31d04da072b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banca
+- Instituição de Crédito
+- Instituição Financeira
+- Instituto de Reorganização Agrária
+- Instituto Público
+- Ministro das Finanças
+- Reestruturação de Serviços
+- Secretaria de Estado do Tesouro
+relationships:
+- type: corrected_by
+  target: pt:dre:431261:por
+  label: Rectificada pela DECL.DD9021.29.06.1976.PCM, DR.IS [150] de 29.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-431261
+  date: '1976-06-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:34Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +149,7 @@ Análogos quadros deverão ser elaborados por:
 
 Instituto de Reorganização Agrária e Instituto de Apoio às Pequenas e Médias Empresas Industriais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12300/11791185.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12300/11791185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/12300/11791185.pdf)
 
 B
 
@@ -158,4 +171,4 @@ Quadro 6. - Garantias e avales prestados;
 
 Quadro 7. - Receitas e despesas do exercício.
 
-**O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.**
+O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.

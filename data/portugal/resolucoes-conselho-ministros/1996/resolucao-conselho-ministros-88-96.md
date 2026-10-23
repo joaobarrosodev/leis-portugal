@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/88/1996/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-1996-436637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0883a5e8482900220cfa4138dcd78bff96ab9aec75f4b0f34d74efffa8ba24c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b0859ef0311321fb9d799af69fa801a57bd3c1e0ec91234d2d092223262da22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abrantes
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:69946689:por
+  label: Alterada a delimitação da Reserva Ecológica Nacional para o município de Abrantes, aprovada pela presente e alterada
+    pela Res 43/2002, de 12-mar da PCM, pelo(a) Aviso n.º 8501/2015 - Diário da República n.º 151/2015, Série II de 2015-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8501-2015-69946689
+  date: '2015-08-05'
+- type: amended_by
+  target: pt:dre:75241608:por
+  label: Tornada pública a aprovação da alteração da delimitação da Reserva Ecológica Nacional do concelho de Abrantes, aprovada
+    pelo presente diploma, com as alterações aprovadas pela Res 43/2002 de 12-mar da PCM e as publicadas pelo AV 8501/2015
+    de 05-ago, pelo(a) Aviso n.º 10924/2016 - Diário da República n.º 169/2016, Série II de 2016-09-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10924-2016-75241608
+  date: '2016-09-02'
+- type: amended_by
+  target: pt:dre:116894719:por
+  label: Tornada pública a aprovação da alteração da delimitação, com as áreas a excluir (E5 a E14) e a incluir (11 e 12)
+    identificadas nas plantas e no quadro anexo ao presente aviso, da Reserva Ecológica Nacional do município de Abrantes,
+    aprovada pelo presente diploma, com as alterações aprovadas pela Res 43/2002 de 12-mar da PCM e as publicadas pelo AV
+    8501/2015 de 05-ago e pelo Av 10924/2016, de 02-set, pelo(a) Aviso n.º 15935/2018 - Diário da República n.º 213/2018,
+    Série II de 2018-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/15935-2018-116894719
+  date: '2018-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -79,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:14Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +151,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 23 de Maio de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/135b00/14991503.pdf))](https://files.diariodarepublica.pt/1s/1996/06/135b00/14991503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/135b00/14991503.pdf)

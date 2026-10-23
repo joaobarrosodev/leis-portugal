@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/977/1994/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/977-1994-535665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b32f1bb07486dec79d7f9b7bd5dd1c55ecec688ffaf21d757bc5dd6cbfe22204
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f30d2e6c1d8077bcd2172b33dc54428a3497de1e5bf3f30ff67f5e807e5d588
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Indústria Aeronáutica
 - Isenção Fiscal
 - Oficinas Gerais de Material Aeronáutico
 - Registo Predial
+- Sociedade Anónima
 - Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:3440268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3440268:por
+  label: "Alterado o anexo I pela PORT.1123/2004(2ªSérie).06.10.2004.MDN, DR.IIS [249] de 22.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1123-2004-3440268
+  date: '2004-10-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/1994/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/1994/02/14/p/dre
+- type: cites
+  target: pt:dre:524793:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:52Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +128,9 @@ Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, o seguinte:
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 3 de Outubro de 1994.**
+Assinada em 3 de Outubro de 1994.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro das Finanças, Walter Valdemar Pêgo Marques, Secretário de Estado Adjunto e do Tesouro.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro das Finanças, Walter Valdemar Pêgo Marques, Secretário de Estado Adjunto e do Tesouro.
 
 ## ANEXO I
 
@@ -159,16 +168,16 @@ Unidade imobiliária n.º 133, denominada "Depósito de água e câmara de manob
 
 ## ANEXO II — Mapa de localização global de imóveis integrados no património da OGMA, S. A., nos termos e para os efeitos do [Decreto-Lei n.º 42/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1994-524793), de 14 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/255b00/66666668.pdf))](https://files.diariodarepublica.pt/1s/1994/11/255b00/66666668.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/255b00/66666668.pdf)
 
 ## ANEXO II-A
 
 Mapa da unidade imobiliária n.º 129, integrada no património da OGMA, S. A., nos termos e para os efeitos do [Decreto-Lei n.º 42/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1994-524793), de 14 de Fevereiro, com indicação das edificações nela implantadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/255b00/66666668.pdf))](https://files.diariodarepublica.pt/1s/1994/11/255b00/66666668.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/255b00/66666668.pdf)
 
 ## ANEXO II-B
 
 Mapa do plano do conjunto das unidades imobiliárias n.os 130 e 131, integradas no património da OGMA, S. A., nos termos e para os efeitos do [Decreto-Lei n.º 42/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1994-524793), de 14 de Fevereiro, com indicação da sua localização e designação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/255b00/66666668.pdf))](https://files.diariodarepublica.pt/1s/1994/11/255b00/66666668.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/255b00/66666668.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/640/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/640-1994-298836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9668653eba80b1c6b48e566c3109dd12a9fc19f081a71e1a90df8cedf6c4439d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddc912063c8d171f8c90e14e3809e8b5fc6cb30a85e88e8204dbde8c604341f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,26 @@ relationships:
   target: pt:dre:116090201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138128:por
+  label: "Suspensa, pelo DEC LEI.98/99.1999.03.25.PCM, DR.IS-A [71], durante o período de vigência das medidas previstas no\
+    \ citado diploma e na área delimitada na planta anexa ao mesmo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1999-138128
+  date: '1999-03-25'
+- type: amended_by
+  target: pt:dre:548253:por
+  label: "Actualizado o Plano de Urbanização pela PORT.1130-B/99.1999.12.31.MAOT,DR.IS-B [303]4º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1130-b-1999-548253
+  date: '1999-12-31'
+- type: amended_by
+  target: pt:dre:116090201:por
+  label: Determinada a transferência para o Município de Lisboa das atribuições e competências administrativas cometidas à
+    Parque EXPO 98, no âmbito do Plano de Urbanização da Zona de Intervenção da EXPO 98, aprovado pelo presente diploma, e
+    dos respetivos Planos de Pormenor, pelo(a) Decreto-Lei n.º 67/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17,
+    nos termos do disposto no seu art. 3.º, que determinou a remissão para aquele muncípio das referências legais feitas à
+    sociedade Parque Expo 98, S. A. nos citados Planos, nos termos do seu art. 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2018-116090201
+  date: '2018-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/1994/01/15/p/dre
   label: null
@@ -113,16 +133,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/
   label: null
   source: http://data.dre.pt/eli/dec/
+- type: cites
+  target: pt:dre:141784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2906513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669800:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:27Z'
   warnings: []
   errors: []
 ---
@@ -151,9 +291,9 @@ Assim, ao abrigo do n.º 1 do artigo 2.º do [Decreto-Lei n.º 354/93](https://d
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 24 de Maio de 1994.**
+Assinada em 24 de Maio de 1994.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 Regulamento do Plano de Urbanização da Zona de Intervenção da EXPO 98
 
@@ -421,7 +561,7 @@ a) São estabelecidos os seguintes parâmetros urbanísticos e usos compatíveis
 
 Plano de Urbanização da Zona de Intervenção da Expo 98
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b00/38513858.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b00/38513858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b00/38513858.pdf)
 
 ###### Artigo 6.º — Espaço urbano privado de uso não misto
 
@@ -585,7 +725,9 @@ PP6 - Parque urbano:
 
 Integra componentes de protecção e educação ambiental, de valorização paisagística, de parque desportivo, de apoio turístico, de espaço simbólico, de recreio e lazer, em terra e no plano de água do rio, podendo constituir subsistemas de ordenamento urbanístico.
 
-###### Artigo 10.º — Divisão de terrenos, licenciamento e execução de projectos e obras
+###### Artigo 10.º
+
+##### Divisão de terrenos, licenciamento e execução de projectos e obras
 
 1 - Divisão de terrenos, licenciamento e execução de projectos e obras:
 
@@ -817,7 +959,7 @@ Constituem igualmente vias de acesso local as vias transversais tratadas com per
 
 Características da rede rodoviária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b00/38513858.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b00/38513858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b00/38513858.pdf)
 
 b) A configuração da rede rodoviária, incluindo a implantação e o dimensionamento das vias e cruzamentos, poderá ser reajustada em função dos estudos de engenharia de tráfego e de arruamentos, sem alterar o conceito da rede estabelecida.
 
@@ -961,4 +1103,4 @@ b) Ajustamento de pormenor da rede rodoviária ou dos limites fisícos das categ
 
 6 - Extinção das competências da Parque EXPO 98, S. A. - As competências atribuídas à Parque EXPO 98, S. A., no domínio do ordenamento urbanístico, transitarão, com a extinção da sociedade, para as entidades legalmente competentes em razão da matéria ou do território.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b00/38513858.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b00/38513858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b00/38513858.pdf)

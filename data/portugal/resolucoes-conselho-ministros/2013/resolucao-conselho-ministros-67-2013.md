@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/67/2013/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/67-2013-502844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52e03021a141df24881fd13ab8d26598e64ff86a370673b272293177a7a59066
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 816cb61235db02b61ad4da9c17bdc80586dd89cad27bd88f4d97839212679664
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Barragem do Monte Fidalgo
-- Turismo
-- Ordenamento do Território
-- Plano Director Municipal
-- RIO TEJO
-- Idanha-a-nova
-- Parque Natural do Tejo Internacional
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Zona de Proteção
-- Política de Solos
 - Domínio Público Hídrico
+- Gestão do Ambiente
+- Idanha-a-nova
+- Ordenamento do Território
+- Parque Natural do Tejo Internacional
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
+- RIO TEJO
+- Turismo
 - Vila Velha de Ródão
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:572426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572426:por
+  label: "Alterado o art. 20.º do Regulamento do Plano de Ordenamento do Parque Natural do Tejo Internacional, aprovado pela\
+    \ Res 176/2008, de 24-nov, na redação do presente diploma, pela RES.19/2014.10.03.2014.PCM, DR.IS [48] de 10.03.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/19-2014-572426
+  date: '2014-03-10'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -95,15 +102,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolconsmin/176/2008/11/24/p/dre
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:58Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +191,9 @@ e) A navegação e a pesca apenas podem ser realizadas no troço principal dos r
 
 7 - Nos casos referidos nas alíneas a), b), d), f), g) e h) do n.º 4, a navegação está sujeita a parecer vinculativo do ICNF, I.P.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 

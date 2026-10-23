@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/151/2005/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2005-147650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7afc2270aad4aff127d154516b054c2783fdb5a5880853dcbd42fd6528adcd54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 000e9331084b381a9a68de3ec353c766e04c393fbd408230beed3c47687c5198
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almada
-- Programa Polis
-- Ordenamento do Território
 - Costa de Caparica
+- Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
 - Plano de Pormenor
+- Programa Polis
 - Regulamento
 relationships:
 - type: cites
@@ -114,16 +114,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
+- type: cites
+  target: pt:dre:209036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692252:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:09Z'
   warnings: []
   errors: []
 ---

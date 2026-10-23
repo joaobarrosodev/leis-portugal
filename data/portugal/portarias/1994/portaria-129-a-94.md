@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 52/1994, 1º Suplemento, Série I-B de 1994-03-03
   number: '52'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1048-(2) a 1048-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/052b01/00020007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/129-a/1994/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/129-a-1994-202584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a37c2c79396c504cc415946444b458f01224e57f8288ccf9e294b62168a4b6bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 756eaddd9741163b263508f6129f57bf68e2e2f9ee5df193cf0b48395e1115a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Superior
 - Prova de Aferição
 - Regulamento
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335264:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:00Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +109,9 @@ Manda o Governo, pela Ministra da Educação, que seja aprovado o Regulamento da
 
 Ministério da Educação.
 
-**Assinada em 28 de Fevereiro de 1994.**
+Assinada em 28 de Fevereiro de 1994.
 
-**A Ministra da Educação, Maria Manuela Dias Ferreira Leite.**
+A Ministra da Educação, Maria Manuela Dias Ferreira Leite.
 
 Regulamento da Prova de Aferição para Acesso ao Ensino Superior no Ano de 1994
 
@@ -477,7 +485,7 @@ Escola Secundária n.º 1 de Setúbal.
 
 ## ANEXO II — Escolas a que se referem os n.os 6 e 7 do artigo 7.º, o n.º 3 do artigo 12.º e o n.º 4 do artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/052b01/00020007.pdf))](https://files.diariodarepublica.pt/1s/1994/03/052b01/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/052b01/00020007.pdf)
 
 ## ANEXO III — Cursos a que se refere a alínea a) do n.º 4 do artigo 11.º
 
@@ -499,7 +507,7 @@ Cursos do sistema de aprendizagem (Instituto do Emprego e Formação Profissiona
 
 1 - Época normal - dia 17 de Junho de 1994.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/052b01/00020007.pdf))](https://files.diariodarepublica.pt/1s/1994/03/052b01/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/052b01/00020007.pdf)
 
 2 - Época especial:
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/1993/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-1993-690189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d357ede359ca517526f8344188f31aae4dae4db325b6357156b568e9aa189b55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3489201de5925ea443c133f30a02aef7d85ffae04ae86a5db0460af6f0c25ad0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
-- Plano Director Municipal
-- Património Cultural
 - Nelas
+- Ordenamento do Território
+- Património Cultural
 - Património Histórico
+- Plano Director Municipal
 - Política de Solos
 - Regulamento
+- Reserva Ecológica Nacional
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:249526:por
+  label: "Ratificada a suspensão parcial, pelo período de dois anos e na área delimitada na planta anexa, do Plano Director\
+    \ Municipal de Nelas, pela RES.73/2008.02.05.2008.PCM, DR.IS [85] de 02.05.2008, que publica o texto das medidas preventivas\
+    \ aprovadas pela Assembleia Municipal a vigorar por igual período e para a mesma área.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/73-2008-249526
+  date: '2008-05-02'
+- type: amended_by
+  target: pt:dre:3155682:por
+  label: "Tornada pública a alteração, por deliberação da Assembleia Municipal de Nelas, de 21.12.2012, dos arts 7º e 58º\
+    \ do Regulamento do Plano Diretor Municipal de Nelas, ratificado pelo presente diploma, pela DESP-EXT.4148/2013.21.03.2013.MDE\
+    \ NELAS, DR.IIS [57] de 21.03.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/4148-2013-3155682
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:1950564:por
+  label: "Tornada pública a aprovação da Revisão do Plano Diretor Municipal de Nelas, ratificado pelo presente diploma, na\
+    \ redação ratificada pela Res 73/2008 de 02-mai e publicitada pelo Desp-Ext 4148/2013 de 21-mar, pelo AV.33/2014.02.01.2014.MDE\
+    \ NELAS, DR.IIS [1] de 02.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/33-2014-1950564
+  date: '2014-01-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -103,16 +124,168 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:139718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
   article_count: 94
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:49Z'
   warnings: []
   errors: []
 ---
@@ -515,7 +688,7 @@ c) Defesa nacional:
 
 Quartel da Guarda Nacional Republicana de Nelas;
 
-#### Secção da Guarda Nacional Republicana de Canas de Senhorim;
+Secção da Guarda Nacional Republicana de Canas de Senhorim;
 
 d) Outros:
 
@@ -1093,7 +1266,7 @@ Nas zonas de equipamento existentes ou a perver no espaço urbano n.º 1, destin
 
 1 - O número de lugares ou a superfície de estacionamento a prever nas zonas residenciais e industriais da vila de Nelas (espaço urbano n.º 1) não será inferior aos valores definidos no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf))](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf)
 
 2 - Sempre que as condições urbanísticas não permitam a aplicação destes valores, deverão as soluções a encontrar aproximar-se o mais possível dos parâmetros indicados. Nos edifícios destinados a comércio e serviços, indústria e armazéns e hotelaria e similares deverá ser prevista, no interior do lote, a área necessária à carga e descarga de veículos pesados e ao estacionamento dos mesmos, em número a determinar caso a caso. Ao comércio grossista aplica-se o [Decreto-Lei n.º 190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779).
 
@@ -1157,7 +1330,7 @@ Nas zonas de equipamentos turísticos existentes (complexo do Hotel da Urgeiriç
 
 1 - O número de lugares ou a superfície de estacionamento a prever nas zonas residenciais do espaço urbano n.º 2 não deverá, em princípio, ser inferior aos valores definidos no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf))](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf)
 
 2 - Sempre que as condições urbanísticas não permitam a aplicação destes valores, deverão as soluções a encontrar garantir o respeito dos parâmetros indicados e o disposto nos n.os 3, 4 e 5 do artigo 40.º, mesmo que recorrendo a terrenos em descontinuidade física.
 
@@ -1187,7 +1360,7 @@ Nas zonas de equipamento existentes ou a prever no espaço urbano n.º 3, destin
 
 1 - O número de lugares ou a superfície de estacionamento a prever nas zonas residenciais do espaço urbano n.º 3 não deverá, em princípio, ser inferior aos valores definidos no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf))](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf)
 
 2 - Sempre que as condições urbanísticas não permitam a aplicação destes valores, deverão as soluções a encontrar aproximar-se o mais possível dos parâmetros indicados e dos valores previstos nos n.os 3 e 4 do artigo 40.º
 
@@ -1759,4 +1932,4 @@ A instalação de parques de sucata e vazadouros de entulho será apenas permiti
 
 2 - A coima será graduada entre um mínimo de 300000$00 e um máximo de 5000000$00, reduzidos a metade no caso de negligência.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf))](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/265b00/63176335.pdf)

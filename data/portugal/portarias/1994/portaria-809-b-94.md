@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 211/1994, 1º Suplemento, Série I-B de 1994-09-12
   number: '211'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5388-(5) a 5388-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/211b01/00050015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/809-b/1994/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-b-1994-617286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ee903b8dfb2eb1951b4b26eeea549c559e36bfdd3f72876e1047e3932d80abc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e5bedfe4d477c543ef58e7e9abb4f181761b2ebd20fde5236cf589b5518e7d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,17 @@ relationships:
   target: pt:dre:547027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: FIXADO UM PERIODO EXCEPCIONAL DE CANDIDATURA AS AJUDAS PREVISTAS NOS CAP II E III, NA SECÇÃO III DO CAP IV E NA SECÇÃO
+    1 DO CAP V, DO PRESENTE DIPLOMA, PELA PORT 1044/94 DE 26-NOV DR.IS-B [274]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 228/94 DE 22-NOV DR.IS-B [277]4SUPL DE 30/NOV/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-30'
 - type: cites
   target: celex:31975L0268
   label: null
@@ -107,14 +118,14 @@ relationships:
   source: http://data.europa.eu/eli/reg/1993/3669/oj
 article_structure:
   article_count: 53
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:42Z'
   warnings: []
   errors: []
 ---
@@ -137,11 +148,11 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 9 de Setembro de 1994.**
+Assinada em 9 de Setembro de 1994.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.
 
-## Anexo a que se refere a Portaria n.º 809-B/94
+Anexo a que se refere a Portaria n.º 809-B/94
 
 Regulamento do Aplicação do Acalma do Ajudas a Melhoria da Eficácia das Estruturas Agrícolas
 
@@ -219,7 +230,9 @@ Os valores expressos neste diploma em ecus são convertidos para escudos à taxa
 
 ### CAPÍTULO II — Ajudas aos investimentos nas explorações agrícolas
 
-#### SECÇÃO I — SUBSECÇÃO I
+#### SECÇÃO I
+
+##### SUBSECÇÃO I
 
 Regime geral
 
@@ -1099,8 +1112,8 @@ b) Nas regiões referidas no n.º 2 do n.º I - 1,0 CN/ha.
 
 ## ANEXO IV — Quadro de zonas desfavorecidas em que o efectivo bovino leiteiro é elegível, a que se refere o n.º 6 do artigo 43.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00050015.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00050015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00050015.pdf)
 
 ## ANEXO V — (a que se refere o artigo 47.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00050015.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00050015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00050015.pdf)

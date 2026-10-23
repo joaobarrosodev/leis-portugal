@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1356/1995/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1356-1995-689022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a464562a93f233dd7148a80e358180ce9dd20f96b91421cda475e3f5ea4ad207
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dc5254011cf5bfa3e8019c0da19ff48d0cd5c9ffd6c4871b6f9331a3ec48f81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Hospital de São João
-- Quadro de Pessoal
 - Porto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145804:por
+  label: "Alterado o quadro de pessoal pela Port.760/96.1996.12.27.PCM, DR.IS-B [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/760-1996-145804
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:571069:por
+  label: "Alterado o quadro de pessoal, pela PORT.75/97.1997.01.31.PCM, DR.IS-B [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/75-1997-571069
+  date: '1997-01-31'
+- type: amended_by
+  target: pt:dre:684629:por
+  label: "Alterado o quadro de pessoal, alterado anteriormente pelas Port 760/96 de 27-Dez e 75/97 de 31-Jan, pela PORT.1106/97.1997.11.05.PCM\
+    \ DR.IS-B [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1106-1997-684629
+  date: '1997-11-05'
+- type: amended_by
+  target: pt:dre:542228:por
+  label: "Alterado o quadro de pessoal aprovado pela presente portaria, na redacção das Ports. 760/96, de 26-Dez, 75/97, de\
+    \ 31-Jan e 1106/97, de 05-Nov, pela PORT.975/2000.2000.10.11.MF DR.IS-B [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/975-2000-542228
+  date: '2000-10-11'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital de São João aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/31/1991/01/14/p/dre
   label: null
@@ -101,16 +129,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/969/1995/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/969/1995/08/09/p/dre
+- type: cites
+  target: pt:dre:177175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662321:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:06Z'
   warnings: []
   errors: []
 ---
@@ -135,87 +239,87 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 29 de Setembro de 1995.**
+Assinada em 29 de Setembro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital de São João
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/265b00/70167024.pdf))](https://files.diariodarepublica.pt/1s/1995/11/265b00/70167024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/265b00/70167024.pdf)
 
 ## ANEXO I — Unidades orgânicas de natureza técnica
 
 Direcção de Serviços Farmacêuticos:
 
-##### Divisão de Aquisição de Produtos Farmacêuticos;
+Divisão de Aquisição de Produtos Farmacêuticos;
 
-##### Divisão de Farmacotecnia e de Nutrição Clínica.
+Divisão de Farmacotecnia e de Nutrição Clínica.
 
 Direcção de Serviços de Instalações e Equipamento:
 
-##### Divisão de instalações e Redes Básicas;
+Divisão de instalações e Redes Básicas;
 
-##### Divisão de Equipamento.
+Divisão de Equipamento.
 
 Unidades orgânicas de natureza administrativa
 
 Repartição de Admissão de Doentes:
 
-#### Secção de Admissão da Consulta Externa;
+Secção de Admissão da Consulta Externa;
 
-#### Secção do Serviço de Urgência.
+Secção do Serviço de Urgência.
 
 Repartição de Arquivo Clínico:
 
-#### Secção de Internamentos;
+Secção de Internamentos;
 
-#### Secção de Consulta Externa;
+Secção de Consulta Externa;
 
-#### Secção de Informação e Expediente Geral.
+Secção de Informação e Expediente Geral.
 
 Repartição de Serviços Financeiros:
 
-#### Secção de Contabilidade Orçamental;
+Secção de Contabilidade Orçamental;
 
-#### Secção de Contabilidade Previsional e Analítica de Exploração;
+Secção de Contabilidade Previsional e Analítica de Exploração;
 
-#### Secção de Contencioso Financeiro.
+Secção de Contencioso Financeiro.
 
 Repartição de Análise e Controlo de Resultados:
 
-#### Secção de Estatística e Análise de Resultados;
+Secção de Estatística e Análise de Resultados;
 
-#### Secção de Facturação, Convenção e Acordos.
+Secção de Facturação, Convenção e Acordos.
 
 Repartição de Pessoal:
 
 #### Secção de Vencimentos:
 
-#### Secção de Faltas e Licenças;
+Secção de Faltas e Licenças;
 
-#### Secção de Benefícios Sociais;
+Secção de Benefícios Sociais;
 
-#### Secção de Carreiras de Pessoal de Regime Geral;
+Secção de Carreiras de Pessoal de Regime Geral;
 
-#### Secção de Carreiras de Pessoal de Regime Especial.
+Secção de Carreiras de Pessoal de Regime Especial.
 
 Repartição de Aprovisionamento:
 
-#### Secção de Armazéns e Gestão de Stocks;
+Secção de Armazéns e Gestão de Stocks;
 
-#### Secção de Aquisição e de Gestão de Equipamento;
+Secção de Aquisição e de Gestão de Equipamento;
 
-#### Secção de Aquisição e de Gestão de Material de Consumo Clínico e de Produtos Farmacêuticos;
+Secção de Aquisição e de Gestão de Material de Consumo Clínico e de Produtos Farmacêuticos;
 
-#### Secção de Aquisições e de Gestão de Material Hoteleiro.
+Secção de Aquisições e de Gestão de Material Hoteleiro.
 
 Repartição de Administração Geral e Apoio Administrativo:
 
-#### Secção de Apoio do Serviço de Instalações e Equipamento;
+Secção de Apoio do Serviço de Instalações e Equipamento;
 
-#### Secção de Expediente e Secretaria-Geral;
+Secção de Expediente e Secretaria-Geral;
 
-#### Secção de Apoio do Centro de Cirurgia Torácica.
+Secção de Apoio do Centro de Cirurgia Torácica.
 
 ## ANEXO II — Carreiras de pessoal técnico-profissional
 

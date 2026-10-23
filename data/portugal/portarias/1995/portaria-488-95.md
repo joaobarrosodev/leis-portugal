@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/118b00/31633173.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/488/1995/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/488-1995-503229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cb8e2ba6b5fb4d672c34e3d23a009bdd877fd300ec4542f81ccdf369c44ee56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e8cae26a995c755086d41e5fa81cef963472727e2878bd11acc30af11b3e715
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Análises Clínicas
-- Publicidade
+- Comércio
 - Doença Animal
-- Saúde Pública
 - Etiquetagem
 - Fiscalização
-- Medicamento
 - Importação
 - Instituto de Protecção da Produção Agro-Alimentar
 - Legislação Veterinária
+- Medicamento
 - Medicina Veterinária
 - Normas de Segurança
 - Produto Farmacêutico
 - Produto Veterinário
+- Publicidade
 - Regulamento
-- Comércio
+- Saúde Pública
 - Vacinação
 relationships:
 - type: amended_by
@@ -96,16 +96,21 @@ relationships:
   target: celex:31992L0018
   label: null
   source: http://data.europa.eu/eli/dir/1992/18/oj
+- type: repealed_by
+  target: pt:dre:553875:por
+  label: "Revogada pelo DEC LEI.245/2000.2000.09.29.MADRP DR.IS-A [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2000-553875
+  date: '2000-09-29'
 article_structure:
   article_count: 28
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:55Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +139,7 @@ Manda o Governo, pelo Ministro da Agricultura, em conformidade com o disposto no
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Abril de 1995.**
+Assinada em 7 de Abril de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -258,7 +263,7 @@ Precauções especiais para a destruição do produto não utilizado ou dos seus
 
 ###### Artigo 4.º — Autorizações especiais
 
-**O presidente do IPPAA, mediante condições especiais, pode autorizar:**
+O presidente do IPPAA, mediante condições especiais, pode autorizar:
 
 a) A utilização de medicamentos veterinários imunológicos com fins exclusivos de investigação, análise ou ensaio;
 
@@ -666,7 +671,7 @@ Os medicamentos imunológicos autorizados antes da data da entrada em vigor do p
 
 Normas a que devem obedecer os ensaios analíticos, farmacotoxicológicos e clínicos dos medicamentos veterinários imunológicos.
 
-# PARTE I — Ensaios analíticos (físico-químicos, biológicos ou microbiológicos)
+## PARTE I — Ensaios analíticos (físico-químicos, biológicos ou microbiológicos)
 
 A) Composição qualitativa e quantitativa dos componentes
 
@@ -870,7 +875,7 @@ No que respeita aos produtos administrados nos alimentos para animais, deve-se i
 
 Caso um produto acabado deva ser reconstituído antes da administração, deve especificar-se o prazo de validade proposto para o produto reconstituído tal como recomendado. Devem ser apresentados dados que fundamentem o prazo de validade proposto para o produto reconstituído.
 
-# PARTE II — Ensaios de segurança
+## PARTE II — Ensaios de segurança
 
 A) Introdução
 
@@ -984,7 +989,7 @@ Caso as conclusões da primeira fase sugiram a possível exposição do produto 
 
 As referidas investigações devem incidir no medicamento imunológico e ou nas substâncias activas e ou nos metabolitos excretados e deve efectuar-se em conformidade com os protocolos constantes da legislação em vigor ou, caso uma determinada finalidade não esteja adequadamente coberta por estes, a investigação deve processar-se conforme outros protocolos internacionalmente reconhecidos. O número e tipos de testes e os critérios para a sua avaliação irão depender dos conhecimentos científicos no momento da apresentação do pedido de autorização de introdução no mercado.
 
-# PARTE III — Ensaios de eficácia
+## PARTE III — Ensaios de eficácia
 
 A) Introdução
 
@@ -1036,7 +1041,7 @@ D) Ensaios de campo
 
 2 - Caso os ensaios laboratoriais não comprovem eficácia, podem ser eventualmente aceites apenas os resultados de campo.
 
-# PARTE IV
+## PARTE IV
 
 Elementos e documentos relativos aos testes de segurança e aos ensaios de eficácia dos medicamentos imunológicos.
 

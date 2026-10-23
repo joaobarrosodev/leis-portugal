@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/152/1994/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/152-1994-283735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80c86eaffeb837a5a3092b770c1387afe3e5a4cb7381a5d1427c6cb9f40559b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5870cd2cf56db59c839cf71794a54a8b956db6ab6ebf089fed0df9e4b829ac0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Lugares
-- Serviço de Estrangeiros e Fronteiras
 - Pessoal Administrativo
 - Pessoal de Informática
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Pessoal Técnico Superior
 - Quadro de Pessoal
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:3375666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534582:por
+  label: "Alterado o quadro de pessoal do Serviço de Estrangeiros e Fronteiras, constante do quadro I anexo ao Dec Lei 198/88\
+    \ de 31-Mai, com as alterações introduzidas pelo mapa I anexo ao presente diploma, pelo DEC LEI.292/94.1994.11.16.MAI,\
+    \ DR.IS-A [265]\05]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-1994-534582
+  date: '1994-11-16'
+- type: amended_by
+  target: pt:dre:2170721:por
+  label: "Alterado o quadro de pessoal constante do mapa III anexo pela Port.109/96IIS.1996.06.21.PCM, MF e MAI, DR.IIS [183]\
+    \ de 1996.08.08\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-1996-2170721
+  date: '1996-06-21'
+- type: amended_by
+  target: pt:dre:3613523:por
+  label: "Alterado o quadro de pessoal constante do mapa II anexo, pela PORT.820/2000(2ªSÉRIE).2000.05.15.MAI, DR.IIS [120]\
+    \ de 24/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/820-2000-3613523
+  date: '2000-05-15'
+- type: amended_by
+  target: pt:dre:3375666:por
+  label: "Alterado o mapa II anexo ao presente diploma, pela PORT.322/2002(2ªSÉRIE).2002.01.23.MAI, DR.IIS [42] de 19/Fev/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-2002-3375666
+  date: '2002-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/1993/04/16/p/dre
   label: null
@@ -91,16 +116,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/989/1991/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/989/1991/09/27/p/dre
+- type: cites
+  target: pt:dre:267036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690982:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:35Z'
   warnings: []
   errors: []
 ---
@@ -127,20 +172,20 @@ Manda o Governo, pelos Ministros da Administração Interna e das Finanças, o s
 
 Ministérios da Administração Interna e das Finanças.
 
-**Assinada em 28 de Fevereiro de 1994.**
+Assinada em 28 de Fevereiro de 1994.
 
-**O Ministro da Administração Interna, Manuel Dias Loureiro. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.**
+O Ministro da Administração Interna, Manuel Dias Loureiro. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/064b00/13361337.pdf))](https://files.diariodarepublica.pt/1s/1994/03/064b00/13361337.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/064b00/13361337.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/064b00/13361337.pdf))](https://files.diariodarepublica.pt/1s/1994/03/064b00/13361337.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/064b00/13361337.pdf)
 
 MAPA III
 
 Pessoal de investigação e fiscalização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/064b00/13361337.pdf))](https://files.diariodarepublica.pt/1s/1994/03/064b00/13361337.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/064b00/13361337.pdf)

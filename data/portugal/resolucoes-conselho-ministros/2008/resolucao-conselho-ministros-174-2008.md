@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/174/2008/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/174-2008-439812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b333c3c9dbae0ee8dc12c04eac8a988ebe6812c4de918c50dde8690b5e770f9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d8f82b0573cdfda4722937a8fbb6e4081c7b7603453866753f325b4f30fdd44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Algarve
 - Barragem do Arade
 - Barragem do Funcho
-- Plano de Ordenamento das Albufeiras do Funcho e Arade
-- RIO Arade
 - Ordenamento do Território
-- Algarve
-- Proteção do Ambiente
+- Plano de Ordenamento das Albufeiras do Funcho e Arade
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
+- RIO Arade
 - Silves
 relationships:
 - type: cites
@@ -116,16 +116,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:251028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:07Z'
   warnings: []
   errors: []
 ---
@@ -556,7 +608,7 @@ c) Ancoradouro 3 - 6 embarcações.
 
 8 - A instalação de ancoradouros, pontões ou embarcadouros na área de intervenção do presente Plano depende de licenciamento prévio pela Administração da Região Hidrográfica do Algarve, I. P.
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -630,7 +682,7 @@ o) O abandono de carcaças e ou animais doentes, devendo qualquer ocorrência de
 
 ##### SUBSECÇÃO II — Zona de protecção
 
-##### DIVISÃO I
+DIVISÃO I
 
 Zonamento
 
@@ -918,7 +970,7 @@ e) Caça.
 
 2 - Até à concretização dos equipamentos previstos, vigoram para as respectivas áreas as disposições decorrentes de cada uma das classes de espaços que lhe está associada.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Actividades condicionadas e interditas
 
@@ -1122,4 +1174,4 @@ O POAFA deve ser revisto nos termos do disposto nos n.os 1 e 2 do artigo 98.º d
 
 O POAFA entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22700/0827908293.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22700/0827908293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22700/0827908293.pdf)

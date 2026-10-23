@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/049b00/11421146.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/160/1995/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/160-1995-186941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffe3cfee00ef32a0b0446972a5cc5ccc0eb2e8a214142eb2c45f9e7363c06b14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e65c83ae49c5d6f11909c13ea79c1601adb3583adfa32923c35bdf9553f9059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
-- Proteção dos Animais
 - Controlo Sanitário
+- Doença Animal
 - Importação
 - Legislação Veterinária
 - País Estrangeiro
+- Proteção dos Animais
 - Regulamento
 - Transporte de Animais
 - Troca Intracomunitária
@@ -83,16 +83,21 @@ relationships:
   target: celex:31991L0628
   label: null
   source: http://data.europa.eu/eli/dir/1991/628/oj
+- type: repealed_by
+  target: pt:dre:241442:por
+  label: "Revogada pelo DEC LEI.294/98.1998.09.18.MADRP DR.IS-A [216]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/294-1998-241442
+  date: '1998-09-18'
 article_structure:
-  article_count: 1
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:58Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +120,7 @@ As disposições da presente portaria não são aplicáveis aos controlos efectu
 
 Ministérios da Agricultura e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 16 de Janeiro de 1995.**
+Assinada em 16 de Janeiro de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
@@ -123,9 +128,9 @@ Regulamento da Protecção dos Animais em Transporte
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O presente Regulamento estabelece as normas de protecção dos animais em transporte.
+Artigo 1.º O presente Regulamento estabelece as normas de protecção dos animais em transporte.
 
-###### Art. 2.º - 1 - O presente Regulamento aplica-se ao transporte de:
+Art. 2.º - 1 - O presente Regulamento aplica-se ao transporte de:
 
 a) Solípedes domésticos e animais domésticos das espécies bovina, equina, ovina, caprina e suína;
 
@@ -147,7 +152,7 @@ i) Numa distância não superior a 50 km a partir do início do transporte até 
 
 ii) Pelos produtores que procedam à criação ou engorda, quando o transporte se faça em viaturas agrícolas ou outros meios de transporte que lhes pertençam, nos casos em que as circunstâncias geográficas obriguem a uma transumância sazonal de determinados tipos de animais.
 
-###### Art. 3.º - 1 - Para efeitos do presente Regulamento, aplicam-se as definições que constam do artigo 2.º dos Regulamentos aprovados pelas Portarias n.os 574/93, 575/93 e 576/93, todas de 4 de Junho, e 774/93, de 3 de Setembro.
+Art. 3.º - 1 - Para efeitos do presente Regulamento, aplicam-se as definições que constam do artigo 2.º dos Regulamentos aprovados pelas Portarias n.os 574/93, 575/93 e 576/93, todas de 4 de Junho, e 774/93, de 3 de Setembro.
 
 2 - Além disso, entende-se por:
 
@@ -173,7 +178,7 @@ h) Autoridade competente: O IPPAA, sem prejuízo das competências atribuídas p
 
 ### CAPÍTULO II — Transporte e controlo no território da comunidade
 
-###### Art. 4.º - 1 - O transporte de animais no interior, para e a partir do território nacional, deve ser realizado em conformidade com as regras constantes do anexo a este Regulamento, do qual faz parte integrante.
+Art. 4.º - 1 - O transporte de animais no interior, para e a partir do território nacional, deve ser realizado em conformidade com as regras constantes do anexo a este Regulamento, do qual faz parte integrante.
 
 2 - Nenhum animal deve ser transportado sem que esteja apto para realizar a viagem prevista e sem que tenham sido tomadas medidas para que seja tratado durante a viagem e à chegada ao local de destino.
 
@@ -187,7 +192,7 @@ b) Animais transportados para fins científicos, aprovados pela autoridade compe
 
 5 - Em derrogação do disposto nos n.os 2 e 3, a autoridade competente pode autorizar o transporte de animais para tratamento veterinário ou abate urgente em condições que não obedeçam ao disposto na presente portaria, apenas sendo permitido este tipo de transporte quando isso não implique um sofrimento inútil ou maus tratos para os animais.
 
-###### Art. 5.º A identificação e o registo dos animais devem ser mantidos durante toda a viagem, em conformidade com a alínea b) do n.º 1 do artigo 3.º do Regulamento aprovado pela Portaria n.º 575/93, de 4 de Junho, devendo os mesmos ser acompanhados pelos documentos exigidos por lei, por forma a permitir à autoridade competente determinar:
+Art. 5.º A identificação e o registo dos animais devem ser mantidos durante toda a viagem, em conformidade com a alínea b) do n.º 1 do artigo 3.º do Regulamento aprovado pela Portaria n.º 575/93, de 4 de Junho, devendo os mesmos ser acompanhados pelos documentos exigidos por lei, por forma a permitir à autoridade competente determinar:
 
 a) A sua origem e o seu proprietário;
 
@@ -195,7 +200,7 @@ b) Os seus locais de partida e de destino;
 
 c) A data e hora de partida.
 
-###### Art. 6.º - 1 - Todas as pessoas singulares e colectivas que procedam ao transporte de animais devem:
+Art. 6.º - 1 - Todas as pessoas singulares e colectivas que procedam ao transporte de animais devem:
 
 a) Estar licenciadas e registadas junto da autoridade competente, de modo a permitir a esta controlar o cumprimento das exigências do presente Regulamento;
 
@@ -223,11 +228,11 @@ h) Emitir, caso haja fraccionamento dos lotes de animais, uma guia de circulaç�
 
 3 - Os pontos de paragem que previamente tenham sido escolhidos pelo responsável a que se refere o número anterior são sujeitos a um controlo regular, efectuado pela autoridade competente.
 
-###### Art. 7.º - 1 - Quando greves ou outras circunstâncias imprevisíveis impeçam a aplicação do disposto no presente Regulamento, o IPPAA diligenciará no sentido de que sejam tomadas todas as medidas necessárias para evitar ou reduzir ao mínimo qualquer atraso durante o transporte, bem como o sofrimento dos animais, devendo ser tomadas medidas especiais nos portos, nos aeroportos, nas estações de caminhos de ferro, nas estações de triagem e nos postos de inspecção fronteiriços referidos no artigo 6.º do Regulamento aprovado pela Portaria n.º 574/93, de 4 de Junho, para acelerar o transporte dos animais de acordo com as condições previstas no presente Regulamento.
+Art. 7.º - 1 - Quando greves ou outras circunstâncias imprevisíveis impeçam a aplicação do disposto no presente Regulamento, o IPPAA diligenciará no sentido de que sejam tomadas todas as medidas necessárias para evitar ou reduzir ao mínimo qualquer atraso durante o transporte, bem como o sofrimento dos animais, devendo ser tomadas medidas especiais nos portos, nos aeroportos, nas estações de caminhos de ferro, nas estações de triagem e nos postos de inspecção fronteiriços referidos no artigo 6.º do Regulamento aprovado pela Portaria n.º 574/93, de 4 de Junho, para acelerar o transporte dos animais de acordo com as condições previstas no presente Regulamento.
 
 2 - Sem prejuízo de outras disposições comunitárias de polícia sanitária, nenhuma remessa de animais deve ser retida durante o transporte, a não ser que tal seja estritamente necessário para o bem-estar dos animais, devendo, se uma remessa de animais for retida por mais de duas horas, ser tomadas as medidas adequadas para que os animais possam receber tratamento e, se necessário, ser descarregados e alojados.
 
-###### Art. 8.º - 1 - No respeito pelos princípios e regras de controlos estabelecidos pelo Regulamento aprovado pela Portaria n.º 575/93, de 4 de Junho, a autoridade competente procederá de maneira não discriminatória, à inspecção:
+Art. 8.º - 1 - No respeito pelos princípios e regras de controlos estabelecidos pelo Regulamento aprovado pela Portaria n.º 575/93, de 4 de Junho, a autoridade competente procederá de maneira não discriminatória, à inspecção:
 
 a) Dos meios de transporte e dos animais à chegada ao local de destino;
 
@@ -237,7 +242,7 @@ c) Das indicações constantes dos documentos de acompanhamento.
 
 2 - Poderá igualmente proceder-se ao controlo dos animais durante o transporte, quando a autoridade competente dispuser de informações que lhe permitam suspeitar de uma infracção.
 
-###### Art. 9.º - 1 - Quando, no decurso de um transporte, se verificar que o disposto no presente Regulamento não está a ser ou não foi cumprido, o serviço regional de agricultura da área em que for feita essa verificação deve solicitar às pessoas encarregadas do meio de transporte que tomem todas as medidas que o IPPAA considere necessárias para salvaguardar o bem-estar dos animais em questão.
+Art. 9.º - 1 - Quando, no decurso de um transporte, se verificar que o disposto no presente Regulamento não está a ser ou não foi cumprido, o serviço regional de agricultura da área em que for feita essa verificação deve solicitar às pessoas encarregadas do meio de transporte que tomem todas as medidas que o IPPAA considere necessárias para salvaguardar o bem-estar dos animais em questão.
 
 2 - Consoante as circunstâncias de cada caso, as medidas referidas no número anterior podem consistir em:
 
@@ -259,15 +264,17 @@ c) Mandar abater os animais em condições humanitárias, sendo decidido o desti
 
 ### CAPÍTULO III — Importações
 
-###### Art. 10.º - 1 - São aplicáveis, nomeadamente em matéria de organização e do seguimento a dar aos controlos, as normas previstas no Regulamento aprovado pela Portaria n.º 575/93, de 4 de Junho.
+Art. 10.º - 1 - São aplicáveis, nomeadamente em matéria de organização e do seguimento a dar aos controlos, as normas previstas no Regulamento aprovado pela Portaria n.º 575/93, de 4 de Junho.
 
 2 - A importação, o trânsito e o transporte no e através do território nacional dos animais vivos referidos no presente Regulamento, provenientes de países terceiros, só são autorizados se o exportador ou importador se comprometerem, por escrito, a respeitar as exigências da presente portaria.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 11.º Para efeitos do presente Regulamento, as normas e o processo de informação previstos na Portaria n.º 1032/92, de 5 de Novembro, são aplicáveis, com as devidas adaptações.
+Art. 11.º Para efeitos do presente Regulamento, as normas e o processo de informação previstos na Portaria n.º 1032/92, de 5 de Novembro, são aplicáveis, com as devidas adaptações.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Solípedes domésticos e animais domésticos das espécies bovina, equina, ovina, caprina e suína
 

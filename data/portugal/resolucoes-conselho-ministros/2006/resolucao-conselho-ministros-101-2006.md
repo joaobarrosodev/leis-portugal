@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101/2006/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2006-538582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7d55048a3547d46f6bb3d26108cc1ae507bc0c45890dce55bbb5396d201d7fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0500f1bf7e1b6a65128263024302e8ff3554d7064f8caa1cdb27b126300f029d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração do Porto de Sines
+- Domínio Público Hídrico
 - GALP Power
 - Produção de Energia Elétrica
-- Domínio Público Hídrico
 - Utilidade Pública
 relationships:
 - type: cites
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2000/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2000/07/06/p/dre
+- type: cites
+  target: pt:dre:301024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:27Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +137,4 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 20 de Julho de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15400/57725773.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15400/57725773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15400/57725773.pdf)

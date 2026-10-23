@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07100/0000600300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/127/2025/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/127-2025-914597185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c44b78cb4218dd1ec1292dfc0208f1bf1f913a664ea5376c3048e67d8295801
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 737f44a17f59402fbe029712fa668fb02034da8294b5e0f15427814d765ca383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Política Energética
-- Assembleia da República
-- Política do Ambiente
 - Alteração Climática
+- Assembleia da República
 - Plano Nacional Energia e Clima 2030
+- Política do Ambiente
+- Política Energética
 relationships:
 - type: cites
   target: celex:31999L0031
@@ -235,6 +235,546 @@ relationships:
   target: eli:http://data.europa.e
   label: null
   source: http://data.europa.e
+- type: cites
+  target: pt:dre:105658706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106833282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106923197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107669156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107761909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114133883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114248654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114248655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114610495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114627305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114885103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115191272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115226936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115777790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116649879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116747964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117714174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119190179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122124254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123578709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123725412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124097549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125692189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126669989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127659203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130954976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131124444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141377978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145102353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148444002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149220156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149707127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154513235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156295372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162940682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164590045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166302782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170034363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170591677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171992307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173690306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173707578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175923959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176492358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176631058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176714553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177528431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178152679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178264072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181754986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182213906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183432853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200734336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200810875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202233711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202357817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202641115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204338646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205689383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205822993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210923318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210923319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215338988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219915285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221101502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221327585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222069231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222421523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222939628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223267497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224427486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58895505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66432466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69982738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70064710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73986213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74605298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75060358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75207496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75207497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75701996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836277253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836371891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840061620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840278736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840715790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:855593245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:857366012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:858631718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867249751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868245180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868409451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868812119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:872631226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887067337:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32019L0944
   label: null
@@ -246,13 +786,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:53Z'
   warnings: []
   errors: []
 ---
@@ -263,7 +803,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 20 de dezembro de 2024.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
 
 ## ANEXO — Plano Nacional de Energia e Clima 2021-2030 (PNEC 2030)
 
@@ -273,7 +813,7 @@ Aprovada em 20 de dezembro de 2024.
 
 1.1.1 - Contextos político, económico, ambiental e social do plano
 
-O Acordo de Paris (AP) alcançado em 2015 estabeleceu, como objetivos de longo prazo, a contenção do aumento da temperatura média mundial bem abaixo dos 2<sup>o</sup>C em relação aos níveis pré-industriais, com o compromisso por parte da comunidade internacional de prosseguir todos os esforços para esse aumento a 1,5<sup>o</sup>C, valores que a ciência define como máximos para se garantir a continuação da vida no planeta sem alterações demasiado disruptivas. Estabeleceu ainda objetivos de aumento da capacidade de adaptação aos impactos adversos das alterações climáticas e de mobilização de fluxos financeiros consistentes com trajetórias de baixas emissões e desenvolvimento resiliente.
+O Acordo de Paris (AP) alcançado em 2015 estabeleceu, como objetivos de longo prazo, a contenção do aumento da temperatura média mundial bem abaixo dos 2oC em relação aos níveis pré-industriais, com o compromisso por parte da comunidade internacional de prosseguir todos os esforços para esse aumento a 1,5oC, valores que a ciência define como máximos para se garantir a continuação da vida no planeta sem alterações demasiado disruptivas. Estabeleceu ainda objetivos de aumento da capacidade de adaptação aos impactos adversos das alterações climáticas e de mobilização de fluxos financeiros consistentes com trajetórias de baixas emissões e desenvolvimento resiliente.
 
 Este Acordo, com entrada em vigor a 4 de novembro de 2016, representou assim uma mudança de paradigma na implementação da Convenção Quadro das Nações Unidas para as Alterações Climáticas (CQNUAC), com o reconhecimento explícito de que apenas com o contributo de todos é possível ultrapassar o desafio das alterações climáticas.
 
@@ -281,13 +821,13 @@ O AP tem como principais compromissos atingir um balanço a nível global entre 
 
 Em 2016, na Conferência das Partes (COP) da CQNUAC, Portugal assumiu o objetivo de atingir a Neutralidade Carbónica até 2050, tendo desenvolvido o Roteiro para a Neutralidade Carbónica 2050 (RNC2050) que estabeleceu a visão, as trajetórias e as linhas de orientação para as políticas e medidas a concretizar nesse horizonte temporal. O RNC2050, publicado pela Resolução de Conselho de Ministros n.º [107/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-2019-122777644), de 1 de julho, constituiu assim a Estratégia de desenvolvimento a longo prazo com baixas emissões de gases com efeito de estufa (GEE) submetida à CQNUAC a 20 de setembro de 2019.
 
-Em linha com as conclusões do Relatório Especial do Intergovernmental Panel on Climate Change (IPCC<sup>1</sup>), concluiu-se também no RNC2050 que é na década 2021-2030 que se devem concentrar os maiores esforços de redução de emissões de GEE, sendo esta a década essencial para o alinhamento da economia nacional com uma trajetória de neutralidade carbónica.
+Em linha com as conclusões do Relatório Especial do Intergovernmental Panel on Climate Change (IPCC1), concluiu-se também no RNC2050 que é na década 2021-2030 que se devem concentrar os maiores esforços de redução de emissões de GEE, sendo esta a década essencial para o alinhamento da economia nacional com uma trajetória de neutralidade carbónica.
 
 Assim, em articulação com os objetivos do RNC2050, foram estabelecidas metas ambiciosas, mas exequíveis, para o horizonte 2030, que se encontram vertidas no Plano Nacional Energia e Clima 2030 (PNEC 2030), aprovado pela Resolução do Conselho de Ministros n.º [53/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2020-137618093), de 10 de julho, e que se constitui como o principal instrumento de política energética e climática nacional para a década 2021-2030 rumo a um futuro neutro em carbono.
 
 Os desafios que se impõem exigem uma ação concertada entre políticas da energia e do clima, que permita traçar uma trajetória exequível rumo a uma economia e a uma sociedade neutra em carbono, que seja, em simultâneo, promotora de crescimento económico e de melhoria da qualidade de vida. Neste sentido, o PNEC é fundamental para assegurar a concretização das metas em matéria de energia e clima no horizonte 2030 e está orientado para o futuro e para os objetivos a longo prazo de Portugal.
 
-A nível internacional, foi adotado a 13 de novembro de 2021 na COP 26 da CQNUAC, o Pacto de Glasgow sobre o Clima, através do qual se reconheceu que limitar o aumento da temperatura média mundial a 1,5<sup>o</sup>C acima dos níveis pré-industriais reduziria significativamente os riscos e os impactes das alterações climáticas, tendo os vários signatários procedido ao compromisso de reforçar as suas metas para 2030, a fim de colmatar o défice de ambição ainda existente.
+A nível internacional, foi adotado a 13 de novembro de 2021 na COP 26 da CQNUAC, o Pacto de Glasgow sobre o Clima, através do qual se reconheceu que limitar o aumento da temperatura média mundial a 1,5oC acima dos níveis pré-industriais reduziria significativamente os riscos e os impactes das alterações climáticas, tendo os vários signatários procedido ao compromisso de reforçar as suas metas para 2030, a fim de colmatar o défice de ambição ainda existente.
 
 Mais recentemente, na COP 28 que se realizou no Dubai no final de 2023, foi também reconhecida a urgência do alinhamento das trajetórias de descarbonização com o objetivo do Acordo de Paris. O primeiro balanço do Acordo de Paris (Global Stocktake), reforçou o sinal de que é necessário conter o aumento da temperatura a 1,5ºC, tendo pela primeira vez sido feita referência ao início da transição para o fim de todos os combustíveis fósseis, mas também o acordo alcançado sobre a necessidade de triplicar a capacidade de energia renovável a nível mundial e duplicar a taxa média anual global de melhorias de eficiência energética, até 2030; o reconhecimento da necessidade de atingir a neutralidade até 2050, incluindo as respetivas metas intermédias de redução de emissões de GEE de 43 % até 2030 e 60 % até 2035, em relação a 2019, ou a necessidade do pico de emissões ocorrer até 2025.
 
@@ -295,7 +835,7 @@ Deste acordo saiu também a necessidade da próxima ronda de NDC, preverem metas
 
 A nível comunitário, é de realçar a apresentação do Pacto Ecológico Europeu (COM (2019) 640 final) em dezembro de 2019, que constitui uma nova estratégia de crescimento, assente numa transição verde alinhada com os objetivos de descarbonização de longo prazo da União Europeia (UE), garantindo que o crescimento económico esteja dissociado da utilização dos recursos e que a transição seja justa e inclusiva para todos.
 
-A posterior aprovação da Lei Europeia do Clima ([Regulamento (UE) 2021/1119](https://data.europa.eu/eli/reg/2021/1119/oj?locale=pt), de 30 de junho de 2021)<sup>2</sup>, veio plasmar os objetivos estabelecidos no Pacto Ecológico, definindo assim uma meta vinculativa da UE de redução líquida das emissões de GEE para 2030, em, pelo menos 55 %, em relação aos níveis de 1990, bem como o objetivo de alcançar a neutralidade climática até 2050 na Europa.
+A posterior aprovação da Lei Europeia do Clima ([Regulamento (UE) 2021/1119](https://data.europa.eu/eli/reg/2021/1119/oj?locale=pt), de 30 de junho de 2021)2, veio plasmar os objetivos estabelecidos no Pacto Ecológico, definindo assim uma meta vinculativa da UE de redução líquida das emissões de GEE para 2030, em, pelo menos 55 %, em relação aos níveis de 1990, bem como o objetivo de alcançar a neutralidade climática até 2050 na Europa.
 
 Foi neste contexto que surgiram algumas das iniciativas estratégicas inseridas no pacote «Fit-for-55» (COM(2021) 550 final), apresentado em 2021, com vista a garantir o alinhamento de toda a legislação UE, em matéria de clima e energia, com a nova meta de redução de emissões de GEE estabelecida para 2030.
 
@@ -311,7 +851,7 @@ Estes novos desenvolvimentos, que acarretam importantes alterações em matéria
 
 A nível nacional, o novo contexto de pós-pandemia COVID-19, e as reformas e investimentos destinados a impulsionar a digitalização e a industrialização verde, são também elementos importantes a considerar neste processo de revisão. Em particular, o desenvolvimento da cadeia de valor do hidrogénio renovável terá um papel muito relevante no país, ultrapassando a expectativa definida na Estratégia Nacional para o Hidrogénio, aprovada pela Resolução do Conselho de Ministros n.º [63/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2020-140346286), de 14 de agosto. Também o recente Plano de Ação do Biometano 2024-2040, aprovado pela [Resolução do Conselho de Ministros n.º 41/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2024-855593245), constitui uma nova aposta na redução acelerada das emissões de gases com efeito de estufa devido ao uso do gás natural.
 
-Face a este contexto internacional, comunitário e nacional, Portugal aprovou a sua primeira Lei de Bases do Clima (LBC)<sup>3</sup>, que vem consolidar objetivos, princípios e obrigações para os diferentes níveis de governação para a ação climática, através de políticas públicas, e estabelecer novas disposições em matéria de política climática, nomeadamente:
+Face a este contexto internacional, comunitário e nacional, Portugal aprovou a sua primeira Lei de Bases do Clima (LBC)3, que vem consolidar objetivos, princípios e obrigações para os diferentes níveis de governação para a ação climática, através de políticas públicas, e estabelecer novas disposições em matéria de política climática, nomeadamente:
 
 • Estipula direitos e deveres em matéria de clima, reforçando o direito à participação dos cidadãos;
 
@@ -329,7 +869,7 @@ A par da ambição de neutralidade climática, em dezembro de 2022, através do 
 
 Em resposta à LBC, que previa o estudo da antecipação da meta da neutralidade climática estabelecida para 2050, Portugal, ciente dos desafios e das oportunidades associados a esta transição, assumiu na COP 28 o compromisso de antecipação da meta da neutralidade climática para 2045.
 
-Portugal vê assim reforçada a sua posição de destaque no contexto internacional, não só sobre os compromissos assumidos a médio/longo prazo, mas também em relação ao percurso que tem vindo a seguir nos últimos anos, em particular em relação à redução de emissões de GEE e à aposta nas fontes de energia renovável, matérias em que se têm alcançado resultados muito positivos. Em 2022, as emissões de GEE, sem contabilização das emissões relativas ao uso de solo, alteração de uso de solo e florestas (LULUCF) e sem emissões indiretas, foram estimadas em cerca de 56,25 Mt CO<sub>2</sub>eq, representando um decréscimo de 4,4 % face a 1990, e de 34,5 % relativamente a 2005. Apesar das condições excecionais de 2020, motivadas pelo impacto das medidas de resposta à pandemia COVID-19, que se traduziram numa redução significativa das emissões, a recuperação da economia motivou um aumento quase nulo das emissões entre 2021 e 2022 (0,3 %), o que comprova a consolidação da trajetória de descarbonização da economia nacional, alinhada com a meta de redução de emissões de GEE estabelecida para 2030.
+Portugal vê assim reforçada a sua posição de destaque no contexto internacional, não só sobre os compromissos assumidos a médio/longo prazo, mas também em relação ao percurso que tem vindo a seguir nos últimos anos, em particular em relação à redução de emissões de GEE e à aposta nas fontes de energia renovável, matérias em que se têm alcançado resultados muito positivos. Em 2022, as emissões de GEE, sem contabilização das emissões relativas ao uso de solo, alteração de uso de solo e florestas (LULUCF) e sem emissões indiretas, foram estimadas em cerca de 56,25 Mt CO2eq, representando um decréscimo de 4,4 % face a 1990, e de 34,5 % relativamente a 2005. Apesar das condições excecionais de 2020, motivadas pelo impacto das medidas de resposta à pandemia COVID-19, que se traduziram numa redução significativa das emissões, a recuperação da economia motivou um aumento quase nulo das emissões entre 2021 e 2022 (0,3 %), o que comprova a consolidação da trajetória de descarbonização da economia nacional, alinhada com a meta de redução de emissões de GEE estabelecida para 2030.
 
 Portugal tem avançado no sentido de alcançar níveis cada vez mais elevados de incorporação de fontes de energia renovável nos vários setores, em linha com os objetivos estabelecidos pela Lei de Bases do Clima, tendo alcançado uma quota total de incorporação de renováveis no consumo final bruto de energia bastante acima da média europeia e numa trajetória crescente nos últimos anos (+15,2 p.p. face a 2005). No setor da eletricidade, em 2022 Portugal foi o quarto país da UE com maior nível de incorporação de renováveis (+33 p.p. face a 2005).
 
@@ -341,25 +881,27 @@ Tabela 1 - Evolução dos principais indicadores energia e clima em Portugal [Fo
 
 | Indicador | 2005 |  | 2022 | Variação |
 | --- | --- | --- | --- | --- |
-| Emissões totais de CO<sub>2</sub>eq (sem emissões indiretas, sem LULUCF) | 85,86 Mton | ¤ | 56,25 Mton | -34,5 % |
+| Emissões totais de CO2eq (sem emissões indiretas, sem LULUCF) | 85,86 Mton | ¤ | 56,25 Mton | -34,5 % |
 | Consumo de energia primária | 27,1 Mtep | ¤ | 21,3 Mtep | -21,3 % |
 | RENOVÁVEIS no consumo final | 19,5 % | £ | 34,7 % | +15,2 p.p. |
 | Renováveis na eletricidade | 28,3 % | £ | 61,0 % | +32,7 p.p. |
-| Dependência energética | 88,8 % | ¤ | 71,2 %<sup>4</sup> | -17,6 p.p. |
+| Dependência energética | 88,8 % | ¤ | 71,2 %4 | -17,6 p.p. |
 
-Importa também realçar o percurso que Portugal tem vindo a traçar em matéria de energia e clima nos últimos anos e a forma como foi possível desacoplar o Produto Interno Bruto das Emissões de CO<sub>2</sub> e do Consumo de Energia Primária, trajetória que se mantém em 2022. Significa isto que Portugal tem conseguido gerar riqueza com menos emissões e menor consumo de energia, com claras vantagens para a economia e para a sociedade. Este percurso de redução das emissões totais de CO<sub>2</sub> deverá manter-se nas próximas décadas, enquanto Portugal aposta numa economia cada vez menos intensiva em carbono, com particular ênfase na produção de eletricidade a partir de fontes de energia renovável e na utilização de gases renováveis. Esta transformação deverá ser transversal a todos os setores de atividade, energéticos e não-energéticos, tendo em conta o respetivo potencial de descarbonização, e deverá ser auxiliada por melhorias ao nível da eficiência energética, otimização e integração dos processos de produção.
+Importa também realçar o percurso que Portugal tem vindo a traçar em matéria de energia e clima nos últimos anos e a forma como foi possível desacoplar o Produto Interno Bruto das Emissões de CO2 e do Consumo de Energia Primária, trajetória que se mantém em 2022. Significa isto que Portugal tem conseguido gerar riqueza com menos emissões e menor consumo de energia, com claras vantagens para a economia e para a sociedade. Este percurso de redução das emissões totais de CO2 deverá manter-se nas próximas décadas, enquanto Portugal aposta numa economia cada vez menos intensiva em carbono, com particular ênfase na produção de eletricidade a partir de fontes de energia renovável e na utilização de gases renováveis. Esta transformação deverá ser transversal a todos os setores de atividade, energéticos e não-energéticos, tendo em conta o respetivo potencial de descarbonização, e deverá ser auxiliada por melhorias ao nível da eficiência energética, otimização e integração dos processos de produção.
 
 No entanto, a trajetória do consumo de energia primária deverá voltar a ascender, pelo menos até 2030, em consequência de um muito maior aproveitamento de energia primária renovável para a produção de combustíveis renováveis, que possam levar a uma descarbonização de todas utilizações finais de energia onde a opção elétrica não for técnica e/ou economicamente favorável.
 
-Figura 1 - Evolução do Produto Interno Bruto, das Emissões Totais de CO<sub>2</sub> (sem LULUCF; sem emissões indiretas) e do Consumo de Energia Primária (2000 = 100) [Fonte: INE, APA, DGEG]
+Figura 1 - Evolução do Produto Interno Bruto, das Emissões Totais de CO2 (sem LULUCF; sem emissões indiretas) e do Consumo de Energia Primária (2000 = 100) [Fonte: INE, APA, DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914561560.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561560.png) |
+| --- |
 
 A recuperação económica que Portugal registou desde 2013 foi interrompida em 2020, em resultado da pandemia COVID-19. Em 2022, estima-se um crescimento do PIB em 12,2 %, representando a taxa mais elevada desde 1992, após o crescimento de 7,7 % registado em 2021, atingindo um valor de 242,3 mil milhões de euros.
 
 Figura 2 - Variação do PIB (base 2016) em Portugal [Fonte: INE]
 
-![](https://files.diariodarepublica.pt/images/914597185/914561561.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561561.png) |
+| --- |
 
 Segundo projeções mais recentes, é expectável que a trajetória de crescimento se mantenha nos próximos anos.
 
@@ -367,7 +909,8 @@ Na ótica da produção, em 2022, o Valor Acrescentado Bruto (VAB) registou um a
 
 Figura 3 - Evolução do VAB (base 2016) em Portugal (milhões de euros, dados encadeados em volume; anual) [Fonte: INE]
 
-![](https://files.diariodarepublica.pt/images/914597185/914561562.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561562.png) |
+| --- |
 
 A acrescentar à trajetória de descarbonização da economia nacional, com a correspondente redução de emissões de GEE, que têm permitido consolidar o percurso de Portugal em matéria de energia e clima, importa ainda assinalar como relevante a sinergia entre medidas de descarbonização e as opções de adaptação aos efeitos das alterações climáticas. Sabendo ainda que as alterações climáticas são um processo muito complexo e com elevados riscos para os seres humanos, os ecossistemas e os bens materiais, é vital promover a adaptação de forma estruturada, através da implementação de medidas eficazes que reduzam a vulnerabilidade e aumentem a resiliência dos sistemas (EEA, 2017; IPCC, 2022b).
 
@@ -387,7 +930,7 @@ A integração da adaptação às alterações climáticas no PNEC 2030 consolid
 
 Em 2016, na Conferência das Partes da Convenção Quadro das Nações Unidas para as Alterações Climáticas, Portugal assumiu o objetivo de atingir a Neutralidade Carbónica até 2050, tendo desenvolvido e aprovado o Roteiro para a Neutralidade Carbónica 2050 que estabeleceu a visão, as trajetórias e as linhas de orientação para as políticas e medidas a concretizar nesse horizonte temporal. O RNC2050 constituiu a Estratégia de desenvolvimento a longo prazo com baixas emissões de GEE, submetida à CQNUAC a 20 de setembro de 2019, que está em revisão por forma a refletir os importantes desenvolvimentos em matéria de energia e clima que ocorreram desde a sua aprovação, em articulação com a revisão do PNEC 2030.
 
-Em linha com as conclusões do Relatório Especial do IPCC sobre o limite do aumento da temperatura média mundial a 1,5<sup>o</sup>C acima dos níveis pré-industriais, no RNC2050 concluiu-se que se devem concentrar os maiores esforços de redução de emissões de GEE na década 2021-2030. Esta redução, que se deverá destacar durante a presente década, é essencial para o alinhamento da economia nacional com uma trajetória de neutralidade climática. Assim, em articulação com os objetivos do RNC2050, e na sequência dos desenvolvimentos a nível internacional, comunitário e nacional já elencados, foram revistas as metas para o horizonte 2030, no sentido de aumentar a ambição. As novas metas estão vertidas na presente atualização do PNEC 2030, que se constitui como o principal instrumento de política energética e climática nacional para a década 2021-2030, rumo a um futuro neutro em carbono.
+Em linha com as conclusões do Relatório Especial do IPCC sobre o limite do aumento da temperatura média mundial a 1,5oC acima dos níveis pré-industriais, no RNC2050 concluiu-se que se devem concentrar os maiores esforços de redução de emissões de GEE na década 2021-2030. Esta redução, que se deverá destacar durante a presente década, é essencial para o alinhamento da economia nacional com uma trajetória de neutralidade climática. Assim, em articulação com os objetivos do RNC2050, e na sequência dos desenvolvimentos a nível internacional, comunitário e nacional já elencados, foram revistas as metas para o horizonte 2030, no sentido de aumentar a ambição. As novas metas estão vertidas na presente atualização do PNEC 2030, que se constitui como o principal instrumento de política energética e climática nacional para a década 2021-2030, rumo a um futuro neutro em carbono.
 
 Atingir a neutralidade climática em 2045, atento o mais recente compromisso a nível nacional sobre esta matéria, significa o abandono progressivo de um modelo económico linear sustentado nos combustíveis fósseis, e a aposta numa economia que se baseia em recursos renováveis, utilizados de forma eficiente, prosseguindo com modelos de economia circular, valorizando as potencialidades do território terrestre e marítimo e promovendo a coesão territorial.
 
@@ -419,7 +962,7 @@ A dimensão Transição Climática resulta do compromisso e contributo de Portug
 
 Na dimensão de Transição Climática foram consideradas 6 componentes com intervenção em áreas estratégicas: o mar (C10), a descarbonização da indústria (C11), a bioeconomia sustentável (C12), a eficiência energética em edifícios (C13), o hidrogénio e energias renováveis (C14) e a mobilidade sustentável (C15). Paralelamente, as componentes Florestas (C8) e Gestão Hídrica da Dimensão Resiliência (C9) incorporam também investimentos diretamente associados à transição climática.
 
-De referir que os investimentos financiados pelo PRR têm de garantir o cumprimento de uma série de critérios para demonstrar que os mesmos são sustentáveis do ponto de vista ambiental, e onde se inclui o princípio «Do No Significant Harm (DNSH)»<sup>5</sup>. Após aprovação do plano inicial, Portugal submeteu, a 26 de maio de 2023, a atualização do PRR, através de um pedido único que contempla para além da referida atualização, um montante adicional de 3,2 mil milhões de euros em empréstimos, para aumentar a ambição do PRR aprovado em 2021 e fazer face ao agravamento de custos nas medidas já previstas, bem como as subvenções correspondentes ao REPowerEU, tendo sido aprovada em outubro 2023, e atualmente em implementação sendo que, com este pedido de fundos adicionais, a dotação total do PRR passa para 22,2 mil milhões de euros.
+De referir que os investimentos financiados pelo PRR têm de garantir o cumprimento de uma série de critérios para demonstrar que os mesmos são sustentáveis do ponto de vista ambiental, e onde se inclui o princípio «Do No Significant Harm (DNSH)»5. Após aprovação do plano inicial, Portugal submeteu, a 26 de maio de 2023, a atualização do PRR, através de um pedido único que contempla para além da referida atualização, um montante adicional de 3,2 mil milhões de euros em empréstimos, para aumentar a ambição do PRR aprovado em 2021 e fazer face ao agravamento de custos nas medidas já previstas, bem como as subvenções correspondentes ao REPowerEU, tendo sido aprovada em outubro 2023, e atualmente em implementação sendo que, com este pedido de fundos adicionais, a dotação total do PRR passa para 22,2 mil milhões de euros.
 
 A eficiência energética afigura-se crucial para a descarbonização da sociedade e como resposta à necessidade de uma economia competitiva e de um sistema energético resiliente, seguro e autossuficiente. Neste contexto, Portugal compromete-se com o princípio da «Prioridade à Eficiência Energética» nas decisões sobre projetos de investimento no setor energético, numa lógica de sustentabilidade e custo-eficácia. Esta lógica tem sido também vertida nos incentivos disponibilizados aos setores doméstico, de serviços, e industrial, por via do Fundo Ambiental ou do Plano de Recuperação e Resiliência. A renovação energética do parque nacional de edifícios existentes e a descarbonização dos seus consumos de energia, nomeadamente através da eletrificação, configuram-se como medidas fundamentais para o cumprimento dos objetivos nacionais em matéria de energia e clima, assim como para o cumprimento de outros objetivos estratégicos, como o combate à pobreza energética e o apoio aos consumidores vulneráveis, em linha com o objetivo de garantir uma transição justa e coesa.
 
@@ -479,7 +1022,7 @@ Foi já regulamentada a injeção de gases renováveis na rede nacional de gás 
 
 Em concreto, estão propostas várias instalações de unidades industriais em Portugal, sendo de destacar a Zona Industrial e Logística de Sines (ZILS) para a produção de hidrogénio renovável (para utilização na indústria do aço verde e para a produção de amoníaco e metanol renovável, entre outros), alimentados por energia solar, eólica e da rede elétrica com garantias de origem e alicerçada em parcerias estratégicas, nacionais e com outros EM da UE, que conferirá uma dimensão europeia ao projeto como forma de assegurar financiamento comunitário e encontrar parceiros para o consórcio.
 
-Este projeto integrado na ZILS à escala industrial para a produção de H<sub>2</sub> verde está focado em alavancar a energia solar enquanto fator de competitividade (o custo da eletricidade representa a maior fatia do custo de produção e Portugal apresenta uma enorme vantagem competitiva face aos restantes países porque apresenta custos de produção de eletricidade mais baixos), na transformação industrial e na oportunidade para aumentar as exportações (de hidrogénio renovável e produtos derivados). Portugal apresenta condições muito favoráveis para a instalação de uma indústria desta natureza, nomeadamente em Sines face às múltiplas vantagens que apresenta - localização estratégica na costa atlântica portuguesa, disponibilidade de um porto de águas profundas, infraestruturas de transporte, armazenamento e ligação à rede de transporte de gás, bem como dispõe de uma zona industrial com consumidores atuais e futuros de hidrogénio, e disponibilidade de terrenos.
+Este projeto integrado na ZILS à escala industrial para a produção de H2 verde está focado em alavancar a energia solar enquanto fator de competitividade (o custo da eletricidade representa a maior fatia do custo de produção e Portugal apresenta uma enorme vantagem competitiva face aos restantes países porque apresenta custos de produção de eletricidade mais baixos), na transformação industrial e na oportunidade para aumentar as exportações (de hidrogénio renovável e produtos derivados). Portugal apresenta condições muito favoráveis para a instalação de uma indústria desta natureza, nomeadamente em Sines face às múltiplas vantagens que apresenta - localização estratégica na costa atlântica portuguesa, disponibilidade de um porto de águas profundas, infraestruturas de transporte, armazenamento e ligação à rede de transporte de gás, bem como dispõe de uma zona industrial com consumidores atuais e futuros de hidrogénio, e disponibilidade de terrenos.
 
 O setor industrial terá um papel de extrema importância, residindo neste um dos principais polos de necessidade de inovação. Embora se antecipe uma descarbonização a um ritmo menos acelerado, este é um setor muito sensibilizado para as questões de eficiência de recursos, eficiência energética, e competitividade e inovação. Estão em curso diversos roteiros setoriais para uma indústria mais descarbonizada, em que a aposta na economia circular e na bioeconomia, através, designadamente, de simbioses industriais e reaproveitamento de recursos, bem como de novos modelos de negócio determinados pela prestação de serviços, em detrimento da venda de bens, é uma mais-valia no horizonte 2030.
 
@@ -503,19 +1046,19 @@ Por fim, o setor dos resíduos e águas residuais, com expressão relativa no c�
 
 Pela sua importância relativa, destacam-se as emissões associadas à deposição de resíduos em aterros e o tratamento de águas residuais urbanas que merecem uma análise prioritária e que em 2020 representaram em conjunto mais de 95 % das emissões do setor, respetivamente, 73 % e 23 %.
 
-Face às caraterísticas próprias das emissões relativas à deposição de resíduos em aterro, o esforço de redução consequente depende sobretudo da celeridade com que se verificar uma redução dos quantitativos de biorresíduos depositados em aterro. De acordo a Diretiva Aterros<sup>6</sup>, no ano de 2035, apenas poderão ser depositados em aterro um máximo de 10 % dos resíduos urbanos produzidos.
+Face às caraterísticas próprias das emissões relativas à deposição de resíduos em aterro, o esforço de redução consequente depende sobretudo da celeridade com que se verificar uma redução dos quantitativos de biorresíduos depositados em aterro. De acordo a Diretiva Aterros6, no ano de 2035, apenas poderão ser depositados em aterro um máximo de 10 % dos resíduos urbanos produzidos.
 
-O objetivo de redução da deposição de biorresíduos em aterro será também alcançado pela adoção de estratégias de implementação de circuitos específicos de recolha seletiva de resíduos orgânicos e na aposta em novas infraestruturas de tratamento biológico de biorresíduos. Sempre que possível estes sistemas contribuirão para o aproveitamento energético de biogás gerado, na concretização das políticas de promoção da utilização de biometano<sup>7</sup>.
+O objetivo de redução da deposição de biorresíduos em aterro será também alcançado pela adoção de estratégias de implementação de circuitos específicos de recolha seletiva de resíduos orgânicos e na aposta em novas infraestruturas de tratamento biológico de biorresíduos. Sempre que possível estes sistemas contribuirão para o aproveitamento energético de biogás gerado, na concretização das políticas de promoção da utilização de biometano7.
 
 As emissões de GEE associadas ao tratamento biológico de resíduos são praticamente marginais quando comparadas com as emissões dos aterros, pelo que todo o esforço no sentido de reorientar os biorresíduos da deposição em aterro para sistemas de compostagem ou de digestão anaeróbia serão altamente eficazes do ponto de vista do esforço de descarbonização da atividade. E serão tanto mais rápidos a produzir efeitos quão mais rapidamente se consiga limitar fortemente a utilização dos aterros como destino final de resíduos de recolha indiferenciada.
 
-Finalmente, a utilização da incineração de resíduos urbanos, com a respetiva valorização energética através da produção de energia elétrica, constituirá sempre um meio complementar no sistema de gestão de resíduos urbanos, tendendo a aumentar marginalmente as emissões de CO<sub>2</sub> respetivas à medida que a fração de carbono orgânico nos resíduos a serem incinerados for reduzindo, de acordo com a política de recolha seletiva de biorresíduos e tratamento biológico consequente.
+Finalmente, a utilização da incineração de resíduos urbanos, com a respetiva valorização energética através da produção de energia elétrica, constituirá sempre um meio complementar no sistema de gestão de resíduos urbanos, tendendo a aumentar marginalmente as emissões de CO2 respetivas à medida que a fração de carbono orgânico nos resíduos a serem incinerados for reduzindo, de acordo com a política de recolha seletiva de biorresíduos e tratamento biológico consequente.
 
 Haverá assim uma mudança de paradigma, que abarcará a necessidade de maior prevenção, evitando a produção de resíduos e a sua perigosidade, e, quando tal não for possível, a aposta na reciclagem e na valorização de resíduos, numa economia mais circular e com menos desperdício.
 
 No que se refere ao setor das águas residuais, a obrigatoriedade de tratamento secundário/terciário, prevista para a generalidade dos sistemas centralizados, tenderá a aumentar as emissões de GEE por esta via, se a operação dos processos de tratamento não estiver otimizada. Trata-se de um exemplo em que as políticas ambientais relativas à qualidade das águas, podem, em teoria, entrar em conflito com as políticas de redução de emissões de GEE.
 
-Considerando a dificuldade intrínseca à redução significativa ao longo do tempo das cargas orgânicas e de azoto nas águas residuais urbanas, o esforço de redução de emissões neste setor concentra-se no aumento quer da acessibilidade física aos sistemas de saneamento público, por via dos investimentos previstos para o alargamento da abrangência das redes de coletores de águas residuais urbanas, quer da adesão ao serviço de saneamento de águas residuais por rede fixa em baixa<sup>8</sup>. A redução na utilização de sistemas individuais, do tipo fossa séptica, terá como reflexo, não só na melhoria da qualidade do ambiente local, como uma contenção ao nível das emissões nacionais de GEE. A médio prazo (pós-2030), a consideração de sistemas de controlo das emissões de N<sub>2</sub>O em sistemas aeróbios, a par da utilização de métodos mais fiáveis de monitorização das respetivas emissões, poderá ser uma via para a redução adicional de emissões.
+Considerando a dificuldade intrínseca à redução significativa ao longo do tempo das cargas orgânicas e de azoto nas águas residuais urbanas, o esforço de redução de emissões neste setor concentra-se no aumento quer da acessibilidade física aos sistemas de saneamento público, por via dos investimentos previstos para o alargamento da abrangência das redes de coletores de águas residuais urbanas, quer da adesão ao serviço de saneamento de águas residuais por rede fixa em baixa8. A redução na utilização de sistemas individuais, do tipo fossa séptica, terá como reflexo, não só na melhoria da qualidade do ambiente local, como uma contenção ao nível das emissões nacionais de GEE. A médio prazo (pós-2030), a consideração de sistemas de controlo das emissões de N2O em sistemas aeróbios, a par da utilização de métodos mais fiáveis de monitorização das respetivas emissões, poderá ser uma via para a redução adicional de emissões.
 
 O movimento no sentido da produção e utilização de águas para reutilização (ApR), a partir de águas residuais urbanas tratadas para rega, para além do potencial de redução dos consumos de água num ambiente de crescente escassez, acaba por mostrar igualmente potencial em termos de redução das emissões de GEE, evitando as emissões indiretas por descargas nos meios hídricos naturais.
 
@@ -583,34 +1126,40 @@ Portugal apresenta fortes argumentos para continuar a estar na vanguarda da tran
 
 Tabela 2 - Metas nacionais de Portugal para o horizonte 2030
 
-| Metas nacionais | Emissões (sem LULUCF; em relação a 2005) | Eficiência energética (redução em energia primária e meta de consumo) | Eficiência energética (meta de consumo de energia final) <sup>9</sup> | Renováveis (no consumo final bruto de energia) | Renováveis nos transportes | Interligações elétricas |
+| Metas nacionais | Emissões (sem LULUCF; em relação a 2005) | Eficiência energética (redução em energia primária e meta de consumo) | Eficiência energética (meta de consumo de energia final) 9 | Renováveis (no consumo final bruto de energia) | Renováveis nos transportes | Interligações elétricas |
 | --- | --- | --- | --- | --- | --- | --- |
 | PNEC 2030 | -45 % a -55 % | 35 % | - | 47 % | 20 % | 15 % |
-| Revisão | -55 % | 16 711 ktep<sup>10</sup> | 14 371 ktep | 51 % | 29 % | 15 % |
+| Revisão | -55 % | 16 711 ktep10 | 14 371 ktep | 51 % | 29 % | 15 % |
 
-Figura 4 - Evolução das emissões totais de CO<sub>2</sub> no horizonte 2030 (Mton CO<sub>2</sub>)
+Figura 4 - Evolução das emissões totais de CO2 no horizonte 2030 (Mton CO2)
 
-![](https://files.diariodarepublica.pt/images/914597185/914561563.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561563.png) |
+| --- |
 
 Figura 5 - Evolução do consumo de Energia Primária - meta EE (Mtep)*
 
-![](https://files.diariodarepublica.pt/images/914597185/914561564.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561564.png) |
+| --- |
 
 Figura 6 - Evolução do contributo das renováveis no consumo final de energia
 
-![](https://files.diariodarepublica.pt/images/914597185/914561565.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561565.png) |
+| --- |
 
 Figura 7 - Evolução do consumo de Energia Final (Mtep)
 
-![](https://files.diariodarepublica.pt/images/914597185/914561566.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561566.png) |
+| --- |
 
 Figura 8 - Evolução do contributo das renováveis nos transportes
 
-![](https://files.diariodarepublica.pt/images/914597185/914561567.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561567.png) |
+| --- |
 
 Figura 9 - Evolução da capacidade de interligação PT-ES
 
-![](https://files.diariodarepublica.pt/images/914597185/914561568.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561568.png) |
+| --- |
 
 • Consumo interno bruto de energia, excluindo bunkers marítimos internacionais e bombas de calor
 
@@ -620,34 +1169,37 @@ Em linha com a visão estratégica definida para as cinco dimensões da União d
 
 Tabela 3 - Metas e contributo nacional para as metas da União
 
-| Metas 2030 | PNEC 2030 | Revisão PNEC 2030 |
+| Metas 2030 | Contributo nacional para as metas da União |  |
 | --- | --- | --- |
-| Metas 2030 | Contributo nacional para as metas da União | Contributo nacional para as metas da União |
-| Redução de emissões de CO<sub>2eq</sub> (sem LULUCF) (Mt CO<sub>2eq</sub>), face a 2005 | -17 % | -28,7 % |
+| PNEC 2030 | Revisão PNEC 2030 |  |
+| Redução de emissões de CO2eq (sem LULUCF) (Mt CO2eq), face a 2005 | -17 % | -28,7 % |
 | Reforçar o peso das Energias Renováveis | 47 % | 51 % |
-| Eficiência Energética (Consumo de Energia Primária) | 35 %<sup>11</sup> | 16 711 ktep<sup>12</sup> |
-| Eficiência Energética (Consumo de Energia Final) | - | 14 371 ktep<sup>1</sup><sup>3</sup> |
+| Eficiência Energética (Consumo de Energia Primária) | 35 %11 | 16 711 ktep12 |
+| Eficiência Energética (Consumo de Energia Final) | - | 14 371 ktep13 |
 | Interligações Elétricas | 15 % | 15 % |
 
 Para dar corpo à visão estratégica de Portugal e garantir o cumprimento das metas e dos objetivos definidos para o horizonte 2030, foram definidos oito objetivos estratégicos nacionais numa lógica de integração de energia e clima. A prossecução destes objetivos estratégicos, que se encontram interligados, contribuirá para a neutralidade carbónica.
 
 Figura 10 - Objetivos nacionais para o horizonte 2030
 
-![](https://files.diariodarepublica.pt/images/914597185/914561569.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561569.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/914597185/914561570.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561570.png) |
+| --- |
 
 Estes oito objetivos estratégicos nacionais definidos para o horizonte 2030 concorrem positivamente para a concretização da estratégia das cinco dimensões do PNEC, sendo que cada objetivo pode contribuir para mais do que uma dimensão, de acordo com a matriz que se apresenta de seguida.
 
 Figura 11 - Relação entre os objetivos estratégicos nacionais e as dimensões do PNEC
 
-![](https://files.diariodarepublica.pt/images/914597185/914561571.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561571.png) |
+| --- |
 
 1.2 - Panorama da atual situação política
 
 1.2.1 - Sistema energético nacional e da UE e contexto político do plano nacional
 
-O Acordo de Paris alcançado em 2015 estabeleceu objetivos de longo prazo de contenção do aumento da temperatura mundial bem abaixo dos 2<sup>o</sup>C em relação aos níveis pré-industriais, com o compromisso por parte da comunidade internacional de prosseguir todos os esforços para limitar esse aumento a 1,5<sup>o</sup>C, valores que a ciência define como máximos para se garantir a continuação da vida no planeta sem alterações demasiado disruptivas. Estabeleceu ainda objetivos de aumento da capacidade de adaptação aos impactos adversos das alterações climáticas e de mobilização de fluxos financeiros consistentes com trajetórias de baixas emissões e desenvolvimento resiliente.
+O Acordo de Paris alcançado em 2015 estabeleceu objetivos de longo prazo de contenção do aumento da temperatura mundial bem abaixo dos 2oC em relação aos níveis pré-industriais, com o compromisso por parte da comunidade internacional de prosseguir todos os esforços para limitar esse aumento a 1,5oC, valores que a ciência define como máximos para se garantir a continuação da vida no planeta sem alterações demasiado disruptivas. Estabeleceu ainda objetivos de aumento da capacidade de adaptação aos impactos adversos das alterações climáticas e de mobilização de fluxos financeiros consistentes com trajetórias de baixas emissões e desenvolvimento resiliente.
 
 Este Acordo representa assim uma mudança de paradigma na implementação da Convenção Quadro das Nações Unidas para as Alterações Climáticas (CQNUAC), com o reconhecimento explícito de que apenas com o contributo de todos é possível ultrapassar o desafio das alterações climáticas e tem como principais compromissos atingir um balanço a nível global entre emissões e remoções antropogénicas na segunda metade do século, preparar e comunicar de forma sucessiva as Contribuições Determinadas a nível Nacional para o esforço global de redução de emissões, que devem ser sucessivamente mais ambiciosas, e preparar e comunicar Estratégias de Longo Prazo para a redução de emissões.
 
@@ -671,7 +1223,7 @@ O pacote de propostas legislativas «Fit-for-55» (COM(2021) 550 final), apresen
 
 • Criação de um Fundo Social para a Ação Climática (FSAC);
 
-• Revisão do Regulamento que estabelece normas de desempenho em matéria de emissões de CO<sub>2</sub> para automóveis novos de passageiros e veículos comerciais ligeiros;
+• Revisão do Regulamento que estabelece normas de desempenho em matéria de emissões de CO2 para automóveis novos de passageiros e veículos comerciais ligeiros;
 
 • Revisão da Diretiva relativa à criação de Infraestruturas para Combustíveis Alternativos (AFIR), que deu origem à sua revogação e à criação de um Regulamento;
 
@@ -687,25 +1239,25 @@ O pacote de propostas legislativas «Fit-for-55» (COM(2021) 550 final), apresen
 
 Para materializar essa maior aspiração da União foram ainda adotadas outras estratégias europeias em matéria de energia e clima, como é o caso:
 
-• Estratégia para a integração do sistema (COM(2020) 2999 final)<sup>14</sup>;
+• Estratégia para a integração do sistema (COM(2020) 2999 final)14;
 
-• Estratégia para o hidrogénio (COM(2020) 301 final)<sup>15</sup>;
+• Estratégia para o hidrogénio (COM(2020) 301 final)15;
 
-• Estratégia para a energia de fontes renováveis offshore (COM(2020) 741 final)<sup>16</sup>;
+• Estratégia para a energia de fontes renováveis offshore (COM(2020) 741 final)16;
 
-• Estratégia para a energia solar renovável (COM(2022) 221 final)<sup>17</sup>;
+• Estratégia para a energia solar renovável (COM(2022) 221 final)17;
 
-• Estratégia para a adaptação às alterações climáticas (COM (2021) 82 final)<sup>18</sup>;
+• Estratégia para a adaptação às alterações climáticas (COM (2021) 82 final)18;
 
-• Estratégia para os ciclos do carbono sustentáveis (COM(2021) 800 final)<sup>19</sup>;
+• Estratégia para os ciclos do carbono sustentáveis (COM(2021) 800 final)19;
 
-• Plano de ação da UE para a digitalização do sistema energético (COM(2022) 552 final)<sup>20</sup>;
+• Plano de ação da UE para a digitalização do sistema energético (COM(2022) 552 final)20;
 
 • Plano de ação para a energia eólica (COM(2023) 669 final);
 
 • Resolução do Parlamento Europeu, de 18 de janeiro de 2024, sobre a energia geotérmica (2023/2111(INI)).
 
-Entretanto e desde a publicação do pacote «Fit for 55», a Comissão Europeia apresentou novas propostas legislativas destinadas a acelerar a redução de emissões de GEE, incluindo a proposta de revisão do Regulamento (UE) [2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) que estabelece normas de emissão de CO<sub>2</sub> para veículos pesados, ou o Regulamento (UE) [2024/1787](https://data.europa.eu/eli/reg/2024/1787/oj?locale=pt), que altera o Regulamento (UE) [2019/942](https://data.europa.eu/eli/reg/2019/942/oj?locale=pt), relativo à redução das emissões de Metano no setor da energia que visa melhorar o rigor das informações sobre as principais fontes de emissões de metano associadas à energia produzida e consumida na EU, assegurar uma redução mais efetiva das emissões de metano em toda a cadeia de abastecimento energético na EU e melhorar a disponibilidade de informações com vista ao incentivo à redução das emissões de metano relacionadas com a energia de origem fóssil importada para a UE.
+Entretanto e desde a publicação do pacote «Fit for 55», a Comissão Europeia apresentou novas propostas legislativas destinadas a acelerar a redução de emissões de GEE, incluindo a proposta de revisão do Regulamento (UE) [2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) que estabelece normas de emissão de CO2 para veículos pesados, ou o Regulamento (UE) [2024/1787](https://data.europa.eu/eli/reg/2024/1787/oj?locale=pt), que altera o Regulamento (UE) [2019/942](https://data.europa.eu/eli/reg/2019/942/oj?locale=pt), relativo à redução das emissões de Metano no setor da energia que visa melhorar o rigor das informações sobre as principais fontes de emissões de metano associadas à energia produzida e consumida na EU, assegurar uma redução mais efetiva das emissões de metano em toda a cadeia de abastecimento energético na EU e melhorar a disponibilidade de informações com vista ao incentivo à redução das emissões de metano relacionadas com a energia de origem fóssil importada para a UE.
 
 Mais recentemente, e além da avaliação sobre a meta climática 2040 (COM(2024) 63 final), recomendando uma redução de 90 % das emissões de GEE até 2040, a Comissão Europeia, publicou uma comunicação (COM(2024) 62 final), também em fevereiro de 2024, relativa à estratégia de gestão industrial do dióxido de carbono, com vista a promover o desenvolvimento de um mercado de carbono, através de captura, utilização e armazenamento geológico de carbono (CCUS) e criação de infraestruturas de transporte de dióxido de carbono, ao nível da UE.
 
@@ -747,7 +1299,7 @@ No contexto da Agenda 2030 para o desenvolvimento sustentável, Portugal identif
 
 A nível nacional, o Governo Português comprometeu-se em 2016 a assegurar a neutralidade das suas emissões até ao final de 2050, traçando uma visão clara relativamente à descarbonização profunda da economia nacional, enquanto contributo para o Acordo de Paris e em consonância com os esforços internacionais em curso. Visando concretizar este desígnio, foi desenvolvido e aprovado o Roteiro para a Neutralidade Carbónica 2050 (RNC2050), que constituiu a Estratégia de desenvolvimento a longo prazo com baixas emissões de gases com efeito de estufa submetida à CQNUAC, a 20 de setembro de 2019. O RNC2050 identifica os principais vetores de descarbonização e linhas de atuação a prosseguir rumo a uma sociedade neutra em carbono em 2050.
 
-De acordo com o RNC 2050, para atingir a neutralidade climática em 2050 é necessário reduzir as emissões de GEE em 90 % em relação a 2005 e atingir níveis de sequestro de carbono entre 9 e 13 milhões de toneladas de CO<sub>2</sub> em 2050. Atingir a neutralidade climática em 2050 implica a total descarbonização do sistema eletroprodutor e da mobilidade urbana, alterações profundas na forma como utilizamos a energia e os recursos, a aposta em modelos circulares, a par da potenciação da capacidade de sequestro de carbono pelas florestas e por outros usos do solo.
+De acordo com o RNC 2050, para atingir a neutralidade climática em 2050 é necessário reduzir as emissões de GEE em 90 % em relação a 2005 e atingir níveis de sequestro de carbono entre 9 e 13 milhões de toneladas de CO2 em 2050. Atingir a neutralidade climática em 2050 implica a total descarbonização do sistema eletroprodutor e da mobilidade urbana, alterações profundas na forma como utilizamos a energia e os recursos, a aposta em modelos circulares, a par da potenciação da capacidade de sequestro de carbono pelas florestas e por outros usos do solo.
 
 Em linha com o relatório especial do IPCC sobre o 1,5°C e com os objetivos do Acordo de Paris, conclui-se também no contexto do RNC 2050 que é na década de 2021-2030 que deverá verificar-se uma redução de emissões mais significativa.
 
@@ -1119,9 +1671,10 @@ O modelo implementado visa garantir o compromisso político no longo prazo, dado
 
 Figura 12 - Panorama geral da estrutura de governação
 
-![](https://files.diariodarepublica.pt/images/914597185/914561572.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561572.png) |
+| --- |
 
-A coordenação política do PNEC cabe à CAC<sup>21</sup>, enquanto estrutura de promoção e tomada de decisão ao nível político. A CAC é responsável pela promoção, supervisão e acompanhamento do PNEC. No contexto da coordenação política do PNEC, deve ser assegurada uma articulação próxima com outras comissões interministeriais, dada a relevância do tema em matéria de política europeia de desenvolvimento e financiamento, bem como para o cumprimento dos compromissos nacionais como os ODS.
+A coordenação política do PNEC cabe à CAC21, enquanto estrutura de promoção e tomada de decisão ao nível político. A CAC é responsável pela promoção, supervisão e acompanhamento do PNEC. No contexto da coordenação política do PNEC, deve ser assegurada uma articulação próxima com outras comissões interministeriais, dada a relevância do tema em matéria de política europeia de desenvolvimento e financiamento, bem como para o cumprimento dos compromissos nacionais como os ODS.
 
 A coordenação técnica do PNEC cabe ao Grupo de Coordenação, visa coordenar e promover a elaboração e revisão do PNEC, garantir a articulação do contributo nacional para efeitos de cumprimento dos compromissos estabelecidos no âmbito do Regulamento da Governação da União da Energia e Ação Climática, e facilitar a execução das orientações de política constantes do PNEC. Este grupo de coordenação do PNEC é cocoordenado pela Agência Portuguesa do Ambiente, I. P. e pela Direção-Geral de Energia e Geologia.
 
@@ -1227,7 +1780,7 @@ No âmbito do Regulamento (UE) [2023/857](https://data.europa.eu/eli/reg/2023/85
 
 Neste contexto, foram revistos os contributos nacionais para a meta da União, cabendo a Portugal limitar até 2030 as suas emissões de GEE em, pelo menos, -28,7 % relativamente às suas emissões em 2005, substituindo a meta de -17 % em vigor até então. Portugal comprometeu-se assim com uma meta significativamente mais ambiciosa a nível comunitário nos setores não-CELE.
 
-Tabela 4 - Meta de redução de emissões de CO<sub>2eq</sub> do setor não-CELE (s\ LULUCF) face a 2005
+Tabela 4 - Meta de redução de emissões de CO2eq do setor não-CELE (s\ LULUCF) face a 2005
 
 |  | 2020 | 2030(meta anterior) | 2030(meta revista) |
 | --- | --- | --- | --- |
@@ -1237,7 +1790,7 @@ Por forma a cumprir com a nova meta prevista para 2030, os limites anuais de emi
 
 Assim, para o período entre 2021 e 2025, não obstante as flexibilidades previstas no Regulamento de Partilha de Esforços, que também foram ajustadas pelo novo Regulamento, de que Portugal fará uso caso necessário, Portugal deverá assegurar que as suas emissões de GEE anuais não excedem o limite definido pela trajetória linear apresentada na Tabela 5.
 
-Tabela 5 - Limite de emissões para Portugal nos setores não-CELE (Mt), estabelecidas pelo Regulamento Partilha de Esforços em relação a 2005<sup>22</sup>
+Tabela 5 - Limite de emissões para Portugal nos setores não-CELE (Mt), estabelecidas pelo Regulamento Partilha de Esforços em relação a 200522
 
 |  | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1253,36 +1806,36 @@ No âmbito do [Regulamento (UE) 2023/839](https://data.europa.eu/eli/reg/2023/83
 
 Esta alteração resulta do pacote «FIT-for-55», e pretende acompanhar o reforço de ambição e contribuir para alcançar a nova meta de 55 % de redução das emissões líquidas de GEE, em relação aos níveis de 1990, e garantir que o setor LULUCF dá um contributo sustentável e previsível a longo prazo para o objetivo de neutralidade climática.
 
-As regras estipuladas no novo Regulamento serão aplicadas em duas fases, sendo que durante a primeira fase, que decorre até 2025, é mantido o sistema que está atualmente em vigor, através do qual deverão os EM assegurar que as emissões resultantes do setor LULUCF não ultrapassam as remoções do referido setor (regra conhecida como «no debit rule»). Na segunda fase, que decorre entre 2026 e 2030, deverão ser cumpridas as novas metas estipuladas para 2030 para cada EM, por forma a cumprir o aumento de ambição e contribuir para a meta específica da UE de remoções líquidas de GEE de, pelo menos, 310 milhões de tCO<sub>2eq</sub> até 2030.
+As regras estipuladas no novo Regulamento serão aplicadas em duas fases, sendo que durante a primeira fase, que decorre até 2025, é mantido o sistema que está atualmente em vigor, através do qual deverão os EM assegurar que as emissões resultantes do setor LULUCF não ultrapassam as remoções do referido setor (regra conhecida como «no debit rule»). Na segunda fase, que decorre entre 2026 e 2030, deverão ser cumpridas as novas metas estipuladas para 2030 para cada EM, por forma a cumprir o aumento de ambição e contribuir para a meta específica da UE de remoções líquidas de GEE de, pelo menos, 310 milhões de tCO2eq até 2030.
 
-Assim, e com base neste novo Regulamento, em linha com o reforço da meta da UE, cabe a Portugal assegurar que a soma das emissões e remoções de GEE no setor LULUCF atingidas em 2030, não são superiores ao resultado da média de emissões líquidas dos anos de 2016, 2017 e 2018, reportadas em 2032, subtraídas do valor de 968 kt CO<sub>2</sub>eq.
+Assim, e com base neste novo Regulamento, em linha com o reforço da meta da UE, cabe a Portugal assegurar que a soma das emissões e remoções de GEE no setor LULUCF atingidas em 2030, não são superiores ao resultado da média de emissões líquidas dos anos de 2016, 2017 e 2018, reportadas em 2032, subtraídas do valor de 968 kt CO2eq.
 
 Adicionalmente, Portugal e os restantes EM, ficam também comprometidos a alcançar uma determinada quantidade de emissões e remoções líquidas de GEE para o período 2026-2029 («orçamento 2026-2029»), nos termos do ponto 4 do artigo 4.º do suprarreferido Regulamento.
 
 Para o efeito, e antecipando alguma dificuldade em atingir a exigente meta estabelecida, Portugal considera recorrer às flexibilidades disponíveis para apoio ao cumprimento desta meta, conforme previsto nos artigos 12.º, 13.º, 13.º-A e 13.º-B do suprarreferido Regulamento. Esta situação será devidamente acompanhada ao longo do período 2021-2030, em consonância com a evolução das emissões e remoções de GEE resultantes do setor LULUCF.
 
-O Regulamento LULUCF também estabelece as regras para a contabilização das emissões e remoções do setor LULUCF e para a avaliação do cumprimento dos compromissos por parte dos EM, definindo que a contabilização das emissões e remoções resultantes de terrenos florestais geridos deve ser calculada como as emissões e remoções nos períodos de 2021 a 2025 menos o valor que se obtém ao multiplicar por cinco o «nível de referência florestal» (FRL). O FRL representa uma estimativa, expressa em toneladas de equivalente CO<sub>2</sub> por ano, das emissões líquidas médias anuais e é calculado e apresentado por cada EM no Plano Nacional de Contabilidade Florestal para o subperíodo 2021-2025.
+O Regulamento LULUCF também estabelece as regras para a contabilização das emissões e remoções do setor LULUCF e para a avaliação do cumprimento dos compromissos por parte dos EM, definindo que a contabilização das emissões e remoções resultantes de terrenos florestais geridos deve ser calculada como as emissões e remoções nos períodos de 2021 a 2025 menos o valor que se obtém ao multiplicar por cinco o «nível de referência florestal» (FRL). O FRL representa uma estimativa, expressa em toneladas de equivalente CO2 por ano, das emissões líquidas médias anuais e é calculado e apresentado por cada EM no Plano Nacional de Contabilidade Florestal para o subperíodo 2021-2025.
 
 Dando resposta à obrigação do artigo 8.º do Regulamento LULUCF, Portugal elaborou o seu Plano Nacional de Contabilidade Florestal, disponível no Portal da APA, que inclui a proposta de um «Nível de Referência Florestal» a utilizar para efeitos de contabilização das florestas geridas em Portugal no período 2021-2025.
 
-Com base nas metodologias, dados e pressupostos explanados na secção 3 «Descrição do nível de referência florestal» do referido Plano, o nível de referência florestal foi estimado em 11 165 GgCO<sub>2eq</sub>.ano<sup>-1</sup> (incluindo a contribuição dos produtos florestais segundo a «abordagem da produção») ou em 10 556 GgCO<sub>2eq</sub>.ano<sup>-1</sup> (incluindo a contribuição de produtos florestais segundo a «abordagem de oxidação instantânea»).
+Com base nas metodologias, dados e pressupostos explanados na secção 3 «Descrição do nível de referência florestal» do referido Plano, o nível de referência florestal foi estimado em 11 165 GgCO2eq.ano-1 (incluindo a contribuição dos produtos florestais segundo a «abordagem da produção») ou em 10 556 GgCO2eq.ano-1 (incluindo a contribuição de produtos florestais segundo a «abordagem de oxidação instantânea»).
 
-Em termos de projeções de evolução do sequestro no setor LULUCF, com base no atual exercício de modelação estima-se que seja possível atingir um valor de sequestro de 6 535 tCO<sub>2</sub> em 2030. Apesar de se prever uma diminuição da área ardida, a redução de volume de corte ou a necessidade de aumento da área florestal, incluindo por via do Mercado Voluntário de Carbono, importa referir que os valores de sumidouro obtidos refletem também a mais recente revisão metodológica do inventário nacional de emissões, que estimou em baixa a capacidade de sumidouro atual do setor LULUCF face aos valores considerados no contexto do RNC2050. Esta revisão, por sua vez, reflete os resultados do último Inventário Nacional Florestal (IFN).
+Em termos de projeções de evolução do sequestro no setor LULUCF, com base no atual exercício de modelação estima-se que seja possível atingir um valor de sequestro de 6 535 tCO2 em 2030. Apesar de se prever uma diminuição da área ardida, a redução de volume de corte ou a necessidade de aumento da área florestal, incluindo por via do Mercado Voluntário de Carbono, importa referir que os valores de sumidouro obtidos refletem também a mais recente revisão metodológica do inventário nacional de emissões, que estimou em baixa a capacidade de sumidouro atual do setor LULUCF face aos valores considerados no contexto do RNC2050. Esta revisão, por sua vez, reflete os resultados do último Inventário Nacional Florestal (IFN).
 
 A capacidade de sequestro pós-2030 continuará a ser analisada no contexto da revisão em curso do RNC2050, tendo em consideração que é numa perspetiva de longo prazo e de neutralidade que este setor ganha maior relevo.
 
-Tabela 6 - Projeção de emissões de GEE no setor LULUCF - Cenário políticas adicionais (kt CO<sub>2eq</sub>)
+Tabela 6 - Projeção de emissões de GEE no setor LULUCF - Cenário políticas adicionais (kt CO2eq)
 
-|  | 2020 | 2022 | 2030 |
-| --- | --- | --- | --- |
 |  |  |  | Cenário políticas adicionais |
+| --- | --- | --- | --- |
+|  | 2020 | 2022 | 2030 |
 | LULUCF (4) | -4 707 | -5 925 | -6 535 |
 
 iii) Outros objetivos e metas nacionais coerentes com o Acordo de Paris e as estratégias de longo prazo existentes. Outros objetivos e metas que contribuem para o compromisso global da União de reduzir as emissões de GEE, incluindo metas setoriais e objetivos de adaptação
 
 Alcançar a neutralidade carbónica em 2050 implica uma redução de emissões significativa, assente numa trajetória de redução de -55 % em 2030, -65 % a -75 % em 2040 e -90 % em 2050, face aos níveis de 2005, e representa um desafio de transformação da sociedade, em particular no que diz respeito aos padrões de produção e consumo, à relação com a produção e utilização de energia, à forma como se pensam as cidades e os espaços de habitação, trabalho e lazer, à forma como nos deslocamos e como se pensam as necessidades de mobilidade. Assim, para o horizonte do presente Plano, importam as seguintes metas nacionais:
 
-Tabela 7 - Meta nacional de redução de emissões de CO<sub>2eq</sub> (sem LULUCF) face a 2005
+Tabela 7 - Meta nacional de redução de emissões de CO2eq (sem LULUCF) face a 2005
 
 | Outras metas nacionais | 2030 | 2040 | 2050 |
 | --- | --- | --- | --- |
@@ -1293,13 +1846,14 @@ Contudo, e atento o recente compromisso de atingir a neutralidade climática em 
 
 A figura seguinte ilustra a trajetória de redução das emissões totais de GEE para o horizonte 2030 atenta a meta de redução de emissões de GEE de 55 %.
 
-Figura 13 - Evolução das emissões de GEE e metas de redução estabelecidas no horizonte 2030 (Mt CO<sub>2eq</sub>)
+Figura 13 - Evolução das emissões de GEE e metas de redução estabelecidas no horizonte 2030 (Mt CO2eq)
 
-![](https://files.diariodarepublica.pt/images/914597185/914561573.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561573.png) |
+| --- |
 
 Apesar da trajetória de descarbonização nacional que se verifica praticamente desde o início do século, será ainda necessário um esforço muito significativo para atingir a meta estipulada para 2030, pelo que será necessário assegurar que os demais setores de atividade contribuam para este objetivo. Neste sentido, todos os setores possuem potencial para reduzir emissões, embora este não seja igual para todos os setores, estando em grande medida dependente do grau de maturidade das tecnologias e da relação custo-eficácia. Assim, prevê-se que na presente década, o processo de descarbonização seja mais acentuado na produção de eletricidade, nos transportes e nos edifícios. A nível setorial foram definidas as seguintes metas nacionais para o horizonte 2030 (setores não-CELE):
 
-Tabela 8 - Metas nacionais setoriais de redução de emissões de CO<sub>2eq</sub> face a 2005
+Tabela 8 - Metas nacionais setoriais de redução de emissões de CO2eq face a 2005
 
 |  | 2020 | 2030 |
 | --- | --- | --- |
@@ -1311,9 +1865,10 @@ Tabela 8 - Metas nacionais setoriais de redução de emissões de CO<sub>2eq</su
 
 As emissões registadas em 2020 confirmam uma trajetória de cumprimento das metas setoriais nacionais, com exceção do setor da Agricultura, sugerindo a necessidade de reforço de políticas e medidas neste setor, por forma a corrigir a trajetória e garantir o cumprimento da respetiva meta setorial para 2030. Atento o ponto de situação atual e as respetivas metas setoriais estipuladas para 2030, verifica-se ainda a necessidade de um reforço de políticas e medidas em alguns setores, com especial enfoque no setor dos transportes.
 
-Figura 14 - Evolução das emissões de gases com efeito de estufa por setor e metas de redução estabelecidas no horizonte 2030 (Mt CO<sub>2eq</sub>)
+Figura 14 - Evolução das emissões de gases com efeito de estufa por setor e metas de redução estabelecidas no horizonte 2030 (Mt CO2eq)
 
-![](https://files.diariodarepublica.pt/images/914597185/914561574.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914561574.png) |
+| --- |
 
 2.1.2 - Objetivos relativos a energia de fontes renováveis
 
@@ -1323,7 +1878,7 @@ Portugal tem fortes argumentos para continuar a construir uma estratégia basead
 
 Tabela 9 - Trajetória indicativa e contributo de Portugal para a meta vinculativa da União em 2030
 
-| Renováveis no consumo final bruto de energia<sup>23</sup> | 2020 | 2022 | 2025 | 2027 | 2030 |
+| Renováveis no consumo final bruto de energia23 | 2020 | 2022 | 2025 | 2027 | 2030 |
 | --- | --- | --- | --- | --- | --- |
 | PNEC 2030 | 31 % | 34 % | 38 % | 41 % | 47 % |
 | Revisão do PNEC 2030 | 31 % | 34 % | 40 % | 44 % | 51 % |
@@ -1342,7 +1897,8 @@ A figura seguinte ilustra a trajetória relativa à quota de energia de fontes r
 
 Figura 15 - Evolução da quota de energia de fontes renováveis no consumo final bruto de energia no horizonte 2030
 
-![](https://files.diariodarepublica.pt/images/914597185/914597475.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597475.png) |
+| --- |
 
 ii) Trajetórias estimadas para a quota setorial de energia renovável no consumo final de energia entre 2021 e 2030 nos setores da eletricidade, do aquecimento e arrefecimento e dos transportes
 
@@ -1350,9 +1906,9 @@ A nível setorial, considerando o cumprimento da meta global de FER e tendo como
 
 Tabela 10 - Trajetórias estimadas para a quota setorial de energia renovável no consumo final de energia no horizonte 2030
 
-|  | PNEC 2030 | PNEC 2030 | PNEC 2030 | Revisão PNEC 2030 | Revisão PNEC 2030 |
+|  | PNEC 2030 | Revisão PNEC 2030 |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | 2020 | 2025 | 2030 | 2025 | 2030 |
+| 2020 | 2025 | 2030 | 2025 | 2030 |  |
 | Eletricidade | 60 % | 69 % | 80 % | 86 % | 93 %* |
 | Aquecimento e arrefecimento | 34 % | 36 % | 38 % | 46 % | 63 % |
 | Transportes | 10 % | 13 % | 20 % | 19 % | 29 %** |
@@ -1367,7 +1923,8 @@ Como já referido, Portugal dispõe de um enorme potencial para explorar os recu
 
 Figura 16 - Evolução da quota de energia de fontes renováveis na eletricidade no horizonte 2030*
 
-![](https://files.diariodarepublica.pt/images/914597185/914597476.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597476.png) |
+| --- |
 
 * O valor a atingir em 2030 não considera o consumo de eletricidade para produção de hidrogénio, tal como definido na metodologia europeia para tal (no âmbito dos SHARES do Eurostat).
 
@@ -1394,20 +1951,21 @@ Quanto à eletricidade como vetor energético intermédio, a presente revisão d
 
 | Eletrólise para hidrogénio | Com vista aos objetivos de produção de hidrogénio da EN-H2 - Estratégia Nacional para o Hidrogénio, deverão ser instalados, até 2030, eletrolisadores com 3 GW de capacidade líquida de produção (output). O abastecimento de energia para uma capacidade desta dimensão não pode colidir com o normal funcionamento do sistema elétrico nacional (i.e. para usos finais). É, pois, necessário instalar capacidade renovável adicional dedicada de produção de eletricidade, e designadamente de eólica onshore, eólica offshore, e solar fotovoltaico, totalizando em 2030 cerca de 8,6 GW de nova capacidade instalada dedicada. Trata-se de um esforço apreciável, pois corresponderá a cerca de 18 % da capacidade total instalada para produção de eletricidade |
 | --- | --- |
-| Produção e transporte de combustíveis e químicos renováveis | Alem da produção de biocombustíveis, preconiza-se agora a produção de combustíveis renováveis de origem não biológica (RFNBO), para além do próprio hidrogénio, os resultados tais como metano, metanol, amoníaco, e até querosene de aviação, mesmo que tal se perspetive ainda em pequena escala, até 2030. O fabrico destes químicos envolve processos com reações exotérmicas, com consumo significativo de eletricidade na separação/captura de CO ou CO<sub>2</sub>. Estas atividades não podem colidir com o funcionamento do sistema elétrico nacional. |
+| Produção e transporte de combustíveis e químicos renováveis | Alem da produção de biocombustíveis, preconiza-se agora a produção de combustíveis renováveis de origem não biológica (RFNBO), para além do próprio hidrogénio, os resultados tais como metano, metanol, amoníaco, e até querosene de aviação, mesmo que tal se perspetive ainda em pequena escala, até 2030. O fabrico destes químicos envolve processos com reações exotérmicas, com consumo significativo de eletricidade na separação/captura de CO ou CO2. Estas atividades não podem colidir com o funcionamento do sistema elétrico nacional. |
 
-No que respeita ao setor do Aquecimento e Arrefecimento, considera-se que as medidas de eficiência energética e a eletrificação são relevantes para ir reduzindo consumos e emissões, mas têm pouco impacto na fração de renováveis. Tal poderá implicar dificuldades no cumprimento, por Portugal, das metas estabelecidas, em particular no que diz respeito à quota de energia de fontes renováveis (aumento 0,8 %/ano até 2025 e de 1,1 %/ano entre 2026 e 2030, ao abrigo da Diretiva RED III <sup>24</sup>). No entanto, e face à expectativa de que os gases renováveis, como o biometano e o hidrogénio renovável, possam vir a desempenhar um papel mais relevante no horizonte 2030, esta perspetiva poderá mudar a médio prazo. Importa também salientar que, pela primeira vez, foi possível contabilizar o contributo total das bombas de calor no consumo final bruto de energia, pelo que, ao nível da modelação, foi possível incluir neste Plano os dados relativos às bombas de calor na mesma medida em que foram contabilizados para o cálculo do contributo das renováveis no consumo final bruto de energia no setor do aquecimento e arrefecimento, o que explica a evolução face ao histórico (2005-2018) e as projeções para este setor.
+No que respeita ao setor do Aquecimento e Arrefecimento, considera-se que as medidas de eficiência energética e a eletrificação são relevantes para ir reduzindo consumos e emissões, mas têm pouco impacto na fração de renováveis. Tal poderá implicar dificuldades no cumprimento, por Portugal, das metas estabelecidas, em particular no que diz respeito à quota de energia de fontes renováveis (aumento 0,8 %/ano até 2025 e de 1,1 %/ano entre 2026 e 2030, ao abrigo da Diretiva RED III 24). No entanto, e face à expectativa de que os gases renováveis, como o biometano e o hidrogénio renovável, possam vir a desempenhar um papel mais relevante no horizonte 2030, esta perspetiva poderá mudar a médio prazo. Importa também salientar que, pela primeira vez, foi possível contabilizar o contributo total das bombas de calor no consumo final bruto de energia, pelo que, ao nível da modelação, foi possível incluir neste Plano os dados relativos às bombas de calor na mesma medida em que foram contabilizados para o cálculo do contributo das renováveis no consumo final bruto de energia no setor do aquecimento e arrefecimento, o que explica a evolução face ao histórico (2005-2018) e as projeções para este setor.
 
 Figura 17 - Evolução da quota de energia de fontes renováveis no aquecimento e arrefecimento no horizonte 2030
 
-![](https://files.diariodarepublica.pt/images/914597185/914597477.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597477.png) |
+| --- |
 
 Aumentar a incorporação de renováveis no setor do aquecimento e arrefecimento, e dessa forma contribuir para o cumprimento do objetivo para este setor, passará por:
 
 | Biomassa | A utilização de biomassa no aquecimento de residências isoladas (vivendas) é uma atividade ainda comum a nível nacional, e tem sido, inclusive, dominante face a outras opções. No entanto, o recurso a este tipo de solução tem vindo a reduzir-se, parcialmente em resultado da urbanização, e parcialmente pela maior conveniência de outras tecnologias. Quanto a edifícios de serviços, as necessidades de aquecimento ambiente apenas justificam o recurso à biomassa em regiões limitadas do território nacional, com temperaturas mais reduzidas.A queima de biomassa para aquecimento ambiente tem ultimamente experimentado alguma recuperação, pela introdução de sistemas a pellets, mas em detrimento de lareiras, lareiras com recuperador de calor, e salamandras. Contudo, importa garantir o princípio de utilização em cascata da biomassa, o cumprimento dos critérios de sustentabilidade e assegurar que a utilização de biomassa florestal é compatível com as metas de sumidouro definidas no Regulamento LULUCF, não interessando promover um aumento forte de queima de biomassa seja em ambiente urbano ou rural, devido também a problemas com a qualidade do ar.Relativamente ao ambiente industrial, os estudos feitos com modelos do sistema energético integrado indicam que também neste caso a utilização de mais biomassa sustentável para aquecimento, em particular resíduos florestais, tem limitações: a maior parte dos recursos sustentáveis já está a ser utilizada em cogeração, e do restante, é mais importante e economicamente vantajoso que seja dirigido para biocombustíveis avançados. Existem atualmente sistemas de pequena dimensão de cogeração que podem ser utilizados a nível dos serviços e industrial, otimizando a utilização deste recurso.Assim, no conjunto, a contribuição adicional da biomassa para as metas de aquecimento renovável deverá ser nula ou quando muito ligeiramente positiva. |
 | --- | --- |
 | Cogeração de alta eficiência | A cogeração de alta eficiência com recurso a fontes renováveis de energia, em particular resíduos e sobrantes de biomassa florestal, existe em alguns edifícios de serviços, no entanto é na indústria que a sua utilização tem sido mais significativa. O subsetor da Pasta e Papel destaca-se de longe, com o aproveitamento de licores sulfíticos em processos integrados de produção. No entanto a evolução da cogeração a biomassa é limitada pela redução prevista na disponibilidade de resíduos de biomassa sustentável, dadas as restantes prioridades de utilização. |
-| Gases renováveis | A utilização de gases renováveis é a principal ferramenta para aumentar a fração de renováveis no aquecimento.Há duas vertentes a considerar: na primeira, a introdução de gases renováveis (hidrogénio e biometano) no sistema nacional de gás, em mistura com o gás natural. Isto é facilitado pela circunstância de que a rede nacional de gás é relativamente recente, obrigando ainda assim a certas adaptações. Numa segunda vertente, quer-se promover a substituição do consumo de gás natural por hidrogénio renovável, essencialmente na indústria. Isto deverá ser possível através de hidrogénio transportado para o local, através de redes locais de hidrogénio ou, de preferência, através de soluções de produção local do hidrogénio perto do seu local de consumo, via eletrólise, alimentada por capacidade FER local (em particular, solar fotovoltaico) ou obtida da rede elétrica em regime de PPA<sup>25</sup> com garantias de origem. |
+| Gases renováveis | A utilização de gases renováveis é a principal ferramenta para aumentar a fração de renováveis no aquecimento.Há duas vertentes a considerar: na primeira, a introdução de gases renováveis (hidrogénio e biometano) no sistema nacional de gás, em mistura com o gás natural. Isto é facilitado pela circunstância de que a rede nacional de gás é relativamente recente, obrigando ainda assim a certas adaptações. Numa segunda vertente, quer-se promover a substituição do consumo de gás natural por hidrogénio renovável, essencialmente na indústria. Isto deverá ser possível através de hidrogénio transportado para o local, através de redes locais de hidrogénio ou, de preferência, através de soluções de produção local do hidrogénio perto do seu local de consumo, via eletrólise, alimentada por capacidade FER local (em particular, solar fotovoltaico) ou obtida da rede elétrica em regime de PPA25 com garantias de origem. |
 | Geotermia | Em 2021 foi efetuada a avaliação do potencial geotérmico das Águas Minerais Naturais (AMN) com temperatura superior a 25ºC, em Portugal continental. Dessa avaliação verifica-se que a maioria das concessões estudadas apresentam potencial para o aproveitamento geotérmico da AMN, diretamente ou através de um sistema de apoio, nomeadamente através de bombas de calor geotérmicas, podendo nos próximos anos haver um maior aproveitamento dos recursos geotérmicos, cujo potencial se encontra subaproveitado.Por outro lado, os concessionários das Caldas de Chaves e das Termas de S. Pedro do Sul (CM Chaves e CM S. Pedro do Sul) desenvolveram redes urbanas de calor geotérmico que irá satisfazer grande parte das necessidades térmicas de várias unidades hoteleiras bem como de edifícios de serviços. Prevê-se que estas redes entrem em funcionamento ainda em 2024, sendo que ainda apresentam potencial de expansão face ao recurso disponível. |
 | Bombas de calor | A segunda maior contribuição para o aumento da fração de renováveis no Aquecimento e Arrefecimento deverá provir das bombas de calor. Tem-se verificado, por exemplo, uma crescente procura de sistemas geotérmicos superficiais (bomba de calor geotérmica), cuja fiabilidade e disponibilidade permite dar resposta às necessidades de edifícios habitacionais e de serviços, e eventualmente produzir frio e calor industrial.A maior contribuição desta tecnologia deverá surgir do lado da climatização e produção de Águas Quentes Sanitárias (AQS) em edifícios. De forma geral, deverá haver uma melhoria das eficácias médias do stock de equipamentos AVAC. Os fatores relevantes são: as alterações climáticas, que pressionam no sentido de menos necessidades de aquecimento e mais arrefecimento, a saturação do stock de equipamentos nos edifícios de serviços, o crescimento rápido observado no stock em edifícios residenciais, que se estima continue até 2030, e as menores necessidades de climatização em edifícios novos e renovados (ao ponto de poderem ser nulas).Contudo, tendo em consideração que muitos destes equipamentos contêm gases fluorados, deverá ser dada primazia aos equipamentos que contenham refrigerantes naturais. |
 | Solar térmico | O solar térmico é uma das soluções mais competitivas para a preparação de AQS, dado o recurso solar elevado em Portugal, baixas variações térmicas a vencer, e elevada eficiência ótica. No entanto, outras tecnologias, como caldeiras a biomassa, bombas de calor, e mais recentemente, bombas de calor alimentadas por solar fotovoltaico, tornaram-se igualmente ou mais competitivas. Neste contexto é importante notar que as análises energéticas mostram que devem ser promovidos apenas os sistemas solares com sistema auxiliar (backup) elétrico.No caso da indústria, apesar do mérito de experiências isoladas nas últimas décadas, o solar térmico nunca se desenvolveu, e não se prevê uma evolução desta situação. Há obstáculos de intermitência de funcionamento, de temperaturas de processo a que pode atender, e da necessidade de manter de qualquer forma um sistema de backup que terá de atender integralmente à procura de aquecimento. O mesmo acontece para o uso do solar térmico para aquecimento do ar ambiente/climatização em edifícios, que se revela pouco eficaz em Portugal. |
@@ -1425,11 +1983,12 @@ Por outro lado, o Regulamento (UE) [2023/2405](https://data.europa.eu/eli/reg/20
 
 Por outro lado, o Regulamento (UE) [2023/1805](https://data.europa.eu/eli/reg/2023/1805/oj?locale=pt) do Parlamento Europeu e do Conselho, de 13 de setembro, relativo à adoção de novos combustíveis e redução de emissões no transporte marítimo, estabelece a adoção de medidas de redução de emissões até 2050 e a adoção de combustíveis hipocarbónicos. Complementarmente Portugal está a trabalhar na proposta para submissão à Organização Marítima Internacional (IMO) da constituição de uma zona de controlo de emissões reduzidas (ECA - Emission Control Area) que tem a abrangência geográfica de toda a costa continental até às 200 milhas náuticas. Tem como objetivo a redução das emissões de: SOx, NOx e matérias particuladas. A zona de controlo de emissões reduzidas será submetida à IMO em 2025, prevendo-se a sua aplicação, em pleno, ao fim de dois anos após a submissão.
 
-Importa ainda referir, o acordo alcançado no início de 2024, entre o Parlamento Europeu e o Conselho, sobre a revisão do Regulamento (UE) [2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) do Parlamento Europeu e do Conselho, de 20 de junho de 2019, reforçando as normas de desempenho em matéria de emissões de CO<sub>2</sub> dos veículos pesados novos. O âmbito de aplicação do regulamento é alargado e estas normas passam a aplicar-se a quase todos os camiões, autocarros urbanos, autocarros de longo curso e reboques, garantindo que este segmento contribua para a mobilidade com emissões nulas. Este acordo vem assim reforçar o compromisso do setor dos transportes rodoviários, em linha com a importante revisão das normas de desempenho em matéria de emissões de CO<sub>2</sub> dos automóveis novos de passageiros e dos veículos comerciais vertida no Regulamento (UE) [2023/851](https://data.europa.eu/eli/reg/2023/851/oj?locale=pt), do Parlamento Europeu e do Conselho, de 19 de abril de 2023.
+Importa ainda referir, o acordo alcançado no início de 2024, entre o Parlamento Europeu e o Conselho, sobre a revisão do Regulamento (UE) [2019/1242](https://data.europa.eu/eli/reg/2019/1242/oj?locale=pt) do Parlamento Europeu e do Conselho, de 20 de junho de 2019, reforçando as normas de desempenho em matéria de emissões de CO2 dos veículos pesados novos. O âmbito de aplicação do regulamento é alargado e estas normas passam a aplicar-se a quase todos os camiões, autocarros urbanos, autocarros de longo curso e reboques, garantindo que este segmento contribua para a mobilidade com emissões nulas. Este acordo vem assim reforçar o compromisso do setor dos transportes rodoviários, em linha com a importante revisão das normas de desempenho em matéria de emissões de CO2 dos automóveis novos de passageiros e dos veículos comerciais vertida no Regulamento (UE) [2023/851](https://data.europa.eu/eli/reg/2023/851/oj?locale=pt), do Parlamento Europeu e do Conselho, de 19 de abril de 2023.
 
 Figura 18 - Evolução da quota de energia de fontes renováveis nos transportes no horizonte 2030
 
-![](https://files.diariodarepublica.pt/images/914597185/914597478.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597478.png) |
+| --- |
 
 O valor a atingir em 2030 corresponde ao contributo para a meta global da quota de energias renováveis nacional, sendo esta o contributo para a meta global da UE.
 
@@ -1445,7 +2004,7 @@ Contudo, o enfoque na mobilidade sustentável e na descarbonização dos transpo
 
 Os transportes são um dos principais setores consumidores de energia, tendo-se revelado uma área desafiante na descarbonização e introdução de fontes de energia alternativas. Assim, este deve ser cada vez mais um setor prioritário na definição de políticas e medidas com vista à sua descarbonização, tendo sempre em atenção que este é um setor transversal e sensível, com impacto em quase todos os restantes setores de atividade e, por conseguinte, com reflexo na competitividade da economia.
 
-iii) Trajetórias estimadas por tecnologia de energia renovável que o Estado-Membro prevê utilizar de modo a cumprir as trajetórias gerais e setoriais para a energia renovável entre 2021 e 2030<sup>26</sup>
+iii) Trajetórias estimadas por tecnologia de energia renovável que o Estado-Membro prevê utilizar de modo a cumprir as trajetórias gerais e setoriais para a energia renovável entre 2021 e 203026
 
 Face ao cenário perspetivado para a evolução do setor eletroprodutor em Portugal, ilustra-se na tabela seguinte a evolução da capacidade instalada esperada, desagregada por tecnologia, para o horizonte 2030 para efeitos de cumprimento dos objetivos estabelecidos para este setor e com impactos noutros setores.
 
@@ -1480,13 +2039,15 @@ Neste contexto, prevê-se um desenvolvimento industrial acentuado em Portugal, q
 
 Figura 19 - Estimativa de capacidade instalada para a produção de eletricidade por tecnologia em Portugal no horizonte 2030, com base nas políticas e medidas planeadas - Cenário WAM (GW)
 
-![](https://files.diariodarepublica.pt/images/914597185/914597479.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597479.png) |
+| --- |
 
 Perspetiva-se que 96 % da eletricidade produzida no sistema eletroprodutor português seja de origem renovável em 2030 (contabilizando a eletricidade para a produção de H2), com destaque para a eólica com cerca de 40 % e o solar com cerca de 42 %, que serão as tecnologias que apresentarão o maior crescimento na próxima década.
 
 Figura 20 - Estimativa de evolução da produção de eletricidade por tecnologia em Portugal no horizonte 2030, com base nas políticas e medidas planeadas - Cenário WAM (TWh)
 
-![](https://files.diariodarepublica.pt/images/914597185/914597480.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597480.png) |
+| --- |
 
 Face ao cenário perspetivado para a evolução do setor do aquecimento e arrefecimento em Portugal, ilustra-se na tabela seguinte a evolução esperada desagregada por tecnologia e fonte de energia para o horizonte 2030 para efeitos de cumprimento dos objetivos estabelecidos para este setor.
 
@@ -1526,7 +2087,7 @@ Tabela 14 - Perspetivas de evolução da procura de bioenergia em Portugal no ho
 | Transportes | 400 | 423 |
 | Total | 2 068 | 1 984 |
 
-v) Outras trajetórias e objetivos nacionais, incluindo trajetórias a longo prazo ou setoriais<sup>27</sup>
+v) Outras trajetórias e objetivos nacionais, incluindo trajetórias a longo prazo ou setoriais27
 
 Não aplicável.
 
@@ -1536,7 +2097,7 @@ A nova Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?loc
 
 A nova diretiva estabelece uma meta juridicamente vinculativa em que os Estados-Membros asseguram coletivamente uma redução do consumo final de energia de, pelo menos, 11,7 % em 2030 em comparação com o cenário de referência da UE de 2020 (Reference Scenario 2020 (REF2020)) de modo que, em 2030, o consumo de energia final da União não exceda 763 Mtep. Em termos de consumo de energia primária da União os Estados-Membros comprometem-se coletivamente com a meta indicativa de não exceder 992,5 Mtep em 2030.
 
-i.1 Contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 2030<sup>28</sup>
+i.1 Contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 203028
 
 A Diretiva da Eficiência Energética reformulada, acima mencionada, estabelece que os Estados-Membros devem fixar uma contribuição indicativa nacional em matéria de eficiência energética com base no consumo de energia final a fim de cumprir, coletivamente, a meta vinculativa da União de consumo de energia final. No caso de Portugal, a metodologia estabelecida no anexo I da diretiva indica um valor do consumo de Energia Final não superior a 14 371 ktep em 2030. Na submissão das atualizações dos respetivos PNEC, os Estados-Membros devem também expressar as suas contribuições em termos de nível absoluto de consumo de energia primária, o que resulta num valor não superior a 16 711 ktep em 2030.
 
@@ -1546,25 +2107,27 @@ Da mesma forma que Portugal demonstra um elevado grau de ambição e determinaç
 
 Tabela 15 - Contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 2030 (em consumo de energia primária sem usos não energéticos)
 
-|  | Valor referência 2020 (cenário de referência da UE de 2020 atualizado) | Meta 2030 (considerando o cenário de referência da UE de 2020 atualizado) <sup>29</sup> |
+|  | Valor referência 2020 (cenário de referência da UE de 2020 atualizado) | Meta 2030 (considerando o cenário de referência da UE de 2020 atualizado) 29 |
 | --- | --- | --- |
-| Meta relativa ao consumo de energia primária - valor objetivo (ktep)<sup>30</sup> | 19 444 ktep | 16 711 ktep |
+| Meta relativa ao consumo de energia primária - valor objetivo (ktep)30 | 19 444 ktep | 16 711 ktep |
 
 Figura 21 - Trajetória indicativa para o contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 2030 (em consumo de energia primária sem usos não energéticos) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597481.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597481.png) |
+| --- |
 
 Tabela 16 - Contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 2030 (em consumo de energia final sem usos energéticos)
 
-|  | Valor referência 2020 (cenário de referência da UE de 2020 atualizado) | Meta 2030 (considerando o cenário de referência da UE de 2020 atualizado)<sup>31</sup> |
+|  | Valor referência 2020 (cenário de referência da UE de 2020 atualizado) | Meta 2030 (considerando o cenário de referência da UE de 2020 atualizado)31 |
 | --- | --- | --- |
-| Meta relativa ao consumo de energia final - valor objetivo (ktep)<sup>32</sup> | 16 252 ktep | 14 371 ktep |
+| Meta relativa ao consumo de energia final - valor objetivo (ktep)32 | 16 252 ktep | 14 371 ktep |
 
 Figura 22 - Trajetória indicativa para o contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 2030 (em consumo de energia final sem usos não energéticos) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597482.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597482.png) |
+| --- |
 
-i.2 Quantidade acumulada de economias de energia a atingir no período 2021-2030<sup>33</sup>
+i.2 Quantidade acumulada de economias de energia a atingir no período 2021-203033
 
 Decorre do artigo 8.º da EED que todos os Estados-Membros deverão obter economias cumulativas de energia final, equivalentes a novas economias anuais, de 1 janeiro de 2021 a 31 de dezembro de 2023, de 0,8 % do consumo médio anual de energia final dos últimos três anos anteriores a 1 de janeiro de 2019, subindo esse objetivo para 1,3 % de 1 janeiro de 2024 a 31 de dezembro de 2025, para 1,5 % de 1 janeiro de 2026 a 31 de dezembro de 2027, e para 1,9 % de 1 janeiro de 2028 a 31 de dezembro de 2030. Para o efeito, contabilizou-se a média do consumo de energia final relativa aos anos 2016 a 2018, calculando assim o valor de poupanças que constitui igualmente uma meta a atingir, no que se refere à aplicação do referido artigo 8.º da proposta de revisão da EED. Esta meta tem de ser atingida pela realização de poupança de energia através da aplicação de regimes de obrigação de eficiência energética, a que se refere o artigo 9.º, ou adotando medidas políticas alternativas, a que se refere o artigo 10.º ou então uma combinação de ambos.
 
@@ -1578,7 +2141,8 @@ A figura seguinte ilustra as economias acumuladas de energia a atingir no perío
 
 Figura 23 - Quantidade acumulada de economias de energia a atingir no período 2021-2030 que decorre do artigo 8.º, da [Diretiva 2023/1791/EU](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt)[2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt)/EU [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597483.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597483.png) |
+| --- |
 
 Garantir o cumprimento das metas e objetivos na área da eficiência energética, passará por:
 
@@ -1605,7 +2169,7 @@ Tabela 18 - Indicadores de acompanhamento para a temática da eficiência energ�
 | Consumo de energia final per capita | 1,6 | tep/habitante | ¤ |
 | Consumo de eletricidade na iluminação pública | 1 030 | GWh | ¤ |
 
-i.3 As metas indicativas da estratégia a longo prazo de renovação do parque nacional de edifícios residenciais e não residenciais, tanto públicos como privados<sup>34</sup>
+i.3 As metas indicativas da estratégia a longo prazo de renovação do parque nacional de edifícios residenciais e não residenciais, tanto públicos como privados34
 
 O Governo Português aprovou, através da [Resolução do Conselho de Ministros n.º 8-A/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-a-2021-156295372), de 3 de fevereiro, a Estratégia de Longo Prazo para a Renovação dos Edifícios (ELPRE), que pretende ir ao encontro dos objetivos, europeus e nacionais, para alcançar a neutralidade carbónica e promover a eficiência energética dos edifícios existentes, com vista à sua transformação em edifícios NZEB (Near Zero Energy Building).
 
@@ -1617,21 +2181,21 @@ Na sequência da publicação da revisão da Diretiva (UE) [2024/1275](https://d
 
 Tabela 19 - Objetivos para os edifícios residenciais face a 2018
 
-|  | 2030 | 2030 |
+|  | 2030 |  |
 | --- | --- | --- |
 | Percentagem de poupança energia primária | 15 % | 777,0 ktep |
-| Percentagem de poupança energia final | 15 % | 462,5 ktep |
-| Área a intervencionar (m<sup>2</sup>) | 299 524 729 | 299 524 729 |
-| Investimento (M €) - valores 2020 | 26 760 | 26 760 |
+| Percentagem de poupança energia final | 462,5 ktep |  |
+| Área a intervencionar (m2) | 299 524 729 |  |
+| Investimento (M €) - valores 2020 | 26 760 |  |
 
 Tabela 20 - Objetivos para os edifícios não residenciais face a 2018
 
-|  | 2030 | 2030 |
+|  | 2030 |  |
 | --- | --- | --- |
 | Percentagem de poupança energia primária | 7 % | 226,6 ktep |
-| Percentagem de poupança energia final | 7 % | 134,9 ktep |
-| Área a intervencionar (m<sup>2</sup>) | 64 155 772 | 64 155 772 |
-| Investimento (M €) - valores 2020 | 18 500 | 18 500 |
+| Percentagem de poupança energia final | 134,9 ktep |  |
+| Área a intervencionar (m2) | 64 155 772 |  |
+| Investimento (M €) - valores 2020 | 18 500 |  |
 
 O ECO.AP 2030, Programa de Eficiência de Recursos na Administração Pública para o período até 2030, aprovado pela Resolução do Conselho de Ministros n.º [104/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2020-149220156) de 24 de Novembro, tem como objetivo promover a descarbonização e a transição energética das atividades desenvolvidas pelo Estado, contribuindo para as metas de redução de gases com efeito de estufa, de redução de consumos de energia, de água e de materiais, de incorporação de renováveis no consumo final bruto de energia, estabelecidas a nível nacional para 2030, bem como para promover a gestão eficiente destes recursos na Administração Pública, estabelecendo como meta a reabilitação e beneficiação de 5 % dos edifícios abrangidos pelo ECO.AP.
 
@@ -1641,23 +2205,23 @@ Pese embora o potencial de poupança de energia primária nos edifícios públic
 
 Tabela 21 - Poupanças para o parque total de acordo com a ELPRE
 
-| Tipo de edifício | Zona climática | Períodode construção | Poupança de energia primária (2050) (kWh/m<sup>2</sup>) | Poupança de energia primária (2050)Parque total edifícios (Mtep) |
+| Tipo de edifício | Zona climática | Períodode construção | Poupança de energia primária (2050) (kWh/m2) | Poupança de energia primária (2050)Parque total edifícios (Mtep) |
 | --- | --- | --- | --- | --- |
 | Unifamiliar | I1 | <1960 | 24,0 | 0,06 |
-| Unifamiliar | I2 | <1960 | 24,0 | 0,05 |
-| Unifamiliar | I3 | <1960 | 45,3 | 0,02 |
-| Unifamiliar | I1 | 1961-1990 | 17,2 | 0,07 |
-| Unifamiliar | I2 | 1961-1990 | 27,6 | 0,13 |
-| Unifamiliar | I3 | 1961-1990 | 47,8 | 0,03 |
-| Unifamiliar | I1 | 1991-2005 | 16,4 | 0,05 |
-| Unifamiliar | I2 | 1991-2005 | 24,5 | 0,09 |
-| Unifamiliar | I3 | 1991-2005 | 39,4 | 0,02 |
-| Unifamiliar | I1 | 2006-2016 | 7,0 | 0,01 |
-| Unifamiliar | I2 | 2006-2016 | 0,7 | 0,01 |
-| Unifamiliar | I3 | 2006-2016 | 13,7 | 0,00 |
-| Unifamiliar | I1 | >2016 | 5,6 | 0,00 |
-| Unifamiliar | I2 | >2016 | 5,5 | 0,00 |
-| Unifamiliar | I3 | >2016 | 7,4 | 0,00 |
+| I2 | <1960 | 24,0 | 0,05 |  |
+| I3 | <1960 | 45,3 | 0,02 |  |
+| I1 | 1961-1990 | 17,2 | 0,07 |  |
+| I2 | 1961-1990 | 27,6 | 0,13 |  |
+| I3 | 1961-1990 | 47,8 | 0,03 |  |
+| I1 | 1991-2005 | 16,4 | 0,05 |  |
+| I2 | 1991-2005 | 24,5 | 0,09 |  |
+| I3 | 1991-2005 | 39,4 | 0,02 |  |
+| I1 | 2006-2016 | 7,0 | 0,01 |  |
+| I2 | 2006-2016 | 0,7 | 0,01 |  |
+| I3 | 2006-2016 | 13,7 | 0,00 |  |
+| I1 | >2016 | 5,6 | 0,00 |  |
+| I2 | >2016 | 5,5 | 0,00 |  |
+| I3 | >2016 | 7,4 | 0,00 |  |
 | Multifamiliar | I1 | <1960 | 17,1 | 0,03 |
 |  | I2 | <1960 | 19,4 | 0,00 |
 |  | I3 | <1960 | 27,4 | 0,00 |
@@ -1682,7 +2246,7 @@ Tabela 21 - Poupanças para o parque total de acordo com a ELPRE
 | Público - saúde | I1 | - | 55,1 | 0,06 |
 | Público - sport | I1 | - | 52,1 | 0,03 |
 
-ii) As etapas indicativas para 2030, 2040 e 2050, os indicadores de progresso mensuráveis fixados a nível nacional, uma estimativa com base em dados comprovados das economias de energia esperadas e dos benefícios gerais, e os seus contributos para as metas de eficiência energética da União, previstos nos roteiros definidos nas estratégias de renovação a longo prazo do parque nacional de edifícios residenciais e não residenciais (privados e públicos)<sup>35</sup>
+ii) As etapas indicativas para 2030, 2040 e 2050, os indicadores de progresso mensuráveis fixados a nível nacional, uma estimativa com base em dados comprovados das economias de energia esperadas e dos benefícios gerais, e os seus contributos para as metas de eficiência energética da União, previstos nos roteiros definidos nas estratégias de renovação a longo prazo do parque nacional de edifícios residenciais e não residenciais (privados e públicos)35
 
 No âmbito da ELPRE, foi estabelecido um conjunto de objetivos para os horizontes 2030, 2040 e 2050. Estes objetivos definem a trajetória de progresso a alcançar por via da implementação dos pacotes de medidas de melhoria a realizar no parque de edifícios existentes em termos de impacto esperado, assim como de financiamento necessário.
 
@@ -1696,15 +2260,15 @@ Os objetivos são estabelecidos com base nos seguintes indicadores de resultado:
 
 • Percentagem de redução de emissões de GEE no setor residencial e de serviços;
 
-• Área de edifícios renovada (m<sup>2</sup>);
+• Área de edifícios renovada (m2);
 
 • Percentagem de edifícios renovados (relativamente ao parque de edifícios existentes em 2018);
 
 • Percentagem de redução de horas de desconforto na habitação;
 
-• Investimento nas medidas de melhoria (€2020/m<sup>2</sup>);
+• Investimento nas medidas de melhoria (€2020/m2);
 
-• Poupança de energia (€2020/m<sup>2</sup>).
+• Poupança de energia (€2020/m2).
 
 As tabelas seguintes apresentam, face a 2018, os objetivos para o parque de edifícios residenciais, para o parque de edifícios não residenciais e para o parque total edificado.
 
@@ -1715,12 +2279,12 @@ Tabela 22 - Objetivos para os edifícios residenciais face a 2018
 | Percentagem de poupança energia primária | 15 % | 37 % | 40 % |
 | Percentagem de energia renovável local | 10 % | 35 % | 73 % |
 | Percentagem de energia renovável total | 57 % | 62 % | 98 % |
-| Percentagem de redução emissões CO<sub>2</sub> | 16 % | 56 % | 85 % |
-| Área de edifícios renovada (m<sup>2</sup>) | 299 524 729 | 513 059 967 | 514 265 282 |
+| Percentagem de redução emissões CO2 | 16 % | 56 % | 85 % |
+| Área de edifícios renovada (m2) | 299 524 729 | 513 059 967 | 514 265 282 |
 | Percentagem de edifícios renovados | 70 % | 100 % | 100 % |
 | Percentagem de redução horas desconforto | 26 % | 34 % | 56 % |
-| Investimento médio ponderado (€<sub>2020</sub>/m<sup>2</sup>) | 82 | 165 | 258 |
-| Poupança (€<sub>2020</sub>/m<sup>2</sup>) | 88 | 191 | 279 |
+| Investimento médio ponderado (€2020/m2) | 82 | 165 | 258 |
+| Poupança (€2020/m2) | 88 | 191 | 279 |
 
 Tabela 23 - Objetivos para os edifícios não residenciais face a 2018
 
@@ -1729,12 +2293,12 @@ Tabela 23 - Objetivos para os edifícios não residenciais face a 2018
 | Percentagem de poupança energia primária | 7 % | 15 % | 28 % |
 | Percentagem de energia renovável local | 11 % | 25 % | 54 % |
 | Percentagem de energia renovável total | 78 % | 87 % | 97 % |
-| Percentagem de redução emissões CO<sub>2</sub> | 15 % | 37 % | 68 % |
-| Área de edifícios renovada (m<sup>2</sup>) | 64 155 772 | 122 577 719 | 233 687 788 |
+| Percentagem de redução emissões CO2 | 15 % | 37 % | 68 % |
+| Área de edifícios renovada (m2) | 64 155 772 | 122 577 719 | 233 687 788 |
 | Percentagem de edifícios renovados | 27 % | 52 % | 100 % |
 | Percentagem de redução horas desconforto | N/A | N/A | N/A |
-| Investimento médio ponderado (€<sub>2020</sub>/m<sup>2</sup>) | 81 | 145 | 155 |
-| Poupança (€<sub>2020</sub>/m<sup>2</sup>) | 137 | 240 | 447 |
+| Investimento médio ponderado (€2020/m2) | 81 | 145 | 155 |
+| Poupança (€2020/m2) | 137 | 240 | 447 |
 
 Tabela 24 - Objetivos para o parque de edifícios total face a 2018
 
@@ -1743,24 +2307,24 @@ Tabela 24 - Objetivos para o parque de edifícios total face a 2018
 | Percentagem de poupança energia primária | 11 % | 27 % | 34 % |
 | Percentagem de energia renovável local | 11 % | 30 % | 63 % |
 | Percentagem de energia renovável total | 68 % | 75 % | 98 % |
-| Percentagem de redução emissões CO<sub>2</sub> | 15 % | 47 % | 77 % |
-| Área de edifícios renovada (m<sup>2</sup>) | 363 680 501 | 635 637 685 | 747 953 071 |
+| Percentagem de redução emissões CO2 | 15 % | 47 % | 77 % |
+| Área de edifícios renovada (m2) | 363 680 501 | 635 637 685 | 747 953 071 |
 | Percentagem de edifícios renovados | 69 % | 99 % | 100 % |
 | Percentagem de redução horas desconforto | 26 % | 34 % | 56 % |
-| Investimento médio ponderado (€<sub>2020</sub>/m<sup>2</sup>) | 82 | 164 | 256 |
-| Poupança (€<sub>2020</sub>/m<sup>2</sup>) | 89 | 192 | 283 |
+| Investimento médio ponderado (€2020/m2) | 82 | 164 | 256 |
+| Poupança (€2020/m2) | 89 | 192 | 283 |
 
 Os resultados das simulações e da implementação dos pacotes de medidas mencionados sugerem uma poupança cumulativa de energia primária de 40 % nos edifícios residenciais até 2050 e de 28 % nos edifícios não residenciais, totalizando 34 % no que se refere ao parque total de edifícios existentes à data.
 
 O setor residencial apresenta potencial para alcançar poupanças significativas essencialmente devido à substituição dos sistemas de aquecimento ambiente e AQS por sistemas mais eficientes (ex.: solar térmico, bombas de calor ou geotermia superficial) e pela redução das necessidades por via da atuação na envolvente. Já no setor não residencial as poupanças são mais reduzidas uma vez que os equipamentos existentes (maioritariamente bombas de calor e chillers) são já minimamente eficientes e, portanto, a sua substituição por equipamentos novos apresenta uma melhoria mais reduzida.
 
-Já no que diz respeito à adoção de sistemas de produção de energia renovável local, são os painéis solares fotovoltaicos nos edifícios não residenciais que assumem maior destaque e sobre os quais esta medida é bastante apelativa (tanto em termos do potencial de redução das emissões de CO<sub>2</sub>, como em termos da relação entre o investimento e a poupança gerada). Neste indicador específico, foi estimado que, até 2050, cerca de 63 % do consumo de energia do parque total de edifícios existentes seja produzido localmente com recurso a painéis solares fotovoltaicos (com recurso a baterias) para suprir o consumo elétrico, ou por painéis solares térmicos e sistemas a biomassa para suprir o consumo com AQS.
+Já no que diz respeito à adoção de sistemas de produção de energia renovável local, são os painéis solares fotovoltaicos nos edifícios não residenciais que assumem maior destaque e sobre os quais esta medida é bastante apelativa (tanto em termos do potencial de redução das emissões de CO2, como em termos da relação entre o investimento e a poupança gerada). Neste indicador específico, foi estimado que, até 2050, cerca de 63 % do consumo de energia do parque total de edifícios existentes seja produzido localmente com recurso a painéis solares fotovoltaicos (com recurso a baterias) para suprir o consumo elétrico, ou por painéis solares térmicos e sistemas a biomassa para suprir o consumo com AQS.
 
 Com uma forte eletrificação dos sistemas prevista até 2040, a eletricidade que não for produzida localmente é expectável de origem quase exclusivamente renovável na fonte (considerando entre 90 % a 95 % de penetração de energias renováveis na fonte até 2050). Uma vez que o modelo de simulação considerou que 100 % do parque de edifícios existentes em 2018 seria reabilitado até 2050 (ainda que implementados diversos pacotes de medidas em diferentes fases), em conjugação com os resultados estimados para a produção de energia local e na fonte (98 % de energia renovável total), é possível concluir que a ELPRE se alinha com os objetivos estabelecidos referentes à criação de um parque imobiliário descarbonizado, de elevada eficiência energética e com edifícios existentes NZEB.
 
 Tendo em conta que o conforto térmico foi estabelecido como um critério prioritário na renovação do parque residencial existente, com o roteiro e pacotes de medidas estabelecidos é possível observar uma redução das horas de desconforto em 56 % do ano, destacando uma evolução positiva no pico de temperatura mínimo na habitação de 10ºC para 16ºC no pior dos cenários, contribuindo para o conjunto de cobenefícios e promovendo o combate à pobreza energética.
 
-No que se refere à análise de impacto económico é possível concluir que globalmente a poupança cumulativa de energia a 30 anos é sempre superior ao investimento necessário, tanto nos edifícios residenciais (onde o retorno do investimento é baixo, ainda que positivo) como nos edifícios não residenciais (onde o retorno do investimento é consideravelmente alto). Nesse sentido, de forma a concretizar os pacotes de medidas descritos para todo o parque de edifícios, o valor necessário de investimento total a atingir até 2050 deverá rondar os 256 €2020/m<sup>2</sup> para uma poupança de energia prevista de 283 €2020/m<sup>2</sup>.
+No que se refere à análise de impacto económico é possível concluir que globalmente a poupança cumulativa de energia a 30 anos é sempre superior ao investimento necessário, tanto nos edifícios residenciais (onde o retorno do investimento é baixo, ainda que positivo) como nos edifícios não residenciais (onde o retorno do investimento é consideravelmente alto). Nesse sentido, de forma a concretizar os pacotes de medidas descritos para todo o parque de edifícios, o valor necessário de investimento total a atingir até 2050 deverá rondar os 256 €2020/m2 para uma poupança de energia prevista de 283 €2020/m2.
 
 iii) Outros objetivos nacionais, incluindo metas ou estratégias a longo prazo e metas setoriais e objetivos nacionais em áreas como a eficiência energética no setor dos transportes e no que diz respeito ao aquecimento e arrefecimento
 
@@ -1776,7 +2340,7 @@ Portugal tem comunicado mensalmente à Comissão Europeia a evolução do nível
 
 - Regulamento (UE) [2022/1369](https://data.europa.eu/eli/reg/2022/1369/oj?locale=pt) do Conselho de 5 de agosto de 2022, relativo a medidas coordenadas de redução da procura de gás, que estabelece que os EM deverão reduzir, de forma voluntária, entre 1 de agosto de 2022 e 31 de março de 2023, o seu consumo de gás em, pelo menos, 15 % em comparação com o consumo médio durante o mesmo período dos cinco anos consecutivos anteriores. Este regulamento foi alterado pelo Regulamento (UE) [2023/706](https://data.europa.eu/eli/reg/2023/706/oj?locale=pt) do Conselho, de 30 de março, no respeitante à prorrogação do período de redução da procura de gás, estendendo esse período em um ano até 31 de março de 2024, e ao reforço da comunicação de informações e da monitorização da aplicação dessas medidas. A Recomendação do Conselho de 25 de março de 2024 relativa à continuação das medidas coordenadas de redução da procura de gás incentiva os Estados-Membros a continuarem a reduzir o seu consumo de gás, entre 1 de abril de 2024 e 31 de março de 2025, em, pelo menos, 15 % em comparação com o seu consumo médio de gás no período entre 1 de abril de 2017 e 31 de março de 2022.
 
-Cumprindo as condições dispostas nos n.<sup>os</sup>5 e 7 do artigo 5.º deste Regulamento, Portugal notificou a Comissão Europeia da sua decisão de limitar o consumo de gás utilizado para calcular a meta de redução obrigatória da procura pelo volume de gás correspondente à diferença entre a meta intermédia de enchimento estabelecida para 1 de agosto de 2022 e o volume de gás armazenado nessa data, bem como de limitar a redução obrigatória da procura em 8 %.
+Cumprindo as condições dispostas nos n.os5 e 7 do artigo 5.º deste Regulamento, Portugal notificou a Comissão Europeia da sua decisão de limitar o consumo de gás utilizado para calcular a meta de redução obrigatória da procura pelo volume de gás correspondente à diferença entre a meta intermédia de enchimento estabelecida para 1 de agosto de 2022 e o volume de gás armazenado nessa data, bem como de limitar a redução obrigatória da procura em 8 %.
 
 No mesmo âmbito, a Resolução do Conselho de Ministros n.º [82/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2022-201509699), de 27 de setembro, aprovou o Plano de Poupança de Energia 2022-2023, cuja vigência foi prorrogada até 31 de março de 2024 através do Despacho n.º [1572/2024](https://diariodarepublica.pt/dr/detalhe/despacho/1572-2024-840715790), de 8 de fevereiro, definindo um conjunto de medidas de redução do consumo de energia nos setores da administração pública central, administração pública local e setor privado (indústria, comércio, serviços e residencial), sendo que apenas no primeiro caso são de caráter obrigatório. As medidas são complementares e não se sobrepõem às medidas de implementação já existentes noutros instrumentos de política pública em vigor. Focado na gestão da procura, o plano tem como vetores estratégicos:
 
@@ -1808,12 +2372,12 @@ Tabela 25 - Indicadores de acompanhamento de segurança energética no âmbito d
 
 | Indicador | Resultado | Unidade | Objetivo |
 | --- | --- | --- | --- |
-| Redução do consumo de gás natural<sup>1</sup> | 28,2 | % | 15 % |
-| Nível de armazenamento de gás natural<sup>2</sup> | 107 | % | 90 % |
+| Redução do consumo de gás natural1 | 28,2 | % | 15 % |
+| Nível de armazenamento de gás natural2 | 107 | % | 90 % |
 
-<sup>1</sup> A avaliação é realizada de acordo com os termos previstos no Regulamento (UE) [2022/1369](https://data.europa.eu/eli/reg/2022/1369/oj?locale=pt) do Conselho, comparando os consumos do período entre abril de 2023 e março de 2024 e os do período de referência.
+1 A avaliação é realizada de acordo com os termos previstos no Regulamento (UE) [2022/1369](https://data.europa.eu/eli/reg/2022/1369/oj?locale=pt) do Conselho, comparando os consumos do período entre abril de 2023 e março de 2024 e os do período de referência.
 
-<sup>2</sup> Os valores apresentados reportam à situação verificada a 1 de novembro de 2023, uma vez que nos termos da alínea b) do parágrafo 1 do artigo 6.ºA do Regulamento (UE) [2022/1032](https://data.europa.eu/eli/reg/2022/1032/oj?locale=pt) nessa data existia uma meta de cumprimento obrigatório para todos os Estados Membros de 90 %.
+2 Os valores apresentados reportam à situação verificada a 1 de novembro de 2023, uma vez que nos termos da alínea b) do parágrafo 1 do artigo 6.ºA do Regulamento (UE) [2022/1032](https://data.europa.eu/eli/reg/2022/1032/oj?locale=pt) nessa data existia uma meta de cumprimento obrigatório para todos os Estados Membros de 90 %.
 
 As consequências da agressão militar russa contra a Ucrânia determinaram, como se pôde verificar pela publicação dos regulamentos antes referidos, a adoção de um conjunto de medidas que, de alguma forma, já afetavam a segurança do abastecimento energético da União e dos seus Estados-Membros. A redução dos fluxos de gás russo, no segundo semestre de 2021, em pleno processo de recuperação económica pós pandemia COVID-19, representou um primeiro alerta que, face ao evoluir da situação, obrigou, também a nível nacional, ao estudo e adoção de medidas legislativas para o reforço da garantia de segurança do abastecimento, das quais se destaca a publicação da Portaria n.º [59/2022](https://diariodarepublica.pt/dr/detalhe/portaria/59-2022-178264072), de 28 de janeiro, que fixa a quantidade global mínima das reservas de segurança de gás e determina a obrigatoriedade de constituição de uma reserva adicional no Sistema Nacional de Gás, durante o período de 1 de outubro a 31 de março, por parte dos diversos agentes de mercado.
 
@@ -1902,7 +2466,7 @@ Tabela 27 - Capacidade instalada em armazenamento em baterias e bombagem para o 
 | Armazenamento em baterias (GW) | 0,5 | 2,0 |
 | Bombagem (GW) | 3,6 | 3,9 |
 
-No que se refere a objetivos em termos do armazenamento energético no setor do gás e do petróleo e derivados de petróleo existem regras nacionais, decorrentes de legislação comunitária, para a criação de reservas de segurança, numa perspetiva de resposta a situações de crise e emergência/disrupção do fornecimento destes produtos. A atual capacidade do armazenamento subterrâneo do Carriço permite o armazenamento da totalidade das reservas de segurança de gás natural previstas para os próximos anos (existindo ainda o armazenamento de GNL no terminal de GNL de Sines, que confere uma maior flexibilidade na operação do SNG), sendo de considerar, mediante as necessidades, que estas cavidades adicionais sejam 100 % compatíveis com H<sub>2</sub> e que as cavidades existentes podem ser convertidas para 100 % H<sub>2</sub>. Note-se, como já referido, que a Resolução do Conselho de Ministros n.º [82/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2022-201509699) determina que o operador do armazenamento subterrâneo de gás promova o reforço da capacidade de armazenamento, a fim de obter um montante complementar de capacidade de armazenamento subterrâneo superior a 1,2 TWh e permitir acomodar nesse armazenamento subterrâneo a totalidade das reservas de segurança ou outras que venham a ser definidas.
+No que se refere a objetivos em termos do armazenamento energético no setor do gás e do petróleo e derivados de petróleo existem regras nacionais, decorrentes de legislação comunitária, para a criação de reservas de segurança, numa perspetiva de resposta a situações de crise e emergência/disrupção do fornecimento destes produtos. A atual capacidade do armazenamento subterrâneo do Carriço permite o armazenamento da totalidade das reservas de segurança de gás natural previstas para os próximos anos (existindo ainda o armazenamento de GNL no terminal de GNL de Sines, que confere uma maior flexibilidade na operação do SNG), sendo de considerar, mediante as necessidades, que estas cavidades adicionais sejam 100 % compatíveis com H2 e que as cavidades existentes podem ser convertidas para 100 % H2. Note-se, como já referido, que a Resolução do Conselho de Ministros n.º [82/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2022-201509699) determina que o operador do armazenamento subterrâneo de gás promova o reforço da capacidade de armazenamento, a fim de obter um montante complementar de capacidade de armazenamento subterrâneo superior a 1,2 TWh e permitir acomodar nesse armazenamento subterrâneo a totalidade das reservas de segurança ou outras que venham a ser definidas.
 
 Objetivos nacionais para o aumento da resposta da procura:
 
@@ -1941,7 +2505,7 @@ Tabela 30 - indicadores relacionados com a capacidade/nível de interligação
 
 | Indicador | 2022 | Unidade | Objetivo |
 | --- | --- | --- | --- |
-| Capacidade de Interligação elétrica<sup>36</sup> | 3633 | MW | £ |
+| Capacidade de Interligação elétrica36 | 3633 | MW | £ |
 | Capacidade nominal de interligação em relação aos picos de carga | 106 | % | £ |
 | Capacidade nominal de interligação em relação à capacidade instalada de renovável | 56 | % | £ |
 | Valor médio de diferença de preço no mercado diário | 0,37 | EUR/MWh | ¤ |
@@ -1992,7 +2556,7 @@ Para viabilizar a ligação das centrais das futuras barragens da cascata do Tâ
 
 Importa referir que será dada indicação aos Operadores das Redes de Transporte e de Distribuição de Eletricidade (REN e E-Redes) para que as suas propostas futuras de Planos de Desenvolvimento e Investimento nas Redes (PDIRT e PDIRD) estejam alinhadas com as metas e objetivos nacionais preconizadas neste Plano e que contemplem a identificação dos necessários investimentos na rede, observando sempre o critério da racionalidade económica, mas que serão imprescindíveis para dar cumprimento às metas e objetivos 2030 aqui definidos.
 
-ii) Projetos de infraestruturas (energéticas transeuropeias) principais previstos, além dos projetos de interesse comum (PIC)<sup>37</sup>
+ii) Projetos de infraestruturas (energéticas transeuropeias) principais previstos, além dos projetos de interesse comum (PIC)37
 
 Na prossecução dos objetivos já identificados neste ponto do Plano, para o horizonte 2021-2030, podem ainda ser considerados outros projetos de infraestruturas nos setores da eletricidade e do gás que se consideram igualmente relevantes:
 
@@ -2029,7 +2593,7 @@ Neste contexto, o objetivo para a cobertura de consumidores ligados em BT com co
 
 Refira-se que a ERSE definiu uma proposta de cronograma para a instalação de contadores inteligentes em Portugal continental, como previsto no Decreto-Lei n.º [15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro, na sua redação atual, e que o Governo aprovou o cronograma de instalação dos contadores inteligentes e a sua integração nas infraestruturas das redes inteligentes pelo Despacho n.º [14064/2022](https://diariodarepublica.pt/dr/detalhe/despacho/14064-2022-204338646), de 6 de dezembro, para os operadores de rede de distribuição em Portugal Continental.
 
-i) Objetivos nacionais relacionados com outros aspetos do mercado interno da energia, como a integração e a associação de mercados<sup>38</sup>, incluindo um calendário para o cumprimento dos objetivos
+i) Objetivos nacionais relacionados com outros aspetos do mercado interno da energia, como a integração e a associação de mercados38, incluindo um calendário para o cumprimento dos objetivos
 
 Não aplicável.
 
@@ -2097,7 +2661,7 @@ i) Adequacy
 
 A avaliação da adequação da potência disponível para cobrir a procura horária de eletricidade é efetuada através do Índice de Cobertura probabilístico da Ponta (ICP), que corresponde ao menor dos doze ICP mensais de cada ano. Nesta análise, considera-se a contribuição de uma capacidade correspondente a 10 % da NTC (Net Transfer Capacity) prevista. Para verificação da adequação da capacidade do sistema para cobrir a ponta de consumos considera-se que o ICP com probabilidade de excedência entre 95 % e 99 % não deve ser inferior a 1,0.
 
-ii) Security<sup>39</sup>
+ii) Security39
 
 As necessidades de reserva operacional são avaliadas pelos desvios no equilíbrio oferta-procura que ocorrem entre todos os períodos elementares. Essas necessidades são confrontadas com os meios de produção existentes em cada ano capazes de fornecer reserva operacional. A reserva operacional é constituída pela reserva secundária e pela reserva terciária até 1 hora.
 
@@ -2179,7 +2743,7 @@ Relativamente a este tema, objetivos nacionais respeitantes à pobreza energéti
 
 Tabela 34 - Indicadores principais para aferir a pobreza energética em Portugal
 
-| Indicador | Valor | Referência | Valor/Ano<sup>40</sup> |
+| Indicador | Valor | Referência | Valor/Ano40 |
 | --- | --- | --- | --- |
 | População a viver em agregados sem capacidade para manter a casa adequadamente aquecida | 17,5 % | 2020 | 16,4/17,52021/2022 |
 | População em situação de pobreza e a viver em agregados sem capacidade para manter a casa adequadamente aquecida | 33,8 % | 2020 | 27,9/35,82021/2022 |
@@ -2208,24 +2772,24 @@ Tabela 36 - Objetivos Estratégicos e metas da ELPPE
 | Eixo estratégico | Objetivo estratégico | Indicador | Valor de referência | 2030 | 2040 | 2050 |
 | --- | --- | --- | --- | --- | --- | --- |
 | EE 1Promover a Sustentabilidade Energética e Ambiental da Habitação | OE 1.1Aumentar o desempenho energético da habitação | População a viver em habitações sem capacidade para manter a casa adequadamente aquecida (Indicador Principal) | 17, 5 %(≈1,8 milhões pessoas)2020 | 10 % | 5 % | <1 % |
-| EE 1Promover a Sustentabilidade Energética e Ambiental da Habitação | OE 1.1Aumentar o desempenho energético da habitação | População a viver em habitações não confortavelmente frescas durante o verão (Indicador Principal) | 35,7 %(≈3,7 milhõesde pessoas)2012 | 20 % | 10 % | 5 % |
-| EE 1Promover a Sustentabilidade Energética e Ambiental da Habitação | OE 1.1Aumentar o desempenho energético da habitação | População a viver em habitações com problemas de infiltrações, humidade ou elementos apodrecidos (Indicador Principal) | 25,2 %(≈2,5 milhões pessoas)2020 | 20 % | 10 % | <5 % |
-| EE 1Promover a Sustentabilidade Energética e Ambiental da Habitação | OE 1.1Aumentar o desempenho energético da habitação | Fração edifícios de habitação existentes com classe energética C ou inferior (Indicador Principal) | 69,6 %2020 | 50 % | 40 % | 30 % |
-| EE 1Promover a Sustentabilidade Energética e Ambiental da Habitação | OE 1.2Descarbonização de consumos de energia na habitação | Percentagem do consumo de energia satisfeito por produção local de energia renovável | 6,6 %(1 139,9 ktep)2021 | 10 % | 35 % | 73 % |
+| População a viver em habitações não confortavelmente frescas durante o verão (Indicador Principal) | 35,7 %(≈3,7 milhõesde pessoas)2012 | 20 % | 10 % | 5 % |  |  |
+| População a viver em habitações com problemas de infiltrações, humidade ou elementos apodrecidos (Indicador Principal) | 25,2 %(≈2,5 milhões pessoas)2020 | 20 % | 10 % | <5 % |  |  |
+| Fração edifícios de habitação existentes com classe energética C ou inferior (Indicador Principal) | 69,6 %2020 | 50 % | 40 % | 30 % |  |  |
+| OE 1.2Descarbonização de consumos de energia na habitação | Percentagem do consumo de energia satisfeito por produção local de energia renovável | 6,6 %(1 139,9 ktep)2021 | 10 % | 35 % | 73 % |  |
 | EE2Promover o acesso universal a serviços energéticos essenciais | OE 2.1Reduzir o número de agregados familiares com dificuldade em pagar os serviços energéticos essenciais | A agregados familiares cuja despesa com energia representa + 10 % do total de rendimentos (Indicador Principal) | 1.202.567(≈3,0 milhões pessoas)2016 | 700.000 | 250.000 | 0 |
-| EE2Promover o acesso universal a serviços energéticos essenciais | OE 2.1Reduzir o número de agregados familiares com dificuldade em pagar os serviços energéticos essenciais | População em risco de pobreza | 16,2 %(≈1,7 milhões pessoas)2020 | 10 % | 7 % | <5 % |
-| EE2Promover o acesso universal a serviços energéticos essenciais | OE 2.1Reduzir o número de agregados familiares com dificuldade em pagar os serviços energéticos essenciais | População com dívidas aos serviços de utilidade pública | 3,5 %(≈443 mil pessoas)2020 | 3 % | 2 % | <1 % |
-| EE2Promover o acesso universal a serviços energéticos essenciais | OE 2.1Reduzir o número de agregados familiares com dificuldade em pagar os serviços energéticos essenciais | Número de interrupções por facto imputáveis ao consumidor | 524 1432019 | 500.000 | 300.000 | 100.000 |
-| EE2Promover o acesso universal a serviços energéticos essenciais | OE 2.2Assegurar a proteção de consumidores vulneráveis em situação de pobreza energética | Número de interrupções por facto imputáveis ao consumidor vulnerável em situação de pobreza energética | n.a. | 80 % | 90 % | 100 % |
+| População em risco de pobreza | 16,2 %(≈1,7 milhões pessoas)2020 | 10 % | 7 % | <5 % |  |  |
+| População com dívidas aos serviços de utilidade pública | 3,5 %(≈443 mil pessoas)2020 | 3 % | 2 % | <1 % |  |  |
+| Número de interrupções por facto imputáveis ao consumidor | 524 1432019 | 500.000 | 300.000 | 100.000 |  |  |
+| OE 2.2Assegurar a proteção de consumidores vulneráveis em situação de pobreza energética | Número de interrupções por facto imputáveis ao consumidor vulnerável em situação de pobreza energética | n.a. | 80 % | 90 % | 100 % |  |
 | EE3Promover a ação territorial integrada | OE 3.1Reforçar a ação das estruturas locais no apoio ao cidadão | Número de administrações públicas locais e agências de energia envolvidas | <3 %(≈3 400)2022 | 10 % | 30 % | 50 % |
 |  |  | Número de estruturas do setor social envolvidas | <3 %(≈6 700)2022 | 5 % | 10 % | 15 % |
-|  | OE 3.2Reforçar a oferta de habitação pública de elevado desempenho energético | Número de habitações NZEB20 | A definir | A definir | A definir | A definir |
-|  | OE 3.2Reforçar a oferta de habitação pública de elevado desempenho energético | Número de novas habitações NZEB20 | A definir | A definir | A definir | A definir |
+|  | OE 3.2Reforçar a oferta de habitação pública de elevado desempenho energético | Número de habitações NZEB20 | A definir |  |  |  |
+|  | Número de novas habitações NZEB20 | A definir |  |  |  |  |
 | EE4Promover o conhecimento e a atuação informada | OE 4.1Aumentar a capacidade de identificação de agregados familiares em situação de pobreza energética | Amplitude do universo de população em situação de pobreza energética com base nos indicadores principais | ≈1 200 0002020/2016 | <1.000.000 | <750.000 | <500.000 |
-| EE4Promover o conhecimento e a atuação informada | OE 4.2Aumentar a literacia energética | Literacia energética global dos consumidores particulares | 43,8 ponto(Escala de 0a 100 pontos) | 60 | 75 | 90 |
-| EE4Promover o conhecimento e a atuação informada | OE 4.3Estimular a investigação e inovação | Número de projetos e iniciativas | A definir | A definir | A definir | A definir |
-| EE4Promover o conhecimento e a atuação informada | OE 4.3Estimular a investigação e inovação | Número de entidades envolvidas | A definir | A definir | A definir | A definir |
-| EE4Promover o conhecimento e a atuação informada | OE 4.4Estimular a formação de profissionais | Número de pessoas certificadas | n.d. | +30.000 | +50.000 | +70.000 |
+| OE 4.2Aumentar a literacia energética | Literacia energética global dos consumidores particulares | 43,8 ponto(Escala de 0a 100 pontos) | 60 | 75 | 90 |  |
+| OE 4.3Estimular a investigação e inovação | Número de projetos e iniciativas | A definir |  |  |  |  |
+| Número de entidades envolvidas | A definir |  |  |  |  |  |
+| OE 4.4Estimular a formação de profissionais | Número de pessoas certificadas | n.d. | +30.000 | +50.000 | +70.000 |  |
 
 Sintetizam-se de seguida as medidas da ELPPE, por Objetivo Estratégico e por Eixo Estratégico
 
@@ -2234,28 +2798,28 @@ Tabela 37 - Resumo de medidas por Objetivo Estratégico e Eixo Estratégico
 | Eixo estratégico | Objetivo estratégico | Medida |
 | --- | --- | --- |
 | EE1Promover a Sustentabilidade Energética e Ambiental da Habitação | OE 1.1.Aumentar o desempenho energético da habitação | M1.1.1Promover a reabilitação energética, o aumento do conforto térmico passivo e a redução de problemas de infiltrações, humidade e elementos apodrecidos |
-| EE1Promover a Sustentabilidade Energética e Ambiental da Habitação | OE 1.1.Aumentar o desempenho energético da habitação | M 1.1.2Promover a eficiência energética e o aumento do conforto térmico ativo |
-| EE1Promover a Sustentabilidade Energética e Ambiental da Habitação | OE 1.2Descarbonizar o consumo de energia na habitação | M 1.2.1Promover o autoconsumo de eletricidade renovável |
+| M 1.1.2Promover a eficiência energética e o aumento do conforto térmico ativo |  |  |
+| OE 1.2Descarbonizar o consumo de energia na habitação | M 1.2.1Promover o autoconsumo de eletricidade renovável |  |
 |  |  | M 1.2.2Promover o aquecimento e arrefecimento renovável |
 |  |  | M 1.2.3Promover a eletrificação de consumos |
 | EE 2Promover o acesso universal a serviços energéticos essenciais | OE 2.1Reduzir o número de agregados familiares com dificuldade em pagar os serviços energéticos essenciais | M 2.1.1 Promover a redução da fatura energética |
-| EE 2Promover o acesso universal a serviços energéticos essenciais | OE 2.1Reduzir o número de agregados familiares com dificuldade em pagar os serviços energéticos essenciais | M 2.1.2Promover o autoconsumo e a partilha de eletricidade renovável envolvendo consumidores vulneráveis |
-| EE 2Promover o acesso universal a serviços energéticos essenciais | OE 2.2Assegurar a proteção de consumidores vulneráveis em situação de pobreza energética | M 2.2.1Prevenir interrupções em períodos críticos |
-| EE 2Promover o acesso universal a serviços energéticos essenciais | OE 2.2Assegurar a proteção de consumidores vulneráveis em situação de pobreza energética | M 2.2.2Assegurar serviços mínimos |
+| M 2.1.2Promover o autoconsumo e a partilha de eletricidade renovável envolvendo consumidores vulneráveis |  |  |
+| OE 2.2Assegurar a proteção de consumidores vulneráveis em situação de pobreza energética | M 2.2.1Prevenir interrupções em períodos críticos |  |
+| M 2.2.2Assegurar serviços mínimos |  |  |
 | EE 3Promover a integração territorial integrada | OE 3.1Reforçar a ação das estruturas locais no apoio ao cidadão | M 3.1.1Promover uma rede integrada de Espaços Cidadão Energia |
-| EE 3Promover a integração territorial integrada | OE 3.1Reforçar a ação das estruturas locais no apoio ao cidadão | M 3.1.2Promover a integração do combate à pobreza energética nas políticas públicas locais |
-| EE 3Promover a integração territorial integrada | OE 3.1Reforçar a ação das estruturas locais no apoio ao cidadão | M 3.1.3Facilitar o desenvolvimento de comunidades de energia renovável municipal |
-| EE 3Promover a integração territorial integrada | OE 3.2Reforçar a oferta de habitação pública de elevado desempenho energético | M 3.2.1Promover a reabilitação energética e o aumento do conforto térmico |
-| EE 3Promover a integração territorial integrada | OE 3.2Reforçar a oferta de habitação pública de elevado desempenho energético | M 3.2.2Promover nova construção |
+| M 3.1.2Promover a integração do combate à pobreza energética nas políticas públicas locais |  |  |
+| M 3.1.3Facilitar o desenvolvimento de comunidades de energia renovável municipal |  |  |
+| OE 3.2Reforçar a oferta de habitação pública de elevado desempenho energético | M 3.2.1Promover a reabilitação energética e o aumento do conforto térmico |  |
+| M 3.2.2Promover nova construção |  |  |
 | EE 4Promover o conhecimento e atuação informada | OE 4.1Aumentar a capacidade de identificação de agregados familiares em situação de pobreza energética | M 4.1.1Desenvolver e reforçar instrumentos de inquérito |
-| EE 4Promover o conhecimento e atuação informada | OE 4.1Aumentar a capacidade de identificação de agregados familiares em situação de pobreza energética | M 4.1.2Desenvolver conhecimento sobre a problemática da pobreza energética |
+| M 4.1.2Desenvolver conhecimento sobre a problemática da pobreza energética |  |  |
 |  |  | M 4.1.3Diversificar as estruturas de apoio à identificação de agregados em pobreza energética |
 |  | OE 4.2Aumentar a literacia energética | M 4.2.1Promover a literacia energética de crianças e jovens |
-|  | OE 4.2Aumentar a literacia energética | M 4.2.2Promover a literacia energética dos consumidores em situação de pobreza energética severa e/ou em risco de exclusão |
-|  | OE 4.2Aumentar a literacia energética | M 4.2.3Promover a literacia energética dos consumidores em geral |
+|  | M 4.2.2Promover a literacia energética dos consumidores em situação de pobreza energética severa e/ou em risco de exclusão |  |
+|  | M 4.2.3Promover a literacia energética dos consumidores em geral |  |
 |  | OE 4.3Estimular a investigação e inovação | M 4.3.1Promover a inovação social |
-|  | OE 4.3Estimular a investigação e inovação | M 4.3.2Promover a inovação tecnológica |
-|  | OE 4.3Estimular a investigação e inovação | M 4.3.3Promover a inovação no financiamento |
+|  | M 4.3.2Promover a inovação tecnológica |  |
+|  | M 4.3.3Promover a inovação no financiamento |  |
 |  | OE 4.4Estimular a formação de profissionais | M 4.4.1Promover a oferta formativa profissional para especialização e para aquisição de novas competências |
 
 A Estratégia define e dimensiona medidas de combate à pobreza energética, proporcionando benefícios que garantam o fornecimento de energia aos clientes vulneráveis ou fornecendo apoios para melhorias da eficiência energética das habitações, entre outras, conforme Tabela 37 supra.
@@ -2354,11 +2918,11 @@ Em paralelo, importa prever programas de competitividade na área da energia e c
 
 Enquadrada na Componente 5 «Capitalização e Inovação Empresarial» do Plano de Recuperação e Resiliência (PRR), a Missão Interface, com um orçamento de cerca de 186 milhões de euros, tem como principal objetivo aprofundar o esforço de alargamento e consolidação da rede de instituições de interface (Centros de Tecnologia e Inovação - CTI e Laboratórios Colaborativos - CoLAB) entre o sistema académico, científico e tecnológico e o tecido empresarial português, garantindo o apoio necessário para potenciar o impacto na promoção do investimento em I&D e aumentar a competitividade do setor privado. A Missão Interface tem como objetivo garantir o financiamento público de base para reforçar a rede de instituições de interface, sendo considerada como prioridade, entre outras, o alinhamento com os domínios prioritários das Estratégicas de Especialização Inteligente e, de uma forma transversal, acompanhar o foco na descarbonização e economia circular e nas tecnologias digitais, naquilo que se concretiza na dupla transição.
 
-Em particular, os CTI são entidades que se dedicam à produção, difusão e transmissão de conhecimento, orientado para as empresas e para a criação de valor económico, contribuindo, para a prossecução de objetivos de política pública, enquadrados nos domínios de especialização prioritários nacionais ou das regiões em que atuam. Com um compromisso de 92,8 M€ para financiar os CTI no período entre 2022 e 2026, Portugal executou já 8M€ (9 %) para financiar as 31 entidades em atividade, das quais, pelo menos 9 atuam em áreas com particular interesse para o PNEC2030: incluindo o CTCOR e RAIZ em «Agroalimentar, Biodiversidade e Floresta», BIKiNNOV, BLC3, CVR e STAR em «Economia Circular e Sustentabilidade Urbana» e CEiiA Oceano & Espaço, Seapower e WavEC em «Espaço, Oceano, Energia e Sustentabilidade» (2023 CTI Annual Report)<sup>41</sup>.
+Em particular, os CTI são entidades que se dedicam à produção, difusão e transmissão de conhecimento, orientado para as empresas e para a criação de valor económico, contribuindo, para a prossecução de objetivos de política pública, enquadrados nos domínios de especialização prioritários nacionais ou das regiões em que atuam. Com um compromisso de 92,8 M€ para financiar os CTI no período entre 2022 e 2026, Portugal executou já 8M€ (9 %) para financiar as 31 entidades em atividade, das quais, pelo menos 9 atuam em áreas com particular interesse para o PNEC2030: incluindo o CTCOR e RAIZ em «Agroalimentar, Biodiversidade e Floresta», BIKiNNOV, BLC3, CVR e STAR em «Economia Circular e Sustentabilidade Urbana» e CEiiA Oceano & Espaço, Seapower e WavEC em «Espaço, Oceano, Energia e Sustentabilidade» (2023 CTI Annual Report)41.
 
-Por outro lado, os CoLAB são entidades que se dedicam à produção, difusão e transmissão de conhecimento através de prossecução de agendas próprias de investigação e de inovação. Tendo por base um portefólio de produtos ou sistemas de maior valor acrescentado, os CoLAB são orientados para facilitar o acesso de empresas aos mercados globais através de exportações, assim como apoiar a atração de investimento estrangeiro em áreas de grande intensidade tecnológica. Os CoLABs podem ser de âmbito nacional, regional/local, ou empresarial, orientando as suas atividades para a criação de emprego qualificado e de valor económico e social no espaço intermédio do sistema de inovação. Com um compromisso de 96,6 M€ para financiar os CoLAB no período entre 2022 e 2026, Portugal executou já 12M€ (12 %) para financiar as 41 entidades em atividade, das quais, pelo menos 17 atuam em áreas com particular interesse para o PNEC2030: BIOREF, HYLAB, Net4CO<sub>2</sub>, Smart Energy LAB e VG CoLAB em «Energia e Sustentabilidade», AlmaScience, BUILT CoLAB, C5LAB, CECOLAB e CEiiA-S2ul em «Materiais, Economia Circular, e Sustentabilidade Urbana», +Atlatinc B2E, Green CoLAB e S2AQUAcoLAB em «Clima, Espaço e Oceano» e ForestWISE, InnovPlantProtect e MORE em «Biodiversidade e Floresta» (2023 CoLAB Annual Report)<sup>42</sup>.
+Por outro lado, os CoLAB são entidades que se dedicam à produção, difusão e transmissão de conhecimento através de prossecução de agendas próprias de investigação e de inovação. Tendo por base um portefólio de produtos ou sistemas de maior valor acrescentado, os CoLAB são orientados para facilitar o acesso de empresas aos mercados globais através de exportações, assim como apoiar a atração de investimento estrangeiro em áreas de grande intensidade tecnológica. Os CoLABs podem ser de âmbito nacional, regional/local, ou empresarial, orientando as suas atividades para a criação de emprego qualificado e de valor económico e social no espaço intermédio do sistema de inovação. Com um compromisso de 96,6 M€ para financiar os CoLAB no período entre 2022 e 2026, Portugal executou já 12M€ (12 %) para financiar as 41 entidades em atividade, das quais, pelo menos 17 atuam em áreas com particular interesse para o PNEC2030: BIOREF, HYLAB, Net4CO2, Smart Energy LAB e VG CoLAB em «Energia e Sustentabilidade», AlmaScience, BUILT CoLAB, C5LAB, CECOLAB e CEiiA-S2ul em «Materiais, Economia Circular, e Sustentabilidade Urbana», +Atlatinc B2E, Green CoLAB e S2AQUAcoLAB em «Clima, Espaço e Oceano» e ForestWISE, InnovPlantProtect e MORE em «Biodiversidade e Floresta» (2023 CoLAB Annual Report)42.
 
-Em 2019, Portugal desenvolveu um conjunto de Agendas Temáticas de Investigação e Inovação, coordenadas pela Fundação para a Ciência e a Tecnologia, I. P. (FCT), uma das quais dedicada às Alterações Climáticas<sup>43</sup>, que mobilizou peritos de instituições de I&D e de empresas na identificação de desafios e oportunidades ao nível do sistema científico e tecnológico nacional.
+Em 2019, Portugal desenvolveu um conjunto de Agendas Temáticas de Investigação e Inovação, coordenadas pela Fundação para a Ciência e a Tecnologia, I. P. (FCT), uma das quais dedicada às Alterações Climáticas43, que mobilizou peritos de instituições de I&D e de empresas na identificação de desafios e oportunidades ao nível do sistema científico e tecnológico nacional.
 
 É esperado que estas agendas possam igualmente contribuir para o desenvolvimento de investigação e inovação, contribuindo para a resposta aos problemas ou necessidades dos diferentes setores da sociedade. A elaboração das agendas temáticas teve como principal objetivo promover a reflexão coletiva sobre a base de conhecimento de suporte ao desenvolvimento científico, tecnológico e socioeconómico do país nos temas em questão.
 
@@ -2398,7 +2962,8 @@ Os 8 objetivos do PNEC, descritos no capítulo 1, contemplam 66 linhas de atuaç
 
 Para efeitos de preenchimento deste template, procedeu-se a um reajuste na distribuição das medidas, mantendo, contudo, a sua numeração original.
 
-![](https://files.diariodarepublica.pt/images/914597185/914597484.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597484.png) |
+| --- |
 
 3.1 - Dimensão Descarbonização
 
@@ -2416,7 +2981,7 @@ Com vista a descarbonizar a economia e atingir os objetivos definidos a nível n
 | --- |
 | DESCRIÇÃOPromover a transição energética, com vista à redução progressiva do uso de combustíveis fósseis na produção de eletricidade, apostando fortemente nos recursos renováveis endógenos, reduzindo a dependência energética do país. As fontes de energia renovável terão de desempenhar um papel cada vez mais determinante tendo em consideração o descomissionamento das centrais a carvão, e a proibição da utilização do gás natural de origem fóssil para a produção de energia elétrica, a partir de 2040, desde que assegurada a segurança de abastecimento. O armazenamento terá igualmente um papel cada vez mais preponderante no funcionamento do sistema elétrico bem como na garantia da segurança de abastecimento. |
 | SETOR(ES)Energia |
-| MEDIDAS DE AÇÃOPara promover a descarbonização do sistema eletroprodutor, para além das medidas de ação do Objetivo 3 - REFORÇAR A APOSTA NAS ENERGIAS RENOVÁVEIS E REDUZIR A DEPENDÊNCIA ENERGÉTICA DO PAÍS, estão previstas as seguintes medidas de ação:1.1.1 - Cessar a produção de eletricidade a partir do carvão - Medida concretizadaA progressiva descontinuidade da utilização de combustíveis fósseis para produção de eletricidade, em particular do carvão, é essencial para garantir a transição energética para uma sociedade neutra em carbono. Assim, em 2016 Portugal assumiu o compromisso de deixar de produzir eletricidade a partir de carvão o mais tardar até 2030, sendo membro da Powering Past Coal Alliance (PPCA), uma aliança global de governos, empresas e organizações nacionais e subnacionais que trabalham para promover a transição da geração de energia a carvão, transição oportuna e necessária para cumprir os compromissos internacionais estabelecidos pelo Acordo de Paris.Para o efeito, e tendo em conta a existência de fatores que desincentivam contundentemente a produção de eletricidade a partir de carvão, como a subida do preço das licenças de emissão de CO<sub>2</sub>, o fim da isenção do ISP e o aumento do preço do carvão, bem como estudos de segurança de abastecimento já efetuados, previa-se o encerramento das centrais térmicas do Pego em 2021 e de Sines em 2023. Nesta perspetiva foram desenvolvidas as necessárias avaliações técnicas que tiveram em consideração a evolução da rede elétrica e o parque eletroprodutor para avaliar os impactos e antecipar eventuais medidas de mitigação para o SEN.Esta medida foi antecipadamente concretizada ainda em 2021, com o encerramento definitivo da produção de eletricidade a partir de carvão em Portugal.Tendo em vista assegurar uma transição justa foram adotadas várias medidas de apoio aos trabalhadores e à diversificação económica das regiões afetadas, incluindo a sua inclusão nas áreas territoriais que podem aceder ao Fundo para uma Transição Justa, medidas que continuam a ser prosseguidas através do lançamento de avisos específicos de apoio à diversificação económica e inovação produtiva nas regiões abrangidas. Foi ainda, para este efeito, desenvolvido em 2021 um estudo para aferir as necessidades de requalificação profissional dos trabalhadores das Centrais («Estudo de requalificação e identificação de oportunidade de emprego dos trabalhadores afetados pelo fim da produção de eletricidade a partir de carvão nas centrais do Pego e de Sines» - ISCTE - financiado pelo Instituto do Emprego e Formação Profissional, I. P.), tendo sido ainda criado um «Mecanismo de Compensação para uma transição justa», financiado pelo Fundo Ambiental, tem o objetivo de garantir a manutenção do rendimento dos trabalhadores afetados, direta e indiretamente, pelo fecho da atividade de produção de eletricidade a partir de carvão na Central Termoelétrica do Pego, e pelo seu consequente encerramento, mecanismo este com caráter transitório. [Data: 2021]1.1.2 - Avaliar a conversão das centrais a carvão para fontes renováveis - Medida concretizadaPara mitigar os efeitos do encerramento das duas centrais a carvão, encontram-se a ser implementadas soluções alternativas de reciclagem e reutilização dos espaços e dos equipamentos das centrais termoelétricas para a produção de energia a partir de fontes renováveis de energia.As instalações da Central de Sines estão a passar pela fase de desmantelamento e adaptação parcial a projetos de energias renováveis, nomeadamente de produção de hidrogénio renovável. A Central do Pego teve a capacidade de ligação à rede sujeita a um procedimento concorrencial com o objetivo de atribuir a capacidade disponível a projetos de energias renováveis. A proposta vencedora integra produção de energia elétrica a partir de energia eólica e de energia solar, incluindo armazenamento eletroquímico (baterias) e produção de gases renováveis. O Decreto-Lei n.º [15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016) de 14 de janeiro criou uma zona livre tecnológica (ZLT) de energias renováveis no município de Abrantes, destinada ao estabelecimento de projetos de inovação e desenvolvimento para a produção, armazenamento e autoconsumo de eletricidade a partir de energias renováveis, a desenvolver no âmbito do processo de descomissionamento da central termoelétrica a carvão ali existente. Para operacionalizar a ZLT-Abrantes, foi publicado a 4 de outubro 2023, pela Secretaria de Estado da Energia e Clima o [Despacho n.º 10228/2023](https://diariodarepublica.pt/dr/detalhe/despacho/10228-2023-222421523). [Data: 2023]1.1.3 - Promover a utilização de combustíveis sustentáveis na produção de eletricidade nas Regiões Autónomas.As regiões autónomas têm implementado uma política energética alinhada com as orientações e com os compromissos nacionais e internacionais subscritos nesta temática, estando igualmente empenhadas na descarbonização da economia e da produção de eletricidade, prova disso é o caminho que têm vindo a efetuar na promoção das fontes renováveis de energia com o objetivo de reduzir as emissões de GEE e as importações de combustíveis fósseis.No caso do setor elétrico, a descarbonização implicará a reconversão das centrais térmicas que utilizam fuelóleo ou gasóleo como combustível, para a utilização de combustíveis sustentáveis e alternativos, complementada por outras soluções que garantam a segurança e qualidade do abastecimento. Com este intuito, serão avaliadas e testadas as soluções disponíveis de acordo com as limitações técnicas e específicas, características das Regiões Autónomas. [Data prevista: 2020-2030] |
+| MEDIDAS DE AÇÃOPara promover a descarbonização do sistema eletroprodutor, para além das medidas de ação do Objetivo 3 - REFORÇAR A APOSTA NAS ENERGIAS RENOVÁVEIS E REDUZIR A DEPENDÊNCIA ENERGÉTICA DO PAÍS, estão previstas as seguintes medidas de ação:1.1.1 - Cessar a produção de eletricidade a partir do carvão - Medida concretizadaA progressiva descontinuidade da utilização de combustíveis fósseis para produção de eletricidade, em particular do carvão, é essencial para garantir a transição energética para uma sociedade neutra em carbono. Assim, em 2016 Portugal assumiu o compromisso de deixar de produzir eletricidade a partir de carvão o mais tardar até 2030, sendo membro da Powering Past Coal Alliance (PPCA), uma aliança global de governos, empresas e organizações nacionais e subnacionais que trabalham para promover a transição da geração de energia a carvão, transição oportuna e necessária para cumprir os compromissos internacionais estabelecidos pelo Acordo de Paris.Para o efeito, e tendo em conta a existência de fatores que desincentivam contundentemente a produção de eletricidade a partir de carvão, como a subida do preço das licenças de emissão de CO2, o fim da isenção do ISP e o aumento do preço do carvão, bem como estudos de segurança de abastecimento já efetuados, previa-se o encerramento das centrais térmicas do Pego em 2021 e de Sines em 2023. Nesta perspetiva foram desenvolvidas as necessárias avaliações técnicas que tiveram em consideração a evolução da rede elétrica e o parque eletroprodutor para avaliar os impactos e antecipar eventuais medidas de mitigação para o SEN.Esta medida foi antecipadamente concretizada ainda em 2021, com o encerramento definitivo da produção de eletricidade a partir de carvão em Portugal.Tendo em vista assegurar uma transição justa foram adotadas várias medidas de apoio aos trabalhadores e à diversificação económica das regiões afetadas, incluindo a sua inclusão nas áreas territoriais que podem aceder ao Fundo para uma Transição Justa, medidas que continuam a ser prosseguidas através do lançamento de avisos específicos de apoio à diversificação económica e inovação produtiva nas regiões abrangidas. Foi ainda, para este efeito, desenvolvido em 2021 um estudo para aferir as necessidades de requalificação profissional dos trabalhadores das Centrais («Estudo de requalificação e identificação de oportunidade de emprego dos trabalhadores afetados pelo fim da produção de eletricidade a partir de carvão nas centrais do Pego e de Sines» - ISCTE - financiado pelo Instituto do Emprego e Formação Profissional, I. P.), tendo sido ainda criado um «Mecanismo de Compensação para uma transição justa», financiado pelo Fundo Ambiental, tem o objetivo de garantir a manutenção do rendimento dos trabalhadores afetados, direta e indiretamente, pelo fecho da atividade de produção de eletricidade a partir de carvão na Central Termoelétrica do Pego, e pelo seu consequente encerramento, mecanismo este com caráter transitório. [Data: 2021]1.1.2 - Avaliar a conversão das centrais a carvão para fontes renováveis - Medida concretizadaPara mitigar os efeitos do encerramento das duas centrais a carvão, encontram-se a ser implementadas soluções alternativas de reciclagem e reutilização dos espaços e dos equipamentos das centrais termoelétricas para a produção de energia a partir de fontes renováveis de energia.As instalações da Central de Sines estão a passar pela fase de desmantelamento e adaptação parcial a projetos de energias renováveis, nomeadamente de produção de hidrogénio renovável. A Central do Pego teve a capacidade de ligação à rede sujeita a um procedimento concorrencial com o objetivo de atribuir a capacidade disponível a projetos de energias renováveis. A proposta vencedora integra produção de energia elétrica a partir de energia eólica e de energia solar, incluindo armazenamento eletroquímico (baterias) e produção de gases renováveis. O Decreto-Lei n.º [15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016) de 14 de janeiro criou uma zona livre tecnológica (ZLT) de energias renováveis no município de Abrantes, destinada ao estabelecimento de projetos de inovação e desenvolvimento para a produção, armazenamento e autoconsumo de eletricidade a partir de energias renováveis, a desenvolver no âmbito do processo de descomissionamento da central termoelétrica a carvão ali existente. Para operacionalizar a ZLT-Abrantes, foi publicado a 4 de outubro 2023, pela Secretaria de Estado da Energia e Clima o [Despacho n.º 10228/2023](https://diariodarepublica.pt/dr/detalhe/despacho/10228-2023-222421523). [Data: 2023]1.1.3 - Promover a utilização de combustíveis sustentáveis na produção de eletricidade nas Regiões Autónomas.As regiões autónomas têm implementado uma política energética alinhada com as orientações e com os compromissos nacionais e internacionais subscritos nesta temática, estando igualmente empenhadas na descarbonização da economia e da produção de eletricidade, prova disso é o caminho que têm vindo a efetuar na promoção das fontes renováveis de energia com o objetivo de reduzir as emissões de GEE e as importações de combustíveis fósseis.No caso do setor elétrico, a descarbonização implicará a reconversão das centrais térmicas que utilizam fuelóleo ou gasóleo como combustível, para a utilização de combustíveis sustentáveis e alternativos, complementada por outras soluções que garantam a segurança e qualidade do abastecimento. Com este intuito, serão avaliadas e testadas as soluções disponíveis de acordo com as limitações técnicas e específicas, características das Regiões Autónomas. [Data prevista: 2020-2030] |
 | CONTRIBUTO PARA 5 DIMENSÕESDescarbonização; Segurança Energética, |
 | PRINCIPAIS INSTRUMENTOSRNC2050; RMSA-E; EAE 2030 |
 | FONTES DE FINANCIAMENTOProgramas Operacionais Regionais Norte 2030 e Alentejo 2030 que integram o Fundo para uma Transição Justa; Fundo de Modernização; Fundo de Inovação; PRR; Fundo Ambiental |
@@ -2426,7 +2991,7 @@ Com vista a descarbonizar a economia e atingir os objetivos definidos a nível n
 | --- |
 | DESCRIÇÃOAssegurar a adequada implementação do regime CELE em Portugal, adaptando-o às novas regras comunitárias, a fim de promover a redução de GEE em condições que ofereçam uma boa relação custo-eficácia e que seja economicamente eficiente. |
 | SETOR(ES)Energia; Indústria; Edifícios; Transportes; Resíduos |
-| MEDIDAS DE AÇÃOPara prosseguir com a aplicação do regime CELE, para além da sua aplicação a nível nacional, estão previstas as seguintes medidas de ação:1.2.1 - Prosseguir com uma estratégia para a exclusão de instalações do regime CELEFoi estabelecido o procedimento a nível nacional para a possível exclusão do regime CELE de instalações que emitam menos de 25 000 tCO<sub>2eq</sub>, desde que sujeitas a medidas que permitam uma contribuição equivalente de redução de emissões, e para a possível exclusão de instalações que emitam menos de 2 500 tCO<sub>2eq</sub> (sem sujeição a medidas equivalentes).Este procedimento encontra-se previsto no [Decreto-Lei n.º 12/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2020-131124444), de 6 de abril, tendo sido notificada à Comissão Europeia a exclusão opcional de 12 operadores, no período 2021-2025, ao abrigo dos artigos 27.º e 27.ºA da Diretiva CELE, com indicação da respetiva medida equivalente de redução de emissões, nos casos aplicáveis. Esta medida será assim prosseguida para o período 2026-2030. [Data: 2020-2030]1.2.2 - Aplicar o mecanismo de compensação de custos indiretos no CELEForam estabelecidas as regras relativas a medidas de auxílio estatal no âmbito do regime CELE, tendo sido adotadas medidas especiais e temporárias a favor de setores e subsetores expostos a um risco significativo de fuga de carbono, colmatando os custos relacionados com as emissões de GEE repercutidos no preço da eletricidade.A presente medida foi concretizada com a publicação da [Portaria n.º 203/2021](https://diariodarepublica.pt/dr/detalhe/portaria/203-2021-171992307), de 28 de setembro, alterada pela [Portaria n.º 231/2021](https://diariodarepublica.pt/dr/detalhe/portaria/231-2021-173707578), de 2 de novembro, que estabelece uma medida de auxílio a favor das instalações abrangidas pelo regime CELE que desenvolvem a sua atividade em setores e subsetores considerados expostos a um risco significativo de fuga de carbono devido aos custos relacionados com as emissões de GEE repercutidos no preço da eletricidade, a fim de compensar os referidos custos, usualmente denominados por custos indiretos.A presente medida de auxílio vigora, relativamente aos custos indiretos incorridos anualmente pelas instalações CELE elegíveis, entre 1 de janeiro de 2021 e 31 de dezembro de 2030, tendo já sido atribuídos os auxílios previstos relativamente aos custos incorridos em 2021 e 2022, estando em curso o período de avaliação de candidaturas referentes ao ano de 2023. Esta medida será assim prosseguida para o período 2023-2030.[Data: 2021-2030]1.2.3 - Adequar o regime CELE às novas exigências resultante da revisão da Diretiva - Nova medidaAdequar as novas disposições relativas à aplicação do regime CELE resultantes da publicação das Diretivas (UE) [2023/958](https://data.europa.eu/eli/dir/2023/958/oj?locale=pt) e (UE) 2023/959 do parlamento europeu e do conselho, de 10 de maio de 2023, que alteram a [Diretiva 2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt) relativa à criação de um sistema de comércio de licenças de emissão de gases com efeito de estufa na União. Esta revisão diz respeito à fase 4 de aplicação do regime CELE (2021-2030) e inclui uma série de alterações significativas, como é o caso:•Redução das licenças de emissão disponíveis anualmente com vista a se atingir a nova meta de redução das emissões relativas ao regime CELE para 2030, neste caso de -62 %, substituindo os anteriores -43 %;•Revisão das regras de atribuição gratuita de licenças de emissão;•Revisão dos setores industriais abrangidos;•Inclusão da monitorização de emissões de GEE das instalações de incineração de resíduos urbanos no regime CELE;•Revisão das regras relativas ao setor da aviação, com vista a assegurar que o mesmo contribui para os objetivos climáticos da UE, entre outros aspetos, através de um aumento da venda em leilão de licenças de emissão e do fim do processo de atribuição gratuita de licenças de emissão a partir de 2026;•Extensão do regime CELE ao setor do transporte marítimo, por forma a dar um contributo significativo para a redução das emissões de gases com efeito de estufa provenientes das atividades marítimas e para o aumento da eficiência dessas mesmas atividades.•Criação de um novo e distinto regime CELE que abrange os edifícios e transporte rodoviário bem como outros sectores que correspondam a atividades industriais não abrangidas pelo anexo I da [Diretiva 2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt).•Reforço dos Fundos de Inovação e Modernização e criação do novo Fundo Social de Ação Climática (FSAC).[Data prevista: 2024] |
+| MEDIDAS DE AÇÃOPara prosseguir com a aplicação do regime CELE, para além da sua aplicação a nível nacional, estão previstas as seguintes medidas de ação:1.2.1 - Prosseguir com uma estratégia para a exclusão de instalações do regime CELEFoi estabelecido o procedimento a nível nacional para a possível exclusão do regime CELE de instalações que emitam menos de 25 000 tCO2eq, desde que sujeitas a medidas que permitam uma contribuição equivalente de redução de emissões, e para a possível exclusão de instalações que emitam menos de 2 500 tCO2eq (sem sujeição a medidas equivalentes).Este procedimento encontra-se previsto no [Decreto-Lei n.º 12/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2020-131124444), de 6 de abril, tendo sido notificada à Comissão Europeia a exclusão opcional de 12 operadores, no período 2021-2025, ao abrigo dos artigos 27.º e 27.ºA da Diretiva CELE, com indicação da respetiva medida equivalente de redução de emissões, nos casos aplicáveis. Esta medida será assim prosseguida para o período 2026-2030. [Data: 2020-2030]1.2.2 - Aplicar o mecanismo de compensação de custos indiretos no CELEForam estabelecidas as regras relativas a medidas de auxílio estatal no âmbito do regime CELE, tendo sido adotadas medidas especiais e temporárias a favor de setores e subsetores expostos a um risco significativo de fuga de carbono, colmatando os custos relacionados com as emissões de GEE repercutidos no preço da eletricidade.A presente medida foi concretizada com a publicação da [Portaria n.º 203/2021](https://diariodarepublica.pt/dr/detalhe/portaria/203-2021-171992307), de 28 de setembro, alterada pela [Portaria n.º 231/2021](https://diariodarepublica.pt/dr/detalhe/portaria/231-2021-173707578), de 2 de novembro, que estabelece uma medida de auxílio a favor das instalações abrangidas pelo regime CELE que desenvolvem a sua atividade em setores e subsetores considerados expostos a um risco significativo de fuga de carbono devido aos custos relacionados com as emissões de GEE repercutidos no preço da eletricidade, a fim de compensar os referidos custos, usualmente denominados por custos indiretos.A presente medida de auxílio vigora, relativamente aos custos indiretos incorridos anualmente pelas instalações CELE elegíveis, entre 1 de janeiro de 2021 e 31 de dezembro de 2030, tendo já sido atribuídos os auxílios previstos relativamente aos custos incorridos em 2021 e 2022, estando em curso o período de avaliação de candidaturas referentes ao ano de 2023. Esta medida será assim prosseguida para o período 2023-2030.[Data: 2021-2030]1.2.3 - Adequar o regime CELE às novas exigências resultante da revisão da Diretiva - Nova medidaAdequar as novas disposições relativas à aplicação do regime CELE resultantes da publicação das Diretivas (UE) [2023/958](https://data.europa.eu/eli/dir/2023/958/oj?locale=pt) e (UE) 2023/959 do parlamento europeu e do conselho, de 10 de maio de 2023, que alteram a [Diretiva 2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt) relativa à criação de um sistema de comércio de licenças de emissão de gases com efeito de estufa na União. Esta revisão diz respeito à fase 4 de aplicação do regime CELE (2021-2030) e inclui uma série de alterações significativas, como é o caso:•Redução das licenças de emissão disponíveis anualmente com vista a se atingir a nova meta de redução das emissões relativas ao regime CELE para 2030, neste caso de -62 %, substituindo os anteriores -43 %;•Revisão das regras de atribuição gratuita de licenças de emissão;•Revisão dos setores industriais abrangidos;•Inclusão da monitorização de emissões de GEE das instalações de incineração de resíduos urbanos no regime CELE;•Revisão das regras relativas ao setor da aviação, com vista a assegurar que o mesmo contribui para os objetivos climáticos da UE, entre outros aspetos, através de um aumento da venda em leilão de licenças de emissão e do fim do processo de atribuição gratuita de licenças de emissão a partir de 2026;•Extensão do regime CELE ao setor do transporte marítimo, por forma a dar um contributo significativo para a redução das emissões de gases com efeito de estufa provenientes das atividades marítimas e para o aumento da eficiência dessas mesmas atividades.•Criação de um novo e distinto regime CELE que abrange os edifícios e transporte rodoviário bem como outros sectores que correspondam a atividades industriais não abrangidas pelo anexo I da [Diretiva 2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt).•Reforço dos Fundos de Inovação e Modernização e criação do novo Fundo Social de Ação Climática (FSAC).[Data prevista: 2024] |
 | CONTRIBUTO PARA 5 DIMENSÕESDescarbonização |
 | PRINCIPAIS INSTRUMENTOSDiretiva CELE |
 | FONTES DE FINANCIAMENTOFA; FSAC; QFP 2021-2027 |
@@ -2434,7 +2999,7 @@ Com vista a descarbonizar a economia e atingir os objetivos definidos a nível n
 
 | LINHA DE ATUAÇÃO1.3 - REDUZIR A INTENSIDADE CARBÓNICA DO PARQUE DE EDIFÍCIOS |
 | --- |
-| DESCRIÇÃOReduzir a intensidade carbónica dos edifícios, consumir energia de forma mais eficiente, promover uma maior eletrificação do setor, substituir combustíveis fósseis por fontes de energia renovável, promover o uso de materiais de baixo carbono, promover mudanças de comportamento e aumentar a economia da partilha, apostando sobretudo na reabilitação com vista a uma maior eficiência energética e hídrica e aumento do conforto térmico, contribuindo para reduzir a pobreza energética.A par da eletrificação, é de referir a importância dos gases de origem renovável, nomeadamente o biometano e o H<sub>2</sub> renovável, tirando partido das redes de gás existentes e garantindo uma solução neutra em carbono e custo eficiente comparativamente com a eletrificação. |
+| DESCRIÇÃOReduzir a intensidade carbónica dos edifícios, consumir energia de forma mais eficiente, promover uma maior eletrificação do setor, substituir combustíveis fósseis por fontes de energia renovável, promover o uso de materiais de baixo carbono, promover mudanças de comportamento e aumentar a economia da partilha, apostando sobretudo na reabilitação com vista a uma maior eficiência energética e hídrica e aumento do conforto térmico, contribuindo para reduzir a pobreza energética.A par da eletrificação, é de referir a importância dos gases de origem renovável, nomeadamente o biometano e o H2 renovável, tirando partido das redes de gás existentes e garantindo uma solução neutra em carbono e custo eficiente comparativamente com a eletrificação. |
 | SETOR(ES)Energia; Edifícios; Indústria; |
 | MEDIDAS DE AÇÃOPara reduzir a intensidade carbónica do parque de edifícios, para além das medidas de ação relativas à melhoria da eficiência energética em edifícios do Objetivo 2 - DAR PRIORIDADE À EFICIÊNCIA ENERGÉTICA e das medidas de ação do Objetivo 3 - REFORÇAR A APOSTA NAS ENERGIAS RENOVÁVEIS E REDUZIR A DEPENDÊNCIA ENERGÉTICA DO PAÍS, estão previstas as seguintes medidas de ação:1.3.1 - Promover a reabilitação como principal forma de intervenção ao nível do edificado e do desenvolvimento urbanoPromover a reabilitação dos edifícios como principal forma de intervenção no parque edificado aumentando a vida útil dos edifícios com consequente rentabilização dos recursos ambientais já investidos, contribui para a redução das emissões de gases com efeito estufa, minimiza os resíduos da construção e contribui para a conservação da natureza e da biodiversidade. Apoiar e fomentar os balcões únicos de apoio ao cidadão, suportados em plataformas digitais e/ou espaços físicos, enquanto instrumentos disseminadores de informação e catalizadores das pequenas e grandes reabilitações dos edifícios que visem a eficiência de recursos e o uso de fontes alternativas. [Data prevista: 2020-2030]1.3.2 - Promover técnicas sustentáveis na construção e os edifícios eficientes e sustentáveis no uso de recursosPromover a incorporação de matérias-primas secundárias e de base biológica, autóctones ou de produção local em componentes para a construção, arquitetura bioclimática, casas passivas e a arquitetura modular, multifuncional e dinâmica. Privilegiar a reutilização de componentes de construção e a utilização de materiais reciclados, tanto nas operações de construção nova como de reabilitação. Promover o tratamento e reciclagem de materiais de construção de forma a tornar possível a reutilização dos mesmos, tornando o setor mais sustentável. Promover a certificação da eficiência hídrica e material de edifícios enquanto instrumento distintivo do uso eficiente de recursos e da sustentabilidade na construção. Fomentar a melhoria da eficiência energética e hídrica das construções e a redução de necessidades de água e energia, incluindo as incorporadas na própria construção, e promover o aproveitamento de fontes de energia renováveis. Adicionalmente, promover a importância de descarbonizar, tendo em consideração a dimensão social (através da inclusão), como é exemplo a iniciativa Nova Bauhaus. [Data prevista: 2020-2030]1.3.3 - Promover a eletrificação dos edifícios acompanhada do aumento da incorporação de renováveisA eletrificação dos consumos finais está identificada como um dos mais importantes vetores de descarbonização da economia, designadamente porque está associada a uma incorporação crescente de fontes renováveis na sua produção. Assim, a esta eletrificação deve ser promovida, quer em edifícios existentes, quer em novos edifícios. Para tal, deve o potencial solar do parque edificado ser mapeado e divulgado garantindo assim que são privilegiados os investimentos custo-ótimos, com o devido equilíbrio de tecnologias solar térmico e fotovoltaicos, de acordo com as diferentes necessidades energéticas (eletricidade e aquecimento e arrefecimento) promovendo desta forma a substituição de combustíveis fósseis nos edifícios. Assim, importa incentivar a substituição de equipamentos e canalizar o investimento para a eletrificação dos edifícios residenciais, e de serviços. [Data prevista: 2020-2030]1.3.4 - Incentivar a utilização e a interoperabilidade de plataformas digitais para a concretização de oportunidades de melhoria no desempenho energético e hídrico dos edifícios - Nova medidaCom a transição digital a ocorrer em paralelo com a transição energética, as plataformas digitais afirmam-se cada vez mais como um instrumento eficaz na sensibilização dos consumidores e no seu estímulo para a implementação de soluções mais |
 | eficientes no uso da energia e água nos edifícios. Importa, por isso, fomentar um uso mais extensivo de plataformas existentes designadamente o Portal casA+, balcão único digital para a implementação expedita de medidas de eficiência energética e hídrica nas habitações, fazendo uso da interoperabilidade deste com o Sistema de Certificação Energética dos Edifícios (SCE) e o sistema de avaliação e classificação de eficiência hídrica dos edifícios (AQUA+) para agilizar o processo de conversão das oportunidades de melhoria identificadas nos certificados energéticos e na classificação de eficiência hídrica dos imóveis. Neste contexto, será potenciada a interoperabilidade entre balcões únicos digitais de apoio ao cidadão, como o Portal casA+, e a outras plataformas e entidades, potenciando o seu funcionamento como hubs facilitadores da interação dos consumidores com fornecedores credíveis de soluções técnicas e de financiamento existentes no mercado, bem como do acesso expedito a incentivos financeiros ou fiscais. [Data prevista: 2020-2030] |
@@ -2577,7 +3142,7 @@ Com vista a descarbonizar a economia e atingir os objetivos definidos a nível n
 | DESCRIÇÃONo âmbito do objetivo estratégico de promoção de uma indústria inovadora, competitiva, preconiza-se como linha de atuação a descarbonização da indústria, promovendo o uso de recursos renováveis, armazenamento de energia, eletrificação e uso de gases renováveis. Com um sistema eletroprodutor de base fortemente renovável, pretende-se promover e reforçar a utilização de eletricidade nos diferentes setores de atividade e da economia, em paralelo com o reforço da utilização de outras fontes de energia renovável, como biomassa, biocombustíveis sustentáveis e combustíveis renováveis de origem não biológica, incluindo hidrogénio renovável. O setor industrial terá um papel de extrema importância, residindo neste contexto um dos principais polos de necessidade de inovação e criação de novos modelos de negócio. O reforço das perspetivas da economia circular, da «indústria 4.0» e da inovação da tecnologia assumem um carácter determinante no caminho a trilhar para identificar e criar soluções inovadoras, eficientes, e com emissões muito próximas de zero, nos próximos 30 anos. |
 | SETOR(ES)Indústria; Energia; Resíduos |
 | MEDIDAS DE AÇÃOPara promover a descarbonização da indústria, estão previstas as seguintes medidas de ação:7.1.1 - Promover a energia de origem renovável - Medida EliminadaPromover e incentivar a penetração de fontes de energia renovável, em particular solar térmico, o solar fotovoltaico, o hidrogénio verde e o biometano, como forma, também, de promover o aumento da competitividade por via da redução dos custos com a energia. Medida eliminada por se considerar que o tema em causa já se encontra abordado/incluído em outras medidas mais especificas.7.1.2 - Aumentar a utilização de combustíveis alternativos renováveis e outros recursos nacionais com potencial para utilização como fonte energética, promovendo a redução de emissões na indústriaPromover e incentivar o aproveitamento e penetração de fontes de energia renovável, em particular dos gases renováveis, combustíveis renováveis de origem não biológica, combustíveis derivados de resíduos (CDR) e outros combustíveis sustentáveis. |
-| A substituição de combustíveis fortemente poluentes por outros com fatores de emissão inferiores, nomeadamente os de origem renovável, como biometano, hidrogénio verde, metano sintético e SAF na indústria da aviação), a utilização de equipamentos eficientes e a gestão otimizada dos consumos são processos cruciais para garantir a descarbonização, uma vez que permitem reduzir substancialmente a fatura energética e as emissões de GEE, devido à substituição progressiva e viável de combustíveis com elevada carga poluente por fontes mais limpas, promovendo em simultâneo uma maior competitividade da indústria. Um enfoque mais robusto na utilização do biometano e do hidrogénio, como vetor para a descarbonização da indústria vai ao encontro dos objetivos do REPowerEU de acelerar a transição para a eletrificação e para a utilização de hidrogénio renovável, aumentando a capacidade dos processos de produção e reduzindo as emissões de GEE. [Data prevista: 2020-2030]7.1.3 - Promover a eletrificação na indústriaA eletrificação do consumo é um processo crucial para garantir a descarbonização, uma vez que permite reduzir substancialmente a fatura energética e as emissões de GEE, devido à substituição de combustíveis fósseis por fontes endógenas e mais limpas, promovendo em simultâneo uma maior competitividade da indústria. É igualmente importante o papel do hidrogénio como vetor verde (e produzido com recurso a água de origens alternativas, como as Águas para Reutilização) para a descarbonização da indústria, nomeadamente nos setores da cerâmica e do vidro, em linha com os objetivos da iniciativa REPowerEU de acelerar a transição para a eletrificação. [Data prevista: 2020-2030]7.1.4 - Avaliar o potencial geológico do país para armazenamento geológico de carbono e considerar o potencial contributo das atividades de Captura e Armazenamento geológico de Carbono (CCS) e Captura e Utilização de Carbono (CCU) no setor industrial - Nova medidaA fim de dar resposta à necessidade de aumentar o nível de remoção de carbono para contrabalançar as emissões de GEE difíceis de reduzir em setores muito específicos (hard-to-abate sectors), como é o caso de alguns setores industriais onde as soluções tecnológicas existentes ainda não permitem eliminar totalmente as emissões (exemplo, emissões de processo resultantes da descarbonatação dos materiais utilizados, incineração de resíduos urbanos), encontra-se a ser avaliado o potencial geológico para armazenamento geológico de carbono e deverá ser considerado o potencial contributo das atividades que promovem a captura e o armazenamento geológico de CO<sub>2</sub> (CCS) ou a captura com vista a posterior utilização do CO<sub>2</sub> (CCU) para o atingir o objetivo nacional de neutralidade climática em 2045.De acordo com o previsto no Regulamento (UE) [2024/1735](https://diariodarepublica.pt/application/external/eurolex?4R1735), de 13 de junho de 2024 (Net Zero Industry Act) e em linha com a comunicação da Comissão sobre a Gestão do Carbono Industrial (COM(2024) 62 final) deverá ser elaborada uma estratégia nacional para as atividades de CCUS. Esta estratégia deverá avaliar a possibilidade de criação de um quadro regulatório para o tratamento dos diferentes tipos e utilizações de CO<sub>2</sub>, a sua contabilização e avaliação de vida útil do seu armazenamento, incluindo o desenvolvimento de uma infraestrutura de pipelines dedicados ao transporte de CO<sub>2</sub> [Data prevista: 2024-2030]7.1.5 - Apoiar o investimento empresarial na descarbonização - Nova medidaAlavancar a descarbonização do setor industrial e empresarial e promover uma mudança de paradigma na utilização dos recursos, concretizando as metas estabelecidas a nível nacional de médio-longo prazo e contribuindo para acelerar a transição para uma economia neutra em carbono. As estratégias Power-to-X (P2X), pela sua versatilidade integrada na variável «X» que inclui diferentes vetores energéticos ou moléculas derivadas do hidrogénio renovável, desempenharão um papel crucial para concretizar esse objetivo através de vias sustentáveis e neutras em carbono. Ao fornecer alternativas neutras em carbono aos combustíveis fósseis, o P2X oferece um caminho viável para reduzir significativamente as emissões de carbono em setores intensivos em carbono que são difíceis de eletrificar e representam cerca de 30 % das emissões globais. Além disso, para além de serem fundamentais para a implementação eficaz da Diretiva Energias Renováveis e para a aplicação do conceito de economia circular, as tecnologias P2X proporcionam: (i) uma forma flexível e eficiente de armazenar e utilizar o excesso de energia renovável, e (ii) uma solução versátil devido à sua capacidade de produzir uma variedade de vetores e produtos energéticos e industriais, contribuindo assim significativamente a nível do sistema para a transição energética global.Pretende-se, deste modo, promover a competitividade das empresas na indústria transformadora, da industria de bens de equipamento no quadro da implementação do Regulamento NZIA (EU) [2024/1735](https://diariodarepublica.pt/application/external/eurolex?4R1735), de 13 junho, e restantes setores da Economia por via da sua descarbonização, apoiar o investimento empresarial em processos de inovação produtiva, particularmente através da incorporação de processos e tecnologias de baixo carbono e do desenvolvimento de novos bens e serviços, promovendo o uso eficiente de recursos, redução do consumo de energia e da promoção da utilização de fontes renováveis de energia, bem como pelo apoio à elaboração de roteiros de descarbonização.•A Componente 11 do PRR - Descarbonização da Indústria, integrada na Dimensão Transição Climática, enquadra-se neste tipo de apoios. |
+| A substituição de combustíveis fortemente poluentes por outros com fatores de emissão inferiores, nomeadamente os de origem renovável, como biometano, hidrogénio verde, metano sintético e SAF na indústria da aviação), a utilização de equipamentos eficientes e a gestão otimizada dos consumos são processos cruciais para garantir a descarbonização, uma vez que permitem reduzir substancialmente a fatura energética e as emissões de GEE, devido à substituição progressiva e viável de combustíveis com elevada carga poluente por fontes mais limpas, promovendo em simultâneo uma maior competitividade da indústria. Um enfoque mais robusto na utilização do biometano e do hidrogénio, como vetor para a descarbonização da indústria vai ao encontro dos objetivos do REPowerEU de acelerar a transição para a eletrificação e para a utilização de hidrogénio renovável, aumentando a capacidade dos processos de produção e reduzindo as emissões de GEE. [Data prevista: 2020-2030]7.1.3 - Promover a eletrificação na indústriaA eletrificação do consumo é um processo crucial para garantir a descarbonização, uma vez que permite reduzir substancialmente a fatura energética e as emissões de GEE, devido à substituição de combustíveis fósseis por fontes endógenas e mais limpas, promovendo em simultâneo uma maior competitividade da indústria. É igualmente importante o papel do hidrogénio como vetor verde (e produzido com recurso a água de origens alternativas, como as Águas para Reutilização) para a descarbonização da indústria, nomeadamente nos setores da cerâmica e do vidro, em linha com os objetivos da iniciativa REPowerEU de acelerar a transição para a eletrificação. [Data prevista: 2020-2030]7.1.4 - Avaliar o potencial geológico do país para armazenamento geológico de carbono e considerar o potencial contributo das atividades de Captura e Armazenamento geológico de Carbono (CCS) e Captura e Utilização de Carbono (CCU) no setor industrial - Nova medidaA fim de dar resposta à necessidade de aumentar o nível de remoção de carbono para contrabalançar as emissões de GEE difíceis de reduzir em setores muito específicos (hard-to-abate sectors), como é o caso de alguns setores industriais onde as soluções tecnológicas existentes ainda não permitem eliminar totalmente as emissões (exemplo, emissões de processo resultantes da descarbonatação dos materiais utilizados, incineração de resíduos urbanos), encontra-se a ser avaliado o potencial geológico para armazenamento geológico de carbono e deverá ser considerado o potencial contributo das atividades que promovem a captura e o armazenamento geológico de CO2 (CCS) ou a captura com vista a posterior utilização do CO2 (CCU) para o atingir o objetivo nacional de neutralidade climática em 2045.De acordo com o previsto no Regulamento (UE) [2024/1735](https://diariodarepublica.pt/application/external/eurolex?4R1735), de 13 de junho de 2024 (Net Zero Industry Act) e em linha com a comunicação da Comissão sobre a Gestão do Carbono Industrial (COM(2024) 62 final) deverá ser elaborada uma estratégia nacional para as atividades de CCUS. Esta estratégia deverá avaliar a possibilidade de criação de um quadro regulatório para o tratamento dos diferentes tipos e utilizações de CO2, a sua contabilização e avaliação de vida útil do seu armazenamento, incluindo o desenvolvimento de uma infraestrutura de pipelines dedicados ao transporte de CO2 [Data prevista: 2024-2030]7.1.5 - Apoiar o investimento empresarial na descarbonização - Nova medidaAlavancar a descarbonização do setor industrial e empresarial e promover uma mudança de paradigma na utilização dos recursos, concretizando as metas estabelecidas a nível nacional de médio-longo prazo e contribuindo para acelerar a transição para uma economia neutra em carbono. As estratégias Power-to-X (P2X), pela sua versatilidade integrada na variável «X» que inclui diferentes vetores energéticos ou moléculas derivadas do hidrogénio renovável, desempenharão um papel crucial para concretizar esse objetivo através de vias sustentáveis e neutras em carbono. Ao fornecer alternativas neutras em carbono aos combustíveis fósseis, o P2X oferece um caminho viável para reduzir significativamente as emissões de carbono em setores intensivos em carbono que são difíceis de eletrificar e representam cerca de 30 % das emissões globais. Além disso, para além de serem fundamentais para a implementação eficaz da Diretiva Energias Renováveis e para a aplicação do conceito de economia circular, as tecnologias P2X proporcionam: (i) uma forma flexível e eficiente de armazenar e utilizar o excesso de energia renovável, e (ii) uma solução versátil devido à sua capacidade de produzir uma variedade de vetores e produtos energéticos e industriais, contribuindo assim significativamente a nível do sistema para a transição energética global.Pretende-se, deste modo, promover a competitividade das empresas na indústria transformadora, da industria de bens de equipamento no quadro da implementação do Regulamento NZIA (EU) [2024/1735](https://diariodarepublica.pt/application/external/eurolex?4R1735), de 13 junho, e restantes setores da Economia por via da sua descarbonização, apoiar o investimento empresarial em processos de inovação produtiva, particularmente através da incorporação de processos e tecnologias de baixo carbono e do desenvolvimento de novos bens e serviços, promovendo o uso eficiente de recursos, redução do consumo de energia e da promoção da utilização de fontes renováveis de energia, bem como pelo apoio à elaboração de roteiros de descarbonização.•A Componente 11 do PRR - Descarbonização da Indústria, integrada na Dimensão Transição Climática, enquadra-se neste tipo de apoios. |
 | •As Agendas Mobilizadoras para a Inovação Empresarial, que incluem as chamadas Agendas Verdes, pretendem consolidar e expandir sinergias entre o tecido empresarial e o sistema científico e tecnológico em Portugal, contribuindo para o incremento da competitividade e resiliência da economia portuguesa, na inovação e na diversificação e especialização da estrutura produtiva. Com estas agendas pretende-se apoiar o desenvolvimento de projetos que permitam transformar o perfil de especialização da economia portuguesa, incentivando atividades de maior valor acrescentado e intensivas em conhecimento, orientadas para os mercados internacionais e para a criação de empregos qualificados. Esta é uma iniciativa incluída no PRR.[Data prevista: 2023-2026]7.1.6 - Assegurar a implementação do Mecanismo de Ajustamento Carbónico Fronteiriço (MACF) - Nova medidaGarantir a implementação do Mecanismo de Ajustamento Carbónico Fronteiriço (MACF), criado pelo [Regulamento (UE) 2023/956](https://data.europa.eu/eli/reg/2023/956/oj?locale=pt) do Parlamento e do Conselho, de 10 de maio de 2023, que pretende impor um preço de carbono aos bens importados com base nas suas emissões incorporadas, garantindo um preço de carbono equivalente entre um produto importado e o mesmo produto produzido na União Europeia (UE), evitando desta forma o risco de fuga de carbono. |
 | O objetivo passa por substituir de forma gradual as medidas de prevenção do risco de fuga de carbono atualmente existentes na UE, como é o caso da alocação gratuita de licenças de emissão disponível aos setores abrangidos pelo regime do Comércio Europeu de Licenças de Emissão (CELE). Esta redução gradual da alocação gratuita será feita à medida que ocorra também a introdução gradual deste mecanismo de ajustamento carbónico fronteiriço, por forma a garantir que as regras aplicáveis sobre países terceiros são compatíveis com as regras da Organização Mundial do Comércio.Os setores industriais abrangidos por este mecanismo são o Cimento, Fertilizantes, Ferro e Aço, Alumínio e Químico (Hidrogénio), aplicando-se também à Eletricidade importada. [Data prevista: 2023-2030]7.1.7 - Promover o Desenvolvimento de uma Indústria Ecológica - Nova medidaNa sequência do processo de reprogramação do PRR, foi incluído um «capítulo REPowerEU» - Componente 21, com o objetivo de reforçar a ambição do PRR e garantir a maximização dos seus efeitos tendo em consideração o contexto geopolítico na Europa, incrementando os fundos disponíveis para as medidas que apoiam objetivos climáticos que compreende o investimento RP-C21-i05 - «Apoio ao desenvolvimento de uma indústria ecológica», destinado às empresas, e que tem como objetivo aumentar a capacidade de produção de tecnologias para as energias renováveis, a descarbonização e a eficiência energética. Assim, e sendo necessário criar um núcleo que englobe todas as valências para garantir a tomada de decisões, com a celeridade e rigor técnico exigíveis, sobre as matérias que digam respeito à operacionalização e acompanhamento da execução deste investimento, foi constituído o Comité Coordenador para o investimento RP-C21-i05 - «Apoio ao desenvolvimento de uma indústria ecológica» por via do Despacho n.º 3759/2024, 8 abril, com o desígnio de desenvolver, coordenar e monitorizar a execução das ações previstas neste investimento RP-C21-i05 - «Apoio ao desenvolvimento de uma indústria ecológica». [Data prevista: 2023-2030]7.1.8 - Promover mecanismos para os clientes eletrointensivos - Nova medidaAprovar e regulamentar o acesso ao estatuto de cliente eletrointensivos e em especial da medida que permite eliminar as restrições de distância ao centro produtor de autoconsumo, promovendo o autoconsumo remoto com utilização da rede pública. Desenvolver mecanismos regulamentares que permitam a clientes eletrointensivos, em grande crescimento, instalar a sua própria produção renovável, seja junto à instalação de consumo ou mais distante, tornando possível a utilização das redes, por meio do reforço das mesmas. [Data prevista: 2024-2030] |
 | CONTRIBUTO PARA AS DIMENSÕES DO PNECDescarbonização; Eficiência Energética; I&I&C |
@@ -2603,7 +3168,7 @@ Com vista a descarbonizar a economia e atingir os objetivos definidos a nível n
 | DESCRIÇÃOAtravés da promoção da economia circular na indústria, é possível desenvolver inovação, desenvolver novos produtos e modelos de negócio, reduzir o consumo de energia, de água e de materiais, contribuindo para a o combate às alterações climáticas. |
 | SETOR(ES)Indústria; Serviços; Resíduos |
 | MEDIDAS DE AÇÃOPara promover a economia circular na indústria, estão previstas as seguintes medidas de ação:7.4.1 - Promover a economia circular e de baixo carbono na indústriaPromover a economia circular, o uso eficiente dos recursos, incluindo a água, e a prevenção da produção de resíduos, designadamente através do uso de materiais residuais como matérias-primas, de simbioses industriais, da extensão do uso de bens e equipamentos, do alargamento de modelos de negócio de produto-serviço e da conceção ecológica de produtos, designadamente, com baixo perfil carbónico. [Data prevista: 2020-2030] |
-| 7.4.2 - Promover as simbioses industriais (urbanas, locais, regionais)Através da valorização de fluxos de materiais (e.g. subprodutos e resíduos) em substituição de matérias-primas e do aproveitamento de energia térmica (recuperação e reutilização do excesso de calor e frio industrial). A promoção destas simbioses contribui para o aumento da circularidade de recursos e da eficiência energética dos sistemas industriais, urbanos e locais, concorrendo para a redução do consumo energético e das emissões poluentes. [Data prevista: 2020-2030]7.4.3 - Promover o desenvolvimento de produtos e serviços de baixo carbonoAtravés da adoção de ferramentas de avaliação e classificação da circularidade de produtos e serviços [como a avaliação do ciclo de vida, a certificação (p.e. normas ISO, EMAS, eCIRCULAR) ou rotulagem (p.e. rótulo ecológico)], da promoção do design de produto (bens, serviços, ou ambos combinados), e da I&DD+i (investigação, desenvolvimento, demonstração e inovação). Deste modo as empresas podem alinhar a sua atividade com princípios de economia circular, eficiência de recursos e sustentabilidade. [Data prevista: 2020-2030] |
+| 7.4.2 - Promover as simbioses industriais (urbanas, locais, regionais)Através da valorização de fluxos de materiais (e.g. subprodutos e resíduos) em substituição de matérias-primas e do aproveitamento de energia térmica (recuperação e reutilização do excesso de calor e frio industrial). A promoção destas simbioses contribui para o aumento da circularidade de recursos e da eficiência energética dos sistemas industriais, urbanos e locais, concorrendo para a redução do consumo energético e das emissões poluentes. [Data prevista: 2020-2030]7.4.3 - Promover o desenvolvimento de produtos e serviços de baixo carbonoAtravés da adoção de ferramentas de avaliação e classificação da circularidade de produtos e serviços [como a avaliação do ciclo de vida, a certificação (p.e. normas ISO, EMAS, eCIRCULAR) ou rotulagem (p.e. rótulo ecológico)], da promoção do design de produto (bens, serviços, ou ambos combinados), e da Iⅅ+i (investigação, desenvolvimento, demonstração e inovação). Deste modo as empresas podem alinhar a sua atividade com princípios de economia circular, eficiência de recursos e sustentabilidade. [Data prevista: 2020-2030] |
 | CONTRIBUTO PARA AS DIMENSÕES DO PNECDescarbonização; Eficiência Energética |
 | PRINCIPAIS INSTRUMENTOSRNC2050; PAEC |
 | FONTES DE FINANCIAMENTOFITEC; FA; LIFE; HORIZONTE EUROPA; PRR |
@@ -2712,8 +3277,8 @@ i) Políticas e medidas para atingir o contributo nacional para a meta vinculati
 | --- |
 | DESCRIÇÃOA utilização dos gases renováveis é reconhecida como sendo uma das alternativas viáveis rumo a uma economia de baixo carbono, promovendo a substituição dos combustíveis fósseis e reduzindo a dependência energética do país. |
 | SETOR(ES)Energia; Indústria; Transportes; Resíduos; Agricultura |
-| MEDIDAS DE AÇÃOPara promover a produção e consumo de gases renováveis, estão previstas as seguintes medidas de ação:3.6.1 - Regulamentar e promover a injeção de gases renováveis na Rede Pública de Gás (RPG)Publicar a regulamentação do SNG prevista no âmbito do [Decreto-Lei n.º 62/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), de 28 de agosto, relativa à definição dos requisitos técnicos, de qualidade e de segurança dos gases renováveis, bem como os procedimentos aplicáveis ao licenciamento das instalações de tratamento destes gases em estado bruto e à sua injeção nas infraestruturas do SNG, necessária para promover a introdução de gases renováveis, em particular o hidrogénio e o biometano, quer nas Redes de Transporte e Distribuição de Gás quer para uso veicular, eliminando as barreiras atuais.Este decreto-lei determina que diversos regulamentos setoriais devem ser alterados para incorporar o novo modelo legislativo, pelo que a ERSE aprovou em 2021 os regulamentos do SNG da sua responsabilidade, nomeadamente o Regulamento de Operação das Infraestruturas (ROI) e o Regulamento de Acesso às Redes, Infraestruturas e Interligações (RARII), estabelecendo as condições técnicas e comerciais de acesso às redes por parte dos produtores de gases de origem renovável ou descarbonizados. Também em termos de gestão e operação das redes com misturas de gases, foram estabelecidas regras aplicáveis aos operadores das redes, designadamente ao nível da monitorização dos fluxos de gás na rede e da gestão das injeções de gás, como base à definição de limites de injeção dos produtores. A viabilização da injeção de gases de origem renovável ou de baixo teor de carbono nas redes e infraestruturas de gás natural levou a ERSE a alterar, em 2023, o seu Regulamento da Qualidade de Serviço dos setores elétrico e do gás (RQS), passando a prever as características dos gases de origem renovável ou de baixo teor de carbono a injetar nas redes de gás que asseguram a interoperabilidade das suas infraestruturas com as demais infraestruturas a que se encontrem ligadas.De igual modo a DGEG promoveu a revisão de diversos regulamentos de segurança:•Regulamento da RNTG, aprovado pelo Despacho n.º 806-C/2022, de 19 de janeiro•Regulamento da RNDG, aprovado pelo Despacho n.º 806-B/2022, de 19 de janeiro•Regulamento do Terminal de Receção, Armazenamento e Regaseificação de Gás Natural Liquefeito, aprovado pelo Despacho n.º 1113/2022, de 27 de janeiro•Regulamento de armazenamento subterrâneo de gás em formações salinas naturais, aprovado pelo Despacho n.º 1112/2022, de 27 de janeiro.No âmbito das reformas aprovadas na revisão do Plano de Recuperação e Resiliência (PRR), em 2023, de acordo com a Decisão de Implementação do Conselho da União Europeia (CID) estão previstas a revisão dos regulamentos da RNTG e da RNDG.Em concreto, a reforma RP-C21-46 - Quadro regulamentar para o hidrogénio renovável, incluída no capítulo REPowerEU, prevê a revisão do enquadramento normativo das redes nacionais de transporte e distribuição de gás, de modo a promover a utilização de gases renováveis e em particular no que concerne o hidrogénio, no âmbito de uma estratégia de transição mais abrangente para uma economia descarbonizada. [Data prevista: 2023-2025]3.6.2 - Estudar e definir metas de incorporação de gases renováveisCriar as necessárias condições e mecanismos que permitem, valorizar e promover a procura dos gases renováveis, nomeadamente o hidrogénio renovável e biometano, com vista ao surgimento de um verdadeiro mercado de gases renováveis em Portugal. Para o efeito serão estudadas, reavaliadas e redefinidas metas para a incorporação de gases renováveis nas redes de gás natural (para além do já definido na Resolução de Conselho de Ministros n.º [63/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2020-140346286) e os Despachos n.<sup>os</sup>806-B e 806-C/2022) e nos vários setores da economia onde a sua incorporação tenha valor e possibilite a descarbonização dos consumos. Portugal estabeleceu a Estratégia Nacional de Hidrogénio (EN-H2) que consta do anexo à Resolução do Conselho de Ministros n.º [63/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2020-140346286), de 14 de agosto, bem como um Plano de Ação para o Biometano<sup>44</sup>, aprovado pela [Resolução do Conselho de Ministros n.º 41/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2024-855593245) de 15 de março de 2024. [Data prevista: 2020-2024]3.6.3 - Definir e implementar um sistema de certificação de qualidade para os gases renováveisPara assegurar que os gases renováveis estão em conformidade com os requisitos mínimos de qualidade e que não colocam em causa a segurança do abastecimento de energia e a continuidade e qualidade de serviço, deve ser definido um sistema de certificação que permite efetuar esta avaliação. [Data prevista: 2020-2025]3.6.4 - Implementar um sistema de garantias de origem para os gases renováveisÉ fundamental que o consumidor conheça a origem da energia utilizada para a produção dos gases de origem renovável que consome. A implementação de um sistema de garantias de origem tem como objetivo comprovar ao consumidor final, através da emissão de certificados eletrónicos, a quota ou quantidade de energia proveniente de fontes renováveis presente no cabaz energético de um determinado fornecedor. [Data prevista: 2020-2024] |
-| 3.6.5 - Promover a produção, transporte, distribuição e o consumo de hidrogénio de origem renovávelO hidrogénio apresenta um enorme potencial enquanto vetor energético, o qual poderá funcionar como armazenamento de energia, como matéria-prima para produtos verdes derivados ou como combustível para diversos setores da economia.Será promovido o desenvolvimento e a implementação de tecnologias para produção de hidrogénio verde a partir de energia proveniente de fontes renováveis (de acordo com o definido na Diretiva Europeia de Energias Renováveis e respetivos atos delegados associados), com vista à disseminação e aproveitamento das fontes renováveis endógenas, bem como à diversificação das fontes energéticas e redução da dependência energética. A estratégia nacional integra também o objetivo de evitar e minimizar a pressão sobre as massas de água, promovendo a diversificação das origens das águas utilizadas para produção de H<sub>2</sub> renovável. Deslocando a utilização de água do sistema público de abastecimento para segundo plano, é dada prioridade à utilização de água de origens alternativas, como as águas residuais tratadas para reutilização, assim viabilizando o seu reaproveitamento e evitando a depleção adicional das reservas naturais de água.Neste sentido, está a ser desenvolvida uma política industrial com vista à implementação em Portugal de um cluster de produção de gases renováveis, em particular o hidrogénio verde, com o objetivo de posicionar Portugal como um importante player europeu no mercado de hidrogénio verde, alavancado inicialmente, nesta fase, pela energia solar enquanto fator de competitividade, mas também pela disponibilidade de outras fontes renováveis já mais estabelecidas como a eólica e a hídrica. O desenvolvimento de uma indústria de produção de hidrogénio de origem renovável em Portugal permitirá dinamizar uma mais rápida e profunda descarbonização de vários setores em Portugal, com especial enfoque nos setores de mais difícil descarbonização.No âmbito da estratégia nacional para o hidrogénio foi criado um laboratório colaborativo dedicado ao hidrogénio verde, o Hylab<sup>45</sup>, que tem por objetivo criar um cluster de I&D&I de referência mundial com uma agenda estratégica de I&I focada no reforço da competitividade do hidrogénio e na criação de novos produtos e serviços. Além disso, o HyLab promoverá a inovação, abordando os componentes relevantes da cadeia de abastecimento para permitir uma economia impulsionada pelo hidrogénio e promover a criação de empregos qualificados e de valor acrescentado.Foram, entretanto, lançados programas de financiamento para produção de gases renováveis em 2019 (POSEUR) e 2021 e 2023 (C14 do PRR), tendo sido aprovados projetos de pequena dimensão para produção descentralizada de hidrogénio verde. A estratégia nacional para o hidrogénio prevê a injeção de gases renováveis nas redes existentes do SNG, sendo reconhecido que é igualmente importante estudar tanto a reconversão das redes existentes como e construção de novas redes dedicadas para gases renováveis, em particular para o hidrogénio renovável. Os benefícios da proximidade dos locais de produção e consumo, reduzindo as necessidades de transporte e aumentando a eficiência do sistema como um todo, têm promovido o desenvolvimento de clusters de produção e consumo de hidrogénio em algumas regiões e conduzido ao surgimento de vários H2 Valleys. Em 2023, um projeto de I&I para um vale de hidrogénio no Alentejo foi financiado pela parceria europeia Clean Hydrogen Joint Undertaking, no âmbito do Horizonte Europa. [Data prevista: 2020-2030]3.6.6 - Criar mecanismos de apoio para aumento da capacidade instalada de biodigestores - Nova medidaPortugal dispõe de condições muito favoráveis para estar na linha da frente na descarbonização via gases renováveis. Além de apresentar condições climáticas e geográficas que privilegiam a produção de hidrogénio verde a custo competitivo, existe um elevado potencial produtivo de biometano, tanto ao nível de instalações que já hoje produzem biogás (ETARs, unidades de tratamento de resíduos urbanos, aterros), como ao nível de unidades de produção agrícola, pecuária, industrial e florestal. Sendo conhecido este potencial produtivo - que beneficia de uma tecnologia já madura e que pode ser utilizado após o seu tratamento (purificação) para remoção do dióxido de carbono e de contaminantes, produzindo-se biometano, que pode desempenhar um papel importante na substituição do gás natural - será importante fomentar o aproveitamento desta fonte de energia endógena e renovável em Portugal. Outras tecnologias de produção de biogás que exigem um CAPEX superior, mas podem aproveitar os resíduos florestais, como a gaseificação, necessitam de ser apoiadas através de incentivos específicos modelados de acordo com o potencial de redução superior ou inferior de emissões de gases com efeito de estufa.O elevado potencial produtivo, a maturidade tecnológica, a obrigatoriedade de quotas de energia renovável e de biometano (REPowerEU: 35 bcm até 2030) evidenciam a forte necessidade de apoiar e incentivar a produção e purificação de biogás. Em particular, criar mecanismos de apoio para aumento da capacidade instalada de biodigestores nos setores agrícola, pecuário, florestal e industrial (projetos greenfield) e em ETAR existentes que oferecem elevado potencial de produção, mas que esperam por de apoios que aliviem os encargos de investimento inicial associado à criação de novas unidades de produção de biogás ou à ampliação da capacidade de digestão existentes. A prossecução desta estratégia tem benefícios no cumprimento das obrigações legais de gestão adequada dos resíduos dos diferentes setores de atividade económica, promovendo o respeito da hierarquia de gestão de resíduos e dos princípios da economia circular, reduzindo impactes ambientais e visando a descarbonização da economia, que contribui para a competitividades das respetivas atividades. [Data prevista: 2023-2030]. |
+| MEDIDAS DE AÇÃOPara promover a produção e consumo de gases renováveis, estão previstas as seguintes medidas de ação:3.6.1 - Regulamentar e promover a injeção de gases renováveis na Rede Pública de Gás (RPG)Publicar a regulamentação do SNG prevista no âmbito do [Decreto-Lei n.º 62/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), de 28 de agosto, relativa à definição dos requisitos técnicos, de qualidade e de segurança dos gases renováveis, bem como os procedimentos aplicáveis ao licenciamento das instalações de tratamento destes gases em estado bruto e à sua injeção nas infraestruturas do SNG, necessária para promover a introdução de gases renováveis, em particular o hidrogénio e o biometano, quer nas Redes de Transporte e Distribuição de Gás quer para uso veicular, eliminando as barreiras atuais.Este decreto-lei determina que diversos regulamentos setoriais devem ser alterados para incorporar o novo modelo legislativo, pelo que a ERSE aprovou em 2021 os regulamentos do SNG da sua responsabilidade, nomeadamente o Regulamento de Operação das Infraestruturas (ROI) e o Regulamento de Acesso às Redes, Infraestruturas e Interligações (RARII), estabelecendo as condições técnicas e comerciais de acesso às redes por parte dos produtores de gases de origem renovável ou descarbonizados. Também em termos de gestão e operação das redes com misturas de gases, foram estabelecidas regras aplicáveis aos operadores das redes, designadamente ao nível da monitorização dos fluxos de gás na rede e da gestão das injeções de gás, como base à definição de limites de injeção dos produtores. A viabilização da injeção de gases de origem renovável ou de baixo teor de carbono nas redes e infraestruturas de gás natural levou a ERSE a alterar, em 2023, o seu Regulamento da Qualidade de Serviço dos setores elétrico e do gás (RQS), passando a prever as características dos gases de origem renovável ou de baixo teor de carbono a injetar nas redes de gás que asseguram a interoperabilidade das suas infraestruturas com as demais infraestruturas a que se encontrem ligadas.De igual modo a DGEG promoveu a revisão de diversos regulamentos de segurança:•Regulamento da RNTG, aprovado pelo Despacho n.º 806-C/2022, de 19 de janeiro•Regulamento da RNDG, aprovado pelo Despacho n.º 806-B/2022, de 19 de janeiro•Regulamento do Terminal de Receção, Armazenamento e Regaseificação de Gás Natural Liquefeito, aprovado pelo Despacho n.º 1113/2022, de 27 de janeiro•Regulamento de armazenamento subterrâneo de gás em formações salinas naturais, aprovado pelo Despacho n.º 1112/2022, de 27 de janeiro.No âmbito das reformas aprovadas na revisão do Plano de Recuperação e Resiliência (PRR), em 2023, de acordo com a Decisão de Implementação do Conselho da União Europeia (CID) estão previstas a revisão dos regulamentos da RNTG e da RNDG.Em concreto, a reforma RP-C21-46 - Quadro regulamentar para o hidrogénio renovável, incluída no capítulo REPowerEU, prevê a revisão do enquadramento normativo das redes nacionais de transporte e distribuição de gás, de modo a promover a utilização de gases renováveis e em particular no que concerne o hidrogénio, no âmbito de uma estratégia de transição mais abrangente para uma economia descarbonizada. [Data prevista: 2023-2025]3.6.2 - Estudar e definir metas de incorporação de gases renováveisCriar as necessárias condições e mecanismos que permitem, valorizar e promover a procura dos gases renováveis, nomeadamente o hidrogénio renovável e biometano, com vista ao surgimento de um verdadeiro mercado de gases renováveis em Portugal. Para o efeito serão estudadas, reavaliadas e redefinidas metas para a incorporação de gases renováveis nas redes de gás natural (para além do já definido na Resolução de Conselho de Ministros n.º [63/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2020-140346286) e os Despachos n.os806-B e 806-C/2022) e nos vários setores da economia onde a sua incorporação tenha valor e possibilite a descarbonização dos consumos. Portugal estabeleceu a Estratégia Nacional de Hidrogénio (EN-H2) que consta do anexo à Resolução do Conselho de Ministros n.º [63/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2020-140346286), de 14 de agosto, bem como um Plano de Ação para o Biometano44, aprovado pela [Resolução do Conselho de Ministros n.º 41/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2024-855593245) de 15 de março de 2024. [Data prevista: 2020-2024]3.6.3 - Definir e implementar um sistema de certificação de qualidade para os gases renováveisPara assegurar que os gases renováveis estão em conformidade com os requisitos mínimos de qualidade e que não colocam em causa a segurança do abastecimento de energia e a continuidade e qualidade de serviço, deve ser definido um sistema de certificação que permite efetuar esta avaliação. [Data prevista: 2020-2025]3.6.4 - Implementar um sistema de garantias de origem para os gases renováveisÉ fundamental que o consumidor conheça a origem da energia utilizada para a produção dos gases de origem renovável que consome. A implementação de um sistema de garantias de origem tem como objetivo comprovar ao consumidor final, através da emissão de certificados eletrónicos, a quota ou quantidade de energia proveniente de fontes renováveis presente no cabaz energético de um determinado fornecedor. [Data prevista: 2020-2024] |
+| 3.6.5 - Promover a produção, transporte, distribuição e o consumo de hidrogénio de origem renovávelO hidrogénio apresenta um enorme potencial enquanto vetor energético, o qual poderá funcionar como armazenamento de energia, como matéria-prima para produtos verdes derivados ou como combustível para diversos setores da economia.Será promovido o desenvolvimento e a implementação de tecnologias para produção de hidrogénio verde a partir de energia proveniente de fontes renováveis (de acordo com o definido na Diretiva Europeia de Energias Renováveis e respetivos atos delegados associados), com vista à disseminação e aproveitamento das fontes renováveis endógenas, bem como à diversificação das fontes energéticas e redução da dependência energética. A estratégia nacional integra também o objetivo de evitar e minimizar a pressão sobre as massas de água, promovendo a diversificação das origens das águas utilizadas para produção de H2 renovável. Deslocando a utilização de água do sistema público de abastecimento para segundo plano, é dada prioridade à utilização de água de origens alternativas, como as águas residuais tratadas para reutilização, assim viabilizando o seu reaproveitamento e evitando a depleção adicional das reservas naturais de água.Neste sentido, está a ser desenvolvida uma política industrial com vista à implementação em Portugal de um cluster de produção de gases renováveis, em particular o hidrogénio verde, com o objetivo de posicionar Portugal como um importante player europeu no mercado de hidrogénio verde, alavancado inicialmente, nesta fase, pela energia solar enquanto fator de competitividade, mas também pela disponibilidade de outras fontes renováveis já mais estabelecidas como a eólica e a hídrica. O desenvolvimento de uma indústria de produção de hidrogénio de origem renovável em Portugal permitirá dinamizar uma mais rápida e profunda descarbonização de vários setores em Portugal, com especial enfoque nos setores de mais difícil descarbonização.No âmbito da estratégia nacional para o hidrogénio foi criado um laboratório colaborativo dedicado ao hidrogénio verde, o Hylab45, que tem por objetivo criar um cluster de I&D&I de referência mundial com uma agenda estratégica de I&I focada no reforço da competitividade do hidrogénio e na criação de novos produtos e serviços. Além disso, o HyLab promoverá a inovação, abordando os componentes relevantes da cadeia de abastecimento para permitir uma economia impulsionada pelo hidrogénio e promover a criação de empregos qualificados e de valor acrescentado.Foram, entretanto, lançados programas de financiamento para produção de gases renováveis em 2019 (POSEUR) e 2021 e 2023 (C14 do PRR), tendo sido aprovados projetos de pequena dimensão para produção descentralizada de hidrogénio verde. A estratégia nacional para o hidrogénio prevê a injeção de gases renováveis nas redes existentes do SNG, sendo reconhecido que é igualmente importante estudar tanto a reconversão das redes existentes como e construção de novas redes dedicadas para gases renováveis, em particular para o hidrogénio renovável. Os benefícios da proximidade dos locais de produção e consumo, reduzindo as necessidades de transporte e aumentando a eficiência do sistema como um todo, têm promovido o desenvolvimento de clusters de produção e consumo de hidrogénio em algumas regiões e conduzido ao surgimento de vários H2 Valleys. Em 2023, um projeto de I&I para um vale de hidrogénio no Alentejo foi financiado pela parceria europeia Clean Hydrogen Joint Undertaking, no âmbito do Horizonte Europa. [Data prevista: 2020-2030]3.6.6 - Criar mecanismos de apoio para aumento da capacidade instalada de biodigestores - Nova medidaPortugal dispõe de condições muito favoráveis para estar na linha da frente na descarbonização via gases renováveis. Além de apresentar condições climáticas e geográficas que privilegiam a produção de hidrogénio verde a custo competitivo, existe um elevado potencial produtivo de biometano, tanto ao nível de instalações que já hoje produzem biogás (ETARs, unidades de tratamento de resíduos urbanos, aterros), como ao nível de unidades de produção agrícola, pecuária, industrial e florestal. Sendo conhecido este potencial produtivo - que beneficia de uma tecnologia já madura e que pode ser utilizado após o seu tratamento (purificação) para remoção do dióxido de carbono e de contaminantes, produzindo-se biometano, que pode desempenhar um papel importante na substituição do gás natural - será importante fomentar o aproveitamento desta fonte de energia endógena e renovável em Portugal. Outras tecnologias de produção de biogás que exigem um CAPEX superior, mas podem aproveitar os resíduos florestais, como a gaseificação, necessitam de ser apoiadas através de incentivos específicos modelados de acordo com o potencial de redução superior ou inferior de emissões de gases com efeito de estufa.O elevado potencial produtivo, a maturidade tecnológica, a obrigatoriedade de quotas de energia renovável e de biometano (REPowerEU: 35 bcm até 2030) evidenciam a forte necessidade de apoiar e incentivar a produção e purificação de biogás. Em particular, criar mecanismos de apoio para aumento da capacidade instalada de biodigestores nos setores agrícola, pecuário, florestal e industrial (projetos greenfield) e em ETAR existentes que oferecem elevado potencial de produção, mas que esperam por de apoios que aliviem os encargos de investimento inicial associado à criação de novas unidades de produção de biogás ou à ampliação da capacidade de digestão existentes. A prossecução desta estratégia tem benefícios no cumprimento das obrigações legais de gestão adequada dos resíduos dos diferentes setores de atividade económica, promovendo o respeito da hierarquia de gestão de resíduos e dos princípios da economia circular, reduzindo impactes ambientais e visando a descarbonização da economia, que contribui para a competitividades das respetivas atividades. [Data prevista: 2023-2030]. |
 | 3.6.7 - Implementação do Plano de Ação para o Biometano - Nova medidaO Plano de Ação para o Biometano em Portugal, aprovado e publicado pela [Resolução do Conselho de Ministros n.º 41/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2024-855593245) de 15 de março de 2024, integra um conjunto de ferramentas para definir objetivos e metas de produção deste gás renovável em Portugal estabelecendo uma estratégia integrada que tem como objetivo alcançar os objetivos e metas aí definidos e o desenvolvimento de forma sustentada do mercado do biometano em Portugal. A primeira fase do plano de ação procura propor um quadro regulatório adequado, aliado a um conjunto de políticas públicas que apoiem a criação de um mercado interno para o biometano, numa ótica coordenada de apoio à produção, e à colocação no mercado, aprofundando a definição de medidas concretas para promover o conjunto de ações previsto no PAB (e.g. aprofundar matérias ou estudos fundamentais para o desenvolvimento da cadeia do biometano). Numa segunda fase, o plano procurará auxiliar o aumento de escala de produção, redução de custos e o desenvolvimento de novas cadeias de valor a nível regional. [Data: 2024-2040] |
 | 3.6.8 - Acelerar a simplificação dos procedimentos de licenciamento - Nova medidaAcelerar e incentivar a promoção de iniciativas que promovam os gases renováveis, enquanto pilar sustentável e integrado numa estratégia mais abrangente de transição para uma economia descarbonizada. Para promover o uso dos referidos gases no sistema energético é necessário rever um conjunto de medidas e objetivos de incorporação nos vários setores da economia. Tal revisão implicará a criação das condições necessárias para esta mudança, incluindo legislação, regulamentação e normas.O avanço de projetos de gases renováveis, em particular do biometano, pode tornar-se complexo devido ao facto de estarem sujeitos a numerosas regulamentações de vários tipos (resíduos, agricultura, pecuária, industrial, urbanismo, descargas líquidas, ruído, odores, transportes, entre outros) envolvendo vários organismos.Assim, é importante a simplificação do procedimento administrativo relativo à construção e licenciamento de unidades de produção de gases renováveis (biogás e biometano, hidrogénio verde e combustíveis sintéticos). Neste sentido, serão também feitos esforços ao nível do desenvolvimento de conhecimentos no pessoal técnico dos organismos competentes que avaliam e aprovam projetos de produção de gases renováveis. [Data prevista: 2023-2030].3.6.9 - Implementação de um sistema de leilão de compra centralizada de gases renováveis para injeção na rede de gás -Medida concretizadaPara o incentivo e concretização desta reforma foi publicada a Portaria n.º [15/2023](https://diariodarepublica.pt/dr/detalhe/portaria/15-2023-205689383), de 4 de janeiro, que estabelece o sistema de compra centralizada de biometano e hidrogénio renovável. Para efetivar esta medida. foi publicado o Despacho n.º [5971-A/2024](https://diariodarepublica.pt/dr/detalhe/despacho/5971-a-2024-867249751), de 27 de maio, que determina a abertura de procedimento concorrencial, sob a forma de leilão eletrónico, para a compra centralizada de biometano e hidrogénio estando o procedimento em curso. Este leilão permitirá criar um sistema de offtaking num enquadramento de mercado inexistente, permitindo desta forma potenciar o arranque da produção interna destes gases renováveis. Enquanto a mencionada Portaria estabeleceu as regras para o leilão (quantidade e preço máximo), as peças do procedimento concorrencial do leilão definiram com detalhe os critérios do procedimento, tendo o seu lançamento ocorrido em junho de 2024. [Data: 2024].3.6.10 - Aumento de quotas obrigatórias de gases renováveis na carteira de aprovisionamento de energia dos comercializadores - Nova medidaPara os comercializadores de gás, cujo fornecimento seja superior a 2000 GWh por ano, será aumentada de forma progressiva a quota obrigatória a incorporar no seu aprovisionamento até atingir uma percentagem não inferior a 10 % de biometano ou hidrogénio por eletrólise a partir da água em energia de gás fornecido, sendo realizada uma atualização ao [Decreto-Lei n.º 30-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2022-182213906). [Data prevista: 2024-2030]3.6.11 - Revisão da Estratégia Nacional para o Hidrogénio (EN-H2) -Nova medidaRever a Estratégia Nacional para o Hidrogénio (EN-H2) para materializar as metas de incorporação obrigatórias para o H2 renovável e dos seus derivados (RFNBO) nos transportes e na indústria, que serão transpostas da Diretiva REDIII. [Data: 2025-2026]. |
 | CONTRIBUTO PARA 5 DIMENSÕESDescarbonização; Segurança Energética; I&I&C |
@@ -2767,7 +3332,7 @@ iv) Medidas específicas para introduzir um ou mais pontos de contacto, agilizar
 
 v) Avaliação da necessidade de construção de novas infraestruturas de aquecimento e arrefecimento urbano (district heating) a partir de fontes de energia renováveis
 
-Ao contrário da maioria dos países da UE, em Portugal o potencial para redes urbanas de aquecimento e arrefecimento é muito baixo. Um dos principais obstáculos à adoção das redes urbanas de aquecimento e arrefecimento são a densidade de construção muito baixa nas zonas interiores com mais extremos climáticos em contraste, com um clima ameno nas zonas costeiras que sustentam as áreas urbanas mais densas.<sup>46</sup> No entanto, em zonas termais, têm-se desenvolvido pequenos projetos de redes de distribuição de calor geotérmico, essencialmente direcionados ao setor hoteleiro, que apresenta necessidades térmicas constantes ao longo do ano.
+Ao contrário da maioria dos países da UE, em Portugal o potencial para redes urbanas de aquecimento e arrefecimento é muito baixo. Um dos principais obstáculos à adoção das redes urbanas de aquecimento e arrefecimento são a densidade de construção muito baixa nas zonas interiores com mais extremos climáticos em contraste, com um clima ameno nas zonas costeiras que sustentam as áreas urbanas mais densas.46 No entanto, em zonas termais, têm-se desenvolvido pequenos projetos de redes de distribuição de calor geotérmico, essencialmente direcionados ao setor hoteleiro, que apresenta necessidades térmicas constantes ao longo do ano.
 
 3.1.3 - Outros elementos
 
@@ -2888,7 +3453,7 @@ Uma trajetória rumo à transição energética e à neutralidade carbónica pas
 
 iv) Políticas nacionais, cronogramas e medidas previstas para eliminar gradualmente os subsídios à energia, em particular para os combustíveis fósseis
 
-Por forma a tornar a fiscalidade um instrumento da transição para a neutralidade carbónica, em 2018 foi criado em Portugal um Grupo de Trabalho<sup>47</sup> com a missão de promover uma análise da fiscalidade que incide sobre a energia, visando designadamente identificar e estudar os incentivos prejudiciais ao ambiente e propor a sua eliminação progressiva, bem como propor a revitalização da taxa de carbono, tendo em consideração eventuais impactes nos setores económicos abrangidos, num quadro de descarbonização da economia. Em junho de 2019, foi publicado o relatório «Os Benefícios Fiscais em Portugal».<sup>48</sup>
+Por forma a tornar a fiscalidade um instrumento da transição para a neutralidade carbónica, em 2018 foi criado em Portugal um Grupo de Trabalho47 com a missão de promover uma análise da fiscalidade que incide sobre a energia, visando designadamente identificar e estudar os incentivos prejudiciais ao ambiente e propor a sua eliminação progressiva, bem como propor a revitalização da taxa de carbono, tendo em consideração eventuais impactes nos setores económicos abrangidos, num quadro de descarbonização da economia. Em junho de 2019, foi publicado o relatório «Os Benefícios Fiscais em Portugal».48
 
 Em 2018 iniciou-se ainda um processo de eliminação faseada das isenções associadas à utilização de carvão para a produção de eletricidade, a qual se descreve em seguida.
 
@@ -2896,15 +3461,16 @@ Eliminação das isenções à utilização de carvão para a produção de elet
 
 A Lei do Orçamento de Estado para 2018 (Artigo 251.º) estabeleceu a eliminação faseada da isenção aplicável ao Imposto sobre Produtos Petrolíferos e Energéticos (ISP) aplicável ao carvão e coque de carvão utilizado para a produção de eletricidade e cogeração.
 
-Assim, o carvão e coque de carvão (classificados pelos códigos NC2701, 2702 e 2704) utilizados na atividade de produção de eletricidade e calor passam a estar sujeitos em 2018 a uma taxa correspondente a 10 % da taxa de ISP e a 10 % da taxa de adicionamento sobre as emissões de CO<sub>2</sub> (taxa de carbono). Estas taxas são alteradas em 1 de janeiro de cada ano nos seguintes termos: (i) 25 % em 2019; (ii) 50 % em 2020; (iii) 75 % em 2021; (iv) 100 % em 2022.
+Assim, o carvão e coque de carvão (classificados pelos códigos NC2701, 2702 e 2704) utilizados na atividade de produção de eletricidade e calor passam a estar sujeitos em 2018 a uma taxa correspondente a 10 % da taxa de ISP e a 10 % da taxa de adicionamento sobre as emissões de CO2 (taxa de carbono). Estas taxas são alteradas em 1 de janeiro de cada ano nos seguintes termos: (i) 25 % em 2019; (ii) 50 % em 2020; (iii) 75 % em 2021; (iv) 100 % em 2022.
 
-A receita obtida com esta eliminação progressiva da isenção de ISP e de adicionamento sobre as emissões de CO<sub>2</sub> é consignada em 50 % ao Sistema Elétrico Nacional (SEN) para a redução do défice tarifário do setor elétrico a afetar ao Fundo para a Sustentabilidade Sistémica do Setor Energético e em 50 % para o Fundo Ambiental para aplicação em projetos de descarbonização.
+A receita obtida com esta eliminação progressiva da isenção de ISP e de adicionamento sobre as emissões de CO2 é consignada em 50 % ao Sistema Elétrico Nacional (SEN) para a redução do défice tarifário do setor elétrico a afetar ao Fundo para a Sustentabilidade Sistémica do Setor Energético e em 50 % para o Fundo Ambiental para aplicação em projetos de descarbonização.
 
 Para 2019, foi introduzido um ajuste que permite refletir o preço de carbono, já pago por estas instalações, tendo sido ainda estabelecido um preço base de 20 €/t para a determinação da taxa de carbono.
 
 A eliminação das isenções de ISP e de taxa de carbono prosseguiu em 2020, 2021, 2022 e 2023, com um alargamento do âmbito em termos de produtos energéticos e de utilizações, conforme se pode verificar da figura seguinte (in Relatório que acompanha o Orçamento do Estado para 2023).
 
-![](https://files.diariodarepublica.pt/images/914597185/914597485.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597485.png) |
+| --- |
 
 ARCE - Acordo de Racionalização do Consumo de Energia
 
@@ -2920,7 +3486,7 @@ No contexto da Diretiva da Tributação Energética, existem isenções facultat
 | --- |
 | DESCRIÇÃOContribuir para induzir padrões de produção e de consumo mais sustentáveis, promover a redução de emissões de GEE, fomentar comportamentos mais sustentáveis, promover a eco inovação e eficiência na utilização de recursos, fomentar o empreendedorismo e a criação de emprego, a redução da dependência energética do exterior, a concretização eficiente de metas e objetivos internacionais e a diversificação das fontes de receita. |
 | SETOR(ES)Energia; Indústria; Mobilidade e Transportes; Serviços |
-| MEDIDAS DE AÇÃOPara prosseguir com a fiscalidade verde, estão previstas as seguintes medidas de ação:1.7.1 - Fiscalidade para a descarbonização do setor energéticoRevitalizar a taxa de Carbono - tributação do carbono nos setores não abrangidos pelo Comércio Europeu de Licenças de Emissão (CELE) com uma taxa indexada ao preço do carbono nos setores abrangidos pelo CELE. Eliminar progressivamente os incentivos prejudiciais ao ambiente, nomeadamente os subsídios aos combustíveis fósseis, incluindo a revisão dos benefícios fiscais e outros incentivos associados à utilização de combustíveis fósseis. [Data prevista: 2020-2025]1.7.2 - Fiscalidade para a descarbonização do setor dos transportes e promoção da mobilidade sustentávelIncentivos à mobilidade elétrica através de medidas com impacto no IRS, IRC, IVA, ISV, tributação autónoma ou atribuição de subsídio mediante a compra de veículos elétricos ou híbridos plug-in novos. Revisão do ISV e do IUC de forma a reforçar a discriminação positiva dos veículos de melhor desempenho ambiental, mantendo a tributação em função das emissões de CO<sub>2</sub>. Estudo de potenciais incentivos à mobilidade com hidrogénio, bioenergia e RFNBO, diferenciando a bioenergia dos combustíveis fósseis, promovendo o uso de misturas mais ricas em bioenergia. [Data prevista: 2020-2025]1.7.3 - Fiscalidade para a descarbonização do setor residencial e dos serviçosIntroduzir incentivos fiscais para a eficiência energética e introdução de energia de fontes renováveis e um regime fiscal mais favorável para os edifícios que incorporem tecnologias de aproveitamento de energias renováveis para a produção de energia elétrica e/ou térmica (ex.: criar incentivos fiscais, como sejam a redução de IMI, para edifícios com necessidades quase nulas de energia (NZEB)). [Data prevista: 2020-2025]1.7.4 - Fiscalidade para a promoção de produtos e serviços de baixo carbono e de aproveitamento de energias renováveisCriar incentivos fiscais, como taxa de IVA reduzido, aos produtos e serviços de baixo carbono e de aproveitamento de energias renováveis, designadamente os que detenham certificação ou incorporação de material reciclado. [Data prevista: 2020-2025] |
+| MEDIDAS DE AÇÃOPara prosseguir com a fiscalidade verde, estão previstas as seguintes medidas de ação:1.7.1 - Fiscalidade para a descarbonização do setor energéticoRevitalizar a taxa de Carbono - tributação do carbono nos setores não abrangidos pelo Comércio Europeu de Licenças de Emissão (CELE) com uma taxa indexada ao preço do carbono nos setores abrangidos pelo CELE. Eliminar progressivamente os incentivos prejudiciais ao ambiente, nomeadamente os subsídios aos combustíveis fósseis, incluindo a revisão dos benefícios fiscais e outros incentivos associados à utilização de combustíveis fósseis. [Data prevista: 2020-2025]1.7.2 - Fiscalidade para a descarbonização do setor dos transportes e promoção da mobilidade sustentávelIncentivos à mobilidade elétrica através de medidas com impacto no IRS, IRC, IVA, ISV, tributação autónoma ou atribuição de subsídio mediante a compra de veículos elétricos ou híbridos plug-in novos. Revisão do ISV e do IUC de forma a reforçar a discriminação positiva dos veículos de melhor desempenho ambiental, mantendo a tributação em função das emissões de CO2. Estudo de potenciais incentivos à mobilidade com hidrogénio, bioenergia e RFNBO, diferenciando a bioenergia dos combustíveis fósseis, promovendo o uso de misturas mais ricas em bioenergia. [Data prevista: 2020-2025]1.7.3 - Fiscalidade para a descarbonização do setor residencial e dos serviçosIntroduzir incentivos fiscais para a eficiência energética e introdução de energia de fontes renováveis e um regime fiscal mais favorável para os edifícios que incorporem tecnologias de aproveitamento de energias renováveis para a produção de energia elétrica e/ou térmica (ex.: criar incentivos fiscais, como sejam a redução de IMI, para edifícios com necessidades quase nulas de energia (NZEB)). [Data prevista: 2020-2025]1.7.4 - Fiscalidade para a promoção de produtos e serviços de baixo carbono e de aproveitamento de energias renováveisCriar incentivos fiscais, como taxa de IVA reduzido, aos produtos e serviços de baixo carbono e de aproveitamento de energias renováveis, designadamente os que detenham certificação ou incorporação de material reciclado. [Data prevista: 2020-2025] |
 | CONTRIBUTO PARA 5 DIMENSÕESDescarbonização; Eficiência Energética |
 | PRINCIPAIS INSTRUMENTOSRNC2050; Fiscalidade Verde |
 | FONTES DE FINANCIAMENTOn. e. |
@@ -2976,7 +3542,7 @@ i) Regimes de obrigação de eficiência energética e medidas de política alte
 | FONTES DE FINANCIAMENTOPRR |
 | ENTIDADE RESPONSÁVELMAE; ME; GRA; GRM; ADENE |
 
-ii) Estratégia a longo prazo de renovação do parque nacional de edifícios residenciais e não residenciais, tanto públicos como privados<sup>49</sup>
+ii) Estratégia a longo prazo de renovação do parque nacional de edifícios residenciais e não residenciais, tanto públicos como privados49
 
 | LINHA DE ATUAÇÃO2.1 - PROMOVER A RENOVAÇÃO ENERGÉTICA E A EFICIÊNCIA DE RECURSOS DO PARQUE IMOBILIÁRIO E OS EDIFÍCIOS NZEB/ZEB |
 | --- |
@@ -3073,7 +3639,7 @@ i) Políticas e medidas respeitantes à segurança energética
 | --- |
 | DESCRIÇÃOPromover o aumento da capacidade instalada de produção de eletricidade a partir de fontes renováveis de energia, incluindo a produção distribuída e o autoconsumo, assim como a necessidade de promover outras fontes de energia renovável atualmente pouco disseminadas nos vários setores, exige necessariamente uma resposta ao nível das infraestruturas de rede que permita, não só acomodar este aumento de capacidade e diversificação de fontes, mas todos os desafios que o novo paradigma da oferta e da procura de energia vêm trazer ao sistema elétrico nacional. O mesmo desafio coloca-se ao Sistema Nacional de Gás que verá uma incorporação cada vez maior de gases renováveis no sistema e uma crescente articulação com o Sistema Elétrico Nacional. Igualmente importante a coerência do planeamento elétrico e de gás (incluindo gases renováveis) nacional a par do planeamento à escala da União. |
 | SETOR(ES)Energia |
-| MEDIDAS DE AÇÃOPara promover o adequado planeamento do sistema elétrico nacional e sistema nacional de gás, estão previstas as seguintes medidas de ação:4.5.1 - Formar uma visão estratégica da rede elétrica nacional e redes de gás de origem renovável para 2030 e 2050Esta ação será sob a forma de um estudo de natureza técnica sobre a visão estratégica, arquitetura e roteiro para a rede elétrica nacional no quadro dos objetivos do PNEC, terá como principais objetivos: (i) apresentar uma visão estratégica sobre as redes; (ii) refletir sobre os modelos de mercado para transação de energia e serviços de sistema; (iii) avaliar a segurança do abastecimento a longo prazo. Perspetiva-se que exercício semelhante se realize para as redes de gás, devido à necessidade crescente da incorporação de gases renováveis, reconversão de redes e definição de redes dedicadas especificamente para hidrogénio renovável. [Data prevista: 2020-2030]4.5.2 - Planear e fomentar a gestão integrada e conjunta da rede, numa lógica regional e transfronteiriçaNuma lógica de otimização de recursos é extremamente importante que a gestão da rede e da energia se faça também numa lógica transfronteiriça, pelo que deverá ser promovido e suportado o diálogo entre os operadores das redes nacionais e regionais. Associado a esta abordagem deve ser ainda considerada a nível nacional e transfronteiriço a interdependência do sistema elétrico e gasista, numa lógica de sector coupling, lógica esta em linha com a abordagem e política comunitária. De referir a necessidade de se realizar estudos integrados, incluindo diferentes setores ligados à energia, p.e., eletricidade, gás, mobilidade. Estes estudos já estão a avançar a nível Europeu (ENTSO-E e ENTSO-G) mas também é necessário realizar estudos regionais para averiguar da adequabilidade ao nível de cada país. [Data prevista: 2020-2030]4.5.3 - Adequar e fomentar a melhoria contínua dos instrumentos de planeamento das redesOs atuais instrumentos de planeamento da rede, sob a forma de Planos de Desenvolvimento e Investimentos nas Redes (PDIR), devem ter em linha de conta as metas e objetivos previstos no PNEC e no RNC2050 bem como a necessidade de adaptar os investimentos na rede de forma a preparar as redes para os desafios da transição energética (maior integração de renováveis, descentralização da produção, armazenamento, veículos elétricos, flexibilidade, entre outros).Na preparação e elaboração dos Planos de Desenvolvimento e Investimentos nas Redes (PDIR), serão fomentadas e reforçadas diretrizes com vista à sua melhoria contínua.A mesma lógica deve ser aplicada ao planeamento das redes de gás/H<sub>2</sub>, devendo ainda simultaneamente ser considerada a interdependência do sistema elétrico e sistema gasista, numa lógica de sector coupling, proporcionando um planeamento cada vez mais integrado, lógica esta em linha com a abordagem e política comunitária.Para continuar a melhorar o planeamento e gestão/operação das redes é igualmente crucial fomentar o diálogo e a cooperação entre entidades públicas, operadores e outros agentes envolvidos. [Data prevista: 2020-2030]4.5.4 - Criar mecanismos de planeamento das redes a nível localO desafio da adequação das infraestruturas de rede que possibilitem uma efetiva transição energética coloca-se em particular à Rede de Baixa Tensão (BT) que deixará de ser uma rede passiva, passando a integrar todo um conjunto de novos conceitos, desde a inteligência da rede, sistemas de apoio à gestão, contadores inteligentes, armazenamento, gestão de energia, produção local, comunidades de energia, veículos elétricos, entre outros, são variáveis a ter em consideração na construção da rede do futuro. Nesta dimensão, é ainda necessário considerar o futuro das concessões municipais de distribuição em BT e a concessão da gestão técnica das redes de distribuição no planeamento, tal como preconizado no Decreto-Lei n.º [15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016).Para assegurar esta transformação, devem ser criados os mecanismos que permitam aos intervenientes dispor das ferramentas necessárias para planear de forma eficiente e custo-eficaz as redes BT, assegurando a qualidade de serviço e a segurança do abastecimento. [Data prevista: 2020-2025] |
+| MEDIDAS DE AÇÃOPara promover o adequado planeamento do sistema elétrico nacional e sistema nacional de gás, estão previstas as seguintes medidas de ação:4.5.1 - Formar uma visão estratégica da rede elétrica nacional e redes de gás de origem renovável para 2030 e 2050Esta ação será sob a forma de um estudo de natureza técnica sobre a visão estratégica, arquitetura e roteiro para a rede elétrica nacional no quadro dos objetivos do PNEC, terá como principais objetivos: (i) apresentar uma visão estratégica sobre as redes; (ii) refletir sobre os modelos de mercado para transação de energia e serviços de sistema; (iii) avaliar a segurança do abastecimento a longo prazo. Perspetiva-se que exercício semelhante se realize para as redes de gás, devido à necessidade crescente da incorporação de gases renováveis, reconversão de redes e definição de redes dedicadas especificamente para hidrogénio renovável. [Data prevista: 2020-2030]4.5.2 - Planear e fomentar a gestão integrada e conjunta da rede, numa lógica regional e transfronteiriçaNuma lógica de otimização de recursos é extremamente importante que a gestão da rede e da energia se faça também numa lógica transfronteiriça, pelo que deverá ser promovido e suportado o diálogo entre os operadores das redes nacionais e regionais. Associado a esta abordagem deve ser ainda considerada a nível nacional e transfronteiriço a interdependência do sistema elétrico e gasista, numa lógica de sector coupling, lógica esta em linha com a abordagem e política comunitária. De referir a necessidade de se realizar estudos integrados, incluindo diferentes setores ligados à energia, p.e., eletricidade, gás, mobilidade. Estes estudos já estão a avançar a nível Europeu (ENTSO-E e ENTSO-G) mas também é necessário realizar estudos regionais para averiguar da adequabilidade ao nível de cada país. [Data prevista: 2020-2030]4.5.3 - Adequar e fomentar a melhoria contínua dos instrumentos de planeamento das redesOs atuais instrumentos de planeamento da rede, sob a forma de Planos de Desenvolvimento e Investimentos nas Redes (PDIR), devem ter em linha de conta as metas e objetivos previstos no PNEC e no RNC2050 bem como a necessidade de adaptar os investimentos na rede de forma a preparar as redes para os desafios da transição energética (maior integração de renováveis, descentralização da produção, armazenamento, veículos elétricos, flexibilidade, entre outros).Na preparação e elaboração dos Planos de Desenvolvimento e Investimentos nas Redes (PDIR), serão fomentadas e reforçadas diretrizes com vista à sua melhoria contínua.A mesma lógica deve ser aplicada ao planeamento das redes de gás/H2, devendo ainda simultaneamente ser considerada a interdependência do sistema elétrico e sistema gasista, numa lógica de sector coupling, proporcionando um planeamento cada vez mais integrado, lógica esta em linha com a abordagem e política comunitária.Para continuar a melhorar o planeamento e gestão/operação das redes é igualmente crucial fomentar o diálogo e a cooperação entre entidades públicas, operadores e outros agentes envolvidos. [Data prevista: 2020-2030]4.5.4 - Criar mecanismos de planeamento das redes a nível localO desafio da adequação das infraestruturas de rede que possibilitem uma efetiva transição energética coloca-se em particular à Rede de Baixa Tensão (BT) que deixará de ser uma rede passiva, passando a integrar todo um conjunto de novos conceitos, desde a inteligência da rede, sistemas de apoio à gestão, contadores inteligentes, armazenamento, gestão de energia, produção local, comunidades de energia, veículos elétricos, entre outros, são variáveis a ter em consideração na construção da rede do futuro. Nesta dimensão, é ainda necessário considerar o futuro das concessões municipais de distribuição em BT e a concessão da gestão técnica das redes de distribuição no planeamento, tal como preconizado no Decreto-Lei n.º [15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016).Para assegurar esta transformação, devem ser criados os mecanismos que permitam aos intervenientes dispor das ferramentas necessárias para planear de forma eficiente e custo-eficaz as redes BT, assegurando a qualidade de serviço e a segurança do abastecimento. [Data prevista: 2020-2025] |
 | CONTRIBUTO PARA 5 DIMENSÕESSegurança Energética; Mercado Interno |
 | RISCOS E VULNERABILIDADES CLIMÁTICAS - Relevância: Elevada- Os planos de desenvolvimento e investimento das redes poderão beneficiar com a incorporação de análises de risco climático (climate proofing);- A melhoria das redes (nacionais e locais) beneficiará com a construção de infraestruturas mais resilientes e adaptadas aos efeitos das alterações climáticas. |
 | PRINCIPAIS INSTRUMENTOSRNC2050; PDIRT-E; PDIRG; PDIRD-E; PDIRD-G; RMSA-E; RMSA-G |
@@ -3366,8 +3932,8 @@ i) Políticas e medidas relacionadas com os elementos estabelecidos no ponto 2.5
 | SETOR(ES)Todos os setores |
 | MEDIDAS DE AÇÃOPara promover projetos de I&D&I que constituam suporte à transição para uma economia neutra em carbono estão previstas as seguintes medidas de ação:1.9.1 - Promover a articulação com as estratégias de I&I europeias, nacionais e regionaisA I&D&I é fundamental para alcançar a transição para uma economia neutra em carbono e abrange várias dimensões-chave:i) Acelerar a implementação da política nacional e da UE e apoiar os seus objetivos políticos a longo prazo;ii) Aumentar a competitividade nacional;iii) Abordar os aspetos humanos, societais e sociais da transição verde e digital.As sinergias entre o programa-quadro de I&I, os programas de coesão e os programas nacionais podem maximizar o montante, a qualidade e o impacto do investimento em I&I para a transição energética, com planos estratégicos que se complementem e utilizam diferentes instrumentos de financiamento. Uma abordagem sistémica e complementar tem o potencial de aumentar os retornos dos programas europeus em matéria de energia e alterações climáticas, alinhando as prioridades nacionais com as linhas estratégicas da UE. |
 | As estratégias de especialização inteligente (S3) bem como as Agendas Temáticas de I&I da Fundação para a Ciência e a Tecnologia (FCT) são ferramentas cruciais para o alinhamento das prioridades nacionais. As Agendas da FCT mobilizaram peritos de instituições de I&D, empresas e entidades públicas na identificação de desafios e oportunidades a nível do sistema científico e tecnológico nacional, numa perspetiva de médio e longo prazo, contribuindo para o desenvolvimento de I&I que dê resposta a problemas ou necessidades de diferentes setores da sociedade. Para apoio a projetos de I&I que contribuam para a descarbonização da economia são de destacar as seguintes Agendas Temáticas da FCT: Alterações Climáticas, Sistemas Sustentáveis de Energia, Economia Circular, Ciência Urbana e Cidades para o Futuro (para além de todas as outras identificadas nos restantes objetivos). Esta articulação estende-se aos Laboratórios Colaborativos, uma vez que estes têm como objetivo implementar as agendas de investigação e de inovação. [Data prevista: 2020-2030] |
-| Como referido na Secção 2.5 para a dimensão RIC, sobre as 15 Agendas Temáticas planeadas, identificaram-se duas delas com particular impacte para o PNEC 2030 que não se concluíram: «Sistemas Sustentáveis de Energia», e «Ciência Urbana e Cidades para o Futuro»1.9.2 - Inovação e desenvolvimento de tecnologias, práticas, produtos e serviços neutros em carbono em todos os setores de atividadePromover projetos de ecoinovação em tecnologias de baixo carbono e projetos de I&D que permitam apoiar a transição para uma economia neutra em carbono reduzindo os custos da transição. Apoiar o desenvolvimento de produtos e serviços inovadores e de baixo carbono, a criação de living labs para a descarbonização, apoiando designadamente iniciativas que associem centros de investigação, academia e empresas.Diferentes ações devem ser realçadas:- Laboratórios Colaborativos (CoLAB): Das 41 entidades reconhecidas como CoLAB e em atividade, pelo menos 17 atuam em áreas com particular interesse para o PNEC 2030: «Energia e Sustentabilidade», «Materiais, Economia Circular, e Sustentabilidade Urbana», «Clima, Espaço e Oceano», e «Biodiversidade e Floresta».Com um compromisso de 96,6 M€ para financiar os CoLAB no período entre 2022 e 2026, Portugal executou já 12M€ (12 %) para financiar as 41 entidades em atividade, das quais, pelo menos 17 atuam em áreas com particular interesse para o PNEC2030: BIOREF, HYLAB, Net4CO<sub>2</sub>, Smart Energy LAB e VG CoLAB em «Energia e Sustentabilidade», AlmaScience, BUILT CoLAB, C5LAB, CECOLAB e CEiiA-S2ul em «Materiais, Economia Circular, e Sustentabilidade Urbana», +Atlatinc B2E, Green CoLAB e S2AQUAcoLAB em «Clima, Espaço e Oceano» e ForestWISE, InnovPlantProtect e MORE em «Biodiversidade e Floresta» (2023 CoLAB Annual Report).- Participação nacional do 2.º IPCEI das Baterias - EuBatIn (ponto de situação a 21 mar 2024), com entidades nacionais envolvidas no projeto enquanto parceiros associados.[Data prevista: 2020-2030]1.9.3 - Prossecução do apoio à participação no Fundo de Inovação e LIFEPromover este programa e criar as condições para a participação de empresas nacionais no mesmo. [Data prevista: 2020-2027]1.9.4 - Prossecução do apoio à participação nos Programas Horizonte EuropaPromover o programa europeu de I&I de excelência e criar condições para aumentar a participação de empresas do sistema científico e tecnológico nacional no mesmo. [Data prevista: 2021-2027]A coordenação dos Pilares II e III do Horizonte Europa é da responsabilidade da ANI, e a coordenação dos Pilares I e IV da responsabilidade da FCT.Portugal captou um total de 821M€ nos três primeiros anos (2021-2023) do Horizonte Europa, com 1411 projetos aprovados e 2329 participações de entidades nacionais, o que corresponde a 10 % do total de projetos financiados pelo programa-quadro em todos os países elegíveis para este financiamento europeu. |
-| A participação de Portugal nas áreas com particular interesse para o PNEC2030, para o período de 2021-2023 corresponde a cerca de 92M€, com 131 projetos aprovados (25 dos quais coordenados por entidades nacionais) e 276 participações nacionais. Cerca de 1/3 da participação nacional nos projetos financiados é de entidades privadas (grandes empresas e Pequenas e Médias empresas), demonstrando o papel crítico que desempenham para impulsionar a inovação colaborativa e o avanço científico e tecnológico da transição energética na Europa.1.9.5 - Apoiar projetos de inovação para a recirculação de dióxido de carbono e geração de gás-sintético - Nova medidaNuma ótica de redução de emissões, aumento das quotas de energia renovável e endógena e circularidade, serão promovidos e apoiados projetos que contemplem a captação das emissões de dióxido de carbono resultantes da purificação do biogás proveniente das instalações de digestão anaeróbica e gaseificação, com vista à sua valorização e utilização enquanto matéria-prima para produção de gás-sintético ou utilização em indústrias químicas, de construção e/ou alimentar (utilização em estufas). [Data prevista: 2023-2030]1.9.6 - Apoiar projetos de inovação que promovam a gestão dinâmica de gases renováveis nas redes de gás - Nova medidaSerão promovidos projetos de I&D com vista a dar resposta à crescente e iminente necessidade de acomodar na rede de gás diferentes qualidades (GN, H<sub>2</sub>, biometano), assim como à gestão entre a produção e injeção e o consumo em cada área geográfica. A acomodação de diferentes gases deverá ser feita com recurso a sistemas de rastreamento de qualidade de gás. Deve ser possível enviar o gás produzido e injetado numa rede sem consumo suficiente para outras redes onde esse consumo exista, através da rede de transporte, com vista a maximizar o aproveitamento de toda a capacidade de produção. [Data prevista: 2023-2030] |
+| Como referido na Secção 2.5 para a dimensão RIC, sobre as 15 Agendas Temáticas planeadas, identificaram-se duas delas com particular impacte para o PNEC 2030 que não se concluíram: «Sistemas Sustentáveis de Energia», e «Ciência Urbana e Cidades para o Futuro»1.9.2 - Inovação e desenvolvimento de tecnologias, práticas, produtos e serviços neutros em carbono em todos os setores de atividadePromover projetos de ecoinovação em tecnologias de baixo carbono e projetos de I&D que permitam apoiar a transição para uma economia neutra em carbono reduzindo os custos da transição. Apoiar o desenvolvimento de produtos e serviços inovadores e de baixo carbono, a criação de living labs para a descarbonização, apoiando designadamente iniciativas que associem centros de investigação, academia e empresas.Diferentes ações devem ser realçadas:- Laboratórios Colaborativos (CoLAB): Das 41 entidades reconhecidas como CoLAB e em atividade, pelo menos 17 atuam em áreas com particular interesse para o PNEC 2030: «Energia e Sustentabilidade», «Materiais, Economia Circular, e Sustentabilidade Urbana», «Clima, Espaço e Oceano», e «Biodiversidade e Floresta».Com um compromisso de 96,6 M€ para financiar os CoLAB no período entre 2022 e 2026, Portugal executou já 12M€ (12 %) para financiar as 41 entidades em atividade, das quais, pelo menos 17 atuam em áreas com particular interesse para o PNEC2030: BIOREF, HYLAB, Net4CO2, Smart Energy LAB e VG CoLAB em «Energia e Sustentabilidade», AlmaScience, BUILT CoLAB, C5LAB, CECOLAB e CEiiA-S2ul em «Materiais, Economia Circular, e Sustentabilidade Urbana», +Atlatinc B2E, Green CoLAB e S2AQUAcoLAB em «Clima, Espaço e Oceano» e ForestWISE, InnovPlantProtect e MORE em «Biodiversidade e Floresta» (2023 CoLAB Annual Report).- Participação nacional do 2.º IPCEI das Baterias - EuBatIn (ponto de situação a 21 mar 2024), com entidades nacionais envolvidas no projeto enquanto parceiros associados.[Data prevista: 2020-2030]1.9.3 - Prossecução do apoio à participação no Fundo de Inovação e LIFEPromover este programa e criar as condições para a participação de empresas nacionais no mesmo. [Data prevista: 2020-2027]1.9.4 - Prossecução do apoio à participação nos Programas Horizonte EuropaPromover o programa europeu de I&I de excelência e criar condições para aumentar a participação de empresas do sistema científico e tecnológico nacional no mesmo. [Data prevista: 2021-2027]A coordenação dos Pilares II e III do Horizonte Europa é da responsabilidade da ANI, e a coordenação dos Pilares I e IV da responsabilidade da FCT.Portugal captou um total de 821M€ nos três primeiros anos (2021-2023) do Horizonte Europa, com 1411 projetos aprovados e 2329 participações de entidades nacionais, o que corresponde a 10 % do total de projetos financiados pelo programa-quadro em todos os países elegíveis para este financiamento europeu. |
+| A participação de Portugal nas áreas com particular interesse para o PNEC2030, para o período de 2021-2023 corresponde a cerca de 92M€, com 131 projetos aprovados (25 dos quais coordenados por entidades nacionais) e 276 participações nacionais. Cerca de 1/3 da participação nacional nos projetos financiados é de entidades privadas (grandes empresas e Pequenas e Médias empresas), demonstrando o papel crítico que desempenham para impulsionar a inovação colaborativa e o avanço científico e tecnológico da transição energética na Europa.1.9.5 - Apoiar projetos de inovação para a recirculação de dióxido de carbono e geração de gás-sintético - Nova medidaNuma ótica de redução de emissões, aumento das quotas de energia renovável e endógena e circularidade, serão promovidos e apoiados projetos que contemplem a captação das emissões de dióxido de carbono resultantes da purificação do biogás proveniente das instalações de digestão anaeróbica e gaseificação, com vista à sua valorização e utilização enquanto matéria-prima para produção de gás-sintético ou utilização em indústrias químicas, de construção e/ou alimentar (utilização em estufas). [Data prevista: 2023-2030]1.9.6 - Apoiar projetos de inovação que promovam a gestão dinâmica de gases renováveis nas redes de gás - Nova medidaSerão promovidos projetos de I&D com vista a dar resposta à crescente e iminente necessidade de acomodar na rede de gás diferentes qualidades (GN, H2, biometano), assim como à gestão entre a produção e injeção e o consumo em cada área geográfica. A acomodação de diferentes gases deverá ser feita com recurso a sistemas de rastreamento de qualidade de gás. Deve ser possível enviar o gás produzido e injetado numa rede sem consumo suficiente para outras redes onde esse consumo exista, através da rede de transporte, com vista a maximizar o aproveitamento de toda a capacidade de produção. [Data prevista: 2023-2030] |
 | 1.9.7 - Criação de Zonas Livre tecnológicas - Nova medidaCriação de zonas livre tecnológicas onde se promover e facilitar a realização de atividades de investigação, demonstração e teste, em ambiente real, de tecnologias, produtos, serviços, processos, modelos inovadores, conceitos, modelos de negócio, quadros regulatórios específicos, no âmbito das atividades de produção, armazenamento, promoção da mobilidade elétrica e autoconsumo de eletricidade. Estas zonas deverão ser articuladas com os vários agentes de mercado, abrindo a possibilidade de identificação de casos de uso concretos pelos operadores de rede ou por agentes de mercado, que poderão ser enquadrados no âmbito das ZLT. [Data prevista: 2023-2030] |
 | CONTRIBUTO PARA AS DIMENSÕES DO PNECDescarbonização; Eficiência Energética; I&D&I |
 | PRINCIPAIS INSTRUMENTOSRNC2050; Agendas FCT; ENEI/EREIs |
@@ -3388,17 +3954,15 @@ i) Políticas e medidas relacionadas com os elementos estabelecidos no ponto 2.5
 | --- |
 | DESCRIÇÃOPretende-se apoiar o desenvolvimento de tecnologias que permitam desenvolver novas soluções para o aproveitamento de fontes renováveis de energia, bem como apoiar a participação das empresas e organismos nacionais nos programas de investigação e inovação que contribuam para a promoção das energias renováveis. |
 | SETOR(ES)Energia; Transportes |
-| MEDIDAS DE AÇÃOPara incentivar I&I em energias renováveis, armazenamento, hidrogénio, biocombustíveis avançados e outros combustíveis 100 % renováveis, estão previstas as seguintes medidas de ação:3.8.1 - Promover a articulação com as estratégias de I&I nacionais e regionais, Agendas Temáticas de Investigação e Inovação da Fundação para a Ciência e a TecnologiaAs estratégias de especialização inteligente nacionais e regionais (S3) e as Agendas da FCT visam mobilizar peritos de instituições de I&I, empresas e entidades públicas na identificação de desafios e oportunidades a nível do sistema científico e tecnológico nacional, numa perspetiva de médio e longo prazo, contribuindo para o desenvolvimento de I&I que dê resposta a problemas ou necessidades de diferentes setores da sociedade. Para apoio a projetos de I&I que contribuam para promover as energias renováveis são de destacar as seguintes Agendas: Sistemas Sustentáveis de Energia e Ciência Urbana e Cidades para o Futuro. Esta articulação estende-se aos Laboratórios Colaborativos, uma vez que estes têm como objetivo implementar as agendas de investigação e de inovação.- Agendas Temáticas: Grande maioria foi concretizada (com a exceção da agenda associada aos sistemas sustentáveis de energia).- Laboratórios Colaborativos (relacionado/em linha com o definido na medida de ação 1.9.2).:(In: https://www.ani.pt/media/7080/en_brochura_colab_2022.pdf)É importante garantir alinhamento com as estratégias europeias neste domínio. Neste âmbito, a ação poderá explorar sinergias com os instrumentos de financiamento de I&I europeus, como por exemplo, as parcerias europeias Clean Hydrogen Joint Undertaking e Batteries4Europe no âmbito do Horizonte Europa.[Data prevista: 2020-2030] |
-|  |
-| 3.8.2 - Promover programas nacionais de I&I para apoio ao desenvolvimento tecnológicoDe entre os programas a desenvolver, destaque para: Tecnologias de baixo carbono em fase pré-competitiva, como o Solar Concentrado (CSP), Energia Geotérmica Profunda e Energia Oceânica, como a das Ondas; a eólica flutuante e solar Fotovoltaica flutuante; Armazenamento de energia; Hidrogénio como vetor energético; solar térmico, bombas de calor, redes e SAF, em linha com o Regulamento NZIA; Combustíveis renováveis e bioenergia; Transportes sustentáveis; Tecnologias de Conversão de Energias Renováveis; Melhoria do Desempenho, Redução de Custos, Novos Materiais e Otimização da O&M.- Plano de Recuperação e Resiliência - Componente 5 (PRR-C5): Agendas Mobilizadoras e Agendas Verdes para a Inovação Empresarial; Coordenação: IAPMEI (MEM); Pré-selecionadas 53 propostas de projeto; investimento total: 7 675,19 M€; investimento em I&DT: 2 939,72 M€. Concretamente nos domínios da «Energia» e das «Tecnologias de Produção e Indústrias de Produto», os quais envolveram diferentes promotores a operar no setor Energético, o investimento representou respetivamente ca 27 % e 25 % do total.- Plano de Recuperação e Resiliência - Componente 11 (PRR-C11): Apoio à Descarbonização na Indústria; Coordenação: IAPMEI (MEM); Envolveu uma 1.ª chamada com um volume de apoio de 965 M€, tendo sido contratualizados 715 M€.- Plano de Recuperação e Resiliência - Componente 13 (PRR-C13): Apoio aos Edifícios Residenciais; Coordenação: IAPMEI (MEM); Contratos concluídos num total de 610 M€.- Plano de Recuperação e Resiliência - Componente 14 (PRR-C14): Produção de Hidrogénio e outros Gases Renováveis; Coordenação: Fundo Ambiental; envolveu uma 1.ª chamada com um volume de apoio de 102 M€; apoiados os 25 projetos melhor classificados.- Portugal 2020 - No âmbito do acordo de parceria entre Portugal e a Comissão Europeia PT2020, foram aprovados cerca de 160 M€ de fundos para apoiar mais de 180 projetos com um investimento elegível de 272 M€ e 390 entidades em áreas com particular interesse para o PNEC2030, incluindo energias renováveis, descarbonização, redução de emissões dos gases com efeito de estufa, transição energética, bioenergia, economia circular, mobilidade sustentável, entre outros. Em detalhe, foram aprovados 100.2 M€ de fundos para apoiar 304 empresas que participaram em mais de 166 projetos diferentes, 34.9M€ de fundos para apoiar 30 instituições do ensino superior, 21.2M€ de fundos para apoiar 76 CTI/CoLAB e mais de 7M€ para apoiar outras entidades (incluindo associações, instituição privadas sem fins lucrativos, laboratórios de estado, entre outros).Serão igualmente promovidos projetos de desenvolvimentos de estudos de caracterização do potencial do aproveitamento e integração de energia renovável no ambiente urbano, soluções, estratégias e tecnologias de baixo carbono em diferentes escalas (edifício, bairro, cidade, região) e para várias tipologias.Deverão ser igualmente promovidas medidas para suportar:a) O desenvolvimento C&T - apoiado por estratégia de ciclo de vida (da matéria-prima à gestão do fim de vida), e a competitividade das cadeias de valor associadas às tecnologias estratégicas «Net-Zero» (no quadro da Regulamentação Delegada «NZIA» - (EU) 2024/1735, de 13 de junho), nas áreas seguintes designadamente: Eletrolisadores, Gasificadores; Turbinas/fundações eólicas (onshore; offshore); Painéis solares fotovoltaicos; Combustíveis RFNBO; Combustíveis alternativos; Captura e armazenamento de CO<sub>2</sub>.b) A proteção da propriedade industrial e inovação nas áreas acima definidas. No período 2020-2022, o número de pedidos de patente submetidos ao INPI poderá ter uma grande margem de progressão, se atendermos aos pedidos registados em 5 áreas, conforme reportado em «ReportENER».[Data prevista: 2020-2030]3.8.3 - Promover um laboratório colaborativo para os gases renováveisNa área dos gases renováveis, Portugal desenvolve atividades quer para o hidrogénio quer para o biometano. Neste âmbito, foi promovida a criação de dois Laboratórios Colaborativos; o HyLab na área do hidrogénio e o BioRef que atua na área do biometano.Pretendendo criar um cluster de Investigação, Desenvolvimento e Inovação (I&D+I) de referência mundial com uma agenda estratégica focada no reforço da competitividade do hidrogénio e na criação de novos produtos e serviços, foi criado em 2021 o Laboratório Colaborativo HyLab - Green Hydrogen Collaborative Laboratory, e que irá promover a inovação, abordando os componentes relevantes da cadeia de abastecimento para permitir uma economia impulsionada pelo hidrogénio e promover a criação de emprego qualificado e de valor acrescentado. |
+| MEDIDAS DE AÇÃOPara incentivar I&I em energias renováveis, armazenamento, hidrogénio, biocombustíveis avançados e outros combustíveis 100 % renováveis, estão previstas as seguintes medidas de ação:3.8.1 - Promover a articulação com as estratégias de I&I nacionais e regionais, Agendas Temáticas de Investigação e Inovação da Fundação para a Ciência e a TecnologiaAs estratégias de especialização inteligente nacionais e regionais (S3) e as Agendas da FCT visam mobilizar peritos de instituições de I&I, empresas e entidades públicas na identificação de desafios e oportunidades a nível do sistema científico e tecnológico nacional, numa perspetiva de médio e longo prazo, contribuindo para o desenvolvimento de I&I que dê resposta a problemas ou necessidades de diferentes setores da sociedade. Para apoio a projetos de I&I que contribuam para promover as energias renováveis são de destacar as seguintes Agendas: Sistemas Sustentáveis de Energia e Ciência Urbana e Cidades para o Futuro. Esta articulação estende-se aos Laboratórios Colaborativos, uma vez que estes têm como objetivo implementar as agendas de investigação e de inovação.- Agendas Temáticas: Grande maioria foi concretizada (com a exceção da agenda associada aos sistemas sustentáveis de energia).- Laboratórios Colaborativos (relacionado/em linha com o definido na medida de ação 1.9.2).:**\| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597486.png) \|<br>\| --- \|**(In: https://www.ani.pt/media/7080/en_brochura_colab_2022.pdf)É importante garantir alinhamento com as estratégias europeias neste domínio. Neste âmbito, a ação poderá explorar sinergias com os instrumentos de financiamento de I&I europeus, como por exemplo, as parcerias europeias Clean Hydrogen Joint Undertaking e Batteries4Europe no âmbito do Horizonte Europa.[Data prevista: 2020-2030] |
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597486.png) |
+| 3.8.2 - Promover programas nacionais de I&I para apoio ao desenvolvimento tecnológicoDe entre os programas a desenvolver, destaque para: Tecnologias de baixo carbono em fase pré-competitiva, como o Solar Concentrado (CSP), Energia Geotérmica Profunda e Energia Oceânica, como a das Ondas; a eólica flutuante e solar Fotovoltaica flutuante; Armazenamento de energia; Hidrogénio como vetor energético; solar térmico, bombas de calor, redes e SAF, em linha com o Regulamento NZIA; Combustíveis renováveis e bioenergia; Transportes sustentáveis; Tecnologias de Conversão de Energias Renováveis; Melhoria do Desempenho, Redução de Custos, Novos Materiais e Otimização da O&M.- Plano de Recuperação e Resiliência - Componente 5 (PRR-C5): Agendas Mobilizadoras e Agendas Verdes para a Inovação Empresarial; Coordenação: IAPMEI (MEM); Pré-selecionadas 53 propostas de projeto; investimento total: 7 675,19 M€; investimento em I&DT: 2 939,72 M€. Concretamente nos domínios da «Energia» e das «Tecnologias de Produção e Indústrias de Produto», os quais envolveram diferentes promotores a operar no setor Energético, o investimento representou respetivamente ca 27 % e 25 % do total.- Plano de Recuperação e Resiliência - Componente 11 (PRR-C11): Apoio à Descarbonização na Indústria; Coordenação: IAPMEI (MEM); Envolveu uma 1.ª chamada com um volume de apoio de 965 M€, tendo sido contratualizados 715 M€.- Plano de Recuperação e Resiliência - Componente 13 (PRR-C13): Apoio aos Edifícios Residenciais; Coordenação: IAPMEI (MEM); Contratos concluídos num total de 610 M€.- Plano de Recuperação e Resiliência - Componente 14 (PRR-C14): Produção de Hidrogénio e outros Gases Renováveis; Coordenação: Fundo Ambiental; envolveu uma 1.ª chamada com um volume de apoio de 102 M€; apoiados os 25 projetos melhor classificados.- Portugal 2020 - No âmbito do acordo de parceria entre Portugal e a Comissão Europeia PT2020, foram aprovados cerca de 160 M€ de fundos para apoiar mais de 180 projetos com um investimento elegível de 272 M€ e 390 entidades em áreas com particular interesse para o PNEC2030, incluindo energias renováveis, descarbonização, redução de emissões dos gases com efeito de estufa, transição energética, bioenergia, economia circular, mobilidade sustentável, entre outros. Em detalhe, foram aprovados 100.2 M€ de fundos para apoiar 304 empresas que participaram em mais de 166 projetos diferentes, 34.9M€ de fundos para apoiar 30 instituições do ensino superior, 21.2M€ de fundos para apoiar 76 CTI/CoLAB e mais de 7M€ para apoiar outras entidades (incluindo associações, instituição privadas sem fins lucrativos, laboratórios de estado, entre outros).Serão igualmente promovidos projetos de desenvolvimentos de estudos de caracterização do potencial do aproveitamento e integração de energia renovável no ambiente urbano, soluções, estratégias e tecnologias de baixo carbono em diferentes escalas (edifício, bairro, cidade, região) e para várias tipologias.Deverão ser igualmente promovidas medidas para suportar:a) O desenvolvimento C&T - apoiado por estratégia de ciclo de vida (da matéria-prima à gestão do fim de vida), e a competitividade das cadeias de valor associadas às tecnologias estratégicas «Net-Zero» (no quadro da Regulamentação Delegada «NZIA» - (EU) 2024/1735, de 13 de junho), nas áreas seguintes designadamente: Eletrolisadores, Gasificadores; Turbinas/fundações eólicas (onshore; offshore); Painéis solares fotovoltaicos; Combustíveis RFNBO; Combustíveis alternativos; Captura e armazenamento de CO2.b) A proteção da propriedade industrial e inovação nas áreas acima definidas. No período 2020-2022, o número de pedidos de patente submetidos ao INPI poderá ter uma grande margem de progressão, se atendermos aos pedidos registados em 5 áreas, conforme reportado em «ReportENER».[Data prevista: 2020-2030]3.8.3 - Promover um laboratório colaborativo para os gases renováveisNa área dos gases renováveis, Portugal desenvolve atividades quer para o hidrogénio quer para o biometano. Neste âmbito, foi promovida a criação de dois Laboratórios Colaborativos; o HyLab na área do hidrogénio e o BioRef que atua na área do biometano.Pretendendo criar um cluster de Investigação, Desenvolvimento e Inovação (I&D+I) de referência mundial com uma agenda estratégica focada no reforço da competitividade do hidrogénio e na criação de novos produtos e serviços, foi criado em 2021 o Laboratório Colaborativo HyLab - Green Hydrogen Collaborative Laboratory, e que irá promover a inovação, abordando os componentes relevantes da cadeia de abastecimento para permitir uma economia impulsionada pelo hidrogénio e promover a criação de emprego qualificado e de valor acrescentado. |
 | O HyLab é uma associação de direito privado, constituída por institutos de I&D nacionais e internacionais, universidades, empresas industriais, pequenas e médias empresas (PME), start-ups e indústrias transformadoras de tecnologia relacionadas com o hidrogénio. Esta abrangência da cadeia de valor e a experiência de cada parceiro, potencia a concentração de esforços e recursos no sentido de auxiliar o esforço nacional na área do hidrogénio para entrar num mercado global de enorme competitividade.Havendo um elevado potencial produtivo há a necessidade clara e urgente de criação de uma entidade dedicada à promoção do biometano, de modo a apoiar, investigar e desenvolver ativamente o cluster do biometano em Portugal, tanto ao nível de projetos brownfield, greenfield, ou projetos de consultoria e I&D. Assim, serão associadas as empresas do setor, centros de investigação e universidades num Laboratório colaborativo que contribua para a criação de conhecimento científico e tecnológico nacional que promova a especialização da economia portuguesa neste segmento de grande potencial económico e valia tecnológica. |
 | Em particular, o CoLAB BIOREF - Laboratório Colaborativo para as Biorrefinarias - é uma associação privada, sem fins lucrativos, cujo principal objetivo é a valorização e transferência de conhecimento científico, tecnologias e inovação no desenvolvimento de biorrefinarias. As práticas de investigação e inovação do BIOREF (I&I) apontam ao desenvolvimento de uma variedade de atividades tecnológicas consideradas essenciais para promover a implementação de biorrefinarias avançadas, assim como melhorar a competitividade do setor das biorrefinarias e contribuir para uma economia baixa em carbono. Estas atividades pretendem gerar novas cadeias de valor, criar emprego e impulsionar a bioeconomia através de uma abordagem de biorrefinaria integrada. [Data prevista: 2020-2025]3.8.4 - Promover a formação de técnicos especializadosO desenvolvimento de atividades associadas a energias renováveis, armazenamento, hidrogénio, biogás e biometano, gás sintético, biocombustíveis avançados e outros combustíveis 100 % renováveis, exigirá a satisfação de necessidades de formação especializada abrangendo vários níveis de formação, pelo que, em parceria com as entidades responsáveis pelo sistema educativo e pela formação profissional, deverão ser identificadas as necessidades de formação tendo por base as expectativas de desenvolvimento do setor. [Data prevista: 2020-2025]3.8.5 - Promover articulação entre centros de investigação e entre estes e a indústria no quadro de uma política integrada de desenvolvimento tecnológico - Nova medidaAssegurar um observatório das atividades de I&I em energias renováveis, armazenamento, hidrogénio, biocombustíveis avançados e outros combustíveis 100 % renováveis, e respetivos impactos socioeconómicos e no ambiente. |
 | CONTRIBUTO PARA 5 DIMENSÕESDescarbonização; Segurança Energética; I&I&C |
 | PRINCIPAIS INSTRUMENTOSPAESC-RAM; |
 | FONTES DE FINANCIAMENTOFCT; Horizonte Europa; Fundo de Inovação; Fundos Estruturais; InnovFin Energy Demo Projects; PRR |
 | ENTIDADE RESPONSÁVELMECI; GRM; GRA; GRM; EEM |
-
-![](https://files.diariodarepublica.pt/images/914597185/914597486.png)
 
 | LINHA DE ATUAÇÃO6.8 - PROMOVER PROJETOS DE I&I QUE CONSTITUAM SUPORTE A UMA GESTÃO AGRÍCOLA E FLORESTAL SUSTENTÁVEL |
 | --- |
@@ -3445,7 +4009,7 @@ i) Políticas e medidas relacionadas com os elementos estabelecidos no ponto 2.5
 
 ii) Cooperação com outros Estados-Membros neste domínio, incluindo informações sobre a forma como os objetivos e políticas do Plano SET são traduzidos num contexto nacional
 
-A ANI (MECI/ME) é responsável pelo acompanhamento do programa-quadro Horizonte Europa nomeadamente os Pilares II (Desafios Globais e Competitividade da Indústria Europeia) e III (Europa Inovadora). O programa Horizonte Europa<sup>50</sup> é o principal programa de financiamento de I&I para apoiar a estratégia europeia, tendo, no âmbito do Pilar II, dedicado um orçamento de 15,3mM€ para o Cluster 5 - Clima, Energia e Mobilidade para o período de 2021-2027. Nos três primeiros anos do programa europeu (2021-2023) foram alocados cerca de 391 M€ para as áreas do clima e 2371M€ para a área da energia no âmbito do Cluster 5.
+A ANI (MECI/ME) é responsável pelo acompanhamento do programa-quadro Horizonte Europa nomeadamente os Pilares II (Desafios Globais e Competitividade da Indústria Europeia) e III (Europa Inovadora). O programa Horizonte Europa50 é o principal programa de financiamento de I&I para apoiar a estratégia europeia, tendo, no âmbito do Pilar II, dedicado um orçamento de 15,3mM€ para o Cluster 5 - Clima, Energia e Mobilidade para o período de 2021-2027. Nos três primeiros anos do programa europeu (2021-2023) foram alocados cerca de 391 M€ para as áreas do clima e 2371M€ para a área da energia no âmbito do Cluster 5.
 
 O principal objetivo do Cluster 5 - Clima, Energia e Mobilidade é contribuir para uma transição justa para a neutralidade climática e criar resiliência na União Europeia (UE) até 2050. Esta transição implica o desenvolvimento e implementação de tecnologias e sistemas com baixas emissões nos setores da energia e da mobilidade até 2050. Tendo em conta as últimas conclusões do Painel Intergovernamental sobre as Alterações Climáticas (IPCC) e da Plataforma Intergovernamental de Política Científica sobre Biodiversidade e Serviços Ecossistémicos (IPBES), as ações apoiarão a implementação do Acordo de Paris com base científica e contribuirão para as prioridades políticas da UE nas áreas do clima, da energia e da mobilidade (por exemplo, a Lei Europeia do Clima, o Pacto Ecológico Europeu, o Fitfor55, o REPowerEU, a Estratégia da UE para a Adaptação às Alterações Climáticas, a Agenda de Competências Europeias, a Década Digital da Europa, a Digitalização do sistema energético - UE plano de ação, plano de ação para a economia circular, plano de ação para poluição zero, estratégia de mobilidade sustentável e inteligente, Lei da Indústria Net-Zero, Lei das Matérias-Primas Críticas e visão a longo prazo para as zonas rurais da UE).
 
@@ -3461,7 +4025,7 @@ A ANI e a FCT (MECI) acompanham a implementação da Agenda Política do Espaço
 
 Atualmente, a Comissão Europeia e os Estados-Membros e organizações de stakeholders estão a discutir a Agenda Política da ERA para 2025-27 onde a descarbonização continua a ser um dos pontos de enfoque.
 
-A estratégia europeia em matéria de I&I para a área da energia é igualmente apoiada pelo European Strategic Energy Technology Plan (SET-Plan)<sup>51</sup>, que é o fórum de discussão e de apoio para o desenvolvimento de tecnologias energéticas hipocarbónicas na UE e nos países associados. O SET Plan coordena as atividades nacionais de investigação e inovação, apoia a cooperação entre as partes interessadas e monitoriza os progressos rumo ao Pacto Ecológico Europeu em matéria de I&D&I na área da energia para o horizonte temporal 2020-2030.
+A estratégia europeia em matéria de I&I para a área da energia é igualmente apoiada pelo European Strategic Energy Technology Plan (SET-Plan)51, que é o fórum de discussão e de apoio para o desenvolvimento de tecnologias energéticas hipocarbónicas na UE e nos países associados. O SET Plan coordena as atividades nacionais de investigação e inovação, apoia a cooperação entre as partes interessadas e monitoriza os progressos rumo ao Pacto Ecológico Europeu em matéria de I&D&I na área da energia para o horizonte temporal 2020-2030.
 
 Como Estado-Membro e membro do SET Plan, através de esforço conjugado entre a DGEG (MAE) e ANI (MCTES/MEM), Portugal participa ativamente a diferentes níveis, designadamente:
 
@@ -3471,7 +4035,8 @@ b) Na implementação dos IWG (Implementation Working Groups), onde se desenvolv
 
 c) Em dois órgãos de governação: o Grupo de Steering e o Bureau.
 
-![](https://files.diariodarepublica.pt/images/914597185/914597487.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597487.png) |
+| --- |
 
 A participação e cooperação no âmbito do SET Plan tem-se demonstrado muito importante a nível nacional, bem como a nível da colaboração e cooperação europeia no sentido da conjugação de esforços entre equipas para objetivos comuns particularmente no desenvolvimento C&T na geração de energia renovável, na produção de vetores energéticos renováveis, e na eficiência energética nos setores de uso final em benefício do cumprimento das metas ambiciosas no horizonte 2030, bem como na formação de cadeias de valor nos diferentes subsetores da energia nas quais Portugal possui estratégia e fatores de competitividade.
 
@@ -3497,9 +4062,9 @@ i) Previsões macroeconómicas (PIB e crescimento populacional)
 
 As narrativas e as respetivas variáveis macroeconómicas e demográficas apresentadas foram atualizadas, tendo em conta os dados mais recentes disponíveis em termos de PIB e população residente, e face às alterações relevantes decorrentes dos efeitos da pandemia COVID-19 e da crise económica ocorrida.
 
-As projeções de PIB utilizadas seguem a melhor informação disponível à data designadamente valor de PIB (provisório) de 2021 de acordo com os dados do Instituto Nacional de Estatística (INE) e projeções do orçamento de estado para 2022 e 2023. As projeções do orçamento de estado incorporam os impactos da inflação, da política monetária na zona Euro e do conflito na Ucrânia, na economia portuguesa. De acordo com o relatório do Conselho de Finanças Públicas de setembro de 2022<sup>52</sup>, como pequena economia aberta, Portugal está particularmente exposto às consequências económicas da invasão da Ucrânia pela Russa, que continuam a manifestar-se no preço dos bens energéticos e alimentares, bem como pelos efeitos adversos na inflação.
+As projeções de PIB utilizadas seguem a melhor informação disponível à data designadamente valor de PIB (provisório) de 2021 de acordo com os dados do Instituto Nacional de Estatística (INE) e projeções do orçamento de estado para 2022 e 2023. As projeções do orçamento de estado incorporam os impactos da inflação, da política monetária na zona Euro e do conflito na Ucrânia, na economia portuguesa. De acordo com o relatório do Conselho de Finanças Públicas de setembro de 202252, como pequena economia aberta, Portugal está particularmente exposto às consequências económicas da invasão da Ucrânia pela Russa, que continuam a manifestar-se no preço dos bens energéticos e alimentares, bem como pelos efeitos adversos na inflação.
 
-A partir de 2025 foram considerados os valores harmonizados, recomendados pela Comissão Europeia para este efeito, nos termos do anexo I, parte 2, do Regulamento (UE) [2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt) relativo à Governação da União da Energia. Estes valores baseiam-se no PIB per capita do último Ageing Report<sup>53</sup>e no crescimento populacional do Eurostat (EUROPOP2019). Com base nestes dados assume-se que o potencial de crescimento do PIB na UE e zona Euro será em média 1.3 % por ano ao longo de todo o período de projeção, divergindo por EM, considerando as suas especificidades incluindo a população ativa que em Portugal é expectável que sofra um declínio considerando as projeções populacionais. Os valores facultados pela Comissão Europeia não consideram os efeitos atuais da guerra na Ucrânia e da inflação, todavia é o único estudo disponível com projeções de longo prazo justificando assim a decisão da sua utilização.
+A partir de 2025 foram considerados os valores harmonizados, recomendados pela Comissão Europeia para este efeito, nos termos do anexo I, parte 2, do Regulamento (UE) [2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt) relativo à Governação da União da Energia. Estes valores baseiam-se no PIB per capita do último Ageing Report53e no crescimento populacional do Eurostat (EUROPOP2019). Com base nestes dados assume-se que o potencial de crescimento do PIB na UE e zona Euro será em média 1.3 % por ano ao longo de todo o período de projeção, divergindo por EM, considerando as suas especificidades incluindo a população ativa que em Portugal é expectável que sofra um declínio considerando as projeções populacionais. Os valores facultados pela Comissão Europeia não consideram os efeitos atuais da guerra na Ucrânia e da inflação, todavia é o único estudo disponível com projeções de longo prazo justificando assim a decisão da sua utilização.
 
 No que se refere ao crescimento populacional, foram igualmente utilizados os valores recomendados pela Comissão Europeia sobre projeções de população. Os dados provêm das projeções demográficas do Eurostat EUROPOP2019 e incluem valores atualizados para os dados históricos (2020-2021) a partir da publicação mais recente do conjunto de dados demográficos do Eurostat.
 
@@ -3530,7 +4095,7 @@ Contrariamente ao cenário WEM, foi considerada no cenário WAM (cenário com me
 
 iii) Tendências mundiais em matéria de energia, preços internacionais de combustíveis fósseis, preço do carbono no Regime do Comércio Europeu de Licenças de Emissão (CELE)
 
-No que se refere ao valor das licenças de emissão de CO<sub>2</sub>, foram assumidas duas abordagens: i) até 2025 consideraram-se os valores recomendados pela Comissão Europeia para este efeito; ii) após esta data não foi imposto um preço de carbono à partida, resultando o mesmo de um «preço sombra» gerado pela modelação ao ser imposta uma restrição compatível como uma redução das emissões de GEE de -55 % em 2030 face a 2005, com vista ao cumprimento dos objetivos nacionais de mitigação e em linha com a neutralidade carbónica.
+No que se refere ao valor das licenças de emissão de CO2, foram assumidas duas abordagens: i) até 2025 consideraram-se os valores recomendados pela Comissão Europeia para este efeito; ii) após esta data não foi imposto um preço de carbono à partida, resultando o mesmo de um «preço sombra» gerado pela modelação ao ser imposta uma restrição compatível como uma redução das emissões de GEE de -55 % em 2030 face a 2005, com vista ao cumprimento dos objetivos nacionais de mitigação e em linha com a neutralidade carbónica.
 
 Assistiu-se nos últimos dois anos a um elevado grau de volatilidade dos preços da energia, muito motivado pela instabilidade mundial associada à guerra na Ucrânia e a recuperação económica mundial em curso após a pandemia e o seu impacte nas cadeias de abastecimento. Esta situação terá necessariamente de ser refletida nas projeções de preços de importação de combustíveis fósseis, assim como o facto de se manter o grau de incerteza em relação à evolução futura dos preços internacionais dos combustíveis nos próximos anos.
 
@@ -3538,14 +4103,14 @@ Tabela 41 - Principais pressupostos utilizados na modelação do sistema energé
 
 |  | 2025 | 2030 | 2040 |
 | --- | --- | --- | --- |
-| Licenças CO<sub>2</sub> (€/ton)ª<sup>,b</sup> | 80 | – | – |
+| Licenças CO2 (€/ton)ª,b | 80 | – | – |
 | Petróleo (€/GJ)ª | 12,4 | 13,9 | 15,8 |
 | Carvão (€/GJ)ª | 4,1 | 4,0 | 3,8 |
 | Gás natural (€/GJ)ª | 9,4 | 9,0 | 10,1 |
 
 ª Valores disponibilizados em 2024 aos estados-membros pela Comissão Europeia no âmbito da elaboração dos respetivos Planos de Energia Clima
 
-<sup>b</sup>Uma vez que Portugal incorpora taxa de CO<sub>2</sub> através do seu imposto sobre produtos petrolíferos, foi também considerada uma taxa de CO<sub>2</sub> no valor de 78€/t em 2025 nos setores não-CELE. O valor da taxa de carbono no ISP é recalculado todos os anos com base nos valores das licenças CELE dos dois anos anteriores ([Lei n.º 71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), artigo 92.º-A).
+bUma vez que Portugal incorpora taxa de CO2 através do seu imposto sobre produtos petrolíferos, foi também considerada uma taxa de CO2 no valor de 78€/t em 2025 nos setores não-CELE. O valor da taxa de carbono no ISP é recalculado todos os anos com base nos valores das licenças CELE dos dois anos anteriores ([Lei n.º 71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), artigo 92.º-A).
 
 iv) Evolução dos custos tecnológicos
 
@@ -3557,25 +4122,28 @@ No que se refere à evolução dos custos tecnológicos foi tida em consideraç�
 
 4.2.1.1 - Emissões totais de gases com efeito de estufa em Portugal
 
-Após um rápido crescimento das emissões de GEE verificado durante a década de 90 do século passado, Portugal atingiu o seu pico de emissões nacionais em 2005, altura a partir da qual se passou a registar um decréscimo significativo e sustentado, consolidando desde então uma trajetória de descarbonização da economia nacional. De facto, verificou-se em 2005 um aumento de emissões de cerca de 46 % comparado com os níveis de 1990. De acordo com a mais recente atualização do Inventário Nacional de Emissões de 2024 (relativo ao ano 2022), as emissões de GEE, sem contabilização das emissões de alteração do uso do solo e florestas (LULUCF) e sem emissões indiretas, são estimadas em cerca de 56,25 Mt CO<sub>2eq</sub>, representando um decréscimo de 4,4 % face a 1990 e aumento de 0,1 % relativamente a 2021.
+Após um rápido crescimento das emissões de GEE verificado durante a década de 90 do século passado, Portugal atingiu o seu pico de emissões nacionais em 2005, altura a partir da qual se passou a registar um decréscimo significativo e sustentado, consolidando desde então uma trajetória de descarbonização da economia nacional. De facto, verificou-se em 2005 um aumento de emissões de cerca de 46 % comparado com os níveis de 1990. De acordo com a mais recente atualização do Inventário Nacional de Emissões de 2024 (relativo ao ano 2022), as emissões de GEE, sem contabilização das emissões de alteração do uso do solo e florestas (LULUCF) e sem emissões indiretas, são estimadas em cerca de 56,25 Mt CO2eq, representando um decréscimo de 4,4 % face a 1990 e aumento de 0,1 % relativamente a 2021.
 
-Considerando o setor LULUCF, o total de emissões em 2022 é estimado em 50,33 Mt CO<sub>2eq</sub>, correspondendo a uma diminuição de 23,7 % em relação a 1990 e um aumento de 0,3 % face a 2021.
+Considerando o setor LULUCF, o total de emissões em 2022 é estimado em 50,33 Mt CO2eq, correspondendo a uma diminuição de 23,7 % em relação a 1990 e um aumento de 0,3 % face a 2021.
 
-Figura 24 - Evolução das emissões nacionais de GEE 1990-2022 (Mt CO<sub>2eq</sub>), sem emissões indiretas [Fonte: APA]
+Figura 24 - Evolução das emissões nacionais de GEE 1990-2022 (Mt CO2eq), sem emissões indiretas [Fonte: APA]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597488.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597488.png) |
+| --- |
 
-No âmbito do Acordo da Partilha de Esforços Europeu de redução das emissões para 2013 e 2020, Portugal assumiu o objetivo de limitar o crescimento das suas emissões de GEE em +1 % até 2020 (face a 2005) para os setores que não estão abrangidos pelo regime CELE<sup>54</sup>, tendo sido igualmente estabelecidos limites anuais de emissões para os setores não abrangidos pelo regime CELE nesse período. As emissões totais registadas em 2020 confirmaram tanto o cumprimento das metas nacionais no âmbito do Acordo da Partilha de Esforços Europeu, bem como o intervalo da meta estabelecida no Programa Nacional para as Alterações Climáticas (PNAC 2020 -2030) para 2020, neste caso uma redução das emissões nacionais de GEE entre -18 % e -23 %, face aos níveis de 2005.
+No âmbito do Acordo da Partilha de Esforços Europeu de redução das emissões para 2013 e 2020, Portugal assumiu o objetivo de limitar o crescimento das suas emissões de GEE em +1 % até 2020 (face a 2005) para os setores que não estão abrangidos pelo regime CELE54, tendo sido igualmente estabelecidos limites anuais de emissões para os setores não abrangidos pelo regime CELE nesse período. As emissões totais registadas em 2020 confirmaram tanto o cumprimento das metas nacionais no âmbito do Acordo da Partilha de Esforços Europeu, bem como o intervalo da meta estabelecida no Programa Nacional para as Alterações Climáticas (PNAC 2020 -2030) para 2020, neste caso uma redução das emissões nacionais de GEE entre -18 % e -23 %, face aos níveis de 2005.
 
 A figura seguinte traduz a evolução das emissões nacionais, entre 1990 e 2022 identificando, a partir de 2005, o contributo dos setores CELE e dos setores não-CELE.
 
-Figura 25 - Evolução das emissões nacionais de GEE (Mt CO<sub>2eq</sub>) por setor CELE e não-CELE, sem emissões indiretas [Fonte: APA]
+Figura 25 - Evolução das emissões nacionais de GEE (Mt CO2eq) por setor CELE e não-CELE, sem emissões indiretas [Fonte: APA]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597489.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597489.png) |
+| --- |
 
-Figura 26 - Evolução das emissões de GEE/PIB (kt CO<sub>2eq</sub>/M €) [Fonte: APA; INE]
+Figura 26 - Evolução das emissões de GEE/PIB (kt CO2eq/M €) [Fonte: APA; INE]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597490.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597490.png) |
+| --- |
 
 Uma análise das emissões de GEE por unidade de PIB permite verificar que em 2005 se iniciou um processo de dissociação entre o PIB e as emissões, resultante da descarbonização da economia, ou seja, uma economia com menos carbono emitido por cada unidade de riqueza produzida.
 
@@ -3587,27 +4155,31 @@ A utilização de carvão para produção de eletricidade que foi reduzida forte
 
 As políticas públicas sobre alterações climáticas são hoje parte integrante de um conjunto de políticas setoriais em Portugal. Com efeito, em áreas como a energia e a indústria abrangida pelo CELE, a «dimensão carbono» faz parte das considerações estratégicas e económicas das empresas. Na área agrícola e florestal verifica-se igualmente uma crescente consciencialização do importante contributo que o setor pode dar em termos de mitigação das emissões de GEE, sendo o potencial de sumidouro de algumas atividades visto como uma mais-valia económica, social e ambiental. Em áreas com desafios importantes como a dos transportes, foram dados passos visando a descarbonização das frotas de veículos tendo sido desenvolvida a rede para a mobilidade elétrica e introduzidos regimes de apoio ao veículo elétrico com o objetivo de reforçar os incentivos à penetração deste tipo de veículos.
 
-Figura 27 - Evolução das emissões setoriais 1990-2022 (Mt CO<sub>2eq</sub>), sem emissões indiretas [Fonte: APA]
+Figura 27 - Evolução das emissões setoriais 1990-2022 (Mt CO2eq), sem emissões indiretas [Fonte: APA]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597491.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597491.png) |
+| --- |
 
 O setor da energia, que inclui os transportes, representou 67 % das emissões nacionais em 2022, apresentando um aumento de 1,3 % face a 2021. Neste setor, os transportes e a produção de energia são as fontes mais importantes representando respetivamente cerca de 30 % e 15 % do total das emissões.
 
-Figura 28 - Emissões setoriais em CO<sub>2eq</sub> em 2022 [Fonte: APA]
+Figura 28 - Emissões setoriais em CO2eq em 2022 [Fonte: APA]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597492.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597492.png) |
+| --- |
 
 Após o crescimento constante das emissões até ao início dos anos 2000, ao qual se seguiu um período de estabilização, registou-se, após 2005, um decréscimo das emissões do setor dos transportes, o qual é grandemente dominado pelo tráfego rodoviário. Após 2013 verificou-se, contudo, uma inversão dessa tendência, com o aumento das emissões de GEE dos transportes, apenas interrompido em 2020 devido ao forte impacto das medidas de resposta ao COVID19. As emissões deste setor têm crescido desde então não tendo, contudo em 2022, atingido ainda os valores pré-pandemia.
 
 Figura 29 - Emissões do setor dos transportes 1990-2022 [Fonte: APA]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597493.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597493.png) |
+| --- |
 
 O transporte ligeiro de passageiros representa o maior peso em termos de emissões no setor do transporte rodoviário, distribuição que se mantém praticamente constante nas últimas décadas.
 
 Figura 30 - Emissões do transporte rodoviário por tipo de veículo em 2022 [Fonte: APA]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597494.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597494.png) |
+| --- |
 
 A combustão na indústria, responsável por cerca de 12 % das emissões nacionais, registou um decréscimo de 10 % em 2022, face a 2021. As emissões fugitivas, que representam 2 % do total de emissões em 2022, apresentam um aumento de 22 % face a 2021.
 
@@ -3617,7 +4189,7 @@ No caso dos processos industriais, as emissões cresceram até 2007 em resultado
 
 Neste setor, importa destacar que em 2022 foi efetuada uma importante revisão metodológica no que respeita à estimativa de emissões resultantes da utilização de gases fluorados em sistemas fixos de ar condicionado.
 
-A redução das emissões do setor dos Resíduos a partir de 2005 está principalmente ligada à entrada em funcionamento de um conjunto de infraestruturas de tratamento biológico de resíduos urbanos que teve como efeito dois movimentos de sentido contrário, mas de consequências muito diferentes em termos de evolução das emissões de GEE. Por um lado, a redução muito substancial das emissões de metano em aterros sanitários (na ordem dos 25 % entre 2005 e 2020, ou seja, uma redução absoluta de mais de 1,3 Mt CO<sub>2</sub>e), como resultado do desvio de quantidades relevantes de biorresíduos dos aterros sanitários. Por outro lado, o aumento exponencial das emissões de GEE relativas às atividades de tratamento biológico de resíduos urbanos (acima de 350 % para o mesmo período, correspondendo, no entanto, a valores inferiores a 0,1 Mt CO<sub>2</sub>e em termos de aumento absoluto), bem como da incineração sem valorização energética (crescimento aproximadamente 40 %, embora representando apenas cerca de 0,02 Mt CO<sub>2</sub>e).
+A redução das emissões do setor dos Resíduos a partir de 2005 está principalmente ligada à entrada em funcionamento de um conjunto de infraestruturas de tratamento biológico de resíduos urbanos que teve como efeito dois movimentos de sentido contrário, mas de consequências muito diferentes em termos de evolução das emissões de GEE. Por um lado, a redução muito substancial das emissões de metano em aterros sanitários (na ordem dos 25 % entre 2005 e 2020, ou seja, uma redução absoluta de mais de 1,3 Mt CO2e), como resultado do desvio de quantidades relevantes de biorresíduos dos aterros sanitários. Por outro lado, o aumento exponencial das emissões de GEE relativas às atividades de tratamento biológico de resíduos urbanos (acima de 350 % para o mesmo período, correspondendo, no entanto, a valores inferiores a 0,1 Mt CO2e em termos de aumento absoluto), bem como da incineração sem valorização energética (crescimento aproximadamente 40 %, embora representando apenas cerca de 0,02 Mt CO2e).
 
 Já no que respeita ao setor do tratamento de águas residuais a variação no período 2005-2020 terá sido praticamente insignificante, ilustrando dois movimentos de sentido contrário em termos de emissões de GEE: o aumento muito significativo da fração da população coberta por sistemas públicos de saneamento, como resultado do forte investimento em infraestruturas de recolha de águas residuais e em sistemas centralizados de tratamento, e a transição sistemática das instalações de tratamento centralizado para unidades de tratamento secundário e terciário, a partir de um cenário em que ainda eram relevantes as quantidades de águas residuais não tratadas ou com tratamento apenas primário.
 
@@ -3633,7 +4205,7 @@ De 2021 para 2022 houve uma diminuição de 4,2 % das emissões, principalmente 
 
 A alteração na metodologia de estimativa e a consideração de alguns fatores de emissão alteraram o nível de emissões associado a este subsetor em relação às submissões de inventários nacionais anteriores.
 
-As estimativas do setor uso do solo e florestas (LULUCF) mostram que esta categoria mudou de um emissor líquido em 1990 (7,1 Mt CO<sub>2</sub>eq.) para um sumidouro de CO<sub>2</sub> em 1991. Esta situação foi novamente revertida nos anos de 2003 e 2005 devido aos graves incêndios florestais registados nesses anos. Em 2016 e em particular no ano 2017, este setor voltou a ser um emissor líquido, com um total de 21,5 MtCO<sub>2</sub>e em 2017, representando, nesse ano, 23 % do total de emissões do país. Esta situação deveu-se aos incêndios florestais ocorridos no ano de 2017, agravados por um ano particularmente seco, associado às altas temperaturas verificadas e a ventos invulgarmente fortes, como o furacão Ofélia que varreu a costa da Península Ibérica em outubro de 2017. Desde 2018, o setor é estimado de novo com um sumidouro.
+As estimativas do setor uso do solo e florestas (LULUCF) mostram que esta categoria mudou de um emissor líquido em 1990 (7,1 Mt CO2eq.) para um sumidouro de CO2 em 1991. Esta situação foi novamente revertida nos anos de 2003 e 2005 devido aos graves incêndios florestais registados nesses anos. Em 2016 e em particular no ano 2017, este setor voltou a ser um emissor líquido, com um total de 21,5 MtCO2e em 2017, representando, nesse ano, 23 % do total de emissões do país. Esta situação deveu-se aos incêndios florestais ocorridos no ano de 2017, agravados por um ano particularmente seco, associado às altas temperaturas verificadas e a ventos invulgarmente fortes, como o furacão Ofélia que varreu a costa da Península Ibérica em outubro de 2017. Desde 2018, o setor é estimado de novo com um sumidouro.
 
 4.2.1.2 - Projeções de evolução setorial com base nas políticas e medidas nacionais e da UE, pelo menos até 2040 (incluindo para o ano de 2030)
 
@@ -3649,13 +4221,13 @@ A análise do comportamento dos diferentes setores nas condições estabelecidas
 
 As metodologias para a estimativa de emissões de GEE seguida é a constante no NIR (National Inventory Report). Para cada um dos setores de atividade foi adotada uma metodologia específica de projeção das respetivas variáveis de atividade, suportando-se, contudo, no mesmo quadro de referência socioeconómico, para garantir a coerência das projeções obtidas e inferir os fatores críticos que determinam as diferenças entre cenários. Salienta-se ainda que, no setor energético, para efeitos das projeções apresentadas no cenário políticas existentes, foram tidos em conta os instrumentos de políticas e medidas aprovados e publicados até 30 de junho de 2022. No caso do setor dos Resíduos e Águas Residuais, Agricultura e Florestas, foram consideradas como Medidas Existentes aquelas em vigor até ao final de 2023.
 
-De seguida apresenta-se uma súmula dos resultados preliminares obtidos em termos de emissões de GEE setoriais no horizonte 2030 e 2040, no cenário de políticas existentes, sem considerar as emissões indiretas de CO<sub>2</sub>.
+De seguida apresenta-se uma súmula dos resultados preliminares obtidos em termos de emissões de GEE setoriais no horizonte 2030 e 2040, no cenário de políticas existentes, sem considerar as emissões indiretas de CO2.
 
-Tabela 42 - Projeção de emissões de GEE por setor (sem emissões indiretas de CO<sub>2</sub>) Cenário políticas existentes (kt CO<sub>2eq</sub>)
+Tabela 42 - Projeção de emissões de GEE por setor (sem emissões indiretas de CO2) Cenário políticas existentes (kt CO2eq)
 
-|  | 2005 | 2030 | 2040 |
+|  | 2005 | Cenário políticas existentes |  |
 | --- | --- | --- | --- |
-|  | 2005 | Cenário políticas existentes | Cenário políticas existentes |
+| 2030 | 2040 |  |  |
 | 1. Energia | 62 555 | 25 973 | 14 328 |
 | Indústrias da energia, incluindo produção de eletricidade e calor e refinação (1A1) | 25 503 | 2 306 | 1 462 |
 | Indústrias da manufatura e construção (1A2) | 10 579 | 4 985 | 991 |
@@ -3670,7 +4242,7 @@ Tabela 42 - Projeção de emissões de GEE por setor (sem emissões indiretas de
 | Total | 85 860 | 42 703 | 28 377 |
 | Total CELE | 36 426 | 9 548 | 4 905 |
 | Total Não-CELE | 49 434 | 33 155 | 23 471 |
-| Captura CO<sub>2</sub> (CCU) | 0 | 0 | -238 |
+| Captura CO2 (CCU) | 0 | 0 | -238 |
 
 O Governo português comprometeu-se em 2016 a assegurar a neutralidade das suas emissões até ao final de 2050, tendo até então adotado as metas de redução intermédias de pelo menos 55 % em 2030 e entre 65 e 75 % em 2040 face a 2005, as quais se traduzem em reduções ainda mais acentuadas para o sistema energético. Neste sentido, o cenário de políticas existentes (WEM - With Existing Measures) já incorpora uma série de medidas que visa atingir estes objetivos.
 
@@ -3702,13 +4274,15 @@ A figura seguinte ilustra a evolução da quota de fontes de energia renováveis
 
 Figura 31 - Evolução da incorporação de fontes renováveis no consumo final bruto de energia em Portugal [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597495.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597495.png) |
+| --- |
 
 A nível setorial, em 2022 a incorporação de renováveis no setor da Eletricidade (FER-E) foi de 61 %, verificando-se um acréscimo de 2,6 p.p. face a 2021, no setor do Aquecimento e Arrefecimento (FER-A&A) foi de 45,5 %, verificando-se um aumento de 2,8 p.p. face a 2021, e no setor dos Transportes (FER-T) foi de 8,7 %, verificando-se um aumento de 0,1 p.p. face a 2021. A figura seguinte ilustra a evolução da quota de fontes de energia renováveis no consumo final bruto de energia por setor entre 2005 e 2022.
 
 Figura 32 - Evolução da quota de energias de fontes renováveis no consumo final bruto de energia em Portugal por setor [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597496.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597496.png) |
+| --- |
 
 ii) Projeções de evolução com base nas políticas e medidas vigentes, pelo menos até 2040 (incluindo para o ano de 2030)
 
@@ -3748,7 +4322,7 @@ Tabela 45 - Projeções de evolução com base nas políticas e medidas existent
 | Calor por solar térmico | 150 | 164 | 215 | 223 |
 | Calor por cogeração | 541 | 531 | 786 | 984 |
 | Gases renováveis | 7 | 121 | 238 | 430 |
-| Total<sup>56</sup> | 2 501 | 2 787 | 3 561 | 4 066 |
+| Total56 | 2 501 | 2 787 | 3 561 | 4 066 |
 
 Ao nível do setor dos Transportes apresenta-se a desagregação na tabela seguinte.
 
@@ -3760,7 +4334,7 @@ Tabela 46 - Projeções de evolução com base nas políticas e medidas existent
 | Biocombustíveis avançados** | 357 | 392 | 516 | 835 |
 | Hidrogénio renovável | 0 | 3 | 29 | 72 |
 | Eletricidade | 105 | 182 | 357 | 647 |
-| Total<sup>56</sup> | 515 | 634 | 902 | 1 554 |
+| Total56 | 515 | 634 | 902 | 1 554 |
 
 * Considerando Non-compliant biofuels e compliant biofuels - From food and feed crops.
 
@@ -3782,21 +4356,24 @@ A figura seguinte ilustra a evolução do consumo total de Energia Primária por
 
 Figura 33 - Evolução do Consumo total de Energia Primária (ktep) por tipo de fonte em Portugal 1990-2022 [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597497.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597497.png) |
+| --- |
 
-No que diz respeito ao Consumo de Energia Final (CEF), Portugal registou em 2022 um consumo de 16 521 ktep, verificando-se um aumento de 2,3 % face a 2021, devido, essencialmente ao aumento do consumo de combustíveis rodoviários e no transporte aéreo, face à recuperação relativamente ao ocorrido nos anos anteriores devido à pandemia COVID-19, aproximando-se do valor de 2019. No ano de 2020 verificou-se uma redução do CEF de 7,2 % relativamente a 2019. No período, 2010-2022, o CEF registou uma tcma de -0,6 %. De entre os fatores que contribuíram para a redução do CEF nos últimos anos merece especial destaque a promoção da eficiência energética com particular enfoque nos setores da Indústria e Residencial por via da adoção de soluções mais eficientes, assim como o abrandamento da economia que afetou de forma generalizada os consumos nos diversos setores da economia.<sup>57</sup>
+No que diz respeito ao Consumo de Energia Final (CEF), Portugal registou em 2022 um consumo de 16 521 ktep, verificando-se um aumento de 2,3 % face a 2021, devido, essencialmente ao aumento do consumo de combustíveis rodoviários e no transporte aéreo, face à recuperação relativamente ao ocorrido nos anos anteriores devido à pandemia COVID-19, aproximando-se do valor de 2019. No ano de 2020 verificou-se uma redução do CEF de 7,2 % relativamente a 2019. No período, 2010-2022, o CEF registou uma tcma de -0,6 %. De entre os fatores que contribuíram para a redução do CEF nos últimos anos merece especial destaque a promoção da eficiência energética com particular enfoque nos setores da Indústria e Residencial por via da adoção de soluções mais eficientes, assim como o abrandamento da economia que afetou de forma generalizada os consumos nos diversos setores da economia.57
 
 Quanto ao consumo final de energia por tipo de fonte, e como já referido anteriormente, o Petróleo assume o principal papel no mix de consumo de energia em Portugal, verificando-se em 2022 um contributo de 45,0 % do consumo final, seguido da Eletricidade com 25,3 %, Gás Natural com 9,9 %, o Calor com 6,6 %, as Renováveis com 12,6 % onde se inclui o consumo de Lenhas e Resíduos Vegetais, Solar Térmico, Biogás, Bombas de Calor e outras renováveis, e outras fontes de energia que representaram menos de 1 %. Nos últimos anos tem-se verificado uma redução progressiva do peso do petróleo no consumo final de energia (apesar de um ligeiro aumento em cerca de 3,8 %, de 2021 para 2022), enquanto o gás natural e a eletricidade registaram um aumento no mix de consumo de energia final. A figura seguinte ilustra a evolução do consumo de energia final por tipo de fonte entre 1990 e 2022.
 
 Figura 34 - Evolução do Consumo total de Energia Final por tipo de fonte em Portugal (ktep) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597498.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597498.png) |
+| --- |
 
-Em termos setoriais, verifica-se que, em 2022, é o setor dos Transportes aquele que mais energia consome em Portugal representando 35 % do consumo de energia final, seguido do setor da Indústria (29 %), do setor Doméstico (18 %), do setor dos Serviços (14 %) e finalmente do setor da Agricultura e Pescas (3 %). A estrutura do consumo por setor de atividade manteve-se praticamente inalterada na última década, verificando-se apenas ligeiras oscilações de ano para ano, como mostra a figura seguinte<sup>58</sup>.
+Em termos setoriais, verifica-se que, em 2022, é o setor dos Transportes aquele que mais energia consome em Portugal representando 35 % do consumo de energia final, seguido do setor da Indústria (29 %), do setor Doméstico (18 %), do setor dos Serviços (14 %) e finalmente do setor da Agricultura e Pescas (3 %). A estrutura do consumo por setor de atividade manteve-se praticamente inalterada na última década, verificando-se apenas ligeiras oscilações de ano para ano, como mostra a figura seguinte58.
 
 Figura 35 - Evolução do Consumo total de Energia Final por setor de atividade em Portugal (ktep) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597499.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597499.png) |
+| --- |
 
 A Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), relativa à Eficiência Energética, estabelece que os Estados-Membros devem fixar uma contribuição indicativa nacional em matéria de eficiência energética com base no consumo de energia final a fim de cumprir, coletivamente, a meta vinculativa da União de consumo de energia final de redução do consumo de Energia Final de 11,7 % face ao cenário de referência de 2020, devendo envidar esforços no sentido de contribuir coletivamente para a meta indicativa da União de consumo de energia primária a que se refere o Artigo 4.º da EED. Na submissão das atualizações dos respetivos PNEC, os Estados-Membros devem também expressar as suas contribuições em termos de nível absoluto de consumo de energia primária em 2030.
 
@@ -3804,43 +4381,49 @@ Da mesma forma que Portugal demonstra um elevado grau de ambição e determinaç
 
 Tabela 47 - Contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 2030 (em consumo de energia primária sem usos não energéticos)
 
-|  | Valor de referência 2020 (cenário de referência da UE de 2020 atualizado) | Meta 2030 (considerando o cenário de referência da UE de 2020 atualizado)<sup>59</sup> |
+|  | Valor de referência 2020 (cenário de referência da UE de 2020 atualizado) | Meta 2030 (considerando o cenário de referência da UE de 2020 atualizado)59 |
 | --- | --- | --- |
-| Meta de consumo de energia primária (ktep) <sup>60</sup> | 19 444 ktep | 16 711 ktep |
+| Meta de consumo de energia primária (ktep) 60 | 19 444 ktep | 16 711 ktep |
 
 Figura 36 - Trajetória indicativa para o contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 2030 (em consumo de energia primária sem usos não energéticos) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597500.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597500.png) |
+| --- |
 
 Tabela 48 - Contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 2030 (em consumo de energia final sem usos energéticos)
 
-|  | Valor referência 2020 (cenário de referência da UE de 2020 atualizado) | Meta 2030 (considerando o cenário de referência da UE de 2020 atualizado)<sup>61</sup> |
+|  | Valor referência 2020 (cenário de referência da UE de 2020 atualizado) | Meta 2030 (considerando o cenário de referência da UE de 2020 atualizado)61 |
 | --- | --- | --- |
-| Meta de consumo de energia final (ktep)<sup>62</sup> | 16 262 ktep | 14 371 ktep |
+| Meta de consumo de energia final (ktep)62 | 16 262 ktep | 14 371 ktep |
 
 Figura 37 - Trajetória indicativa para o contributo indicativo nacional em matéria de eficiência energética para o cumprimento da meta de eficiência energética da União em 2030 (em consumo de energia final sem usos não energéticos) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597501.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597501.png) |
+| --- |
 
 A Intensidade Energética da economia em energia primária em 2022 registou um valor de 101 tep/M€’2016, verificando-se uma redução de 3,8 % face a 2021 e uma redução de 30,8 % face a 2005, ano que a intensidade energética atingiu o valor mais elevado dos últimos anos (146 tep/M€’2016). A partir de 2006 é patente um desacoplamento entre o consumo de energia primária e o Produto Interno Bruto (PIB).
 
 Figura 38 - Evolução da Intensidade energética da economia em energia primária em Portugal (tep/M€’2016) [Fonte: DGEG, INE]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597502.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597502.png) |
+| --- |
 
 Figura 39 - Evolução do Consumo de Energia Primária e do PIB em Portugal (2000 = 100) [Fonte: DGEG, INE]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597503.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597503.png) |
+| --- |
 
 Relativamente à Intensidade Energética da economia em energia final, em 2022 registou um valor de 78 tep/M€’2016, verificando-se uma redução de 3,8 % face a 2021 e uma redução de 26,4 % face a 2003-2005, anos em que a intensidade energética atingiu o valor mais elevados dos últimos anos (106 tep/M€’2016). De igual forma, verifica-se a partir de 2006 um desacoplamento entre o consumo de energia final e o PIB.
 
 Figura 40 - Evolução da Intensidade Energética da economia em energia final em Portugal (tep/M€’2016) [Fonte: DGEG, INE]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597504.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597504.png) |
+| --- |
 
 Figura 41 - Evolução do Consumo de Energia Final e do PIB em Portugal (2000 = 100) [Fonte: DGEG, INE]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597505.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597505.png) |
+| --- |
 
 ii) Potencial atual para a aplicação de cogeração de elevada eficiência e de redes urbanas de aquecimento e arrefecimento eficientes
 
@@ -3898,9 +4481,9 @@ Contudo, a concretização de todo este potencial é irrealista uma vez que não
 
 Tabela 49 - Cálculo do potencial de calor e frio a fornecer por cogerações [Fonte: DGEG, Estudo do potencial de cogeração de elevada eficiência em Portugal, 2016]
 
-| Setor | tep | tep | (%) | tep | tep |
+| Setor | Total geral | Total energia térmica substituível | Potencial de substituição | Consumo de frio (estimativa) |  |
 | --- | --- | --- | --- | --- | --- |
-| Setor | Total geral | Total energia térmica substituível | Potencial de substituição | Potencial de substituição | Consumo de frio (estimativa) |
+| tep | tep | (%) | tep | tep |  |
 | Consumo final | 15 166 780 | 3 930 121 | 66,21 % | 2 602 023 | 520 053 |
 | Agricultura e pecas | 427 875 | 15 124 |  |  |  |
 | Agricultura | 338 172 | 11 485 | 100,00 % | 11 485 |  |
@@ -3942,7 +4525,8 @@ A figura seguinte apresenta o gráfico de evolução do potencial económico par
 
 Figura 42 - Cenários de evolução do potencial económico de cogeração até 2026 (MWe) [Fonte: Estudo do potencial de cogeração de elevada eficiência em Portugal, 2016]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597506.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597506.png) |
+| --- |
 
 Tendo em atenção que as unidades de cogeração em funcionamento em 2014 totalizaram 1 759 MW de potência elétrica instalada, tendo por base o quadro das políticas e medidas existentes, a evolução da cogeração deveria situar-se mais próxima do cenário pessimista do gráfico anterior.
 
@@ -3954,15 +4538,18 @@ Em termos de vetores energéticos, e por via do descomissionamento das centrais 
 
 Figura 43 - Estimativa de evolução do consumo de energia primária no horizonte 2040 (ktep) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597507.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597507.png) |
+| --- |
 
 Figura 44 - Estimativa de evolução do consumo de energia primária por tipo de fonte no horizonte 2040 (ktep) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597508.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597508.png) |
+| --- |
 
 Figura 45 - Estimativa de evolução do consumo de energia primária por tipo de fonte no horizonte 2040 [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597509.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597509.png) |
+| --- |
 
 iv) Níveis ótimos de rentabilidade de requisitos mínimos de desempenho energético a partir de cálculos nacionais, de acordo com o artigo 5.º da Diretiva [2010/31/UE](https://data.europa.eu/eli/dir/2010/31/oj?locale=pt)
 
@@ -4026,7 +4613,8 @@ No quadro legislativo aplicável ao setor do petróleo em Portugal, compete à D
 
 Figura 46 - Evolução do Saldo Importador de energia em Portugal (ktep) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597510.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597510.png) |
+| --- |
 
 A produção doméstica de energia tem vindo a aumentar nos últimos anos, registando-se uma tcma de 2,0 % no período 2013-2022, confirmando o crescimento que se verificou na década anterior (tcma de 1,6 % no período 2003-2012). O aumento da produção doméstica de energia tem tido um impacto positivo na redução da dependência energética externa por redução das importações de carvão e gás natural para a produção de eletricidade.
 
@@ -4034,7 +4622,8 @@ Em 2022 a produção doméstica de energia foi de 6 778 ktep, verificando-se uma
 
 Figura 47 - Evolução da Produção Doméstica de energia em Portugal (ktep) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597511.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597511.png) |
+| --- |
 
 i.2 Dependência energética
 
@@ -4044,7 +4633,8 @@ Em 2020 a dependência energética em Portugal atingiu 65,8 %, o valor historica
 
 Figura 48 - Evolução da Dependência Energética externa de Portugal [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597512.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597512.png) |
+| --- |
 
 i.3 Riscos relevantes para o aprovisionamento de energia em Portugal
 
@@ -4106,29 +4696,33 @@ A produção de eletricidade em Portugal tem, historicamente, uma elevada contri
 
 Figura 49 - Relação entre a Dependência Energética do exterior e a Produção de Eletricidade de origem Hídrica [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597513.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597513.png) |
+| --- |
 
 i.4 Sistema Eletroprodutor nacional
 
 Em 2022, o sistema eletroprodutor nacional registou uma produção bruta de eletricidade de 48,8 TWh, verificando-se um decréscimo de aproximadamente 4,3 % face a 2021. Da produção total de eletricidade, em 2022 cerca de 61,3 % teve origem em fontes renováveis de energia (-3,6 p.p. face a 2021), com maior incidência na hídrica e na eólica que no seu conjunto representaram cerca de 45,2 % de toda a produção nacional de eletricidade, seguido da térmica não renovável, com aproximadamente 38,7 % da produção nacional. Seguindo a tendência verificada a partir de 2019, em 2022 Portugal registou um saldo importador positivo, de aproximadamente 9,3 TWh.
 
-Na componente renovável da produção de eletricidade, em 2022 a eólica contribuiu com cerca de 44,3 % da produção total renovável, seguido da hídrica com 29,6 %, a biomassa<sup>63</sup>com 13,8 %, o solar fotovoltaico com 11,8 % e a geotermia, cuja produção se verifica apenas na Região Autónoma dos Açores, com 0,7 %.
+Na componente renovável da produção de eletricidade, em 2022 a eólica contribuiu com cerca de 44,3 % da produção total renovável, seguido da hídrica com 29,6 %, a biomassa63com 13,8 %, o solar fotovoltaico com 11,8 % e a geotermia, cuja produção se verifica apenas na Região Autónoma dos Açores, com 0,7 %.
 
 Figura 50 - Evolução da Produção Bruta de Eletricidade e do Saldo Importador em Portugal (GWh) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597514.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597514.png) |
+| --- |
 
 Figura 51 - Evolução da Produção Bruta de Eletricidade em Portugal (GWh) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597515.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597515.png) |
+| --- |
 
-No que diz respeito à capacidade instalada para a produção de eletricidade, Portugal registou em 2022 um total de cerca de 23 GW, dos quais aproximadamente 17 GW, que correspondem a cerca de 75 %, dizem respeito a tecnologias de base renovável. Verificou-se um aumento de aproximadamente 5,9 % face a 2021, equivalente a cerca de 1,3 GW, principalmente em resultado da entrada em exploração de nova capacidade solar fotovoltaica e hídrica. Do total da capacidade instalada, cerca de 35 % (8142 MW) corresponde às centrais hidroelétricas, que incluem uma componente relevante de bombagem reversível, que permite absorver o excesso de produção de eletricidade em períodos de menor consumo e armazenar energia renovável e que representa cerca de 45 % da capacidade total hídrica. A eólica representa cerca de 25 % da capacidade instalada (5730 MW), o gás natural cerca de 21 % (4918 MW), o solar fotovoltaico aproximadamente 11 % (2659 MW), a biomassa<sup>64</sup> cerca de 3 % (861 MW), outras não renováveis<sup>65</sup> aproximadamente 4 % (905 MW) e outras renováveis<sup>66</sup> cerca de 0,1 % (34 MW).
+No que diz respeito à capacidade instalada para a produção de eletricidade, Portugal registou em 2022 um total de cerca de 23 GW, dos quais aproximadamente 17 GW, que correspondem a cerca de 75 %, dizem respeito a tecnologias de base renovável. Verificou-se um aumento de aproximadamente 5,9 % face a 2021, equivalente a cerca de 1,3 GW, principalmente em resultado da entrada em exploração de nova capacidade solar fotovoltaica e hídrica. Do total da capacidade instalada, cerca de 35 % (8142 MW) corresponde às centrais hidroelétricas, que incluem uma componente relevante de bombagem reversível, que permite absorver o excesso de produção de eletricidade em períodos de menor consumo e armazenar energia renovável e que representa cerca de 45 % da capacidade total hídrica. A eólica representa cerca de 25 % da capacidade instalada (5730 MW), o gás natural cerca de 21 % (4918 MW), o solar fotovoltaico aproximadamente 11 % (2659 MW), a biomassa64 cerca de 3 % (861 MW), outras não renováveis65 aproximadamente 4 % (905 MW) e outras renováveis66 cerca de 0,1 % (34 MW).
 
 Na década 2013-2022 a capacidade total instalada em Portugal para a produção de eletricidade registou um aumento de cerca de 3624 MW, resultado de um aumento de cerca de 6,1 GW de capacidade renovável e de um decréscimo de aproximadamente 2,5 GW da capacidade não renovável.
 
 Figura 52 - Evolução da capacidade instalada para a produção de eletricidade em Portugal por tipo de fonte (MW) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597516.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597516.png) |
+| --- |
 
 ii) Projeções de evolução com base nas políticas e medidas vigentes, pelo menos até 2040 (incluindo para o ano de 2030)
 
@@ -4141,13 +4735,13 @@ Tabela 50 - Perspetivas de evolução da capacidade instalada para a produção 
 | Hídrica | 8,1 | 8,1 | 8,1 | 8,1 |
 | da qual em bombagem | 3,6 | 3,6 | 3,6 | 3,6 |
 | Eólica | 5,8 | 9,4 | 12,3 | 14,1 |
-| Eólica onshore (inclui para prod. H<sub>2</sub>) | 5,8 | 9,1 | 10,4 | 12,2 |
-| Para prod H<sub>2</sub> | 0,05 | 0,39 | 0,39 | 0,39 |
-| Eólica offshore (inclui para prod. H<sub>2</sub>) | 0,0 | 0,3 | 1,9 | 1,9 |
-| Para prod H<sub>2</sub> | 0,00 | 0,22 | 1,84 | 1,84 |
+| Eólica onshore (inclui para prod. H2) | 5,8 | 9,1 | 10,4 | 12,2 |
+| Para prod H2 | 0,05 | 0,39 | 0,39 | 0,39 |
+| Eólica offshore (inclui para prod. H2) | 0,0 | 0,3 | 1,9 | 1,9 |
+| Para prod H2 | 0,00 | 0,22 | 1,84 | 1,84 |
 | Solar fotovoltaico | 8,1 | 12,9 | 19.2 | 27,1 |
-| Centralizado (inclui para prod. H<sub>2</sub>) | 5,3 | 9.4 | 13,8 | 18,8 |
-| Para prod H<sub>2</sub> | 0,0 | 0,69 | 1,79 | 6,07 |
+| Centralizado (inclui para prod. H2) | 5,3 | 9.4 | 13,8 | 18,8 |
+| Para prod H2 | 0,0 | 0,69 | 1,79 | 6,07 |
 | Descentralizado | 2,8 | 3,5 | 5,4 | 8,3 |
 | Solar térmico concentrado | 0,0 | 0,0 | 0,0 | 0,0 |
 | Biomassa/biogás e resíduos | 1,2 | 1,2 | 1,3 | 1,6 |
@@ -4170,17 +4764,20 @@ No que diz respeito às interligações elétricas entre Portugal e Espanha, exi
 
 Figura 53 - Evolução do valor médio anual da capacidade Comercial de Interligação Portugal-Espanha (MW) [Fonte: REN]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597517.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597517.png) |
+| --- |
 
 Figura 54 - Interligações elétricas na Península Ibérica em 2022 [Fonte: REN, REE]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597518.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597518.png) |
+| --- |
 
 Para dar cumprimento ao objetivo comum estabelecido pela Comissão Europeia, de 10 % de interligações elétricas em 2020 e 15 % em 2030, Portugal tem registado uma evolução positiva. No entanto, o mesmo não sucede em relação ao nível de interligação entre a Península Ibérica e França que em 2022 ficou muito aquém do objetivo de 10 %, como mostra o gráfico seguinte. A ambição de Portugal e Espanha em assegurar uma efetiva e robusta ligação ao mercado europeu de energia está comprometida devido ao estrangulamento que se continua a verificar na interligação entre Espanha e França através dos Pirenéus, que conduz a uma operação da Península em modo «ilha elétrica», com as dificuldades técnicas e os desafios inerentes a uma grande penetração de geração renovável e, por consequência, aos objetivos últimos do PNEC, que tal situação confere.
 
-Figura 55 - Rácio entre a capacidade de interligação e a capacidade instalada no sistema eletroprodutor entre Portugal - Espanha e a Península Ibéria - França [Fonte: REN, REE, análise DGEG]<sup>67</sup>
+Figura 55 - Rácio entre a capacidade de interligação e a capacidade instalada no sistema eletroprodutor entre Portugal - Espanha e a Península Ibéria - França [Fonte: REN, REE, análise DGEG]67
 
-![](https://files.diariodarepublica.pt/images/914597185/914597519.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597519.png) |
+| --- |
 
 De acordo com o n.º 8 do artigo 16.º do Regulamento (UE) [2019/943](https://data.europa.eu/eli/reg/2019/943/oj?locale=pt) do Parlamento Europeu e do Conselho, de 5 de junho de 2019, relativo ao mercado interno da eletricidade, os operadores das redes de transporte de eletricidade não devem limitar o volume de capacidade de interligação a disponibilizar a participantes no mercado para resolverem congestionamentos nas suas próprias zonas de oferta, ou como meio de gerir os fluxos resultantes de transações internas para zonas de ofertas, sendo estabelecidos níveis mínimos de capacidade disponível para o comércio interzonal. Ao abrigo do n.º 9 do mesmo artigo, o Operador da Rede de Transporte de eletricidade nacional solicitou à ERSE uma derrogação ao disposto no n.º 8, por tal ser necessário para manter a segurança operacional, tendo a derrogação sido aprovada por essa entidade reguladora.
 
@@ -4196,7 +4793,7 @@ Tabela 51 - Previsão dos valores mínimos indicativos da capacidade comercial d
 | 2025 | 3 500 MW | 4 200 MW |
 | 2030 | 3 500 MW | 4 200 MW |
 | 2035 | 3 500 MW | 4 200 MW |
-| 2040 | 4 000<sup>*</sup> MW | 4 700<sup>*</sup> MW |
+| 2040 | 4 000* MW | 4 700* MW |
 
 * As capacidades indicadas para 2040 correspondem a valores identificados como Target Capacities para a fronteira Portugal-Espanha nos estudos TYNDP 2022 - Ten Year Network Develpoment Plan. No entanto, não estão ainda identificados os reforços de rede necessários em Portugal e Espanha para atingir esses valores de capacidade.
 
@@ -4225,13 +4822,14 @@ A figura seguinte ilustra o mapa da RNT.
 
 Figura 56 - Mapa da Rede Nacional de Transporte de Eletricidade em 2022 [Fonte: https://datahub.ren.pt/pt/redes/]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597520.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597520.png) |
+| --- |
 
 i.2 Gás natural
 
 A Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminais de Gás Natural Liquefeito (RNTIAT) é constituída pelo conjunto das infraestruturas destinadas à receção e ao transporte de gás por gasoduto, ao armazenamento subterrâneo e à receção, ao armazenamento e à regaseificação de Gás Natural Liquefeito (GNL). A RNTIAT é composta pelas infraestruturas de serviço público que integram a Rede Nacional de Transporte de Gás (RNTG), as infraestruturas de Armazenamento Subterrâneo (AS) do Carriço, em Pombal e pelo Terminal de Gás Natural Liquefeito (TGNL) de Sines, bem como as respetivas infraestruturas de ligação à rede de transporte.
 
-A RNTG é a infraestrutura utilizada para efetuar o transporte e a entrega de gás em alta pressão em Portugal, desde os pontos de entrada até aos pontos de saída, constituída por dois eixos principais: um eixo Sul-Norte, que liga o TGNL de Sines à interligação de Valença do Minho, garantindo o abastecimento de gás à faixa litoral de Portugal, onde se situam as localidades mais densamente povoadas, possuindo ainda uma derivação para Mangualde; e um eixo Este-Oeste entre a interligação em Campo Maior e o AS do Carriço, apresentando uma derivação para a Guarda. Em 2013 concluiu-se a ligação entre as derivações dos dois eixos, ligando Mangualde à Guarda, o que permitiu reforçar a satisfação da procura na zona centro e norte do país. O total dos pontos de entrega (GRMS - Gas Regulation and Metering Station) da RNTG apresenta uma capacidade de saída de 707 GWh/dia, equivalente a 2 470 km<sup>3</sup>(n)/h. Fazem parte da RNTG os seguintes equipamentos principais: 1 375 km de gasoduto principal e ramais de alta pressão destinados ao transporte de gás; 85 Estações de regulação e medição de gás nos pontos de entrega, (GRMS); 66 Estações de junção para derivação (JCT - Junction Station); 45 Estações de válvula de seccionamento (BV - Block Valve Station), 5 Estações de interligação em T (ICJCT - T Interconnection Station); 2 Estações de transferência de custódia (CTS - Custody Transfer Station).
+A RNTG é a infraestrutura utilizada para efetuar o transporte e a entrega de gás em alta pressão em Portugal, desde os pontos de entrada até aos pontos de saída, constituída por dois eixos principais: um eixo Sul-Norte, que liga o TGNL de Sines à interligação de Valença do Minho, garantindo o abastecimento de gás à faixa litoral de Portugal, onde se situam as localidades mais densamente povoadas, possuindo ainda uma derivação para Mangualde; e um eixo Este-Oeste entre a interligação em Campo Maior e o AS do Carriço, apresentando uma derivação para a Guarda. Em 2013 concluiu-se a ligação entre as derivações dos dois eixos, ligando Mangualde à Guarda, o que permitiu reforçar a satisfação da procura na zona centro e norte do país. O total dos pontos de entrega (GRMS - Gas Regulation and Metering Station) da RNTG apresenta uma capacidade de saída de 707 GWh/dia, equivalente a 2 470 km3(n)/h. Fazem parte da RNTG os seguintes equipamentos principais: 1 375 km de gasoduto principal e ramais de alta pressão destinados ao transporte de gás; 85 Estações de regulação e medição de gás nos pontos de entrega, (GRMS); 66 Estações de junção para derivação (JCT - Junction Station); 45 Estações de válvula de seccionamento (BV - Block Valve Station), 5 Estações de interligação em T (ICJCT - T Interconnection Station); 2 Estações de transferência de custódia (CTS - Custody Transfer Station).
 
 A entrega de gás pode ser efetuada diretamente aos clientes ligados em alta pressão, às redes de distribuição que constituem a rede nacional de distribuição de gás, à rede interligada do sistema gasista de Espanha e ao AS do Carriço para injeção nas cavidades dessa infraestrutura.
 
@@ -4243,30 +4841,31 @@ Tabela 53 - Capacidades das interligações de gás entre Portugal e Espanha [Fo
 
 | Interligação | Capacidade diária |
 | --- | --- |
-| Campo Maior | Capacidade entrada: 134 GWh/dia, equivalente a 470 km<sup>3</sup>(n)/hCapacidade saída: 55 GWh/dia, equivalente a 193 km<sup>3</sup>(n)/h |
-| Valença do Minho | Capacidade entrada: 10 GWh/dia, equivalente a 35 km<sup>3</sup>(n)/hCapacidade saída: 25 GWh/dia, equivalente a 88 km<sup>3</sup>(n)/h |
+| Campo Maior | Capacidade entrada: 134 GWh/dia, equivalente a 470 km3(n)/hCapacidade saída: 55 GWh/dia, equivalente a 193 km3(n)/h |
+| Valença do Minho | Capacidade entrada: 10 GWh/dia, equivalente a 35 km3(n)/hCapacidade saída: 25 GWh/dia, equivalente a 88 km3(n)/h |
 
 O Terminal de Gás Natural Liquefeito (TGNL) de Sines está localizado estrategicamente na costa atlântica europeia e integra o conjunto das infraestruturas destinadas à receção e expedição de navios metaneiros, armazenamento e regaseificação de GNL para a rede de transporte, bem como o carregamento de GNL em camiões-cisterna. As principais características do TGNL de Sines incluem:
 
-• Receção e descarga de navios metaneiros: A instalação inclui um cais de acostagem para navios, braços articulados de descarga e linhas de descarga, recirculação e retorno de vapor de GNL. A capacidade de descarga é de 10 000 m<sup>3</sup>/h de GNL para navios metaneiros com volumes entre 40 000 e 216 000 m<sup>3</sup> de GNL.
+• Receção e descarga de navios metaneiros: A instalação inclui um cais de acostagem para navios, braços articulados de descarga e linhas de descarga, recirculação e retorno de vapor de GNL. A capacidade de descarga é de 10 000 m3/h de GNL para navios metaneiros com volumes entre 40 000 e 216 000 m3 de GNL.
 
-• Armazenamento de GNL: Depois de descarregado, o GNL é armazenado em tanques. A capacidade de armazenagem é de 2 569 GWh, correspondente a dois tanques de 120 000 m<sup>3</sup> de GNL e um tanque de 150 000 m<sup>3</sup> de GNL.
+• Armazenamento de GNL: Depois de descarregado, o GNL é armazenado em tanques. A capacidade de armazenagem é de 2 569 GWh, correspondente a dois tanques de 120 000 m3 de GNL e um tanque de 150 000 m3 de GNL.
 
-• Regaseificação para a RNTG: A regaseificação é um processo físico de vaporização de GNL que recorre à permuta térmica do gás com água do mar em vaporizadores atmosféricos. Para o desempenho deste processo a infraestrutura possui sete (7) vaporizadores atmosféricos com uma capacidade unitária de 64 GWh/dia (equivalente a 225 000 m<sup>3</sup>(n)/h). A capacidade de emissão nominal é de 321 GWh/dia (equivalente a 1 125 000 m<sup>3</sup>(n)/h), com uma capacidade de ponta horária de 1 350 000 m<sup>3</sup>(n)/h).
+• Regaseificação para a RNTG: A regaseificação é um processo físico de vaporização de GNL que recorre à permuta térmica do gás com água do mar em vaporizadores atmosféricos. Para o desempenho deste processo a infraestrutura possui sete (7) vaporizadores atmosféricos com uma capacidade unitária de 64 GWh/dia (equivalente a 225 000 m3(n)/h). A capacidade de emissão nominal é de 321 GWh/dia (equivalente a 1 125 000 m3(n)/h), com uma capacidade de ponta horária de 1 350 000 m3(n)/h).
 
-• Baías de enchimento de GNL: O TGNL de Sines permite o carregamento de camiões-cisterna de GNL, possibilitando o abastecimento às unidades autónomas de regaseificação (UAG) situadas em zonas de Portugal que não podem ser abastecidas pela rede de gás natural de alta pressão. Para esta atividade, o TGNL dispõe de três baías de enchimento, com uma capacidade total de 175 m<sup>3</sup>/h de GNL.
+• Baías de enchimento de GNL: O TGNL de Sines permite o carregamento de camiões-cisterna de GNL, possibilitando o abastecimento às unidades autónomas de regaseificação (UAG) situadas em zonas de Portugal que não podem ser abastecidas pela rede de gás natural de alta pressão. Para esta atividade, o TGNL dispõe de três baías de enchimento, com uma capacidade total de 175 m3/h de GNL.
 
-• Carregamento de navios metaneiros: A infraestrutura do TGNL possibilita também o Gas-in, arrefecimento e o carregamento total ou parcial de navios metaneiros, utilizando-se a mesma instalação portuária e o equipamento de descarga dos navios. A capacidade para essa atividade é de 1 500 m<sup>3</sup>/h de GNL.
+• Carregamento de navios metaneiros: A infraestrutura do TGNL possibilita também o Gas-in, arrefecimento e o carregamento total ou parcial de navios metaneiros, utilizando-se a mesma instalação portuária e o equipamento de descarga dos navios. A capacidade para essa atividade é de 1 500 m3/h de GNL.
 
-A expansão do TGNL de Sines, concluída em julho de 2012, permitiu o aumento da capacidade útil de armazenamento em 62,5 %, para 390 000 m<sup>3</sup> de GNL, o aumento da capacidade de emissão de gás para a rede em 50 %, para 1 350 000 m<sup>3</sup>/h, a adaptação do «jetty» para a receção de navios metaneiros de grande capacidade, bem como a implementação de um conjunto de reforços processuais visando a maximização da disponibilidade da infraestrutura e um elevado padrão de segurança de operação. Como resultado, o Terminal de Sines oferece agora condições favoráveis de acesso a um maior número de agentes, proporcionando uma maior flexibilidade de gestão dos volumes importados, e criando condições únicas para a receção de navios de GNL provenientes de fontes mais remotas e diversificadas, contribuindo para a competitividade do setor em Portugal e para a segurança do aprovisionamento do SNG.
+A expansão do TGNL de Sines, concluída em julho de 2012, permitiu o aumento da capacidade útil de armazenamento em 62,5 %, para 390 000 m3 de GNL, o aumento da capacidade de emissão de gás para a rede em 50 %, para 1 350 000 m3/h, a adaptação do «jetty» para a receção de navios metaneiros de grande capacidade, bem como a implementação de um conjunto de reforços processuais visando a maximização da disponibilidade da infraestrutura e um elevado padrão de segurança de operação. Como resultado, o Terminal de Sines oferece agora condições favoráveis de acesso a um maior número de agentes, proporcionando uma maior flexibilidade de gestão dos volumes importados, e criando condições únicas para a receção de navios de GNL provenientes de fontes mais remotas e diversificadas, contribuindo para a competitividade do setor em Portugal e para a segurança do aprovisionamento do SNG.
 
-No que diz respeito ao Armazenamento Subterrâneo do Carriço, o gás é armazenado em alta pressão em cavidades criadas no interior de um maciço salino, a profundidades superiores a mil metros. Atualmente encontram-se em operação 6 cavidades, com uma capacidade total de armazenamento de 3 839 GWh (322,6 Mm<sup>3</sup>), que utilizam a mesma estação de gás de superfície, que permite a movimentação bidirecional de fluxo, ou seja, a injeção de gás da rede de transporte para as cavidades e a extração de gás das cavernas para a rede de transporte. O AS do Carriço tem atualmente capacidade de injeção de 24 GWh/dia (83 km<sup>3</sup>(n)/h) e uma capacidade de extração de 129 GWh/dia (450 km<sup>3</sup>(n)/h) com volume operacional de gás nas cavidades superior a 60 % da capacidade de armazenagem do AS do Carriço e 71 GWh/dia (250 km<sup>3</sup>(n)/h), com volume operacional de gás nas cavidades inferior a 60 % da capacidade de armazenagem do AS do Carriço. Esta infraestrutura é fundamental para a constituição das reservas de segurança necessárias para garantia do abastecimento ao país em caso de crise de aprovisionamento, e fornece também condições para otimização logística e comercial dos agentes comerciais ativos no setor a nível nacional e também ibérico.
+No que diz respeito ao Armazenamento Subterrâneo do Carriço, o gás é armazenado em alta pressão em cavidades criadas no interior de um maciço salino, a profundidades superiores a mil metros. Atualmente encontram-se em operação 6 cavidades, com uma capacidade total de armazenamento de 3 839 GWh (322,6 Mm3), que utilizam a mesma estação de gás de superfície, que permite a movimentação bidirecional de fluxo, ou seja, a injeção de gás da rede de transporte para as cavidades e a extração de gás das cavernas para a rede de transporte. O AS do Carriço tem atualmente capacidade de injeção de 24 GWh/dia (83 km3(n)/h) e uma capacidade de extração de 129 GWh/dia (450 km3(n)/h) com volume operacional de gás nas cavidades superior a 60 % da capacidade de armazenagem do AS do Carriço e 71 GWh/dia (250 km3(n)/h), com volume operacional de gás nas cavidades inferior a 60 % da capacidade de armazenagem do AS do Carriço. Esta infraestrutura é fundamental para a constituição das reservas de segurança necessárias para garantia do abastecimento ao país em caso de crise de aprovisionamento, e fornece também condições para otimização logística e comercial dos agentes comerciais ativos no setor a nível nacional e também ibérico.
 
 A figura seguinte ilustra o mapa da RNTIAT.
 
 Figura 57 - Mapa da Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminais de Gás Natural Liquefeito [Fonte: REN]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597521.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597521.png) |
+| --- |
 
 ii) Projeções ligadas aos requisitos da expansão da rede, pelo menos até 2040 (incluindo para o ano de 2030)
 
@@ -4274,11 +4873,11 @@ ii.1 Eletricidade
 
 Para dar resposta aos requisitos comunitários relativos às interligações elétricas está planeado um conjunto alargado de ações e projetos de expansão da rede dos quais se destacam:
 
-• Eixo «Ribeira de Pena - Vieira do Minho - Feira», composto por duas linhas a 400kV, associado ao complexo hidroelétrico do Tâmega, que terá um papel importante no fluxo de eletricidade associado à futura interligação «Minho-Galiza». Este projeto teve o estatuto de PIC na 5.ª lista de PIC (em 2021) <sup>68</sup>. A subestação Ribeira da Pena e o troço Vieira do Minho - Ribeira de Pena foram comissionados em 2021;
+• Eixo «Ribeira de Pena - Vieira do Minho - Feira», composto por duas linhas a 400kV, associado ao complexo hidroelétrico do Tâmega, que terá um papel importante no fluxo de eletricidade associado à futura interligação «Minho-Galiza». Este projeto teve o estatuto de PIC na 5.ª lista de PIC (em 2021) 68. A subestação Ribeira da Pena e o troço Vieira do Minho - Ribeira de Pena foram comissionados em 2021;
 
-• Em 2024 prevê-se comissionamento da nova interligação entre Portugal e Espanha, através de uma linha a 400 kV entre Ponte de Lima (Minho) e Fontefría (Galiza), projeto reconhecido pela Comissão Europeia como PIC, na 1.ª lista de Projetos de Interesse Comum (PIC) e Projetos de Interesse Mútuo (PIM) da União, adotada no Regulamento Delegado (UE) [2024/1041](https://data.europa.eu/eli/reg/2024/1041/oj?locale=pt) da Comissão, de 28 de novembro de 2023, publicado no Jornal Oficial da União Europeia a 8 de abril de 2024<sup>69</sup>. O troço Ponte de Lima-Vila Nova de Famalicão foi comissionado em 2021.
+• Em 2024 prevê-se comissionamento da nova interligação entre Portugal e Espanha, através de uma linha a 400 kV entre Ponte de Lima (Minho) e Fontefría (Galiza), projeto reconhecido pela Comissão Europeia como PIC, na 1.ª lista de Projetos de Interesse Comum (PIC) e Projetos de Interesse Mútuo (PIM) da União, adotada no Regulamento Delegado (UE) [2024/1041](https://data.europa.eu/eli/reg/2024/1041/oj?locale=pt) da Comissão, de 28 de novembro de 2023, publicado no Jornal Oficial da União Europeia a 8 de abril de 202469. O troço Ponte de Lima-Vila Nova de Famalicão foi comissionado em 2021.
 
-• Até 2029 prevê-se o comissionamento de uma linha a 400 kV a estabelecer entre a atual subestação de Pedralva e a futura subestação de Sobrado, reconhecido anteriormente como PIC da Comissão Europeia<sup>70</sup>,a qual, para além de potenciar o aumento dos valores de capacidade de interligação, permitirá facilitar o escoamento de eletricidade de origem renovável;
+• Até 2029 prevê-se o comissionamento de uma linha a 400 kV a estabelecer entre a atual subestação de Pedralva e a futura subestação de Sobrado, reconhecido anteriormente como PIC da Comissão Europeia70,a qual, para além de potenciar o aumento dos valores de capacidade de interligação, permitirá facilitar o escoamento de eletricidade de origem renovável;
 
 • Para o horizonte 2030, foram já efetuados pelos operadores das redes de transporte de Portugal e Espanha (REN e REE) no âmbito do Ten-Year Network Development Plan 2016 (TYNDP) um conjunto de análises de muito longo prazo, as quais conduziram a uma estimativa de valores de capacidade de interligação de 3 500 MW no sentido Portugal-Espanha e 4 200 MW no sentido Espanha-Portugal;
 
@@ -4304,11 +4903,11 @@ Portugal, no desenvolvimento do Sistema Nacional de Gás, pretende implementar u
 
 Para o efeito prevê-se um conjunto alargado de ações e projetos dos quais se destacam (entre eles alguns já indicados no ponto 2.4.2 deste Plano):
 
-•O reforço da capacidade de armazenamento do AS do Carriço em duas cavidades com capacidade adicional de 1,2 TWh. Estas cavidades adicionais preveem-se estarem em funcionamento em 2027 e 2028 e estarão adaptadas para o armazenamento de 100 % H<sub>2</sub>;
+•O reforço da capacidade de armazenamento do AS do Carriço em duas cavidades com capacidade adicional de 1,2 TWh. Estas cavidades adicionais preveem-se estarem em funcionamento em 2027 e 2028 e estarão adaptadas para o armazenamento de 100 % H2;
 
 •A realização de investimentos no Terminal de GNL de Sines que permitirão a trasfega de GNL entre navios permitindo o reenvio de até 8 bcm/ano deste combustível (a partir de 2023) e de melhoria de condições de amarração de metaneiros, permitindo, por um lado reduzir limitações de acostagem em condições de mar mais adversas, e por outro aumentar a geometria dos navios (previsto para 2026);
 
-A realização de investimentos nas infraestruturas existentes, sejam ao nível da rede de transporte ou de distribuição de gás, que permitam a receção de gases renováveis e veiculação de gás natural e gases renováveis, especialmente biometano, bem como misturas crescentes de H<sub>2</sub>; Inserido no conjunto de Projetos de Interesse Comum (PIC), cuja última lista foi publicada em abril de 2024, relativos às infraestruturas de interligação de hidrogénio da Europa Ocidental (Grupo 9), está o Corredor Portugal - Espanha - França - Alemanha (9.1), composto pelos seguintes projetos (designados em conjunto por «H2med»):
+A realização de investimentos nas infraestruturas existentes, sejam ao nível da rede de transporte ou de distribuição de gás, que permitam a receção de gases renováveis e veiculação de gás natural e gases renováveis, especialmente biometano, bem como misturas crescentes de H2; Inserido no conjunto de Projetos de Interesse Comum (PIC), cuja última lista foi publicada em abril de 2024, relativos às infraestruturas de interligação de hidrogénio da Europa Ocidental (Grupo 9), está o Corredor Portugal - Espanha - França - Alemanha (9.1), composto pelos seguintes projetos (designados em conjunto por «H2med»):
 
 9.1.1 - Infraestrutura interna para o hidrogénio em Portugal (designado por «PT Backbone»);
 
@@ -4360,9 +4959,9 @@ No que diz respeito aos preços de eletricidade (Preços incluindo todos os impo
 
 Tabela 55 - Preços da Eletricidade por setor em Portugal (€/kWh) [Fonte: DGEG]
 
-|  |  | Preços excluindo impostos e taxas | Preços excluindo IVA e outros impostos recuperáveis | Preços incluindo todos os impostos | Preços excluindo impostos e taxas | Preços excluindo IVA e outros impostos recuperáveis | Preços incluindo todos os impostos |
+|  | Doméstico (banda DC71) | Indústria (banda IB72) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Doméstico (banda DC<sup>71</sup>) | Doméstico (banda DC<sup>71</sup>) | Doméstico (banda DC<sup>71</sup>) | Indústria (banda IB<sup>72</sup>) | Indústria (banda IB<sup>72</sup>) | Indústria (banda IB<sup>72</sup>) |
+| Preços excluindo impostos e taxas | Preços excluindo IVA e outros impostos recuperáveis | Preços incluindo todos os impostos | Preços excluindo impostos e taxas | Preços excluindo IVA e outros impostos recuperáveis | Preços incluindo todos os impostos |  |  |
 | 2021 | 1.º sem. | 0,1131 | 0,1732 | 0,2089 | 0,0955 | 0,1400 | 0,1706 |
 |  | 2.º sem. | 0,1164 | 0,1810 | 0,2170 | 0,1071 | 0,1518 | 0,1844 |
 | 2022 | 1.º sem. | 0,1688 | 0,1831 | 0,2199 | 0,1446 | 0,1415 | 0,1725 |
@@ -4370,7 +4969,7 @@ Tabela 55 - Preços da Eletricidade por setor em Portugal (€/kWh) [Fonte: DGEG
 
 i.2 Mercado de Gás Natural
 
-Em Portugal, desde o início de 2010, todos os consumidores têm o direito a escolher livremente o seu comercializador de GN. O processo de liberalização de mercado de GN permitiu já que a totalidade dos grandes consumidores (consumo anual superior a 1 milhão de m<sup>3</sup> de GN) aderisse ao mercado livre. Igualmente, a grande maioria dos consumidores industriais (consumos anuais entre 10 000 m<sup>3</sup> e 1 milhão m<sup>3</sup> de GN), optou pelas condições mais favoráveis oferecidas por comercializadores em mercado. Do mesmo modo, a evolução do segmento de clientes residenciais vem demonstrando uma adesão significativa e crescente às ofertas em mercado.
+Em Portugal, desde o início de 2010, todos os consumidores têm o direito a escolher livremente o seu comercializador de GN. O processo de liberalização de mercado de GN permitiu já que a totalidade dos grandes consumidores (consumo anual superior a 1 milhão de m3 de GN) aderisse ao mercado livre. Igualmente, a grande maioria dos consumidores industriais (consumos anuais entre 10 000 m3 e 1 milhão m3 de GN), optou pelas condições mais favoráveis oferecidas por comercializadores em mercado. Do mesmo modo, a evolução do segmento de clientes residenciais vem demonstrando uma adesão significativa e crescente às ofertas em mercado.
 
 No global do mercado retalhista com cerca de 1,5 milhões de clientes, o mercado livre conta com cerca de 1,2 milhões de consumidores no final de 2022, representando cerca de 76 % do total de clientes no mercado de GN em Portugal.
 
@@ -4386,11 +4985,11 @@ Tabela 56 - Número de clientes no mercado nacional de GN por tipo de cliente em
 
 Tem-se assistido, igualmente, a um progressivo aumento do número de comercializadores ativos nos diferentes segmentos de mercado e do número de ofertas em mercado retalhista, sendo expectável que os benefícios de mais concorrência, traduzida em termos de maior escolha, melhores preços e mais competição entre agentes, sejam também crescentemente aproveitados por consumidores industriais e residenciais.
 
-A Portaria n.º [144/2017](https://diariodarepublica.pt/dr/detalhe/portaria/144-2017-106923197), de 24 de abril, que altera a Portaria n.º [59/2013](https://diariodarepublica.pt/dr/detalhe/portaria/59-2013-257661), de 11 de fevereiro, fixou em 31 de dezembro de 2020 a data-limite relativa à obrigatoriedade de fornecimento de GN, pelos comercializadores de último recurso, a clientes finais com consumos anuais inferiores ou iguais a 10 000 m<sup>3</sup> que não exerçam o direito de mudança para um comercializador de mercado livre.
+A Portaria n.º [144/2017](https://diariodarepublica.pt/dr/detalhe/portaria/144-2017-106923197), de 24 de abril, que altera a Portaria n.º [59/2013](https://diariodarepublica.pt/dr/detalhe/portaria/59-2013-257661), de 11 de fevereiro, fixou em 31 de dezembro de 2020 a data-limite relativa à obrigatoriedade de fornecimento de GN, pelos comercializadores de último recurso, a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 que não exerçam o direito de mudança para um comercializador de mercado livre.
 
 Atualmente, os CUR passaram a aplicar as tarifas transitórias de venda a clientes finais aos consumidores de gás natural que ainda estão a ser fornecidos no mercado regulado e não escolheram um novo comercializador. Estas tarifas estão previstas ser aplicadas até 31 de dezembro de 2025, data em que termina o período transitório (Portaria n.º [83/2020](https://diariodarepublica.pt/dr/detalhe/portaria/83-2020-130954976), de 1 de abril).
 
-Para combater o aumento dos preços, o governo adotou medidas excecionais e através do [Decreto-Lei n.º 57-B/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-b-2022-200734336), de 6 de dezembro, passou a permitir o regresso dos clientes finais com consumos anuais inferiores ou iguais a 10 000 m<sup>3</sup> ao regime de tarifas reguladas de venda de gás natural do mercado regulado.
+Para combater o aumento dos preços, o governo adotou medidas excecionais e através do [Decreto-Lei n.º 57-B/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-b-2022-200734336), de 6 de dezembro, passou a permitir o regresso dos clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 ao regime de tarifas reguladas de venda de gás natural do mercado regulado.
 
 Na tabela seguinte apresenta-se a evolução semestral dos preços médios de GN, para Portugal, praticados no setor doméstico e na indústria, na banda de consumo mais representativa, D1 e I4, respetivamente.
 
@@ -4398,9 +4997,9 @@ No que diz respeito aos preços de GN (Preços incluindo todos os impostos) prat
 
 Tabela 57 - Preços do Gás Natural por setor em Portugal (€/GJ) [Fonte: DGEG]
 
-|  |  | Doméstico (Banda D1<sup>73</sup>) | Doméstico (Banda D1<sup>73</sup>) | Doméstico (Banda D1<sup>73</sup>) | Indústria (Banda I4<sup>74</sup>) | Indústria (Banda I4<sup>74</sup>) | Indústria (Banda I4<sup>74</sup>) |
+|  | Doméstico (Banda D173) | Indústria (Banda I474) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Preços excluindo impostos e taxas | Preços excluindo IVA e outros impostos recuperáveis | Preços incluindo todos os impostos | Preços excluindo impostos e taxas | Preços excluindo IVA e outros impostos recuperáveis | Preços incluindo todos os impostos |
+| Preços excluindo impostos e taxas | Preços excluindo IVA e outros impostos recuperáveis | Preços incluindo todos os impostos | Preços excluindo impostos e taxas | Preços excluindo IVA e outros impostos recuperáveis | Preços incluindo todos os impostos |  |  |
 | 2021 | 1.º semestre | 18,4701 | 20,9654 | 25,4854 | 5,4613 | 5,6273 | 6,9101 |
 |  | 2.º semestre | 19,4511 | 21,8519 | 26,5296 | 9,0635 | 9,2729 | 11,3908 |
 | 2022 | 1.º semestre | 20,3194 | 22,8518 | 27,8210 | 17,9524 | 18,2175 | 22,4358 |
@@ -4416,7 +5015,7 @@ Tabela 58 - Preço do Gasóleo simples rodoviário em Portugal (EUR/litro) [Font
 | --- | --- | --- | --- | --- | --- |
 | Preço sem taxas (PST) | 0,503 | 0,646 | 1,077 | 28,5 % | 66,7 % |
 | IVA | 0,233 | 0,266 | 0,336 | 14,4 % | 26,2 % |
-| ISP + Outros<sup>75</sup> | 0,509 | 0,511 | 0,384 | 0,4 % | – 25,0 % |
+| ISP + Outros75 | 0,509 | 0,511 | 0,384 | 0,4 % | – 25,0 % |
 | PMVP | 1,244 | 1,423 | 1,796 | 14,4 % | 26,2 % |
 
 Tabela 59 - Preço da Gasolina simples 95 em Portugal (EUR/litro) [Fonte: DGEG]
@@ -4425,7 +5024,7 @@ Tabela 59 - Preço da Gasolina simples 95 em Portugal (EUR/litro) [Fonte: DGEG]
 | --- | --- | --- | --- | --- | --- |
 | Preço sem taxas (PST) | 0,463 | 0,653 | 0,974 | 40,9 % | 49,1 % |
 | IVA | 0,259 | 0,303 | 0,346 | 16,8 % | 14,3 % |
-| ISP + Outros<sup>76</sup> | 0,664 | 0,663 | 0,530 | – 0,1 % | - 20,0 % |
+| ISP + Outros76 | 0,664 | 0,663 | 0,530 | – 0,1 % | - 20,0 % |
 | PMVP | 1,387 | 1,619 | 1,850 | 16,8 % | 14,3 % |
 
 No quadro de medidas de mitigação aprovadas pelo Governo, para fazer face ao contexto extraordinário de subida de preço dos combustíveis, estabeleceu-se um mecanismo de redução extraordinária e temporária das taxas unitárias do ISP aplicáveis, no continente, à gasolina sem chumbo e ao gasóleo rodoviário, ao longo do período em análise.
@@ -4434,7 +5033,7 @@ i.4 Tarifa Social da Energia
 
 No ano de 2010 foi criada a tarifa social de fornecimento de energia elétrica a aplicar a clientes finais economicamente vulneráveis, aprovada pelo [Decreto-Lei n.º 138-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-2010-666880), de 28 de dezembro, que teve como objetivo, no âmbito do processo de liberalização do setor energético e de proteção dos consumidores, garantir o acesso a todos os consumidores ao serviço essencial de fornecimento de energia elétrica, independentemente do seu prestador. Essa garantia suscitou a necessidade de ser assegurado o abastecimento, nomeadamente aos clientes economicamente vulneráveis. Também a situação de crescente incremento e volatilidade dos custos energéticos que se verificava internacionalmente e a intenção de prosseguir o aprofundamento da harmonização no âmbito do mercado elétrico justificaram o estabelecimento de medidas concretas de proteção destes consumidores economicamente mais vulneráveis, em linha com as orientações europeias, relativa ao mercado interno da eletricidade e do gás natural. A existência de uma tarifa social protege os interesses das famílias e outros grupos de consumidores economicamente mais vulneráveis através de um modelo tarifário que lhes garanta uma situação de tendencial estabilidade tarifária, nomeadamente mediante a utilização de descontos.
 
-Em 2014, houve a preocupação de garantir o acesso efetivo dos clientes considerados mais carenciados no universo dos consumidores finais de energia elétrica em baixa tensão normal, pretendeu-se alargar o número de beneficiários de tarifa social de energia elétrica para cerca de 500 mil titulares de contratos de fornecimento de energia elétrica e criar condições para que o desconto aplicado aos beneficiários fosse superior ao que se verificava. Com vista ao alargamento do número de beneficiários efetivos da Tarifa Social de Energia, os descontos sociais para o acesso ao serviço essencial de fornecimento de energia elétrica e de gás natural, implementados através do [Decreto-Lei n.º 138-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-2010-666880), de 28 de dezembro, alterado pelo [Decreto-Lei n.º 172/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), de 14 de novembro, para a energia elétrica, e o [Decreto-Lei n.º 101/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2011-671202), de 30 de setembro, para o gás natural, passaram a ser automaticamente concedidos a clientes finais economicamente mais vulneráveis a partir do redesenho legislativo aplicável ocorrido com a [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532)<sup>77</sup>, de 30 de março. Este procedimento contribuiu para que o número de beneficiários tivesse passado, de acordo com os dados disponibilizados à data pela ERSE, de 154 648 em março de 2016 para 820 527 em setembro de 2017. Esta medida, lançada inicialmente a 28 de dezembro de 2010 pelo [Decreto-Lei n.º 138-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-2010-666880), é, a partir de 1 de julho de 2016, atribuída de forma automática aos clientes que cumpram os critérios de vulnerabilidade económica e/ou social, comprovados pela Autoridade Tributária e Aduaneira e/ou pela Segurança Social, de acordo com a [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março.
+Em 2014, houve a preocupação de garantir o acesso efetivo dos clientes considerados mais carenciados no universo dos consumidores finais de energia elétrica em baixa tensão normal, pretendeu-se alargar o número de beneficiários de tarifa social de energia elétrica para cerca de 500 mil titulares de contratos de fornecimento de energia elétrica e criar condições para que o desconto aplicado aos beneficiários fosse superior ao que se verificava. Com vista ao alargamento do número de beneficiários efetivos da Tarifa Social de Energia, os descontos sociais para o acesso ao serviço essencial de fornecimento de energia elétrica e de gás natural, implementados através do [Decreto-Lei n.º 138-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-2010-666880), de 28 de dezembro, alterado pelo [Decreto-Lei n.º 172/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2014-58895505), de 14 de novembro, para a energia elétrica, e o [Decreto-Lei n.º 101/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2011-671202), de 30 de setembro, para o gás natural, passaram a ser automaticamente concedidos a clientes finais economicamente mais vulneráveis a partir do redesenho legislativo aplicável ocorrido com a [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532)77, de 30 de março. Este procedimento contribuiu para que o número de beneficiários tivesse passado, de acordo com os dados disponibilizados à data pela ERSE, de 154 648 em março de 2016 para 820 527 em setembro de 2017. Esta medida, lançada inicialmente a 28 de dezembro de 2010 pelo [Decreto-Lei n.º 138-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-2010-666880), é, a partir de 1 de julho de 2016, atribuída de forma automática aos clientes que cumpram os critérios de vulnerabilidade económica e/ou social, comprovados pela Autoridade Tributária e Aduaneira e/ou pela Segurança Social, de acordo com a [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março.
 
 Com a entrada em vigor do [Decreto-Lei n.º 100/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2020-149707127), de 26 de novembro, foram alargadas as condições de acesso à tarifa social da energia elétrica e do gás natural para fazer face à situação crítica dos consumidores mais vulneráveis, alargando, designadamente, a elegibilidade a todas as situações de desemprego.
 
@@ -4470,7 +5069,8 @@ No caso da Indústria e considerando a banda IB, o peso do preço da energia foi
 
 Figura 58 - Estrutura do preço da Eletricidade em Portugal por setor (EUR/kWh) [Fonte: DGEG]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597522.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597522.png) |
+| --- |
 
 iv) Descrição dos subsídios à energia, incluindo os combustíveis fósseis
 
@@ -4490,9 +5090,9 @@ Estão sujeitos ao imposto os produtos petrolíferos e energéticos:
 
 O CIEC estabelece ainda os produtos que usufruem de isenção total ou parcial e os produtos tributados com taxa reduzida de imposto. Assim, para além das isenções previstas na Parte Geral do CIEC, aplicáveis ao abrigo da Diretiva [2008/118/CE](https://data.europa.eu/eli/dir/2008/118/oj?locale=pt) do Conselho, de 16 de dezembro de 2008, relativa ao regime geral dos impostos especiais de consumo e que revoga a Diretiva [92/12/CEE](https://data.europa.eu/eli/dir/1992/12/oj?locale=pt) («Diretiva Horizontal»), que são aplicáveis aos produtos petrolíferos e energéticos e à eletricidade, e constam do artigo 6.º do CIEC, encontram-se previstas isenções e taxas reduzidas de tributação.
 
-Adicionamento sobre as emissões de CO<sub>2</sub> («taxa de carbono»)
+Adicionamento sobre as emissões de CO2 («taxa de carbono»)
 
-Em 2015, através da «Lei da Fiscalidade Verde»<sup>78</sup> foi instituída uma «taxa de carbono» (através de um adicionamento ao ISP), que se aplica aos setores não abrangidos pelo Comércio Europeu de Licenças de Emissão (CELE).
+Em 2015, através da «Lei da Fiscalidade Verde»78 foi instituída uma «taxa de carbono» (através de um adicionamento ao ISP), que se aplica aos setores não abrangidos pelo Comércio Europeu de Licenças de Emissão (CELE).
 
 Este adicionamento, que foi incluído no CIEC, através do aditamento de um novo artigo 92.º-A, visa promover uma economia de baixo carbono, de combate às alterações climáticas e de redução da dependência energética do exterior.
 
@@ -4514,21 +5114,22 @@ Para este efeito, além da taxa aplicável em termos de ISP, os seguintes produt
 
 • Carvão e coque.
 
-A isenção de um determinado produto em sede de ISP determina, automaticamente, a sua não sujeição ao adicionamento sobre as emissões de CO<sub>2</sub> (n.º 4 do artigo 92.º-A).
+A isenção de um determinado produto em sede de ISP determina, automaticamente, a sua não sujeição ao adicionamento sobre as emissões de CO2 (n.º 4 do artigo 92.º-A).
 
 De acordo com a fórmula de cálculo atualmente vigente, consagrada no n.º 2 do artigo 92.º-A do CIEC, o valor da taxa a vigorar em cada ano (n), ao qual será aplicado o fator de adicionamento previsto no n.º 1 do mesmo artigo, é calculado no ano anterior (n-1) como média aritmética do preço resultante dos leilões de licenças de emissão de GEE, realizados no âmbito do Comércio Europeu de Licenças de Emissão, entre 1 de outubro do ano n-2 e 30 de setembro do ano n-1.
 
-Os fatores de adicionamento, a evolução da taxa de carbono (preço de referência de CO<sub>2</sub>) e os valores de adicionamento por tipo de combustível são os espelhados no quadro seguinte.
+Os fatores de adicionamento, a evolução da taxa de carbono (preço de referência de CO2) e os valores de adicionamento por tipo de combustível são os espelhados no quadro seguinte.
 
 Tabela 61 - Fatores de adicionamento, evolução da taxa de carbono e valores de adicionamento por tipo de combustível
 
-![](https://files.diariodarepublica.pt/images/914597185/914597523.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597523.png) |
+| --- |
 
 Em 2022, enquanto medida de mitigação da inflação e a par de outras medidas fiscais que visaram conter o aumento do preço dos combustíveis, foram reduzidos os impostos sobre os combustíveis, nomeadamente o ISP, e suspensa a atualização da taxa de carbono, medida que vigorou até maio de 2023, data a partir da qual se iniciou o descongelamento gradual da atualização da taxa de carbono. Contudo, durante o mês de setembro, o Governo introduziu uma medida adicional de mitigação do preço dos combustíveis de devolução da receita adicional de IVA através do ISP que permitiu uma redução no preço do gasóleo e gasolina ([Portaria n.º 288-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/288-a-2023-222069231), de 25 de setembro).
 
 Análise da despesa fiscal em sede de isenções de ISP
 
-A despesa fiscal constitui uma transferência de recursos públicos através da redução da obrigação do imposto face ao sistema de tributação-regra que reflete as prioridades políticas de um determinado país<sup>79</sup>. Esta vantagem conferida à utilização de combustíveis fósseis configura um subsídio.
+A despesa fiscal constitui uma transferência de recursos públicos através da redução da obrigação do imposto face ao sistema de tributação-regra que reflete as prioridades políticas de um determinado país79. Esta vantagem conferida à utilização de combustíveis fósseis configura um subsídio.
 
 A despesa fiscal em sede de Imposto sobre os Produtos Petrolíferos e Energéticos assumiu em 2017 um valor de 441 M€, dos quais cerca de 256 M€ corresponde a despesa fiscal com ISP e cerca de 186 M€ correspondem à despesa fiscal associada ao adicional ao ISP, isto é, à taxa de carbono, por força das isenções de ISP.
 
@@ -4536,7 +5137,7 @@ Em 2020 este valor atingiu os 413,5 M€, 275,5, em 2021 e os 324,3 M€ em 2022
 
 Impostos e taxas com relevância ambiental
 
-De acordo com o Instituto Nacional de Estatística (INE), em 2022 o valor dos impostos com relevância ambiental<sup>80</sup> ascendeu a cerca de 4,6 mil milhões de euros, correspondendo a 5,3 % do total das receitas de impostos e contribuições sociais coletado (7,3 % em 2019, 6,8 % em 2020 e 6,6 % em 2021). Aquele valor representou uma diminuição de 7,5 % relativamente a 2021 (por oposição a um aumento de 6,3 % entre 2021/2020), o que compara com o aumento de 14,8 % observado para o total da receita de impostos e contribuições sociais. A diminuição registada em 2022, reflete essencialmente a redução da receita de ISP em consequência da política de mitigação do aumento dos preços dos combustíveis. Entre essas medidas destacam-se a introdução do mecanismo de revisão dos valores das taxas unitárias do ISP aplicáveis, no continente, à gasolina sem chumbo e ao gasóleo rodoviário e o mecanismo de redução da carga fiscal equivalente ao que resultaria da redução da taxa do IVA de 23 % para 13 %, nas taxas unitárias do ISP.
+De acordo com o Instituto Nacional de Estatística (INE), em 2022 o valor dos impostos com relevância ambiental80 ascendeu a cerca de 4,6 mil milhões de euros, correspondendo a 5,3 % do total das receitas de impostos e contribuições sociais coletado (7,3 % em 2019, 6,8 % em 2020 e 6,6 % em 2021). Aquele valor representou uma diminuição de 7,5 % relativamente a 2021 (por oposição a um aumento de 6,3 % entre 2021/2020), o que compara com o aumento de 14,8 % observado para o total da receita de impostos e contribuições sociais. A diminuição registada em 2022, reflete essencialmente a redução da receita de ISP em consequência da política de mitigação do aumento dos preços dos combustíveis. Entre essas medidas destacam-se a introdução do mecanismo de revisão dos valores das taxas unitárias do ISP aplicáveis, no continente, à gasolina sem chumbo e ao gasóleo rodoviário e o mecanismo de redução da carga fiscal equivalente ao que resultaria da redução da taxa do IVA de 23 % para 13 %, nas taxas unitárias do ISP.
 
 Entre 2021 e 2022, o imposto sobre os produtos petrolíferos e energéticos perdeu importância relativa nos impostos com relevância ambiental, passando de 70,7 % para 60,1 %. Esta redução substancial da receita do ISP em 2022 afetou positivamente a importância relativa dos restantes impostos com relevância ambiental. Assim, o peso dos outros impostos sobre a energia, que incluem as licenças de emissão de gases com efeito de estufa, passou de 5,9 % para 12 %.
 
@@ -4550,17 +5151,19 @@ Por categorias, em 2022, os impostos sobre a energia representavam 72,1 % do tot
 
 Figura 59 - Evolução dos impostos com relevância ambiental em valor absoluto [Fonte: INE - Estatísticas das receitas fiscais]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597524.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597524.png) |
+| --- |
 
 Figura 60 - Impostos com relevância ambiental por categoria em 2022 [Fonte: INE]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597525.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597525.png) |
+| --- |
 
 De acordo com a informação disponível para 2021, o peso destes impostos no total da receita fiscal incluindo contribuições sociais foi superior em Portugal (6,6 %), comparativamente com a média da União Europeia (5,5 %). Nesse mesmo ano, o peso dos impostos com relevância ambiental no PIB em Portugal (2,3 %) foi superior ao da média da UE27 (2,2 %).
 
 Avaliando a receita com impostos ambientais por tipo de contribuinte, verifica-se que, em 2021, 45,6 % das receitas com estes impostos teve origem nas famílias e 52,1 % teve origem nos diversos ramos de atividade económica. Desagregando esta informação por categoria de impostos, as famílias contribuíram mais para a receita dos impostos sobre a poluição (78,5 %) e sobre os recursos (61,2 %). Em contrapartida, foram os ramos de atividade que mais contribuíram para a receita dos impostos sobre os transportes (50,6 %) e sobre a energia (52,9 %), que compara com 49,4 % e 44,1 % nas famílias, respetivamente.
 
-Quanto às taxas com relevância ambiental<sup>81</sup>, em 2021, último ano para o qual esta informação está disponível, atingiram 1,74 mil milhões de euros (0,8 % do PIB), aumentando 5,1 % face a 2020, refletindo sobretudo o aumento da cobrança das taxas de recolha e tratamento de resíduos sólidos (+4,0 %), das taxas de salubridade e saneamento (+2,8 %) e da taxa de gestão de resíduos (+34,8 %). As receitas do sistema de reciclagem de embalagens de vidro, papel, plástico, metal e madeira subiram 9,1 %, refletindo a entrada em pleno funcionamento dos três sistemas de recolha deste tipo de resíduos.
+Quanto às taxas com relevância ambiental81, em 2021, último ano para o qual esta informação está disponível, atingiram 1,74 mil milhões de euros (0,8 % do PIB), aumentando 5,1 % face a 2020, refletindo sobretudo o aumento da cobrança das taxas de recolha e tratamento de resíduos sólidos (+4,0 %), das taxas de salubridade e saneamento (+2,8 %) e da taxa de gestão de resíduos (+34,8 %). As receitas do sistema de reciclagem de embalagens de vidro, papel, plástico, metal e madeira subiram 9,1 %, refletindo a entrada em pleno funcionamento dos três sistemas de recolha deste tipo de resíduos.
 
 As taxas de recolha e tratamento de resíduos sólidos e as de saneamento continuam a representar grande parte (86,8 %) do total de receita arrecadada com as taxas com relevância ambiental.
 
@@ -4594,9 +5197,9 @@ Em Portugal, o investimento em Investigação e Inovação (I&I) ao longo dos ú
 
 Tabela 62 - Despesa Nacional em I&I por área temática (2014-2021) [Fonte: DGEEC, 2022. Inquérito ao Potencial Científico e Tecnológico Nacional 2021]
 
-| Ano | Indicador | Total nacional | Área Temática | Área Temática | Área Temática | Área Temática | Área Temática |
+| Ano | Indicador | Total nacional | Área Temática |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ano | Indicador | Total nacional | Energia | Matérias-primas & Materiais | Tecnologia Produção & Indústria Processo | Tecnologia Prod. & Indústria Produto | Água & Ambiente |
+| Energia | Matérias-primas & Materiais | Tecnologia Produção & Indústria Processo | Tecnologia Prod. & Indústria Produto | Água & Ambiente |  |  |  |
 | 2014 | k€ | 2 232 249 | 99 779 | 81 328 | 165 563 | 145 144 | 73 460 |
 |  | % Total Nacional | 100 | 4 | 4 | 7 | 7 | 3 |
 |  | % PIB (ref. 2016; a custos correntes) | 1,29 | 0,06 | 0,05 | 0,1 | 0,08 | 0,04 |
@@ -4629,33 +5232,33 @@ Tabela 63 - Despesa Nacional em I&I por setor de execução e área temática (2
 | Ano | Setor de Execução | Indicador | Total nacional | Energia | Matérias-primas & Materiais | Tecnologia Produção & Indústria Processo | Tecnologia Prod. & Indústria Produto | Água & Ambiente |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2019 | empresas | k€ | 1 570 510 | 73 490 | 68 069 | 155 043 | 174 732 | 26 804 |
-| 2019 | empresas | % Total Nacional | 100 | 5 | 4 | 10 | 11 | 2 |
-| 2019 | Universidades | k€ | 1 210 653 | 60 557 | 53 797 | 53 580 | 49 690 | 85 277 |
-| 2019 | Universidades | % Total Nacional | 100 | 5 | 4 | 4 | 4 | 7 |
-| 2019 | Governo | k€ | 153 569 | 9 446 | 6 152 | 1 476 | 1 613 | 9 165 |
-| 2019 | Governo | % Total Nacional | 100 | 6 | 4 | 1 | 1 | 6 |
-| 2019 | IPSFL | k€ | 57 132 | 296 | 186 | 102 | 138 | 98 |
-| 2019 | IPSFL | % Total Nacional | 100 | 1 | 0 | 0 | 0 | 0 |
+| % Total Nacional | 100 | 5 | 4 | 10 | 11 | 2 |  |  |
+| Universidades | k€ | 1 210 653 | 60 557 | 53 797 | 53 580 | 49 690 | 85 277 |  |
+| % Total Nacional | 100 | 5 | 4 | 4 | 4 | 7 |  |  |
+| Governo | k€ | 153 569 | 9 446 | 6 152 | 1 476 | 1 613 | 9 165 |  |
+| % Total Nacional | 100 | 6 | 4 | 1 | 1 | 6 |  |  |
+| IPSFL | k€ | 57 132 | 296 | 186 | 102 | 138 | 98 |  |
+| % Total Nacional | 100 | 1 | 0 | 0 | 0 | 0 |  |  |
 | 2020 | empresas | k€ | 1 843 559 | 87 118 | 73 963 | 176 653 | 200 422 | 29 484 |
-| 2020 | empresas | % Total Nacional | 100 | 5 | 4 | 10 | 11 | 2 |
-| 2020 | Universidades | k€ | 1 165 112 | 62 080 | 50 432 | 52 339 | 41 443 | 82 875 |
-| 2020 | Universidades | % Total Nacional | 100 | 5 | 4 | 4 | 4 | 7 |
+| % Total Nacional | 100 | 5 | 4 | 10 | 11 | 2 |  |  |
+| Universidades | k€ | 1 165 112 | 62 080 | 50 432 | 52 339 | 41 443 | 82 875 |  |
+| % Total Nacional | 100 | 5 | 4 | 4 | 4 | 7 |  |  |
 | 2021 | empresas | k€ | 2 153 582 | 119 721 | 82 621 | 198 152 | 235 976 | 37 451 |
-| 2021 | empresas | % Total Nacional | 100 | 6 | 4 | 9 | 11 | 2 |
-| 2021 | Universidades | k€ | 1 202 363 | 66 907 | 48 417 | 50 395 | 40 626 | 86 896 |
-| 2021 | Universidades | % Total Nacional | 100 | 6 | 4 | 4 | 3 | 7 |
-| 2021 | Governo | k€ | 169 850 | 9 661 | 5 338 | 1 499 | 1 859 | 10 056 |
-| 2021 | Governo | % Total Nacional | 100 | 6 | 3 | 1 | 1 | 6 |
-| 2021 | IPSFL | k€ | 83 417 | 2 474 | 1 665 | 2 427 | 1 230 | 2 579 |
-| 2021 | IPSFL | % Total Nacional | 100 | 3 | 2 | 3 | 1 | 3 |
+| % Total Nacional | 100 | 6 | 4 | 9 | 11 | 2 |  |  |
+| Universidades | k€ | 1 202 363 | 66 907 | 48 417 | 50 395 | 40 626 | 86 896 |  |
+| % Total Nacional | 100 | 6 | 4 | 4 | 3 | 7 |  |  |
+| Governo | k€ | 169 850 | 9 661 | 5 338 | 1 499 | 1 859 | 10 056 |  |
+| % Total Nacional | 100 | 6 | 3 | 1 | 1 | 6 |  |  |
+| IPSFL | k€ | 83 417 | 2 474 | 1 665 | 2 427 | 1 230 | 2 579 |  |
+| % Total Nacional | 100 | 3 | 2 | 3 | 1 | 3 |  |  |
 
 O esforço de I&I e o registo de patentes em Portugal demonstra existir competência nacional em tecnologias associadas à energia renovável, mas de expressão modesta no registo da propriedade industrial resultante da atividade de I&I. Neste tipo de contabilização estão excluídas as tecnologias ligadas à fusão e fissão nuclear por não serem consideradas no âmbito da política energética nacional atual e futura. O registo de patentes anterior a 2020 é apresentado na tabela seguinte:
 
 Tabela 64 - Registo de patentes em Portugal, anterior a 2020 [Fonte: INPI]
 
-| Eólica | N.º | Solar | N.º | Ondas | N.º | Biomassa | N.º | Hídrica | N.º | Geotérmica | N.º | Outros | N.º |
+| Área Tecnológica/Unidades Registadas |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas | Área Tecnológica/Unidades Registadas |
+| Eólica | N.º | Solar | N.º | Ondas | N.º | Biomassa | N.º | Hídrica | N.º | Geotérmica | N.º | Outros | N.º |
 | Eólica | 30 | Solar | 94 | Energia das ondas | 45 | Biomassa | 3 | Hídrica | 5 | Geotérmica | 2 | Produção de Hidrogénio | 21 |
 | Aerogerador | 3 | Coletor solar | 25 | Energia das marés | 8 | Biocombustível | 6 | Energia hidráulica | 8 | - | - | Armazenamento de Energia | 27 |
 | Turbina eólica | 18 | Painel solar | 26 | Energia dos oceanos | 1 | Biodiesel | 8 | - | - | - | - | - | - |
@@ -4679,7 +5282,7 @@ De notar a importância crescente dos recursos humanos na atividade de I&I, a qu
 
 Tabela 66 - Desagregação do pessoal de investigação por setor de execução, no período: 2014-2021 [Fonte: DGEEC, 2022. Inquérito ao Potencial Científico e Tecnológico Nacional 2021]
 
-|  | Total | Empresas | Empresas | Estado | Estado | Ensino Superior | Ensino Superior | IPSFL | IPSFL |
+|  | Total | Empresas | Estado | Ensino Superior | IPSFL |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | ETI | ETI | % | ETI | % | ETI | % | ETI | % |
 | 2014 | 46 878 | 17 348 | 37 % | 2 037 | 4 % | 26 870 | 57 % | 622 | 1 % |
@@ -4703,15 +5306,18 @@ Em termos de vetores energéticos, e por via do descomissionamento das centrais 
 
 Figura 61 - Estimativa de evolução do consumo de energia primária no horizonte 2030 (ktep)
 
-![](https://files.diariodarepublica.pt/images/914597185/914597526.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597526.png) |
+| --- |
 
 Figura 62 - Estimativa de evolução do consumo de energia primária por tipo de fonte no horizonte 2030 (ktep)
 
-![](https://files.diariodarepublica.pt/images/914597185/914597527.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597527.png) |
+| --- |
 
 Figura 63 - Estimativa de evolução do consumo de energia primária por tipo de fonte no horizonte 2030
 
-![](https://files.diariodarepublica.pt/images/914597185/914597528.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597528.png) |
+| --- |
 
 No que respeita às projeções para a evolução do consumo total de energia final para o horizonte 2030, é expectável que, face às políticas e medidas previstas implementar neste horizonte, o consumo de eletricidade dedicada à nova indústria verde aumente. Para além do referido, esta estimativa de evolução crescente do consumo de energia, reflete também, a eletrificação dos consumos para a descarbonização global do sistema existente.
 
@@ -4721,15 +5327,18 @@ Importa mencionar que a crescente importância dos gases renováveis, em particu
 
 Figura 64 - Estimativa de evolução do consumo de energia final no horizonte 2030 (ktep)
 
-![](https://files.diariodarepublica.pt/images/914597185/914597529.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597529.png) |
+| --- |
 
 Figura 65 - Estimativa de evolução do consumo de energia final por tipo de fonte no horizonte 2030 (ktep)
 
-![](https://files.diariodarepublica.pt/images/914597185/914597530.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597530.png) |
+| --- |
 
 Figura 66 - Estimativa de evolução do consumo de energia final por tipo de fonte no horizonte 2030
 
-![](https://files.diariodarepublica.pt/images/914597185/914597531.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597531.png) |
+| --- |
 
 A revisão do PNEC 2030 decorreu em paralelo com a revisão do RNC2050, assegurando a coerência das trajetórias de curto prazo com a perspetiva de longo prazo, rumo à neutralidade climática. O exercício de revisão das projeções de emissões de GEE concentrou-se numa primeira fase na revisão dos setores de atividade correspondentes ao sistema energético, incluindo o setor eletroprodutor e refinação, setor dos transportes, indústria, edifícios e agricultura (na componente energética). Na segunda fase, foram revistas as projeções de emissões de GEE dos restantes setores, agricultura, florestas e outros usos do solo e resíduos e águas residuais, permitindo inferir, em conjunto com os resultados obtidos sobre o setor energético, as implicações associadas à antecipação da meta da neutralidade climática para 2045, em linha com as orientações previstas na Lei de Bases do Clima.
 
@@ -4741,11 +5350,11 @@ A análise do comportamento dos diferentes setores nas condições estabelecidas
 
 De seguida apresenta-se uma súmula dos resultados obtidos em termos de emissões de GEE setoriais no horizonte 2030 e 2040, no cenário de políticas adicionais.
 
-Tabela 67 - Projeção de emissões de GEE por setor (sem emissões indiretas de CO<sub>2</sub>) Cenário políticas adicionais (kt CO<sub>2eq</sub>)
+Tabela 67 - Projeção de emissões de GEE por setor (sem emissões indiretas de CO2) Cenário políticas adicionais (kt CO2eq)
 
-|  | 2005 | 2030 | 2040 |
+|  |  | Cenário políticas adicionais |  |
 | --- | --- | --- | --- |
-|  |  | Cenário políticas adicionais | Cenário políticas adicionais |
+|  | 2005 | 2030 | 2040 |
 | 1. Energia | 62 555 | 20 604 | 13 721 |
 | Indústrias da energia, incluindo produção de eletricidade e calor e refinação (1A1) | 25 503 | 1 979 | 871 |
 | Indústrias da manufatura e construção (1A2) | 10 579 | 2 652 | 1 514 |
@@ -4760,11 +5369,11 @@ Tabela 67 - Projeção de emissões de GEE por setor (sem emissões indiretas de
 | Total | 85 860 | 37 057 | 21 867 |
 | Total CELE | 36 426 | 7 567 | 7 077 |
 | Total Não-CELE | 49 434 | 29 491 | 14 791 |
-| Captura CO<sub>2</sub> (CCU) | 0 | -95 | -3 853 |
+| Captura CO2 (CCU) | 0 | -95 | -3 853 |
 
 Tabela 68 - Potencial de reduções de emissões de GEE face a 2005 (%)
 
-|  | Cenário políticas existentes | Cenário políticas existentes | Cenário políticas adicionais | Cenário políticas adicionais |
+|  | Cenário políticas existentes | Cenário políticas adicionais |  |  |
 | --- | --- | --- | --- | --- |
 |  | 2030 | 2040 | 2030 | 2040 |
 | 1. Energia | -58 % | -77 % | -67 % | -78 % |
@@ -4804,7 +5413,7 @@ No caso do setor Residencial, a redução de consumo de gás natural e outros pr
 
 No que se refere ao setor dos Processos industriais e uso de produtos (IPPU), verifica-se em ambos os cenários uma redução significativa nas emissões de processos, nomeadamente na indústria cimenteira e do setor da pasta de papel, onde já existem pilotos industriais em funcionamento, no entanto, perspetiva-se que esta redução seja mais significativa entre 2030 e 2040 no cenário WAM devido à perspetiva de incorporação de combustíveis alternativos nos processos de produção de cimento.
 
-Seguindo também os desenvolvimentos recentes a nível europeu e o contributo que as tecnologias de sequestro tecnológico poderão ter num contexto de neutralidade climática, com especial ênfase nos «hard-to-abate sectors», e tendo também em conta a procura de CO<sub>2</sub> para produção de combustíveis renováveis de origem não biológica (RFNBO, que incluem os combustíveis sintéticos - efuels e o hidrogénio), prevê-se que as tecnologias de Captura de Carbono e Utilização (CCU) sejam custo-eficazes a partir de 2030, crescendo significativamente até 2040. Contrariamente ao cenário WEM, este contributo perspetiva-se no cenário WAM já significativo em 2035, com impacte nas emissões do subsetor da Indústrias da manufatura e construção (1A2) e Processos Industriais e usos de produtos (2), relativos a emissões de combustão e de processo da indústria, respetivamente. A captura de carbono perspetiva-se com maior representatividade na indústria cimenteira no curto prazo, abrangendo progressivamente também setores da indústria do vidro, química e pasta e papel (ex. Bioenergia com Captura e Armazenamento de Carbono - BECC). O CO<sub>2</sub> capturado é transportado por pipeline e tem como destino custo-eficaz a utilização como matéria-prima na produção de combustíveis sintéticos, nomeadamente jet fuels. É importante referir que o modelo utilizado não possui detalhe espacial que permita aferir locais de captura e sequestro e/ou detalhar competitividade entre formas de transporte de CO<sub>2</sub>.
+Seguindo também os desenvolvimentos recentes a nível europeu e o contributo que as tecnologias de sequestro tecnológico poderão ter num contexto de neutralidade climática, com especial ênfase nos «hard-to-abate sectors», e tendo também em conta a procura de CO2 para produção de combustíveis renováveis de origem não biológica (RFNBO, que incluem os combustíveis sintéticos - efuels e o hidrogénio), prevê-se que as tecnologias de Captura de Carbono e Utilização (CCU) sejam custo-eficazes a partir de 2030, crescendo significativamente até 2040. Contrariamente ao cenário WEM, este contributo perspetiva-se no cenário WAM já significativo em 2035, com impacte nas emissões do subsetor da Indústrias da manufatura e construção (1A2) e Processos Industriais e usos de produtos (2), relativos a emissões de combustão e de processo da indústria, respetivamente. A captura de carbono perspetiva-se com maior representatividade na indústria cimenteira no curto prazo, abrangendo progressivamente também setores da indústria do vidro, química e pasta e papel (ex. Bioenergia com Captura e Armazenamento de Carbono - BECC). O CO2 capturado é transportado por pipeline e tem como destino custo-eficaz a utilização como matéria-prima na produção de combustíveis sintéticos, nomeadamente jet fuels. É importante referir que o modelo utilizado não possui detalhe espacial que permita aferir locais de captura e sequestro e/ou detalhar competitividade entre formas de transporte de CO2.
 
 Assim e para uma leitura global da evolução destes dois setores deve ter-se em conta o valor de captura previsto para cada ano, obtendo-se assim as emissões líquidas. Em termos de F-gases, este cenário projeta o impacto do novo regulamento de gases fluorados, o Regulamento (UE) [2024/573](https://data.europa.eu/eli/reg/2024/573/oj?locale=pt), prevendo-se, por exemplo, em 2030, uma redução nas emissões da refrigeração comercial e industrial mais significativa. Em termos globais, e atenta a grande redução perspetivada para 2030 de cerca de -89 %, prevê-se apenas um ligeiro desenvolvimento na década seguinte, atingindo -92 % em 2040. No que se refere ao setor Resíduos, a consideração de medidas adicionais em relação ao cenário de medidas existentes não se concretiza numa redução de emissões particularmente relevante. As caraterísticas próprias do setor e as circunstâncias de fronteira da situação em Portugal não permitem a consideração de um elevado potencial de redução, ficando-se este, em relação aos anos de 2030 e 2040, em valores de 28 % e 50 %, respetivamente.
 
@@ -4824,7 +5433,7 @@ O relatório especial do Painel Intergovernamental para as Alterações Climáti
 
 Em Portugal têm-se vindo a verificar nos últimos anos os efeitos negativos dos impactes das alterações climáticas, com a maior intensidade e frequência dos eventos meteorológicos extremos, como sejam os temporais intensos, as secas frequentes, os incêndios rurais de grande magnitude, ondas de calor e erosão costeira.
 
-O conhecimento em matéria de vulnerabilidades climáticas em Portugal foi recentemente atualizado pelo Roteiro Nacional para a Adaptação 2100 (RNA 2100)<sup>82</sup>, concluído em abril de 2024. Este projeto atualizou os cenários climáticos de referência para Portugal e procedeu a uma avaliação de riscos climáticos com especial enfoque na modelação de impactes nas zonas costeiras, recursos hídricos, agrofloresta e no domínio dos incêndios. O RNA 2100 explorou também a componente económica da adaptação e os custos/impactes da inação, tendo contemplado a produção de um Guia de orientações e boas práticas sobre a integração da adaptação às alterações climáticas nos instrumentos de planeamento territorial de nível municipal.
+O conhecimento em matéria de vulnerabilidades climáticas em Portugal foi recentemente atualizado pelo Roteiro Nacional para a Adaptação 2100 (RNA 2100)82, concluído em abril de 2024. Este projeto atualizou os cenários climáticos de referência para Portugal e procedeu a uma avaliação de riscos climáticos com especial enfoque na modelação de impactes nas zonas costeiras, recursos hídricos, agrofloresta e no domínio dos incêndios. O RNA 2100 explorou também a componente económica da adaptação e os custos/impactes da inação, tendo contemplado a produção de um Guia de orientações e boas práticas sobre a integração da adaptação às alterações climáticas nos instrumentos de planeamento territorial de nível municipal.
 
 Os resultados apontam de forma geral para o aumento de frequência e intensidade de eventos extremos de precipitação e temperatura, como dias muito quentes e noites tropicais, com impactes diretos na saúde pública.
 
@@ -4836,7 +5445,7 @@ Para implementar de forma integrada a adaptação a estes efeitos e preparar o p
 
 Em particular, o setor energético é uma área importante a considerar na perspetiva de um planeamento integrado para adaptação às alterações climáticas, uma vez que quaisquer vulnerabilidades poderão assumir um efeito multiplicador, com repercussões noutros sectores de atividade e nos consumidores. Esta preocupação e visão integrada já se encontra consagrada na Estratégia Nacional de Adaptação às Alterações Climáticas 2020, que identifica a energia com um dos setores prioritários. Na sequência, a Lei de Bases do Clima - [Lei n.º 98/2021](https://diariodarepublica.pt/dr/detalhe/lei/98-2021-176907481), de 31 de dezembro, preconiza a elaboração do plano setorial de adaptação às alterações climáticas que visa aprofundar de que forma o setor vai contribuir para uma sociedade resiliente ao clima até 2030.
 
-De referir ainda que, sendo reconhecido que os impactes das alterações climáticas têm forte componente territorial, decorre que a implementação da adaptação deve ser levada a cabo por agentes locais, o que constituiu um dos aspetos centrais que levou à criação do Programa AdaPT. Financiado pelos EEA Grants e pelo Fundo Ambiental, o Programa foi um marco importante no processo nacional de adaptação, impulsionando projetos estruturantes como o Climadapt.local, que deu origem a 27 estratégias municipais de adaptação, ao Portal do Clima, uma base de informação de cenarização climática para Portugal e à constituição de uma associação de municípios portugueses dedicada à adaptação local das alterações climáticas - Adapt.local<sup>83</sup>. O Programa AdaPT foi ainda responsável por impulsionar muitos outros projetos, apoiados por instrumentos financeiros europeus e nacionais, tanto ao nível do planeamento municipal e intermunicipal como da concretização de medidas de adaptação, em particular nas áreas da proteção costeira, do uso eficiente da água, da prevenção de incêndios rurais e da conservação da natureza. Atualmente, Portugal tem mais de 95 % do seu território coberto por planos de adaptação intermunicipais e/ou municipais, sendo de destacar neste âmbito o papel da Missão Adaptação às Alterações Climáticas<sup>84</sup>.
+De referir ainda que, sendo reconhecido que os impactes das alterações climáticas têm forte componente territorial, decorre que a implementação da adaptação deve ser levada a cabo por agentes locais, o que constituiu um dos aspetos centrais que levou à criação do Programa AdaPT. Financiado pelos EEA Grants e pelo Fundo Ambiental, o Programa foi um marco importante no processo nacional de adaptação, impulsionando projetos estruturantes como o Climadapt.local, que deu origem a 27 estratégias municipais de adaptação, ao Portal do Clima, uma base de informação de cenarização climática para Portugal e à constituição de uma associação de municípios portugueses dedicada à adaptação local das alterações climáticas - Adapt.local83. O Programa AdaPT foi ainda responsável por impulsionar muitos outros projetos, apoiados por instrumentos financeiros europeus e nacionais, tanto ao nível do planeamento municipal e intermunicipal como da concretização de medidas de adaptação, em particular nas áreas da proteção costeira, do uso eficiente da água, da prevenção de incêndios rurais e da conservação da natureza. Atualmente, Portugal tem mais de 95 % do seu território coberto por planos de adaptação intermunicipais e/ou municipais, sendo de destacar neste âmbito o papel da Missão Adaptação às Alterações Climáticas84.
 
 Com vista precisamente a dar ênfase à implementação de medidas de adaptação, mobilizando os diversos instrumentos financeiros atuais e definir o enquadramento dos futuros, foi adotado em 2019 o Programa de Ação para a Adaptação às Alterações Climáticas (P-3AC), com o horizonte 2030, o qual define as áreas prioritárias de intervenção em resposta às principais vulnerabilidades e impactes às alterações climáticas identificadas para o território nacional:
 
@@ -4944,7 +5553,8 @@ Nos resíduos de extração mineira, está previsto também o incremento do apro
 
 Figura 67 - Transições induzidas pela economia circular [Fonte: RNC2050]
 
-![](https://files.diariodarepublica.pt/images/914597185/914597532.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/914597185/914597532.png) |
+| --- |
 
 Papel da Bioeconomia
 
@@ -4968,11 +5578,11 @@ Para atingir os objetivos definidos para cada eixo de atuação, o PABS prevê u
 
 • Promover o desenvolvimento de produtos de base biológica em alternativa a produtos de origem fóssil, fomentando linhas de investigação para conceção de novos produtos através da utilização em cascata de recursos de base biológica, por exemplo na indústria do têxtil e do calçado e materiais de construção.
 
-5.2 - Impactos macroeconómicos e, na medida em que tal seja viável, na saúde, no ambiente, no emprego, na educação, nas competências e impactos sociais, incluindo aspetos transitórios<sup>85</sup>
+5.2 - Impactos macroeconómicos e, na medida em que tal seja viável, na saúde, no ambiente, no emprego, na educação, nas competências e impactos sociais, incluindo aspetos transitórios85
 
 A transformação do sistema energético terá implicações no resto da economia, seja por via do investimento em novas tecnologias, seja pela alteração dos custos da energia ou dos fluxos económicos entre os diferentes setores. Os impactes da descarbonização nos principais indicadores económicos designadamente, produção, consumo privado, investimento e emprego, foram avaliados através da ligação do modelo TIMES_PT ao modelo GEM-E3 PT.
 
-A modelação de ambos os cenários WEM e WAM, face a um cenário BAU<sup>86</sup>, apresenta um efeito positivo no PIB acima dos 2,5 % em 2030 e 2040 (Tabela 69), devido, entre outros fatores, ao aumento significativo da eficiência energética, que se reflete de forma economicamente positiva no custo de produção. Este resultado ilustra que o percurso da descarbonização do sistema energético nacional tem um impacto positivo em termos de crescimento da economia, o que está em linha com o estado da arte.
+A modelação de ambos os cenários WEM e WAM, face a um cenário BAU86, apresenta um efeito positivo no PIB acima dos 2,5 % em 2030 e 2040 (Tabela 69), devido, entre outros fatores, ao aumento significativo da eficiência energética, que se reflete de forma economicamente positiva no custo de produção. Este resultado ilustra que o percurso da descarbonização do sistema energético nacional tem um impacto positivo em termos de crescimento da economia, o que está em linha com o estado da arte.
 
 Tabela 69 - Impacte no PIB em 2030 e 2040 do cenário WAM e WEM face a um cenário BAU
 
@@ -4981,11 +5591,11 @@ Tabela 69 - Impacte no PIB em 2030 e 2040 do cenário WAM e WEM face a um cenár
 | WEM | 2,8 % | 2,5 % |
 | WAM | 2,7 % | 2,8 % |
 
-Os resultados da análise macroeconómica considerando os cenários WEM e WAM (Tabela 70) mostram que o impacte de um cenário de medidas adicionais consentâneas com a redução de -55 % em 2030 (WAM), face a 2005, comparativamente a um cenário de -45 % (WEM), tem um impacte negligenciável no PIB (entre +0,1 % a -0,3 % em 2030 e 2040, respetivamente), assim como no emprego e no consumo privado e um impacto positivo no investimento, isto é, verifica-se um aumento da ordem dos 2,0 e 1,2 % no investimento num cenário de mitigação mais ambicioso. Estes resultados e a sua ordem de grandeza estão em linha com resultados observados em exercícios similares, como os realizados pela Comissão Europeia (EU, 2024)<sup>87</sup>.
+Os resultados da análise macroeconómica considerando os cenários WEM e WAM (Tabela 70) mostram que o impacte de um cenário de medidas adicionais consentâneas com a redução de -55 % em 2030 (WAM), face a 2005, comparativamente a um cenário de -45 % (WEM), tem um impacte negligenciável no PIB (entre +0,1 % a -0,3 % em 2030 e 2040, respetivamente), assim como no emprego e no consumo privado e um impacto positivo no investimento, isto é, verifica-se um aumento da ordem dos 2,0 e 1,2 % no investimento num cenário de mitigação mais ambicioso. Estes resultados e a sua ordem de grandeza estão em linha com resultados observados em exercícios similares, como os realizados pela Comissão Europeia (EU, 2024)87.
 
 Tabela 70 - Impacte macroeconómicos nos principais indicadores agregados em 2030 e 2040 do cenário WAM face ao cenário WEM
 
-|  | WEM vs WAM | WEM vs WAM |
+|  | WEM vs WAM |  |
 | --- | --- | --- |
 |  | 2030 | 2040 |
 | PIB | 0,1 % | -0,3 % |
@@ -4997,7 +5607,7 @@ No que diz respeito ao emprego não se verificam alterações quando considerado
 
 Convém salientar que a análise setorial resulta em indicadores muito conservadores, uma vez que, face à sua natureza, os modelos de equilíbrio geral acomodam de forma muito limitada novos clusters energéticos e todos os impactes na macroeconomia associados a estes.
 
-Importa também referir que o impacte no PIB não considera os impactes económicos positivos associados à mitigação das alterações e o custo da inação. De facto, estima-se que os impactos das alterações climáticas poderão corresponder até cerca de 1 % do PIB da UE já nos próximos anos, atingindo até 2,3 % em meados do século (EU, 2024)<sup>87</sup>.
+Importa também referir que o impacte no PIB não considera os impactes económicos positivos associados à mitigação das alterações e o custo da inação. De facto, estima-se que os impactos das alterações climáticas poderão corresponder até cerca de 1 % do PIB da UE já nos próximos anos, atingindo até 2,3 % em meados do século (EU, 2024)87.
 
 Além disso, importa também referir que os impactes macroeconómicos apresentados apenas refletem as alterações inerentes ao sistema energético existindo uma série de fatores que podem afetar a evolução da economia e que não são acomodados no presente exercício, tais como:
 
@@ -5033,7 +5643,7 @@ Cobenefícios da descarbonização e da transição energética para a qualidade
 
 Muitos dos processos que emitem GEE são também responsáveis pela emissão de outros poluentes atmosféricos que estão na origem de problemas ambientais como a degradação da qualidade do ar, a acidificação e a eutrofização, provocando danos nos ecossistemas com a consequente perda de biodiversidade e problemas de saúde humana, em particular os do foro respiratório e cardiovascular. A poluição do ar tem também impactes económicos consideráveis, reduzindo a esperança média de vida, aumentando os custos médicos e reduzindo a produtividade com impacte em toda a economia.
 
-A poluição do ar é já hoje identificada como a principal causa ambiental de morte na europa, sendo que a Organização Mundial de Saúde identifica as partículas em suspensão (PM), os óxidos de azoto (NO e NO<sub>2</sub>), o dióxido de enxofre (SO<sub>2</sub>) e o ozono troposférico (O<sub>3</sub>) como os poluentes atmosféricos mais prejudiciais. O ozono, ao contrário dos outros poluentes não é emitido diretamente, mas é um poluente que se forma na atmosfera na presença de outros poluentes, como os óxidos de azoto.
+A poluição do ar é já hoje identificada como a principal causa ambiental de morte na europa, sendo que a Organização Mundial de Saúde identifica as partículas em suspensão (PM), os óxidos de azoto (NO e NO2), o dióxido de enxofre (SO2) e o ozono troposférico (O3) como os poluentes atmosféricos mais prejudiciais. O ozono, ao contrário dos outros poluentes não é emitido diretamente, mas é um poluente que se forma na atmosfera na presença de outros poluentes, como os óxidos de azoto.
 
 No que se refere às partículas em suspensão, as mesmas têm origem em várias fontes, mas principalmente na queima de combustíveis fósseis e biomassa, e constituem o grupo de poluentes mais prejudiciais à saúde. Quanto mais pequenas forem estas partículas, maior é a probabilidade de penetrarem profundamente no aparelho respiratório e maior o risco de induzirem efeitos negativos na saúde. As partículas inaláveis de menores dimensões (PM10 e PM2.5) chegam aos pulmões e as PM2.5, as mais finas, chegam mesmo a entrar na corrente sanguínea.
 
@@ -5047,7 +5657,7 @@ No ano 2021, verificou-se em Portugal um decréscimo de 3,3 % de dias com índic
 
 A análise relativa ao período entre 2002 e 2021 permite identificar uma tendência decrescente na percentagem de dias com classificação «Fraco» e «Mau», tendo diminuído de cerca de 17 % em 2005 para 1,9 % em 2021.
 
-As estimativas dos impactos na saúde atribuíveis à exposição à poluição do ar<sup>88</sup> indicam que as concentrações de PM2.5 em 2021 foram responsáveis por cerca de 2 110 mortes prematuras originadas pela exposição a longo prazo em Portugal. Os impactos estimados da exposição às concentrações de NO<sub>2</sub> e O<sub>3</sub> em Portugal foram, respetivamente, de cerca de 550 e 460 mortes prematuras em 2021.
+As estimativas dos impactos na saúde atribuíveis à exposição à poluição do ar88 indicam que as concentrações de PM2.5 em 2021 foram responsáveis por cerca de 2 110 mortes prematuras originadas pela exposição a longo prazo em Portugal. Os impactos estimados da exposição às concentrações de NO2 e O3 em Portugal foram, respetivamente, de cerca de 550 e 460 mortes prematuras em 2021.
 
 Na União Europeia (UE), nos últimos 20 anos, foi alcançado um progresso importante no domínio das emissões antropogénicas atmosféricas e da qualidade do ar, em especial através de políticas específicas, nomeadamente da designada Estratégia Temática sobre Poluição Atmosférica e de instrumentos legais que limitam as emissões totais anuais de poluentes atmosféricos, nos Estados-Membros.
 
@@ -5055,7 +5665,7 @@ Contudo, subsistem ainda impactes negativos e riscos importantes para a saúde h
 
 A obrigação de redução de emissões para cada poluente e para cada um dos períodos (2020 a 2030 e para além de 2030) é estabelecida face ao valor registado no ano de referência de 2005, havendo assim para cada poluente uma percentagem de redução obrigatória a cumprir. Desta forma, a redução das emissões deverá ser progressiva e contribuir simultaneamente para os objetivos de melhoria da qualidade do ar.
 
-Em Portugal, não obstante a tendência de caráter positivo que se tem verificado ao longo das duas últimas décadas, persistem ainda problemas de qualidade do ar em alguns locais. Estes verificam-se principalmente em áreas urbanas densamente povoadas, onde ainda se observam concentrações que excedem os valores-limite para a saúde humana, designadamente de dióxido de azoto (NO<sub>2</sub>). Existem também zonas onde é frequente a ocorrência de valores superiores ao objetivo de longo prazo para o ozono<sup>89</sup>.
+Em Portugal, não obstante a tendência de caráter positivo que se tem verificado ao longo das duas últimas décadas, persistem ainda problemas de qualidade do ar em alguns locais. Estes verificam-se principalmente em áreas urbanas densamente povoadas, onde ainda se observam concentrações que excedem os valores-limite para a saúde humana, designadamente de dióxido de azoto (NO2). Existem também zonas onde é frequente a ocorrência de valores superiores ao objetivo de longo prazo para o ozono89.
 
 Os poluentes atmosféricos e os GEE interligam-se de diferentes formas, especialmente no que se refere a fontes de emissão comuns, em particular aquelas associadas à combustão de combustíveis fósseis em fontes fixas e móveis.
 
@@ -5161,7 +5771,7 @@ Também o setor financeiro deverá incorporar, nas suas políticas de investimen
 
 Portugal está empenhado em redirecionar os fluxos financeiros para a promoção da descarbonização e da transição energética, fomentando designadamente o desenvolvimento de um quadro favorável para o financiamento sustentável e um maior envolvimento do sistema financeiro nestas temáticas na presente década. Neste contexto, importa relevar o contributo do Grupo de Reflexão para o Financiamento Sustentável, constituído em 2019, coordenado pelo Ministério do Ambiente e da Ação Climática, em parceria com o Ministério das Finanças e o Ministério da Economia e do Mar, e que incluí os principais atores, públicos e privados, do setor financeiro em Portugal, contando ainda com o apoio do Banco de Portugal.
 
-O Grupo de Reflexão identificou as áreas essenciais e um conjunto de recomendações<sup>90</sup>, inscritas nas «Linhas de orientação para acelerar o financiamento sustentável em Portugal», que identifica as áreas essenciais e recomendações neste domínio, com diferentes âmbitos temporais, para que o setor financeiro nacional possa contribuir para acelerar este processo de transição. A participação ativa e o consenso alcançado entre as 20 instituições do Grupo de Reflexão conduziram à assinatura da «Carta de Compromisso para o Financiamento Sustentável em Portugal» que contempla a adoção de compromissos específicos para um financiamento que promova a descarbonização da economia e o desenvolvimento sustentável pelos signatários.
+O Grupo de Reflexão identificou as áreas essenciais e um conjunto de recomendações90, inscritas nas «Linhas de orientação para acelerar o financiamento sustentável em Portugal», que identifica as áreas essenciais e recomendações neste domínio, com diferentes âmbitos temporais, para que o setor financeiro nacional possa contribuir para acelerar este processo de transição. A participação ativa e o consenso alcançado entre as 20 instituições do Grupo de Reflexão conduziram à assinatura da «Carta de Compromisso para o Financiamento Sustentável em Portugal» que contempla a adoção de compromissos específicos para um financiamento que promova a descarbonização da economia e o desenvolvimento sustentável pelos signatários.
 
 Para além de continuarem a acompanhar e participar nos trabalhos futuros decorrentes do Grupo de Reflexão as instituições financeiras signatárias e a Euronext Lisbon assumiram ainda os seguintes compromissos:
 
@@ -5241,7 +5851,7 @@ Este instrumento tem como objetivo construir, desenvolver, modernizar e completa
 
 Com um enquadramento financeiro para o período compreendido entre 1 de janeiro de 2021 e 31 de dezembro de 2027, de 33,7 mil milhões de euros, e em consonância com os compromissos da União no âmbito do Acordo de Paris e os Objetivos de Desenvolvimento Sustentável das Nações Unidas, o MIE deverá contribuir, através das suas ações, com 60 % da sua dotação global para os objetivos climáticos, tendo em conta os seguintes coeficientes:
 
-i) 100 % das despesas relativas à infraestrutura ferroviária, à infraestrutura de carregamento, aos combustíveis alternativos e sustentáveis, aos transportes urbanos não poluentes, ao transporte da eletricidade e ao seu armazenamento, às redes inteligentes, ao transporte de CO<sub>2</sub> e às energias renováveis;
+i) 100 % das despesas relativas à infraestrutura ferroviária, à infraestrutura de carregamento, aos combustíveis alternativos e sustentáveis, aos transportes urbanos não poluentes, ao transporte da eletricidade e ao seu armazenamento, às redes inteligentes, ao transporte de CO2 e às energias renováveis;
 
 ii) 40 % para as vias navegáveis interiores e o transporte multimodal e, bem assim, para a infraestrutura do gás - se permitir uma maior utilização de hidrogénio renovável ou de biometano.
 
@@ -5307,7 +5917,7 @@ Este mecanismo de financiamento consiste em empréstimos, garantias de emprésti
 
 Fundo para a Transição Justa
 
-No âmbito do Fundo para a Transição Justa Portugal dispõe, no período 2021-2027, de um total de 223, 8 milhões destinados a garantir que a transição para uma economia com impacto neutro no clima ocorre de maneira justa, equitativa e coesa, isto é, sem deixar ninguém para trás, sobretudo nas regiões até então economicamente dependentes de indústrias associadas à produção de energia baseada em carvão ou petróleo. Face à cessação da produção de eletricidade a partir de carvão nas duas maiores centrais emissoras de CO<sub>2</sub> do país - a central de Sines (na região do Alentejo Litoral) e a central do Pêgo (na região do Médio Tejo), ambas em 2021, e ao encerramento da refinaria de petróleo em Matosinhos, em 2020, é fundamental promover o desenvolvimento económico destas três regiões e a diversificação das atividades económicas existentes nas mesmas.
+No âmbito do Fundo para a Transição Justa Portugal dispõe, no período 2021-2027, de um total de 223, 8 milhões destinados a garantir que a transição para uma economia com impacto neutro no clima ocorre de maneira justa, equitativa e coesa, isto é, sem deixar ninguém para trás, sobretudo nas regiões até então economicamente dependentes de indústrias associadas à produção de energia baseada em carvão ou petróleo. Face à cessação da produção de eletricidade a partir de carvão nas duas maiores centrais emissoras de CO2 do país - a central de Sines (na região do Alentejo Litoral) e a central do Pêgo (na região do Médio Tejo), ambas em 2021, e ao encerramento da refinaria de petróleo em Matosinhos, em 2020, é fundamental promover o desenvolvimento económico destas três regiões e a diversificação das atividades económicas existentes nas mesmas.
 
 Assim, no Alentejo Litoral e Médio Tejo, este fundo irá permitir diversificar a economia local através do apoio à investigação e inovação em pequenas e médias empresas (PMEs) no setor das energias renováveis, agroalimentar e turismo e mobilidade sustentável. Como tal, prevê-se que o Fundo crie cerca de 200 novos postos de trabalho e apoie a reorientação profissional dos trabalhadores da região afetada pelo encerramento das centrais a carvão, através de ações de formação e requalificação. Em Matosinhos, o Fundo para a Transição Justa apoiará a criação de um novo centro de inovação com particular enfoque na mobilidade sustentável, energias limpas, manufatura avançada e economia marítima. Nesta região, este fundo permitirá criar 150 novos postos de trabalho nas PME apoiadas e requalificar 170 desempregados de longa duração.
 
@@ -5347,7 +5957,7 @@ O Fundo foi criado através do [Decreto-Lei n.º 86-C/2016](https://diariodarepu
 
 Fundo Azul
 
-O Fundo Azul, criado pelo [Decreto-Lei n.º 16/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2016-73807563), de 9 de março, alterado pelos Decretos-Leis n.<sup>os</sup>[123/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), de 30 de dezembro, e n.º [84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, tem por finalidade o desenvolvimento da economia do mar, a investigação científica e tecnológica, a proteção e monitorização do meio marinho e a segurança marítima, através da criação ou do reforço de mecanismos de financiamento de entidades, atividades ou projetos que cumpram os objetivos estabelecidos no respetivo diploma de criação.
+O Fundo Azul, criado pelo [Decreto-Lei n.º 16/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2016-73807563), de 9 de março, alterado pelos Decretos-Leis n.os[123/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), de 30 de dezembro, e n.º [84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, tem por finalidade o desenvolvimento da economia do mar, a investigação científica e tecnológica, a proteção e monitorização do meio marinho e a segurança marítima, através da criação ou do reforço de mecanismos de financiamento de entidades, atividades ou projetos que cumpram os objetivos estabelecidos no respetivo diploma de criação.
 
 Fundo Nacional de Reabilitação do Edificado (FNRE)
 
@@ -5497,16 +6107,18 @@ iii) Se pertinente, impactos na cooperação regional
 
 Não disponível nesta fase
 
-## ANEXO I — Tabela 71 - Custo das principais tecnologias de geração de eletricidade considerados no modelo TIMES_PT (preços €2016)
+ANEXO I
 
-| Unidade: | MW | anos | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/GJ | EUR/GJ | EUR/GJ | EUR/GJ | Ref. |
+Tabela 71 - Custo das principais tecnologias de geração de eletricidade considerados no modelo TIMES_PT (preços €2016)
+
+| Tecnologia | Tamanho médio | Tempo de vida Técnico | Custos de Investimento (CAPEX) | Custos Fixos de operação e manutenção | Custos Variáveis de operação e manutenção(exc. Custos de energia) | Ref. |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tecnologia | Tamanho médio | Tempo de vida Técnico | Custos de Investimento (CAPEX) | Custos de Investimento (CAPEX) | Custos de Investimento (CAPEX) | Custos de Investimento (CAPEX) | Custos Fixos de operação e manutenção | Custos Fixos de operação e manutenção | Custos Fixos de operação e manutenção | Custos Fixos de operação e manutenção | Custos Variáveis de operação e manutenção(exc. Custos de energia) | Custos Variáveis de operação e manutenção(exc. Custos de energia) | Custos Variáveis de operação e manutenção(exc. Custos de energia) | Custos Variáveis de operação e manutenção(exc. Custos de energia) | Ref. |
-| Tecnologia | Tamanho médio | Tempo de vida Técnico | 2020 | 2030 | 2040 | 2050 | 2020 | 2030 | 2040 | 2050 | 2020 | 2030 | 2040 | 2050 | Ref. |
+| 2020 | 2030 | 2040 | 2050 | 2020 | 2030 | 2040 | 2050 | 2020 | 2030 | 2040 | 2050 |  |  |  |  |
+| Unidade: | MW | anos | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/kW | EUR/GJ | EUR/GJ | EUR/GJ | EUR/GJ |  |
 | Gás Natural |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Gás Ciclo Combinado convencional | 550 | 35 | 758,57 | 758,57 | 758,57 | 758,57 | 18,96 | 18,96 | 18,96 | 18,96 | 1,00 | 1,00 | 1,00 | 1,00 | JRC (2013) |
 | Gás Ciclo Combinado Avançada | 550 | 35 | 618,72 | 618,72 | 618,72 | 618,72 | 12,43 | 12,43 | 12,43 | 12,43 | 1,00 | 1,00 | 1,00 | 1,00 | EDP (2018) |
-| Gás Ciclo Combinado com captura de CO<sub>2</sub> pos combustão | 550 | 35 |  | 1 226,00 | 1 193,00 | 1 160,00 |  | 44,00 | 43,00 | 42,00 |  |  |  |  | JRC (2013) |
+| Gás Ciclo Combinado com captura de CO2 pos combustão | 550 | 35 |  | 1 226,00 | 1 193,00 | 1 160,00 |  | 44,00 | 43,00 | 42,00 |  |  |  |  | JRC (2013) |
 | Gas Ciclo Aberto (Peaker) Avançada (OGCC) | 550 | 35 | 515,00 | 505,00 | 503,00 | 501,00 | 13,00 | 13,00 | 13,00 | 13,00 | 1,00 | 1,00 | 1,00 | 1,00 | JRC (2013) |
 | Hídrica |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Hidroelétrica de fio de água |  | 70 | 1 450,00 | 1 339,00 | 1 226,00 | 1 209,00 | 15,00 | 13,00 | 12,00 | 12,00 |  |  |  |  | (1) |
@@ -5546,10 +6158,10 @@ E3-Modeling 2022 - REF2020_Technology Assumptions_Energy
 
 Tabela 72 - Custo das principais tecnologias do setor dos transportes e mobilidade geração de eletricidade considerados no modelo TIMES_PT (preços €2016)
 
-| Unidade | k€/veículo | k€/veículo | k€/veículo | k€/ano | k€/ano | k€/ano | Mvkm/PJ | Mvkm/PJ | Mvkm/PJ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Categoria e tipologia de veículo | 2030 | 2040 | 2050 | 2030 | 2040 | 2050 | 2030 | 2040 | 2050 |
-| Ligeiros Passageiros | Ligeiros Passageiros | Ligeiros Passageiros | Ligeiros Passageiros | Ligeiros Passageiros | Ligeiros Passageiros | Ligeiros Passageiros | Ligeiros Passageiros | Ligeiros Passageiros | Ligeiros Passageiros |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade | k€/veículo | k€/veículo | k€/veículo | k€/ano | k€/ano | k€/ano | Mvkm/PJ | Mvkm/PJ | Mvkm/PJ |
+| Ligeiros Passageiros |  |  |  |  |  |  |  |  |  |
 | Veículo a Gasolina | 20,46 | 20,43 | 20,42 | 0,61 | 0,61 | 0,61 | 473,9 | 518,1 | 571,4 |
 | Veículo Híbrido Gasolina | 20,51 | 20,51 | 20,51 | 0,62 | 0,62 | 0,62 | 645,2 | 711,7 | 793,7 |
 | Veículo Híbrido PlugIn/ Gasolina | 20,47 | 20,21 | 20,21 | 0,20 | 0,20 | 0,20 | 1 000,0 | 1 089,9 | 1 186,0 |
@@ -5564,10 +6176,10 @@ Tabela 72 - Custo das principais tecnologias do setor dos transportes e mobilida
 | Veículo a Hidrogénio/ Fuel Cell | 44,17 | 32,32 | 23,47 | 0,44 | 0,32 | 0,23 | 862,1 | 947,9 | 1 052,6 |
 | Veículo Híbrido PlugIn/ Hidrogénio gasoso | 41,67 | 30,41 | 27,61 | 0,42 | 0,30 | 0,28 | 1 097,2 | 1 196,9 | 1 307,3 |
 | Veículo Híbrido Gás Natural Comprimido | 23,00 | 23,00 | 23,00 | 0,69 | 0,69 | 0,69 | 632,9 | 699,3 | 781,3 |
-| Moto | Moto | Moto | Moto | Moto | Moto | Moto | Moto | Moto | Moto |
+| Moto |  |  |  |  |  |  |  |  |  |
 | Veículo Elétrico | 6,98 | 6,57 | 6,18 | 0,14 | 0,13 | 0,11 | 5 422,6 | 5 658,3 | 5 658,3 |
 | Veículo a Gasolina | 5,84 | 5,84 | 5,84 | 0,29 | 0,29 | 0,29 | 957,1 | 978,2 | 978,2 |
-| Pesados Passageiros | Pesados Passageiros | Pesados Passageiros | Pesados Passageiros | Pesados Passageiros | Pesados Passageiros | Pesados Passageiros | Pesados Passageiros | Pesados Passageiros | Pesados Passageiros |
+| Pesados Passageiros |  |  |  |  |  |  |  |  |  |
 | BUS Interurbano - Veículo a Gasóleo | 286,73 | 281,43 | 276,14 | 7,15 | 7,16 | 7,17 | 119,5 | 125,5 | 131,5 |
 | BUS Interurbano - Veículo a Gás Natural | 382,30 | 375,24 | 368,19 | 8,45 | 8,31 | 8,16 | 98,9 | 104,2 | 109,6 |
 | BUS Interurbano - Veículo a Hidrogénio/ Fuel Cell | 444,27 | 316,48 | 275,45 | 14,27 | 12,02 | 9,77 | 234,1 | 248,6 | 263,1 |
@@ -5578,7 +6190,7 @@ Tabela 72 - Custo das principais tecnologias do setor dos transportes e mobilida
 | BUS Urbano - Veículo a Gasolina | 286,73 | 281,43 | 276,14 | 7,90 | 7,91 | 7,92 | 50,3 | 51,4 | 52,6 |
 | BUS Urbano - Veículo Híbrido PlugIn/ Gasóleo | 409,79 | 403,19 | 396,59 | 12,44 | 11,89 | 11,71 | 92,8 | 93,7 | 94,0 |
 | BUS Urbano - Veículo Elétrico | 340,49 | 301,41 | 262,33 | 13,34 | 12,76 | 12,57 | 208,9 | 210,3 | 210,8 |
-| Pesados Mercadorias | Pesados Mercadorias | Pesados Mercadorias | Pesados Mercadorias | Pesados Mercadorias | Pesados Mercadorias | Pesados Mercadorias | Pesados Mercadorias | Pesados Mercadorias | Pesados Mercadorias |
+| Pesados Mercadorias |  |  |  |  |  |  |  |  |  |
 | Veículo a Gasóleo | 190,67 | 187,21 | 186,93 | 5,72 | 5,62 | 5,61 | 105,4 | 118,3 | 131,2 |
 | Veículo Híbrido Gasóleo | 208,10 | 208,29 | 208,49 | 6,24 | 6,25 | 6,25 | 107,8 | 118,1 | 127,8 |
 | Veículo a Biocombustível | 190,67 | 187,21 | 186,93 | 5,72 | 5,62 | 5,61 | 105,4 | 118,3 | 131,2 |
@@ -5594,7 +6206,7 @@ Tabela 72 - Custo das principais tecnologias do setor dos transportes e mobilida
 | Veículo Elétrico - Catenária | 239,03 | 196,00 | 168,45 | 2,39 | 1,96 | 1,68 | 219,7 | 233,5 | 247,3 |
 | Veículo Elétrico - Indução | 232,34 | 196,00 | 168,45 | 2,32 | 1,96 | 1,68 | 143,3 | 152,9 | 162,7 |
 | Veículo Elétrico - Bateria | 253,13 | 201,89 | 168,45 | 2,53 | 2,02 | 1,68 | 214,2 | 220,5 | 226,8 |
-| Ligeiros Mercadorias | Ligeiros Mercadorias | Ligeiros Mercadorias | Ligeiros Mercadorias | Ligeiros Mercadorias | Ligeiros Mercadorias | Ligeiros Mercadorias | Ligeiros Mercadorias | Ligeiros Mercadorias | Ligeiros Mercadorias |
+| Ligeiros Mercadorias |  |  |  |  |  |  |  |  |  |
 | Veículo a Gasolina | 20,46 | 20,43 | 20,42 | 0,75 | 0,75 | 0,75 | 473,9 | 518,1 | 571,4 |
 | Veículo Híbrido Gasolina | 20,51 | 20,51 | 20,51 | 0,83 | 0,79 | 0,77 | 645,2 | 711,7 | 793,7 |
 | Veículo Híbrido PlugIn/ Gasolina | 20,47 | 20,21 | 20,21 | 0,88 | 0,88 | 0,86 | 1 000,0 | 1 117,3 | 1 265,8 |
@@ -5667,11 +6279,13 @@ Transportes & Mobilidade
 
 - Weldon, P., Morrissey, P., & O’Mahony, M. (2018). Long-Term Cost of Ownership Comparative Analysis between Electric Vehicles and Internal Combustion Engine Vehicles. Sustainable Cities and Society, 39(March), 578-591
 
-## ANEXO II — Tabela 73 - Componente do PRR relacionada com as linhas de atuação por dimensão
+ANEXO II
 
-| Dimensão descarbonização | Dimensão descarbonização | Dimensão descarbonização |
-| --- | --- | --- |
+Tabela 73 - Componente do PRR relacionada com as linhas de atuação por dimensão
+
 | Linhas de atuação por dimensão | Componente do PRR relacionada | Investimento/Reforma |
+| --- | --- | --- |
+| Dimensão descarbonização |  |  |
 | 1.1 Promover a descarbonização do setor eletroprodutor | C21 | C14-i02-RAM; C14-i03-RAA; C21-i07 |
 | 1.2 Prosseguir com a aplicação do regime cele | - | - |
 | 1.3 Reduzir a intensidade carbónica do parque de edifícios | C10; C13; C14; C21 | C10-i01; C10-i04-RAA; C13-i01; C13-i02; C13-i03; C14-i03-RAA; C21-I02; C21-I03 |
@@ -5706,7 +6320,7 @@ Transportes & Mobilidade
 | 5.7 Promover a mobilidade ativa e comportamentos mais eficientes | C01 | C01-i09 |
 | 5.8 Promover o transporte de mercadorias por via ferroviária e marítima | C10; C15; C21 | C10-i07; C15-i06; C21-i15-RAA |
 | 1.7 Prosseguir com a fiscalidade verde | - | - |
-| Dimensão eficiência energética | Dimensão eficiência energética | Dimensão eficiência energética |
+| Dimensão eficiência energética |  |  |
 | 2.2 Promover equipamentos mais eficientes | C05; C11 | C05-i01.02; C11-i01 |
 | 6.4 Adotar práticas agrícolas e florestais mais eficientes em energia e água | C09 | C09-i01; C09-i01.02; C09-i03-RAM; C21-i01; C21-i02 |
 | 7.2 Promover a eficiência energética e de recursos | C05; 10; C11 | C05-i01.02; C10-i02; C11-i01 |
@@ -5714,20 +6328,20 @@ Transportes & Mobilidade
 | 1.5 Descarbonizar a administração pública | C01; C06; C12; C13 | C01-i01; C06-i01; C06-i05-RAA; C12-r25; C13-i02; C21-i04-RAM |
 | 2.4 Promover a eficiência energética na iluminação pública | C14 | C14-RAA; |
 | 2.5 Promover a formação profissional para o setor da eficiência energética | C21 | C21-r45 |
-| Dimensão segurança de abastecimento | Dimensão segurança de abastecimento | Dimensão segurança de abastecimento |
+| Dimensão segurança de abastecimento |  |  |
 | 4.1 Promover os sistemas de armazenamento | C09; C14 | C09-i02; C14-RAM; C14-RAA; C21-i08; C21-i10-RAA; C21-i11-RAM |
 | 4.4 Promover a digitalização do sistema energético | C14 | C14-RAM |
 | 4.5 Promover o adequado planeamento do sistema energético nacional rumo à transição energética | C21 | C21-r47; C21-r46; C21-r48 |
 | 4.6 Realizar as necessárias avaliações de risco, planos preventivos de ação e de emergência no setor energético |  |  |
 | 4.7 Ajustar o papel do gás natural na matriz energética, apostando na descarbonização do setor | C05; C11; C12; C14 | C05-i01.02; C11-i01; C12-i01; C14-i01 |
 | 4.8 Promover a diversificação das fontes e rotas de aprovisionamento de recursos energéticos | C14 | C14-RAA; C14-RAM |
-| Dimensão mercado interno da energia | Dimensão mercado interno da energia | Dimensão mercado interno da energia |
+| Dimensão mercado interno da energia |  |  |
 | 4.2 Promover o desenvolvimento das interligações |  |  |
 | 4.9 Promover a integração no mercado interno europeu de energia | - | - |
 | 4.3 Promover a introdução de novos instrumentos de gestão do sistema elétrico nacional | C14 |  |
 | 8.1 Assegurar a transição justa | - | - |
 | 8.2 Combater a pobreza energética e aperfeiçoar os instrumentos de proteção a clientes vulneráveis | C13 | C13-i01; C21-r43; C21-r44 |
-| Dimensão investigação, inovação e competitividade | Dimensão investigação, inovação e competitividade | Dimensão investigação, inovação e competitividade |
+| Dimensão investigação, inovação e competitividade |  |  |
 | 1.9 Promover projetos de I&D que constituam suporte à transição para uma economia neutra em carbono | C05 | C05-i01.02; C05-i03 |
 | 2.6 Incentivar I&I no domínio da eficiência energética | C05 | C05-i01.02; C05-i03 |
 | 3.8 Incentivar I&I em energias renováveis, armazenamento, hidrogénio, biocombustíveis avançados e outros combustíveis 100 % renováveis | C05 | C05-i01.02 |
@@ -5740,48 +6354,48 @@ Tabela 74 - Contributo das medidas do PRR para as linhas de atuação em termos 
 | Componente do PRR | Investimento | Nome do Investimento | Dotação Final | Linha de atuação relacionada |
 | --- | --- | --- | --- | --- |
 | C08 - Florestas | C08-i01.01 | Transformação da Paisagem dos Territórios de Floresta Vulneráveis - «Áreas integradas de gestão da paisagem (AIGP) e Condomínios de Aldeia» | 256.623.802 € | 6.5 |
-| C08 - Florestas | C08-i01.02 | Transformação da Paisagem dos Territórios de Floresta Vulneráveis: Programas de Reordenamento e Gestão da Paisagem | 3.376.050 € | 6.5 |
-| C08 - Florestas | C08-i01.03 | Transformação da Paisagem dos Territórios de Floresta Vulneráveis - Emparcelar para Ordenar | 10.000.148 € | 6.5 |
-| C08 - Florestas | C08-i02.01 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: SMOS | 29.370.000 € | 6.8 |
-| C08 - Florestas | C08-i02.02 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: Inventário Florestal Nacional | 1.630.000 € | 6.8 |
-| C08 - Florestas | C08-i02.03 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: Sistema Nacional de Cadastro Predial | 45.000.000 € | 6.8 |
-| C08 - Florestas | C08-i02.04 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: Sistema Nacional de Cadastro Predial - Dimensão Local Região Norte | 5.000.000 € | 6.8 |
-| C08 - Florestas | C08-i02.05 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: Sistema Nacional de Cadastro Predial - Dimensão Local Região Centro | 5.000.000 € | 6.8 |
-| C08 - Florestas | C08-i03 | Faixas de gestão de combustível - Rede Primária | 120.000.000 € | 6.6 |
-| C08 - Florestas | C08-i04.01 | Meios de prevenção e combate a incêndios rurais - Subinvestimento Meios aéreos | 70.000.000 € | 6.6 |
-| C08 - Florestas | C08-i04.02 | Meios de prevenção e combate a incêndios rurais - Subinvestimento Meios terrestres | 15.960.000 € | 6.6 |
-| C08 - Florestas | C08-i04.03 | Meios de prevenção e combate a incêndios rurais: Rede de radares | 3.040.000 € | 6.6 |
-| C08 - Florestas | C08-i05.01 | Programa MAIS Floresta: Reforma do sistema de prevenção e combate de incêndios | 40.000.000 € | 6.6 |
-| C08 - Florestas | C08-i05.02 | Programa MAIS Floresta: Reforço de atuação das organizações de produtores florestais (OPF) e dos Centros de Competências no setor florestal | 10.000.000 € | 6.6 |
+| C08-i01.02 | Transformação da Paisagem dos Territórios de Floresta Vulneráveis: Programas de Reordenamento e Gestão da Paisagem | 3.376.050 € | 6.5 |  |
+| C08-i01.03 | Transformação da Paisagem dos Territórios de Floresta Vulneráveis - Emparcelar para Ordenar | 10.000.148 € | 6.5 |  |
+| C08-i02.01 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: SMOS | 29.370.000 € | 6.8 |  |
+| C08-i02.02 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: Inventário Florestal Nacional | 1.630.000 € | 6.8 |  |
+| C08-i02.03 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: Sistema Nacional de Cadastro Predial | 45.000.000 € | 6.8 |  |
+| C08-i02.04 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: Sistema Nacional de Cadastro Predial - Dimensão Local Região Norte | 5.000.000 € | 6.8 |  |
+| C08-i02.05 | Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo: Sistema Nacional de Cadastro Predial - Dimensão Local Região Centro | 5.000.000 € | 6.8 |  |
+| C08-i03 | Faixas de gestão de combustível - Rede Primária | 120.000.000 € | 6.6 |  |
+| C08-i04.01 | Meios de prevenção e combate a incêndios rurais - Subinvestimento Meios aéreos | 70.000.000 € | 6.6 |  |
+| C08-i04.02 | Meios de prevenção e combate a incêndios rurais - Subinvestimento Meios terrestres | 15.960.000 € | 6.6 |  |
+| C08-i04.03 | Meios de prevenção e combate a incêndios rurais: Rede de radares | 3.040.000 € | 6.6 |  |
+| C08-i05.01 | Programa MAIS Floresta: Reforma do sistema de prevenção e combate de incêndios | 40.000.000 € | 6.6 |  |
+| C08-i05.02 | Programa MAIS Floresta: Reforço de atuação das organizações de produtores florestais (OPF) e dos Centros de Competências no setor florestal | 10.000.000 € | 6.6 |  |
 | C09 - Gestão hídrica | C09-i01.01 | Plano Regional de Eficiência Hídrica do Algarve: SM1 - Reduzir perdas de água no setor urbano | 43.900.000 € | 1.12 |
-| C09 - Gestão hídrica | C09-i01.02 | Plano Regional de Eficiência Hídrica do Algarve: SM2 - Reduzir perdas de água e aumentar a eficiência no setor agrícola | 18.500.000 € | 1.12 |
-| C09 - Gestão hídrica | C09-i01.03 | Plano Regional de Eficiência Hídrica do Algarve: SM3 - Reforçar a governança dos recursos hídricos | 5.500.000 € | 1.12 |
-| C09 - Gestão hídrica | C09-i01.04 | Plano Regional de Eficiência Hídrica do Algarve: SM4 - Promover a utilização de Água Residual Tratada, SM5 - Aumentar a capacidade disponível e resiliência das albufeiras/sistemas de adução em alta existentes e reforçar com novas origens de água e SM | 169.498.742 € | 1.12 |
-| C09 - Gestão hídrica | C09-i03-RAM | Plano de eficiência e reforço hídrico dos sistemas de abastecimento e regadio da RAM | 82.150.386 € | 1.12 |
-| C09 - Gestão hídrica | C09-i04 | Aproveitamento hidráulico de fins múltiplos do Crato - fase de construção | 141.262.968 € |  |
+| C09-i01.02 | Plano Regional de Eficiência Hídrica do Algarve: SM2 - Reduzir perdas de água e aumentar a eficiência no setor agrícola | 18.500.000 € | 1.12 |  |
+| C09-i01.03 | Plano Regional de Eficiência Hídrica do Algarve: SM3 - Reforçar a governança dos recursos hídricos | 5.500.000 € | 1.12 |  |
+| C09-i01.04 | Plano Regional de Eficiência Hídrica do Algarve: SM4 - Promover a utilização de Água Residual Tratada, SM5 - Aumentar a capacidade disponível e resiliência das albufeiras/sistemas de adução em alta existentes e reforçar com novas origens de água e SM | 169.498.742 € | 1.12 |  |
+| C09-i03-RAM | Plano de eficiência e reforço hídrico dos sistemas de abastecimento e regadio da RAM | 82.150.386 € | 1.12 |  |
+| C09-i04 | Aproveitamento hidráulico de fins múltiplos do Crato - fase de construção | 141.262.968 € |  |  |
 | C10 - Mar | C10-i01 | Hub Azul, Rede de Infraestruturas para a Economia Azul | 99.199.719 € | 3.1 |
-| C10 - Mar | C10-i02 | Transição Verde e Digital e Segurança nas Pescas | 21.000.000 € | 7.1 |
-| C10 - Mar | C10-i03.01 | Centro de Operações de Defesa do Atlântico e Plataforma Naval - Pilar I - Plataforma Naval Multifuncional e Pilar II - Centro de Operações | 147.500.000 € |  |
-| C10 - Mar | C10-i03.02 | Centro de Operações de Defesa do Atlântico e Plataforma Naval - Pilar III - Academia do Arsenal do Alfeite (Academia 4.0) | 2.000.000 € |  |
-| C10 - Mar | C10-i04-RAA | Desenvolvimento do «Cluster do Mar dos Açores» | 48.100.000 € |  |
-| C10 - Mar | C10-i05-RAA | Transição energética, digitalização e redução do impacto ambiental no setor da Pesca e da Aquicultura | 5.000.000 € |  |
-| C10 - Mar | C10-i06-RAM | Tecnologias Oceânicas | 20.000.000 € | 3.1 |
-| C10 - Mar | C10-i07 | Green Shipping | 50.000.000 € | 4.8 |
+| C10-i02 | Transição Verde e Digital e Segurança nas Pescas | 21.000.000 € | 7.1 |  |
+| C10-i03.01 | Centro de Operações de Defesa do Atlântico e Plataforma Naval - Pilar I - Plataforma Naval Multifuncional e Pilar II - Centro de Operações | 147.500.000 € |  |  |
+| C10-i03.02 | Centro de Operações de Defesa do Atlântico e Plataforma Naval - Pilar III - Academia do Arsenal do Alfeite (Academia 4.0) | 2.000.000 € |  |  |
+| C10-i04-RAA | Desenvolvimento do «Cluster do Mar dos Açores» | 48.100.000 € |  |  |
+| C10-i05-RAA | Transição energética, digitalização e redução do impacto ambiental no setor da Pesca e da Aquicultura | 5.000.000 € |  |  |
+| C10-i06-RAM | Tecnologias Oceânicas | 20.000.000 € | 3.1 |  |
+| C10-i07 | Green Shipping | 50.000.000 € | 4.8 |  |
 | C11 - Descarbonização da indústria | C11-i01 | Descarbonização da Indústria | 737.000.000 € | 3.1/7.1/7.2/7.4 |
 | C12 - Bioeconomia | C12-i01.01 | Bioeconomia: Projetos Integrados (Têxtil e Vestuário, Calçado e Resina Natural) e Beneficiação de Povoamentos de Pinheiro Bravo com Potencial para a Resinagem | 140.250.000 € |  |
-| C12 - Bioeconomia | C12-i01.02 | Bioeconomia - Gestão Florestal e Apoio à Resinagem | 4.750.000 € | 6.7 |
+| C12-i01.02 | Bioeconomia - Gestão Florestal e Apoio à Resinagem | 4.750.000 € | 6.7 |  |
 | C13 - Eficiência energética nos edifícios | C13-i01 | Eficiência energética em edifícios residenciais | 300.000.000 € | 1.3/2.1/3.2/3.3 |
-| C13 - Eficiência energética nos edifícios | C13-i02 | Eficiência energética em edifícios da administração pública central | 240.000.000 € | 1.3/1.5/3.2/3.3 |
-| C13 - Eficiência energética nos edifícios | C13-i03 | Eficiência energética em edifícios de serviços | 70.000.000 € | 1.3/2.1/3.2/3.3 |
+| C13-i02 | Eficiência energética em edifícios da administração pública central | 240.000.000 € | 1.3/1.5/3.2/3.3 |  |
+| C13-i03 | Eficiência energética em edifícios de serviços | 70.000.000 € | 1.3/2.1/3.2/3.3 |  |
 | C14 - Gases renováveis | C14-i01 | Hidrogénio e gases renováveis | 185.000.000 € | 3.1/3.6/5.5/5.6 |
-| C14 - Gases renováveis | C14-i02-RAM | Potenciação da eletricidade renovável no Arquipélago da Madeira | 83.886.101 € | 1.1/3.1 |
-| C14 - Gases renováveis | C14-i03-RAA | Transição Energética nos Açores | 116.000.000 € | 1.1/1/3/3.1/3.2 |
+| C14-i02-RAM | Potenciação da eletricidade renovável no Arquipélago da Madeira | 83.886.101 € | 1.1/3.1 |  |
+| C14-i03-RAA | Transição Energética nos Açores | 116.000.000 € | 1.1/1/3/3.1/3.2 |  |
 | C15 - Mobilidade sustentável | C15-i01 | Expansão da Rede de Metro de Lisboa - Linha Vermelha até Alcântara | 357.509.619 € | 5.1 |
-| C15 - Mobilidade sustentável | C15-i02 | Expansão da Rede de Metro do Porto - Casa da Música-Santo Ovídio | 351.985.261 € | 5.1 |
-| C15 - Mobilidade sustentável | C15-i03 | Metro Ligeiro de Superfície Odivelas-Loures | 390.000.000 € | 5.1 |
-| C15 - Mobilidade sustentável | C15-i04 | Linha BRT Boavista - Império | 66.000.000 € | 5.1 |
-| C15 - Mobilidade sustentável | C15-i05 | Descarbonização dos Transportes Públicos | 48.000.000 € | 5.2 |
-| C15 - Mobilidade sustentável | C15-i06 | Digitalização do Transporte Ferroviário | 49.000.000 € |  |
+| C15-i02 | Expansão da Rede de Metro do Porto - Casa da Música-Santo Ovídio | 351.985.261 € | 5.1 |  |
+| C15-i03 | Metro Ligeiro de Superfície Odivelas-Loures | 390.000.000 € | 5.1 |  |
+| C15-i04 | Linha BRT Boavista - Império | 66.000.000 € | 5.1 |  |
+| C15-i05 | Descarbonização dos Transportes Públicos | 48.000.000 € | 5.2 |  |
+| C15-i06 | Digitalização do Transporte Ferroviário | 49.000.000 € |  |  |
 | C21 - REPowerEU | C21-i01 | Medida reforçada: Descarbonização da Indústria | 100.000.000 € | 7.1 |
 |  | C21-i02 | Medida reforçada: Eficiência energética em edifícios residenciais | 120.000.000 € | 1.3/2.1/3.2/3.3 |
 |  | C21-i03 | Medida reforçada: Eficiência energética em edifícios de serviços | 80.000.000 € | 1.3/2.1/3.2/3.3 |
@@ -5799,184 +6413,188 @@ Tabela 74 - Contributo das medidas do PRR para as linhas de atuação em termos 
 |  | C21-i14 | Sistema de BRT Braga | 100.000.000 € | 5.2/5.3 |
 |  | C21-i15-RAA | Aquisição de 2 ferries elétricos | 25.000.000 € | 5.2 |
 |  | C21-i16 | Funicular da Nazaré | 10.000.000 € |  |
-| Total | Total | Total | 5.463.392.797 € |  |
+| Total | 5.463.392.797 € |  |  |  |
 
-<sup>1</sup> Painel Intergovernamental sobre Alterações Climáticas.
+1 Painel Intergovernamental sobre Alterações Climáticas.
 
-<sup>2</sup> Cria o regime para alcançar a neutralidade climática e altera os Regulamentos (CE) n.º [401/2009](https://data.europa.eu/eli/reg/2009/401/oj?locale=pt) e (UE) [2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt) («Lei europeia em matéria de clima»).
+2 Cria o regime para alcançar a neutralidade climática e altera os Regulamentos (CE) n.º [401/2009](https://data.europa.eu/eli/reg/2009/401/oj?locale=pt) e (UE) [2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt) («Lei europeia em matéria de clima»).
 
-<sup>3</sup> [Lei n.º 98/2021](https://diariodarepublica.pt/dr/detalhe/lei/98-2021-176907481), de 31 de dezembro.
+3 [Lei n.º 98/2021](https://diariodarepublica.pt/dr/detalhe/lei/98-2021-176907481), de 31 de dezembro.
 
-<sup>4</sup> Incluindo o contributo das bombas de calor.
+4 Incluindo o contributo das bombas de calor.
 
-<sup>5</sup> Conforme estabelecido no Regulamento (UE) [2021/241](https://data.europa.eu/eli/reg/2021/241/oj?locale=pt) do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021 (Regulamento PRR), é obrigatório o respeito do princípio do DNSH que significa não apoiar ou realizar atividades económicas que causem danos significativos a qualquer objetivo ambiental na aceção do Artigo 17.º do [Regulamento (UE) 2020/852](https://data.europa.eu/eli/reg/2020/852/oj?locale=pt) do Parlamento Europeu e do Conselho, de 18 de junho de 2020 relativo ao estabelecimento de um regime para a promoção do investimento sustentável, e que altera o [Regulamento (UE) 2019/2088](https://data.europa.eu/eli/reg/2019/2088/oj?locale=pt) («Regulamento Taxonomia»).
+5 Conforme estabelecido no Regulamento (UE) [2021/241](https://data.europa.eu/eli/reg/2021/241/oj?locale=pt) do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021 (Regulamento PRR), é obrigatório o respeito do princípio do DNSH que significa não apoiar ou realizar atividades económicas que causem danos significativos a qualquer objetivo ambiental na aceção do Artigo 17.º do [Regulamento (UE) 2020/852](https://data.europa.eu/eli/reg/2020/852/oj?locale=pt) do Parlamento Europeu e do Conselho, de 18 de junho de 2020 relativo ao estabelecimento de um regime para a promoção do investimento sustentável, e que altera o [Regulamento (UE) 2019/2088](https://data.europa.eu/eli/reg/2019/2088/oj?locale=pt) («Regulamento Taxonomia»).
 
-<sup>6</sup> [Diretiva (UE) 2018/850](https://data.europa.eu/eli/dir/2018/850/oj?locale=pt) do Parlamento Europeu e do Conselho, de 30 de maio de 2018, que altera a [Diretiva 1999/31/CE](https://data.europa.eu/eli/dir/1999/31/oj?locale=pt) relativa à deposição de resíduos em aterros.
+6 [Diretiva (UE) 2018/850](https://data.europa.eu/eli/dir/2018/850/oj?locale=pt) do Parlamento Europeu e do Conselho, de 30 de maio de 2018, que altera a [Diretiva 1999/31/CE](https://data.europa.eu/eli/dir/1999/31/oj?locale=pt) relativa à deposição de resíduos em aterros.
 
-<sup>7</sup> Plano de Ação para o Biometano 2024-2040, aprovado pela [Resolução do Conselho de Ministros n.º 41/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2024-855593245), de 15 de março de 2024.
+7 Plano de Ação para o Biometano 2024-2040, aprovado pela [Resolução do Conselho de Ministros n.º 41/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2024-855593245), de 15 de março de 2024.
 
-<sup>8</sup> Plano Estratégico para o Abastecimento de Água e Gestão de Águas Residuais e Pluviais 2030 (PENSAARP 2030), aprovado pela [Resolução do Conselho de Ministros n.º 23/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-2024-840278736), de 5 de fevereiro.
+8 Plano Estratégico para o Abastecimento de Água e Gestão de Águas Residuais e Pluviais 2030 (PENSAARP 2030), aprovado pela [Resolução do Conselho de Ministros n.º 23/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-2024-840278736), de 5 de fevereiro.
 
-<sup>9</sup> De acordo com a Diretiva da Eficiência Energética (EED) revista (Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt)), foi fixada uma meta indicativa para o consumo de energia final em 2030 a fim de contribuir para a meta vinculativa da União (consumo de energia final da União não deve exceder 763 Mtep em 2030).
+9 De acordo com a Diretiva da Eficiência Energética (EED) revista (Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt)), foi fixada uma meta indicativa para o consumo de energia final em 2030 a fim de contribuir para a meta vinculativa da União (consumo de energia final da União não deve exceder 763 Mtep em 2030).
 
-<sup>10</sup> De acordo com a revisão da EED, a meta da eficiência energética é expressa em termos de um limite para o consumo de energia primária em 2030, que no caso da União não deve exceder 992,5 Mtep.
+10 De acordo com a revisão da EED, a meta da eficiência energética é expressa em termos de um limite para o consumo de energia primária em 2030, que no caso da União não deve exceder 992,5 Mtep.
 
-<sup>11</sup> Percentagem de redução no consumo de energia primária.
+11 Percentagem de redução no consumo de energia primária.
 
-<sup>12</sup> De acordo com a revisão da EED, a meta da eficiência energética é expressa em termos de um limite para o consumo de energia primária em 2030, que no caso da União não deve exceder 992,5 tep.
+12 De acordo com a revisão da EED, a meta da eficiência energética é expressa em termos de um limite para o consumo de energia primária em 2030, que no caso da União não deve exceder 992,5 tep.
 
-<sup>13</sup> Meta para o consumo de energia final em 2030, calculada de acordo com a EED revista (Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt)), a fim de contribuir para que o consumo de energia final da União não exceda 763 Mtep em 2030.
+13 Meta para o consumo de energia final em 2030, calculada de acordo com a EED revista (Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt)), a fim de contribuir para que o consumo de energia final da União não exceda 763 Mtep em 2030.
 
-<sup>14</sup> Potenciar uma Economia com Impacto Neutro no Clima: Estratégia da UE para a Integração do Sistema Energético COM (2020) 2999 final.
+14 Potenciar uma Economia com Impacto Neutro no Clima: Estratégia da UE para a Integração do Sistema Energético COM (2020) 2999 final.
 
-<sup>15</sup> Estratégia do Hidrogénio para uma Europa com Impacto Neutro no Clima COM (2020) 301 final.
+15 Estratégia do Hidrogénio para uma Europa com Impacto Neutro no Clima COM (2020) 301 final.
 
-<sup>16</sup> Estratégia da UE para aproveitar o potencial de energia de fontes renováveis ao largo com vista a um futuro climaticamente neutro COM (2020) 741 final.
+16 Estratégia da UE para aproveitar o potencial de energia de fontes renováveis ao largo com vista a um futuro climaticamente neutro COM (2020) 741 final.
 
-<sup>17</sup> Estratégia da UE para a energia solar COM (2022) 221 final.
+17 Estratégia da UE para a energia solar COM (2022) 221 final.
 
-<sup>18</sup> Criar uma Europa resiliente às alterações climáticas - a nova Estratégia da UE para a Adaptação às Alterações Climáticas COM (2021) 82 final.
+18 Criar uma Europa resiliente às alterações climáticas - a nova Estratégia da UE para a Adaptação às Alterações Climáticas COM (2021) 82 final.
 
-<sup>19</sup> Ciclos do carbono sustentáveis COM (2021) 800 final.
+19 Ciclos do carbono sustentáveis COM (2021) 800 final.
 
-<sup>20</sup> Digitalizar o sistema energético - plano de ação da EU - COM (2022) 552 final.
+20 Digitalizar o sistema energético - plano de ação da EU - COM (2022) 552 final.
 
-<sup>21</sup> Criada pela [Resolução do Conselho de Ministros n.º 56/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/56-2015-69905665), de 30 de julho (QEPiC), e alterada pela [Resolução do Conselho de Ministros n.º 190-A/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/190-a-2017-114337039), de 11 de dezembro (PAEC) e cujas competências específicas se encontram estabelecidas no Despacho n.º [2873/2017](https://diariodarepublica.pt/dr/detalhe/despacho/2873-2017-106833282), de 6 de abril, que se encontra em fase de revisão, de forma a garantir a sua adequação ao novo quadro de política energética e climática estabelecido pelo PNEC 2030.
+21 Criada pela [Resolução do Conselho de Ministros n.º 56/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/56-2015-69905665), de 30 de julho (QEPiC), e alterada pela [Resolução do Conselho de Ministros n.º 190-A/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/190-a-2017-114337039), de 11 de dezembro (PAEC) e cujas competências específicas se encontram estabelecidas no Despacho n.º [2873/2017](https://diariodarepublica.pt/dr/detalhe/despacho/2873-2017-106833282), de 6 de abril, que se encontra em fase de revisão, de forma a garantir a sua adequação ao novo quadro de política energética e climática estabelecido pelo PNEC 2030.
 
-<sup>22</sup> Os limites de emissões apresentados para 2021-2022 e 2026-2030 foram calculados nos termos da Decisão de Execução (UE) [2020/2126](https://data.europa.eu/eli/dec/2020/2126/oj?locale=pt) da Comissão, de 16 de dezembro de 2020. Os valores para o subperíodo 2023-2026, foram calculados nos termos da Decisão de Execução (UE) [2023/1319](https://data.europa.eu/eli/dec/2023/1319/oj?locale=pt) da Comissão, de 28 de junho de 2023.
+22 Os limites de emissões apresentados para 2021-2022 e 2026-2030 foram calculados nos termos da Decisão de Execução (UE) [2020/2126](https://data.europa.eu/eli/dec/2020/2126/oj?locale=pt) da Comissão, de 16 de dezembro de 2020. Os valores para o subperíodo 2023-2026, foram calculados nos termos da Decisão de Execução (UE) [2023/1319](https://data.europa.eu/eli/dec/2023/1319/oj?locale=pt) da Comissão, de 28 de junho de 2023.
 
-<sup>23</sup> A trajetória indicativa de evolução das energias renováveis em Portugal respeita os pontos de referência definidos no Regulamento da Governação da União da Energia e da Ação Climática, mais precisamente no n.º 2 da alínea a) do artigo 4.º, onde se prevê que até 2022, 2025 e 2027, a trajetória indicativa deve atingir os respetivos pontos de referência de pelo menos 18%, 43% e 65% do aumento total da quota de energia de fontes renováveis entre a meta vinculativa nacional para 2020 e a de 2030.
+23 A trajetória indicativa de evolução das energias renováveis em Portugal respeita os pontos de referência definidos no Regulamento da Governação da União da Energia e da Ação Climática, mais precisamente no n.º 2 da alínea a) do artigo 4.º, onde se prevê que até 2022, 2025 e 2027, a trajetória indicativa deve atingir os respetivos pontos de referência de pelo menos 18%, 43% e 65% do aumento total da quota de energia de fontes renováveis entre a meta vinculativa nacional para 2020 e a de 2030.
 
-<sup>24</sup> Diretiva (UE) [2023/2413](https://data.europa.eu/eli/dir/2023/2413/oj?locale=pt) do Parlamento Europeu e do Conselho, de 18 de outubro de 2023, que altera a Diretiva (UE) [2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt), o Regulamento (UE) [2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt) e a Diretiva [98/70/CE](https://data.europa.eu/eli/dir/1998/70/oj?locale=pt) no que respeita à promoção de energia de fontes renováveis e que revoga a [Diretiva (UE) 2015/652](https://data.europa.eu/eli/dir/2015/652/oj?locale=pt) do Conselho.
+24 Diretiva (UE) [2023/2413](https://data.europa.eu/eli/dir/2023/2413/oj?locale=pt) do Parlamento Europeu e do Conselho, de 18 de outubro de 2023, que altera a Diretiva (UE) [2018/2001](https://data.europa.eu/eli/dir/2018/2001/oj?locale=pt), o Regulamento (UE) [2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt) e a Diretiva [98/70/CE](https://data.europa.eu/eli/dir/1998/70/oj?locale=pt) no que respeita à promoção de energia de fontes renováveis e que revoga a [Diretiva (UE) 2015/652](https://data.europa.eu/eli/dir/2015/652/oj?locale=pt) do Conselho.
 
-<sup>25</sup> PPA - Power Purchase Agreement.
+25 PPA - Power Purchase Agreement.
 
-<sup>26</sup> Incluindo o consumo final bruto de energia total esperado, por tecnologia e setor em Mtep, e a capacidade instalada total planeada (dividida por nova capacidade e repotenciação) por tecnologia e setor, em MW.
+26 Incluindo o consumo final bruto de energia total esperado, por tecnologia e setor em Mtep, e a capacidade instalada total planeada (dividida por nova capacidade e repotenciação) por tecnologia e setor, em MW.
 
-<sup>27</sup> Por exemplo, a quota da energia renovável nas redes urbanas de aquecimento, a utilização da energia renovável em edifícios, a energia renovável produzida pelas cidades, pelas comunidades de energia renovável e pelos autoconsumidores de energia renovável, a energia recuperada das lamas obtidas no tratamento de águas residuais.
+27 Por exemplo, a quota da energia renovável nas redes urbanas de aquecimento, a utilização da energia renovável em edifícios, a energia renovável produzida pelas cidades, pelas comunidades de energia renovável e pelos autoconsumidores de energia renovável, a energia recuperada das lamas obtidas no tratamento de águas residuais.
 
-<sup>28</sup> Meta a que se refere o artigo 1.º, n.º 1, e o artigo 4.º, n.º 2, da Diretiva (EU) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), com base no consumo de energia primária e final
+28 Meta a que se refere o artigo 1.º, n.º 1, e o artigo 4.º, n.º 2, da Diretiva (EU) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), com base no consumo de energia primária e final
 
-<sup>29</sup> % de redução de consumo de energia e valor objetivo (ktep) calculado de acordo com a metodologia disponibilizada pela Comissão Europeia e identificada na Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), relativa à Eficiência Energética.
+29 % de redução de consumo de energia e valor objetivo (ktep) calculado de acordo com a metodologia disponibilizada pela Comissão Europeia e identificada na Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), relativa à Eficiência Energética.
 
-<sup>30</sup> Excluindo usos não-energéticos.
+30 Excluindo usos não-energéticos.
 
-<sup>31</sup> % de redução de consumo de energia e valor objetivo (ktep) calculado de acordo com a metodologia disponibilizada pela Comissão Europeia e identificada na Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), relativa à Eficiência Energética.
+31 % de redução de consumo de energia e valor objetivo (ktep) calculado de acordo com a metodologia disponibilizada pela Comissão Europeia e identificada na Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), relativa à Eficiência Energética.
 
-<sup>32</sup> Excluindo usos não-energéticos.
+32 Excluindo usos não-energéticos.
 
-<sup>33</sup> Por força do artigo 8.º da Diretiva (EU) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt).
+33 Por força do artigo 8.º da Diretiva (EU) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt).
 
-<sup>34</sup> Nos termos do artigo 2.º A da [Diretiva 2018/844](https://data.europa.eu/eli/dir/2018/844/oj?locale=pt), que reviu a Diretiva [2010/31/UE](https://data.europa.eu/eli/dir/2010/31/oj?locale=pt) relativa ao desempenho energético dos edifícios.
+34 Nos termos do artigo 2.º A da [Diretiva 2018/844](https://data.europa.eu/eli/dir/2018/844/oj?locale=pt), que reviu a Diretiva [2010/31/UE](https://data.europa.eu/eli/dir/2010/31/oj?locale=pt) relativa ao desempenho energético dos edifícios.
 
-<sup>35</sup> Nos termos do artigo 2.º-A da Diretiva [2010/31/UE](https://data.europa.eu/eli/dir/2010/31/oj?locale=pt), do Parlamento Europeu e do Conselho, de 19 de maio de 2010, relativa ao desempenho energético dos edifícios (reformulação).
+35 Nos termos do artigo 2.º-A da Diretiva [2010/31/UE](https://data.europa.eu/eli/dir/2010/31/oj?locale=pt), do Parlamento Europeu e do Conselho, de 19 de maio de 2010, relativa ao desempenho energético dos edifícios (reformulação).
 
-<sup>36</sup> Valor médio anual da capacidade comercial de interligação no sentido Espanha-Portugal (sentido da importação).
+36 Valor médio anual da capacidade comercial de interligação no sentido Espanha-Portugal (sentido da importação).
 
-<sup>37</sup> De acordo com o [Regulamento (UE) n.º 347/2013](https://data.europa.eu/eli/reg/2013/347/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de abril de 2013, relativo às orientações para as infraestruturas energéticas transeuropeias e que revoga a [Decisão n.º 1364/2006/CE](https://data.europa.eu/eli/dec/2006/1364/oj?locale=pt) e altera os Regulamentos (CE) n.º [713/2009](https://data.europa.eu/eli/reg/2009/713/oj?locale=pt), (CE) n.º [714/2009](https://data.europa.eu/eli/reg/2009/714/oj?locale=pt) e (CE) n.º [715/2009](https://data.europa.eu/eli/reg/2009/715/oj?locale=pt) (JO L 115 de 25.4.2013, p. 39).
+37 De acordo com o [Regulamento (UE) n.º 347/2013](https://data.europa.eu/eli/reg/2013/347/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de abril de 2013, relativo às orientações para as infraestruturas energéticas transeuropeias e que revoga a [Decisão n.º 1364/2006/CE](https://data.europa.eu/eli/dec/2006/1364/oj?locale=pt) e altera os Regulamentos (CE) n.º [713/2009](https://data.europa.eu/eli/reg/2009/713/oj?locale=pt), (CE) n.º [714/2009](https://data.europa.eu/eli/reg/2009/714/oj?locale=pt) e (CE) n.º [715/2009](https://data.europa.eu/eli/reg/2009/715/oj?locale=pt) (JO L 115 de 25.4.2013, p. 39).
 
-<sup>38</sup> Tais como o aumento da flexibilidade do sistema, em particular no que respeita à promoção da fixação de preços de eletricidade de forma concorrencial, em consonância com o direito setorial aplicável, a integração e a associação de mercados, destinadas a aumentar a capacidade comercializável das interligações existentes, as redes inteligentes, a agregação, a resposta da procura, o armazenamento, a produção distribuída, os mecanismos de despacho, redespacho e deslastre e os sinais de preços em tempo real.
+38 Tais como o aumento da flexibilidade do sistema, em particular no que respeita à promoção da fixação de preços de eletricidade de forma concorrencial, em consonância com o direito setorial aplicável, a integração e a associação de mercados, destinadas a aumentar a capacidade comercializável das interligações existentes, as redes inteligentes, a agregação, a resposta da procura, o armazenamento, a produção distribuída, os mecanismos de despacho, redespacho e deslastre e os sinais de preços em tempo real.
 
-<sup>39</sup> De notar que na vertente Security apenas se analisa as perturbações em regime estacionário do sistema (suficiência da reserva secundária e terciária), não se contemplando por isso a análise dinâmica do sistema (em regime transitório).
+39 De notar que na vertente Security apenas se analisa as perturbações em regime estacionário do sistema (suficiência da reserva secundária e terciária), não se contemplando por isso a análise dinâmica do sistema (em regime transitório).
 
-<sup>40</sup> Anos anteriores à monitorização do PNEC (2023).
+40 Anos anteriores à monitorização do PNEC (2023).
 
-<sup>41</sup> https://www.ani.pt/pt/valorizacao-do-conhecimento/interface/cti-centros-de-tecnologia-e-inova%C3%A7%C3%A3o.
+41 https://www.ani.pt/pt/valorizacao-do-conhecimento/interface/cti-centros-de-tecnologia-e-inova%C3%A7%C3%A3o.
 
-<sup>42</sup> https://www.ani.pt/pt/valorizacao-do-conhecimento/interface/laborat%C3%B3rios-colaborativos-colab/.
+42 https://www.ani.pt/pt/valorizacao-do-conhecimento/interface/laborat%C3%B3rios-colaborativos-colab/.
 
-<sup>43</sup> https://former.fct.pt/agendastematicas/altclim.phtml.pt.
+43 https://former.fct.pt/agendastematicas/altclim.phtml.pt.
 
-<sup>44</sup> DR124-001-00051-117430352-054_041_2024.pdf (diariodarepublica.pt).
+44 DR124-001-00051-117430352-054_041_2024.pdf (diariodarepublica.pt).
 
-<sup>45</sup> https://www.hylab.pt/.
+45 https://www.hylab.pt/.
 
-<sup>46</sup> DGEG (2021). Assessment of District Heating and Cooling Potential in Portugal. DEIR Studies on the Portuguese Energy System 003. Directorate-General for Energy and Geology, Divison of Research and Renewables, Lisbon, Portugal. January 2021. 49 pp.
+46 DGEG (2021). Assessment of District Heating and Cooling Potential in Portugal. DEIR Studies on the Portuguese Energy System 003. Directorate-General for Energy and Geology, Divison of Research and Renewables, Lisbon, Portugal. January 2021. 49 pp.
 
-<sup>47</sup> [Despacho n.º 2835/2018](https://diariodarepublica.pt/dr/detalhe/despacho/2835-2018-114885103), publicado no Diário da República, 2.ª série, n.º 56, de 20 de março de 2018
+47 [Despacho n.º 2835/2018](https://diariodarepublica.pt/dr/detalhe/despacho/2835-2018-114885103), publicado no Diário da República, 2.ª série, n.º 56, de 20 de março de 2018
 
-<sup>48</sup> Cad_CTF_217_Os_Beneficios_Fiscais_em_Portugal.pdf (portaldasfinancas.gov.pt).
+48 Cad_CTF_217_Os_Beneficios_Fiscais_em_Portugal.pdf (portaldasfinancas.gov.pt).
 
-<sup>49</sup> Incluindo políticas, medidas e ações para estimular a renovação profunda custo-eficiente, e políticas e ações destinadas a atingir os segmentos do parque nacional de edifícios com pior desempenho, em conformidade com o artigo 2.º-A da Diretiva [2010/31/UE](https://data.europa.eu/eli/dir/2010/31/oj?locale=pt) relativa ao desempenho energético dos edifícios, alterada pela [Diretiva 2018/844](https://data.europa.eu/eli/dir/2018/844/oj?locale=pt).
+49 Incluindo políticas, medidas e ações para estimular a renovação profunda custo-eficiente, e políticas e ações destinadas a atingir os segmentos do parque nacional de edifícios com pior desempenho, em conformidade com o artigo 2.º-A da Diretiva [2010/31/UE](https://data.europa.eu/eli/dir/2010/31/oj?locale=pt) relativa ao desempenho energético dos edifícios, alterada pela [Diretiva 2018/844](https://data.europa.eu/eli/dir/2018/844/oj?locale=pt).
 
-<sup>50</sup> Disponível para consulta em: https://ec.europa.eu/info/designing-next-research-and-innovation-framework-programme/what-shapes-next-framework-programme_en.
+50 Disponível para consulta em: https://ec.europa.eu/info/designing-next-research-and-innovation-framework-programme/what-shapes-next-framework-programme_en.
 
-<sup>51</sup> Disponível para consulta em: https://ec.europa.eu/energy/en/topics/technology-and-innovation/strategic-energy-technology-plan#.
+51 Disponível para consulta em: https://ec.europa.eu/energy/en/topics/technology-and-innovation/strategic-energy-technology-plan#.
 
-<sup>52</sup> Disponível para consulta em: https://www.cfp.pt/uploads/publicacoes_ficheiros/cfp-rel-8-2022.pdf.
+52 Disponível para consulta em: https://www.cfp.pt/uploads/publicacoes_ficheiros/cfp-rel-8-2022.pdf.
 
-<sup>53</sup> Disponível para consulta em: https://economy-finance.ec.europa.eu/system/files/2021-10/ip148_en.pdf.
+53 Disponível para consulta em: https://economy-finance.ec.europa.eu/system/files/2021-10/ip148_en.pdf.
 
-<sup>54</sup> Os setores não abrangidos pelo regime CELE (não-CELE) incluem fontes de emissão como: pequena indústria; transportes; setor residencial e serviços; agricultura; resíduos.
+54 Os setores não abrangidos pelo regime CELE (não-CELE) incluem fontes de emissão como: pequena indústria; transportes; setor residencial e serviços; agricultura; resíduos.
 
-<sup>55</sup> A diferença entre os valores da tabela com o contributo das energias renováveis em cada setor (Tabela 44) para o consumo de energia final e o somatório dos valores das tabelas desagregadas por setor e tecnologia deve-se a diferentes regras de cálculo (o contributo FER para cada setor considera as regras para cálculo dos SHARES definido pelo Eurostat).
+55 A diferença entre os valores da tabela com o contributo das energias renováveis em cada setor (Tabela 44) para o consumo de energia final e o somatório dos valores das tabelas desagregadas por setor e tecnologia deve-se a diferentes regras de cálculo (o contributo FER para cada setor considera as regras para cálculo dos SHARES definido pelo Eurostat).
 
-<sup>56</sup> A diferença entre os valores da tabela com o contributo das energias renováveis em cada setor (Tabela 44) para o consumo de energia final e o somatório dos valores das tabelas desagregadas por setor e tecnologia deve-se a diferentes regras de cálculo, nomeadamente o uso de multiplicadores (o contributo FER para cada setor considera as regras para cálculo dos SHARES definido pelo Eurostat).
+56 A diferença entre os valores da tabela com o contributo das energias renováveis em cada setor (Tabela 44) para o consumo de energia final e o somatório dos valores das tabelas desagregadas por setor e tecnologia deve-se a diferentes regras de cálculo, nomeadamente o uso de multiplicadores (o contributo FER para cada setor considera as regras para cálculo dos SHARES definido pelo Eurostat).
 
-<sup>57</sup> Dados provisórios para 2022. Os dados a partir de 2014 já incluem o contributo das bombas de calor.
+57 Dados provisórios para 2022. Os dados a partir de 2014 já incluem o contributo das bombas de calor.
 
-<sup>58</sup> Dados provisórios para 2022. Os dados a partir de 2014 já incluem o contributo das bombas de calor.
+58 Dados provisórios para 2022. Os dados a partir de 2014 já incluem o contributo das bombas de calor.
 
-<sup>59</sup> Percentagem de redução de consumo de energia e valor objetivo (ktep) calculado de acordo com a metodologia disponibilizada pela Comissão Europeia e identificada na Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), relativa à Eficiência Energética.
+59 Percentagem de redução de consumo de energia e valor objetivo (ktep) calculado de acordo com a metodologia disponibilizada pela Comissão Europeia e identificada na Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), relativa à Eficiência Energética.
 
-<sup>60</sup> Excluindo usos não-energéticos.
+60 Excluindo usos não-energéticos.
 
-<sup>61</sup> Percentagem de redução de consumo de energia e valor objetivo (ktep) calculado de acordo com a metodologia disponibilizada pela Comissão Europeia e identificada na Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), relativa à Eficiência Energética.
+61 Percentagem de redução de consumo de energia e valor objetivo (ktep) calculado de acordo com a metodologia disponibilizada pela Comissão Europeia e identificada na Diretiva (UE) [2023/1791](https://data.europa.eu/eli/dir/2023/1791/oj?locale=pt), relativa à Eficiência Energética.
 
-<sup>62</sup> Excluindo usos não-energéticos.
+62 Excluindo usos não-energéticos.
 
-<sup>63</sup> Inclui resíduos vegetais/florestais, licores sulfítivos, biogás e resíduos urbanos (fração renovável).
+63 Inclui resíduos vegetais/florestais, licores sulfítivos, biogás e resíduos urbanos (fração renovável).
 
-<sup>64</sup> Inclui resíduos vegetais/florestais, licores sulfítivos, biogás e resíduos urbanos.
+64 Inclui resíduos vegetais/florestais, licores sulfítivos, biogás e resíduos urbanos.
 
-<sup>65</sup> Inclui fuelóleo, gás refinaria, gasóleo, resíduos industriais e propano.
+65 Inclui fuelóleo, gás refinaria, gasóleo, resíduos industriais e propano.
 
-<sup>66</sup> Inclui Geotermia e Ondas.
+66 Inclui Geotermia e Ondas.
 
-<sup>67</sup> O rácio Portugal-Espanha foi calculado de acordo com a metodologia ENTSO-E baseado no relatório SOAF («For system adequacy purposes, Simultaneous Interconnection Transmission Capacity is based on 80 % of expected NTC between Portugal-Spain»). O rácio Península Ibérica-França inclui capacidade instalada de Portugal e Espanha e considera ainda 100 % da capacidade comercial de interligação (NTC).
+67 O rácio Portugal-Espanha foi calculado de acordo com a metodologia ENTSO-E baseado no relatório SOAF («For system adequacy purposes, Simultaneous Interconnection Transmission Capacity is based on 80 % of expected NTC between Portugal-Spain»). O rácio Península Ibérica-França inclui capacidade instalada de Portugal e Espanha e considera ainda 100 % da capacidade comercial de interligação (NTC).
 
-<sup>68</sup> Anterior PIC 2.16.3 - Linha interna entre Vieira do Minho, Ribeira de Pena e Feira.
+68 Anterior PIC 2.16.3 - Linha interna entre Vieira do Minho, Ribeira de Pena e Feira.
 
-<sup>69</sup> PIC 1.1 na 1.ª lista de PIC e PIM (Anterior PIC 2.17) - Interligação Portugal-Espanha: Beariz-Fontefría (ES), Fontefría (ES)-Ponte de Lima (PT) e Ponte de Lima-Vila Nova de Famalicão (PT).
+69 PIC 1.1 na 1.ª lista de PIC e PIM (Anterior PIC 2.17) - Interligação Portugal-Espanha: Beariz-Fontefría (ES), Fontefría (ES)-Ponte de Lima (PT) e Ponte de Lima-Vila Nova de Famalicão (PT).
 
-<sup>70</sup> Anterior PIC 2.16.1 Linha interna entre Pedralva e Sobrado (PT), anteriormente designada Pedralva e Alfena (PT).
+70 Anterior PIC 2.16.1 Linha interna entre Pedralva e Sobrado (PT), anteriormente designada Pedralva e Alfena (PT).
 
-<sup>71</sup> Consumos definidos no seguinte intervalo: 2 500 kWh < Consumo < 5 000 kWh.
+71 Consumos definidos no seguinte intervalo: 2 500 kWh < Consumo < 5 000 kWh.
 
-<sup>72</sup> Consumos definidos no seguinte intervalo: 20 MWh < Consumo < 500 MWh.
+72 Consumos definidos no seguinte intervalo: 20 MWh < Consumo < 500 MWh.
 
-<sup>73</sup> Consumos definidos no seguinte intervalo: 20 GJ < Consumo < 200 GJ.
+73 Consumos definidos no seguinte intervalo: 20 GJ < Consumo < 200 GJ.
 
-<sup>74</sup> Consumos definidos no seguinte intervalo: 100 000 GJ < Consumo < 1 000 000 GJ.
+74 Consumos definidos no seguinte intervalo: 100 000 GJ < Consumo < 1 000 000 GJ.
 
-<sup>75</sup> Imposto sobre os Produtos Petrolíferos (ISP), Contribuição de Serviço Rodoviário (CSR) e taxa de carbono.
+75 Imposto sobre os Produtos Petrolíferos (ISP), Contribuição de Serviço Rodoviário (CSR) e taxa de carbono.
 
-<sup>76</sup> Contribuição de Serviço Rodoviário e Valor de CO<sub>2</sub>.
+76 Contribuição de Serviço Rodoviário e Valor de CO2.
 
-<sup>77</sup> Lei do Orçamento de Estado para 2016.
+77 Lei do Orçamento de Estado para 2016.
 
-<sup>78</sup> [Lei n.º 82-D/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), de 31 de dezembro.
+78 [Lei n.º 82-D/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), de 31 de dezembro.
 
-<sup>79</sup> Os Benefícios Fiscais em Portugal. Elaborado pelo Grupo de Trabalho para o Estudo dos Benefícios Fiscais (2019).
+79 Os Benefícios Fiscais em Portugal. Elaborado pelo Grupo de Trabalho para o Estudo dos Benefícios Fiscais (2019).
 
-<sup>80</sup> Nos «Impostos com relevância ambiental» são identificadas as receitas obtidas pelas Administrações públicas através da taxação de produtos e serviços cuja base de imposto possa ter um impacto negativo no ambiente. Desta forma, todos os impostos que recaiam sobre aquelas bases de imposto são impostos com relevância ambiental.
+80 Nos «Impostos com relevância ambiental» são identificadas as receitas obtidas pelas Administrações públicas através da taxação de produtos e serviços cuja base de imposto possa ter um impacto negativo no ambiente. Desta forma, todos os impostos que recaiam sobre aquelas bases de imposto são impostos com relevância ambiental.
 
-<sup>81</sup> Uma taxa difere de um imposto no sentido em que as Administrações públicas usam a receita arrecadada para estabelecer algum tipo de função de regulação (tais como a verificação de competências ou qualificações das entidades envolvidas ou o estabelecimento de sistemas de gestão em diversas áreas que tenham a tendência, no decorrer da sua atividade, para provocar externalidades negativas para a sociedade).
+81 Uma taxa difere de um imposto no sentido em que as Administrações públicas usam a receita arrecadada para estabelecer algum tipo de função de regulação (tais como a verificação de competências ou qualificações das entidades envolvidas ou o estabelecimento de sistemas de gestão em diversas áreas que tenham a tendência, no decorrer da sua atividade, para provocar externalidades negativas para a sociedade).
 
-<sup>82</sup> Disponível para consulta em: https://rna2100.apambiente.pt/en.
+82 Disponível para consulta em: https://rna2100.apambiente.pt/en.
 
-<sup>83</sup> Disponível para consulta em: https://www.adapt-local.pt/.
+83 Disponível para consulta em: https://www.adapt-local.pt/.
 
-<sup>84</sup> Disponível para consulta em: [https://climate-adapt.eea.europa.eu/en/mission](https://climate-adapt.eea.europa.eu/en/mission).
+84 Disponível para consulta em: [https://climate-adapt.eea.europa.eu/en/mission](https://climate-adapt.eea.europa.eu/en/mission).
 
-<sup>85</sup> Em termos de custos e benefícios e de relação custo-eficácia das políticas e medidas planeadas descritas na secção 3, pelo menos até ao último ano do período abrangido pelo plano, incluindo a comparação com projeções assentes nas políticas e medidas existentes.
+85 Em termos de custos e benefícios e de relação custo-eficácia das políticas e medidas planeadas descritas na secção 3, pelo menos até ao último ano do período abrangido pelo plano, incluindo a comparação com projeções assentes nas políticas e medidas existentes.
 
-<sup>86</sup> O cenário BAU (Business As Usual) é um cenário modelado apenas no modelo GEM-E3_PT que traduz uma evolução futura do sistema energético estagnada, quanto à sua estrutura, e sem qualquer objetivo de redução de emissões. Face às características dos modelos de equilíbrio geral (sem detalhe tecnológico com exceção do setor eletroprodutor), este cenário assume assim o peso atual de cada uma das commodities energéticas e estrutura do setor elétrico (ex. continuidade da geração de eletricidade a gás natural e não crescimento de renováveis), bem como crescimento de eficiência energética (fator exógeno ao modelo GEM-E3_PT) de cerca de 0,1 %/ano. Importa referir que o cenário BAU é apenas um cenário de trabalho que serve o propósito de ilustrar o impacte de cenários alternativos considerados para o sistema energético na economia.
+86 O cenário BAU (Business As Usual) é um cenário modelado apenas no modelo GEM-E3_PT que traduz uma evolução futura do sistema energético estagnada, quanto à sua estrutura, e sem qualquer objetivo de redução de emissões. Face às características dos modelos de equilíbrio geral (sem detalhe tecnológico com exceção do setor eletroprodutor), este cenário assume assim o peso atual de cada uma das commodities energéticas e estrutura do setor elétrico (ex. continuidade da geração de eletricidade a gás natural e não crescimento de renováveis), bem como crescimento de eficiência energética (fator exógeno ao modelo GEM-E3_PT) de cerca de 0,1 %/ano. Importa referir que o cenário BAU é apenas um cenário de trabalho que serve o propósito de ilustrar o impacte de cenários alternativos considerados para o sistema energético na economia.
 
-<sup>87</sup> Europe’s 2040 climate target and path to climate neutrality by 2050 building a sustainable, just and prosperous society SWD(2024) 63 final - https://eur-lex.europa.eu/resource.html?uri=cellar:6c154426-c5a6-11ee-95d9-01aa75ed71a1.0001.02/DOC_1&format=PDF.
+87 Europe’s 2040 climate target and path to climate neutrality by 2050 building a sustainable, just and prosperous society SWD(2024) 63 final - https://eur-lex.europa.eu/resource.html?uri=cellar:6c154426-c5a6-11ee-95d9-01aa75ed71a1.0001.02/DOC_1&format=PDF.
 
-<sup>88</sup> «Portugal - air pollution country fact sheet» - Dados da Agência Europeia do Ambiente, novembro 2023, disponível em: https://www.eea.europa.eu/themes/air/country-fact-sheets/2023-country-fact-sheets/portugal-air-pollution-country.
+88 «Portugal - air pollution country fact sheet» - Dados da Agência Europeia do Ambiente, novembro 2023, disponível em: https://www.eea.europa.eu/themes/air/country-fact-sheets/2023-country-fact-sheets/portugal-air-pollution-country.
 
-<sup>89</sup> Apesar do ozono se tratar de um poluente secundário, não sendo diretamente emitido por fontes para a atmosfera, acaba por se formar na troposfera, segundo regimes químicos complexos, a partir de poluentes precursores também abrangidos pelo referido conjunto de diplomas legais.
+89 Apesar do ozono se tratar de um poluente secundário, não sendo diretamente emitido por fontes para a atmosfera, acaba por se formar na troposfera, segundo regimes químicos complexos, a partir de poluentes precursores também abrangidos pelo referido conjunto de diplomas legais.
 
-<sup>90</sup> Linhas de orientação para acelerar o financiamento sustentável em Portugal, julho de 2019, disponível em https://www.fundoambiental.pt/ficheiros/b1-linhas_orientacao_financiamento_sustentavel_ptvf-pdf.aspx.
+90 Linhas de orientação para acelerar o financiamento sustentável em Portugal, julho de 2019, disponível em https://www.fundoambiental.pt/ficheiros/b1-linhas_orientacao_financiamento_sustentavel_ptvf-pdf.aspx.
+
+118818207
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:21px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { height:43px; } .Tbl16 { height:17px; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl20 { min-height:26px; } .Tbl21 { margin-top:0px; text-align:center; } .Tbl22 { min-height:17px; } .Tbl23 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl25 { min-height:124px; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(242,242,242); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl27 { min-height:36px; } .Tbl28 { min-height:130px; } .Tbl29 { min-height:82px; } .Tbl30 { min-height:45px; } .Tbl31 { min-height:93px; } .Tbl32 { min-height:27px; } .Tbl33 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:rgb(242,242,242); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl34 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl35 { min-height:125px; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(242,242,242); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl37 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl38 { min-height:65px; } .Tbl39 { min-height:56px; } .Tbl40 { min-height:37px; } .Tbl41 { min-height:211px; } .Tbl42 { min-height:85px; } .Tbl43 { min-height:90px; } .Tbl44 { min-height:214px; } .Tbl45 { background-color:rgb(242,242,242); vertical-align:top; } .Tbl46 { vertical-align:top; } .Tbl47 { text-align:justify; text-align-last:justify; } .Tbl48 { min-height:62px; } .Tbl49 { min-height:113px; } .Tbl50 { min-height:146px; } .Tbl51 { min-height:129px; } .Tbl52 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(238,236,225); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(238,236,225); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl54 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(238,236,225); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl55 { text-align:right; } .Tbl56 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl57 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:bottom; } .Tbl58 { min-height:138px; } .Tbl59 { min-height:46px; } .Tbl60 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl61 { min-height:34px; } .Tbl62 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl63 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl64 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl65 { min-height:35px; } .Tbl66 { min-height:44px; } .Tbl67 { min-height:41px; } .Tbl68 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl69 { min-height:24px; } .Tbl70 { min-height:50px; } .Tbl71 { min-height:32px; } .Tbl72 { min-height:42px; } .Tbl73 { min-height:33px; } .Tbl74 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl75 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl76 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl77 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(244,209,162); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl78 { min-height:77px; } .Tbl79 { min-height:549px; } .Tbl80 { min-height:30px; } .Tbl81 { min-height:39px; } .Tbl82 { min-height:536px; } .Tbl83 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(244,209,162); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl84 { min-height:97px; } .Tbl85 { min-height:406px; } .Tbl86 { min-height:94px; } .Tbl87 { min-height:102px; } .Tbl88 { min-height:40px; } .Tbl89 { min-height:71px; } .Tbl90 { min-height:194px; } .Tbl91 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl92 { min-height:335px; } .Tbl93 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl94 { min-height:600px; } .Tbl95 { min-height:78px; } .Tbl96 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl97 { min-height:318px; } .Tbl98 { min-height:70px; } .Tbl99 { min-height:84px; } .Tbl100 { min-height:281px; } .Tbl101 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:2px; border-top-width:2px; border-right-width:2px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(244,209,162); border-bottom-style:dotted; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl102 { min-height:109px; } .Tbl103 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:2px; border-top-width:1px; border-right-width:2px; border-top-style:dotted; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:dotted; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl104 { min-height:308px; } .Tbl105 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:2px; border-top-width:1px; border-right-width:2px; border-top-style:dotted; border-left-color:rgb(0,0,0); border-bottom-width:2px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl106 { min-height:69px; } .Tbl107 { min-height:317px; } .Tbl108 { min-height:59px; } .Tbl109 { min-height:565px; } .Tbl110 { min-height:81px; } .Tbl111 { min-height:112px; } .Tbl112 { min-height:262px; } .Tbl113 { min-height:66px; } .Tbl114 { min-height:220px; } .Tbl115 { min-height:504px; } .Tbl116 { min-height:115px; } .Tbl117 { min-height:43px; } .Tbl118 { min-height:200px; } .Tbl119 { min-height:169px; } .Tbl120 { min-height:73px; } .Tbl121 { min-height:184px; } .Tbl122 { min-height:185px; } .Tbl123 { min-height:108px; } .Tbl124 { min-height:136px; } .Tbl125 { min-height:543px; } .Tbl126 { min-height:137px; } .Tbl127 { min-height:253px; } .Tbl128 { min-height:60px; } .Tbl129 { min-height:255px; } .Tbl130 { min-height:83px; } .Tbl131 { min-height:92px; } .Tbl132 { min-height:236px; } .Tbl133 { min-height:266px; } .Tbl134 { min-height:53px; } .Tbl135 { min-height:139px; } .Tbl136 { min-height:212px; } .Tbl137 { min-height:556px; } .Tbl138 { min-height:87px; } .Tbl139 { min-height:590px; } .Tbl140 { min-height:533px; } .Tbl141 { min-height:111px; } .Tbl142 { min-height:52px; } .Tbl143 { min-height:441px; } .Tbl144 { min-height:550px; } .Tbl145 { min-height:117px; } .Tbl146 { min-height:63px; } .Tbl147 { min-height:174px; } .Tbl148 { min-height:67px; } .Tbl149 { min-height:548px; } .Tbl150 { min-height:61px; } .Tbl151 { min-height:569px; } .Tbl152 { min-height:573px; } .Tbl153 { min-height:107px; } .Tbl154 { min-height:391px; } .Tbl155 { min-height:238px; } .Tbl156 { min-height:100px; } .Tbl157 { min-height:471px; } .Tbl158 { min-height:302px; } .Tbl159 { min-height:530px; } .Tbl160 { min-height:120px; } .Tbl161 { min-height:376px; } .Tbl162 { min-height:64px; } .Tbl163 { min-height:248px; } .Tbl164 { min-height:347px; } .Tbl165 { min-height:547px; } .Tbl166 { min-height:400px; } .Tbl167 { min-height:249px; } .Tbl168 { min-height:349px; } .Tbl169 { min-height:260px; } .Tbl170 { min-height:228px; } .Tbl171 { min-height:175px; } .Tbl172 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl173 { min-height:155px; } .Tbl174 { min-height:86px; } .Tbl175 { min-height:222px; } .Tbl176 { min-height:213px; } .Tbl177 { min-height:465px; } .Tbl178 { min-height:444px; } .Tbl179 { min-height:235px; } .Tbl180 { min-height:72px; } .Tbl181 { min-height:355px; } .Tbl182 { min-height:489px; } .Tbl183 { min-height:31px; } .Tbl184 { min-height:305px; } .Tbl185 { min-height:68px; } .Tbl186 { min-height:244px; } .Tbl187 { min-height:134px; } .Tbl188 { min-height:320px; } .Tbl189 { min-height:546px; } .Tbl190 { min-height:491px; } .Tbl191 { min-height:48px; } .Tbl192 { min-height:243px; } .Tbl193 { min-height:289px; } .Tbl194 { min-height:99px; } .Tbl195 { min-height:265px; } .Tbl196 { min-height:57px; } .Tbl197 { min-height:75px; } .Tbl198 { min-height:350px; } .Tbl199 { min-height:202px; } .Tbl200 { min-height:49px; } .Tbl201 { min-height:55px; } .Tbl202 { min-height:490px; } .Tbl203 { min-height:105px; } .Tbl204 { min-height:299px; } .Tbl205 { min-height:180px; } .Tbl206 { min-height:375px; } .Tbl207 { min-height:339px; } .Tbl208 { min-height:126px; } .Tbl209 { min-height:110px; } .Tbl210 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl211 { min-height:263px; } .Tbl212 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl213 { min-height:199px; } .Tbl214 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl215 { min-height:314px; } .Tbl216 { min-height:363px; } .Tbl217 { min-height:292px; } .Tbl218 { min-height:385px; } .Tbl219 { min-height:51px; } .Tbl220 { min-height:176px; } .Tbl221 { min-height:95px; } .Tbl222 { min-height:383px; } .Tbl223 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl224 { min-height:201px; } .Tbl225 { min-height:484px; } .Tbl226 { margin-top:14px; margin-bottom:9px; text-align:center; } .Tbl227 { min-height:554px; } .Tbl228 { min-height:197px; } .Tbl229 { min-height:54px; } .Tbl230 { min-height:198px; } .Tbl231 { min-height:531px; } .Tbl232 { min-height:38px; } .Tbl233 { min-height:132px; } .Tbl234 { min-height:119px; } .Tbl235 { min-height:296px; } .Tbl236 { min-height:381px; } .Tbl237 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); vertical-align:middle; } .Tbl238 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl239 { height:34px; } .Tbl240 { min-height:20px; } .Tbl241 { text-align:left; } .Tbl242 { min-height:19px; } .Tbl243 { height:27px; } .Tbl244 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); vertical-align:top; } .Tbl245 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl246 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl247 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl248 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-style:solid; vertical-align:top; } .Tbl249 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl250 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl251 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl252 { border-bottom-color:rgb(0,0,0); border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); vertical-align:top; } .Tbl253 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl254 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl255 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl256 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl257 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl258 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl259 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl260 { min-height:23px; } .Tbl261 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(221,217,195); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl262 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(221,217,195); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl263 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(221,217,195); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl264 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(221,217,195); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl265 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(221,217,195); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl266 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(242,242,242); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl267 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(242,242,242); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl268 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl269 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl270 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl271 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(242,242,242); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl272 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(242,242,242); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl273 { border-collapse:collapse; border-width:1px; border-color:rgb(153,153,153); } .Tbl274 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(184,204,228); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl275 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(184,204,228); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl276 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(184,204,228); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl277 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(251,212,180); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl278 { min-height:28px; } .Tbl279 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(251,212,180); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

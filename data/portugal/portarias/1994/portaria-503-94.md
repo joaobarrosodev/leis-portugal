@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/503/1994/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/503-1994-290986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6af57aa28a323054573e6730b61e6dc9695eb61c273ab7f3fea5f2b05e01f42a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b4562d9b46088382290a2a90a25362301b40010bee5d4380bb33e15809b9069
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Fiscalização
 - Higiene Corporal
 - Produto Cosmetico
+- Produto Químico
 - Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:452215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406168:por
+  label: "Aditados os caps. XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV e XXXV pela PORT.1192/97.1997.11.22.MECO E MS DR.IS-B\
+    \ [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1192-1997-406168
+  date: '1997-11-22'
+- type: amended_by
+  target: pt:dre:246139:por
+  label: "Mantidos em vigor, os métodos de análise constantes do presente diploma, na redacção das Ports. 1192/97 de 22-Nov\
+    \ e 467/98 de 30-Jul, pelo DEC LEI.142/2005.24.08.2005.MS, DR.IS-A [162] de 24.08.2005, até à publicação do diploma que\
+    \ aprova os métodos de análise referidos na al. a) do nº 1 do art. 6º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2005-246139
+  date: '2005-08-24'
+- type: amended_by
+  target: pt:dre:452215:por
+  label: "Determinada a manutenção em vigor, até à publicação do decreto-lei que aprova os métodos de análise referidos na\
+    \ al. a) do n.º 1 do art. 6.º, dos métodos de análise constantes do presente diploma, na redacção conferida pelas Ports\
+    \ 1192/97, de 22-Nov e 467/98, de 30-Jul, pelo DEC LEI.189/2008.24.09.2008.MS, DR.IS [185] de 24.09.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2008-452215
+  date: '2008-09-24'
 - type: cites
   target: celex:31980L1335
   label: null
@@ -105,13 +125,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:29:14Z'
   warnings: []
   errors: []
 ---
@@ -146,9 +166,9 @@ Manda o Governo, pelos Ministros da Indústria e Energia, da Saúde e do Comérc
 
 Ministérios da Indústria e Energia, da Saúde e do Comércio e Turismo.
 
-**Assinada em 17 de Março de 1994.**
+Assinada em 17 de Março de 1994.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
 
 ## ANEXO — Métodos de análise necessários ao controlo da composição dos produtos cosméticos
 
@@ -346,7 +366,7 @@ Após ter transferido uma quantidade apropriada do produto para o frasco de colh
 
 Se for necessário, utilizar um padrão interno. Este pode ser introduzido no frasco de colheita por meio de uma seringa, por intermédio do dispositivo de recolha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 3.A PARTE
 
@@ -760,7 +780,7 @@ Da temperatura da tina de cromatografia.
 
 Quadro dos Rf obtidos em camada de sílica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 5 - Doseamento (ver nota *):
 
@@ -772,7 +792,7 @@ Começa sempre por uma iodometria.
 
 O doseamento efectua-se por oxidação do grupo SH por I(índice 2) em meio ácido, segundo a equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 5.1.2 - Reagentes:
 
@@ -812,7 +832,7 @@ Todos os reagentes devem ser de qualidade analítica.
 
 5.2.2.1 - Ácido tioglicólico puro, de título conhecido.
 
-5.2.2.2 - Ácido clorídrico concentrado [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
+5.2.2.2 - Ácido clorídrico concentrado [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
 
 5.2.2.3 - Metanol.
 
@@ -1100,7 +1120,7 @@ Homogeneizar separadamente 5 g e 20 g do produto com 100 ml de água e utilizar 
 
 5.7 - Nas condições indicadas para os eluentes A (2.2) e B (2.3), os valores Rf das soluções de referência (2.1) são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 B - Identificação do peróxido de bário
 
@@ -1188,7 +1208,7 @@ C - Doseamento do peróxido de hidrogénio
 
 O doseamento iodométrico do peróxido de hidrogénio baseia-se na reacção seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 Trata-se de uma reacção lenta, mas é possível acelerá-la, adicionando molibdato de amónio. O iodo formado, doseado por processos titrimétricos com uma solução de tiossulfato de sódio, permite calcular o teor em peróxido de hidrogénio.
 
@@ -1454,7 +1474,7 @@ Todos os reagentes devem ser de qualidade analítica e, nomeadamente, ser própr
 
 4.3 - Acetato de zinco (II) Zn(CH(índice 3)COO)(índice 2) . 2 H(índice 2)O.
 
-4.4 - Ácido acético: [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
+4.4 - Ácido acético: [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
 
 4.5 - Ferrocianeto de tetrapotássio: K(índice 4) [Fe(CN)(índice 6)] . 3 H(índice 2)O.
 
@@ -1486,7 +1506,7 @@ d' = velocidade do papel em milímetros/minuto.
 
 4.14 - Soluções padrão: por dissolução em 100 ml de eluente (4.10), preparar quatro soluções padrão conforme o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 4.15 - Solução de Carrez I: dissolver 26,5 g de ferrocianeto tetrapotássico (4.5) em água e completar o volume a 250 ml.
 
@@ -1618,7 +1638,7 @@ Em presença de clorato, aparece uma mancha azul (eventualmente castanha) passad
 
 Os valores de Rf são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 Como os bromatos e os iodatos produzem reacções imediatas, procurar-se-á não confundir as manchas de bromato e de clorato.
 
@@ -1740,7 +1760,7 @@ d' = velocidade do papel em milímetros/minuto.
 
 6.2.2 - A título de exemplo, as seguintes condições do ensaio permitem o resultado procurado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 6.3 - Curva de calibração:
 
@@ -1952,7 +1972,7 @@ Todos os reagentes devem ser de qualidade analítica.
 
 4.2 - Água bidestilada ou de qualidade equivalente.
 
-4.3 - Ácido clorídrico concentrado [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
+4.3 - Ácido clorídrico concentrado [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
 
 4.4 - Ciclo-hexano (CH).
 
@@ -2152,7 +2172,7 @@ Tratar simultaneamente, como indicado no n.º 4.1, 10 ml de solução padrão (2
 
 A título indicativo, os Rf obtidos são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 B - Doseamento
 
@@ -2246,7 +2266,7 @@ Identificação e doseamento semiquantitativo
 
 Este método permite a identificação e o doseamento semiquantitativo das substâncias seguintes nas tintas para cabelos, sob a forma de cremes e líquidos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 2 - Princípio:
 
@@ -2402,7 +2422,7 @@ Juntar algumas gotas de amónia (3.4), se o pH for inferior a 10, e completar a 
 
 Aplicar em atmosfera de azoto, sobre uma placa de sílica (4.1.3) e em 9 pontos separados, 1 (mi)l de cada uma das 11 soluções de referência. Estas soluções de referências são referenciadas da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 Por outro lado, colocar sobre cada um dos 10.º e 11.º pontos 2 ml das soluções das amostras obtidas no n.º 5.1.
 
@@ -2434,7 +2454,7 @@ QUADRO I
 
 Valores de Rf e colorações obtidas imediatamente após a revelação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 6 - Exame por cromatografia em camada fina bidimensional:
 
@@ -2492,7 +2512,7 @@ QUADRO II
 
 Cor das substâncias de referência após cromatografia e revelação pelos vapores de iodo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 ### CAPÍTULO XIII — Diclorometano e 1,1,1-tricloroetano - Doseamento
 
@@ -2576,7 +2596,7 @@ d' = velocidade do papel em milímetros/minuto.
 
 7.3 - A título de exemplo, indicam-se as seguintes condições operatórias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 8 - Determinação dos coeficientes de proporcionalidade:
 
@@ -2682,7 +2702,7 @@ Todos os reagentes devem ser de qualidade analítica e a água desmineralizada.
 
 3.2.2 - Sulfito de sódio hepta-hidratado.
 
-3.2.3 - Ácido clorídrico concentrado [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
+3.2.3 - Ácido clorídrico concentrado [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
 
 3.2.4 - Ácido sulfúrico 1 M, aproximadamente.
 
@@ -3084,7 +3104,7 @@ Este trabalho deve ser repetido para cada uma das puas respeitando a ordem 1-2-3
 
 N. B. - Existem no mercado tricotins fabricados para reacções pós-coluna (SUPELCO).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 ### CAPÍTULO XV — Hexaclorofeno - Identificação
 
@@ -3622,7 +3642,7 @@ Para um teor em iodato de sódio de 0,1% (m/m), a diferença entre os resultados
 
 8.1 - Princípio:
 
-Em solução ácida, o iodato [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf) é reduzido a iodeto [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf) pelo sulfito e a solução obtida é examinada por cromatografia líquida a alta pressão. Se um pico com um iodato desaparecer após tratamento com sulfito, o pico original pode ser considerado como o iodato.
+Em solução ácida, o iodato [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf) é reduzido a iodeto [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf) pelo sulfito e a solução obtida é examinada por cromatografia líquida a alta pressão. Se um pico com um iodato desaparecer após tratamento com sulfito, o pico original pode ser considerado como o iodato.
 
 8.2 - Técnica:
 
@@ -3720,7 +3740,7 @@ Coluna: 65ºC.
 
 6.2.2.2 - A fase estacionária deve permitir um grau de resolução igual ou superior a 1,5:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 6.2.2.3 - As condições seguintes permitem obter bons resultados:
 
@@ -3756,7 +3776,7 @@ Colunas: 120ºC ou 130ºC.
 
 7.1 - Nas condições indicadas no n.º 6.2.1 (coluna Hallcomid M 18), utilizar as misturas padrão definidas seguidamente. Preparar estas misturas por medida volumétrica, mas determinar a quantidade exacta libertada, pesando imediatamente após cada adição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 Injectar 2 (mi)l a 3 (mi)l no cromatógrafo, como foi indicado no n.º 6.2.1. Calcular a razão das áreas dos picos (metanol/etanol ou metanol/2-propanol) de cada mistura. Traçar a curva padrão utilizando:
 
@@ -3766,7 +3786,7 @@ Como eixo dos Y: a razão das áreas dos picos (metanol/etanol ou metanol/2-prop
 
 7.2 - Nas condições indicadas no n.º 6.2.2 (Porapak Qs ou Chromosorb 105), utilizar as misturas padrão definidas seguidamente. Preparar estas misturas por medida volumétrica, mas determinar a quantidade exacta libertada, pesando imediatamente após cada adição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 Injectar 2 (mi)l a 3 (mi)l no cromatógrafo, como foi indicado no n.º 6.2.2. Calcular a razão das áreas dos picos (metanol/etanol ou metanol/2-propanol) de cada mistura. Traçar a curva padrão utilizando:
 
@@ -4032,7 +4052,7 @@ d' = velocidade do papel em milímetros/minuto.
 
 A título de exemplo, são dadas as seguintes condições:
 
-# Parte A:
+Parte A:
 
 Coluna: aço inoxidável;
 
@@ -4042,7 +4062,7 @@ Diâmetro: 3 mm;
 
 Enchimento: 20% de dodecilftalato em Gaschrome Q 100-120 mesh;
 
-# Parte B:
+Parte B:
 
 Coluna: aço inoxidável;
 
@@ -4192,7 +4212,7 @@ Aplicar sobre a placa de gele de sílica (3.1) 1,0 (mi)l de solução padrão (3
 
 5.3.4 - Observar a placa sob radiação ultravioleta a 360 nm. A quinina aparece sob a forma de uma mancha fluorescente azul intensa. A título de exemplo, o quadro seguinte reproduz os valores de Rf dos principais alcalóides da quina, usando o mesmo eluente (3.2):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 5.3.5 - Para posterior confirmação da identificação da quinina, expõe-se durante cerca de uma hora a placa aos vapores de bromo (3.7); a fluorescência desaparece. Expondo seguidamente a mesma placa aos vapores de amoníaco (3.8), as manchas reaparecem com uma coloração castanha e, observando a placa sob raios ultravioletas a 360 nm, constata-se uma fluorescência amarelada. Limite de identificação: 0,1 (mi)g de quinina.
 
@@ -4530,7 +4550,7 @@ Todos os reagentes devem ser de qualidade analítica.
 
 Aparelho para destilação do anidrido sulfuroso segundo Tanner
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf)
 
 5.8 - Retirar o recipiente D que contém o destilado. Lavar o tubo e, seguidamente, titular por meio de uma solução de hidróxido de sódio (3.4), até que o indicador (3.6) vire para verde.
 
@@ -4770,7 +4790,7 @@ O zinco em solução é precipitado, em meio ácido, sob a forma de 2-metil-8-ox
 
 Todos os reagentes devem ser de qualidade analítica.
 
-4.1 - Amónia concentrada a 25% (m/m): [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
+4.1 - Amónia concentrada a 25% (m/m): [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35673597.pdf).
 
 4.2 - Ácido acético glacial.
 

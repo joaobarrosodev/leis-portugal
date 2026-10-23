@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/264/1994/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-1994-251867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c27ce1860e3e9bdacb64aec4f0509443af714bf76131d39af1aaf62fc4318038
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9808c2f6ef7c61a8fa386116a76314e59d4b838cbfe75ca20619d76d4f0235b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
 - Aproximação das Legislações
 - Etiquetagem
-- Aditivo Alimentar
+- Produto Alimentar
 relationships:
 - type: cites
   target: celex:31988L0388
@@ -83,13 +83,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:22Z'
   warnings: []
   errors: []
 ---
@@ -156,6 +156,6 @@ i) Se se tratar de uma mistura de aromatizante ou aromatizantes com outras subst
 
 Ministérios da Agricultura, da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 24 de Março de 1994.**
+Assinada em 24 de Março de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.

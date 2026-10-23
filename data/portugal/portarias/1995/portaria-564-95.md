@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/564/1995/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/564-1995-518808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc9d354bf2e6eea2e5b186217e63b3d6d5c856560b070fa9ca3a833ff66aa7fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1b2f0df9b7de4523fcbca823de988ed773fba34894dca07fbc104d9deeff2bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Engenharia Electrónica e de Automação
 - Ensino Superior Politécnico
 - Escola Superior de Ciência e Tecnologia
 - GAIA
 - Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:240811:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240811:por
+  label: "Determinada, nos termos do art. 3º da Port. 344/2003, a caducidade do curso de Estudos Superiores em Engenharia\
+    \ Electronica e de Automatização cujo funcionamento foi autorizado no presente diploma pela PORT.344/2003.2003.04.29.MCES,\
+    \ DR.IS [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-2003-240811
+  date: '2003-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565457:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:43Z'
   warnings: []
   errors: []
 ---
@@ -324,10 +343,10 @@ A autorização e reconhecimento estabelecidos na presente portaria não prejudi
 
 Ministério da Educação.
 
-**Assinada em 4 de Abril de 1995.**
+Assinada em 4 de Abril de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Curso de estudos superiores especializados em Engenharia Electrónica e de Automação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/135b00/38093811.pdf))](https://files.diariodarepublica.pt/1s/1995/06/135b00/38093811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/135b00/38093811.pdf)

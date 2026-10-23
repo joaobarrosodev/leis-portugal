@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298b00/73847388.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1152/1994/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1152-1994-575878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d87367d99502ea24e7e1ace9f0f636cf692dc43e6b192ec2a2aa68fec2bd6f32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1911bf9cf6a8ebd1df5145673b136d635fb5094f7fbb91226cd68f86e866ab1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Assessoria de Gestão
 - Curso de Estudos Superiores Especializados em Auditoria
 - Curso de Estudos Superiores Especializados em Comércio Internacional
@@ -77,6 +76,7 @@ subjects:
 - Instituto Politécnico
 - Instituto Superior de Contabilidade e Administração
 - Licenciatura
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
@@ -87,16 +87,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/894/1991/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/894/1991/08/30/p/dre
+- type: cites
+  target: pt:dre:221318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496350:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:534667:por
+  label: "Rectificada e publicados os quadros 1, 2 e 3 do anexo V, pela DECL-RECT.22/95.28.02.1995.PCM, DR.IS-B [50]2ºSupl\
+    \ de 28.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-1995-534667
+  date: '1995-02-28'
+- type: repealed_by
+  target: pt:dre:532864:por
+  label: "Revogada, na parte que autorizou o Instituto Politécnico do Porto, através do seu Instituto Superior de Contabilidade\
+    \ e Administração, a conferir o diploma de estudos superiores especializados em Comércio Internacional, findo o processo\
+    \ de transição fixado nos termos do artigo 31.º do Regulamento aprovado pela Port 413-A/98, de 17-Jul, pela PORT.1001/2000.2000.10.18.ME\
+    \ DR.IS-B [241] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1001-2000-532864
+  date: '2000-10-18'
+- type: repealed_by
+  target: pt:dre:592743:por
+  label: "Revogada pela PORT.1127/2000.2000.11.28.ME DR.IS-B [275], nos termos do art. 31.º do Regulamento aprovado pela Port\
+    \ 413-A/98 de 17-Jul\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1127-2000-592743
+  date: '2000-11-28'
+- type: repealed_by
+  target: pt:dre:619969:por
+  label: "Revogada, na parte em que autorizou o Instituto Politécnico do Porto através do seu Instituto Superior de Contabilidade\
+    \ e Administração a conferir os diplomas de estudos especializados em auditoria, em gestão financeira e em contabilidade\
+    \ e administração de empresas, nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul, pela PORT.1160/2001.2001.10.03.ME,\
+    \ DR.IS-B [230]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-2001-619969
+  date: '2001-10-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:20Z'
   warnings: []
   errors: []
 ---
@@ -359,8 +411,8 @@ b) [Portaria n.º 894/91](https://diariodarepublica.pt/dr/detalhe/portaria/894-1
 
 Ministério da Educação.
 
-**Assinada em 24 de Novembro de 1994.**
+Assinada em 24 de Novembro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298b00/73847388.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298b00/73847388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b00/73847388.pdf)

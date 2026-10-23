@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1016/1994/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1016-1994-549849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:15:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 379f29707a2a0a6e61f5bd677816099ab9896351d8f309757c3f692396d835b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00756f6d60ae97547b422a5951c1c6f40f9e4ff3c6f00c4691cd93ae4c97de47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:15:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,28 @@ reuse:
 subjects:
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
 - Prova de Aferição
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:15:34Z'
   warnings: []
   errors: []
 ---
@@ -120,12 +124,12 @@ f) Cursos constantes do quadro P - o programa oficialmente em vigor nas discipli
 
 Ministério da Educação.
 
-**Assinada em 2 de Novembro de 1994.**
+Assinada em 2 de Novembro de 1994.
 
-**A Ministra da Educação, Maria Manuela Dias Ferreira Leite.**
+A Ministra da Educação, Maria Manuela Dias Ferreira Leite.
 
-## ANEXO À PORTARIA N.º 1016/94
+ANEXO À PORTARIA N.º 1016/94
 
 Disciplinas sobre que incide o exame nacional previsto no artigo 7.º do [Decreto-Lei n.º 189/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1992-240823), de 3 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/268b00/68916897.pdf))](https://files.diariodarepublica.pt/1s/1994/11/268b00/68916897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/268b00/68916897.pdf)

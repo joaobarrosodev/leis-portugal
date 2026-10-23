@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/200/1995/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/200-1995-185562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 873e7d997a50c4b2ed516ea8c7620673e87069972c8f67949dfb355f6628e0e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55d7fc69121d0da4e095cb5b40560bd79bea49dc6f230f9d8d7573b558bf7fc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Bragança
 - Curso de Engenharia Electrotécnica
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
-- Bragança
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:655324:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397961:por
+  label: "Alterado o anexo ao presente diploma pela Port 346/97.1997.05.22.ME, DR.IS-B [118] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-1997-397961
+  date: '1997-05-22'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655324:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31.º do Regulamento aprovado pela Port 413-A/98,\
+    \ de 17-Jul, pela PORT.1096/99.1999.12.17.ME DR.IS-B [292]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1096-1999-655324
+  date: '1999-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:56Z'
   warnings: []
   errors: []
 ---
@@ -142,8 +161,8 @@ O curso referido no n.º 1.º entrará em funcionamento, progressivamente, um an
 
 Ministério da Educação.
 
-**Assinada em 2 de Fevereiro de 1995.**
+Assinada em 2 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/066b00/14801481.pdf))](https://files.diariodarepublica.pt/1s/1995/03/066b00/14801481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/066b00/14801481.pdf)

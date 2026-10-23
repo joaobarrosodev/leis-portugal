@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 98/1995, 1º Suplemento, Série I-B de 1995-04-27
   number: '98'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2388-(2) a 2388-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/098b01/00020006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/366-a/1995/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/366-a-1995-276786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c3571ccd59940a5973cab4def21e57b285982ef93b7b108a0f6d4752b1ae11f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07029c9d65b317fabb1ca7abaf1ee3c5fe4e1ffc8a6cddd7a3f9206c7a2b94c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cinema
 - Financiamento
-- Produção Cinematográfica
+- Indústria Cinematográfica
 - Instituto Português da ARTE Cinematográfica e Audiovisual
 - Material Audiovisual
+- Produção Cinematográfica
 - Prorrogação de Prazo
 - Regulamento
-- Cinema
-- Indústria Cinematográfica
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:480711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193582:por
+  label: "Mantida em vigor, com excepção do cap. III do regulamento, pelo DEC LEI.15/99.1999.01.15.MC DR.IS-A [12], até à\
+    \ aprovação das respectivas normas de execução\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1999-193582
+  date: '1999-01-15'
+- type: amended_by
+  target: pt:dre:480711:por
+  label: "Mantida em vigor,com excepção do cap. III do presente regulamento, pela LEI.42/2004.18.08.2004.AR, DR.IS-A [194]\
+    \ de 18.08.2004, até à aprovação das normas de execução da mesma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2004-480711
+  date: '2004-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
+- type: cites
+  target: pt:dre:180648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:214537:por
+  label: "Revogados os arts. 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º e 28.º do regulamento\
+    \ anexo, pela PORT.515/96.26.09.1996.MC, DR.IS-B [224] de 26.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-1996-214537
+  date: '1996-09-26'
 article_structure:
   article_count: 31
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:52Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +164,7 @@ c) O prazo de 31 de Março a que se refere o n.º 2 do artigo 23.º é prorrogad
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 30 de Março de 1995.**
+Assinada em 30 de Março de 1995.
 
 O Subsecretário de Estado da Cultura, Manuel Joaquim Barata Frexes.
 

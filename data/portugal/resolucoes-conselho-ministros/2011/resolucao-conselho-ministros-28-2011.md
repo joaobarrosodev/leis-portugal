@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/07/13100/0397603976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/28/2011/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-2011-670761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27aabda39fb78b614e3fd8949519987397a40794ec5038a7a60dde5c0286b65b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b96a38daf8d72a471a3f528944707a235879bf820aee1aabba3b00d97e84fab5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Apoio Administrativo
 - Apoio Técnico
-- Financiamento
-- Esame
-- Dívida Pública Externa
-- Gestão Financeira
-- Criação de Serviços
-- Equipa de Missão
 - Banco Central Europeu
-- União Europeia
+- Criação de Serviços
+- Dívida Pública Externa
+- Equipa de Missão
+- Esame
+- Financiamento
 - FMI
-- Secretaria Geral
+- Gestão Financeira
 - PCM-Entidades
-- Secretário de Estado Adjunto do Primeiro-ministro
 - Presidência do Conselho de Ministros
+- Secretaria Geral
+- Secretário de Estado Adjunto do Primeiro-ministro
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:179012:por
@@ -98,16 +98,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179012:por
+  label: "Revogada pelo DEC LEI.177/2012.03.08.2012.PCM, DR.IS [150] de 03.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2012-179012
+  date: '2012-08-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:38Z'
   warnings: []
   errors: []
 ---

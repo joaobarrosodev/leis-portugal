@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1446/1995/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1446-1995-633732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e32ffef9119f13ab7d5467624300fe4f66e1049b556e981dad6fb2b40f64243c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d62da633e88de342f8adb1d4474c58d20567242a506586c44cefce0b5e987ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,21 @@ relationships:
   target: pt:dre:165456:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165456:por
+  label: "Alterado o nº 2, nº 1 pela PORT.128/99.1999.02.22.MF, DR.IS-B [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1999-165456
+  date: '1999-02-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:13Z'
   warnings: []
   errors: []
 ---
@@ -177,6 +182,6 @@ d) Recomendar a realização de outras acções susceptíveis de contribuir para
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Outubro de 1995.**
+Assinada em 10 de Outubro de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

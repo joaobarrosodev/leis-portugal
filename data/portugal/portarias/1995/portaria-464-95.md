@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/112b00/28292829.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/464/1995/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/464-1995-507257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30f73fd571e166f47d74e50c0b43469f3905fb7a318e6277116510bc1ff03447
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7139c8742f364e333a5a53f6a53d5d946a4d395436ee3d5e73cb8da82d34fe55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/562/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/562/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:146232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294698:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157239:por
+  label: "Revogada pela PORT.254-FU/96.1996.07.15.MADRP DR.IS-B [162]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-fu-1996-157239
+  date: '1996-07-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:15Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +127,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 35/95](ht
 
 Ministério da Agricultura.
 
-**Assinada em 20 de Abril de 1995.**
+Assinada em 20 de Abril de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/112b00/28292829.pdf))](https://files.diariodarepublica.pt/1s/1995/05/112b00/28292829.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/112b00/28292829.pdf)

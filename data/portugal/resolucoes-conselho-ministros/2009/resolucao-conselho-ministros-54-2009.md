@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/54/2009/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-2009-491955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e25e71928632ceb8996862302310a8134893ebf75e9b6ba6e5ca3b875e7861f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cac93c19a3ed675dcd039e1eaa7c981919fb15b6bd5145d3401feb2e8480581
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Transporte
-- Crime
-- Conselho de Segurança Rodoviária
+- Autoridade Nacional de Segurança Rodoviária
 - Carta de Condução
-- Exame de Condução
-- Formação Profissional
-- Transporte Rodoviário
+- Conselho de Segurança Rodoviária
+- Crime
+- Educação Permanente
 - Ensino de Condução
 - Escola de Condução
+- Exame de Condução
 - Fiscalização Rodoviária
+- Formação Profissional
 - Instrutor de Condução
-- Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
-- Educação Permanente
 - Sanção
+- Segurança Rodoviária
 - Taxa de Alcoolemia
+- Transporte Rodoviário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/31/2007/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/2007/08/10/p/dre
+- type: cites
+  target: pt:dre:637428:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:24Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +136,4 @@ Aprovar a Estratégia Nacional de Segurança Rodoviária (ENSR) 2008-2015, que c
 
 Presidência do Conselho de Ministros, 14 de Maio de 2009. - Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/12200/0416004188.pdf))](https://files.diariodarepublica.pt/1s/2009/06/12200/0416004188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/12200/0416004188.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/81-2012-175805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47b8a952f0a1b7fa180a7cbc1f5cf34a46645d340f18363f219a89bb325a0ee0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6136f8ded6e31bb4eef7359f721ec7aa390cf7d933e489947407c8db453ef0e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Nacional da ÁGUA
-- Reserva Ecológica Nacional
-- Ordenamento do Território
-- Definição de Competências
-- Proteção do Ambiente
-- Política de Solos
 - Comissão da Reserva Ecológica Nacional
+- Definição de Competências
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:124256708:por
@@ -118,16 +118,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
+- type: cites
+  target: pt:dre:221675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668678:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:190630:por
+  label: "Retificado o anexo pela DECL-RECT.71/2012.30.11.2012.PCM, DR.IS [232] de 30.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/71-2012-190630
+  date: '2012-11-30'
+- type: repealed_by
+  target: pt:dre:124256708:por
+  label: Revogada pelo(a) Decreto-Lei n.º 124/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2019-124256708
+  date: '2019-08-28'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:34Z'
   warnings: []
   errors: []
 ---
@@ -1180,7 +1270,7 @@ Reserva Ecológica Nacional
 
 Esquema Nacional de Referência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 #### SECÇÃO V
 
@@ -1234,7 +1324,7 @@ A profundidade da zona não saturada (D) é a profundidade do topo do aquífero,
 
 Parâmetro D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 O parâmetro recarga do aquífero (R) mede a quantidade de água que chega anualmente ao aquífero através da precipitação que se escoa verticalmente até atingir o nível freático, fazendo aumentar a quantidade de água subterrânea armazenada. O valor da recarga pode ser estimado por métodos que utilizam a equação de balanço hídrico do solo ou os que utilizam diretamente variáveis hidrogeológicas. A escolha da metodologia depende dos dados existentes e da sua qualidade. A APA, I. P., disponibiliza alguns valores de recarga para alguns sistemas aquíferos.
 
@@ -1246,19 +1336,19 @@ em que P é a precipitação, Es é o escoamento superficial, ETR é a evapotran
 
 Parâmetro R
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 A geologia do aquífero (A) considera que quanto mais permeável for o material dos aquíferos maiores são as hipóteses de contaminação das águas subterrâneas.
 
 Parâmetro A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 A topografia (T) define os declives do terreno que, quanto mais elevados forem, menor é a infiltração. Deste modo, declives mais atenuados promovem uma maior infiltração e transporte dos contaminantes para as águas subterrâneas.
 
 Parâmetro T
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 Após a classificação dos vários parâmetros (D, R, A, T) é efetuada a soma ponderada de acordo com a equação para o cálculo do IS. Quanto maiores forem os valores finais de IS obtidos, tanto maior é a probabilidade de determinada área ser mais vulnerável à contaminação das águas subterrâneas. A classificação dos valores de IS é, de seguida, efetuada em função da sua vulnerabilidade.
 
@@ -1266,7 +1356,7 @@ Para efeitos de delimitação da REN consideram-se as áreas mais vulneráveis �
 
 Classificação da vulnerabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 b) Sistemas aquíferos cársicos
 
@@ -1278,19 +1368,19 @@ A cada parâmetro é atribuído um valor segundo uma classificação que tem em 
 
 Parâmetro E
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 Parâmetro P
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 Parâmetro I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 Parâmetro K
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 Após a classificação dos vários parâmetros (E, P, I, K) é efetuada a soma ponderada de acordo com a seguinte expressão:
 
@@ -1302,7 +1392,7 @@ Para efeitos de delimitação da REN consideram-se as áreas mais vulneráveis �
 
 Classificação da vulnerabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 c) Sistemas aquíferos fissurados
 
@@ -1326,7 +1416,7 @@ Para efeitos de delimitação da REN consideram-se as áreas mais vulneráveis �
 
 Natureza da zona não saturada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 3 - Procedimentos metodológicos para a delimitação das zonas ameaçadas pelas cheias
 
@@ -1340,7 +1430,7 @@ Os estudos hidrológicos incorporam mais de uma metodologia específica para obt
 
 Para bacias hidrográficas com áreas compreendidas entre 10 km2 e 600 km2 aconselha-se a utilização do método de cálculo do caudal de ponta de cheia do Soil Conservation Service [SCS, 1972 (13) e 1973 (14)] ou o método racional, sendo mais apropriado o método de Temez (1978) (15) para bacias hidrográficas com áreas próximas do limite superior do intervalo referido anteriormente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 Como metodologia alternativa, em situações de ausência ou escassez de dados e de informação hidrometeorológica, pode recorrer-se ao procedimento hidrológico expedito válido para bacias hidrográficas com áreas entre 10 km2 e 600 km2. Este procedimento expedito obriga à determinação prévia da área da bacia hidrográfica (A) e à aplicação das seguintes equações:
 
@@ -1378,7 +1468,7 @@ LS = (lambda)72,6m65,41sen2(teta) + 4,56sen(teta) + 0,065
 
 em que (lambda) é o comprimento do desnível em pés, (teta) é o ângulo associado à inclinação do desnível e m o coeficiente que depende do declive.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 C - fator relativo ao tipo de culturas e sua sequência, baseado na correspondência entre as cartas Corine Land Covere COS'90 e o valor de C proposto por Pimenta (1999); e
 
@@ -1388,7 +1478,7 @@ Esta metodologia tem como base os estudos de Wischmeier e Smith (1978) (17) e de
 
 Erosividade da precipitação R (449 postos 50.8 mm)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 Após o cálculo de A estima-se a perda de solo específico recorrendo à Razão de Cedência dos Sedimentos (SDR). A SDR foi determinada a partir de pares de valores de área de drenagem (Ab), expressa em km2, e de SDR, expressa em percentagem [SCS, 1971, in Cardoso, 1984 (19) e in Mitchell e Bubenzer, 1980 (20)], aos quais se ajustou a equação do tipo potencial:
 
@@ -1400,7 +1490,7 @@ Pse = SDR x A
 
 Em temos de classificação qualitativa da perda do solo associada a um risco de erosão hídrica, aplicam-se os valores indicados no quadro seguinte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
 
 5 - Procedimentos metodológicos para a delimitação das áreas de instabilidade de vertentes
 
@@ -1528,4 +1618,4 @@ UTAD - Universidade de Trás-os-Montes e Alto Douro.
 
 Glossário de termos técnicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19200/0550205527.pdf)

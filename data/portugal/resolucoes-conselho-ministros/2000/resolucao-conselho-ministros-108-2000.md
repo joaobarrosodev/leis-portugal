@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/108/2000/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-2000-324374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fc4aa0de125283a15d330abd1af825ad38750eb916d6646deddd42cf39e3de8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a4eee8812c90a10b532e6b5aeab6d0b261a187c28b951efc70ff3e0dc20b9c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério do Trabalho e da Solidariedade
-- Formação Profissional
+- Ação Social
+- Base de Dados
+- Centro Educativo
+- Coimbra
 - Comissão de Protecção de Menores
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
 - Educação
 - Equipamento Social
-- Ação Social
-- Lisboa
-- Ministério da Justiça
-- Base de Dados
-- Instituto de Reinserção Social
-- Menoridade
-- Orçamento
-- Tutela de Menores
-- Setúbal
-- Programa de Acção
-- Coimbra
-- Programa de Acção para a Entrada em Vigor da Reforma do Direito de Menores
+- Formação Profissional
 - Inserção Social
-- Centro Educativo
-- Prevenção Criminal
+- Instituto de Reinserção Social
+- Lisboa
+- Menoridade
+- Ministério da Justiça
+- Ministério do Trabalho e da Solidariedade
+- Orçamento
 - Porto
+- Prevenção Criminal
+- Programa de Acção
+- Programa de Acção para a Entrada em Vigor da Reforma do Direito de Menores
+- Setúbal
+- Tutela de Menores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
@@ -96,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/166/1999/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/166/1999/09/14/p/dre
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:11Z'
   warnings: []
   errors: []
 ---

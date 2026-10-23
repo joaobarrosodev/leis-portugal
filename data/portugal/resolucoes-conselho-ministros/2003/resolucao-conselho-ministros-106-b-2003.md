@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 184/2003, 1º Suplemento, Série I-B de 2003-08-11
   number: '184'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4792-(2) a 4792-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/184b01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/106-b/2003/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-b-2003-607106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe4aee7e8e83934285c3c034d86dc83660f10a015b2388ae2c55ee9442e84f58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e21ee019e2f16fc5c1bcbb34cab683be6435893db5f48388efb5d5e6807e0d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,43 +68,72 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda aos Sinistrados
-- Incêndio
-- Financiamento
-- Desenvolvimento Rural
-- Comissão
+- Bragança
+- Castelo Branco
 - Catástrofe
+- Coimbra
+- Comissão
+- Desenvolvimento Rural
+- Financiamento
+- Guarda
+- Incêndio
 - Indemnização Compensatória
 - Leiria
-- Setúbal
-- Castelo Branco
-- Coimbra
-- Portalegre
 - Pequenas e Médias Empresas
 - PME
+- Portalegre
 - Santarém
-- Bragança
-- Subsídio Complementar
-- Guarda
+- Setúbal
 - Situação de Calamidade
+- Subsídio Complementar
 relationships:
 - type: amended_by
   target: pt:dre:261882:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482394:por
+  label: "Alterado o n.º 1, na redacção da Res 123/2003, de 14-Ago, pela RES.161/2003.18.09.2003.PCM, DR.IS-B [234] de 09.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/161-2003-482394
+  date: '2003-08-04'
+- type: amended_by
+  target: pt:dre:655919:por
+  label: "Alterado o nº 1 pela RES.123/2003.2003.08.14.PCM DR.IS-B [195] de 25/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/123-2003-655919
+  date: '2003-08-14'
+- type: amended_by
+  target: pt:dre:582224:por
+  label: "Alargado à cortiça e ao sobreiro o âmbito de aplicação da intervenção prevista no nº 4 do anexo deste diploma, alterado\
+    \ pelas Res 123/2003 de 25-Ago e 161/2003 de 09-Out, pela RES.8/2004.17.01.2004.PCM, DR.IS-B [31] de 06.02.2004\004\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/8-2004-582224
+  date: '2004-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/106-a/2003/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/106-a/2003/08/09/p/dre
+- type: cites
+  target: pt:dre:355126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618731:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:12Z'
   warnings: []
   errors: []
 ---

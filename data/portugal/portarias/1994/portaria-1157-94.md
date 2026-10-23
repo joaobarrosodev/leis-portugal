@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1157/1994/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1157-1994-321730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a58363e32d5c042fe0077c299cd259cc5610e00113a74e6b5ad5ec4c67e9edc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a73549fb5d037f059c3c4d9c83af0d63c125cc5411df50a2ccb83640510803a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aveiro
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Administração Empresarial
 - Curso de Estudos Superiores Especializados em Auditoria Contabilística
 - Diploma
+- Ensino Superior
 - Impresso
 - Instituto Superior de Contabilidade e Administração
 - Licenciatura
 - Numerus Clausus
+- Plano de Estudos
 - Prazo
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:321940:por
@@ -87,16 +87,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/734/1991/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/734/1991/07/31/p/dre
+- type: cites
+  target: pt:dre:220884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686434:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321940:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, pela PORT.327/99.1999.05.12.ME, DR.IS-B [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-1999-321940
+  date: '1999-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:40Z'
   warnings: []
   errors: []
 ---
@@ -369,11 +407,11 @@ c) [Portaria n.º 229/88](https://diariodarepublica.pt/dr/detalhe/portaria/229-1
 
 Ministério da Educação.
 
-**Assinada em 24 de Novembro de 1994.**
+Assinada em 24 de Novembro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/301b00/75017505.pdf))](https://files.diariodarepublica.pt/1s/1994/12/301b00/75017505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/301b00/75017505.pdf)
 
 ## ANEXO V — Diploma
 
@@ -383,9 +421,9 @@ R (ver nota a) P
 
 Instituto Superior de Contabilidade e Administração de Aveiro,... (ver nota h)
 
-**O Presidente do Conselho Directivo,... (ver nota i).**
+O Presidente do Conselho Directivo,... (ver nota i).
 
-**O secretário,... (ver nota j).**
+O secretário,... (ver nota j).
 
 (nota a) Símbolo do Instituto Superior de Contabilidade e Administração de Aveiro.
 
@@ -415,9 +453,9 @@ R (ver nota a) P
 
 Instituto Superior de Contabilidade e Administração de Aveiro,... (ver nota i).
 
-**O Presidente do Conselho Directivo, ... (ver nota j).**
+O Presidente do Conselho Directivo, ... (ver nota j).
 
-**O Secretário ... (ver nota l).**
+O Secretário ... (ver nota l).
 
 (nota a) Símbolo do Instituto Superior de Contabilidade e Administração de Aveiro.
 

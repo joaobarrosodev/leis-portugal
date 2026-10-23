@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/297b00/81808180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1483/1995/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1483-1995-643125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 365e94a86d9933f356577339048ca19a425d5484f5d0f13294b6080defd59430
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72aac9042daac83112a6148b9f69bc9709f234684a6cfd4f78f750522a77f38d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Informática de Gestão
 - Ensino Superior Politécnico
 - Escola Superior de Gestão
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
 relationships:
 - type: amended_by
   target: pt:dre:627257:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620325:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228418:por
+  label: "Revogado o nº 4º - sendo reposto em vigor o nº 1º da Port 438/89, de 15-Jun -, pela PORT.580/96.1996.10.16.ME, DR.IS-B\
+    \ [240]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/580-1996-228418
+  date: '1996-10-16'
+- type: repealed_by
+  target: pt:dre:627257:por
+  label: "Revogada, findo o processo de transição fixado no art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul,\
+    \ alterada pela Port 533-A/99 de 22-Jul, pela PORT.1056/99.1999.12.03.ME, DR.IS-B [281] \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1056-1999-627257
+  date: '1999-12-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:08Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +138,7 @@ O plano de estudos do curso de Informática de Gestão, ministrado pela Escola S
 
 Regime de transição
 
-**O presidente do Instituto Politécnico, sob proposta do director da Escola Superior de Gestão, ouvido o conselho científico, fixará as regras do regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos.**
+O presidente do Instituto Politécnico, sob proposta do director da Escola Superior de Gestão, ouvido o conselho científico, fixará as regras do regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos.
 
 3.º
 
@@ -130,8 +154,8 @@ Revogação
 
 Ministério da Educação.
 
-**Assinada em 29 de Setembro de 1995.**
+Assinada em 29 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/297b00/81808180.pdf))](https://files.diariodarepublica.pt/1s/1995/12/297b00/81808180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/297b00/81808180.pdf)

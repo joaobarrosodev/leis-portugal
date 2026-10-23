@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 123/1994, 1º Suplemento, Série I-B de 1994-05-27
   number: '123'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2812-(2) a 2812-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/123b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/326-b/1994/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/326-b-1994-362278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc0012641ef6b699c57697c57a4782a0f38c6fb855a99a819f5e76b3136ad68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 106e24cdcad177ddd88bf136b9b5e9ac431aed44c5502525a7a9cdebb6c42840
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/124/1994/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/124/1994/05/18/p/dre
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:57Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +133,7 @@ Definição de PE
 
 1 - O «preço da Europa sem taxas» é o valor calculado para cada produto e período de referência da forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/123b01/00020003.pdf))](https://files.diariodarepublica.pt/1s/1994/05/123b01/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/123b01/00020003.pdf)
 
 2 - A conversão para escudos dos preços antes de impostos em moeda estrangeira é feita utilizando um câmbio que corresponde à majoração de 2(por mil) das cotações das divisas fixadas indicativamente pelo Banco de Portugal nos dias em que forem publicados os valores de preços respectivos ou, no caso de tais cotações não existirem, as que se referem ao dia imediatamente a seguir.
 
@@ -181,6 +185,6 @@ A presente portaria entra em vigor no dia 1 de Junho de 1994.
 
 Ministérios das Finanças, da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 26 de Maio de 1994.**
+Assinada em 26 de Maio de 1994.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.**
+O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.

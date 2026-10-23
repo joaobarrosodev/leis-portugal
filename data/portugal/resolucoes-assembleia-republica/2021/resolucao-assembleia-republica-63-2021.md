@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02900/0000400019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/63/2021/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/63-2021-157116187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc75c6aa59510fc7539aa589bd6cecf69e0a2afe824e945a15a7f82df0e1d843
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d12ff35b6d488cb2eb092108a6c3382c6a19294efb222e16d63ce3da0f51aee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Estatuto
-- Cooperação Internacional
-- Privilegios e Imunidades
 - Bruxelas
+- Convenção
+- Cooperação Internacional
+- Estatuto
+- Portugal
+- Privilegios e Imunidades
 - Tribunal Unificado de Patentes
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:157116186:por
+  label: Ratificado o Protocolo sobre os Privilégios e Imunidades do Tribunal Unificado de Patentes pelo(a) Decreto do Presidente
+    da República n.º 11/2021 - Diário da República n.º 29/2021, Série I de 2021-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/11-2021-157116186
+  date: '2021-02-11'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:16Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de dezembro de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
 PROTOCOL ON PRIVILEGES AND IMMUNITIES OF THE UNIFIED PATENT COURT
 
@@ -328,7 +334,7 @@ In witness whereof, the undersigned, being duly authorized thereto, have signed 
 
 Done at Brussels this 29th of June 2016 in the English, French and German languages, all three texts being equally authentic, in a single copy, which shall be deposited with the depositary who shall transmit a certified true copy to all signatory and acceding States.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/02/02900/0000400019.pdf))](https://files.diariodarepublica.pt/1s/2021/02/02900/0000400019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/02/02900/0000400019.pdf)
 
 PROTOCOLO SOBRE OS PRIVILÉGIOS E IMUNIDADES DO TRIBUNAL UNIFICADO DE PATENTES
 
@@ -492,7 +498,7 @@ b) A entrada e saída do território de todas as pessoas notificadas ou convocad
 
 ###### Artigo 15.º — Notificação
 
-**O Secretário comunicará a todos os Estados Partes, no prazo de um mês da entrada em vigor do presente Protocolo, os nomes dos juízes, do Secretário e do pessoal a quem o presente Protocolo se aplica. Além disso, a nomeação/chegada de qualquer juiz, Secretário ou pessoal ao Tribunal e qualquer alteração das circunstâncias será notificada o mais rápido possível e, o mais tardar, um mês a contar da data da mudança de circunstâncias em causa.**
+O Secretário comunicará a todos os Estados Partes, no prazo de um mês da entrada em vigor do presente Protocolo, os nomes dos juízes, do Secretário e do pessoal a quem o presente Protocolo se aplica. Além disso, a nomeação/chegada de qualquer juiz, Secretário ou pessoal ao Tribunal e qualquer alteração das circunstâncias será notificada o mais rápido possível e, o mais tardar, um mês a contar da data da mudança de circunstâncias em causa.
 
 ###### Artigo 16.º — Resolução de diferendos
 
@@ -521,3 +527,5 @@ Um Estado Membro Contratante pode, a qualquer momento, notificar o depositário 
 Em fé do que, os abaixo assinados, devidamente autorizados para o efeito, assinaram o presente Protocolo.
 
 Feito em Bruxelas, em 29 de junho de 2016, nas línguas inglesa, francesa e alemã, fazendo todos os três textos igualmente fé, num único exemplar, que será depositado junto do depositário, que transmitirá uma cópia autenticada a todos os Estados signatários e aderentes.
+
+113941553

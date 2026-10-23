@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/258b00/68656866.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1323/1995/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1323-1995-674013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62d5453730544ab8b03160d91f1e9a5ca19dd3fcecd5397cf727e198c6268759
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f002ce476036062f6d0dd72cefeba885abd8fcd0dc76c0f03f7c8c56ffe44eac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Contabilidade e Finanças
 - Ensino Superior Politécnico
 - Escola Superior de Ciências Empresariais
 - Instituto Politécnico
+- Plano de Estudos
 - Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:239254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:239254:por
+  label: "Revogada nos termos do art. 31º do Regulamento Geral, aprovado pela Port 413-A/98 de 17-Jul, pela PORT.13/2001.2001.01.10.ME,\
+    \ DR.IS-B [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/13-2001-239254
+  date: '2001-01-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:21Z'
   warnings: []
   errors: []
 ---
@@ -158,8 +172,8 @@ O curso referido no n.º 1.º entrará em funcionamento, progressivamente, um an
 
 Ministério da Educação.
 
-**Assinada em 28 de Setembro de 1995.**
+Assinada em 28 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/258b00/68656866.pdf))](https://files.diariodarepublica.pt/1s/1995/11/258b00/68656866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/258b00/68656866.pdf)

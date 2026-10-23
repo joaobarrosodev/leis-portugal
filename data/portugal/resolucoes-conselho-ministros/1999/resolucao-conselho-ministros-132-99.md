@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/132/1999/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/132-1999-692072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdfb60c9aaf2089a5ca3f896569097cca9c1df89f848b7ed00bcb471040e662d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fef4dbd12bb346c5babc18f0155c2b993d9a819c4779a00d2627cfdb6a4722b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,19 @@ reuse:
 subjects:
 - Alcobaça
 - Ordenamento do Território
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:125602959:por
+  label: Tornada pública a alteração do art. 3.º e aditado o Capítulo III - Regimes de Proteção e Salvaguarda da Orla Costeira
+    ao Regulamento do do Plano de Pormenor da Zona Marginal e da Baía de São Martinho do Porto por Adaptação ao Programa da
+    Orla Costeira de Alcobaça-Cabo Espichel, ratificado pela presente resolução, pelo(a) Declaração n.º 88/2019 - Diário da
+    República n.º 204/2019, Série II de 2019-10-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/88-2019-125602959
+  date: '2019-10-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -80,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/177/1997/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/177/1997/10/25/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673670:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:09Z'
   warnings: []
   errors: []
 ---
@@ -314,7 +334,7 @@ A Reserva Agrícola Nacional e a Reserva Ecológica Nacional estão delimitadas 
 
 A zona não urbana inclui as duas subzonas DP 1 e DP 2.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 ###### Artigo 10.º — Reserva Agrícola Nacional e Reserva Ecológica Nacional
 
@@ -326,39 +346,39 @@ As Reservas Agrícola Nacional e Ecológica Nacional, delimitadas na planta de c
 
 Nesta zona não se permite qualquer ocupação para além das situações constantes do quadro seguinte:
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 ###### Artigo 12.º — Zona urbana de ocupação condicionada (OC) - Subzonas OC 1, OC 2 e OC 3
 
 1 - Nesta zona (OC) admitem-se as alterações e ocupações constantes do quadro seguinte:
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 2 - Nas subzonas admitem-se as ocupações constantes do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 ###### Artigo 13.º — Zona urbana do cais (ZD)
 
 Esta zona é caracterizada pela manutenção do existente, admitindo-se as intervenções constantes do quadro seguinte:
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 ###### Artigo 14.º — Zona urbana histórica (ZH)
 
 Esta zona é caracterizada pela manutenção e reconversão do edificado existente, admitindo-se o constante do quadro seguinte:
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 ###### Artigo 15.º — Zona de consolidação urbana (ZU) e subzonas ZU 1, ZU 2, ZU 3, ZU 4, ZU 5, ZU 6 e ZU 7
 
 1 - Esta zona é caracterizada pela manutenção e reconversão e admitem-se novas edificações para recompletamento da malha urbana e nos casos de alterações do existente deve ter-se em consideração as novas implantações, admitindo-se o constante do quadro seguinte:
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 2 - Nas subzonas admitem-se as ocupações constantes dos quadros seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 3 - Os edifícios assinalados como «manutenção» na planta de implantação apenas podem ser sujeitos a obras de restauro e manutenção.
 
@@ -366,11 +386,11 @@ Esta zona é caracterizada pela manutenção e reconversão do edificado existen
 
 1 - Esta zona é caracterizada pela necessidade de se consolidar a expansão urbana e deve obedecer aos seguintes condicionalismos:
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 2 - Nas subzonas admitem-se as ocupações constantes dos quadros seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 3 - Os edifícios assinalados como «manutenção» na planta de implantação apenas podem ser sujeitos a obras de restauro e manutenção.
 
@@ -380,11 +400,11 @@ Esta zona é caracterizada pela manutenção e reconversão do edificado existen
 
 Admitem-se as ocupações constantes do quadro seguinte:
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 2 - Nas subzonas ZA 1, ZA 2 e ZA 3, admitem-se as ocupações constantes do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)](https://files.diariodarepublica.pt/1s/1999/10/253b00/73147322.pdf)
 
 3 - Os edifícios assinalados como «manutenção» na planta de implantação apenas podem ser sujeitos a obras de restauro e manutenção.
 

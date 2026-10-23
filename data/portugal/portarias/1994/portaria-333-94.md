@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/126b00/28462847.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/333/1994/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/333-1994-301641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6461b277ca44bccc12ecbbee6a8dcd14207670ef097963494dce6de76092c502
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f7920a33c0a1655f9bb56d24e2f0c3ab8a056c083f5fc88fb2a7858cd0a9fbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-j/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-j/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:402364:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157181:por
+  label: "Revogada pela PORT.254-GI/96.1996.07.15.MADRP DR.IS-B [162]5ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-gi-1996-157181
+  date: '1996-07-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:25:13Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +119,6 @@ Manda o Governo, pelo Ministro da Agricultura, que o n.º 2.º da referida porta
 
 Ministério da Agricultura.
 
-**Assinada em 4 de Maio de 1994.**
+Assinada em 4 de Maio de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

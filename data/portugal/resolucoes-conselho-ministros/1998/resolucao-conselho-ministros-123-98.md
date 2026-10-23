@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/123/1998/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-1998-240050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acbbac29fb6221e1b2dff1039711282e6e7f81c682bd65bb4486aa82ddbf8104
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 909fa312316ee6ba27ec952d73379a6d45d1fbe98656e71256d5a816b679fc33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cascais
 - Ordenamento do Território
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
-- Cascais
 relationships:
 - type: amended_by
   target: pt:dre:122074192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179562:por
+  label: "Determinada a suspensão, pelo prazo de dois anos, do disposto nos art.s 81º e 82º do Regulamento do Plano de Ordenamento\
+    \ da Orla Costeira de Cascais (Cidadela)-Forte de São Julião da Barra, pela RES.61/2012.10.07.2012.PCM, DR.IS [132] de\
+    \ 10.07.2012, que estabelece as medidas preventivas pelo mesmo período e para a mesma área. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/61-2012-179562
+  date: '2012-07-10'
+- type: amended_by
+  target: pt:dre:175808:por
+  label: "Aprovada a alteração do Plano de Ordenamento da Orla Costeira Cidadela - Forte de São Julião da Barra (POOC Cidadela\
+    \ - Forte de São Julião da Barra) e dos respetivos Regulamento ( arts. 3º, 4º, 49º, 56º, 67º, 69º, 71º, 72º, 74º, 75º,\
+    \ 89º, 96º, 97º e anexo I ) e planta de síntese e publicada a planta de síntese à escala 1:5000, a qual passa a integrar\
+    \ a presente resolução, pela RES.82/2012.03.10.2012.PCM, DR.IS [192] de 03.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/82-2012-175808
+  date: '2012-10-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Retificada a Res 82/2012, de 03-out,da PCM, na parte em que é alterado o anexo i [aditando um mapa à planta de síntese\
+    \ - planos de praia ] o anexo ii [alterando um mapa que conste da planta de síntese à escala 1:5000] da presente resolução,\
+    \ pela DECL-RECT.64/2012.14.11.2012.PCM, DR.IS [220] de 14.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2012-11-14'
+- type: amended_by
+  target: pt:dre:25676923:por
+  label: "Prorrogada pelo prazo de um ano, com efeitos a partir de 11.07.2014, a suspensão parcial do Regulamento do Plano\
+    \ de Ordenamento da Orla Costeira Cidadela - Forte de São Julião da Barra (aprovado pelo presente diploma), bem como o\
+    \ prazo de vigência das medidas preventivas determinadas pela Res 61/2012 de 10-jul, pela RES.37/2014.23.06.2014.PCM,\
+    \ DR.IS [118] de 23.06.2014 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/37-2014-25676923
+  date: '2014-06-23'
+- type: amended_by
+  target: pt:dre:75554998:por
+  label: Alterados, nos termos do n.º 4, os arts. 8.º, 83.º, 84.º e 85.º do Regulamento do Plano de Ordenamento da Orla Costeira
+    Cidadela-Forte de São Julião da Barra, bem como a planta de síntese (esta na redação da Res. 82/2012 de 03-out PCM), pelo(a)
+    Resolução do Conselho de Ministros n.º 64/2016 - Diário da República n.º 201/2016, Série I de 2016-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/64-2016-75554998
+  date: '2016-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -96,16 +133,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:169012:por
+  label: "Rectificada pela DECL-RECT.22-H/98.1998.11.30.PCM DR.IS-B [277]2.ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-h-1998-169012
+  date: '1998-11-30'
+- type: corrected_by
+  target: pt:dre:191113:por
+  label: "Retificada a Res 82/2012, de 03-out, da PCM, na parte em que é alterado o anexo i [aditando um mapa à planta de\
+    \ síntese - planos de praia ] e o anexo ii [alterando um mapa que consta da planta de síntese à escala 1:5000] da presente\
+    \ Resolução, pela DECL-RECT.64/2012.14.11.2012.PCM, DR.IS [220] de 14.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/64-2012-191113
+  date: '2012-11-14'
+- type: repealed_by
+  target: pt:dre:122074192:por
+  label: Revogado o Plano de Ordenamento da Orla Costeira Cidadela-Forte de São Julião da Barra, aprovado pelo presente diploma,
+    na redação das Res 82/2012 de 03-out e 64/2016 de 19-out ambas da PCM, pelo(a) Resolução do Conselho de Ministros n.º
+    66/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11, sem prejuízo do seu n.º 6
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/66-2019-122074192
+  date: '2019-04-11'
 article_structure:
   article_count: 100
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:39Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +216,7 @@ Presidência do Conselho de Ministros, 24 de Setembro de 1998. - O Primeiro-Mini
 
 REGULAMENTO DO PLANO DE ORDENAMENTO DA ORLA COSTEIRA DE CASCAIS (CIDADELA)-FORTE DE SÃO JULIÃO DA BARRA
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -352,7 +432,7 @@ g) Instalações militares.
 
 3 - A delimitação dos solos incluídos no domínio público marítimo tem um carácter indicativo, não substituindo a delimitação efectuada nos termos do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro.
 
-## TÍTULO II
+TÍTULO II
 
 Uso da orla costeira
 
@@ -1698,7 +1778,7 @@ Os imóveis classificados ou em vias de classificação, assinalados na planta d
 
 Sempre que na realização de qualquer obra, pública ou particular, se verificarem achados arqueológicos, na terra ou no mar, tal facto será imediatamente comunicado, nos termos da legislação em vigor, ao Instituto Português de Arqueologia, que informará de tal ocorrência a Câmara Municipal de Cascais.
 
-## TÍTULO III
+TÍTULO III
 
 Disposições finais e transitórias
 

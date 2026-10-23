@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/190/1996/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/190-1996-186762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e7e8fd1d9f5d3756f1a4250475e231e404a3405c2824b5e102c76d53785d8d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f45b386d184474cbc6b5b901257996d5f7c1308e6c4a19ae67debcadbaae465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
 subjects:
 - Águeda
 - Albergaria-a-velha
-- Gestão de Resíduos
+- Autarquia Local
 - Aveiro
-- Saneamento Básico
+- Comissão
 - Comissão de Acompanhamento
 - Estarreja
-- Comissão
+- Gestão de Resíduos
 - Ílhavo
 - Ministério do Ambiente
 - MIRA
 - Murtosa
 - Oliveira do Bairro
 - Ovar
-- Proteção do Ambiente
-- Poluição da água
 - Poluição
+- Poluição da água
+- Proteção do Ambiente
 - Resíduo Industrial
 - Ria de Aveiro
+- Saneamento Básico
 - Tratamento de ÁGUA
-- Autarquia Local
 - Vagos
 relationships:
 - type: cites
@@ -97,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:02Z'
   warnings: []
   errors: []
 ---
@@ -137,9 +145,9 @@ Dois representantes do IPE - Águas de Portugal, Sociedade Gestora de Participa�
 
 Um representante do Ministério do Ambiente;
 
-**O presidente da Câmara Municipal de Aveiro;**
+O presidente da Câmara Municipal de Aveiro;
 
-**O presidente da Câmara Municipal da Murtosa.**
+O presidente da Câmara Municipal da Murtosa.
 
 3 - A comissão constituída nos termos da presente resolução cessa funções com a criação do Sistema Multimunicipal de Recolha, Tratamento e Rejeição de Efluentes da Ria.
 

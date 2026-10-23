@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/126b00/34303442.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/519/1995/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/519-1995-527393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62f15bbdc6c6fa0c02852687757365b380fe17df1e97a340ed8896490f7e975a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 885aa92ee19686130a52754081ee386bae9b245316d16e0d167c7b3a2cfa6b19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Política de Solos
-- Plano de Urbanização
 - Figueira da Foz
+- Ordenamento do Território
+- Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:632455:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2579596:por
+  label: "Alterado o art. 47.º do Regulamento do Plano de Urbanização da Figueira da Foz, pelo DECL.189/99(2ªSÉRIE).1999.06.16.DGOTDU-MEPAT\
+    \ DR.IIS [151] DE 01/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/189-1999-2579596
+  date: '1999-06-16'
+- type: amended_by
+  target: pt:dre:571393:por
+  label: Ratificada a alteração à planta de zonamento do Plano de Urbanização ratificado pelo presente diploma, pela PORT.792/99.1999.09.13.MEPAT,
+    DR.IS-B [214]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/792-1999-571393
+  date: '1999-09-13'
+- type: amended_by
+  target: pt:dre:2949697:por
+  label: "Alterado o regulamento do plano de urbanização pela DECL.379/99(2ªSÉRIE).1999.11.03.DGOTDU-MEPAT DR.IIS [268] de\
+    \ 17/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/379-1999-2949697
+  date: '1999-11-03'
+- type: amended_by
+  target: pt:dre:1590691:por
+  label: "Tornadas públicas as alterações ao art. 26º, o nº 6 do art. 57º do Regulamento, assim como à planta de zonamento\
+    \ ambos do Plano de Urbanização da Figueira da Foz ratificado pelo presente diploma com as alterações publicadas pela\
+    \ Decl 189/99(2ªSérie) de 01-Jul, pela Port 792/99 de 13-Set e pela Decl 379/99 de 17-Nov, pela DECL.373/2000(2ªSérie).15.11.2000.DGOTDU-MAOT,\
+    \ DR.IIS [279] de 04.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/373-2000-1590691
+  date: '2000-11-15'
+- type: amended_by
+  target: pt:dre:647095:por
+  label: "Ratificada a suspensão parcial por 2 anos, do plano de urbanização da Figueria da Foz (na alteração da Port 792/99,\
+    \ de 13-Set), na área da planta anexa á RES.100/2003.2003.07.10.PCM DR.IS-B [182] DE 08/AGO/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/100-2003-647095
+  date: '2003-07-10'
+- type: amended_by
+  target: pt:dre:25688691:por
+  label: "Tornadas públicas as alterações à al. g) do art. 26.º (alterado pela Decl 373/2000(2ªSérie) de 15-nov), n.º 5 do\
+    \ art. 28.º e n.º 2 do art. 36. e o aditamento do art. 36.º-A ao Regulamento, bem como a alteração da planta de zonamento\
+    \ (retificada pela Port.792/99 de 13-set, alterada pela Decl 373/2000(2ªSérie) de 15-nov, e suspensa pela Res 100/2003\
+    \ de 10-jul), ambos do Plano de Urbanização da Figueira da Foz ratificado pelo presente diploma, pelo AV.5661/2014.05.05.2014.MFIGUEIRA\
+    \ FOZ, DR.IIS [85] de 05.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5661-2014-25688691
+  date: '2014-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -103,16 +144,93 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632455:por
+  label: "Revogadas parcialmente as disposições constantes do art. 36º do Regulamento do Plano de Urbanização da Figueira\
+    \ da Foz (ratificado pelo presente diploma, com as alterações constantes da Decl 189/99(2ªSérie) de 01-Jul, da Port 792/99\
+    \ de 13-Set, da Decl 379/99(2ªSérie) de 17-Nov, da Decl 373/2000(2ªSérie) de 04-Dez e da Res 100/2003 de 08-Ago), e as\
+    \ demais disposições do Plano de Urbanização que sejam incompatíveis com o Plano de Pormenor para a Zona do Galante ratificado\
+    \ pela RES.59/2006.27.04.2006.PCM, DR.IS-B [93] de 15.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/59-2006-632455
+  date: '2006-04-27'
+- type: repealed_by
+  target: pt:dre:108152286:por
+  label: Revogado, a partir de 18.09.2017, o Plano de Urbanização da Figueira da Foz ratificado pelo presente diploma, na
+    redação da Decl 189/99(2ªSérie) de 01-jul, da Port 792/99 de 13-set, da Decl 379/99(2ªSérie) de 17-nov, da Decl 373/2000(2ªSérie)
+    de 04-dez, da Res 100/2003 de 08-ago, da Res 59/2006 de 15-mai e do Av 5661/2014 de 05-mai, pelo(a) Aviso n.º 10633/2017
+    - Diário da República n.º 179/2017, Série II de 2017-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10633-2017-108152286
+  date: '2017-09-15'
 article_structure:
   article_count: 59
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:41Z'
   warnings: []
   errors: []
 ---
@@ -141,9 +259,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 27 de Abril de 1995.**
+Assinada em 27 de Abril de 1995.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Urbanização da Figueira da Foz
 
@@ -1543,4 +1661,4 @@ c) Sala de espectáculos, na UZ 4.
 
 É revogado o Plano de Urbanização da Figueira da Foz (Anteplano de Urbanização - Professor Garrett), registado com o n.º 02.06.05.00/01-91 e publicado no Diário da República, 2.ª série, n.º 115, de 19 de Maio de 1992.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126b00/34303442.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126b00/34303442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34303442.pdf)

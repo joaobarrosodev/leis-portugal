@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1004/1995/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1004-1995-434670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b695d8439a0d00361d18b8a1d6b5c81a92bf738fe29f6c2a07ce67356ad3de57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11c4a0cbbf33b058b0d60e254d44cf288bc1c1fdfd9ea36edb084ee64d139de9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,30 @@ relationships:
   target: pt:dre:650087:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650087:por
+  label: "Alterado o nº 1 da Port 584/91 de 25-Jun, na redacção do presente diploma, pela Port.894/97.1997.09.11.MADRP DR.IS-B\
+    \ [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/894-1997-650087
+  date: '1997-09-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/584/1991/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/584/1991/06/29/p/dre
+- type: cites
+  target: pt:dre:648901:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:36Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +119,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 584/91](h
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Julho de 1995.**
+Assinada em 21 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/191b00/52125212.pdf))](https://files.diariodarepublica.pt/1s/1995/08/191b00/52125212.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/191b00/52125212.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/248b00/66466647.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1274/1995/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1274-1995-668105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c528af2c6746d53bcfa5f3fa3daaeba1b05586a64661946721ebde6494a8bdd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9629912894555889da4236274f5354bd355e6afdec0bdc635e8aa0a1f43ba312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Armazenagem
-- Definição de Competências
-- Controlo Sanitário
-- Gado Suíno
 - Abate de Animais
+- Armazenagem
+- Comércio
+- Controlo Sanitário
+- Definição de Competências
+- Gado Suíno
 - Instituto de Protecção da Produção Agro-Alimentar
 - Licenciamento
-- Regulamento
 - Pecuária
+- Produção Animal
+- Regulamento
 - Suinicultura
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:439393:por
@@ -98,16 +98,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/575/1993/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/575/1993/06/04/p/dre
+- type: cites
+  target: pt:dre:228590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:162669:por
+  label: "Revogada pelo Dec Lei 163/97.1997.06.27.MADRP, DR.IS-A [146], a partir da entrada em vigor das portarias previstas\
+    \ no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1997-162669
+  date: '1997-06-27'
+- type: repealed_by
+  target: pt:dre:428996:por
+  label: "Revogada pelo DEC LEI.339/99.1999.08.25.MADRP DR.IS-A [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1999-428996
+  date: '1999-08-25'
+- type: repealed_by
+  target: pt:dre:439393:por
+  label: "Revogada, a partir de 08.02.2009, pelo DEC LEI.214/2008.10.11.2008.MADRP, DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2008-439393
+  date: '2008-11-10'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:04Z'
   warnings: []
   errors: []
 ---
@@ -126,9 +162,9 @@ Manda o Governo, pelos Ministros da Agricultura e do Ambiente e Recursos Naturai
 
 Ministérios da Agricultura e do Ambiente e Recursos Naturais.
 
-**Assinada em 12 de Outubro de 1995.**
+Assinada em 12 de Outubro de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Agricultura, António Duarte Silva. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
 Regulamento do Licenciamento, Classificação e Registo dos Entrepostos Comerciais de Suínos
 

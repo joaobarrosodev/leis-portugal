@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 222/2008, 1º Suplemento, Série I de 2008-11-14
   number: '222'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7990-(3) a 7990-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/22201/0000300004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/168-b/2008/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-b-2008-165239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfb610dd5ef5ab90e6d9f0fcf8ed5d99e6ef88bc42869f3b758c865300802675
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 944ef909ebd9c451fccee4e8bb0cd0ac794cf51f1c47d2ef93bbf470c10a9bd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,31 @@ reuse:
 subjects:
 - BENS Classificados
 - Caminha
-- Ordenamento do Território
+- Domínio Público Hídrico
 - Espinho
-- Protecção do Litoral
-- Projeto de Investimento
 - Interesse Público
 - Matosinhos
 - Modernização Industrial
+- Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
-- Zona de Proteção
 - Política de Solos
 - Projecto PIN
+- Projeto de Investimento
+- Protecção do Litoral
 - Sistema de Reconhecimento e Acompanhamento de Projectos de Potencial Interesse Nacional
-- Domínio Público Hídrico
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:439872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439872:por
+  label: "Determinado que, na área de intervenção do POPNLN, seja alterado o Plano de Ordenamento da Orla Costeira (POOC)\
+    \ de Caminha-Espinho, aprovado pela Res 25/99, de 07-Abr, da PCM, com a suspensão, por dois anos, determinada pelo presente\
+    \ diploma, pela RES.175/2008.24.11.2008.PCM, DR.IS [228] de 24.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/175-2008-439872
+  date: '2008-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/203/2003/09/10/p/dre
   label: null
@@ -119,16 +126,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/55/2008/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55/2008/03/26/p/dre
+- type: cites
+  target: pt:dre:165238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642545:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:03Z'
   warnings: []
   errors: []
 ---
@@ -163,4 +202,4 @@ Ao abrigo do disposto no artigo 29.º do [Decreto-Lei n.º 285/2007](https://dia
 
 Presidência do Conselho de Ministros, 13 de Novembro de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22201/0000300004.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22201/0000300004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22201/0000300004.pdf)

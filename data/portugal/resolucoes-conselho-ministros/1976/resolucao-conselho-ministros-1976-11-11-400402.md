@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 264/1976, 1º Suplemento, Série I de 1976-11-11
   number: '264'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2572-(1) a 2572-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26401/00010002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1976-400402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:29:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 469b17f596a775c6f6c625d61779a086b7a46412528f4ef91daf970761308892
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5f30457e736ab3edccec6385acd6bf6ce8633c8fca38621f7c0438af78e6305
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:29:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amoníaco Português
+- Comércio
+- Consumidor
+- Fertilizante
+- Fundo de Abastecimento
+- Grupo de Trabalho
+- Preço de Venda
+- Preço Máximo
+- Sapec
+relationships:
+- type: cites
+  target: pt:dre:184221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474736:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:29:21Z'
   warnings: []
   errors: []
 ---

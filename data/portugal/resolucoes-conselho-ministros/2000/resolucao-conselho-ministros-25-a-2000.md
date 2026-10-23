@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 111/2000, 2º Suplemento, Série I-B de 2000-05-13
   number: '111'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2104-(38) a 2104-(71)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/25-a/2000/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-a-2000-232732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4f0b64cf74a7b4ad49d44c930a9778aabf67a10a8cac4f61f8f35524efcfc60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd3d707202829128d85804ee407d09f17bfdfdd2b633c2c14406c59a89b3478f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada da Costa de Prata
-- SCUT
-- Financiamento
-- Garantia
-- Inspeção Geral de Finanças
-- Multa
 - Contrato de Concessão
 - Definição de Competências
-- Propriedade do Estado
 - Expropriação
+- Financiamento
 - Fiscalização
+- Garantia
 - Indemnização
-- Auto-estrada
+- Inspeção Geral de Finanças
 - Instituto das Estradas de Portugal
 - LUSOSCUT
+- Multa
 - Portagem
+- Propriedade do Estado
 - Responsabilidade Extracontratual
+- SCUT
 relationships:
 - type: amended_by
   target: pt:dre:69736234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167408:por
+  label: "Aprovada a minuta do contrato de alteração ao contrato de concessão da concepção, projecto, construção, financiamento,\
+    \ exploração e conservação de lanços de auto-estrada e conjuntos viários associados, designada por Costa de Prata,pela\
+    \ RES.39-D/2010.04.06.2010.PCM, DR.IS [108-Supl] de 04.06.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-d-2010-167408
+  date: '2010-06-04'
+- type: amended_by
+  target: pt:dre:69736234:por
+  label: Aprovada a minuta do contrato de alteração à minuta do contrato de concessão aprovada pelo presente diploma, na redação
+    da Res 39-D/2010 de 04-jun PCM, pelo(a) Resolução do Conselho de Ministros n.º 45-B/2015 - Diário da República n.º 130/2015,
+    1º Suplemento, Série I de 2015-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/45-b-2015-69736234
+  date: '2015-07-07'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -99,13 +113,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:49Z'
   warnings: []
   errors: []
 ---
@@ -268,45 +282,45 @@ bbb) Vias Rodoviárias Concorrentes - vias rodoviárias não construídas à dat
 
 2.1 - Fazem parte integrante do Contrato de Concessão, para todos os efeitos legais e contratuais, os seus 20 anexos e respectivos apêndices, organizados da forma seguinte:
 
-## Anexo n.º 1 - Contrato de Projecto e Construção;
+Anexo n.º 1 - Contrato de Projecto e Construção;
 
-## Anexo n.º 2 - Contratos de Financiamento;
+Anexo n.º 2 - Contratos de Financiamento;
 
-## Anexo n.º 3 - Lista dos Contratos de Projecto;
+Anexo n.º 3 - Lista dos Contratos de Projecto;
 
-## Anexo n.º 4 - Composição do Agrupamento e Estrutura Accionista da Concessionária;
+Anexo n.º 4 - Composição do Agrupamento e Estrutura Accionista da Concessionária;
 
-## Anexo n.º 5 - Pacto Social da Concessionária;
+Anexo n.º 5 - Pacto Social da Concessionária;
 
-## Anexo n.º 6 - Acordo de Subscrição;
+Anexo n.º 6 - Acordo de Subscrição;
 
-## Anexo n.º 7 - Acordo Parassocial;
+Anexo n.º 7 - Acordo Parassocial;
 
-## Anexo n.º 8 - Programa de Trabalhos;
+Anexo n.º 8 - Programa de Trabalhos;
 
-## Anexo n.º 9 - Limites à Oneração de Acções;
+Anexo n.º 9 - Limites à Oneração de Acções;
 
 ## Anexo n.º 10 - Caso Base;
 
-## Anexo n.º 11 - Garantias Bancárias;
+Anexo n.º 11 - Garantias Bancárias;
 
-## Anexo n.º 12 - Programa de Seguros;
+Anexo n.º 12 - Programa de Seguros;
 
-## Anexo n.º 13 - Acordo Directo referente ao Contrato de Projecto e Construção;
+Anexo n.º 13 - Acordo Directo referente ao Contrato de Projecto e Construção;
 
-## Anexo n.º 14 - Condições de Intervenção dos Bancos Financiadores;
+Anexo n.º 14 - Condições de Intervenção dos Bancos Financiadores;
 
 ## Anexo n.º 15 - Sublanços;
 
-## Anexo n.º 16 - Garantias Relativas aos Lanços já Construídos;
+Anexo n.º 16 - Garantias Relativas aos Lanços já Construídos;
 
 ## Anexo n.º 17 - Tarifas e Bandas;
 
-## Anexo n.º 18 - Critérios Chave da Reposição do Equilíbrio Financeiro;
+Anexo n.º 18 - Critérios Chave da Reposição do Equilíbrio Financeiro;
 
-## Anexo n.º 19 - Contrato de Operação e Manutenção e de Assistência Técnica;
+Anexo n.º 19 - Contrato de Operação e Manutenção e de Assistência Técnica;
 
-## Anexo n.º 20 - Acordo Directo referente ao Contrato de Operação e Manutenção.
+Anexo n.º 20 - Acordo Directo referente ao Contrato de Operação e Manutenção.
 
 2.2 - Na interpretação, integração ou aplicação de qualquer disposição do Contrato de Concessão deverão ser consideradas as disposições dos documentos que nele se considerem integrados nos termos do número anterior que tenham relevância na matéria em causa, e vice-versa.
 
@@ -628,7 +642,7 @@ Sem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato d
 
 29.1 - As datas limite de entrada em serviço de cada um dos Lanços referidos nos n.os 5.1 e 5.2 são as seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
 
 29.2 - As datas de entrada em serviço efectivo e bem assim as datas de início da construção e da duplicação de cada um dos lanços referidos no número anterior constam do Programa de Trabalhos que constitui o anexo n.º 8 do Contrato de Concessão.
 
@@ -1020,7 +1034,7 @@ c) O fornecimento de dados, em tempo real, para sistemas de controlo e gestão d
 
 52.1 - As classes de veículos que os equipamentos descritos no artigo anterior deverão permitir classificar serão as seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
 
 52.2 - Para efeitos de determinação do valor das Portagens SCUT serão utilizadas apenas duas classes: veículos ligeiros, correspondentes às classes C, D e E, e veículos pesados, correspondendo às classes F, G, H, I e J.
 
@@ -1098,7 +1112,7 @@ TMDA(índice t) = TMDA registado na Concessão no ano t;
 
 b):
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
 
 c):
 
@@ -1306,7 +1320,7 @@ t = período correspondente a um ano civil.
 
 65.5 - O montante variável [PBl(índice t)(j)] a pagar pelo Concedente para cada um dos Lanços em cada ano do Período Inicial da Concessão, de acordo com os números anteriores, será calculado de acordo com a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
 
 65.6 - O valor da tarifa de Portagem SCUT para a Banda l no ano t referida no n.º 65.5 será fixado anualmente, em Janeiro, de acordo com a seguinte fórmula e sujeito ao disposto no n.º 65.8:
 
@@ -1342,11 +1356,11 @@ t = período correspondente a um ano civil.
 
 66.1 - A partir das 24 horas do último dia do Período Inicial da Concessão, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagens SCUT calculado com base na seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
 
 66.2 - O valor dos pagamentos referentes a cada Banda [PB(i)] será obtido em cada ano através da aplicação da seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
 
 66.3 - Para o cálculo do TMDAE(índice t)(j*) será usada a seguinte expressão, sujeita à restrição imposta no n.º 66.4:
 
@@ -1512,11 +1526,11 @@ t = período correspondente a um ano civil.
 
 b) O pagamento de reconciliação, correspondente à diferença entre o pagamento total referente a Portagens SCUT de certo ano e os pagamentos feitos por conta nesse mesmo ano, será calculado da seguinte forma:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
 
 68.3 - No caso de no ano (t - 1) não existir definição de bandas e tarifas, o cálculo dos pagamentos por conta a efectuar no ano t basear-se-á num P(índice (t - 1)) calculado da seguinte forma:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
 
 68.4 - A determinação da parte responsável pela liquidação do pagamento de reconciliação será feita da seguinte forma:
 
@@ -1878,7 +1892,7 @@ i) Actividade fraudulenta destinada a lesar o interesse público.
 
 84.3 - No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes do Contrato de Concessão, sendo entregues ao Concedente todos os bens que constituem o Estabelecimento da Concessão, em estado que satisfaça as seguintes condições:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)](https://files.diariodarepublica.pt/1s/2000/05/111b02/00380071.pdf)
 
 Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50% da vida útil de cada um dos seus componentes.
 

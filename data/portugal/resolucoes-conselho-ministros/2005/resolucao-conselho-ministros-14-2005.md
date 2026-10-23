@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/14/2005/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-2005-624780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3158a07734780890c0f4bb13f87e1471ae5271246eaf0a13046445f24c62dd34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9c9e4e508d60992a88e4dc9403dbff1b1ccf629ace91c51cd760802789359af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
 - Medidas Preventivas
 - Montemor-o-Velho
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Plano Director Municipal
+- Política de Solos
 relationships:
+- type: amended_by
+  target: pt:dre:2279804:por
+  label: Determinada, a partir de 18.12.2007, a cessação da vigência das medidas preventivas ratificadas pela presente Resolução,
+    pelo Aviso n.º 24894/2007 - Diário da República n.º 242/2007, Série II de 2007-12-17, nos termos do art. 36.º do Regulamento
+    aprovado por este último Aviso
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/24894-2007-2279804
+  date: '2007-12-17'
+- type: amended_by
+  target: pt:dre:70237761:por
+  label: Tornada pública a aprovação da 1.ª Revisão do Plano Diretor Municipal de Montemor-o-Velho ratificado pela Res 118/98
+    de 09-out da PCM, na redação da presente Resolução, pelo(a) Aviso n.º 10379/2015 - Diário da República n.º 178/2015, Série
+    II de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10379-2015-70237761
+  date: '2015-09-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
   label: null
@@ -85,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/1998/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/1998/10/09/p/dre
+- type: cites
+  target: pt:dre:235361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:04Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +167,9 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 2 de Dezembro de 2004. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Âmbito territorial
 

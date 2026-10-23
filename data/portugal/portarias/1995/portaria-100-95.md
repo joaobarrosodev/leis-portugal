@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/100/1995/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/100-1995-138320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e957d928403767bf0879a8c73f54ee9d3e51d2ba7738192ad03ea0a621ddd38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59329e244f59c8ca4dc3a847c6d39f8007eeb17571a7744f6af79f4df890d991
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Criação de Lugares
 - Direcção Geral de Viação
 - Extinção de Lugares
 - Pessoal Administrativo
+- PSP
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:692674:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO O MAPA ANEXO AO PRESENTE DIPLOMA PELA DECL-RECT 45/95 DE 28-ABR DR.IS-B [100]SUPL DE 29/ABR/1995\0BR/1995"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/61/1994/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/61/1994/02/26/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666153:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:30Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +136,10 @@ Manda o Governo, pelos Ministros da Administração Interna e das Finanças, o s
 
 Ministérios da Administração Interna e das Finanças.
 
-**Assinada em 29 de Dezembro de 1994.**
+Assinada em 29 de Dezembro de 1994.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
 
 Mapa anexo à Portaria n.º 100/95
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/028b00/06530654.pdf))](https://files.diariodarepublica.pt/1s/1995/02/028b00/06530654.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/028b00/06530654.pdf)

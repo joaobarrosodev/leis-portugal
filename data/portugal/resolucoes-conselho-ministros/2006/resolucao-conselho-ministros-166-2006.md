@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/166/2006/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-2006-552366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dedc4e6790b7a8419426df14fd468eeac0aacd424ac9ac6bb278f37f31936dad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03c6fc82e6c2a561871c6433ecfc9bfcc729a5da1b03035b2f141e52fb1de9d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Luta contra a Pobreza
-- Formação Profissional
 - Educação
-- Saúde
+- Formação Profissional
+- Habitação
+- Luta contra a Pobreza
+- Mercado do Trabalho
 - PNAI
 - Política de Emprego
 - Proteção Social
-- Habitação
-- Mercado do Trabalho
+- Saúde
 relationships: []
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:06Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +173,7 @@ Assim, o PNAI 2006-2008 constitui um documento de referência orientador da dive
 
 Pretende-se que constitua um instrumento capaz de contribuir para que a pobreza e a exclusão social, fenómenos do passado e ainda do presente possam, com maior eficácia, reverter-se no futuro, a caminho de uma sociedade portuguesa mais justa, socialmente mais coesa e com maior desenvolvimento sustentável.
 
-# PARTE I — Principais Tendências e Desafios
+## PARTE I — Principais Tendências e Desafios
 
 Pobreza e Protecção Social
 
@@ -407,7 +407,7 @@ Face ao exposto, Portugal prosseguirá o desenvolvimento de diversas medidas no 
 
 A população com deficiência porque constitui o grupo que, tendo em conta a multiplicidade de problemas e o défice histórico de resposta, evidencia uma necessidade de aposta premente e reforçada. Por outro lado, a dimensão dos fluxos migratórios para Portugal, associada a difíceis condições na sua inserção e integração e à sua concentração territorial, exige uma intervenção forte no sentido de combater e prevenir o crescimento das desigualdades e discriminações.
 
-# PARTE II — Estratégia de Inclusão Social
+## PARTE II — Estratégia de Inclusão Social
 
 A realidade anteriormente descrita indica não só os extensos e diversificados campos de investimento que a estratégia de inclusão social terá de abranger, mas também a pluralidade de agentes e recursos a mobilizar. Trata-se de uma realidade cujos desafios justificam intervenções persistentes de médio e longo prazo, com propósitos que se reconfiguram à medida das dinâmicas de mudança que os fenómenos de pobreza e exclusão social vêm comportando. Constata-se, hoje, que com base numa nova geração de políticas sociais a inclusão tem sido concebida como um processo duplo de transformação das estruturas e das instituições sociais, económicas, políticas e culturais, no sentido de as tornar capazes de acolher todas as pessoas, em função das suas necessidades específicas e de permitir a realização dos seus direitos.
 
@@ -519,15 +519,15 @@ Medidas de política
 
 Transversais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 Crianças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 Pessoas Idosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 Prioridade 2 - Corrigir as desvantagens na educação e formação/qualificação
 
@@ -559,15 +559,15 @@ Medidas de política
 
 Crianças e Jovens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 Jovens e Adultos em idade activa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 TIC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 Prioridade 3 - Ultrapassar as discriminações, reforçando a integração das pessoas com deficiência e dos imigrantes
 
@@ -597,13 +597,13 @@ Medidas de política
 
 Pessoas com deficiência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 Imigrantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
-# PARTE III — Boa Governação
+## PARTE III — Boa Governação
 
 Para que seja possível produzir um impacto decisivo na erradicação da pobreza e da exclusão social é necessário garantir como o propõe o terceiro objectivo comum "f) que as políticas de inclusão social são bem coordenadas e contam com o envolvimento de todos os níveis do governo e agentes pertinentes (incluindo as pessoas que vivem na pobreza), que são eficientes e integradas em todas as políticas públicas relevantes, designadamente as políticas económicas e orçamentais, de educação e formação e os programas dos fundos estruturais (nomeadamente o FSE)".
 
@@ -685,7 +685,7 @@ O PNAI 2006-08 envolve recursos dispersos por várias fontes e sedes institucion
 
 A articulação eficaz entre os financiamentos provenientes do Orçamento do Estado e do QREN constitui um factor fundamental que favorece o desenvolvimento do Plano. Além disso, o quadro de acção que o PNAI representa, constitui uma forma de evitar a dispersão das intervenções nacionais e comunitárias e de as racionalizar, através da concentração dos meios e da especialização dos instrumentos.
 
-# PARTE IV — Boas Práticas
+## PARTE IV — Boas Práticas
 
 1 - Centro Nacional de Apoio ao Imigrante
 
@@ -821,16 +821,16 @@ Além dos benefícios anteriormente enunciados, surgiram os seguintes beneficios
 
 Prioridade 1 - Combater a pobreza das crianças e dos idosos, através de medidas que assegurem os seus direitos básicos de cidadania
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 Prioridade 2 - Corrigir as desvantagens na educação e formação/qualificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 Prioridade 3 - Ultrapassar as discriminações, reforçando a integração das pessoas com deficiência e dos imigrantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
 
 ## ANEXO II — Portfolio de Indicadores de Inclusão Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24000/84038456.pdf)

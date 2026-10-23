@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/324/1995/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/324-1995-224405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acd38c0e978cbb826519e3817af5b903801599f1528fc34f17769bfcd8a9c219
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca5afddda276f1c8fafc3f90e9bbd12957101866e373d08a63b471b66453bea7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
-- Plano de Estudos
 - Ensino Agrícola
 - Ensino Profissional
 - Escola Profissional
 - Escola Profissional Agrícola
-- Extinção de Serviços
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
-- Pessoal não Docente
 - Estabelecimento de Ensino
+- Extinção de Serviços
+- Gestão Financeira
+- Integração de Trabalhadores
 - Pessoal Docente
+- Pessoal não Docente
+- Plano de Estudos
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:147635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505658:por
+  label: "Extinto o curso de T&#233;cnico de Gest&#227;o Agr&#237;cola a funcionar na Escola Profissional Agr&#237;cola Fermil\
+    \ de Basto e o respectivo plano de estudos criados no presente diploma, pela PORT.892/2004.21.07.2004.ME, DR.IS-B [170]\
+    \ de 21.0, nos termos do seu art. 7.&#186; e revogados no presente diploma as partes que &#224;queles cursos respeitam\
+    \ pela supracitada portaria.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/892-2004-505658
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:147634:por
+  label: "Extinto a partir de 27.09.2005 o curso profissional de Técnico de Gestão do Ambiente, homologado pelo presente diploma,\
+    \ que é revogado parcialmente, no que áquele curso se refere pela PORT.906/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005,\
+    \ sem prejuízo do disposto no n.º 9.º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-2005-147634
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147635:por
+  label: "Extintos a partir de 27.09.2005, os cursos profissionais de Técnico Agro-Florestal e de Técnico Florestal criados\
+    \ pelo presente diploma, que é revogado pela PORT.907/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do\
+    \ disposto no nº 9º da citada portaria\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/907-2005-147635
+  date: '2005-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:54Z'
   warnings: []
   errors: []
 ---
@@ -155,10 +181,10 @@ a funcionar na Escola agora convertida desde o ano lectivo de 1992-1993.
 
 Ministérios das Finanças, da Agricultura e da Educação.
 
-**Assinada em 22 de Fevereiro de 1995.**
+Assinada em 22 de Fevereiro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Agricultura, António Duarte Silva. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite.
 
 Do MAPA I ao MAPA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/091b00/22002203.pdf))](https://files.diariodarepublica.pt/1s/1995/04/091b00/22002203.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/091b00/22002203.pdf)

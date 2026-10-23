@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/133b00/37373746.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/553/1995/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/553-1995-518064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d6665674b2f98c5988334a318424bdfab746940b522ee65eb462337cff9d8d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ee288ed30344076527755f2939eea8bbb7970bfb612084f35c011cca57052f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Direcção Geral das Pescas
+- Comércio
 - Controlo Sanitário
+- Direcção Geral das Pescas
+- Embalagem
+- Embarcação de Pesca
 - Equipamento de Pesca
 - Fiscalização
-- Pesca
 - Importação
+- Indústria Transformadora
 - Lota
-- Embalagem
 - País Estrangeiro
+- Pesca
 - Produção
 - Produtos de Pesca
 - Proteção do Consumidor
 - Regulamento
-- Indústria Transformadora
-- Embarcação de Pesca
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:334370:por
@@ -119,16 +119,27 @@ relationships:
   target: celex:31993D0351
   label: null
   source: http://data.europa.eu/eli/dec/1993/351/oj
+- type: repealed_by
+  target: pt:dre:216505:por
+  label: "Revogada pelo DEC LEI.375/98.1998.11.24.MADRP DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1998-216505
+  date: '1998-11-24'
+- type: repealed_by
+  target: pt:dre:334370:por
+  label: "Revogado o nº 2 do ponto B da parte II do cap. VI do anexo do Regulamento pelo DEC LEI.148/99.1999.05.04.MADRP,DR.IS-A\
+    \ [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1999-334370
+  date: '1999-05-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:28Z'
   warnings: []
   errors: []
 ---
@@ -169,19 +180,19 @@ Manda o Governo, pelos Ministros da Agricultura, do Comércio e Turismo e do Mar
 
 Ministérios da Agricultura, do Comércio e Turismo e do Mar.
 
-**Assinada em 24 de Maio de 1995.**
+Assinada em 24 de Maio de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - O Ministro do Mar, António Baptista Duarte Silva.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º /95
+Anexo a que se refere o n.º 1.º da Portaria n.º /95
 
 Regulamento das Normas Sanitárias Aplicáveis à Produção e Colocação no Mercado dos Produtos da Pesca
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O presente Regulamento estabelece as normas sanitárias que regem a produção e a colocação no mercado dos produtos da pesca destinados ao consumo humano.
+Artigo 1.º O presente Regulamento estabelece as normas sanitárias que regem a produção e a colocação no mercado dos produtos da pesca destinados ao consumo humano.
 
-###### Art. 2.º Para efeitos do presente diploma, entende-se por:
+Art. 2.º Para efeitos do presente diploma, entende-se por:
 
 1) Produto da pesca - todos os animais ou partes de animais marinhos ou de água doce, incluindo as suas ovas e leitugas, com exclusão dos mamíferos aquáticos, das rãs e dos outros animais aquáticos abrangidos por regulamentação comunitária específica;
 
@@ -219,7 +230,7 @@ Regulamento das Normas Sanitárias Aplicáveis à Produção e Colocação no Me
 
 18) Navio-fábrica - navio a bordo do qual os produtos da pesca sofrem uma ou mais das seguintes operações, seguidas de embalagem: filetagem, corte, esfola, picagem, congelação, transformação; não sendo, no entanto, considerados navios-fábricas os barcos de pesca que apenas pratiquem a cozedura de camarões e ou de moluscos a bordo e os barcos de pesca que pratiquem apenas a congelação a bordo.
 
-###### Art. 3.º - 1 - A colocação no mercado de produtos da pesca capturados em meio natural está sujeita às seguintes condições:
+Art. 3.º - 1 - A colocação no mercado de produtos da pesca capturados em meio natural está sujeita às seguintes condições:
 
 a) Os produtos devem:
 
@@ -253,15 +264,15 @@ a) Obedecer às normas sanitárias que regem a produção e a colocação no mer
 
 b) Em caso de transformação, devem ainda obedecer aos requisitos das alíneas c) a g) do n.º 1.
 
-###### Art. 4.º Os produtos da pesca destinados a ser colocados vivos no mercado devem ser permanentemente mantidos nas melhores condições de sobrevivência.
+Art. 4.º Os produtos da pesca destinados a ser colocados vivos no mercado devem ser permanentemente mantidos nas melhores condições de sobrevivência.
 
-###### Art. 5.º Não podem ser colocados no mercado os seguintes produtos:
+Art. 5.º Não podem ser colocados no mercado os seguintes produtos:
 
 a) Peixes venenosos das famílias Tetraodontidae, Molidae, Diodontidae, Canthisgasteridae;
 
 b) Produtos da pesca que contenham biotoxinas, tais como a cignatoxina ou as toxinas paralisantes dos músculos.
 
-###### Art. 6.º - 1 - Os responsáveis pelos estabelecimentos devem tomar todas as medidas necessárias para que, em todos os estádios da produção dos produtos da pesca, sejam observadas as prescrições do presente Regulamento.
+Art. 6.º - 1 - Os responsáveis pelos estabelecimentos devem tomar todas as medidas necessárias para que, em todos os estádios da produção dos produtos da pesca, sejam observadas as prescrições do presente Regulamento.
 
 2 - Para efeitos do disposto no n.º 1, os responsáveis pelos estabelecimentos devem efectuar autocontrolos baseados nos seguintes princípios:
 
@@ -277,17 +288,17 @@ d) Conservação de um vestígio escrito ou registado de forma indelével dos po
 
 4 - As regras de execução do n.º 2 serão estabelecidas de acordo com a Decisão n.º 94/356, da Comissão, de 20 de Maio de 1994, que fixa regras de execução da Directiva n.º [91/493/CEE](https://data.europa.eu/eli/dir/1991/493/oj?locale=pt), no que respeita aos autocontrolos sanitários relativos a produtos da pesca.
 
-###### Art. 7.º A inspecção e o controlo dos estabelecimentos, navios, lotas e mercados grossistas efectuar-se-ão regularmente, de acordo com as regras técnicas constantes do capítulo VI do anexo, devendo ser facultado às autoridades competentes o livre acesso a todos os locais dos estabelecimentos, navios, lotas e mercados grossistas, com vista a assegurar o cumprimento do presente Regulamento.
+Art. 7.º A inspecção e o controlo dos estabelecimentos, navios, lotas e mercados grossistas efectuar-se-ão regularmente, de acordo com as regras técnicas constantes do capítulo VI do anexo, devendo ser facultado às autoridades competentes o livre acesso a todos os locais dos estabelecimentos, navios, lotas e mercados grossistas, com vista a assegurar o cumprimento do presente Regulamento.
 
-###### Art. 8.º Aos produtos da pesca destinados ao consumo humano é aplicável o Decreto-Lei n.º 110/93, de 10 de Abril, e a Portaria n.º 576/93, de 4 de Junho, que transpõem para a ordem jurídica interna a Directiva n.º [89/622/CEE](https://data.europa.eu/eli/dir/1989/622/oj?locale=pt), do Conselho, de 11 de Dezembro, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de produtos de origem animal, nomeadamente no que se refere à organização e ao seguimento a dar aos controlos a efectuar no destino e às medidas de salvaguarda a aplicar.
+Art. 8.º Aos produtos da pesca destinados ao consumo humano é aplicável o Decreto-Lei n.º 110/93, de 10 de Abril, e a Portaria n.º 576/93, de 4 de Junho, que transpõem para a ordem jurídica interna a Directiva n.º [89/622/CEE](https://data.europa.eu/eli/dir/1989/622/oj?locale=pt), do Conselho, de 11 de Dezembro, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário de produtos de origem animal, nomeadamente no que se refere à organização e ao seguimento a dar aos controlos a efectuar no destino e às medidas de salvaguarda a aplicar.
 
 ### CAPÍTULO II — Importações provenientes de países terceiros
 
-###### Art. 9.º - 1 - As disposições aplicáveis às importações de produtos da pesca provenientes de países terceiros serão pelo menos equivalentes às relativas à produção e à colocação no mercado dos produtos comunitários.
+Art. 9.º - 1 - As disposições aplicáveis às importações de produtos da pesca provenientes de países terceiros serão pelo menos equivalentes às relativas à produção e à colocação no mercado dos produtos comunitários.
 
 2 - Os produtos da pesca capturados no seu meio natural por um barco de pesca arvorando pavilhão de um país terceiro devem ser sujeitos aos controlos previstos no n.º 17.º da Portaria n.º 774/93, de 3 de Setembro.
 
-###### Art. 10.º - 1 - As condições especiais de importação dos produtos da pesca serão estabelecidas, relativamente a cada país ou grupo de países terceiros, de acordo com o procedimento comunitariamente previsto, em função da situação sanitária do país terceiro em questão.
+Art. 10.º - 1 - As condições especiais de importação dos produtos da pesca serão estabelecidas, relativamente a cada país ou grupo de países terceiros, de acordo com o procedimento comunitariamente previsto, em função da situação sanitária do país terceiro em questão.
 
 2 - A fim de permitir o estabelecimento de condições de importação e de se certificar das condições de produção, armazenagem e expedição nos países terceiros dos produtos da pesca destinados à UE, podem ser efectuados controlos no local por peritos da Comissão e dos Estados membros, com a periodicidade e as modalidades a determinar de acordo com o procedimento comunitariamente previsto.
 
@@ -303,7 +314,7 @@ c) As condições sanitárias de produção, armazenagem e expedição efectivam
 
 d) As garantias que o país terceiro pode dar quanto ao cumprimento das normas enunciadas no capítulo VI do anexo.
 
-###### Art. 11.º - 1 - As condições de importação a que se refere o n.º 1 do artigo anterior devem incluir:
+Art. 11.º - 1 - As condições de importação a que se refere o n.º 1 do artigo anterior devem incluir:
 
 a) As modalidades de emissão de certificados sanitários que devem acompanhar as remessas destinadas à UE;
 
@@ -323,9 +334,9 @@ ii) Vigilância por um serviço oficial de controlo do país terceiro.
 
 5 - A decisão de autorização a que se refere o n.º 4 fixará as condições específicas de importação a adoptar para os produtos provenientes desse estabelecimento ou desse navio-fábrica.
 
-###### Art. 12.º Aos produtos abrangidos pelo presente Regulamento são aplicáveis as normas e princípios previstos no Decreto-Lei n.º 111/93, de 10 de Abril, e na Portaria n.º 774/93, de 3 de Setembro, que transpõem para a ordem jurídica interna a Directiva n.º [90/675/CEE](https://data.europa.eu/eli/dir/1990/675/oj?locale=pt), do Conselho, de 10 de Dezembro, que fixa os princípios relativos à organização dos controlos veterinários de produtos animais e de origem animal provenientes de países terceiros, nomeadamente no que se refere à organização e ao seguimento a dar aos controlos a efectuar e às medidas de salvaguarda a aplicar.
+Art. 12.º Aos produtos abrangidos pelo presente Regulamento são aplicáveis as normas e princípios previstos no Decreto-Lei n.º 111/93, de 10 de Abril, e na Portaria n.º 774/93, de 3 de Setembro, que transpõem para a ordem jurídica interna a Directiva n.º [90/675/CEE](https://data.europa.eu/eli/dir/1990/675/oj?locale=pt), do Conselho, de 10 de Dezembro, que fixa os princípios relativos à organização dos controlos veterinários de produtos animais e de origem animal provenientes de países terceiros, nomeadamente no que se refere à organização e ao seguimento a dar aos controlos a efectuar e às medidas de salvaguarda a aplicar.
 
-## Anexo a que se refere o artigo 3.º do Regulamento
+Anexo a que se refere o artigo 3.º do Regulamento
 
 ### CAPÍTULO I — Condições aplicáveis aos navios-fábricas
 

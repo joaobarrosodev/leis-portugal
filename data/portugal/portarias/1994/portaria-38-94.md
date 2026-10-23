@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/38/1994/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-1994-509607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:26:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 180de9f211411cd5bf4a03b845a188bba5dc110cdcc5f5a0330290d8a7917977
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62cb0641b7b89cb6edb8ac582cb8dca94220b81d0558d8af59596d774d240a77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:26:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,16 @@ relationships:
   target: pt:dre:397518:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:944513:por
+  label: "Alterado o quadro de pessoal pelo DESP-REIT.9/S.Ad/UTL/95.29.09.1995.UTL, DR.IIS [226-Supl] de 29.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-reitoral/9-1995-944513
+  date: '1995-09-29'
+- type: amended_by
+  target: pt:dre:397518:por
+  label: "Alterado o mapa anexo à presente Portaria, pela Port 327/97.1997.05.14.PCM. DR.IS-B [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-1997-397518
+  date: '1997-05-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
   label: null
@@ -91,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/148/1993/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/148/1993/02/10/p/dre
+- type: cites
+  target: pt:dre:261128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:26:18Z'
   warnings: []
   errors: []
 ---
@@ -117,10 +151,10 @@ Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Administraç
 
 Ministérios das Finanças, do Planeamento e da Administração do Território e da Educação.
 
-**Assinada em 6 de Dezembro de 1993.**
+Assinada em 6 de Dezembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Educação, António Fernando Couto dos Santos.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/011b00/01610163.pdf))](https://files.diariodarepublica.pt/1s/1994/01/011b00/01610163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/011b00/01610163.pdf)

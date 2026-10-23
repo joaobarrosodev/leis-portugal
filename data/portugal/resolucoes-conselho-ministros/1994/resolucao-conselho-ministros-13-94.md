@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/13/1994/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-1994-273836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e4fbf9711f78c0de57b2becd7464607a5c605c033609ab93ed2f4022ffff924
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f534a6f698dd39e81a032077f59f4e84b70e75185ba0120bf1fc0c6c55f61f66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Plano Director Municipal
-- Rede de Estradas
 - Política de Solos
+- Rede de Estradas
 - Regulamento
 - VILA NOVA de Paiva
 relationships:
@@ -76,6 +76,21 @@ relationships:
   target: pt:dre:457209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457209:por
+  label: "Ratificada a alteração aos arts. 3.º a 6.º, 8.º, 15.º, 18.º, 20.º, 21.º, 27.º, 28.º, 32.º, 33.º, 35.º a 40.º, 42.º\
+    \ e 60.º, o aditamento dos arts. 8.º, 9.º e 23.º e a eliminação dos arts.47.º, 48.º, 49.º, 50.º, 51.º, 52.º e 65.º do\
+    \ Regulamento do Plano Director Municipal de Vila Nova de Paiva, ratificado o presente diploma, pela RES.2/2005.02.12.2004.PCM,\
+    \ DR.IS-B [3] de 05.01.2005, e republicado o referido Regulamento na integra\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/2-2005-457209
+  date: '2004-12-02'
+- type: amended_by
+  target: pt:dre:59039542:por
+  label: Alterado o Plano Diretor Municipal de Vila Nova de Paiva, ratificado pelo presente diploma, na redação e republicação
+    da Res 2/2005, de 15-jan, na redação por adaptação, pelo Av 276/2009 de 06-jan e pelo Av 11.595/2011 de 25-maio, pelo(a)
+    Aviso n.º 13159/2014 - Diário da República n.º 229/2014, Série II de 2014-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13159-2014-59039542
+  date: '2014-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-f/1992/06/01/p/dre
   label: null
@@ -112,16 +127,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
   article_count: 65
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:00Z'
   warnings: []
   errors: []
 ---
@@ -852,7 +971,7 @@ b) Obter parecer favorável da Comissão de Coordenação da Região do Centro.
 
 1 - O número de lugares de estacionamento a prever nas zonas residenciais e industriais da sede do concelho de Vila Nova de Paiva não será inferior aos definidos no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/062b00/12701285.pdf))](https://files.diariodarepublica.pt/1s/1994/03/062b00/12701285.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/062b00/12701285.pdf)
 
 2 - Sempre que as condições urbanísticas não permitam a aplicação destes valores, deverão as soluções a encontrar aproximar-se o mais possível dos parâmetros indicados. Nos edifícios destinados a comércio e serviços, indústria e armazéns e hotelaria e similares, deverá ser prevista, no interior do lote, a área necessária à carga e descarga de veículos pesados e ao estacionamento dos mesmos, em número a determinar caso a caso. Ao comércio grossista aplica-se o [Decreto-Lei n.º 190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779).
 
@@ -988,7 +1107,7 @@ b) Número de pisos máximo: o dominante no local e nunca superior a três.
 
 1 - O número de lugares de estacionamento a prever nas zonas residenciais dos aglomerados, com excepção da sede concelhia, não será inferior ao definido no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/062b00/12701285.pdf))](https://files.diariodarepublica.pt/1s/1994/03/062b00/12701285.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/062b00/12701285.pdf)
 
 2 - Sempre que as condições urbanísticas não permitam a aplicação destes valores, deverão as soluções a encontrar aproximar-se o mais possível dos parâmetros indicados, tendo em consideração ainda os n.os 3 e 4 do artigo 29.º
 
@@ -1430,4 +1549,4 @@ A Câmara Municipal poderá, após a aprovação do PDM e de acordo com os trâm
 
 2 - Nos termos do artigo 14.º do referido Código, é obrigatória a actualização das matrizes, passando a urbanos os prédios ou a parte deles que se encontram inscritos na matriz rústica, desde que incluídos na área definida pelo limite urbano e estejam localizados no interior de uma linha limite que se dispõe paralelamente à via pública, até à profundidade de 50 m em relação ao seu eixo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/062b00/12701285.pdf))](https://files.diariodarepublica.pt/1s/1994/03/062b00/12701285.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/062b00/12701285.pdf)

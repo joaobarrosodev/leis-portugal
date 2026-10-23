@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/158/1994/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-1994-283913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bcb677c0b3756a3c2f9d1e9ccdab499c17417537ae7049a4a2585ab0b0a3585
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3c7ef376f9cd30b8787fd5898b85f21d9ad275ac4c894dd76e62577382cf211
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,12 +71,12 @@ subjects:
 - Curso de Medicina Dentária
 - Ensino Cooperativo
 - Ensino Particular
-- Lisboa
+- Ensino Superior
+- Equivalência de Diplomas
 - Instituto Superior de Ciências da Saúde-norte
 - Instituto Superior de Ciências da Saúde-sul
 - Licenciatura
-- Equivalência de Diplomas
-- Ensino Superior
+- Lisboa
 - Porto
 relationships:
 - type: amended_by
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/906/1993/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/906/1993/09/20/p/dre
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:48Z'
   warnings: []
   errors: []
 ---
@@ -129,6 +145,6 @@ Manda o Governo, pelos Ministros da Educação e da Saúde, o seguinte:
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 28 de Fevereiro de 1944.**
+Assinada em 28 de Fevereiro de 1944.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior. - Pelo Ministro da Saúde, José Carlos Lopes Martins, Secretário de Estado da Saúde.

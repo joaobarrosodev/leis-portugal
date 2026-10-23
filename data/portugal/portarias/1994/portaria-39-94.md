@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/39/1994/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-1994-509608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:26:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 088f3f937c5cb286b8bca6d3d52f9306b4cf7d449f2aba81e33df65436dc658c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cca16b84faf7e4d557935f4150207fe1b81a054081f1b7506dcdf2cf5fdce5c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:26:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Pessoal Docente
-- Ensino Básico
 - Educação Pré-escolar
+- Ensino Básico
+- Pessoal Docente
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:344951:por
@@ -80,16 +80,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/120-a/1992/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/120-a/1992/06/30/p/dre
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626432:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:344951:por
+  label: "Revogada pela PORT.584/99.1999.08.02.MF DR.IS-B [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/584-1999-344951
+  date: '1999-08-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:26:33Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +135,7 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 6 de Dezembro de 1993.**
+Assinada em 6 de Dezembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Educação, José Manuel Bracinha Vieira, Secretário de Estado dos Recursos Educativos.
 
@@ -126,16 +143,16 @@ Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de E
 
 Licenciados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf))](https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf)
 
 ## ANEXO II — Nível 1
 
 Bacharéis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf))](https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf)
 
 ## ANEXO III — Nível 3
 
 Educadores de infância e docentes do 1.º ciclo de ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf))](https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/011b00/01630166.pdf)

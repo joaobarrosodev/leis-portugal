@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/178/2008/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-2008-440075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11d1e26a07bd3c272e0c038a9a844f2be3f88e51f3ecb427652e40a5f60665c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10c89b778c4b90a637e3c1074654563fb75aafbd6ba342ea07018df7294a1142
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁREA de Paisagem Protegida da Arriba Fóssil da Costa da Caparica
-- Ordenamento do Território
 - Costa de Caparica
-- Proteção do Ambiente
-- Zona de Proteção
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.
@@ -113,16 +113,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/2005/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/2005/03/02/p/dre
+- type: cites
+  target: pt:dre:383996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:12Z'
   warnings: []
   errors: []
 ---
@@ -553,7 +605,7 @@ e) Em situações de risco ou calamidade.
 
 ##### SUBSECÇÃO II — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo i
 
@@ -589,7 +641,7 @@ e) A abertura de novos poços, furos e captações de água.
 
 4 - Para além do disposto no artigo 9.º do presente Regulamento, nas áreas de protecção parcial do tipo i encontra-se ainda sujeito a autorização do ICNB, I. P., o corte ou remoção de qualquer tipo de vegetação arbustiva ou arbórea, excepto quando previstos nos planos de gestão florestal aprovados e em situações de emergência que envolvam a segurança de pessoas ou bens, devendo, neste caso, ser privilegiada a utilização das infra-estruturas existentes.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo ii
 
@@ -615,7 +667,7 @@ e) A abertura de novos poços, furos e captações de água.
 
 ##### SUBSECÇÃO III — Áreas de protecção complementar
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção complementar do tipo i
 
@@ -631,7 +683,7 @@ e) A abertura de novos poços, furos e captações de água.
 
 Sem prejuízo do disposto no artigo 9.º do presente Regulamento, nas áreas de protecção complementar do tipo i ficam sujeitas a autorização do ICNB, I. P., as alterações da utilização actual do solo.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção complementar do tipo ii
 
@@ -1075,4 +1127,4 @@ A fiscalização do cumprimento do presente Regulamento compete ao ICNB, I. P., 
 
 O POPPAFCC entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22800/0834808363.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22800/0834808363.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22800/0834808363.pdf)

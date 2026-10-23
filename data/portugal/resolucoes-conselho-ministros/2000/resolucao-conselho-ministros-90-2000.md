@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/90/2000/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-2000-320289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e50903ecf6847f56bf5ddf86ddb38ee57a165fc834ea132e826843712d1473e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56a86c136c5034346f26e43b66b0f4763fc6df6a1fdda8ed7918f808178af8f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Estremoz
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:1114394:por
+  label: "Tornada pública a alteração (na redação do Av. 605/2012, de 13-jan) do Plano de Pormenor da Zona Industrial de Arcos,\
+    \ município de estremoz, ratificado pelo presente diploma e republicado o respetivo regulamento pelo AV.4505/2013.02.04.2013.MESTREMOZ,\
+    \ DR.IIS [64] de 02.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/4505-2013-1114394
+  date: '2013-04-02'
+- type: amended_by
+  target: pt:dre:73416583:por
+  label: Tornada pública a aprovação da revisão do Plano Diretor Municipal de Estremoz, ratificado pelo presente diploma,
+    revisto e republicado pelo Av 4505/2013, de 02-abr pelo(a) Aviso n.º 1255/2016 - Diário da República n.º 23/2016, Série
+    II de 2016-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1255-2016-73416583
+  date: '2016-02-03'
+- type: amended_by
+  target: pt:dre:106901053:por
+  label: Tornado pública a alteração do Plano de Pormenor da Zona Industrial de Arcos, município de estremoz, ratificado pelo
+    presente diploma, pelo(a) Aviso n.º 4229/2017 - Diário da República n.º 78/2017, Série II de 2017-04-20, e republicado
+    o respetivo regulamento
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/4229-2017-106901053
+  date: '2017-04-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
@@ -80,16 +101,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/122/1995/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/122/1995/11/03/p/dre
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680053:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:49Z'
   warnings: []
   errors: []
 ---

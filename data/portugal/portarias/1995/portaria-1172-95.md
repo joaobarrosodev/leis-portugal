@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1172/1995/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1172-1995-573751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bac02b584477ead7a199dcc35e249b9fa4a5e21059e4f8eefa6481d58998e3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e8fce527e3b374d44d90e274757353258b198cfe914a0a3f6e7701f9626f45b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,27 @@ reuse:
 subjects:
 - Centro Hospitalar de VILA NOVA de GAIA
 - Descrição de Funções
+- Estabelecimento Hospitalar
 - Pessoal de Chefia
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
-- Estabelecimento Hospitalar
 - VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186755:por
+  label: "Alterado o quadro de pessoal pela PORT.708/96.1996.12.09.PCM, DR.IS-B [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/708-1996-186755
+  date: '1996-12-09'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Centro Hospitalar de Vila Nova de Gaia aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/129/1993/02/04/p/dre
   label: null
@@ -93,16 +104,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/978/1991/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/978/1991/09/24/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:38Z'
   warnings: []
   errors: []
 ---
@@ -129,13 +200,13 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 28 de Agosto de 1995.**
+Assinada em 28 de Agosto de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Centro Hospitalar de Vila Nova de Gaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/222b00/59505956.pdf))](https://files.diariodarepublica.pt/1s/1995/09/222b00/59505956.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/222b00/59505956.pdf)
 
 ## ANEXO I
 
@@ -149,13 +220,13 @@ Unidades orgânicas de natureza administrativa:
 
 Repartição de Serviços de Pessoal:
 
-#### Secção de Gestão de Pessoal;
+Secção de Gestão de Pessoal;
 
-#### Secção de Processamento de Vencimentos e Outras Remunerações;
+Secção de Processamento de Vencimentos e Outras Remunerações;
 
 Repartição de Serviços Financeiros:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
 #### Secção de Estatística;
 
@@ -163,15 +234,15 @@ Repartição dos Serviços de Aprovisionamento:
 
 #### Secção de Aquisições;
 
-#### Secção de Armazéns;
+Secção de Armazéns;
 
 Repartição de Gestão de Doentes:
 
-#### Secção de Serviço de Urgência;
+Secção de Serviço de Urgência;
 
-#### Secção de Consultas Externas;
+Secção de Consultas Externas;
 
-#### Secção de Internamento.
+Secção de Internamento.
 
 ## ANEXO II — Conteúdos funcionais de carreiras de pessoal técnico-profissional
 

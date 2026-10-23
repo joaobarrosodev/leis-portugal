@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/004b00/01230123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/4/2005/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2005-456981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffa44a956c4204afff57e6cfa595aa174cc984083d4d4c4ade8fe8049877271c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 020c3af191f3e0dc06468cb8d31a0aa9a1649680041d71c647154c6d5cb98124
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,31 @@ relationships:
   target: pt:dre:521254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extinta, sendo objecto de fusão com o Alto Comissariado para a Imigração e Minorias Étnicas, com a estrutura de\
+    \ apoio técnico à coordenação do Programa ESCOLHAS, e com o Secretariado Entreculturas, - a Estrutura de Missão criada\
+    \ no presente diploma, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208] de 27.10.2006, nos termos dos seus artigos 32.º\
+    \ e 33.º, e integradas as suas atribuições no Alto Comissariado para a Imigração e Diálogo Intercultural\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:521254:por
+  label: "Determinada a sucessão do ACIDI, I.P. nos objectivos da Estrutura de Missão para o Diálogo com as Religiões, constantes\
+    \ do presente diploma, que é revogado a partir de 01.06.2007 pelo DEC LEI.167/2007.03.05.2007.PCM, DR.IS [85] de 03.05.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-2007-521254
+  date: '2007-05-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:50Z'
   warnings: []
   errors: []
 ---

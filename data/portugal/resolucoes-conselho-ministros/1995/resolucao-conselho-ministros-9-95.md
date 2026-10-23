@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/9/1995/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/9-1995-138314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcb96ee36c7493a07f2b290ca40bed49388345d07e5330eefd002455881328e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb6aefa32de8912eacaddac3b2f25c6d964b7c499414ee872b37bd1dfe171d4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,14 @@ relationships:
   target: pt:dre:544778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544778:por
+  label: "Ratificado o Plano de Pormenor do Núcleo Turístico de Cortesia, no município de Avis, ficando revogadas todas as\
+    \ disposições escritas e gráficas do Plano Director Municipal de Avis ratificado pelo presente diploma, contrárias às\
+    \ do presente Plano de Pormenor, na respectiva área de Intervenção, pela RES.154/2006.12.10.2006.PCM, DR.IS [220] de 15.11.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/154-2006-544778
+  date: '2006-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -115,16 +123,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/910/1994/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/910/1994/10/13/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:23Z'
   warnings: []
   errors: []
 ---
@@ -857,4 +973,4 @@ b) Tendo por objectivo a salvaguarda de testemunhos arqueológicos, de acordo co
 
 2 - Para efeitos de dimensionamento, adoptar-se-ão normas sectoriais e na sua ausência utilizar-se-ão as normas para a programação de equipamentos colectivos do Gabinete de Estudos e Planeamento da Administração do Território.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/028b00/06360651.pdf))](https://files.diariodarepublica.pt/1s/1995/02/028b00/06360651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/028b00/06360651.pdf)

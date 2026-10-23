@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/151/1994/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/151-1994-283742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3055d73f70555b4c8256d4d8dc49b63e2af409b86cfc1f1d83fc13624252739b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0be3c5427a58f4c9cb724b4dc077a3419fdba9f27747c2339d50ef2229738b8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Guarda Fiscal
 - Concurso
+- Estágio de Formação
 - Formas de Provimento
+- Guarda Fiscal
 - Integração de Trabalhadores
-- Serviço de Estrangeiros e Fronteiras
 - Pessoal de Inspecção
 - Pessoal Militarizado
-- Estágio de Formação
 - Quadro de Pessoal
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:225206:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225206:por
+  label: "Alterado o artigo 18.º pela PORT.738/94.13.08.1994.MAI, DR.IS-B [187] de 13.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/738-1994-225206
+  date: '1994-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/160/1992/08/01/p/dre
   label: null
@@ -92,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/203/1991/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/203/1991/09/18/p/dre
+- type: cites
+  target: pt:dre:267036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566066:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:35Z'
   warnings: []
   errors: []
 ---
@@ -374,8 +399,8 @@ Os estagiários aprovados n.os 1.º e 2.º estágios probatórios de ingresso na
 
 Ministério da Administração Interna.
 
-**Assinada em 7 de Março de 1994.**
+Assinada em 7 de Março de 1994.
 
-**O Ministro da Administração Interna, Manuel Dias Loureiro.**
+O Ministro da Administração Interna, Manuel Dias Loureiro.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/064b00/13321336.pdf))](https://files.diariodarepublica.pt/1s/1994/03/064b00/13321336.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/064b00/13321336.pdf)

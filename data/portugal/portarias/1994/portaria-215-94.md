@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/215/1994/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/215-1994-256409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad032d55498f7c4461be57aa37cb97dbe06cec095ec2d1019766c441c600e8cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26edf7c78e56f5d67b3c59b788db38b20bc8d16564c2ab86b660ec1c24df967d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Doença Animal
 - Controlo Sanitário
-- Saúde Pública
+- Doença Animal
+- Produto Alimentar
 - Produto Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:497674:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420414:por
+  label: "Alterado o nº 2 do art. 9º e a secção I do anexo II do presente diploma, pela Port.1252/97.1997.12.18.MADRP DR.IS-B\
+    \ [291] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1252-1997-420414
+  date: '1997-12-18'
 - type: cites
   target: celex:31989L0397
   label: null
@@ -92,16 +98,21 @@ relationships:
   target: celex:31992L0117
   label: null
   source: http://data.europa.eu/eli/dir/1992/117/oj
+- type: repealed_by
+  target: pt:dre:497674:por
+  label: "Revogado pelo DEC LEI.212/2003.2003.09.17.MADRP DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2003-497674
+  date: '2003-09-17'
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:11Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +203,7 @@ f) Autoridade competente: Instituto de Protecção da Produção Agro-Alimentar 
 
 Ministério da Agricultura.
 
-**Assinada em 23 de Fevereiro de 1994.**
+Assinada em 23 de Fevereiro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -252,7 +263,7 @@ b) No caso das frangas com quatro semanas de idade, ou das amostras colhidas dua
 
 c) O número de colheitas diferentes de fezes a efectuar para constituir uma amostra compósita deve ser o que adiante se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/085b00/16871690.pdf))](https://files.diariodarepublica.pt/1s/1994/04/085b00/16871690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/085b00/16871690.pdf)
 
 B - Efectivos de aves de capoeira de reprodução adultas
 
@@ -322,7 +333,9 @@ b) Verificar a aplicação das regras e dos controlos relativos à eliminação 
 
 c) Definir processos relativos às boas práticas de fabrico e assegurar o cumprimento das normas reconhecidas.
 
-## ANEXO III — CAPÍTULO I
+## ANEXO III
+
+### CAPÍTULO I
 
 Lista dos laboratórios comunitários de referência para as zoonoses (ver nota a)
 

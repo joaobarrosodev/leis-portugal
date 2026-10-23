@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/359/1995/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/359-1995-223448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c16a994573f99c785563d6faf796290f122e048301a179cf69627f003040bebd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4de7e3f3a0c285ef76d47b6a122c214de524c21067c57ad8670f88cce596936
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Curso de Qualificação para Mestre Costeiro Pescador
 - Formação Profissional
 - Marinha Mercante
 - Pessoal do MAR
-- Curso de Qualificação para Mestre Costeiro Pescador
 - Qualificação Profissional
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:42Z'
   warnings: []
   errors: []
 ---
@@ -139,6 +143,6 @@ c) Fotocópia do título de registo de propriedade da embarcação em que se enc
 
 Ministério do Mar.
 
-**Assinada em 13 de Março de 1995.**
+Assinada em 13 de Março de 1995.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.

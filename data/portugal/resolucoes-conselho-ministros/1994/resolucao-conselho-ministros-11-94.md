@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/11/1994/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-1994-516023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 995c4e6d65acad9247aa41d57ed385f324d867dd220b0c9741727e46b17807c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99826807a445b46fe2e3ddacc6318d06662ffa3808a9c98fa84a7ae7c5322c39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Plano Director Municipal
 - Pampilhosa da Serra
-- Proteção do Ambiente
+- Plano Director Municipal
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:167065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692071:por
+  label: "Ratificada a alteração ao art. 39º do Regulamento ratificado pelo presente diploma, pela RES.138/99.1999.10.08.PCM,\
+    \ DR.IS-B [253] de 29/Out/19991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/138-1999-692071
+  date: '1999-10-08'
+- type: amended_by
+  target: pt:dre:167065:por
+  label: "Ratificada a suspensão parcial, pelo prazo de três anos, do plano director municipal de Pampilhosa da Serra em duas\
+    \ faixas delimitadas na planta de ordenamento e aplica ás referidas zonas as disposições constantes dos arts. 10.º, 11.º,\
+    \ 45.º, 50.º e 56.º do respectivo regulamento aprovadas pelo presente diploma, pela RES.12/2003.2002.12.20.PCM DR.IS-B\
+    \ [24] DE 29/JAN/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/12-2003-167065
+  date: '2002-12-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -117,16 +131,134 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:265310:por
+  label: "Revogada, na área de intervenção do Plano de Pormenor da zona industrial de Pampilhosa da Serra, o Plano Director\
+    \ Municipal alterado pela Res 138/99 de 08-Out, pela RES.47/2002.2002.02.07.PCM, DR.IS-B [61] de 13/Mar/2002 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/47-2002-265310
+  date: '2002-02-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:55Z'
   warnings: []
   errors: []
 ---
@@ -165,15 +297,15 @@ Regulamento do Plano Director Municipal de Pampilhosa da Serra
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Considera-se abrangida pelo Plano Director Municipal (PDM) toda a área do concelho de Pampilhosa da Serra, cujos limites se encontam definidos na planta de ordenamento (1:25000), anexa a este Regulamento.
+Artigo 1.º Considera-se abrangida pelo Plano Director Municipal (PDM) toda a área do concelho de Pampilhosa da Serra, cujos limites se encontam definidos na planta de ordenamento (1:25000), anexa a este Regulamento.
 
-###### Art. 2.º Quaisquer acções de iniciativa pública, privada ou cooperativa a relizar na área de intervenção do Plano respeitarão obrigatoriamente as disposições do presente Regulamento e da planta de ordenamento referida no número anterior.
+Art. 2.º Quaisquer acções de iniciativa pública, privada ou cooperativa a relizar na área de intervenção do Plano respeitarão obrigatoriamente as disposições do presente Regulamento e da planta de ordenamento referida no número anterior.
 
-###### Art. 3.º - 1 - O PDM de Pampilhosa da Serra tem o prazo máximo de vigência de 10 anos, após publicação no Diário da República.
+Art. 3.º - 1 - O PDM de Pampilhosa da Serra tem o prazo máximo de vigência de 10 anos, após publicação no Diário da República.
 
 2 - Nos termos do n.º 2 do artigo 19.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, o PDM poderá ser revisto dentro do prazo referido no n.º 1.
 
-###### Art. 4.º Fazem parte integrante do Plano, para além do presente Regulamento:
+Art. 4.º Fazem parte integrante do Plano, para além do presente Regulamento:
 
 a) A planta de ordenamento, à escala de 1:25000;
 
@@ -191,15 +323,15 @@ c) A planta de perímetros urbanos, à escala de 1:10000.
 
 #### SECÇÃO I — Reserva Agrícola Nacional
 
-###### Art. 5.º Para efeitos do disposto nos Decretos-Leis n.os [196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, e [274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro, consideram-se integradas na RAN as áreas delimitadas como tal na planta de condicionantes (1:25000).
+Art. 5.º Para efeitos do disposto nos Decretos-Leis n.os [196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, e [274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro, consideram-se integradas na RAN as áreas delimitadas como tal na planta de condicionantes (1:25000).
 
-###### Art. 6.º Os solos da RAN devem ser exclusivamente afectos à agricultura, sendo proibidas todas as acções que diminuam ou destruam as suas potencialidades agrícolas, conforme o disposto nos artigos 8.º a 10.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, com a redacção dada pelo [Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro.
+Art. 6.º Os solos da RAN devem ser exclusivamente afectos à agricultura, sendo proibidas todas as acções que diminuam ou destruam as suas potencialidades agrícolas, conforme o disposto nos artigos 8.º a 10.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, com a redacção dada pelo [Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro.
 
 #### SECÇÃO II — Reserva Ecológica Nacional
 
-###### Art. 7.º Para efeitos do disposto nos Decretos-Leis n.os [93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, e [213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro, consideram-se integradas na REN as áreas delimitadas como tal na planta de condicionantes (1:25000).
+Art. 7.º Para efeitos do disposto nos Decretos-Leis n.os [93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, e [213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro, consideram-se integradas na REN as áreas delimitadas como tal na planta de condicionantes (1:25000).
 
-###### Art. 8.º São proíbidas as acções que se traduzem em:
+Art. 8.º São proíbidas as acções que se traduzem em:
 
 a) Operações de loteamento;
 
@@ -215,25 +347,25 @@ f) Destruição do coberto vegetal;
 
 g) Obras hidráulicas.
 
-###### Art. 9.º Exceptuam-se do disposto no artigo anterior as operações relativas à florestação e exploração florestal quando decorrentes de projectos aprovados ou autorizados pelo Instituto Florestal, bem como as previstas no artigo 4.º, n.º 2, do [Decreto-Lei n.º 213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro, e na alínea a) do artigo 6.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março.
+Art. 9.º Exceptuam-se do disposto no artigo anterior as operações relativas à florestação e exploração florestal quando decorrentes de projectos aprovados ou autorizados pelo Instituto Florestal, bem como as previstas no artigo 4.º, n.º 2, do [Decreto-Lei n.º 213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro, e na alínea a) do artigo 6.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março.
 
 #### SECÇÃO III — Áreas sujeitas a regime florestal parcial
 
-###### Art. 10.º As áreas sujeitas a regime florestal parcial estão delimitadas na planta de condicionantes (1:25000).
+Art. 10.º As áreas sujeitas a regime florestal parcial estão delimitadas na planta de condicionantes (1:25000).
 
-###### Art. 11.º Definem-se servidões relativas às áreas sujeitas a regime florestal parcial, de acordo com a legislação vigente.
+Art. 11.º Definem-se servidões relativas às áreas sujeitas a regime florestal parcial, de acordo com a legislação vigente.
 
 #### SECÇÃO IV — Servidões rodoviárias
 
 ##### SUBSECÇÃO I — Rede nacional fundamental
 
-###### Art. 12.º - 1 - A rede nacional fundamental no concelho de Pampilhosa da Serra é inexistente à data de conclusão do PDM.
+Art. 12.º - 1 - A rede nacional fundamental no concelho de Pampilhosa da Serra é inexistente à data de conclusão do PDM.
 
 2 - As servidões rodoviárias e as faixas de protecção (zonas non aedificandi) são definidas pela legislação específica em vigor, designadamente os Decretos-Leis n.os [13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro, [64/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1983-308276), de 3 de Fevereiro, e [380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro.
 
 ##### SUBSECÇÃO II — Rede nacional complementar
 
-###### Art. 13.º - 1 - A rede nacional complementar (outras estradas) no concelho de Pampilhosa da Serra é constituída pelos troços das estradas nacionais definidas no Plano Rodoviário Nacional, aprovado pelo [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Janeiro:
+Art. 13.º - 1 - A rede nacional complementar (outras estradas) no concelho de Pampilhosa da Serra é constituída pelos troços das estradas nacionais definidas no Plano Rodoviário Nacional, aprovado pelo [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Janeiro:
 
 Estrada Nacional n.º 112 (limite do concelho de Góis-Pampilhosa da Serra);
 
@@ -245,19 +377,19 @@ Estrada Nacional n.º 351 (entroncamento com a Estrada Nacional n.º 344-limite 
 
 ##### SUBSECÇÃO III — Rede municipal
 
-###### Art. 14.º - 1 - A rede nacional a desclassificar é constituída pelas estradas nacionais que, constando do Decreto-Lei n.º 34953, de 11 de Maio de 1945, não fazem parte do Plano Rodoviário Nacional, aprovado pelo [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro.
+Art. 14.º - 1 - A rede nacional a desclassificar é constituída pelas estradas nacionais que, constando do Decreto-Lei n.º 34953, de 11 de Maio de 1945, não fazem parte do Plano Rodoviário Nacional, aprovado pelo [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro.
 
 2 - As servidões rodoviárias e as faixas de protecção (zonas non aedificandi) para as rodovias nacionais desclassificadas que não fazem parte do Plano Rodoviário Nacional são definidas pela legislação específica em vigor, designadamente o [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro, enquanto estiverem sob a jurisdicção da Junta Autónoma de Estradas.
 
-###### Art. 15.º - 1 - Nas estradas que constituem a rede nacional a desclassificar, após a sua passagem para a jurisdicção municipal, define-se uma faixa de protecção (zona non aedificandi), medida a partir do limite da plataforma da estrada, com 10 m para habitação em zonas com visibilidade e com 50 m no caso de instalações previstas na alínea e) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro.
+Art. 15.º - 1 - Nas estradas que constituem a rede nacional a desclassificar, após a sua passagem para a jurisdicção municipal, define-se uma faixa de protecção (zona non aedificandi), medida a partir do limite da plataforma da estrada, com 10 m para habitação em zonas com visibilidade e com 50 m no caso de instalações previstas na alínea e) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro.
 
 2 - Nas estradas e caminhos municipais não abrangidos pelo n.º 1, definem-se faixas non aedificandi, medidas a partir da plataforma, com 10 m de largura.
 
 3 - Nas restantes vias públicas não classificadas e fora dos aglomerados urbanos, definem-se faixas non aedificandi com 5 m, medidas a partir da plataforma.
 
-###### Art. 16.º Nos casos em que uma via tenha mais de uma designação, devem considerar-se para faixas non aedificandi os valores referentes à designação de nível superior.
+Art. 16.º Nos casos em que uma via tenha mais de uma designação, devem considerar-se para faixas non aedificandi os valores referentes à designação de nível superior.
 
-###### Art. 17.º - 1 - As áreas de protecção às vias urbanas são definidas no contexto de planos de urbanização ou planos de pormenor dos respectivos aglomerados, definindo-se a distância mínima entre fachadas de edifícios de ambos os lados de vias de circulação automóvel, com exclusão de impasses ou das vias de acesso aos estacionamentos privados, a qual deve corresponder à largura da faixa de circulação, acrescentada de:
+Art. 17.º - 1 - As áreas de protecção às vias urbanas são definidas no contexto de planos de urbanização ou planos de pormenor dos respectivos aglomerados, definindo-se a distância mínima entre fachadas de edifícios de ambos os lados de vias de circulação automóvel, com exclusão de impasses ou das vias de acesso aos estacionamentos privados, a qual deve corresponder à largura da faixa de circulação, acrescentada de:
 
 2,5 m para cada lado da via, quando a faixa de circulação tenha largura igual a 5 m, sendo a distância mínima entre fachadas de 10 m;
 
@@ -267,21 +399,21 @@ Estrada Nacional n.º 351 (entroncamento com a Estrada Nacional n.º 344-limite 
 
 #### SECÇÃO V — Servidões da rede eléctrica de média e alta tensão
 
-###### Art. 18.º Definem-se servidões relativas às linhas de média e alta tensão do concelho, de acordo com a lei em vigor.
+Art. 18.º Definem-se servidões relativas às linhas de média e alta tensão do concelho, de acordo com a lei em vigor.
 
 #### SECÇÃO VI — Servidões dos sistemas de sanemaneto básico
 
-###### Art. 19.º E interdita a construção ao longo de uma faixa de 5 m, medida para um e outro lado do traçado das condutas de adução de água e de adução-distribuição de água.
+Art. 19.º E interdita a construção ao longo de uma faixa de 5 m, medida para um e outro lado do traçado das condutas de adução de água e de adução-distribuição de água.
 
-###### Art. 20.º É interdita a construção ao longo de um a faixa de 5 m, medida para um e outro lado das condutas distribuidoras de água e dos colectores das redes de drenagem de esgotos.
+Art. 20.º É interdita a construção ao longo de um a faixa de 5 m, medida para um e outro lado das condutas distribuidoras de água e dos colectores das redes de drenagem de esgotos.
 
-###### Art. 21.º Fora das áreas urbanas é interdita a plantação de árvores ao longo de uma faixa de 5 m, medida para um e outro lado do traçado das adutoras e condutas distribuidoras de água e colectores de esgotos.
+Art. 21.º Fora das áreas urbanas é interdita a plantação de árvores ao longo de uma faixa de 5 m, medida para um e outro lado do traçado das adutoras e condutas distribuidoras de água e colectores de esgotos.
 
-###### Art. 22.º Define-se uma faixa non aedicandi de 400 m aos limites dos aterros sanitários e de 100 m aos das estações de tratamento de águas residuais.
+Art. 22.º Define-se uma faixa non aedicandi de 400 m aos limites dos aterros sanitários e de 100 m aos das estações de tratamento de águas residuais.
 
-###### Art. 23.º Nas faixas referidas no artigo anterior são interditas as captações de água que se destinem aos fornecimento de água para rega e para o consumo doméstico.
+Art. 23.º Nas faixas referidas no artigo anterior são interditas as captações de água que se destinem aos fornecimento de água para rega e para o consumo doméstico.
 
-###### Art. 24.º Definem-se perímetros de protecção a captações subterrâneas de água para abastecimento público nos seguintes termos:
+Art. 24.º Definem-se perímetros de protecção a captações subterrâneas de água para abastecimento público nos seguintes termos:
 
 1) Nos perímetros de protecção próxima a captações suberrâneas públicas (raio de 50 m em torno da captação) não devem existir:
 
@@ -311,15 +443,15 @@ c) Rega com águas negras.
 
 #### SECÇÃO VII — Servidões dos vértices geodésicos
 
-###### Art. 25.º De acordo com a legislação em vigor (artigo 22.º do [Decreto-Lei n.º 143/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1982-606683)) são definidas áreas de servidão circunjacentes aos vértices geodésicos construídos pelo Instituto Geográfico e Cadastral.
+Art. 25.º De acordo com a legislação em vigor (artigo 22.º do [Decreto-Lei n.º 143/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1982-606683)) são definidas áreas de servidão circunjacentes aos vértices geodésicos construídos pelo Instituto Geográfico e Cadastral.
 
 #### SECÇÃO VIII — Servidões das pedreiras e minas
 
-###### Art. 26.º As servidões das pedreiras e minas são definidas nos termos da legislação específica em vigor (designadamente os Decretos-Leis n.os [88/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1990-333161), [89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156) e [90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), todos de 16 de Março), incluindo, para as pedreiras, zonas de defesa conforme os casos previstos no artigo 13.º do [Decreto-Lei n.º 89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de 16 de Março.
+Art. 26.º As servidões das pedreiras e minas são definidas nos termos da legislação específica em vigor (designadamente os Decretos-Leis n.os [88/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1990-333161), [89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156) e [90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), todos de 16 de Março), incluindo, para as pedreiras, zonas de defesa conforme os casos previstos no artigo 13.º do [Decreto-Lei n.º 89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de 16 de Março.
 
 #### SECÇÃO IX — Servidões do domínio público hídrico
 
-###### Art. 27.º São áreas afectas ao domínio público hídrico, nos termos da legislação vigente e do presente Regulamento, as seguintes:
+Art. 27.º São áreas afectas ao domínio público hídrico, nos termos da legislação vigente e do presente Regulamento, as seguintes:
 
 a) Linhas de água não navegáveis nem flutuáveis e respectivas margens de 10 m além do limite do leito (em condições de caudal médio);
 
@@ -331,19 +463,19 @@ d) Lagoas e albufeiras e respectivas faixas de protecção de 500 m, medida na h
 
 #### SECÇÃO X — Património histórico-arquitectónico
 
-###### Art. 28.º - 1 - Não existem imóveis classificados no concelho de Pampilhosa da Serra à data da conclusão do PDM.
+Art. 28.º - 1 - Não existem imóveis classificados no concelho de Pampilhosa da Serra à data da conclusão do PDM.
 
 2 - As servidões dos eficícios que no futuro venham a ser classificados são as definidas na legislação em vigor, nomeadamente o Decreto-lei n.º 153/85, sendo definidos, em termos gerais, alguns condicionamentos nos artigos seguintes.
 
-###### Art. 29.º Em imóveis classificados (monumentos nacionais, imóveis de interesse público e valores concelhios), qualquer projecto visando obras de modificação ou conservação carece de aprovação prévia pelo Instituto Português do Património Arquitectónico e Arqueológico (IPPAA).
+Art. 29.º Em imóveis classificados (monumentos nacionais, imóveis de interesse público e valores concelhios), qualquer projecto visando obras de modificação ou conservação carece de aprovação prévia pelo Instituto Português do Património Arquitectónico e Arqueológico (IPPAA).
 
-###### Art. 30.º Nos edifícios ou terrenos localizados em zonas classificadas de protecção, as obras de demolição, instalação, construção ou reconstrução carecem do parecer favorável do IPPAA.
+Art. 30.º Nos edifícios ou terrenos localizados em zonas classificadas de protecção, as obras de demolição, instalação, construção ou reconstrução carecem do parecer favorável do IPPAA.
 
-###### Art. 31.º Os pedidos de alterações a introduzir em imóveis classificados e zonas de protecção definidos nos artigos anteriores necessitam de ser elaborados e subscritos por técnicos especializados de reconhecido mérito ou sob sua responsabilidade.
+Art. 31.º Os pedidos de alterações a introduzir em imóveis classificados e zonas de protecção definidos nos artigos anteriores necessitam de ser elaborados e subscritos por técnicos especializados de reconhecido mérito ou sob sua responsabilidade.
 
 ### CAPÍTULO III — Uso dos solos
 
-###### Art. 32.º - 1 - O território municipal classifica-se, para efeitos de ocupação, uso e transformação, nas seguintes áreas, delimitadas na planta de ordenamento:
+Art. 32.º - 1 - O território municipal classifica-se, para efeitos de ocupação, uso e transformação, nas seguintes áreas, delimitadas na planta de ordenamento:
 
 a) Áreas urbanas e urbanizáveis;
 
@@ -371,25 +503,25 @@ b) Nos casos em que o limite entre classes de espaços ofereça dúvidas, compet
 
 ##### SUBSECÇÃO I — Perímetros urbanos
 
-###### Art. 33.º Consideram-se áreas urbanas ou urbanizáveis as áreas incluídas nos perímetros urbanos e delimitados como tal na planta de ordenamento, à escala de 1:2500, e plantas anexas de perímetros urbanos à escala de 1:10000.
+Art. 33.º Consideram-se áreas urbanas ou urbanizáveis as áreas incluídas nos perímetros urbanos e delimitados como tal na planta de ordenamento, à escala de 1:2500, e plantas anexas de perímetros urbanos à escala de 1:10000.
 
-###### Art. 34.º O regime geral de urbanização e de edificabilidade está definido para os perímetros urbanos nos artigos da subsecção III.
+Art. 34.º O regime geral de urbanização e de edificabilidade está definido para os perímetros urbanos nos artigos da subsecção III.
 
-###### Art. 35.º Na elaboração ou revisão dos planos de urbanização deverão ser sempre definidas as áreas a sujeitar a planos de pormenor de expansão ou de recuperação urbana.
+Art. 35.º Na elaboração ou revisão dos planos de urbanização deverão ser sempre definidas as áreas a sujeitar a planos de pormenor de expansão ou de recuperação urbana.
 
-###### Art. 36.º A planta de ordenamento do PDM define os perímetros urbanos para cada sede de freguesia e ainda para os aglomerados de Esteiro, Malhada do Rei, Meãs e Porto de Vacas.
+Art. 36.º A planta de ordenamento do PDM define os perímetros urbanos para cada sede de freguesia e ainda para os aglomerados de Esteiro, Malhada do Rei, Meãs e Porto de Vacas.
 
 ##### SUBSECÇÃO II — Cedências
 
-###### Art. 37.º As áreas destinadas ao domínio público nas operações de loteamento serão cedidas gratuitamente pelos particulares à Câmara Municipal, de acordo com o [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715) (artigos 15.º e 16.º) ou legislação que o revogue.
+Art. 37.º As áreas destinadas ao domínio público nas operações de loteamento serão cedidas gratuitamente pelos particulares à Câmara Municipal, de acordo com o [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715) (artigos 15.º e 16.º) ou legislação que o revogue.
 
 ##### SUBSECÇÃO III — Edificabilidade
 
-###### Art. 38.º - 1 - Define-se o índice de utilização bruto como a razão entre a área total de pavimento e a área total do prédio.
+Art. 38.º - 1 - Define-se o índice de utilização bruto como a razão entre a área total de pavimento e a área total do prédio.
 
 2 - Define-se o índice de utilização líquido como a razão entre a área total de pavimento e a área a lotear do prédio.
 
-###### Art. 39.º - 1 - O PDM define os índices de utilização para cada uma das zonas delimitadas na planta de ordenamento, tendo em conta a dinâmica de transformação do uso do solo, actual e previsional, as prioridades estratégicas e a estrutura fundiária.
+Art. 39.º - 1 - O PDM define os índices de utilização para cada uma das zonas delimitadas na planta de ordenamento, tendo em conta a dinâmica de transformação do uso do solo, actual e previsional, as prioridades estratégicas e a estrutura fundiária.
 
 2 - Nas áreas urbanas consolidadas de Pampilhosa da Serra, Unhais e Dornelas do Zêzere o índice de utilização líquido variará entre 0,50 e 0,65 e o número de pisos não poderá exceder três acima do nível da rua.
 
@@ -399,7 +531,7 @@ b) Nos casos em que o limite entre classes de espaços ofereça dúvidas, compet
 
 5 - Quando se tratar de lotes ou prédios com construção, os direitos de reconstrução não poderão ser inferiores aos que já existem, majorados até à cércea e alinhamento dos edifícios contíguos.
 
-###### Art. 40.º - 1 - Poderão vir a ser licenciadas novas unidades industriais das classes C e D nas áreas residencias, fora das áreas a que se refere o artigo 42.º, desde que as unidades em questão verifiquem os requisitos seguintes, sem prejuízo das servidões a que se refere o capítulo I:
+Art. 40.º - 1 - Poderão vir a ser licenciadas novas unidades industriais das classes C e D nas áreas residencias, fora das áreas a que se refere o artigo 42.º, desde que as unidades em questão verifiquem os requisitos seguintes, sem prejuízo das servidões a que se refere o capítulo I:
 
 a) Os estabelecimentos industriais devem ser providos de sistemas antipoluentes por forma a dar cumprimento à legislação em vigor;
 
@@ -427,17 +559,17 @@ d) Os estabelecimentos da classe D podem localizar-se em prédios com outros uso
 
 ##### SUBSECÇÃO IV — Taxa municipal de urbanização
 
-###### Art. 41.º A Câmara Municipal poderá, ao abrigo do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), ser compensada dos encargos pela realização de infra-estruturas urbanísticas públicas exteriores ao domínio privado, decorrentes de operações de loteamento, através do pagamento da taxa municipal de urbanização (TMU) pelos proprietários e demais titulares de direitos reais sobre o terreno objecto das referidas operações.
+Art. 41.º A Câmara Municipal poderá, ao abrigo do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), ser compensada dos encargos pela realização de infra-estruturas urbanísticas públicas exteriores ao domínio privado, decorrentes de operações de loteamento, através do pagamento da taxa municipal de urbanização (TMU) pelos proprietários e demais titulares de direitos reais sobre o terreno objecto das referidas operações.
 
 #### SECÇÃO II — Áreas industriais/indústria transformadora
 
-###### Art. 42.º - 1 - É obrigatório o licenciamento de estabelecimentos industriais nos termos do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, e do [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, e o cumprimento da legislação em vigor sobre poluição sonora e atmosférica e sobre resíduos sólidos.
+Art. 42.º - 1 - É obrigatório o licenciamento de estabelecimentos industriais nos termos do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, e do [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, e o cumprimento da legislação em vigor sobre poluição sonora e atmosférica e sobre resíduos sólidos.
 
 2 - A localização dos estabelecimentos industriais far-se-á nas áreas reservadas para esse fim na planta de ordenamento, sem prejuízo do disposto no artigo 40.º do presente Regulamento.
 
-###### Art. 43.º A ocupação das áreas industriais ficará sujeita a plano de pormenor, o qual respeitará índices de volume entre 3 m3/m2 e 5 m3/m2, e só se efectivará após a conclusão e entrada em funcionamento das respectivas infra-estruturas.
+Art. 43.º A ocupação das áreas industriais ficará sujeita a plano de pormenor, o qual respeitará índices de volume entre 3 m3/m2 e 5 m3/m2, e só se efectivará após a conclusão e entrada em funcionamento das respectivas infra-estruturas.
 
-###### Art. 44.º Os estabelecimentos industriais da classe B já existentes à data de entrada em vigor do [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, que pretendam legalizar-se ou ampliar-se, só o poderão fazer nas seguintes condições:
+Art. 44.º Os estabelecimentos industriais da classe B já existentes à data de entrada em vigor do [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, que pretendam legalizar-se ou ampliar-se, só o poderão fazer nas seguintes condições:
 
 O tratamento dos efluentes deverá, quando necessário, ser realizado em estação própria antes de ser lançado na rede pública ou nas linhas de drenagem natural;
 
@@ -449,11 +581,11 @@ Mediante parecer favorável da Comissão de Coordenação da Região do Centro.
 
 #### SECÇÃO III — Áreas para indústria extractiva
 
-###### Art. 45.º Estão assinaladas na planta de ordenamento as áreas que se destinam à exploração de recursos mineiros, nos termos da legislação específica em vigor.
+Art. 45.º Estão assinaladas na planta de ordenamento as áreas que se destinam à exploração de recursos mineiros, nos termos da legislação específica em vigor.
 
 #### SECÇÃO IV — Áreas rurais
 
-###### Art. 46.º As áreas rurais dividem-se em:
+Art. 46.º As áreas rurais dividem-se em:
 
 a) Áreas agrícolas;
 
@@ -463,15 +595,15 @@ c) Áreas agro-silvo-pastoris.
 
 ##### SUBSECÇÃO I — Áreas agrícolas
 
-###### Art. 47.º As áreas pertencentes a esta classe são as que possuem características mais adequadas às actividades agrícolas, ou que as possam vir a adquirir, encontram-se identificadas na planta de ordenamento e incluem:
+Art. 47.º As áreas pertencentes a esta classe são as que possuem características mais adequadas às actividades agrícolas, ou que as possam vir a adquirir, encontram-se identificadas na planta de ordenamento e incluem:
 
 A RAN;
 
 Áreas de uso predominantemente agrícola.
 
-###### Art. 48.º A utilização de quaisquer espaços integrados na RAN subordinar-se-á estritamente aos condicionamentos impostos pela preservação das suas potencialidades, pelo que não podem ser objecto de quaisquer acções que as diminuam ou destruam, salvo as excepções consignadas na lei geral, nomeadamente no [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, com a redacção que lhe é conferida pelo Decreto-lei n.º 274/92, de 12 de Dezembro.
+Art. 48.º A utilização de quaisquer espaços integrados na RAN subordinar-se-á estritamente aos condicionamentos impostos pela preservação das suas potencialidades, pelo que não podem ser objecto de quaisquer acções que as diminuam ou destruam, salvo as excepções consignadas na lei geral, nomeadamente no [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, com a redacção que lhe é conferida pelo Decreto-lei n.º 274/92, de 12 de Dezembro.
 
-###### Art. 49.º Será permitida a implantação nas áreas de uso predominantemente agrícola, fora da RAN, de unidades de transformação de produtos agrícolas, pecuários ou florestais e de equipamentos de interesse social e cultural, de habitação e de unidades de turismo rural, nas seguintes condições:
+Art. 49.º Será permitida a implantação nas áreas de uso predominantemente agrícola, fora da RAN, de unidades de transformação de produtos agrícolas, pecuários ou florestais e de equipamentos de interesse social e cultural, de habitação e de unidades de turismo rural, nas seguintes condições:
 
 Índice de utilização máximo - 0,05;
 
@@ -481,9 +613,9 @@ As unidades de exploração pecuária deverão respeitar afastamentos a outras e
 
 ##### SUBSECÇÃO II — Áreas florestais
 
-###### Art. 50.º As áreas florestais são as destinadas à produção de material lenhoso, resinas e outros produtos florestais. Têm ainda como fim o de assegurar a correcção das disponibilidades hídricas, diminuir o risco de erosão dos solos, permitindo a sua recuperação funcional, e o incremento do valor ecossistémico e recreativo da paisagem.
+Art. 50.º As áreas florestais são as destinadas à produção de material lenhoso, resinas e outros produtos florestais. Têm ainda como fim o de assegurar a correcção das disponibilidades hídricas, diminuir o risco de erosão dos solos, permitindo a sua recuperação funcional, e o incremento do valor ecossistémico e recreativo da paisagem.
 
-###### Art. 51.º Nas zonas florestais poderão ser autorizadas edificações nas seguintes condições:
+Art. 51.º Nas zonas florestais poderão ser autorizadas edificações nas seguintes condições:
 
 a) Apoio exclusivamente florestal, devidamente justificado, não podendo exceder o índice de utilização o valor de 0,01;
 
@@ -495,9 +627,9 @@ Número máximo de pisos: dois;
 
 Infra-estruturas autónomas, excepto quando existir rede pública, sendo os encargos da sua ligação inteiramente suportados pelo interessado.
 
-###### Art. 52.º As edificações já existentes nestas zonas poderão ser remodeladas ou recuperadas.
+Art. 52.º As edificações já existentes nestas zonas poderão ser remodeladas ou recuperadas.
 
-###### Art. 53.º Estabelecem-se para as áreas florestais, no âmbito da prevenção contra fogos florestais e de acordo com os critérios previstos no artigo 2.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, as seguintes medidas de controlo de povoamentos:
+Art. 53.º Estabelecem-se para as áreas florestais, no âmbito da prevenção contra fogos florestais e de acordo com os critérios previstos no artigo 2.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, as seguintes medidas de controlo de povoamentos:
 
 a) Nos projectos de arborização ou rearborização à base de resinosas, em especial o pinheiro-bravo, nunca deverão as manchas por elas ocupadas exceder 100 ha sem serem cantonadas por faixas de folhosas, mais resistentes ao fogo, com uma largura nunca inferior a 25 m para um e outro lado da linha de talvegue;
 
@@ -507,7 +639,7 @@ c) Deverão ser preservados, nos termos do [Decreto-Lei n.º 19/93](https://diar
 
 ##### SUBSECÇÃO III — Áreas agro-silvo-pastoris
 
-###### Art. 54.º - 1 - As áreas agro-silvo-pastoris assinaladas na planta de ordenamento não serão alvo de quaisquer restrições no que se refere ao uso agrícola e florestal do solo.
+Art. 54.º - 1 - As áreas agro-silvo-pastoris assinaladas na planta de ordenamento não serão alvo de quaisquer restrições no que se refere ao uso agrícola e florestal do solo.
 
 2 - As condições de edificabilidade para estas áreas são as seguintes:
 
@@ -517,7 +649,7 @@ b) O índice de utilização bruto não poderá exceder 0,05, sendo apenas permi
 
 c) O abastecimento de água e a drenagem dos esgotos deverão ser resolvidos por sistemas autónomos, salvo se o interessado custear a totalidade das despesas com a extensão das redes públicas.
 
-###### Art. 55.º Será permitido nas áreas agro-silvo-pastoris o fraccionamento da propriedade rústica nas condições seguintes:
+Art. 55.º Será permitido nas áreas agro-silvo-pastoris o fraccionamento da propriedade rústica nas condições seguintes:
 
 a) As parcelas resultantes não tenham área inferior a 5000 m2;
 
@@ -527,20 +659,20 @@ c) O índice de utilização bruto não poderá exceder 0,05, sendo apenas autor
 
 d) O abastecimento de água e a drenagem de esgotos, bem como a rede viária interna, serão resolvidos por sistemas autónomos, concebidos para o conjunto das parcelas resultantes do fraccionamento da unidade inicial.
 
-###### Art. 56.º Será permitida a implantação nas áreas agro-silvo-pastoris de unidades de transformação de produtos agrícolas, pecuários ou florestais, de equipamentos de interesses cultural e social, de habitação e de unidades de turismo rural, nos termos do artigo 49.º e do artigo anterior.
+Art. 56.º Será permitida a implantação nas áreas agro-silvo-pastoris de unidades de transformação de produtos agrícolas, pecuários ou florestais, de equipamentos de interesses cultural e social, de habitação e de unidades de turismo rural, nos termos do artigo 49.º e do artigo anterior.
 
 #### SECÇÃO V — Áreas de desenvolvimento turístico
 
-###### Art. 57.º Consideram-se áreas de desenvolvimento turístico as áreas delimitadas na planta de ordenamento e que são fundamentalmente constituídas pela zona envolvente à albufeira da Barragem de Santa Luzia.
+Art. 57.º Consideram-se áreas de desenvolvimento turístico as áreas delimitadas na planta de ordenamento e que são fundamentalmente constituídas pela zona envolvente à albufeira da Barragem de Santa Luzia.
 
-###### Art. 58.º As condições de ocupação desta área serão definidas em plano de ordenamento a elaborar para aquela zona, o qual poderá recorrer à legislação sobre planos municipais de ordenamento do território (PMOT) através da figura de plano de pormenor ou da figura prevista nos Decretos Regulamentares n.os [2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, e [37/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300), de 23 de Julho, e na [Portaria n.º 333/92](https://diariodarepublica.pt/dr/detalhe/portaria/333-1992-199455), de 10 de Abril.
+Art. 58.º As condições de ocupação desta área serão definidas em plano de ordenamento a elaborar para aquela zona, o qual poderá recorrer à legislação sobre planos municipais de ordenamento do território (PMOT) através da figura de plano de pormenor ou da figura prevista nos Decretos Regulamentares n.os [2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, e [37/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300), de 23 de Julho, e na [Portaria n.º 333/92](https://diariodarepublica.pt/dr/detalhe/portaria/333-1992-199455), de 10 de Abril.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 59.º Quando exista incompatibilidade, contradição ou simples disparidade entre as disposições do Regulamento do PDM, seguir-se-ão as regras seguintes no que diz respeito à hierarquia daquelas:
+Art. 59.º Quando exista incompatibilidade, contradição ou simples disparidade entre as disposições do Regulamento do PDM, seguir-se-ão as regras seguintes no que diz respeito à hierarquia daquelas:
 
 a) Quando existam planos de urbanização com plena eficácia ou planos de pormenor nas mesmas condições, prevalecerão as disposições destes;
 
 b) A legislação geral que regulamenta o uso do solo nas áreas a que se referem os artigos 5.º e 7.º prevalece sobre quaisquer outras disposições relativas ao uso do território nessas áreas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/043b00/07600765.pdf))](https://files.diariodarepublica.pt/1s/1994/02/043b00/07600765.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/043b00/07600765.pdf)

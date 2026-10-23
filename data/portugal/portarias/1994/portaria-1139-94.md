@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1139/1994/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1139-1994-574761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6c06d581f2d02d70d03e2000d380e2553aa9315b779ffdb9fbcfe38cbf0cccc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5f5194e4e300e19ae6eb90d69dcce20c9cd5cd662d311de575b43ba6d575e07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Electrotécnica
 - CEE
 - Consumo de Energia
 - Etiquetagem
+- Indústria Electrotécnica
 - Proteção do Consumidor
 relationships:
 - type: amended_by
@@ -89,16 +89,23 @@ relationships:
   target: celex:31994L0002
   label: null
   source: http://data.europa.eu/eli/dir/1994/2/oj
+- type: repealed_by
+  target: pt:dre:202667:por
+  label: "Revogada a presente portaria, sendo contudo permitida a utilização de etiquetas e fichas de informação coformes\
+    \ com a presente Portaria até 60 dias após a entrada em vigor do DEC LEI.1/2006.02.01.2006.MEI, DR.IS-A [1] de 02.01.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2006-202667
+  date: '2006-01-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:00Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +202,7 @@ Esta portaria entra em vigor no dia 1 de Janeiro de 1995, concedendo-se aos forn
 
 Ministério da Indústria e Energia.
 
-**Assinada em 15 de Dezembro de 1994.**
+Assinada em 15 de Dezembro de 1994.
 
 Pelo Ministro da Indústria e Energia, Luís Filipe da Conceição Pereira, Secetário de Estado da Energia.
 
@@ -203,7 +210,7 @@ Pelo Ministro da Indústria e Energia, Luís Filipe da Conceição Pereira, Sece
 
 1 - Concepção da etiqueta. - A etiqueta deve ser conforme com o modelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf))](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf)
 
 2 - Notas relativas à etiqueta. - As notas que se seguem especificam os dados que devem ser incluídos na etiqueta:
 
@@ -229,7 +236,7 @@ IX) O nível de ruído deve ser medido em conformidade com a regulamentação ap
 
 3 - Impressão da etiqueta. - Definem-se a seguir certos aspectos da etiqueta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf))](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf)
 
 Cores utilizadas na etiqueta: CMAP - ciano, magenta, amarelo, preto.
 
@@ -267,7 +274,7 @@ A ficha deve incluir os dados que se seguem. Os dados podem ser apresentados sob
 
 3) Tipo de aparelho:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf))](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf)
 
 4) A classe de eficiência energética, tal como definida no anexo V, sob a forma de "Classe de eficiência energética ...", numa escala de A (a mais eficiente) a G (a menos eficiente). Se esta informação for dada por uma tabela, pode ser expressa de outro modo desde que fique claro que a escala vai de A (a mais eficiente) a G (a menos eficiente);
 
@@ -343,4 +350,4 @@ Os aparelhos abrangidos pela presente portaria serão repartidos pelas seguintes
 
 A classe de eficiência energética dos aparelhos deverá ser determinada em conformidade com o quadro n.º 1:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf))](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/294b00/73117314.pdf)

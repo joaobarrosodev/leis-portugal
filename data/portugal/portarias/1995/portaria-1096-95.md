@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1096/1995/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1096-1995-551464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1c1f6532b2dc8b61d1c5cce519375413d053b3b21d2d77b9d07a42848a25e78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d940ac981d9ce8ad6ed14c755a99cf44dc45a34ff2c07396aeb23dbc2df9b115
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Coimbra
 - Curso de Design de Equipamento
 - Curso de Design Gráfico e Ilustração
 - Ensino Particular
-- Escola de Tecnologias Artísticas
-- Coimbra
 - Ensino Superior
+- Escola de Tecnologias Artísticas
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:534424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318969:por
+  label: "Alterada a designação para Curso de Design de Comunicação do curso de licenciatura em Design Gráfico e Ilustração\
+    \ (autorizado pelo presente diploma), pela PORT.102/2001.2001.02.16.ME, DR.IS-B [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2001-318969
+  date: '2001-02-16'
+- type: amended_by
+  target: pt:dre:534424:por
+  label: "Alterado o anexo ao presente diploma, pela PORT.1446/2004.25.11.2004.MCIES, DR.IS-B [277] de 25.11.2004, na parte\
+    \ referente ao curso de Design de Equipamento\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1446-2004-534424
+  date: '2004-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:41Z'
   warnings: []
   errors: []
 ---
@@ -126,10 +146,10 @@ Curso de Design Gráfico e Ilustração.
 
 Ministério da Educação.
 
-**Assinada em 16 de Agosto de 1995.**
+Assinada em 16 de Agosto de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Escola de Tecnologias Artísticas de Coimbra - ETAC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/206b00/56555656.pdf))](https://files.diariodarepublica.pt/1s/1995/09/206b00/56555656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/206b00/56555656.pdf)

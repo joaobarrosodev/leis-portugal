@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/94/2010/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/94-2010-308986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92a51dd05508ed7a8a7f7238d802d1bf5249f620f734a4eb081b6f19780e3920
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0c5ed5e811d24b03f2c1cce1df8de80c52fa7882d34c72e1ee024a2a12e233a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Financiamento
+- Comissão para a Cidadania e a Igualdade de Género
 - Comissão Técnica
 - Coordenador
+- Crime
 - Definição de Competências
-- Plano Nacional contra o Tráfico de Seres Humanos
-- Comissão para a Cidadania e a Igualdade de Género
-- Tráfico de Pessoas
+- Financiamento
 - Observatório do Tráfico de Seres Humanos
+- Plano Nacional contra o Tráfico de Seres Humanos
+- Tráfico de Pessoas
 relationships:
 - type: cites
   target: celex:32002D0629
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:15Z'
   warnings: []
   errors: []
 ---
@@ -313,7 +313,7 @@ Neste domínio pretende-se ainda contribuir para um conhecimento mais aprofundad
 
 Objectivo. - Promover e reforçar o conhecimento sobre as diferentes realidades do tráfico de seres humanos existentes em Portugal, assim como consolidar a consciencialização com vista à prevenção do fenómeno.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf))](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf)
 
 2.ª Educar e Formar
 
@@ -321,7 +321,7 @@ Nesta área pretende-se promover o aprofundamento do conhecimento sobre o tráfi
 
 Objectivo. - Incluir o tema do tráfico de seres humanos nos sistemas educativos em todos os níveis de ensino, assim como reforçar a formação para públicos estratégicos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf))](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf)
 
 3.ª Proteger e Assistir
 
@@ -329,7 +329,7 @@ Esta área privilegia a melhoria da protecção e da assistência às vítimas d
 
 Objectivo. - Consolidar as práticas de intervenção direccionadas às vítimas através de uma maior especialização no seu atendimento, tendo em conta os diferentes tipos de tráfico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf))](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf)
 
 4.ª Investigar Criminalmente e Cooperar
 
@@ -343,7 +343,7 @@ Pretende-se também desenvolver mecanismos de colaboração e de troca de boas p
 
 Objectivo. - Reforçar a investigação de casos de tráfico de seres humanos nas suas diferentes vertentes, alicerçando esta intervenção na especialização e na cooperação entre diferentes organismos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf))](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/23100/0537205379.pdf)
 
 V - Avaliação
 

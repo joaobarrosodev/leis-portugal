@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/449/1995/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/449-1995-506625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cc95d8eb6bd8527b6ac75899df3a2f193c3eea7208882f9a94707e7045d6726
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60c1198957547cfe63f346952acd2124e877e51e01f2ed6f1eb788dc8230c681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Canto
 - Curso de Composição
 - Curso de Estudos Gregorianos
@@ -75,13 +74,20 @@ subjects:
 - Curso de Instrumento
 - Ensino Superior Politécnico
 - Escola Superior de Música
-- Lisboa
 - Instituto Politécnico
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:527428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408169:por
+  label: "Alterado o n.º 8.º da Portaria n.º 1233/90, de 28 de Dezembro, na redacção do presente diploma, pela PORT.336/96.03.08.1996.ME,\
+    \ DR.IS-B [179] de 03.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/336-1996-408169
+  date: '1996-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/582-a/1993/06/07/p/dre
   label: null
@@ -94,16 +100,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/700/1993/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/700/1993/07/29/p/dre
+- type: cites
+  target: pt:dre:225404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564233:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:48Z'
   warnings: []
   errors: []
 ---
@@ -260,8 +298,8 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 1993-1994.
 
 Ministério da Educação.
 
-**Assinada em 11 de Abril de 1995.**
+Assinada em 11 de Abril de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/110b00/27732780.pdf))](https://files.diariodarepublica.pt/1s/1995/05/110b00/27732780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/110b00/27732780.pdf)

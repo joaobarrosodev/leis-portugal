@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 26/1994, 1º Suplemento, Série I-B de 1994-02-01
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 486-(2) a 486-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/69/1994/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/69-1994-348336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 320e260fff23bb5a03d1e5d01854f8ffdf7a3e6cb4f9065314996aafbc806f64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4907fcce54cf2bd54672018e639be0d4d8570c21fbebcc2ee1aea3ab6a151d10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Administração dos Portos de Setúbal e Sesimbra
 - Administração dos Portos do Douro e Leixões
-- Administração de Portos
 - Junta Autónoma dos Portos
 - Lisboa
 - Regulamento
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:485049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167404:por
+  label: "Alterados os arts. 57º, 62º, 64º, 66º e 83º do Regulamento aprovado pelo Dec Lei 291/79, de 16-Ago DR.IS [188],\
+    \ com a redacção dada pelo presente diploma, pela PORT.228/98.1998.04.11.MEPAT, DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-1998-167404
+  date: '1998-04-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/102/1991/02/05/p/dre
   label: null
@@ -107,16 +113,75 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/596/1993/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/596/1993/06/19/p/dre
+- type: cites
+  target: pt:dre:192601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664307:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:167404:por
+  label: "Revogado o nº 5 pela PORT.228/98.1998.04.11.MEPAT, DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-1998-167404
+  date: '1998-04-11'
+- type: repealed_by
+  target: pt:dre:485049:por
+  label: "Revogada, pelo DEC LEI.200/98.1998.07.10.MEPAT DR.IS-A [157], com a entrada em vigor dos regulamentos a que se refere\
+    \ o seu nº 2 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1998-485049
+  date: '1998-07-10'
 article_structure:
-  article_count: 20
+  article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:47Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +232,7 @@ Por cada 50 t ou fracção acima, além de 100 tAB - 54$00.
 
 1 - A taxa de porto, aplicada de acordo com o grupo a que pertence a mercadoria, tem, para cada uma das operações de carga ou descarga e por tonelada indivisível, os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf))](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf)
 
 2 - As taras, nelas incluindo os contentores, pagarão 72$00 por tonelada.
 
@@ -279,13 +344,15 @@ Trimestral - 18$00.
 
 ### CAPÍTULO III — Mercadorias
 
-#### SECÇÃO II — Artigo 23.º
+#### SECÇÃO II
+
+###### Artigo 23.º
 
 [...]
 
 1 - As taxas de porto a cobrar são as seguintes, por cada tonelada de mercadoria, de acordo com o n.º 2 do artigo 21.º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf))](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf)
 
 a) As mercadorias de tráfego fluvial e local pagarão a taxa de porto, que é de 18$00.
 
@@ -295,7 +362,7 @@ c) ...
 
 2 - As taxas de porto a cobrar por cada veículo automóvel ou atrelado são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf))](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf)
 
 3 - ...
 
@@ -561,7 +628,7 @@ Entre ilhas do mesmo arquipélago, em embarcações de qualquer classe (só no e
 
 b) Por cada tonelada, para as mercadorias movimentadas, excepto as de tráfego no interior dos portos e o pescado transaccionado ou avaliado em lotas, conforme o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf))](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/026b01/00020007.pdf)
 
 c) Para as mercadorias movimentadas em embarcações exclusivamente dentro da área de jurisdição de cada administração portuária, sem ultrapassar os limites das obras exteriores do respectivo porto - 18$00/tonelada;
 
@@ -581,6 +648,6 @@ f) ...
 
 Ministério do Mar.
 
-**Assinada em 20 de Janeiro de 1994.**
+Assinada em 20 de Janeiro de 1994.
 
 Pelo Ministro do Mar, João Prates Bebiano, Secretário de Estado Adjunto e das Pescas.

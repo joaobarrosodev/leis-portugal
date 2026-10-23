@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1014/1994/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1014-1994-549847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:15:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f403a03881aeaff0b1070d35619153c83290a5026eb6a1b61a379383105850d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbed4f844f9234b882b8ebc9a38c2c28ee9c0d723ca54fa54b201d2afe0fdd1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:15:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,80 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Matemática e Ciências da Natureza
+- Ensino Básico
 - Ensino Superior Politécnico
 - Escola Superior de Educação
-- Lisboa
 - Instituto Politécnico
-- Ensino Básico
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:603037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150924:por
+  label: "Alterados os planos de estudos anexos à Port 596/89 de 21-Ago, na redacção dada pelo presente diploma, pela PORT.487/97.1997.07.14.ME\
+    \ DR.IS-B [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/487-1997-150924
+  date: '1997-07-14'
+- type: amended_by
+  target: pt:dre:603037:por
+  label: "Alterados os anexos I e II da Port 778/90, de 31-Ago, alterada pelo presente diploma e pela Port 487/97 de 14-Jul,\
+    \ pela PORT.46/2004.14.01.2004.MCES, DR.IS-B [11] de 14.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-2004-603037
+  date: '2004-01-14'
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:15:29Z'
   warnings: []
   errors: []
 ---
@@ -122,8 +174,8 @@ A alteração aprovada pela presente portaria entrará em funcionamento no ano l
 
 Ministério da Educação.
 
-**Assinada em 28 de Outubro de 1994.**
+Assinada em 28 de Outubro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/268b00/68906891.pdf))](https://files.diariodarepublica.pt/1s/1994/11/268b00/68906891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/268b00/68906891.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/130/2023/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/130-2023-224366837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b7c4ccc04ee9d96f0976f7d0fc7d292c8ccb62b186091d08ccd12199ec17ef9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42887fa5f3cbd20bf849571412dfbf99f2113edb2d1e5bc392eb277577b69dfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Bruxelas
 - CE Países
 - Cooperação
-- União Europeia
 - Malásia
-- Bruxelas
-relationships: []
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:224366835:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 103/2023 - Diário da República n.º 222/2023, Série I de
+    2023-11-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/103-2023-224366835
+  date: '2023-11-16'
 article_structure:
   article_count: 60
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:54Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de outubro de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 ACORDO-QUADRO DE PARCERIA E COOPERAÇÃO ENTRE A UNIÃO EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E O GOVERNO DA MALÁSIA, POR OUTRO
 
@@ -535,7 +541,7 @@ c) Cooperação nas instâncias internacionais, nomeadamente no que diz respeito
 
 3 - As Partes devem consultar-se e cooperar em instâncias internacionais, sobretudo na Organização Mundial das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO), a fim de realizarem objetivos comuns e promoverem a diversidade cultural e a proteção do património cultural. As Partes promoverão e respeitarão os princípios da Declaração Universal da UNESCO sobre a Diversidade Cultural.
 
-4 - As Partes comprometem-se ainda a promover ações e a execução de programas no ensino superior, bem como com vista à mobilidade e formação dos investigadores, incluindo o programa da UE Erasmus+ e as ações Marie [([ver documento original](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf))](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf)-Curie da UE. Essas ações e programas devem permitir apoiar a cooperação interinstitucional e o estabelecimento de ligações entre estabelecimentos de ensino superior, incentivar a mobilidade dos estudantes, investigadores, pessoal académico e peritos, promover o intercâmbio de informações e de conhecimentos, contribuir para o desenvolvimento das capacidades e o reforço da qualidade do ensino e da aprendizagem, entre outros aspetos. As ações podem abranger ainda a cooperação institucional através de instâncias como o Instituto Ásia-Europa.
+4 - As Partes comprometem-se ainda a promover ações e a execução de programas no ensino superior, bem como com vista à mobilidade e formação dos investigadores, incluindo o programa da UE Erasmus+ e as ações Marie [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf)-Curie da UE. Essas ações e programas devem permitir apoiar a cooperação interinstitucional e o estabelecimento de ligações entre estabelecimentos de ensino superior, incentivar a mobilidade dos estudantes, investigadores, pessoal académico e peritos, promover o intercâmbio de informações e de conhecimentos, contribuir para o desenvolvimento das capacidades e o reforço da qualidade do ensino e da aprendizagem, entre outros aspetos. As ações podem abranger ainda a cooperação institucional através de instâncias como o Instituto Ásia-Europa.
 
 ###### Artigo 39.º — Ambiente e recursos naturais
 
@@ -757,7 +763,8 @@ Em caso de divergência na interpretação do presente Acordo, as Partes devem s
 
 Em fé do que os Plenipotenciários abaixo assinados, devidamente autorizados para o efeito, assinaram o presente Acordo.
 
-![](https://files.diariodarepublica.pt/images/224366837/224368692.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368692.png) |
+| --- |
 
 Voor het Koninkrijk België:
 
@@ -765,7 +772,8 @@ Pour le Royaume de Belgique:
 
 Für das Königreich Belgien:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368693.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368693.png) |
+| --- |
 
 Deze handtekening verbindt eveneens het Vlaamse Gewest, het Waalse Gewest, en het Brussels Hoofdstedelijk Gewest.
 
@@ -773,154 +781,194 @@ Cette signature engage également la Région wallonne, lá Région flamande et l
 
 Diese Unterschrift bindet zugleich die Wallonische Region, die Flämische Region und die Region Brüssel-Hauptstadt.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf))](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
 
-![](https://files.diariodarepublica.pt/images/224366837/224368694.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368694.png) |
+| --- |
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf))](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
 
-![](https://files.diariodarepublica.pt/images/224366837/224368695.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368695.png) |
+| --- |
 
 For Kongeriget Danmark:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368696.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368696.png) |
+| --- |
 
 Für die Bundesrepublik Deutschland:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368697.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368697.png) |
+| --- |
 
 Eesti Vabariigi nimel:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368698.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368698.png) |
+| --- |
 
 Thar ceann na hÉireann:
 
 For Ireland:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368699.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368699.png) |
+| --- |
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf))](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
 
-![](https://files.diariodarepublica.pt/images/224366837/224368700.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368700.png) |
+| --- |
 
 Por el Reino de España:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368701.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368701.png) |
+| --- |
 
 Pour la République française:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368702.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368702.png) |
+| --- |
 
 Za Republiku Hrvatsku:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368703.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368703.png) |
+| --- |
 
 Per la Repubblica italiana:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368704.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368704.png) |
+| --- |
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf))](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
 
-![](https://files.diariodarepublica.pt/images/224366837/224368705.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368705.png) |
+| --- |
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf))](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
 
-![](https://files.diariodarepublica.pt/images/224366837/224368706.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368706.png) |
+| --- |
 
 Lietuvos Respublikos vardu:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368707.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368707.png) |
+| --- |
 
 Pour le Grand-Duché de Luxembourg:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368708.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368708.png) |
+| --- |
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf))](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
 
-![](https://files.diariodarepublica.pt/images/224366837/224368709.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368709.png) |
+| --- |
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf))](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
 
-![](https://files.diariodarepublica.pt/images/224366837/224368710.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368710.png) |
+| --- |
 
 Voor het Koninkrijk der Nederlanden:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368711.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368711.png) |
+| --- |
 
 Für die Republik Österreich:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368712.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368712.png) |
+| --- |
 
 W imieniu Rzeczypospolitej Polskiej:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368713.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368713.png) |
+| --- |
 
 Pela República Portuguesa:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368714.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368714.png) |
+| --- |
 
 Pentru România:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368715.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368715.png) |
+| --- |
 
 Za Republiko Slovenijo:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368716.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368716.png) |
+| --- |
 
 Za Slovenskú republiku:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368717.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368717.png) |
+| --- |
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf))](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/11/22200/0000900037.pdf):
 
 För Republiken Finland:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368718.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368718.png) |
+| --- |
 
 För Konungariket Sverige:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368719.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368719.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/224366837/224368720.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368720.png) |
+| --- |
 
 For de Government of Brunei Darussalam:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368721.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368721.png) |
+| --- |
 
 For de Government of the Kingdom of Cambodia:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368722.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368722.png) |
+| --- |
 
 For de Government of the Republic of Indonesia:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368723.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368723.png) |
+| --- |
 
 For de Government of the Lao People's Democratic Republic:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368724.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368724.png) |
+| --- |
 
 For de Government of Malaysia:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368725.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368725.png) |
+| --- |
 
 For de Government of the Republic of the Union of Myanmar:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368726.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368726.png) |
+| --- |
 
 For de Government of the Republic of the Philippines:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368727.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368727.png) |
+| --- |
 
 For de Government of the Republic of Singapore:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368728.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368728.png) |
+| --- |
 
 For de Government of the Kingdom of Thailand:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368729.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368729.png) |
+| --- |
 
 For de Government of the Socialist Republic of Viet Nam:
 
-![](https://files.diariodarepublica.pt/images/224366837/224368730.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368730.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/224366837/224368731.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366837/224368731.png) |
+| --- |
+
+117036077

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 288/2004, 1º Suplemento, Série I-B de 2004-12-10
   number: '288'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7062-(2) a 7062-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/288b01/00020005.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/171-a/2004/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-a-2004-220369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc71adb54fa372b067179505e24d0d6e45d301df9f12a4235f9864b5b3744b20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24de9e5288d3bf84c8451a1faa1010136b59bc54a13a19d7fc95b33b0046b8ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Ajuste Direto
 - Alienação de BENS
 - Alienação de Imóveis
-- Autorização de Despesas
 - Arrendamento Urbano não Habitacional
+- Autorização de Despesas
 - Definição de Competências
 - Despesas Públicas
 - Direcção Geral do Património
@@ -103,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
+- type: cites
+  target: pt:dre:288045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:36Z'
   warnings: []
   errors: []
 ---
@@ -159,4 +183,4 @@ A alienação por ajuste directo foi autorizada pela Resolução do Conselho de 
 
 O presente título de alienação por ajuste directo constitui documento bastante para efectivação dos registos a que esta alienação der lugar, nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 115/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2000-300840), de 4 de Julho.
 
-**O Presidente do Conselho Directivo (ou outra designação para o órgão de gestão), ...**
+O Presidente do Conselho Directivo (ou outra designação para o órgão de gestão), ...

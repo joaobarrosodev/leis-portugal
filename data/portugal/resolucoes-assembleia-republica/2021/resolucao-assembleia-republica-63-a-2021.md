@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 29/2021, 1º Suplemento, Série I de 2021-02-11
   number: '29'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 52-(6) a 52-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02901/0000600009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/63-a/2021/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/63-a-2021-157236767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e7ab7ed80f5b668cbc5310f20c785d05bd380a672e5078794ff16daf40c23d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f6addfa6095a2dfc2b1db5098b9bce01e54236760e7b7b8b891564d4850ddb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento de BENS Essenciais
-- Crime
+- Assembleia da República
 - Autorização Legislativa
+- Catástrofe
 - Circulação de Pessoas
-- Direitos e Liberdades
 - Controlo Sanitário
-- Saúde Pública
+- Crime
+- Dados Pessoais
+- Direitos e Liberdades
+- Doença Infecciosa
+- Emigração
+- Epidemia
+- Equipamento de Proteção
 - Estado de Emergência
 - Fronteiras
-- Catástrofe
-- Presidente da República
 - Horário de Funcionamento
 - Iniciativa Privada
 - Isolamento Profiláctico
 - Medidas Preventivas
-- Assembleia da República
-- Doença Infecciosa
-- Epidemia
-- Emigração
+- Presidente da República
 - Proteção Social
 - Restrição da Liberdade
-- Dados Pessoais
-- Equipamento de Proteção
+- Saúde Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1/2012/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2012/05/11/p/dre
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:18Z'
   warnings: []
   errors: []
 ---
@@ -197,4 +205,6 @@ A presente resolução entra em vigor com o decreto do Presidente da República,
 
 Aprovada em 11 de fevereiro de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+113976732

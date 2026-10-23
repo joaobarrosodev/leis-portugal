@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/229b00/60546054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/889/1994/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/889-1994-600497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f21b98d8ade6ab1681504d210512f63c4d9841db0810053ea4e6cf6962b1dcf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e06fb95af77d205b53e945dabc41de6cc3f977e56acfb910e50fa59d8c2d15a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-v2/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-v2/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:617716:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:38Z'
   warnings: []
   errors: []
 ---
@@ -105,8 +109,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 722-V2/92
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Setembro de 1994.**
+Assinada em 16 de Setembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60546054.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60546054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/229b00/60546054.pdf)

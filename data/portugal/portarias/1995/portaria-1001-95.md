@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1001/1995/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1001-1995-434667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 206ca9da75c82fd6d554e4561791c0df5a63137a02d59a678519e1f489d89533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc88c316ee6fa12de4ef5c2c12a774fcf62d63e4bfde607a7848e3ad5c394287
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,36 @@ relationships:
   target: pt:dre:517652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:581236:por
+  label: "Renovada a concessão da zona de caça concedida pela Port 547/94, de 09-Jul, na redacção do presente diploma, pela\
+    \ PORT.683/2000.2000.08.30.MADRP DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-2000-581236
+  date: '2000-08-30'
+- type: amended_by
+  target: pt:dre:517652:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça concessionada pela Port 547/94 de 09-Jul, alterada\
+    \ pelo presente diploma, pela PORT.198/2007.12.02.2007.MADRP, DR.IS [30] de 12.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/198-2007-517652
+  date: '2007-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/547/1994/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/547/1994/07/09/p/dre
+- type: cites
+  target: pt:dre:290819:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:32Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +125,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 547/94](h
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Julho de 1995.**
+Assinada em 21 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/191b00/52105211.pdf))](https://files.diariodarepublica.pt/1s/1995/08/191b00/52105211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/191b00/52105211.pdf)

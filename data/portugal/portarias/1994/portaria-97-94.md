@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/033b00/06350639.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/97/1994/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/97-1994-522233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27ed4579466aa96b201ab58fcf95f74e282e5f7cdcb32181a40f36c63ebca169
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13a5ed5e786427e036215abdb8f112fedf573ccc689d4910cf7405f83fdd42cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,23 @@ relationships:
   target: pt:dre:566244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262607:por
+  label: "Alteradas as alíneas a) e c) do n.º 15.º o n.º 20.º e n.º 3 do n.º 24.º pela PORT.306/94.18.05.1994.MA, DR.IS-B\
+    \ [115] de 18.05.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/306-1994-262607
+  date: '1994-05-18'
+- type: amended_by
+  target: pt:dre:654911:por
+  label: "Alterados os n.ºs 4.º, 12.º, 13.º, 20.º, 21.º e 28.º pela PORT.788/94.31.08.1994.MA, DR.IS-B [201] de 31.08.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/788-1994-654911
+  date: '1994-08-31'
+- type: amended_by
+  target: pt:dre:517394:por
+  label: "Alterada a alínea b) do n.º 12.º pela PORT.585/95.17.06.1995.MA, DR.IS-B [138] de 17.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/585-1995-517394
+  date: '1995-06-17'
 - type: cites
   target: celex:31968R0804
   label: null
@@ -94,16 +111,21 @@ relationships:
   target: celex:31993R1560
   label: null
   source: http://data.europa.eu/eli/reg/1993/1560/oj
+- type: repealed_by
+  target: pt:dre:566244:por
+  label: "Revogada pela PORT.115/96.12.04.1996.MADRP, DR.IS-B [87] de 12.04.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-1996-566244
+  date: '1996-04-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:40Z'
   warnings: []
   errors: []
 ---
@@ -302,6 +324,6 @@ c) Caso haja obrigação de pagamento da imposição suplementar e o montante re
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Janeiro de 1994.**
+Assinada em 21 de Janeiro de 1994.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.

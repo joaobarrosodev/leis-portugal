@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/890/1994/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/890-1994-600485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9d504723901bb99f4a1b20ca246de82ac49f6bb4686618798803b4039a116d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12766952a33dd417906e0b9ac266dfd906ddf7c424763713007e548bde25bdc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,36 @@ relationships:
   target: pt:dre:423182:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:204055:por
+  label: "Alterado o nº 1 e aditado um nº 1º-A à Port 668/92 de 08-Jul, anteriormente alterado pelo presente diploma e pela\
+    \ Port 1460/95 de 14-Dez, pela PORT.604/97.1997.08.06.MADRP DR.IS-B [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/604-1997-204055
+  date: '1997-08-06'
+- type: amended_by
+  target: pt:dre:658070:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pela Port 668/92 de 08-Jul, na redacção do presente\
+    \ diploma, pela PORT.683-F/97.1997.08.12.MADRP, DR.IS-B [185]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-f-1997-658070
+  date: '1997-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/668/1992/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/668/1992/07/08/p/dre
+- type: cites
+  target: pt:dre:288015:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:40Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +124,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 668/92](h
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Setembro de 1994.**
+Assinada em 16 de Setembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60556055.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60556055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/229b00/60556055.pdf)

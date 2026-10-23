@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/560/1994/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/560-1994-294704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:30:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c3ab980823305eea19b825220496b7bd1a4ae41e35c33c233f441ef4e0fd011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dfde9ca1eebdc8805095c60b6ec8dac686bc362042168004f97df39c0ed4163
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:30:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,28 @@ relationships:
   target: pt:dre:518049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534407:por
+  label: "Alterado o nº 1º e substituída a planta anexa pela PORT.569-G/96.1996.10.10.MADRP DR.IS-B [235]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/569-g-1996-534407
+  date: '1996-10-10'
+- type: amended_by
+  target: pt:dre:469245:por
+  label: "Alterado o nº 1 pela Port.693-F/96.1996.11.27.MADRP DR.IS-B [275]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/693-f-1996-469245
+  date: '1996-11-27'
+- type: amended_by
+  target: pt:dre:654155:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a actividade cinegética na concessão atribuída, pelo presente diploma,\
+    \ pela PORT.983/97.1997.09.22.MADRP, DR.IS-B [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/983-1997-654155
+  date: '1997-09-22'
+- type: amended_by
+  target: pt:dre:518049:por
+  label: "Renovada por seis anos a zona de caça e anexados vários prédios rústicos à mesma, com a redacção conferida pelas\
+    \ Port 569-G/96 de 10-Out e 693-F/96 de 27-Nov, pela PORT.137/2007.29.01.2007.MAOTDR, DR.IS [20] de 29.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2007-518049
+  date: '2007-01-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +103,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:30:37Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +167,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 30 de Junho de 1994.**
+Assinada em 30 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/159b00/37133713.pdf))](https://files.diariodarepublica.pt/1s/1994/07/159b00/37133713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/159b00/37133713.pdf)

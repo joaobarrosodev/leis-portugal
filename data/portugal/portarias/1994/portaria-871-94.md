@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/871/1994/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/871-1994-609281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f82029573b586796940e00363f2b5f0c0f68f1926cc37f53c169c8f6837139e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bc8d3502b33dfa7c0f99749d8f12984e4fbcaaa25c4a6e50248aa99889a9c01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,61 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Reestruturação de Serviços
 - ÁREA Geográfica
 - Bairro Fiscal
 - Direcção Distrital de Finanças
+- Direcção Geral das Contribuições e Impostos
 - Extinção de Serviços
 - Formas de Provimento
 - Lisboa
 - Pessoal da Administração Tributária
 - Pessoal de Chefia
-- Direcção Geral das Contribuições e Impostos
+- Reestruturação de Serviços
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:1191185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394312:por
+  label: "Determinada a extinção do Serviço de Finanças de Lisboa 5 criado pelo presente diploma, pela PORT.620-B/2008.16.07.2008.MFAP,\
+    \ DR.IS [136-Supl] de 16.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/620-b-2008-394312
+  date: '2008-07-16'
+- type: amended_by
+  target: pt:dre:1191185:por
+  label: "Extintos os Serviços de Finanças de Lisboa 6 e Lisboa 13 pela PORT.599/2009.15.06.2009.MFAP, DR.IIS [113] de 15.06.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-2009-1191185
+  date: '2009-06-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre
+- type: cites
+  target: pt:dre:250437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:533196:por
+  label: "Rectificado o n.º 5.º pela DECL-RECT.186/94.31.10.1994.PCM, DR.IS-B [252]2ºSupl de 31.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/186-1994-533196
+  date: '1994-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:14Z'
   warnings: []
   errors: []
 ---
@@ -127,10 +152,10 @@ Nos termos do n.º 4 do artigo 36.º do [Decreto-Lei n.º 408/93](https://diario
 
 Ministério das Finanças.
 
-**Assinada em 12 de Agosto de 1994.**
+Assinada em 12 de Agosto de 1994.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.
 
 Mapa a que se refere o n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/226b00/59835983.pdf))](https://files.diariodarepublica.pt/1s/1994/09/226b00/59835983.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/226b00/59835983.pdf)

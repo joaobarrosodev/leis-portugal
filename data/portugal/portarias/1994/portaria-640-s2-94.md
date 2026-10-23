@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1994, 3º Suplemento, Série I-B de 1994-07-15
   number: '162'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3862-(63) a 3862-(63)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b03/00630063.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/640-s2/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/640-s2-1994-276256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6027b4e9b5d2cb00e6484fecd4c3bdf1fc7633c083b6d21052aa634f54ae28e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71287dd244f8329ea1a8592467d1c62b346a4cc1c8d4f39a9b037c6a5032bc8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,24 @@ relationships:
   target: pt:dre:455620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644512:por
+  label: "Alterado o nº 1º e aditado um nº 1º-A pela PORT.858/97.1997.09.10.MADRP, DR.IS-B [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/858-1997-644512
+  date: '1997-09-10'
+- type: amended_by
+  target: pt:dre:540397:por
+  label: "Renovada por um período de 12 anos, a concessão da zona de caça efectuada pelo presente diploma e anexados vários\
+    \ prédios à referida zona de caça, alterada pela Port 858/97, de 10-Set, pela Port.876/2006.31.08.2006.MADRP, DR.IS [168]\
+    \ de 31.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/876-2006-540397
+  date: '2006-08-31'
+- type: amended_by
+  target: pt:dre:455620:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma, na redacção das Portarias 858/97,\
+    \ de 10 de Setembro e 876/2006, de 31 de Agosto, pela PORT.879/2008.14.08.2008.MADRP, DR.IS [157] de 14.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/879-2008-455620
+  date: '2008-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -80,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:12Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +162,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 5 de Julho de 1994.**
+Assinada em 5 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b03/00630063.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b03/00630063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b03/00630063.pdf)

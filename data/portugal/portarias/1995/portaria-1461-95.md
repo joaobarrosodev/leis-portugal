@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1461/1995/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1461-1995-635205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5513594fe54d9fdd6e9e090f1e2b49291ae663e2fcc0cf25b04fc2b4e4431efb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8cd660bc79f146cd9d443901bd554eeb10cde823bd15618cc114dfac989b949
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,47 @@ relationships:
   target: pt:dre:334121:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545791:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 1006/89 de 20-Nov, com a renovação constante\
+    \ do presente diploma, pela PORT.1133/2006.25.10.2006.MAOTDR, DR.IS [206] de 25.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1133-2006-545791
+  date: '2006-10-25'
+- type: amended_by
+  target: pt:dre:642551:por
+  label: "Renovada, por um periodo de 12 anos, a concessão da zona de caça concessionada pela Port 1006/89 de 20-Nov, renovada\
+    \ pelo presente diploma, pela PORT.1299/2007.02.10.2007.MAOTDR, DR.IS [190] de 02.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1299-2007-642551
+  date: '2007-10-02'
+- type: amended_by
+  target: pt:dre:334121:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa da Herdade de Vale Penedo e outras criada pela Port\
+    \ 1006/89, de 20-Nov, renovada pelo presente diploma, pela PORT.552/2010.21.07.2010.MADRP, DR.IS [140] de 21.07.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/552-2010-334121
+  date: '2010-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:549839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:33Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +141,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 17 de Outubro de 1995.**
+Assinada em 17 de Outubro de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/287b00/78837884.pdf))](https://files.diariodarepublica.pt/1s/1995/12/287b00/78837884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/287b00/78837884.pdf)

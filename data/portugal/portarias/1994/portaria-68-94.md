@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/025b00/04670469.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/68/1994/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/68-1994-497247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83ea071e3fe0443e3ebcd9aacad1b240d5453fdadc708f60ea774594170d84b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: affb3d1db44760bab2111a9dffc7658c50ec718861bc359238491667102fb858
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/325/1993/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/325/1993/09/25/p/dre
+- type: cites
+  target: pt:dre:418826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653128:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:517457:por
+  label: "Rectificada pela DECL-RECT.50/94.31.03.1994.PCM, DR.IS-B [76]3ºSupl de 31.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/50-1994-517457
+  date: '1994-03-31'
+- type: repealed_by
+  target: pt:dre:628006:por
+  label: "Revogada, a partir de 05.01.2008, pela PORT.1630/2007.31.12.2007.MFAP, DR.IS [251] de 31.12.2007, com excepção do\
+    \ disposto no n.º 5 do art. 5º do referido diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1630-2007-628006
+  date: '2007-12-31'
+- type: repealed_by
+  target: pt:dre:125074532:por
+  label: Revogada, com efeitos a 01.01.2020, a presente Portaria, pelo(a) Portaria n.º 350/2019 - Diário da República n.º
+    192/2019, Série I de 2019-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/350-2019-125074532
+  date: '2019-10-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:32Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +143,7 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do n.º 3 do artigo 17.
 
 Ministério das Finanças.
 
-**Assinada em 10 de Janeiro de 1994.**
+Assinada em 10 de Janeiro de 1994.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.
 

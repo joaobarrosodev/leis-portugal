@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 235/1993, 1º Suplemento, Série I-B de 1993-10-07
   number: '235'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5636-(3) a 5636-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/235b01/00030003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/989-c/1993/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/989-c-1993-248074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e262e1a2a68cf5eb658657bfe126cff2241cbb63ff15d6d8ccfbfa5316d8812b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33492dc706ed48fac57a257491533f259f533691c044d20e81156afc72442699
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/725-h/1993/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/725-h/1993/08/10/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617520:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:14:53Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +127,8 @@ Manda o Governo, pelo Ministro da Agricultura, que pelo presente diploma seja re
 
 Ministério da Agricultura.
 
-**Assinada em 1 de Outubro de 1993.**
+Assinada em 1 de Outubro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/235b01/00030003.pdf))](https://files.diariodarepublica.pt/1s/1993/10/235b01/00030003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/235b01/00030003.pdf)

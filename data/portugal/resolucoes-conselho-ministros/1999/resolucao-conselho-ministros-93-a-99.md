@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 194/1999, 4º Suplemento, Série I-B de 1999-08-20
   number: '194'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 5570-(44) a 5570-(73)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/93-a/1999/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-a-1999-352703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dc45d5763cce9014d1ddaa7e43ee7d3db02a27a1a13e0fc3dc4483d20136a45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56f39215333367f1cd6af3447162475b1b1af18c36bdb9ee255c9e5073a802c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada da Beira Interior
-- SCUT
-- Financiamento
-- Garantia
 - Capital Social
-- Inspeção Geral de Finanças
 - Concurso Público Internacional
 - Contrato de Concessão
 - Definição de Competências
 - Expropriação
-- Auto-estrada
+- Financiamento
+- Garantia
+- Inspeção Geral de Finanças
 - Instituto das Estradas de Portugal
 - Licenciamento
 - Portagem
 - Responsabilidade Civil
+- SCUT
 - Scutvias
 - Utilidade Pública
 relationships:
@@ -89,6 +89,13 @@ relationships:
   target: pt:dre:70433354:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70433354:por
+  label: Aprovada a minuta do contrato de alteração ao contrato de concessão cuja minuta foi aprovada pela presente resollução,
+    pelo(a) Resolução do Conselho de Ministros n.º 83-B/2015 - Diário da República n.º 192/2015, 1º Suplemento, Série I de
+    2015-10-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/83-b-2015-70433354
+  date: '2015-10-01'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -104,13 +111,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:03Z'
   warnings: []
   errors: []
 ---
@@ -259,43 +266,43 @@ uu) Vias Rodoviárias Concorrentes - são vias rodoviárias cuja entrada em serv
 
 2.1 - Fazem parte integrante do Contrato de Concessão, para todos os efeitos legais e contratuais, os seus (número de anexos) anexos e respectivos apêndices, organizados da forma seguinte:
 
-## Anexo n.º 1 - Contrato de Empreitada;
+Anexo n.º 1 - Contrato de Empreitada;
 
-## Anexo n.º 2 - Contrato de Financiamento;
+Anexo n.º 2 - Contrato de Financiamento;
 
-## Anexo n.º 3 - Contratos do Projecto;
+Anexo n.º 3 - Contratos do Projecto;
 
-## Anexo n.º 4 - Composição do Agrupamento;
+Anexo n.º 4 - Composição do Agrupamento;
 
 ## Anexo n.º 5 - Estatutos;
 
-## Anexo n.º 6 - Acordo de Subscrição;
+Anexo n.º 6 - Acordo de Subscrição;
 
-## Anexo n.º 7 - Acordo Parassocial;
+Anexo n.º 7 - Acordo Parassocial;
 
-## Anexo n.º 8 - Programa de Trabalhos;
+Anexo n.º 8 - Programa de Trabalhos;
 
-## Anexo n.º 9 - Estrutura Accionista da Concessionária;
+Anexo n.º 9 - Estrutura Accionista da Concessionária;
 
-## Anexo n.º 10 - Limites à Oneração de Acções;
+Anexo n.º 10 - Limites à Oneração de Acções;
 
 ## Anexo n.º 11 - Caso Base;
 
-## Anexo n.º 12 - Garantias Bancárias;
+Anexo n.º 12 - Garantias Bancárias;
 
-## Anexo n.º 13 - Programa de Seguros;
+Anexo n.º 13 - Programa de Seguros;
 
 ## Anexo n.º 14 - Acordo Directo;
 
-## Anexo n.º 15 - Condições de Intervenção dos Bancos Financiadores;
+Anexo n.º 15 - Condições de Intervenção dos Bancos Financiadores;
 
 ## Anexo n.º 16 - Sublanços;
 
-## Anexo n.º 17 - Garantias Relativas aos Lanços Existentes;
+Anexo n.º 17 - Garantias Relativas aos Lanços Existentes;
 
 ## Anexo n.º 18 - Tarifas e Bandas;
 
-## Anexo n.º 19 - Reposição do Equilíbrio Financeiro.
+Anexo n.º 19 - Reposição do Equilíbrio Financeiro.
 
 2.2 - Na interpretação, integração ou aplicação de qualquer disposição do Contrato de Concessão deverão ser consideradas as disposições dos documentos que nele se consideram integrados nos termos do número anterior que tenham relevância na matéria em causa, e vice-versa.
 
@@ -947,7 +954,7 @@ c) O fornecimento de dados, em tempo real, para sistemas de controlo e gestão d
 
 50.1 - As classes de veículos que os equipamentos descritos no artigo anterior deverão permitir classificar serão aquelas a que se referem as contagens do IEP e descritas de seguida:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
 
 50.2 - Para efeitos de determinação do valor das Portagens SCUT, de acordo com o capítulo XI, deverão prever-se apenas duas classes: veículos ligeiros, correspondentes às classes C, D e E, e veículos pesados, correspondendo às classes F, G, H, I e J.
 
@@ -1019,7 +1026,7 @@ L = extensão total em quilómetros dos Lanços em Serviço;
 
 TMDA(índice t) = TMDA registado na Concessão no ano t;
 
-b) [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
+b) [[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
 
 c) IS(índice t-1) (ponderado) = 60% x IS(índice t-1) (BI) + 40% x IS(índice t-1) (SCUT)
 
@@ -1199,11 +1206,11 @@ m(índice t)(j) = número de meses completos em que o Lanço j esteve em serviç
 
 63.4 - Os Montantes Fixos por quilómetro [M(índice t)(j)] aplicáveis nas fórmulas referidas nos n.os 63.1, 63.2 e 63.3 serão fixados anualmente, no mês de Janeiro, de acordo com a seguinte fórmula e sujeitos ao exposto no n.º 63.8:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
+[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
 
 63.5 - O montante variável [PB1(índice t)(j)] a pagar pelo Concedente para cada um dos Lanços em cada ano do Período Inicial da Concessão, de acordo com os artigos anteriores, será calculado de acordo com a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
+[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
 
 63.6 - O valor da tarifa de portagem SCUT para a Banda 1 no ano t referida no n.º 63.5 será fixado anualmente, em Janeiro, de acordo com a seguinte fórmula e sujeito ao exposto no n.º 63.8:
 
@@ -1233,11 +1240,11 @@ I(índice t)(1) = indexante de revisão da tarifa no ano t para a Banda 1, defin
 
 64.1 - A partir das 24 horas do dia 31 de Dezembro do 5.º ano civil completo da concessão, e sujeito ao exposto no n.º 64.9, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagens SCUT calculado com base na seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
+[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
 
 64.2 - O valor dos pagamentos referentes a cada banda [PB(i)] será obtido em cada ano através da aplicação da seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
+[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
 
 64.3 - Para o cálculo do TMDAE(índice t)(j*) será usada a seguinte expressão, sujeita à restrição imposta no n.º 64.4:
 
@@ -1691,7 +1698,7 @@ h) Actividade fraudulenta destinada a lesar o interesse do público.
 
 82.3 - No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes do contrato, sendo entregues ao Concedente todos os bens que constituem o estabelecimento da Concessão, em estado que satisfaça as seguintes condições:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)](https://files.diariodarepublica.pt/1s/1999/08/194b04/00440073.pdf)
 
 Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50% da vida útil de cada um dos seus componentes.
 

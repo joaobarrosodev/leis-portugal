@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31/1994/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-1994-532034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cff3e8f88d2ba76884675caf44e9cb96dbfaf7a67ed7dbdb7ed86562adc6f481
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ec739c121e53d48ebe6da49f1bec624c443ddd7962b0b98f85065ef86020e35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Prestação de Serviços
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678824:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:28Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +108,10 @@ Manda o Governo, pelos Secretários de Estado da Indústria e da Distribuição 
 
 Ministérios da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 28 de Outubro de 1993.**
+Assinada em 28 de Outubro de 1993.
 
-**O Secretário de Estado da Indústria, Luís Filipe Alves Monteiro. - O Secretário de Estado da Distribuição e Concorrência, Luís Maria Viana Palha da Silva.**
+O Secretário de Estado da Indústria, Luís Filipe Alves Monteiro. - O Secretário de Estado da Distribuição e Concorrência, Luís Maria Viana Palha da Silva.
 
 Quadro dos bens e serviços a que se refere o n.º 1.º, ordenado de acordo com a classificação das actividades económicas (CAE, revisão de 1973).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/008b00/01100110.pdf))](https://files.diariodarepublica.pt/1s/1994/01/008b00/01100110.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/008b00/01100110.pdf)

@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/355/1995/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-1995-223443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49bf4c25682b27ba28a96e22529ed9b06722225669b2a090c5f73c8d642c5c2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09eba53c047756c977442ca3c769f6d9d7c2276a5e461a1f30f3e6aebb4a8087
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Enfermagem
-- Escola Superior de Enfermagem de Francisco Gentil
 - Ensino Superior
+- Escola Superior de Enfermagem de Francisco Gentil
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:160519:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160519:por
+  label: "Alterado o nº 3 e o anexo I, pela PORT.436/97.1997.07.01.ME, DR.IS-B [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-1997-160519
+  date: '1997-07-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/239/1994/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/239/1994/04/16/p/dre
+- type: cites
+  target: pt:dre:266642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:39Z'
   warnings: []
   errors: []
 ---
@@ -139,10 +154,10 @@ e) Enfermeiros de instituições com quem a Escola estabeleça protocolos - 5%.
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 24 de Fevereiro de 1995.**
+Assinada em 24 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO I — Diploma de estudos superiores especializados em Enfermagem de Saúde do Idoso e Geriátrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/096b00/23422342.pdf))](https://files.diariodarepublica.pt/1s/1995/04/096b00/23422342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/096b00/23422342.pdf)

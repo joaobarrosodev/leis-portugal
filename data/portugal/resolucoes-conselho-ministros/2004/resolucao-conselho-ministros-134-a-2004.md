@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 219/2004, 3º Suplemento, Série I-B de 2004-09-16
   number: '219'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6030-(38) a 6030-(67)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/134-a/2004/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-a-2004-406357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fadd22c489d791167e2b93148fead93fc451b678ef1304b5626d376614e36453
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad2ffe7b58d07896478faa167f7a5bda211015b22a94142828d7de0219d3b17a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auto-estrada do Litoral-centro
-- Financiamento
-- Sociedade Anónima
 - Brisal
 - Contrato de Concessão
+- Financiamento
 - Rede de Estradas
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:606286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:606286:por
+  label: "Alterada a al. aaa) do n.º 1.1 do art. 1.º da minuta do contrato de concessão constante do presente diploma, pela\
+    \ RES.32/2005.20.01.2005.PCM, DR.IS-B [37] de 22.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/32-2005-606286
+  date: '2005-01-20'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -88,13 +94,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:20Z'
   warnings: []
   errors: []
 ---
@@ -251,39 +257,39 @@ aaa) VAL Máximo - significa o VAL a partir do qual, nos termos do artigo 13 do 
 
 2.1 - Fazem parte integrante do Contrato de Concessão, para todos os efeitos legais e contratuais, os seus 17 anexos e respectivos apêndices, organizados da forma seguinte:
 
-## Anexo n.º 1 - Contrato de Empreitada;
+Anexo n.º 1 - Contrato de Empreitada;
 
-## Anexo n.º 2 - Contratos de Financiamento;
+Anexo n.º 2 - Contratos de Financiamento;
 
-## Anexo n.º 3 - Lista dos Contratos do Projecto;
+Anexo n.º 3 - Lista dos Contratos do Projecto;
 
-## Anexo n.º 4 - Estrutura Accionista da Concessionária;
+Anexo n.º 4 - Estrutura Accionista da Concessionária;
 
-## Anexo n.º 5 - Pacto Social da Concessionária;
+Anexo n.º 5 - Pacto Social da Concessionária;
 
-## Anexo n.º 6 - Acordo de Subscrição e Realização de Capital;
+Anexo n.º 6 - Acordo de Subscrição e Realização de Capital;
 
-## Anexo n.º 7 - Acordo Parassocial;
+Anexo n.º 7 - Acordo Parassocial;
 
-## Anexo n.º 8 - Programa de Trabalhos;
+Anexo n.º 8 - Programa de Trabalhos;
 
-## Anexo n.º 9 - Declaração dos Accionistas da Concessionária;
+Anexo n.º 9 - Declaração dos Accionistas da Concessionária;
 
-## Anexo n.º 10 - Caso Base;
+Anexo n.º 10 - Caso Base;
 
-## Anexo n.º 11 - Garantias Bancárias;
+Anexo n.º 11 - Garantias Bancárias;
 
-## Anexo n.º 12 - Programa de Seguros;
+Anexo n.º 12 - Programa de Seguros;
 
-## Anexo n.º 13 - Acordo Directo;
+Anexo n.º 13 - Acordo Directo;
 
-## Anexo n.º 14 - Condições de Intervenção das Entidades Financiadoras;
+Anexo n.º 14 - Condições de Intervenção das Entidades Financiadoras;
 
-## Anexo n.º 15 - Critérios Chave;
+Anexo n.º 15 - Critérios Chave;
 
-## Anexo n.º 16 - Contrato de Operação e Manutenção;
+Anexo n.º 16 - Contrato de Operação e Manutenção;
 
-## Anexo n.º 17 - Acordo Directo Referente ao Contrato de Operação e Manutenção.
+Anexo n.º 17 - Acordo Directo Referente ao Contrato de Operação e Manutenção.
 
 2.2 - Na interpretação, integração ou aplicação de qualquer disposição do Contrato de Concessão deverão ser consideradas as disposições dos documentos que nele se consideram integrados nos termos do número anterior e que tenham relevância na matéria em causa, e vice-versa.
 
@@ -427,7 +433,7 @@ b) As obras de arte incorporadas na Auto-Estrada e os terrenos para implantaçã
 
 13.2 - Para efeitos do disposto no número anterior, o VAL será calculado de acordo com a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
 
 13.3 - A Concessão está sujeita a prazos mínimo e máximo de duração, não podendo em qualquer caso vigorar:
 
@@ -599,7 +605,7 @@ Sem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato d
 
 29.1 - As datas limite de entrada em serviço de cada um dos Lanços referidos nos n.os 5.1 e 5.2 são as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
 
 29.2 - As datas de entrada em serviço efectivo e, bem assim, as datas de início da construção de cada um dos Lanços referidos no número anterior constam do Programa de Trabalhos que constitui o anexo n.º 8 do Contrato de Concessão.
 
@@ -979,7 +985,7 @@ b) O fornecimento de dados, em tempo real, para sistemas de controlo e gestão d
 
 52.1 - As classes de veículos que os equipamentos descritos no artigo anterior deverão permitir classificar serão as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
 
 52.2 - Para efeitos da aplicação das tarifas e taxas de portagem, as classes de veículos são as constantes do n.º 65.1.
 
@@ -1061,7 +1067,7 @@ TMDA(índice t) = TMDA registado na Concessão no ano t;
 
 b):
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
 
 c):
 
@@ -1213,7 +1219,7 @@ As autorizações ou aprovações a emitir pelo Concedente nos termos dos artigo
 
 65.1 - As classes de veículos para efeitos da aplicação das tarifas de portagem são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)](https://files.diariodarepublica.pt/1s/2004/09/219b03/00380067.pdf)
 
 65.2 - A relação entre o valor das tarifas de portagem das classes 2, 3 e 4 e a tarifa da classe 1 não poderá ser superior a, respectivamente, 1,75, 2,25 e 2,5.
 

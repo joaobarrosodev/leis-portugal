@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1294/1995/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1294-1995-678997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43466598989d03a62d56248cceeb24d3982306d415eaf9e6b8e3ae21fc45668c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31f03e557d7c4b9426c4926af68b944efef288be342d2519cf93d9d46a148d73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1127/1993/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1127/1993/11/03/p/dre
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666169:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319887:por
+  label: "Revogada a Port 1127/93 de 03-Nov, com a redacção do presente diploma, pela PORT.75/2001.2001.02.07.ME DR.IS-B [32],\
+    \ nos termos do respectivo nº 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/75-2001-319887
+  date: '2001-02-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:32Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +139,7 @@ Alterações
 
 Regime de transição
 
-**O presidente do Instituto Politécnico, sob proposta do director da Escola Superior de Tecnologia e Gestão, ouvido o conselho científico, fixará as regras do regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos.**
+O presidente do Instituto Politécnico, sob proposta do director da Escola Superior de Tecnologia e Gestão, ouvido o conselho científico, fixará as regras do regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos.
 
 3.º
 
@@ -137,8 +155,8 @@ São revogados o n.º 2.º e os n.os 1, 5 e 6 do n.º 3.º da [Portaria n.º 112
 
 Ministério da Educação.
 
-**Assinada em 27 de Setembro de 1995.**
+Assinada em 27 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/252b00/67696770.pdf))](https://files.diariodarepublica.pt/1s/1995/10/252b00/67696770.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/252b00/67696770.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/031b00/05990599.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/83/1994/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-1994-521630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10476b97092349d3096811d6758d21ba4f8c8fe71b8f46ec9529185b82c5f6e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 253b52c3880ffe7b42bcf7aad9c866b16bd8d10bcc2882398f41f4d1bc53e7c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código do IRS
 - IRS
-- Veículo
 - Profissão Independente
-- Benefícios Fiscais
 - Sociedades
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:507629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:550578:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:507629:por
+  label: "Revogado pela Port.128/97.1997.02.22.MF,DR.IS-B [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1997-507629
+  date: '1997-02-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:16Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +127,6 @@ b) Para cálculo da dedução referente a prestações devidas pelo aluguer sem 
 
 Ministério das Finanças.
 
-**Assinada em 21 de Janeiro de 1994.**
+Assinada em 21 de Janeiro de 1994.
 
-**O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias.**
+O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias.

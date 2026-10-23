@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 211/1994, 1º Suplemento, Série I-B de 1994-09-12
   number: '211'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5388-(35) a 5388-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/211b01/00350037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/809-g/1994/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-g-1994-617291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83d9dee246b6c6287e6db12814e95eed17cf18d38fea4436bf5031bce7803b98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86c0b54f9bd6a209df7d79e37308ef05edf6d7009c2e90341764b03d69134c2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Produtores
-- Doença Animal
 - Controlo Sanitário
-- PNSA
+- Doença Animal
 - Exploração Pecuária
+- PNSA
 - Regulamento
 - Regulamento de Constituição e Funcionamento dos Agrupamentos de Defesa Sanitária
 relationships:
@@ -77,16 +77,29 @@ relationships:
   target: pt:dre:674035:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:674035:por
+  label: "Revogada pela Port 1088/97.1997.10.30.MADRP, DR.IS-B [252] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-1997-674035
+  date: '1997-10-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:48Z'
   warnings: []
   errors: []
 ---
@@ -113,15 +126,15 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 9 de Setembro de 1994.**
+Assinada em 9 de Setembro de 1994.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 809-G/94
+Anexo a que se refere o n.º 1.º da Portaria n.º 809-G/94
 
 Regulamento de Constituição e Funcionamento dos Agrupamentos de Defesa Sanitária
 
-###### Artigo 1.º Os agrupamentos de defesa sanitária, adiante designados ADS, são associações de criadores legalmente constituídas e reconhecidas nos termos do presente Regulamento que têm por objecto a execução de programas de saúde animal e, nomeadamente:
+Artigo 1.º Os agrupamentos de defesa sanitária, adiante designados ADS, são associações de criadores legalmente constituídas e reconhecidas nos termos do presente Regulamento que têm por objecto a execução de programas de saúde animal e, nomeadamente:
 
 a) Assegurar o controlo sanitário das explorações pecuárias dos associados e de todos os outros criadores abrangidos pela sua área geográfica de intervenção;
 
@@ -133,15 +146,15 @@ d) Melhorar as condições hígio-sanitárias das explorações;
 
 e) Promover acções de formação e informação nas áreas sanitária e do bem-estar animal.
 
-###### Art. 2.º - 1 - Os ADS não podem ser constituídos por um número de criadores inferior a 60% dos criadores de um concelho ou conjunto de concelhos.
+Art. 2.º - 1 - Os ADS não podem ser constituídos por um número de criadores inferior a 60% dos criadores de um concelho ou conjunto de concelhos.
 
 2 - Os ADS só podem ser constituídos em áreas não abrangidas por outros ADS e a sua intervenção deve ser extensiva à totalidade dos criadores da respectiva área, contemplando grandes e pequenos ruminantes.
 
-###### Art. 3.º Os ADS existentes podem alargar a sua área de intervenção a áreas contíguas, desde que não abrangidas por outros ADS e se situem dentro da respectiva região agrária.
+Art. 3.º Os ADS existentes podem alargar a sua área de intervenção a áreas contíguas, desde que não abrangidas por outros ADS e se situem dentro da respectiva região agrária.
 
-###### Art. 4.º Em cumprimento das deliberações das respectivas assembleias gerais e com o acordo prévio da direcção regional de agricultura competente, pode haver lugar à fusão de dois ou mais ADS devendo ser assegurada a continuidade dos programas sanitários em curso.
+Art. 4.º Em cumprimento das deliberações das respectivas assembleias gerais e com o acordo prévio da direcção regional de agricultura competente, pode haver lugar à fusão de dois ou mais ADS devendo ser assegurada a continuidade dos programas sanitários em curso.
 
-###### Art. 5.º Os associados dos ADS comprometem-se a:
+Art. 5.º Os associados dos ADS comprometem-se a:
 
 a) Colaborar na organização, controlo e execução das medidas sanitárias aprovadas;
 
@@ -149,7 +162,7 @@ b) Adquirir animais de efectivos do mesmo agrupamento ou, quando adquiridos fora
 
 e) Apoiar o trabalho desenvolvido pelos técnicos ao serviço do ADS e dar conhecimento ao médico veterinário responsável pelo agrupamento de qualquer anomalia sanitária nos efectivos da sua exploração.
 
-###### Art. 6.º - 1 - Os pedidos de reconhecimento dos ADS devem ser dirigidos ao director regional de agricultura competente e acompanhados de cópia da escritura pública de constituição, dos respectivos estatutos e ainda dos seguintes elementos:
+Art. 6.º - 1 - Os pedidos de reconhecimento dos ADS devem ser dirigidos ao director regional de agricultura competente e acompanhados de cópia da escritura pública de constituição, dos respectivos estatutos e ainda dos seguintes elementos:
 
 a) Listagem identificativa dos criadores associados;
 
@@ -165,7 +178,7 @@ f) Indicação do médico veterinário responsável pelo ADS perante a direcçã
 
 2 - O reconhecimento dos ADS compete ao director regional de agricultura.
 
-###### Art. 7.º - 1 - O programa sanitário, elaborado pelo médico veterinário responsável e ao qual os associados se encontram vinculados, deve incidir, essencialmente, na prevenção e no combate às doenças cujos planos de erradicação se encontrem em vigor.
+Art. 7.º - 1 - O programa sanitário, elaborado pelo médico veterinário responsável e ao qual os associados se encontram vinculados, deve incidir, essencialmente, na prevenção e no combate às doenças cujos planos de erradicação se encontrem em vigor.
 
 2 - Sempre que, do ponto de vista sanitário, se revele conveniente, é permitida a inclusão no programa de acções sanitárias de incidência local ou regional.
 
@@ -195,13 +208,13 @@ f) A identificação das dificuldades e factores que prejudicam a eficácia das 
 
 5 - Os programas sanitários devem ainda mencionar os valores a cobrar aos não sócios pelos serviços prestados no âmbito das acções sanitárias programadas.
 
-###### Art. 8.º - 1 - Os programas sanitários dos ADS são aprovados pelas direcções regionais de agricultura e homologados pelo Instituto de Protecção da Produção Agro-Alimentar (IPPAA).
+Art. 8.º - 1 - Os programas sanitários dos ADS são aprovados pelas direcções regionais de agricultura e homologados pelo Instituto de Protecção da Produção Agro-Alimentar (IPPAA).
 
 2 - O programa sanitário pode sofrer alterações face à situação e ou evolução epidemiológica de cada doença, devendo as alterações introduzidas ser aprovadas pela direcção regional de agricultura.
 
 3 - Em caso de eclosão de um surto de doença de carácter expansivo, o IPPAA pode determinar, enquanto a situação o exigir, a total afectação dos meios dos ADS ao combate a esse morbo, com prejuízo do programa sanitário aprovado.
 
-###### Art. 9.º A responsabilidade pela execução dos programas sanitários a desenvolver pelos ADS cabe exclusivamente a médicos veterinários, designados como médicos veterinários responsáveis, devidamente autorizados pelo conselho directivo do IPPAA, aos quais compete:
+Art. 9.º A responsabilidade pela execução dos programas sanitários a desenvolver pelos ADS cabe exclusivamente a médicos veterinários, designados como médicos veterinários responsáveis, devidamente autorizados pelo conselho directivo do IPPAA, aos quais compete:
 
 a) Elaborar o programa sanitário, apresentá-lo à direcção do ADS e submetê-lo à aprovação da direcção regional de agricultura;
 
@@ -217,9 +230,9 @@ f) Assegurar o registo de movimentações;
 
 g) Coordenar e orientar tecnicamente a actividade dos médicos veterinários executores que prestem serviço no ADS, responsabilizando-se pelas suas acções perante a direcção regional de agricultura.
 
-###### Art. 10.º Em caso de suspensão ou demissão do médico veterinário responsável, as direcções regionais de agricultura prestarão a necessária assistência técnica durante o prazo máximo de 60 dias, findos os quais o agrupamento deve designar outro médico veterinário responsável.
+Art. 10.º Em caso de suspensão ou demissão do médico veterinário responsável, as direcções regionais de agricultura prestarão a necessária assistência técnica durante o prazo máximo de 60 dias, findos os quais o agrupamento deve designar outro médico veterinário responsável.
 
-###### Art. 11.º Ao médico veterinário executor compete:
+Art. 11.º Ao médico veterinário executor compete:
 
 a) Executar as tarefas técnicas determinadas pelo médico veterinário responsável pelo ADS;
 
@@ -229,7 +242,7 @@ c) Participar no controlo sanitário dos efectivos;
 
 d) Informar o médico veterinário responsável das dificuldades e anomalias encontradas no desempenho das suas funções.
 
-###### Art. 12.º Compete aos ADS:
+Art. 12.º Compete aos ADS:
 
 a) Proceder ao envio atempado às direcções regionais de agricultura da calendarização das acções a serem publicitadas por edital;
 
@@ -251,7 +264,7 @@ i) Emitir o boletim sanitário e actualizar a informação sanitária nele conti
 
 j) Elaborar relatórios trimestrais sobre os aspectos de execução técnico-sanitária e financeira, de modo a permitir às direcções regionais de agricultura avaliar os níveis de execução atingidos.
 
-###### Art. 13.º À direcções regionais de agricultura compete:
+Art. 13.º À direcções regionais de agricultura compete:
 
 a) Fixar os objectivos a atingir nas respectivas regiões agrárias;
 
@@ -273,7 +286,7 @@ i) Orientar e controlar a acção dos médicos veterinários responsáveis dos A
 
 j) Criar uma base de dados regional.
 
-###### Art. 14.º Compete ao IPPAA:
+Art. 14.º Compete ao IPPAA:
 
 a) Definir e coordenar a estratégia a adoptar para a prossecução do programa nacional de saúde animal e as metas a atingir;
 

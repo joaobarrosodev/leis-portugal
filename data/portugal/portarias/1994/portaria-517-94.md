@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/517/1994/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/517-1994-290649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b5884ccbc4c47f987da178594bd59890a5fdd05cfb46ac0fd500c280998bdd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b50704210fe4cab7053835c32c91d1cf73fe034d43325d1eed1ccad881a35ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,24 @@ relationships:
   target: pt:dre:531439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:204451:por
+  label: "Alterado o nº 1 e aditado um nº 1-A, pela PORT.611/97.1997.08.07.MADRP DR.IS-B [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/611-1997-204451
+  date: '1997-08-07'
+- type: amended_by
+  target: pt:dre:507782:por
+  label: "Suspenso o exerc&#237;co da ca&#231;a e de actividades de car&#225;cter venat&#243;rio na zona de ca&#231;a associativa\
+    \ concessionado pela presente portaria, na redac&#231;&#227;o da Port 611/97, de 07-Ago, pela PORT.902/2004.23.07.2004.MADRP,\
+    \ DR.IS-B [172] de 23.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-2004-507782
+  date: '2004-07-23'
+- type: amended_by
+  target: pt:dre:531439:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça concessionada pelo presente diploma, alterado pela\
+    \ Port 611/97, de 07-Ago, pela PORT.1405/2004.17.11.2004.MAPF, DR.IS-B [270] de 17.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1405-2004-531439
+  date: '2004-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -85,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-e6/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-e6/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:29:39Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +179,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 17 de Junho de 1994.**
+Assinada em 17 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/156b00/36523653.pdf))](https://files.diariodarepublica.pt/1s/1994/07/156b00/36523653.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/156b00/36523653.pdf)

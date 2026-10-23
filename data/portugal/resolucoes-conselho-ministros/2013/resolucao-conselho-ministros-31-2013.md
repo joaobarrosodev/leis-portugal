@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/31/2013/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-2013-260964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54ec806a76b8d805fefb83115e534cd5ffa211aa0c1ef68bf73205ef94a239ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28a8435d88349ae620bac1a060546a682d885180976fca838948903203344caf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ subjects:
 - AEC 2013
 - ANO Europeu dos Cidadãos
 - Comissão de Acompanhamento
-- Direitos do Homem
 - Criação de Serviços
 - Decisão CE
-- União Europeia
-- Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional
+- Direitos do Homem
 - Livre Circulação de Pessoas
 - Livre Circulação de Trabalhadores
 - Nacional das Comunidades
 - PCM-Entidades
+- Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional
+- União Europeia
 relationships:
 - type: cites
   target: celex:32012D1093
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:14Z'
   warnings: []
   errors: []
 ---

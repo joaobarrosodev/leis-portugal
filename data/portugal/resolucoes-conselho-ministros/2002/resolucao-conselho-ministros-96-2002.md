@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/96/2002/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/96-2002-160315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d024ea7172caca348daea0bdaa07c79147223438529a5201d16e2f2f1d8e52ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f612f11d4315f2d640783e461031db180836dcae6bba342a76b59a4d8723fcc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Urbanização
 - Miranda do Corvo
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
+- Urbanização
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:2496409:por
+  label: "Publicitada a alteração aprovada pela Assembleia Municipal de Miranda do Corvo à planta de zonamento anexa ao Plano\
+    \ de Urbanização de Miranda do Corvo ratificado pelo presente diploma, pela DECL.131/2004(2ªSérie).30.04.2004.DGOTDU-MCOTA,\
+    \ DR.IIS [116] de 18.05.2004\004\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/131-2004-2496409
+  date: '2004-04-30'
+- type: amended_by
+  target: pt:dre:574347:por
+  label: "Ratificada a suspensão parcial do Plano de Urbanização de Miranda do Corvo, ratificado pelo presente diploma e alterado\
+    \ pela Deliberação da Assembleia Municipal de Miranda do Corvo, publicitada através da Decl 131/2004(2ªSérie) de 18-Mai\
+    \ da DGOTDU-MCOTA, na área de intervenção do Plano de Pormenor da Quinta da Paiva, pela RES.71/2005.02.02.2005.PCM, DR.IS-B\
+    \ [54] de 17.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/71-2005-574347
+  date: '2005-02-02'
+- type: amended_by
+  target: pt:dre:1470437:por
+  label: Tornada pública a alteração dos arts. 4.º, 5.º, 6.º, 7.º, 11.º, 32.º, 33.º, 34.º, 35.º e 36.º do Regulamento do Plano
+    de Urbanização de Miranda do Corvo, ratificado pelo presente diploma, pelo(a) Aviso n.º 9882/2010 - Diário da República
+    n.º 97/2010, Série II de 2010-05-19, que procedeu à sua republicação em anexo, na redação atual.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9882-2010-1470437
+  date: '2010-05-19'
+- type: amended_by
+  target: pt:dre:55026199:por
+  label: Tornada pública a revogação do Plano de Urbanização de Miranda do Corvo, ratificado pelo presente diploma, com as
+    alterações e republicação publicitadas pelo AV 9882/2010 de 19-mai, pelo(a) Aviso n.º 8473/2014 - Diário da República
+    n.º 139/2014, Série II de 2014-07-22, nos termos do disposto no art. 162.º do regulamento do PDMMCV, e com efeitos à data
+    de produção de efeitos da 1ª revisão do PDMMCV, publicitada pelo mesmo aviso, que produzirá efeitos no dia seguinte à
+    aprovação da delimitação da Reserva Ecológica Nacional do Município de Miranda do Corvo por portaria do membro do Governo
+    responsável pela área do ambiente e do ordenamento do território.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8473-2014-55026199
+  date: '2014-07-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/274/1992/12/12/p/dre
   label: null
@@ -86,16 +118,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:02Z'
   warnings: []
   errors: []
 ---
@@ -206,9 +258,9 @@ Estudos da Reserva Ecológica Nacional.
 
 5 - Constituem anexos ao presente Regulamento os seguintes elementos:
 
-## Anexo n.º 1, «Identificação dos espaços culturais»;
+Anexo n.º 1, «Identificação dos espaços culturais»;
 
-## Anexo n.º 2, «Definições».
+Anexo n.º 2, «Definições».
 
 ###### Artigo 2.º — Prazo de revisão
 
@@ -422,7 +474,7 @@ QUADRO N.º 1.1
 
 Edificabilidade no centro histórico, nas zonas antigas, nas zonas de habitação consolidada e nas zonas de expansão por colmatação para habitação unifamiliar
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
 
 4 - Nas zonas de expansão para habitação unifamiliar apenas é permitida a construção de habitação unifamiliar ou bifamiliar, edifícios de uso não habitacional compatível com a habitação e anexos para arrecadação e ou garagem obedecendo aos seguintes parâmetros urbanísticos:
 
@@ -520,7 +572,7 @@ QUADRO N.º 1.2
 
 Edificabilidade nas zonas de expansão habitacional, com excepção das zonas de expansão por colmatação para habitação unifamiliar
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
 
 ###### Artigo 8.º
 
@@ -572,7 +624,7 @@ QUADRO N.º 1.3
 
 Edificabilidade das indústrias compatíveis com a habitação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
 
 ###### Artigo 9.º — Lugares de estacionamento
 
@@ -582,7 +634,7 @@ QUADRO N.º 2
 
 Critérios para lugares de estacionamento nas zonas de expansão por colmatação para habitação unifamiliar e restantes zonas de expansão habitacional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
 
 2 - O número mínimo de lugares de estacionamento no centro histórico, nas zonas antigas e nas zonas de habitação consolidada é estabelecido no quadro n.º 3. A sua aplicação é diferenciada de acordo com as seguintes regras:
 
@@ -600,7 +652,7 @@ QUADRO N.º 3
 
 Critérios para lugares de estacionamento no centro histórico, nas zonas antigas e nas zonas de habitação consolidada
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)](https://files.diariodarepublica.pt/1s/2002/05/110b00/44664479.pdf)
 
 ### CAPÍTULO IV — Disposições relativas às zonas de equipamentos colectivos
 

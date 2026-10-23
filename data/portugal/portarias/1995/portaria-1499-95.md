@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1499/1995/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1499-1995-450376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 385b5db624ad71da76e200c89fd5999e2c8f3cda5a375f7e460fd708ad3152a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e70518f53558a2fd735bd5903597263e1c58c0834457e38c1b2d7d3d895cb8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pessoal Dirigente
 - Impresso
-- Ministério da Cultura
 - Livre Trânsito
+- Ministério da Cultura
 - Pessoal de Gabinete
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:344452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178543:por
+  label: "Alterado o nº 3 pela PORT.629/96.1996.11.05.MC, DR.IS-B [256]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-1996-178543
+  date: '1996-11-05'
+- type: amended_by
+  target: pt:dre:344452:por
+  label: "Determinada a cessação, a partir de 14.10.2010, da validade dos cartões emitidos pela Inspecção-Geral das Actividades\
+    \ culturais ao abrigo do presente diploma pela PORT.1052/2010.13.10.2010.MC, DR.IS [199] de 13.10.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1052-2010-344452
+  date: '2010-10-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:31Z'
   warnings: []
   errors: []
 ---
@@ -115,14 +126,14 @@ Manda o Governo, pelo Ministro da Cultura, ao abrigo do disposto na alínea d) d
 
 Ministério da Cultura.
 
-**Assinada em 17 de Novembro de 1995.**
+Assinada em 17 de Novembro de 1995.
 
-**O Ministro da Cultura, Manuel Maria Ferreira Carrilho.**
+O Ministro da Cultura, Manuel Maria Ferreira Carrilho.
 
 ## ANEXO I — Modelo de cartão de identidade: pessoal dos gabinetes e pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/300b00/82888289.pdf))](https://files.diariodarepublica.pt/1s/1995/12/300b00/82888289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/300b00/82888289.pdf)
 
 ## ANEXO II — Modelo de cartão de identidade: restante pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/300b00/82888289.pdf))](https://files.diariodarepublica.pt/1s/1995/12/300b00/82888289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/300b00/82888289.pdf)

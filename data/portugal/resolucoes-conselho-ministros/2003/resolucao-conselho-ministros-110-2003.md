@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/110/2003/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/110-2003-660947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 028446262caba2a10800905004e11ca0bd6b35616f28d41036ee691113a915f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b073d02fe473282f5389fb1a14708b3153d0c63c205d6b45705194dde5c7d1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
 subjects:
 - Deficiente
 - Educação Especial
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Tecnologia da Informação
-- Ministério da Educação
-- Plano de Acção Europe 2002
-- Ministério da Ciência e do Ensino Superior
-- Instituto das Comunicações de Portugal
-- Iniciativa Legislativa
-- TIC
-- Programa Nacional para a Participação dos Cidadãos com Necessidades Especiais na Sociedade da Informação
-- Sociedade da Informação
-- Organismo do Estado
 - Eeurope 2005
-- Proteção ao Deficiente
-- Política Governamental
-- Internet
-- UMIC
-- Inserção Social
-- Política de Emprego
-- Qualidade de VIDA
+- Iniciativa Legislativa
 - Iniciativa Nacional para os Cidadãos com Necessidades Especiais na Sociedade da Informação
+- Inserção Social
+- Instituto das Comunicações de Portugal
+- Internet
+- Ministério da Ciência e do Ensino Superior
+- Ministério da Educação
+- Organismo do Estado
+- Plano de Acção Europe 2002
+- Política de Emprego
+- Política Governamental
+- Programa Nacional para a Participação dos Cidadãos com Necessidades Especiais na Sociedade da Informação
+- Proteção ao Deficiente
+- Qualidade de VIDA
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
+- Sociedade da Informação
+- Tecnologia da Informação
+- TIC
+- UMIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/123/1997/05/22/p/dre
@@ -104,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/96/1999/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/96/1999/08/26/p/dre
+- type: cites
+  target: pt:dre:273422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451783:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:17Z'
   warnings: []
   errors: []
 ---
@@ -382,7 +398,7 @@ TABELA N.º 1
 
 Resumo das acções propostas para cada prioridade de actuação
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -404,7 +420,7 @@ TABELA N.º 2
 
 Acessibilidades - Acções propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -428,7 +444,7 @@ TABELA N.º 3
 
 Ajudas técnicas - Acções propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -454,7 +470,7 @@ TABELA N.º 4
 
 Legislação, regulamentação e normalização - Acções propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -470,7 +486,7 @@ TABELA N.º 5
 
 Ciência, inovação e redes de conhecimento - Acções propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -488,7 +504,7 @@ TABELA N.º 6
 
 Educação - Acções propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -502,7 +518,7 @@ TABELA N.º 7
 
 Trabalho - Acções propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -520,7 +536,7 @@ TABELA N.º 8
 
 Acções de sensibilização - Acções propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -538,7 +554,7 @@ TABELA N.º 9
 
 Cooperação com empresas - Acções propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -568,13 +584,13 @@ TABELA N.º 10
 
 Cooperação internacional - Acções propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
 5 - Factores críticos de sucesso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 A implementação deste Programa terá que ter como linha orientadora uma atitude positiva no sentido de acreditar sempre que é possível alcançar progressos, por maiores que sejam os ventos em sentido contrário. Assumindo expectativas moderadas, importa mobilizar com seriedade, transparência, rigor, persistência, esforço e com um profissionalismo que ganhe o respeito das pessoas com necessidades especiais, das suas organizações, bem como das próprias instituições do Estado mais directamente envolvidas.
 
@@ -600,6 +616,6 @@ TABELA N.º 11
 
 Unidade ACESSO - Pivot de implementação
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48954905.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/104/1994/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/104-1994-522060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6efbfe716b5ce8976298c75b1be914eddc227c0c8a929d224338df06330fdcf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf7cd03d98efdde4c492375cd7793a45b1b5c1d0d6142159c1b59e00495345f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,30 @@ relationships:
   target: pt:dre:468874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468874:por
+  label: "Actualizados os valores fixados pelo presente diploma, pela PORT.151/96.14.05.1996.MF, DR.IS-B [112] de 14.05.1996\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/151-1996-468874
+  date: '1996-05-14'
+- type: cites
+  target: pt:dre:354121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564792:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:09Z'
   warnings: []
   errors: []
 ---
@@ -111,10 +125,10 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, ao abrigo do di
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 26 de Janeiro de 1994.**
+Assinada em 26 de Janeiro de 1994.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro da Agricultura, Arlindo Marques da Cunha.**
+O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro da Agricultura, Arlindo Marques da Cunha.
 
 Tabela dos valores máximos de rendas do arrendamento rural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/034b00/06530656.pdf))](https://files.diariodarepublica.pt/1s/1994/02/034b00/06530656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/034b00/06530656.pdf)

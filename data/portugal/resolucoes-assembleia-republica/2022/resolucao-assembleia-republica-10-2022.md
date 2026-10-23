@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09000/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/10/2022/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/10-2022-183230515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:14:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eaa6bb56bb1c30e175c957529e57642da1b4e8f58b9319c98e074cf4ef08bee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 130096b18e3f7691cfe02d5e8eb507581518e769a05eb5611d16f804c9ede25a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:14:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
-- Comissão de Acesso aos Documentos Administrativos
 - Assembleia da República
+- Comissão de Acesso aos Documentos Administrativos
+- Eleição
 relationships:
+- type: amended_by
+  target: pt:dre:184054397:por
+  label: Declarada a renúncia, com efeitos a 05.05.2022, de Maria Luís Pereira Vaz pelo(a) Declaração n.º 7/2022 - Diário
+    da República n.º 103/2022, Série I de 2022-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/7-2022-184054397
+  date: '2022-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/26/2016/08/22/p/dre
   label: null
@@ -85,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/68/2021/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/68/2021/08/26/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170221042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:14:12Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +141,6 @@ Sílvia Damila Macedo Lino Gonçalves.
 
 Aprovada em 29 de abril de 2022.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
+
+115294504

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/267/1994/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/267-1994-250004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72c1df15c81d4845e85651f5adea807a102a2967981b1126c6fae53808d5c215
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4fee62db734be2d140095264501961d88f001348e58255beb638600ea1589e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
 subjects:
 - Autonomia Universitária
 - Ensino Oficial
+- Ensino Superior
 - Ensino Superior Politécnico
 - Instituto Politécnico
 - Isenção de Propinas
 - Propinas
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/5/1994/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1994/03/14/p/dre
+- type: cites
+  target: pt:dre:274029:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:27Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +107,6 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, ao abrigo do dis
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 12 de Abril de 1994.**
+Assinada em 12 de Abril de 1994.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite.**
+O Ministro das Finanças, Eduardo de Almeida Catroga. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite.

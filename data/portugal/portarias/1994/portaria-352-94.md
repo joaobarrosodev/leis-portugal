@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/352/1994/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-1994-302334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab2add2ad1ca7f725b12eae93f720ba962b55910347922ba98307356e9c55e8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d8dff6c0b07e775fa9c7bd73b32e807ce19c2ae96068aa17278b40f7bbcd47d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
 subjects:
 - Administrador Hospitalar
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:417215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570337:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:25:38Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +112,10 @@ Ao abrigo do disposto nos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 101/80]
 
 Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro único de administradores hospitalares, aprovado pela [Portaria n.º 21/81](https://diariodarepublica.pt/dr/detalhe/portaria/21-1981-570337), de 10 de Janeiro, e alterado pelas Portarias n.os [605/83](https://diariodarepublica.pt/dr/detalhe/portaria/605-1983-451816), de 25 de Maio, e [672/87](https://diariodarepublica.pt/dr/detalhe/portaria/672-1987-417215), de 31 de Julho, passe a ter a seguinte composição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/131b00/29602960.pdf))](https://files.diariodarepublica.pt/1s/1994/06/131b00/29602960.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/131b00/29602960.pdf)
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 27 de Abril de 1994.**
+Assinada em 27 de Abril de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/154/2007/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2007-642545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9121af91ebeb79ff5f9a53f47aad95b73d3a3cc6b09da3b6643ff86f25802056
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a2e6d67f304cd89720323313c7ec6eaab2383f627bf84b00af8dbc276b5c1fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caminha
-- Ordenamento do Território
 - Espinho
+- Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
 relationships:
@@ -76,6 +76,19 @@ relationships:
   target: pt:dre:439872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165239:por
+  label: "Determinada a suspensão da al. j) do nº1 art. 22º do POOC de Caminha-Espinho, aprovado pela Res 25/99, de 07-Abr,\
+    \ da PCM, na ãlterado pelo presente diploma, pela RES.168-B/2008.14.11.2008.PCM, DR.IS [222-Supl] de 14.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/168-b-2008-165239
+  date: '2008-11-14'
+- type: amended_by
+  target: pt:dre:439872:por
+  label: "Determinado que, na área de intervenção do POPNLN, seja alterado o Plano de Ordenamento da Orla Costeira (POOC)\
+    \ de Caminha-Espinho, aprovado pela Res 25/99, de 07-Abr, da PCM, alterado pelo presente diploma, pela RES.175/2008.24.11.2008.PCM,\
+    \ DR.IS [228] de 24.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/175-2008-439872
+  date: '2008-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -108,16 +121,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25/1999/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/1999/04/07/p/dre
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
 article_structure:
   article_count: 63
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:38Z'
   warnings: []
   errors: []
 ---
@@ -1340,7 +1385,7 @@ As disposições constantes do POOC não põem em causa direitos adquiridos à d
 
 Parâmetros para a área de equipamento em APC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
 
 ## ANEXO II — QUADRO N.º 1
 
@@ -1436,19 +1481,19 @@ UOPG n.º 15 - Aglomerado de Paramos (artigo 42.º)
 
 Características dos apoios de praia e equipamentos das praias do tipo i
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
 
 QUADRO N.º 2
 
 Características dos apoios de praia e equipamentos das praias do tipo ii
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
 
 QUADRO N.º 3
 
 Características dos apoios de praia e equipamentos das praias do tipo iii
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
 
 QUADRO N.º 4
 
@@ -1472,4 +1517,4 @@ QUADRO N.º 7
 
 Material a utilizar na cobertura dos equipamentos e apoios de praia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/35/1998/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-1998-218339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 212f46011d372a2426fea17a50db58c5f18c27776d56127ebab40b1db6a0ff19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4534b52fc5bb5fdb2ab41556086bb7525afd2527fd852007a2d6f039f1735ebd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 - Valença
 relationships:
+- type: amended_by
+  target: pt:dre:218313:por
+  label: "Ratificada a suspensão parcial do Plano Director Municipal de Valença, ratificado pela Res 78/94 de 07-Set da PCM\
+    \ com a redacção do presente diploma, na área de intervenção das medidas preventivas ratificadas pela RES.45/2004.11.03.2004.PCM,\
+    \ DR.IS-B [81] de 05.04.2004 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/45-2004-218313
+  date: '2004-03-11'
+- type: amended_by
+  target: pt:dre:452711:por
+  label: "Ratificada a suspensão parcial, na área delimitada na planta anexa e pelo prazo de dois anos, do Plano Director\
+    \ Minicipal de Valença, ratificado pela Res 78/94, de 07-Set, da PCM, com as alterações ao seu Regulamento pelo presente\
+    \ diploma e pela Res 15/2004, de 01-Mar, da PCM e as alterações ao Plano pela Res 45/2004, de 05-Abr, da PCM e publicadas\
+    \ as medidas preventivas para a mesma área e pelo mesmo período, pela RES.150/2008.14.10.2008.PCM, DR.IS [199] de 14.10.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/150-2008-452711
+  date: '2008-10-14'
+- type: amended_by
+  target: pt:dre:3620853:por
+  label: Tornada pública a revisão do Plano Diretor Municipal de Valença (PDMV), ratificado pela Res 78/94 de 07-set da PCM,
+    com as alterações ratificadas pelo presente diploma, pelo(a) Aviso (extracto) n.º 12235/2010 - Diário da República n.º
+    117/2010, Série II de 2010-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extracto/12235-2010-3620853
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:66702081:por
+  label: Tornada pública a alteração, na área de intervenção do Plano de Urbanização da Área Empresarial de Valença (PUAEV)
+    ora aprovado, e nas normas que com ele forem incompatíveis, do Plano Diretor Municipal de Valença (PDMV), ratificado pela
+    Res 78/94 de 07-set da PCM, com as alterações introduzidas pelo presente diploma, pelo(a) Aviso (extrato) n.º 2614/2015
+    - Diário da República n.º 48/2015, Série II de 2015-03-10, nos termos do disposto no art. 63.º do Regulamento do PUAEV
+    por ele publicitado
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/2614-2015-66702081
+  date: '2015-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -82,16 +114,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/1994/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/1994/09/07/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657242:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:09Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +176,9 @@ e) ...
 
 f) Com excepção para as unidades hoteleiras ou similares e para os casos referidos na alínea c) deste artigo, estabelecem-se como profundidade máxima de construção 15 m, o afastamento ao limite da parcela não inferior a 3 m, ou não inferior a 6 m à edificação vizinha, excepto para edifícios geminados ou em banda, quer lateralmente quer na retaguarda.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -148,7 +194,9 @@ e) ...
 
 f) O afastamento ao limite da parcela não será inferior a 3 m, ou não inferior a 6 m à edificação vizinha, excepto para edifícios geminados ou em banda, quer lateralmente quer na retaguarda.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 

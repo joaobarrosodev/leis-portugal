@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/160b00/37793784.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/602/1994/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/602-1994-300253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:31:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dbe2083581bdab16504f1d7935a95c4d68bfab1e2bc598ce3f6a94cb9c2afd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7197230e47d33928129ea90b2cb305f7a1937ca9590f788b75b23445947e5d9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:31:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Biotecnologia
-- Organismo Geneticamente Modificado
 - Direcção Geral do Ambiente
-- Saúde Pública
 - Instruções de Utilização
 - Notificação
+- Organismo Geneticamente Modificado
 - Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:235307:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517193:por
+  label: "Substituido o anexo II pelo DEC LEI.119/98.1998.05.07.MAM, DR.IS-A [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1998-517193
+  date: '1998-05-07'
 - type: cites
   target: celex:31990L0219
   label: null
   source: http://data.europa.eu/eli/dir/1990/219/oj
+- type: repealed_by
+  target: pt:dre:235307:por
+  label: "Revogada pelo DEC LEI.2/2001.2001.01.04.MAOT,DR.IS-A [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2001-235307
+  date: '2001-01-04'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:31:33Z'
   warnings: []
   errors: []
 ---
@@ -185,9 +195,9 @@ O disposto nos artigos 4.º e 5.º do presente diploma não é aplicável ao tra
 
 Ministérios da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 13 de Junho de 1994.**
+Assinada em 13 de Junho de 1994.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
 ## ANEXO I — Directrizes para a classificação dos microrganismos geneticamente modificados no grupo I
 
@@ -483,13 +493,13 @@ As operações de tipo B devem ser consideradas em termos de cada operação. As
 
 As medidas específicas de confinamento destinadas às operações de tipo A devem ser definidas tendo em conta as categorias de confinamento abaixo indicadas e sem esquecer as circunstâncias específicas de tais operações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/160b00/37793784.pdf))](https://files.diariodarepublica.pt/1s/1994/07/160b00/37793784.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/160b00/37793784.pdf)
 
 ## ANEXO V — Informações necessárias para a notificação
 
 (nos termos do n.º 5.º da Portaria n.º 602/94)
 
-# PARTE A — Informações necessárias para a notificação referida no n.º 1 do n.º 5.º
+## PARTE A — Informações necessárias para a notificação referida no n.º 1 do n.º 5.º
 
 Nome do(s) responsável (responsáveis) pela utilização confinada, incluindo os responsáveis pelo controlo, vigilância e segurança, e informações sobre a formação e qualificações dessas pessoas.
 
@@ -499,7 +509,7 @@ Descrição da natureza do trabalho que será efectuado e, em especial, da class
 
 Resumo da avaliação de riscos referida no n.º 2 do artigo 6.º
 
-# PARTE B — Informações necessárias para a notificação referida
+## PARTE B — Informações necessárias para a notificação referida
 
 na alínea a) do n.º 2 do n.º 5.º
 
@@ -517,7 +527,7 @@ Volumes de cultura a utilizar.
 
 Resumo da avaliação de riscos referida no n.º 2 do artigo 6.º
 
-# PARTE C — Informações necessárias para a notificação referida na alínea b) do n.º 2 do n.º 5.º
+## PARTE C — Informações necessárias para a notificação referida na alínea b) do n.º 2 do n.º 5.º
 
 As informações exigidas na parte B.
 
@@ -529,7 +539,7 @@ Descrição das medidas de protecção e de controlo a aplicar ao longo de toda 
 
 As categorias de confinamento atribuídas, especificando as disposições relativas ao tratamento dos detritos e as precauções de segurança a adoptar.
 
-# PARTE D — Informações necessárias para a notificação referida na alínea c) do n.º 2 do n.º 5.º
+## PARTE D — Informações necessárias para a notificação referida na alínea c) do n.º 2 do n.º 5.º
 
 Se não for tecnicamente possível ou não se afigurar necessário fornecer as informações a seguir especificadas, devem indicar-se as razões. O nível de pormenor exigido na resposta a cada subconjunto de considerações é susceptível de variar em função da natureza e da escala da utilização confinada proposta. No caso de informações já fornecidas à autoridade competente, nos termos do disposto na presente directiva, o utilizador pode fazer referência a tais informações.
 

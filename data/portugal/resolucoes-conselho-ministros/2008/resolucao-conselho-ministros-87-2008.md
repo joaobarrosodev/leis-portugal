@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/87/2008/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2008-449195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 858203cd04b6f829bf0c7e81228d8f30c0f6c177f16654ca0d12cde5fe8ee4db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c48fb65b7893cfd5cc40b4e3977bc94a3e6eed2f597a29ff07fc127d11342f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,20 @@ reuse:
 subjects:
 - Adjunto
 - Admissão de Pessoal
+- Agência para a Modernização Administrativa
 - Definição de Competências
 - Equipa de Missão
 - Gestor
-- Nomeação
-- Agência para a Modernização Administrativa
 - Loja do Cidadão
+- Nomeação
 relationships:
+- type: amended_by
+  target: pt:dre:3373187:por
+  label: "Confirmada a comissão de serviço do Licenciado Eduardo Elísio Silva Peralta Feio, para o cargo de gestor da Estrutura\
+    \ de Missão Lojas do Cidadão de Segunda Geração, nomeado pela presente resolução, pelo DESP.27388/2009.22.12.2009.PCM,\
+    \ DR.IIS [246] de 22.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/27388-2009-3373187
+  date: '2009-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -90,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:272037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:13Z'
   warnings: []
   errors: []
 ---

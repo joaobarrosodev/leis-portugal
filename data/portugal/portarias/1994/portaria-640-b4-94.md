@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1994, 3º Suplemento, Série I-B de 1994-07-15
   number: '162'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3862-(83) a 3862-(83)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b03/00830083.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/640-b4/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/640-b4-1994-276227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fd5713909c2f9c9bfc9172cdca2d56ca8dca905b24869b45b1bc75fe4da7cb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 741fda0a19f6b9e38e12e5b62a4829794c86482de654bf28cf78e8881f093adb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,30 @@ relationships:
   target: pt:dre:520256:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311474:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pela presente portaria, pela PORT.518/2000.2000.07.25.MADRP\
+    \ DR.IS-B [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/518-2000-311474
+  date: '2000-07-25'
+- type: amended_by
+  target: pt:dre:582028:por
+  label: "Renovada, por um período de 6 anos, a concessão da zona de caça associativa atribuída pelo presente diploa, pela\
+    \ PORT.725/2000.2000.09.06.MADRP, DR.IS-B [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/725-2000-582028
+  date: '2000-09-06'
+- type: amended_by
+  target: pt:dre:534422:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma, alterado pela Port 725/2000, de 06-Set,\
+    \ pela PORT.1444/2004.25.11.2004.MAPF, DR.IS-B [277] de 25.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1444-2004-534422
+  date: '2004-11-25'
+- type: amended_by
+  target: pt:dre:520256:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pelo presente diploma, com a redacção conferida nas\
+    \ Port 725/2002 de 06-Set e 1444/2004 de 25-Nov, pela PORT.327/2007.28.03.2007.MAOTDR, DR.IS [62] de 28.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-2007-520256
+  date: '2007-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:40Z'
   warnings: []
   errors: []
 ---
@@ -124,8 +168,8 @@ Manda o Governo, pelos Ministros da Agricultura e do Ambiente e Recursos Naturai
 
 Ministérios da Agricultura e do Ambiente e Recursos Naturais.
 
-**Assinada em 5 de Julho de 1994.**
+Assinada em 5 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b03/00830083.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b03/00830083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b03/00830083.pdf)

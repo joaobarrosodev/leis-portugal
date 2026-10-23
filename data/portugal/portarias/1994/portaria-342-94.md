@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/342/1994/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/342-1994-301647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f195482d8fbdaec13c712955d63ce7b152785da2d31d3f145f452158d43e85be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5ded71db8df3638f6bf67b56531d9aaf5f6cf296879dd12b34b2deab5ccbd39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Curso de Línguas e Literaturas Classicas
-- Licenciatura
 - Ensino Superior
+- Licenciatura
 - Universidade da Madeira
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:309694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611537:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:25:23Z'
   warnings: []
   errors: []
 ---
@@ -178,9 +214,9 @@ Disposição transitória
 
 Ministério da Educação.
 
-**Assinada em 7 de Março de 1994.**
+Assinada em 7 de Março de 1994.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado. - Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado. - Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Licenciatura em Línguas e Literaturas Modernas
 
@@ -200,7 +236,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 117,5 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO II — Licenciatura em Línguas e Literaturas Modernas
 
@@ -226,7 +262,7 @@ a) 151,5 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO III — Licenciatura em Línguas e Literaturas Modernas
 
@@ -246,7 +282,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 118 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO IV — Licenciatura em Línguas e Literaturas Modernas
 
@@ -272,7 +308,7 @@ a) 152 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO V — Licenciatura em Línguas e Literaturas Modernas
 
@@ -292,7 +328,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 117 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO VI — Licenciatura em Línguas e Literaturas Modernas
 
@@ -318,7 +354,7 @@ a) 152 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO VII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -338,7 +374,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 117,5 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO VIII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -364,7 +400,7 @@ a) 151,5 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO IX — Licenciatura em Línguas e Literaturas Modernas
 
@@ -384,7 +420,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 123 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO X — Licenciatura em Línguas e Literaturas Modernas
 
@@ -410,7 +446,7 @@ a) 157 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XI — Licenciatura em Línguas e Literaturas Modernas
 
@@ -430,7 +466,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 123 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -456,7 +492,7 @@ a) 157 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XIII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -478,7 +514,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 119 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XIV — Licenciatura em Línguas e Literaturas Modernas
 
@@ -506,7 +542,7 @@ a) 153 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XV — Licenciatura em Línguas e Literaturas Modernas
 
@@ -526,7 +562,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 121 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XVI — Licenciatura em Línguas e Literaturas Modernas
 
@@ -552,7 +588,7 @@ a) 133,5 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XVII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -574,7 +610,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 131 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XVIII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -602,7 +638,7 @@ a) 134,5 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XIX — Licenciatura em Línguas e Literaturas Modernas
 
@@ -622,7 +658,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 121 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XX — Licenciatura em Línguas e Literaturas Modernas
 
@@ -648,7 +684,7 @@ a) 133,5 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXI — Licenciatura em Línguas e Literaturas Modernas
 
@@ -668,7 +704,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 126,5 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -694,7 +730,7 @@ a) 134,5 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXIII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -714,7 +750,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 126,5 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXIV — Licenciatura em Línguas e Literaturas Modernas
 
@@ -740,7 +776,7 @@ a) 134,5 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXV — Licenciatura em Línguas e Literaturas Modernas
 
@@ -760,7 +796,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 127,5 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXVI — Licenciatura em Línguas e Literaturas Modernas
 
@@ -786,7 +822,7 @@ a) 135,5 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXVII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -806,7 +842,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 127,5 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXVIII — Licenciatura em Línguas e Literaturas Modernas
 
@@ -832,7 +868,7 @@ a) 135,5 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXIX — Licenciatura em Línguas e Literaturas Clássicas
 
@@ -852,7 +888,7 @@ Duração normal do curso - quatro anos lectivos.
 
 Condições necessárias à concessão do grau - 126,5 unidades de crédito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
 
 ## ANEXO XXX — Licenciatura em Línguas e Literaturas Clássicas
 
@@ -878,4 +914,4 @@ a) 133 unidades de crédito;
 
 b) Aprovação em estágio pedagógico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf))](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/126b00/28522873.pdf)

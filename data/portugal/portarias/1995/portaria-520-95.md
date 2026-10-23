@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/520/1995/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/520-1995-527383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f089d962412301cd440608cf22b2c4261d239118b92d8e328e90e7d10513f2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c33c43be005b44101930f4d79b09c4d163cb4468e393899ba1012bace3bfd8f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Aljustrel
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:300217:por
+  label: "Ratificada a alteração ao Plano de Pormenor ratificado pelo presente diploma pela RES.35/2000.2000.04.27.PCM DR.IS-B\
+    \ [116] de 19/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/35-2000-300217
+  date: '2000-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -93,16 +99,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:43Z'
   warnings: []
   errors: []
 ---
@@ -125,19 +191,19 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 1 de Maio de 1995.**
+Assinada em 1 de Maio de 1995.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor do Malha Ferro - Aljustrel (Zona Industrial)
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O presente Regulamento faz parte integrante do Plano de Pormenor do Malha Ferro (Zona Industrial), em Aljustrel, e tem por objectivo estabelecer as regras e orientações a que deverá obedecer a ocupação e uso do solo dentro dos limites da sua área de intervenção.
+Artigo 1.º O presente Regulamento faz parte integrante do Plano de Pormenor do Malha Ferro (Zona Industrial), em Aljustrel, e tem por objectivo estabelecer as regras e orientações a que deverá obedecer a ocupação e uso do solo dentro dos limites da sua área de intervenção.
 
-###### Art. 2.º O terreno tem a área de 9,6 ha e confina: a nordeste, com a Herdade do Monte da Beguina; a sudeste, com o Monte Ruas; a sudoeste, com José Pinto Costa Salgueiro e irmão, GRAFIQUATRO, José Francisco Rodrigues Agostinho, Manuel Joaquim Conceição Mestre, TECLASUL, Luís Coelho Pereira e Alfredo Pardal Fialho, e a noroeste, com FORAKY, José Francisco Larguinho, Câmara Municipal de Aljustrel, António F. Raposo Pereira e Estrada Nacional n.º 2.
+Art. 2.º O terreno tem a área de 9,6 ha e confina: a nordeste, com a Herdade do Monte da Beguina; a sudeste, com o Monte Ruas; a sudoeste, com José Pinto Costa Salgueiro e irmão, GRAFIQUATRO, José Francisco Rodrigues Agostinho, Manuel Joaquim Conceição Mestre, TECLASUL, Luís Coelho Pereira e Alfredo Pardal Fialho, e a noroeste, com FORAKY, José Francisco Larguinho, Câmara Municipal de Aljustrel, António F. Raposo Pereira e Estrada Nacional n.º 2.
 
-###### Art. 3.º Os lotes, numerados de 1 a 36, agrupam-se, em função da sua área e acessibilidade, segundo três classes:
+Art. 3.º Os lotes, numerados de 1 a 36, agrupam-se, em função da sua área e acessibilidade, segundo três classes:
 
 Classe A (área igual ou superior a 2001 m2);
 
@@ -145,83 +211,83 @@ Classe B (área igual ou superior a 1251 m2 e igual ou inferior a 2000 m2);
 
 Classe C (área igual ou superior a 534 m2 e igual ou inferior a 1250 m2).
 
-###### Art. 4.º Os lotes destinam-se à construção de armazéns, oficinas e indústrias de pequena e média dimensão e classificadas de B, C e D, conforme a tabela anexa à [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto.
+Art. 4.º Os lotes destinam-se à construção de armazéns, oficinas e indústrias de pequena e média dimensão e classificadas de B, C e D, conforme a tabela anexa à [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto.
 
-###### Art. 5.º A instalação ou posterior alteração dos estabelecimentos industriais carece de licenciamento prévio pelo organismo competente, de acordo com o Regulamento do Exercício da Actividade Industrial ([Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto).
+Art. 5.º A instalação ou posterior alteração dos estabelecimentos industriais carece de licenciamento prévio pelo organismo competente, de acordo com o Regulamento do Exercício da Actividade Industrial ([Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto).
 
-###### Art. 6.º Todos os estabelecimentos deverão funcionar de acordo com as normas disciplinadoras do exercício da actividade industrial que constam do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, alterado pelo [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto.
+Art. 6.º Todos os estabelecimentos deverão funcionar de acordo com as normas disciplinadoras do exercício da actividade industrial que constam do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, alterado pelo [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto.
 
-###### Art. 7.º A instalação dos estabelecimentos das classes B e C depende do cumprimento dos artigos enunciados no capítulo III deste Regulamento.
+Art. 7.º A instalação dos estabelecimentos das classes B e C depende do cumprimento dos artigos enunciados no capítulo III deste Regulamento.
 
-###### Art. 8.º Todos os lotes ficam obrigados a respeitar os valores e índices constantes do quadro anexo a este Regulamento, bem como o Regulamento Geral das Edificações Urbanas (RGEU) e os demais regulamentos vigentes e aplicáveis às especialidades.
+Art. 8.º Todos os lotes ficam obrigados a respeitar os valores e índices constantes do quadro anexo a este Regulamento, bem como o Regulamento Geral das Edificações Urbanas (RGEU) e os demais regulamentos vigentes e aplicáveis às especialidades.
 
-###### Art. 9.º A implantação dos lotes e alinhamentos das construções será da responsabilidade dos Serviços Técnicos da Câmara Municipal de Aljustrel, em conformidade com as peças desenhadas e dentro da aproximação que o trabalho de campo permitir, sem prejuízo da concepção global do Plano.
+Art. 9.º A implantação dos lotes e alinhamentos das construções será da responsabilidade dos Serviços Técnicos da Câmara Municipal de Aljustrel, em conformidade com as peças desenhadas e dentro da aproximação que o trabalho de campo permitir, sem prejuízo da concepção global do Plano.
 
-###### Art. 10.º Os equipamentos a construir deverão corresponder às necessidades manifestas pelos utentes da Zona Industrial, ter a volumetria e área de construção assinaladas na planta de síntese e merecer a aprovação da Câmara Municipal de Aljustrel.
+Art. 10.º Os equipamentos a construir deverão corresponder às necessidades manifestas pelos utentes da Zona Industrial, ter a volumetria e área de construção assinaladas na planta de síntese e merecer a aprovação da Câmara Municipal de Aljustrel.
 
-###### Art. 11.º Não poderá ser alterado o uso dos edifícios para outros fins que se mostrem incompatíveis com o presente Regulamento.
+Art. 11.º Não poderá ser alterado o uso dos edifícios para outros fins que se mostrem incompatíveis com o presente Regulamento.
 
-###### Art. 12.º Toda a actividade nos estabelecimentos industriais obriga-se a aplicar o Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais, aprovado pela [Portaria n.º 53/71](https://diariodarepublica.pt/dr/detalhe/portaria/53-1971-446313), de 3 de Fevereiro, e revista pela [Portaria n.º 702/80](https://diariodarepublica.pt/dr/detalhe/portaria/702-1980-460474), de 22 de Setembro.
+Art. 12.º Toda a actividade nos estabelecimentos industriais obriga-se a aplicar o Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais, aprovado pela [Portaria n.º 53/71](https://diariodarepublica.pt/dr/detalhe/portaria/53-1971-446313), de 3 de Fevereiro, e revista pela [Portaria n.º 702/80](https://diariodarepublica.pt/dr/detalhe/portaria/702-1980-460474), de 22 de Setembro.
 
-###### Art. 13.º A área do Plano de Pormenor definida como verde ou de lazer não poderá ser utilizada para outros fins incompatíveis com os seus objectivos.
+Art. 13.º A área do Plano de Pormenor definida como verde ou de lazer não poderá ser utilizada para outros fins incompatíveis com os seus objectivos.
 
-###### Art. 14.º Deverá ainda e sempre ser considerada toda a legislação que sobre estas matérias venha a ser regulamentada.
+Art. 14.º Deverá ainda e sempre ser considerada toda a legislação que sobre estas matérias venha a ser regulamentada.
 
-###### Art. 15.º Quaisquer omissões ou dúvidas surgidas na aplicação do presente Regulamento serão resolvidas pela Câmara Municipal de Aljustrel.
+Art. 15.º Quaisquer omissões ou dúvidas surgidas na aplicação do presente Regulamento serão resolvidas pela Câmara Municipal de Aljustrel.
 
 ### CAPÍTULO II — Caracterização e ocupação dos lotes
 
-###### Art. 16.º A todas as construções, incluindo muros de vedação, é exigido bom aspecto exterior, patente nos projectos de arquitectura a submeter à Câmara Municipal de Aljustrel.
+Art. 16.º A todas as construções, incluindo muros de vedação, é exigido bom aspecto exterior, patente nos projectos de arquitectura a submeter à Câmara Municipal de Aljustrel.
 
-###### Art. 17.º Com o projecto das construções devem ser apresentados à entidade licenciadora os projectos das redes de abastecimento e drenagem das águas residuais e pluviais, o projecto de instalação eléctrica e electromecânica e os sistemas antipoluentes preconizados, quando a actividade o exija.
+Art. 17.º Com o projecto das construções devem ser apresentados à entidade licenciadora os projectos das redes de abastecimento e drenagem das águas residuais e pluviais, o projecto de instalação eléctrica e electromecânica e os sistemas antipoluentes preconizados, quando a actividade o exija.
 
-###### Art. 18.º As construções nos lotes deverão ter um afastamento igual ou superior a 5 m do limite da respectiva parcela, com excepção para os lotes n.os 4 e 5.
+Art. 18.º As construções nos lotes deverão ter um afastamento igual ou superior a 5 m do limite da respectiva parcela, com excepção para os lotes n.os 4 e 5.
 
-###### Art. 19.º Nos lotes n.os 4 e 5 é permitida a construção até ao limite da parcela, desde que não se pratiquem vãos na fachada contígua e desde que se faça a drenagem das águas de cobertura sem prejuízo para o lote vizinho (gotejamento ou infiltrações).
+Art. 19.º Nos lotes n.os 4 e 5 é permitida a construção até ao limite da parcela, desde que não se pratiquem vãos na fachada contígua e desde que se faça a drenagem das águas de cobertura sem prejuízo para o lote vizinho (gotejamento ou infiltrações).
 
-###### Art. 20.º As construções podem ser executadas por fases, desde que a cada fase corresponda um dos módulos definidos na planta de síntese para cada lote.
+Art. 20.º As construções podem ser executadas por fases, desde que a cada fase corresponda um dos módulos definidos na planta de síntese para cada lote.
 
-###### Art. 21.º Todas as paredes, independentemente do sistema construtivo adoptado, terão um acabamento duradouro de cor branca e adequado à actividade exercida.
+Art. 21.º Todas as paredes, independentemente do sistema construtivo adoptado, terão um acabamento duradouro de cor branca e adequado à actividade exercida.
 
-###### Art. 22.º Serão permitidos materiais tradicionais (azulejo unicolor, tijoleira, etc.) e cores (azul-cobalto, ocre) para revestimento ou pintura de socos, emolduramento de vãos e cimalhas.
+Art. 22.º Serão permitidos materiais tradicionais (azulejo unicolor, tijoleira, etc.) e cores (azul-cobalto, ocre) para revestimento ou pintura de socos, emolduramento de vãos e cimalhas.
 
-###### Art. 23.º As coberturas serão as recomendadas para unidades industriais, oficinas e armazéns, devendo ser compatíveis com a estrutura das paredes, com ou sem recurso a asnas, mas exclusivamente de cor branca ou de cor de tijolo.
+Art. 23.º As coberturas serão as recomendadas para unidades industriais, oficinas e armazéns, devendo ser compatíveis com a estrutura das paredes, com ou sem recurso a asnas, mas exclusivamente de cor branca ou de cor de tijolo.
 
-###### Art. 24.º As coberturas não deverão ultrapassar o plano vertical que delimita o lote e as águas dos telhados deverão ser drenadas para caixas dentro do terreno a que correspondem.
+Art. 24.º As coberturas não deverão ultrapassar o plano vertical que delimita o lote e as águas dos telhados deverão ser drenadas para caixas dentro do terreno a que correspondem.
 
-###### Art. 25.º A altura do beirado deverá ser de 4,60 m em relação à respectiva cota de soleira, podendo, para os módulos das construções assinalados na planta de síntese por «hM», atingir a altura de 6,50 m.
+Art. 25.º A altura do beirado deverá ser de 4,60 m em relação à respectiva cota de soleira, podendo, para os módulos das construções assinalados na planta de síntese por «hM», atingir a altura de 6,50 m.
 
-###### Art. 26.º As construções com a altura máxima de beirado a 6,50 m poderão corresponder a dois pisos.
+Art. 26.º As construções com a altura máxima de beirado a 6,50 m poderão corresponder a dois pisos.
 
-###### Art. 27.º Os caixilhos dos vãos poderão ser em madeira, ferro, PVC ou alumínio (anodizado ou termolacado), contudo, deverão ser identificados pela mesma cor em cada lote.
+Art. 27.º Os caixilhos dos vãos poderão ser em madeira, ferro, PVC ou alumínio (anodizado ou termolacado), contudo, deverão ser identificados pela mesma cor em cada lote.
 
-###### Art. 28.º As cotas de soleira das construções deverão ter 0,20 m acima da cota média na zona central do lote, permitindo-se acertos no trabalho de campo.
+Art. 28.º As cotas de soleira das construções deverão ter 0,20 m acima da cota média na zona central do lote, permitindo-se acertos no trabalho de campo.
 
-###### Art. 29.º Os muros de vedação devem estar de acordo com o projecto tipo precozinado pela Câmara.
+Art. 29.º Os muros de vedação devem estar de acordo com o projecto tipo precozinado pela Câmara.
 
 § 1.º Pedra aparelhada até 1 m de altura com rede metálica até à altura de 0,80 m, para os lotes ao nível das vias e na separação longitudinal entre os mesmos.
 
 § 2.º Gabiões com pedra da região para suporte de terras em taludes de grande inclinação, para os lotes desnivelados das vias.
 
-###### Art. 30.º Cada lote deverá possuir estacionamento para veículos ligeiros e de mercadorias proporcional à actividade que exerça e ao número de funcionários que possua.
+Art. 30.º Cada lote deverá possuir estacionamento para veículos ligeiros e de mercadorias proporcional à actividade que exerça e ao número de funcionários que possua.
 
-###### Art. 31.º Os pavimentos descobertos deverão ser convenientemente drenados através de sarjetas e câmaras depuradoras, para que não perturbem os lotes circundantes.
+Art. 31.º Os pavimentos descobertos deverão ser convenientemente drenados através de sarjetas e câmaras depuradoras, para que não perturbem os lotes circundantes.
 
-###### Art. 32.º Cerca de 20% da área total do lote deverá ser mantida como área não impermeabilizada e tratada como zona verde, com especial incidência para a sua frente.
+Art. 32.º Cerca de 20% da área total do lote deverá ser mantida como área não impermeabilizada e tratada como zona verde, com especial incidência para a sua frente.
 
-###### Art. 33.º O tipo e as características da vegetação deverão ser aconselhadas pela Câmara para que não prejudiquem o pleno funcionamento da unidade nem se tornem potencialmente perigosas ou ameaçadoras de qualquer acidente.
+Art. 33.º O tipo e as características da vegetação deverão ser aconselhadas pela Câmara para que não prejudiquem o pleno funcionamento da unidade nem se tornem potencialmente perigosas ou ameaçadoras de qualquer acidente.
 
-###### Art. 34.º Os logradouros dos lotes não deverão constituir depósitos de materiais susceptíveis de degradar a paisagem urbana e ou a saúde pública.
+Art. 34.º Os logradouros dos lotes não deverão constituir depósitos de materiais susceptíveis de degradar a paisagem urbana e ou a saúde pública.
 
-###### Art. 35.º Será obrigatória a colocação do número do lote junto aos portões de entrada, com algarismos em metal, cujas dimensões correspondam à inscrição num rectângulo de 0,10 m x 0,20 m.
+Art. 35.º Será obrigatória a colocação do número do lote junto aos portões de entrada, com algarismos em metal, cujas dimensões correspondam à inscrição num rectângulo de 0,10 m x 0,20 m.
 
-###### Art. 36.º Os portões serão em ferro perfilado e para correrem à face exterior do lote.
+Art. 36.º Os portões serão em ferro perfilado e para correrem à face exterior do lote.
 
 ### CAPÍTULO III — Instalação das actividades e sistemas despoluentes
 
-###### Art. 37.º Não será permitida a instalação de indústrias ou actividades consideradas poluentes.
+Art. 37.º Não será permitida a instalação de indústrias ou actividades consideradas poluentes.
 
-###### Art. 38.º Deverão constar do processo de licenciamento análises relativas ao comportamento da actividade a instalar e descrição detalhada das substâncias necessárias à laboração, sob pena de a mesma não ser autorizada.
+Art. 38.º Deverão constar do processo de licenciamento análises relativas ao comportamento da actividade a instalar e descrição detalhada das substâncias necessárias à laboração, sob pena de a mesma não ser autorizada.
 
 § 1.º Os limites de emissão e concentração de poluentes na atmosfera deverão ser os definidos nos anexos ao [Despacho Normativo n.º 29/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1987-662156), de 20 de Março, e o controlo será o preconizado no [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, nomeadamente no seu capítulo IV.
 
@@ -229,7 +295,7 @@ Classe C (área igual ou superior a 534 m2 e igual ou inferior a 1250 m2).
 
 Rede de águas residuais
 
-###### Art. 39.º As ligações à rede pública são encargo dos estabelecimentos industriais, as quais devem ser requeridas à Câmara Municipal de Aljustrel, a quem deverão ser pagos os respectivos custos de instalação.
+Art. 39.º As ligações à rede pública são encargo dos estabelecimentos industriais, as quais devem ser requeridas à Câmara Municipal de Aljustrel, a quem deverão ser pagos os respectivos custos de instalação.
 
 § 1.º O projecto deverá conter informação sobre o caudal de descarga previsto e a previsão de pré-tratamento antes da descarga no colector. As ligações deverão ter em conta a natureza das águas residuais a evacuar, que poderá eventualmente exigir um tratamento prévio, de modo que as características do efluente lançado na rede pública sejam compatíveis com o sistema geral e obedeçam aos parâmetros de fluidos determinados pelo [Decreto-Lei n.º 74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430), de 7 de Março. Sendo esse pré-tratamento da responsabilidade do estabelecimento industrial, as lamas resultantes do referido pré-tratamento são da responsabilidade dos estabelecimentos industriais, os quais devem indicar qual o seu destino final.
 
@@ -241,18 +307,18 @@ Rede de águas residuais
 
 Rede de abastecimento de água
 
-###### Art. 40.º As ligações à rede pública são encargo dos estabelecimentos industriais, as quais devem ser requeridas à Câmara Municipal de Aljustrel, a quem deverão ser pagos os respectivos custos de instalação, utilização e consumo.
+Art. 40.º As ligações à rede pública são encargo dos estabelecimentos industriais, as quais devem ser requeridas à Câmara Municipal de Aljustrel, a quem deverão ser pagos os respectivos custos de instalação, utilização e consumo.
 
-###### Art. 41.º O abastecimento de água deverá processar-se, sempre que possível, a partir da rede pública de distribuição.
+Art. 41.º O abastecimento de água deverá processar-se, sempre que possível, a partir da rede pública de distribuição.
 
 § 1.º O projecto deverá conter informação sobre o consumo previsto.
 
 § 2.º Os estabelecimentos industriais que prevejam consumos de água instantâneos superiores a 0,80 l/s serão responsáveis pela instalação de um sistema que os satisfaça, sem afectar o abastecimento dos restantes estabelecimentos industriais.
 
-###### Art. 42.º A rede de distribuição de água incluirá bocas de serviço de incêndio. O serviço de incêndio só poderá ser manobrado pelo pessoal responsável pela gestão da zona e bombeiros, salvo em casos de reconhecida emergência.
+Art. 42.º A rede de distribuição de água incluirá bocas de serviço de incêndio. O serviço de incêndio só poderá ser manobrado pelo pessoal responsável pela gestão da zona e bombeiros, salvo em casos de reconhecida emergência.
 
 Rede eléctrica
 
-###### Art. 43.º Os lotes que necessitam de rede eléctrica com potência superior a 50 kVA deverão prever na construção área para um posto de transformação privativo (cerca de 15 m2) que cumpra o regulamento de segurança de postos de transformação.
+Art. 43.º Os lotes que necessitam de rede eléctrica com potência superior a 50 kVA deverão prever na construção área para um posto de transformação privativo (cerca de 15 m2) que cumpra o regulamento de segurança de postos de transformação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126b00/34433445.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126b00/34433445.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34433445.pdf)

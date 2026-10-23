@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/641/1994/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/641-1994-298780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b8e12e0ce9351b3f65d5a1a145f15dad320d300151add7762556632258985a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 401a788cb4f9646838d474e8ddadecec2e391dae495a34381f2ace54a1a0fe71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:420209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:38Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +114,10 @@ Manda o Governo, pelos Secretários de Estado da Cultura e do Orçamento, o segu
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 29 de Junho de 1994.**
+Assinada em 29 de Junho de 1994.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/163b00/38643865.pdf))](https://files.diariodarepublica.pt/1s/1994/07/163b00/38643865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/163b00/38643865.pdf)

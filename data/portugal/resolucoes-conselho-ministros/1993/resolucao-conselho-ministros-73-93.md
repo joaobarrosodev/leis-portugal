@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/73/1993/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/73-1993-538003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f03dc343d797cd6cf89ababdfedaf019d1501dee383cbff9dd3ec2d78945e81c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 452560ac8be2d3231db6aaa09f184b73b897f73b1eb1b4ea3fdf3174597a98ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,89 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
 - Plano Director Municipal
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
 - Protecção do Património
 - Regulamento
+- Reserva Ecológica Nacional
 - VALE de Cambra
 relationships:
 - type: amended_by
   target: pt:dre:676802:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676802:por
+  label: "Ratificada a alteração dos arts. 30º e 31º do Regulamento do PDM de Valede Cambra ratificado no presente diploma\
+    \ pela RES.183/97.1997.09.25.PCM, DR.IS-B [250] de 1997.10.28\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/183-1997-676802
+  date: '1997-09-25'
+- type: amended_by
+  target: pt:dre:2289646:por
+  label: "Alterado o Plano Director Municipal ratificado pelo presente diploma pela DECL.240/98(2ªSÉRIE).1998.07.16.DGOTDU-MEPAT,\
+    \ DR.IIS [173] de 29/Jul/1998 \098 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/240-1998-2289646
+  date: '1998-07-16'
+- type: amended_by
+  target: pt:dre:588800:por
+  label: "Alterada na área de intervenção do presente Plano de Pormenor o art.14º e o nº 2 do art. 19º do Regulamento aprovado\
+    \ pelo presente diploma, pela RES.157/2001.2001.09.20.PCM, DR.IS-B [253] de 31/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/157-2001-588800
+  date: '2001-09-20'
+- type: amended_by
+  target: pt:dre:660096:por
+  label: "Ratificadas as alterações dos art.s 19º e 29º do Regulamento bem como na área de intervenção do Plano de Urbanização\
+    \ das plantas de ordenamento e de condicionantes, todos do Plano Director Municipal ratificado pela presente Res, na redacção\
+    \ da Res 183/97, de 28-Out, da Decl 240/98(2ªSérie), de 29-Jul e da Res 157/2001, de 31-Out, pela RES.112/2003.2003.07.16.PCM\
+    \ DR.IS-B [186] de 13/AGO/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/112-2003-660096
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:2654210:por
+  label: "Tornada pública a atualização da Carta de Condicionantes do Plano Diretor Municipal de Vale de Cambra, ratificado\
+    \ pelo presente diploma, na redação da Res 183/97, de 28-Out, da Decl 240/98(2ªSérie), de 29-Jul , da Res 157/2001, de\
+    \ 31-Out e da Res 112/2003, de 13-ago, pelo AV.10368/2012.01.08.2012.MVALE DE CAMBRA, DR.IIS [148] de 01.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10368-2012-2654210
+  date: '2012-08-01'
+- type: amended_by
+  target: pt:dre:58986481:por
+  label: Determinada a suspensão parcial, pelo prazo de dois anos, de disposições do Regulamento do Plano Diretor Municipal
+    de Vale de Cambra, ratificado pelo presente dipoma pelo(a) Resolução do Conselho de Ministros n.º 69/2014 - Diário da
+    República n.º 226/2014, Série I de 2014-11-21,aplicáveis às áreas delimitadas na planta constante do anexo III e estabelecidas
+    medidas preventivas nas mesmas
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/69-2014-58986481
+  date: '2014-11-21'
+- type: amended_by
+  target: pt:dre:73362382:por
+  label: Tornada pública a alteração ao Regulamento do Plano Diretor Municipal de Vale de Cambra ratificado pelo presente
+    diploma pelo(a) Aviso n.º 1065/2016 - Diário da República n.º 20/2016, Série II de 2016-01-29, que o republica na íntegra
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1065-2016-73362382
+  date: '2016-01-29'
+- type: amended_by
+  target: pt:dre:107461519:por
+  label: Tornada pública a aprovação pela Assembleia Municipal de Vale de Cambra da alteração, com incidência direta na Zona
+    Industrial do Rossio, sita na freguesia de Macieira de Cambra e União de Freguesias de Vila Chã, Codal e Vila Cova de
+    Perrinho, dos arts. 5.º, 51.º, 83.º, 89.º, 90.º, bem como a definição de Zonas da Estrada Nacional, constantes do glossário
+    do anexo I e os n.ºs 4 e 7 do Quadro de Referência do anexo II do Regulamento do Plano Diretor Municipal de Vale de Cambra,
+    ratificado pelo presente diploma, com a alteração e republicação efetuadas pelo Av 1065/2016 de 29-jan, pelo(a) Aviso
+    n.º 6257/2017 - Diário da República n.º 107/2017, Série II de 2017-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6257-2017-107461519
+  date: '2017-06-02'
+- type: amended_by
+  target: pt:dre:114908182:por
+  label: Tornada pública a alteração do Plano Diretor Municipal de Vale de Cambra pelo(a) Aviso n.º 3856/2018 - Diário da
+    República n.º 58/2018, Série II de 2018-03-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/3856-2018-114908182
+  date: '2018-03-22'
+- type: amended_by
+  target: pt:dre:127910541:por
+  label: Torna público ter sido aprovado o aditamento do art. 101.º-C ao Regulamento e a alteração da planta de ordenamento
+    e de condicionantes ambos do Plano Diretor Municipal de Vale de Cambra, ratificado pelo presente diploma, na versão republicada
+    pelo Av 1065/2016 de 29-jan, pelo(a) Aviso n.º 434/2020 - Diário da República n.º 6/2020, Série II de 2020-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/434-2020-127910541
+  date: '2020-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -110,16 +180,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1217/1991/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1217/1991/12/24/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
 article_structure:
   article_count: 68
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:51Z'
   warnings: []
   errors: []
 ---
@@ -1036,4 +1158,4 @@ A Câmara manterá uma actualização permanente da carta de condicionantes, nos
 
 O município de Vale de Cambra manterá sempre em condições de poderem ser consultados pelos interessados, dentro das horas normais de funcionamento dos seus serviços, os documentos fundamentais do Plano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/292b00/69867000.pdf))](https://files.diariodarepublica.pt/1s/1993/12/292b00/69867000.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/292b00/69867000.pdf)

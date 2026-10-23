@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/276b00/42924292.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/185/1996/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/185-1996-198907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3cfaa48076edaf9285d243623aa45309be51278d68484e3dc14949bbef42332
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c04418ce38859c250a663c38590239f34550213088417f3cb8f206c93312ab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Sistema de Autoridade Marítima
-- Mar Territorial
-- Política de Defesa
 - Grupo de Trabalho
 - Grupo de Trabalho Interministerial
+- Mar Territorial
 - Ministro da Presidência
+- Política de Defesa
+- Reestruturação de Serviços
 - Segurança Marítima
+- Sistema de Autoridade Marítima
 relationships:
 - type: amended_by
   target: pt:dre:536029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485026:por
+  label: "Prorrogado por quatro meses o mandato do grupo de trabalho e fixada a sua nova composição pela RES.84/98.1998.02.26.PCM,\
+    \ DR.IS-B [157] de 10/Jul/1998 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/84-1998-485026
+  date: '1998-02-26'
+- type: amended_by
+  target: pt:dre:536029:por
+  label: "Extinto o grupo de trabalho pela RES.176/2001.2001.12.05.PCM, DR.IS-B [299] de 28/Dez/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/176-2001-536029
+  date: '2001-12-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:57Z'
   warnings: []
   errors: []
 ---

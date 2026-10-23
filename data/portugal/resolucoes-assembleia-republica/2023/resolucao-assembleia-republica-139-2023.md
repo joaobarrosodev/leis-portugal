@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0002400025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/139/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/139-2023-835674284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:17:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4006f0f87d2edcb0ebb25c9bc319413bc4bd84be6c8af4650b37bfc3616b5ff4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 157f437179701ab89f86504b2dcceafca9dcf4234297501b6d8f4314d740a399
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:17:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
-- Luta contra a Pobreza
+- Bruxelas
 - Convenção
-- Portugal
 - Desenvolvimento Cultural
 - Desenvolvimento Social
+- Luta contra a Pobreza
+- Portugal
 - União Europeia
-- Bruxelas
 relationships:
+- type: amended_by
+  target: pt:dre:835674282:por
+  label: Ratificada a Decisão n.º 3/2021 pelo(a) Decreto do Presidente da República n.º 127/2023 - Diário da República n.º
+    247/2023, Série I de 2023-12-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/127-2023-835674282
+  date: '2023-12-26'
 - type: cites
   target: celex:32019D0003
   label: null
@@ -86,13 +92,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:17:07Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +111,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de novembro de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 DECISÃO N.º 3/2021 DO COMITÉ DE EMBAIXADORES ACP-UE, DE 26 DE NOVEMBRO DE 2021, QUE ALTERA A DECISÃO N.º 3/2019 DO COMITÉ DE EMBAIXADORES ACP-UE, QUE ADOTA MEDIDAS TRANSITÓRIAS NOS TERMOS DO ARTIGO 95.º, N.º 4, DO ACORDO DE PARCERIA ACP-UE
 
@@ -149,4 +155,6 @@ Pelo Conselho de Ministros ACP-UE:
 
 Pelo Comité de Embaixadores ACP-UE:
 
-**O Presidente, Iztok Jarc.**
+O Presidente, Iztok Jarc.
+
+117157861

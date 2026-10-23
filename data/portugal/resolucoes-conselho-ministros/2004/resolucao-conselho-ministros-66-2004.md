@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/2004/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2004-251620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdb612420f324bf36da17f5baa63f4cb63abf6726e1a3425db2bd858f6e25023
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e9a72a46c5698bd49bb27ae310df3e1a837c9f520a46960fea389e493904f8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,89 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
 - Plano Director Municipal
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:520043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541595:por
+  label: "Ratificado o Plano de Pormenor de Loulé-Sul e indicada a alteração, na respectiva área de intervenção, das disposições\
+    \ escritas e gráficas que lhe são contrárias do Plano Director Municipal de Loulé ratificado pela Res 81/95 de 24-Ago,\
+    \ com as alterações introduzidas pelo presente diploma, pela RES.123/2006.31.08.2006.PCM, DR.IS [187] de 27.09.2006 \0\
+    \ \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/123-2006-541595
+  date: '2006-08-31'
+- type: amended_by
+  target: pt:dre:520043:por
+  label: "Suspensos temporariamente os arts. 42º, 44º e 88º do Regulamento do Plano Director Municipal de Loulé, ratificado\
+    \ na Res 81/95 de 24-Ago (com as alterações ratificadas no presente diploma) pelo DR.40/2007.09.04.2007.MAOTDR, DR.IS\
+    \ [69] de 09.04.2007, na área identificada em planta anexa àquele diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/40-2007-520043
+  date: '2007-04-09'
+- type: amended_by
+  target: pt:dre:3609020:por
+  label: Tornado público a aprovação da alteração dos arts. 2.º, 14.º, 38.º, 39.º, 40.º, 43.º, 44.º, 51.º, 54.º, 60.º, 63.º
+    e 88.º; do aditamento dos arts. 63.º -A, 63.º -B, 63.º -C, 63.º -D, 63.º -E, 63.º -F, 63.º -G, 63.º -H, 63.º -I, 63.º
+    -J, 88.º -A, 88.º -B, 88.º -C, 88.º -D, 88.º -E, 88.º -F; da revogação dos n.ºs 4, 5 e 6 do art. 39.º, das als. d) e e)
+    do n.º 2 do art. 40.º, das als. a), b), c) e d) do n.º 1 do art. 43.º, dos arts. 46.º, 58.º, 59.º, 61.º e 62.º, do Cap.
+    I do Tít. III; da renumeração dos caps. do tit. V — Disposições Complementares, sendo que o cap. III — Outras Utilizações,
+    passou a cap. IV com a mesma designação, o cap. IV — Mecanismos de perequação compensatória, passou a cap. V com a mesma
+    redação e o novo Cap. III reporta -se agora à Edificabilidade na faixa costeira do litoral, todos do regulamento Plano
+    Diretor Municipal de Loulé, ratificado pela Res 81/95 de 24-ago, com as alterações e republicação ratificadas pelo presente
+    diploma; bem como tornado público serem mantidas as exclusões de ratificação pelo presente diploma, do n.º 2 do art. 39.º,
+    do n.º 2 do art. 43.º e dos n.ºs 4, 5, 6 do art. 51.º daquele Regulamento, e da área assinalada na planta de condicionantes
+    do PDM de Loulé, - e a revogação das delimitações na planta de ordenamento das UOPG - Unidades Operativas de Planeamento
+    e Gestão, das AAT - Áreas de Aptidão Turística e ainda das Áreas de Edificação Dispersa a Conter (conforme as als. d),
+    e) e f) do n.º 3 do PROT Algarve, aprovado pela Res 102/2007 de 03-ago da PCM), pelo(a) Aviso n.º 5374/2008 - Diário da
+    República n.º 41/2008, Série II de 2008-02-27, que republicou em anexo o Regulamento, na redação atual.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5374-2008-3609020
+  date: '2008-02-27'
+- type: amended_by
+  target: pt:dre:2785791:por
+  label: Tornado pública a aprovação da alteração dos arts. 14.º e 33.º do Regulamento do Plano Diretor Municipal de Loulé,
+    ratificado pela Res 81/95 de 24-ago da PCM, com as alterações e republicação ratificadas pelo presente diploma, pelo(a)
+    Aviso n.º 14022/2010 - Diário da República n.º 135/2010, Série II de 2010-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14022-2010-2785791
+  date: '2010-07-14'
+- type: amended_by
+  target: pt:dre:1500240:por
+  label: "Tornado público ter sido aprovada, por deliberação da Assembleia Municipal de Loulé, a alteração, por adaptação,\
+    \ dos arts. 14º, 29º e 33º do Regulamento do Plano Diretor Municipal de Loulé, ratificado pela Res 81/95 de 24 de ago\
+    \ da PCM, com as alterações ratificadas pelo presente diploma, pelo AV.10590/2013.27.08.2013.MLOULÉ, DR.IIS [164] de 27.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10590-2013-1500240
+  date: '2013-08-27'
+- type: amended_by
+  target: pt:dre:107617677:por
+  label: 'Tornado público ter sido aprovada a alteração dos arts. 2.º, 6.º, 7.º, 11.º, 14.º, 17.º, 18.º, 20.º, 24.º, 27.º,
+    28.º, 29.º, 32.º, 33.º, 34.º, 35.º, 37.º, 38.º, 43.º, 44.º, 47.º, 48.º, 49.º, 50.º, 53.º, 54.º, 55.º, 63.º-I, 65.º, 67.º,
+    do capítulo VI do título IV; dos arts. 71.º, 72.º,73.º, 74.º, 76.º, 77.º, 78.º, 79.º, 80.º, 81.º e 82.º, do cap. XVIII
+    do tít. IV, dos arts. 83.º,84.º, 85.º, 86.º, 87.º, 90.º, 91.º, 92.º e 93.º e do anexo I; o aditamento do art. 20.º-A,
+    do cap. VI do tit. V e do art. 92.º (este com entrada em vigor nos termos do disposto no art. 5.º do Av 7430/2017); a
+    revogação do n.º 3 (E4) do art. 34.º, do n.º 2 do art. 37.º, das als. e) e f) do n.º 1 e o n.º 2, ambos do art. 43.º,
+    dos n.ºs 2 a 10 do art. 65.º, do art. 66.º, dos n.ºs 2 e 3 do art. 72.º,dos n.ºs 4 e 5 do art. 73.º, das als. a) e b)
+    do n.º 1 do art. 77.º, da al. a) do n.º 1 do art. 89.º; a renumeração dos arts. 92.º e 93.º do Título VI - Disposições
+    finais, tendo o anterior art. 92.º passado a art. 93.º e o anterior art. 93.º a 94.º, mantendo as respetivas epígrafes
+    e redações, todos do Regulamento do Plano Diretor Municipal de Loulé, ratificado pela Res 81/95 de 24-ago da PCM, com
+    as alterações ratificadas pelo presente diploma, pelo(a) Aviso n.º 7430/2017 - Diário da República n.º 126/2017, Série
+    II de 2017-07-03, que republicou o Regulamento em anexo, na redação atual; bem como tornou público serem mantidas em vigor:
+    - as revogações, introduzidas pela alteração por adaptação, publicada através do AV 5374/2008, de 27-fev, dos n.ºs 4,
+    5 e 6 do art. 39.º, das als. d) e e) do n.º 2 do art. 40.º, das als. a), b), c) e d) do n.º 1 do art. 43.º, dos arts.
+    46.º, 58.º, 59.º, 61.º e 62.º, assim como do cap. I do tít. III, todos do citado regulamento, - as exclusões de ratificação
+    aprovadas pela presente resolução, do n.º 2 do art. 39.º, do n.º 2 do art. 43.º e dos n.ºs 4, 5, 6 do art. 51.º daquele
+    Regulamento, e exclusão da área assinalada na planta de condicionantes do PDM de Loulé, - e a revogação das delimitações
+    na planta de ordenamento das UOPG - Unidades Operativas de Planeamento e Gestão, das AAT - Áreas de Aptidão Turística
+    e ainda das Áreas de Edificação Dispersa a Conter (conforme as als. d), e) e f) do n.º 3 do PROT Algarve, aprovado pela
+    Res 102/2007 de 03-ago da PCM).'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7430-2017-107617677
+  date: '2017-07-03'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -86,15 +158,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1992/43/oj
 article_structure:
-  article_count: 94
-  section_count: 71
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 93
+  section_count: 65
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:09Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +223,7 @@ Presidência do Conselho de Ministros, 6 de Maio de 2004. - O Primeiro-Ministro,
 
 REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DE LOULÉ
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais, utilização e definições
 
@@ -333,7 +405,7 @@ Arruamentos e outros espaços livres de uso público cobertos pela edificação;
 
 2.39 - «Zona non aedificandi» - zona onde é proibido qualquer tipo de edificação.
 
-## TÍTULO II
+TÍTULO II
 
 Classificação e qualificação do solo
 
@@ -1347,7 +1419,7 @@ Correspondem a corredores activados por infra-estruturas e que têm o efeito de 
 
 2 - Os espaços-canais correspondentes aos corredores de protecção constituem áreas non aedificandi.
 
-## TÍTULO III
+TÍTULO III
 
 Unidades operativas de planeamento e gestão
 
@@ -1455,7 +1527,7 @@ Resolução inequívoca do abastecimento de água;
 
 Recolha e tratamento do abastecimento dos efluentes domésticos autonomamente.
 
-## TÍTULO IV
+TÍTULO IV
 
 Condicionantes, servidões administrativas e outras restrições de utilidade pública
 
@@ -1615,7 +1687,7 @@ Decreto n.º 23122, de 11 de Outubro de 1933;
 
 Lei n.º 2032, de 11 de Junho de 1949;
 
-###### Artigo 124.º do Regulamento Geral das Edificações Urbanas;
+Artigo 124.º do Regulamento Geral das Edificações Urbanas;
 
 Lei n.º 107/2001, de 8 de Setembro (lei de bases da política e do regime de protecção - valorização do património cultural);
 
@@ -1837,7 +1909,7 @@ Dever-se-á ter em conta o disposto na Directiva n.º [79/409/CEE](http://data.e
 
 2 - A Rocha da Pena e a Fonte da Benémola são sítios classificados pelo Decreto-Lei n.º 392/91, de 10 de Outubro.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições complementares
 
@@ -2025,7 +2097,7 @@ d) Nos espaços naturais e litoral do concelho (sul da EN 125).
 
 Nos planos de pormenor deverão aplicar-se os mecanismos de perequação compensatória, nos termos definidos no Decreto-Lei n.º 380/99, de 22 de Setembro.
 
-## TÍTULO VI
+TÍTULO VI
 
 Disposições finais
 

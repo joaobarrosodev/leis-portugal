@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/303/1994/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/303-1994-262583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f17ad0a3bc4b9a209e76f2594854a61ab5f10f9a6967ab1b5fb8064bfc64eca0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07fbd1bd6fc230e0bac506ae61447aa25f11386b6c4c314ba9e0e6326bdd8409
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Contrato de Seguro
 - Empresa
-- Administração de Portos
+- Exploração Portuária
 - Operador Portuário
 - Regime Jurídico
-- Exploração Portuária
 - Seguro Obrigatório de Responsabilidade Civil
 - Trabalho Portuário
 relationships:
@@ -78,16 +78,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1993/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1993/08/28/p/dre
+- type: cites
+  target: pt:dre:631864:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:22Z'
   warnings: []
   errors: []
 ---
@@ -140,6 +144,6 @@ b) Multas ou coimas de qualquer natureza, assim como todas as despesas em proces
 
 Ministérios das Finanças e do Mar.
 
-**Assinada em 28 de Abril de 1994.**
+Assinada em 28 de Abril de 1994.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.

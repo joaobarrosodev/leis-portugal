@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 108/2010, 1º Suplemento, Série I de 2010-06-04
   number: '108'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1920-(2) a 1920-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/39-b/2010/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-b-2010-167406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2750eb5a774b5bee6b8dd489fee77e766b2bb4adc386fd3a3f724ec25419ce71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb2d4dca4815b7c4650b891879ba0a08b284d3396e690e6027b0900d5fc93e1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Inspeção Geral de Finanças
-- Multa
+- ÁREA de Serviço
+- Auto-estrada
+- Auto-estrada da Beira Litoral- Beira ALTA
 - Contrato de Concessão
 - Expropriação
+- Financiamento
 - Fiscalização
-- Ministro das Finanças
-- Auto-estrada
-- Propriedade Industrial
+- Inspeção Geral de Finanças
+- Instituto de Infra-Estruturas Rodoviárias
 - LUSOSCUT
+- Ministro das Finanças
+- Ministro das Obras Públicas Transportes e Comunicações
+- Multa
 - Portagem
-- ÁREA de Serviço
 - Preço
+- Propriedade Industrial
 - Propriedade Intelectual
 - Responsabilidade Civil
 - Responsabilidade Criminal
 - Responsabilidade Extracontratual
 - Sanção
-- Auto-estrada da Beira Litoral- Beira ALTA
-- Ministro das Obras Públicas Transportes e Comunicações
-- Instituto de Infra-Estruturas Rodoviárias
 relationships:
 - type: amended_by
   target: pt:dre:69736236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69736236:por
+  label: Aprovada a minuta do contrato de alteração à minuta do contrato de concessão aprovada pela Res 40-A/2001 de 24-abr,
+    na redação do presente diploma, pelo(a) Resolução do Conselho de Ministros n.º 45-D/2015 - Diário da República n.º 130/2015,
+    1º Suplemento, Série I de 2015-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/45-d-2015-69736236
+  date: '2015-07-07'
 - type: cites
   target: celex:32004L0018
   label: null
@@ -100,13 +107,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:33Z'
   warnings: []
   errors: []
 ---
@@ -305,47 +312,47 @@ hhh) TMDA - o tráfego médio diário anual.
 
 2.1 - Fazem parte integrante do presente contrato, para todos os efeitos legais e contratuais, os seus anexos e respectivos apêndices, organizados da forma seguinte:
 
-## Anexo 1: Contrato de Projecto e Construção;
+Anexo 1: Contrato de Projecto e Construção;
 
-## Anexo 2: Contratos de Financiamento;
+Anexo 2: Contratos de Financiamento;
 
-## Anexo 3: Lista dos Contratos do Projecto;
+Anexo 3: Lista dos Contratos do Projecto;
 
-## Anexo 4: Composição do Agrupamento e estrutura accionista da Concessionária;
+Anexo 4: Composição do Agrupamento e estrutura accionista da Concessionária;
 
-## Anexo 5: Pacto social da Concessionária;
+Anexo 5: Pacto social da Concessionária;
 
 ## Anexo 6: Acordo de Subscrição;
 
-## Anexo 7: Acordo Parassocial;
+Anexo 7: Acordo Parassocial;
 
 ## Anexo 8: Programa de Trabalhos;
 
-## Anexo 9: Declaração dos accionistas da Concessionária sobre a oneração de acções;
+Anexo 9: Declaração dos accionistas da Concessionária sobre a oneração de acções;
 
 ## Anexo 10: Caso Base;
 
-## Anexo 11: Garantias bancárias;
+Anexo 11: Garantias bancárias;
 
 ## Anexo 12: Programa de seguros;
 
-## Anexo 13: Acordo Directo referente ao Contrato de Projecto e Construção;
+Anexo 13: Acordo Directo referente ao Contrato de Projecto e Construção;
 
-## Anexo 14: Condições de intervenção das Entidades Financiadoras;
+Anexo 14: Condições de intervenção das Entidades Financiadoras;
 
-## Anexo 15: Definição dos Sublanços;
+Anexo 15: Definição dos Sublanços;
 
-## Anexo 16: Garantias relativas aos Lanços já construídos;
+Anexo 16: Garantias relativas aos Lanços já construídos;
 
-## Anexo 17: Estrutura Accionista Actual da Concessionária;
+Anexo 17: Estrutura Accionista Actual da Concessionária;
 
-## Anexo 18: Critérios Chave da reposição do equilíbrio financeiro;
+Anexo 18: Critérios Chave da reposição do equilíbrio financeiro;
 
-## Anexo 19: Contratos de Operação e Manutenção e de assistência técnica;
+Anexo 19: Contratos de Operação e Manutenção e de assistência técnica;
 
-## Anexo 20: Acordo directo referente ao Contrato de Operação e Manutenção;
+Anexo 20: Acordo directo referente ao Contrato de Operação e Manutenção;
 
-## Anexo 21: Tarifas diárias de disponibilidade.
+Anexo 21: Tarifas diárias de disponibilidade.
 
 2.2 - Na interpretação, integração ou aplicação de qualquer disposição do presente contrato devem ser consideradas as disposições dos documentos que nele se consideram integrados nos termos do número anterior e que tenham relevância na matéria em causa, e vice-versa.
 
@@ -721,7 +728,7 @@ Sem prejuízo dos poderes cometidos a outras entidades, sempre que no presente c
 
 31.1 - As datas limite de entrada em serviço de cada um dos Lanços referidos na cláusula 5.1 são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 31.2 - As datas de entrada em serviço efectivo e as datas de início da construção ou da duplicação de cada um dos Lanços referidos no número anterior constam do Programa de Trabalhos.
 
@@ -1171,7 +1178,7 @@ b) O fornecimento de dados, em tempo real, para sistemas de controlo e gestão d
 
 As classes de veículos que os equipamentos descritos nas cláusulas anteriores devem permitir classificar são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 55 - Operação e manutenção:
 
@@ -1339,15 +1346,15 @@ k) As alterações nas condições das apólices de seguros.
 
 67.1 - A Concessionária recebe uma remuneração anual calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 67.2 - Como contrapartida pelo desenvolvimento das actividades previstas nas cláusulas 5.1 e 5.2, a Concessionária recebe uma remuneração anual pela disponibilidade calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 67.3 - O montante total das deduções a efectuar em cada ano, a que se refere a cláusula 67.1, é calculado de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 67.4 - Considera-se existir uma falha de disponibilidade quando alguma das condições de indisponibilidade definidas nas cláusulas 67.15 a 67.18 se verificar.
 
@@ -1355,15 +1362,15 @@ k) As alterações nas condições das apólices de seguros.
 
 a) O índice de sinistralidade da Concessão calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 b) O índice de sinistralidade de todas as concessões com portagem real calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 c) O índice de sinistralidade ponderado calcula-se nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 67.6 - Sempre que se verifique:
 
@@ -1375,11 +1382,11 @@ b) IS(índice t) (Conc) (maior que) IS(índice t) (ponderado), o Concedente dedu
 
 a) Incremento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 b) Dedução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 67.8 - Para efeitos do cálculo do índice de sinistralidade previsto nos números anteriores, não são considerados os Sublanços relativamente aos quais o Concedente opte por não proceder à realização de um alargamento na data em que tal alargamento deva ocorrer, nos termos do disposto na cláusula 39.ª
 
@@ -1429,7 +1436,7 @@ iv) Os sistemas de ventilação de túneis e outros equipamentos integrantes da 
 
 67.18 - O montante relativo às falhas de disponibilidade corresponde à soma das deduções diárias a aplicar, sendo cada uma delas calculada de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 67.19 - Ocorrendo um alargamento de um Sublanço, nos termos da cláusula 39.ª, devem ser revistos:
 
@@ -1769,7 +1776,7 @@ j) Actividade fraudulenta destinada a lesar o interesse público.
 
 83.3 - No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes do presente contrato, sendo entregues ao Concedente todos os bens que constituem o Estabelecimento da Concessão, em estado que satisfaça as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10801/0000200033.pdf)
 
 Todos os bens não contemplados no quadro anterior devem ser entregues em estado que garanta 50 % (cinquenta por cento) da vida útil de cada um dos seus componentes.
 

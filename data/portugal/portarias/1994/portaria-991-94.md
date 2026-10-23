@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/258b00/67556755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/991/1994/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/991-1994-535020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25f65a277f24a21ff5275f21e856374fa81511e84579c2faa9b24c23b57d59a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c80fad144b2e45ae97b1865c97ee9d86da8a6c7d79776ba3e23cd78e72597f6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:352359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:352359:por
+  label: "Extinta a concessão do regime cinegético especial atribuída pela Port 712/88 de 27-Out DR.IS [249] e renovada pelo\
+    \ presente diploma, pela PORT.544/99.1999.07.24.MADRP, DR.IS-B [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/544-1999-352359
+  date: '1999-07-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +87,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-q7/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-q7/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617924:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADA PELA PORT 816/95 DE 13-JUL DR.IS-B [160]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:16Z'
   warnings: []
   errors: []
 ---
@@ -107,8 +126,8 @@ Manda o Governo, pelo Ministro da Agricultura, que seja renovada, por um períod
 
 Ministério da Agricultura.
 
-**Assinada em 17 de Outubro de 1994.**
+Assinada em 17 de Outubro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/258b00/67556755.pdf))](https://files.diariodarepublica.pt/1s/1994/11/258b00/67556755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/258b00/67556755.pdf)

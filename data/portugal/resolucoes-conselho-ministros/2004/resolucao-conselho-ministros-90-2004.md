@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/160b00/41534156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/90/2004/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-2004-528386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79c6f04517e176b012e606c28a85e0efe3b3ba531434fb5d3432cfc631e24521
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c14ba726831a15a2c1ac11b95c5cad30789246e3ec9520601d4682450191ea8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
 - Monforte
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:70170153:por
+  label: Tornada pública a revogação do Plano de Urbanização de Assumar, ratificado pelo presente diploma, pelo(a) Edital
+    n.º 822/2015 - Diário da República n.º 171/2015, Série II de 2015-09-02, nos termos do disposto no art. 39.º do Regulamento
+    do PDM de Monforte por ele publicado.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/edital/822-2015-70170153
+  date: '2015-09-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
   label: null
@@ -89,16 +96,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/176/1995/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/176/1995/12/20/p/dre
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644083:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572666:por
+  label: "Revogadas no atinente ao aglomerado urbano de Santo Aleixo as disposições do Plano Director Municipal de Monforte\
+    \ ratificado pela Res 176/95 de 20-Dez e alterado pelo presente diploma, pela RES.67/2005.27.01.2005.PCM, DR.IS-B [53]\
+    \ de 16.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/67-2005-572666
+  date: '2005-01-27'
 article_structure:
   article_count: 33
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:17Z'
   warnings: []
   errors: []
 ---

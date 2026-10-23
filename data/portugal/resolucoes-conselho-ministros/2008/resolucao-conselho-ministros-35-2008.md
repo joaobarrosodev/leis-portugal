@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/35/2008/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-2008-247719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10ed6de16e07efae401e314a2f49bc37a87038a62f1726701023e950a4281a47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4ee661474435332ac652794e0333f12746b77c7d2321851ea37758b6264964d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arcos de Valdevez
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:69955481:por
+  label: Aprovada a alteração da delimitação da Reserva Ecológica Nacional do município de Arcos de Valdevez constante do
+    presente diploma pelo(a) Aviso n.º 8565/2015 - Diário da República n.º 152/2015, Série II de 2015-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8565-2015-69955481
+  date: '2015-08-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/180/2006/09/06/p/dre
   label: null
@@ -91,16 +97,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/152/1996/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/152/1996/09/12/p/dre
+- type: cites
+  target: pt:dre:220165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645096:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:39Z'
   warnings: []
   errors: []
 ---
@@ -127,4 +161,4 @@ Ao abrigo do disposto no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/d
 
 Presidência do Conselho de Ministros, 31 de Janeiro de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0119301204.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0119301204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0119301204.pdf)

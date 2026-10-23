@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/161/2001/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/161-2001-604838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 834e1692d7fb85f21ee4a3d1629aa2808a49eb8ec77ed7ba31166d4d36419c4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1303fc15534710c9e609c207ad505782680526bb2c6ea07d91c5cb06a24bd7ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Matadouro
-- Armazenagem
-- Gestão de Resíduos
-- Doença Animal
-- BSE
-- Saúde Pública
-- Exploração Pecuária
-- Incineração de Resíduos
 - Abate de Animais
-- Proteção do Ambiente
+- Armazenagem
+- BSE
+- Doença Animal
 - Eliminação de Resíduos
+- Exploração Pecuária
+- Gestão de Resíduos
+- Incineração de Resíduos
+- Matadouro
 - Produto Animal
+- Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31975L0442
@@ -130,13 +130,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:41Z'
   warnings: []
   errors: []
 ---
@@ -403,7 +403,7 @@ Neste seguimento foram testadas as alternativas de incineração em unidades de 
 
 Das opções testadas algumas foram de momento afastadas, quer em virtude de problemas técnicos detectados, a que se alude, nomeadamente, no capítulo 5 deste plano, quer por se tornarem impraticáveis devido a restrições impostas por legislação entretanto adoptada (caso da exportação para incineração).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 Fig. 1 - Locais de produção, transformação e armazenagem de farinhas e gorduras
 
@@ -453,7 +453,7 @@ QUADRO N.º 1
 
 Tipos de tratamento utilizados em países europeus
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 Fonte: (ver nota 3)(ver nota 4)
 
@@ -475,7 +475,7 @@ QUADRO N.º 2
 
 Composição média das farinhas e da gordura, comparada com a do carvão e a de RSU
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 Fonte: (ver nota 4)
 
@@ -501,7 +501,7 @@ QUADRO N.º 3
 
 Energia de combustão de várias matérias
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 Fonte: (ver nota 1)
 
@@ -653,7 +653,7 @@ A opção pela deposição em aterro justifica-se uma vez que o método de farin
 
 Desta forma, apenas deverão ser depositadas em aterro as farinhas de SUBP e de MTE transformadas pelo método previsto na Decisão n.º [1999/534/CE](http://data.europa.eu/eli/dec/1999/534/oj?locale=pt) que se encontram actualmente armazenadas, bem como as que forem sendo produzidas até à entrada em funcionamento de uma unidade de valorização energética que viabilize o seu tratamento.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 Fig. 2 - Localização dos matadouros de mamíferos e das unidades de transformação de aves face aos sistemas de gestão de RSU e respectivos aterros
 
@@ -685,7 +685,7 @@ De facto, para todos os efeitos, as farinhas de MTE, desde que transformadas pel
 
 Assim, a co-incineração afigura-se como uma operação de valorização viável para as farinhas de SUBP e de MTE transformadas, devendo, no entanto, ter-se em consideração as condicionantes de ordem técnica já enunciadas no n.º 5.1.1.2 deste plano, nomeadamente as relativas aos teores máximos admissíveis de gordura nas farinhas.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 Fig. 3 - Localização das unidades cimenteiras face às unidades de transformação
 
@@ -737,7 +737,7 @@ QUADRO N.º 4
 
 Estratégias de gestão para as farinhas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 MTE pré-tratadas: farinhas de MTE pré-tratadas antes da adopção do método de transformação previsto na Decisão n.º [1999/534/CE](http://data.europa.eu/eli/dec/1999/534/oj?locale=pt).
 
@@ -747,7 +747,7 @@ QUADRO N.º 5
 
 Estratégias de gestão para as gorduras
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 MTE pré-tratadas: gorduras de MTE pré-tratadas antes da adopção do método de transformação previsto na Decisão n.º [1999/534/CE](http://data.europa.eu/eli/dec/1999/534/oj?locale=pt).
 
@@ -761,7 +761,7 @@ QUADRO N.º 1
 
 Quantidades de farinhas de carne e ossos de mamíferos e aves armazenadas em 30 de Junho de 2001 (toneladas)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 Fonte: (ver nota 2)
 
@@ -769,7 +769,7 @@ QUADRO N.º 2
 
 Quantidades de gordura armazenada (30 de Junho de 2001)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/72837297.pdf)
 
 Fonte: (ver nota 2)
 

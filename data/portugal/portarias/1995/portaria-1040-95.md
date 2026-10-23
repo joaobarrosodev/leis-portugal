@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1040/1995/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1040-1995-432209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91b16e4fc7a7c7874c7837e286da01afe5b6e10ebe525b2a39acf36af092fb85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a2719cd49931a397d7870ae6e1506bc6a9a3e7eda5bcc74f0e701927166501e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,40 @@ relationships:
   target: pt:dre:629110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516014:por
+  label: "Renovada a concessão da zona de caça criada pelo presente diploma, pela PORT.1037/2001.2001.08.23.MADRP DR.IS-B\
+    \ [195] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1037-2001-516014
+  date: '2001-08-23'
+- type: amended_by
+  target: pt:dre:629110:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça criada pela Port 688/89,de 12-Ago, renovada pelo\
+    \ presente diploma, pela PORT.1376/2007.23.10.2007.MADRP, DR.IS [204] de 23.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1376-2007-629110
+  date: '2007-10-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:337012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:26Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +134,6 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Agosto de 1995.**
+Assinada em 7 de Agosto de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/171b00/41434149.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/698/1994/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/698-1994-230120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8717bc957dcff965fd4dffa5a6a77e06a17cd6d29f40fe6580611c1d28fb32a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 723de811ca81ee2169a5f8c2e05df2c7b387edb7fc45fa304080c5a6f863f45a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,40 @@ relationships:
   target: pt:dre:209843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUM 8 PELA PORT 1336/95 DE 10-NOV DR.IS-B [260]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS VALORES FIXADOS NOS ANEXOS II, III, IV E V PELA PORT 393/96 DE 21-AGO DR.IS-B [193]\0.IS-B [193]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-21'
 - type: cites
   target: celex:31992R2078
   label: null
   source: http://data.europa.eu/eli/reg/1992/2078/oj
+- type: repealed_by
+  target: pt:dre:658703:por
+  label: "Revogado o nº 3 do nº 4º pela Port 1036/97.1997.10.01.MADRP, DR.IS-B [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1036-1997-658703
+  date: '1997-10-01'
+- type: repealed_by
+  target: pt:dre:209843:por
+  label: "Revogada pela PORT.85/98.1998.02.19.MADRP, DR.IS-B [42], com a redacção conferida pela Port 1036/97 de 01-Out\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-1998-209843
+  date: '1998-02-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:57Z'
   warnings: []
   errors: []
 ---
@@ -260,8 +280,8 @@ Os anexos I a VI fazem parte integrante do presente diploma.
 
 Ministérios da Agricultura e do Ambiente e Recursos Naturais.
 
-**Assinada em 7 de Julho de 1994.**
+Assinada em 7 de Julho de 1994.
 
-**O Ministro da Agricultura, António Duarte Silva. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Agricultura, António Duarte Silva. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/171b00/41434149.pdf))](https://files.diariodarepublica.pt/1s/1994/07/171b00/41434149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/171b00/41434149.pdf)

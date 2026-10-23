@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/41/2003/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2003-232953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62c47e8bb1bf096c99718d5b1f518b15bbcf683ff3ec4291a6928d31f7b5ff01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92e6cf1b2f91ef402a091f5d05a073880da1613a0a11faec92e0ede55a94fcd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,29 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Plano Director Municipal
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:2227449:por
+  label: "Tornado público ter sido aprovada, por deliberação de 29.11.2011 da Assembleia Municipal de Góis, a alteração dos\
+    \ arts 10º, 15º, 18º, 19º e 36º do Regulamento do Plano Diretor Municipal de Góis, ratificado parcialmente pelo presente\
+    \ diploma, pelo AV.3990/2012.13.03.2012.MGÓIS, DR.IIS [52] de 13.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/3990-2012-2227449
+  date: '2012-03-13'
+- type: amended_by
+  target: pt:dre:67429552:por
+  label: Dada nova redação ao n.º 2 do art. 51.º do Regulamento do Plano Diretor Municipal de Góis, ratificado parcialmente
+    pela presente, pelo(a) Declaração de Retificação n.º 460/2015 - Diário da República n.º 110/2015, Série II de 2015-06-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/460-2015-67429552
+  date: '2015-06-08'
+- type: amended_by
+  target: pt:dre:108010824:por
+  label: Tornada pública a aprovação da alteração aos arts. 35.º e 36.º do Regulamento do Plano Diretor Municipal de Góis
+    pelo(a) Aviso n.º 9441/2017 - Diário da República n.º 158/2017, Série II de 2017-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9441-2017-108010824
+  date: '2017-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre
   label: null
@@ -91,16 +110,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1136/2001/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1136/2001/09/25/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649769:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
+  article_count: 63
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:21Z'
   warnings: []
   errors: []
 ---
@@ -197,11 +256,13 @@ Finanças locais (programação financeira).
 
 4 - Constituem anexo ao presente Regulamento os seguintes elementos:
 
-## Anexo n.º 1 - Identificação dos espaços naturais;
+Anexo n.º 1 - Identificação dos espaços naturais;
 
-## Anexo n.º 2 - Identificação dos espaços culturais;
+Anexo n.º 2 - Identificação dos espaços culturais;
 
-## Anexo n.º 3 - Definições. — Artigo 2.º
+## Anexo n.º 3 - Definições.
+
+###### Artigo 2.º
 
 Revisão
 
@@ -449,13 +510,13 @@ QUADRO N.º 1
 
 Edificabilidade - Zonas da vila de Góis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 QUADRO N.º 2
 
 Edificabilidade - Zonas industriais urbanas da vila de Góis e indústrias compatíveis com a habitação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 3.1 - Os projectos de loteamento a elaborar para as zonas de expansão por colmatação para habitação unifamiliar podem ser dispensados das áreas de cedência gratuita à Câmara Municipal de parcelas de terreno para equipamentos públicos e para espaços verdes públicos e de utilização colectiva, de acordo com a lei vigente.
 
@@ -501,7 +562,7 @@ QUADRO N.º 3
 
 Parâmetros urbanísticos a considerar na elaboração dos planos de pormenor da vila de Góis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 5.2 - Os edifícios isolados existentes nas zonas de expansão sujeitas a plano de pormenor poderão sofrer, enquanto o plano de pormenor não estiver elaborado e aprovado, obras de demolição, conservação, remodelação e ampliação desde que não comprometam o desenvolvimento futuro da zona e respeitem os parâmetros urbanísticos definidos no quadro n.º 3 do presente Regulamento.
 
@@ -535,13 +596,13 @@ QUADRO N.º 4
 
 Critérios para lugares de estacionamento na vila de Góis e nas aldeias com delimitação de zonas, com excepção do centro histórico, das zonas antigas e das zonas de habitação consolidada
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 QUADRO N.º 5
 
 Critérios para lugares de estacionamento nas aldeias sem delimitação de zonas, no centro histórico, nas zonas antigas e nas zonas de habitação consolidada da vila de Góis e das aldeias com delimitação de zona antiga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 ###### Artigo 12.º
 
@@ -665,13 +726,13 @@ QUADRO N.º 6
 
 Edificabilidade - Zonas das aldeias
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 QUADRO N.º 7
 
 Parâmetros urbanísticos a considerar na elaboração dos planos de pormenor ou operações de loteamento na Várzea Grande e em Cortes
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 ###### Artigo 17.º
 
@@ -935,7 +996,7 @@ QUADRO N.º 8
 
 Edificabilidade nos espaços agrícolas e florestais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 ###### Artigo 37.º — Áreas de riscos de incêndios
 
@@ -1127,13 +1188,13 @@ QUADRO N.º 9
 
 Servidões non aedificandi e excepções nos espaços-canais integrantes da rede rodoviária municipal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 QUADRO N.º 10
 
 Implantações condicionadas a afastamentos mínimos relativamente aos espaços-canais integrantes da rede rodoviária municipal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19481979.pdf)
 
 ###### Artigo 55.º — Parques de sucata e de materiais ou objectos inorgânicos incluindo veículos automóveis inutilizados
 

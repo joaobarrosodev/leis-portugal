@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/220b00/56805681.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/849/1994/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/849-1994-604462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6f1254603b745f0133d841611fcfce66580626eccab9a0435e1244d9ee28943
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6323dfb508c27730bf7fbcfa951344eb936551306833fc09d1a2a5e2a6cf6bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Código da Estrada
-- Multa
 - Contra-ordenação
-- Veículo
-- Segurança Rodoviária
 - Equipamento de Veículo
+- Multa
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:383015:por
@@ -81,16 +81,22 @@ relationships:
   target: celex:31991L0671
   label: null
   source: http://data.europa.eu/eli/dir/1991/671/oj
+- type: repealed_by
+  target: pt:dre:383015:por
+  label: "Revogada, a partir da entrada em vigor, pela PORT.311-A/2005.24.03.2005.MAI, DR.IS-B [59-2ºSupl] de 24.03.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-a-2005-383015
+  date: '2005-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:43Z'
   warnings: []
   errors: []
 ---
@@ -147,8 +153,8 @@ b) 5000$00 a 25000$00, a não exibição, no momento da fiscalização, do atest
 
 Ministério da Administração Interna.
 
-**Assinada em 5 de Setembro de 1994.**
+Assinada em 5 de Setembro de 1994.
 
-**O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.**
+O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/220b00/56805681.pdf))](https://files.diariodarepublica.pt/1s/1994/09/220b00/56805681.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/220b00/56805681.pdf)

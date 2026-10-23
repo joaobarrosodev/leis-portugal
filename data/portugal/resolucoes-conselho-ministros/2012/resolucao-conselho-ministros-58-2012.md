@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/58/2012/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2012-178481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 390410094e72442612e555bf1787d62bbecdecf95abe5e8e8f25271f08dd6bfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68483c836abd6d5bd4a042e312f6328909a94baeec26604bf8b00b114a3c25d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- Contrato
 - Apoio ao Investimento
-- Projeto de Investimento
 - Benefícios Fiscais
+- Contrato
 - IAPMEI
+- Projeto de Investimento
 relationships:
 - type: amended_by
   target: pt:dre:105687065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70241305:por
+  label: Determinada, com produção de efeitos a 03.09.2015, a resolução do contrato de investimento e respetivos anexos, celebrado
+    em entre o Estado Português, representado pela AICEP, E.P.E e a AEROMEC - Mecânica de Aeronaves, S.A., constante do ponto
+    5 da presente Resolução, pelo(a) Resolução do Conselho de Ministros n.º 76/2015 - Diário da República n.º 177/2015, Série
+    I de 2015-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/76-2015-70241305
+  date: '2015-09-10'
+- type: amended_by
+  target: pt:dre:105687065:por
+  label: Declarada a resolução do contrato fiscal de investimento celebrado em 26 de setembro de 2012, entre, por um lado,
+    o Estado Português, representado pela AICEP, E. P. E., e por outro lado a Emesingular, Lda., cuja minuta foi aprovada
+    pela presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 11/2017 - Diário da República n.º 2/2017, Série
+    I de 2017-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/11-2017-105687065
+  date: '2017-01-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:10Z'
   warnings: []
   errors: []
 ---

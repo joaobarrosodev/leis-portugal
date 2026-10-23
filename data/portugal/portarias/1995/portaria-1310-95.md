@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/254b00/68196819.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1310/1995/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1310-1995-680057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90f58bc200a597cdfafa5c32a6ba047681edf4a45afb82dee04e53f5bad5f1f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23a826614ceb4908118de24e3bdb2abf2dd64db7d99a705e47d2f86910623957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Design e Tecnologias Gráficas
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia Gestão ARTE e Design
 - Instituto Politécnico
 - Leiria
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:592739:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148983:por
+  label: "Aditado um num 1-A e alterado o anexo do presente diploma, pela PORT.546/97.1997.07.24.ME, DR.IS-B [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/546-1997-148983
+  date: '1997-07-24'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:592739:por
+  label: "Revogada pela PORT.1116/2000.2000.11.28.ME DR.IS-B [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1116-2000-592739
+  date: '2000-11-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:04Z'
   warnings: []
   errors: []
 ---
@@ -142,8 +160,8 @@ O curso referido no n.º 1.º entrará em funcionamento progressivamente, um ano
 
 Ministério da Educação.
 
-**Assinada em 28 de Setembro de 1995.**
+Assinada em 28 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/254b00/68196819.pdf))](https://files.diariodarepublica.pt/1s/1995/11/254b00/68196819.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/254b00/68196819.pdf)

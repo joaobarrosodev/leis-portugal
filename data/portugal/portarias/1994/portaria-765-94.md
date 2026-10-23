@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/765/1994/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/765-1994-218694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee39897879aec3a9fa092b4161ca0ad0d1372cdd9a4e3db642ca56a0e49bbb02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79bb836dcd76d25c2fe30477d83bd3bbd7698254f580d68c55c58491319414f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
 subjects:
 - Agência do Controle das Ajudas Comunitárias ao Sector do Azeite
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:313790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612857:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:32Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +113,6 @@ Carreira de agente sénior ... 14
 
 Ministério da Agricultura.
 
-**Assinada em 26 de Julho de 1994.**
+Assinada em 26 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.

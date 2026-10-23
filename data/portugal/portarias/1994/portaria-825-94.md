@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/825/1994/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/825-1994-586829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b562d594febc9de56aab46c37527149601b0d4290ab91e5f20c7c6ac78d804e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c97f3936d084b65b20bcbdaf6968592e8b7f68dea31e78e5ea86bf4c747af441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1066/1992/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1066/1992/11/18/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584664:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:10Z'
   warnings: []
   errors: []
 ---
@@ -110,18 +130,18 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Repartição de Serviços Administrativos, com:
 
-#### Secção de Pessoal e Admissão de Doentes;
+Secção de Pessoal e Admissão de Doentes;
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Aprovisionamento.
+Secção de Aprovisionamento.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Agosto de 1994.**
+Assinada em 30 de Agosto de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital do Visconde de Salreu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/216b00/55915593.pdf))](https://files.diariodarepublica.pt/1s/1994/09/216b00/55915593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/216b00/55915593.pdf)

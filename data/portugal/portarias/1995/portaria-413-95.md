@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/106b00/25702571.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/413/1995/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/413-1995-514201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 225507f1f9158a9b29e8750343dec5ca81cc2045e71516725c34e2289abf6af5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb74ba55498180a0aab0808e33d3d8c4b4654261adfe35e1e1241351dab285cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Centro Nacional de Protecção da Produção Agrícola
+- Comércio
 - Homologação
 - Instituto de Protecção da Produção Agro-Alimentar
+- Pesticida
 - Preço
 - Prestação de Serviços
-- Regulamento CE
-- Pesticida
 - Produto Fitofarmacêutico
+- Produto Químico
+- Regulamento CE
 - Substância Perigosa
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:513178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:513178:por
+  label: "Totalmente revogada pela Port.153/97.1997.03.03.MF, DR.IS-B [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/153-1997-513178
+  date: '1997-03-03'
 - type: cites
   target: celex:31991L0414
   label: null
@@ -98,13 +103,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:59Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +144,7 @@ Ao abrigo do disposto no n.º 2 do artigo 2.º do Decreto-Lei n.º 284/94, de 11
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 7 de Abril de 1995.**
+Assinada em 7 de Abril de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -147,4 +152,4 @@ Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de E
 
 Tabela de preços a pagar ao CNPPA pela execução do previsto no Decreto-Lei n.º 284/94, de 11 de Novembro, e no Regulamento (CEE) n.º [3600/92](http://data.europa.eu/eli/reg/1992/3600/oj?locale=pt), de 11 de Dezembro de 1992.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/106b00/25702571.pdf))](https://files.diariodarepublica.pt/1s/1995/05/106b00/25702571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/106b00/25702571.pdf)

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/207/1994/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/207-1994-257022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c8e792e53cb89789e2a9a58693405863ce5f8789e01840e3217125a328fe8b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99800d056d31e0a3645086a9948654a40bd59c416bb0d4cd36e5c9143bbc7489
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,19 @@ relationships:
   target: pt:dre:641084:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:664904:por
+  label: "Renovada a concessão da zona de caça associativa atribuida pelo presente diploma, pela PORT.1217/95.1995.10.09.MA\
+    \ DR.IS-B [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1217-1995-664904
+  date: '1995-10-09'
+- type: amended_by
+  target: pt:dre:641084:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa, concessionada pelo presente diploma,\
+    \ renovada pelas Portarias 1217/95, de 09 de Outubro e 1168-C/2001, de 06 de Outubro, pela PORT.1012/2007.30.08.2007.MADRP,\
+    \ DR.IS [167] de 30.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1012-2007-641084
+  date: '2007-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -89,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-h2/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-h2/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:01Z'
   warnings: []
   errors: []
 ---
@@ -139,8 +176,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 11 de Março de 1994.**
+Assinada em 11 de Março de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/084b00/16771677.pdf))](https://files.diariodarepublica.pt/1s/1994/04/084b00/16771677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/084b00/16771677.pdf)

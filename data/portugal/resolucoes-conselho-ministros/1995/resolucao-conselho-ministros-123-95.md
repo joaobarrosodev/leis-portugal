@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/123/1995/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-1995-681871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2523a84399d4c386aa6d58e214ee42cb18dcf21bc5dbdefe3c974c646e26a85d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20789d465d9d1333ed99373b7c2c9b8ba5001f7cc69912b6249c8d1fd5edd8aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cinfães
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:627822:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional, do concelho de Castelo de Paiva, na área abrangida\
+    \ pelo POACL, pela RES.187/2007.21.12.2007.PCM, DR.IS [246] de 21.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/187-2007-627822
+  date: '2007-12-21'
+- type: amended_by
+  target: pt:dre:107973525:por
+  label: Tornada pública a correção material da delimitação da Reserva Ecológica Nacional (REN) do município de Cinfães, aprovada
+    pela presente resolução, pelo(a) Aviso n.º 8928/2017 - Diário da República n.º 152/2017, Série II de 2017-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8928-2017-107973525
+  date: '2017-08-08'
+- type: amended_by
+  target: pt:dre:114290102:por
+  label: Aprovada a alteração da delimitação da Reserva Ecológica Nacional do Município de Cinfães, aprovada pela presente
+    resolução, pelo(a) Aviso n.º 14451/2017 - Diário da República n.º 231/2017, Série II de 2017-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14451-2017-114290102
+  date: '2017-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -79,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:30Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +143,4 @@ Aprovar a delimitação da Reserva Ecológica Nacional do município de Cinfães
 
 Presidência do Conselho de Ministros, 28 de Setembro de 1995. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/256b00/68326834.pdf))](https://files.diariodarepublica.pt/1s/1995/11/256b00/68326834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/256b00/68326834.pdf)

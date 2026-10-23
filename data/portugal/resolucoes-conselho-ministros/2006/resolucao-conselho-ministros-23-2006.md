@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/23/2006/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-2006-694239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dba4b595be62f87c92a22667ccbed0802604c51d2fab671b917dbe4f58ab281
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f271db5b5c24cd03b1190181255ba410b7cc47ed7bf077497779d6869b9879a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Plano Director Municipal
 - Ovar
 - Plano de Pormenor
+- Plano Director Municipal
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:628805:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520591:por
+  label: "Ratificada a revisão do Plano de Pormenor da Zona Envolvente a Norte de Ovar (cuja aprovação foi tornada pública\
+    \ pela Decl DD72 de 2ª.série de 25-Fev 1992), ficando alteradas, na área de intervenção do citado plano, as disposições\
+    \ escritas e gráficas do Plano Director Municipal de Ovar, ratificado pela Res 66/95 de 10-Jul, com alterações ratificadas\
+    \ pelo presente diploma, pela RES.70/2007.05.04.2007.PCM, DR.IS [99] de 23.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/70-2007-520591
+  date: '2007-04-05'
+- type: amended_by
+  target: pt:dre:628805:por
+  label: "Ratificado o Plano de Pormenor da Ponte Reada, no município de Ovar, para cuja área de intervenção vigora o Plano\
+    \ Director Municipal de Ovar (PDM), ratificado pela Res 66/95, de 10-Jul, da PCM, com as alterações ratificadas pelo presente\
+    \ diploma, pela RES.178/2007.11.12.2007.PCM, DR.IS [238] de 11.12.2007, nos termos dos nºs 1, 2 e 3.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/178-2007-628805
+  date: '2007-12-11'
+- type: amended_by
+  target: pt:dre:55076492:por
+  label: Tornada pública a alteração do art. 6.º, do Quadro Regulamentar, das Notas Escritas n.ºs 5, 9, 10 e 13 do Anexo I,
+    e do item Programa do Anexo II, todos do Regulamento do Plano Diretor Municipal de Ovar, ratificado pela Res 66/95 de
+    10-jul da PCM, com as alterações ratificadas pelo presente diploma, pelo(a) Aviso (extrato) n.º 9021/2014 - Diário da
+    República n.º 149/2014, Série II de 2014-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/9021-2014-55076492
+  date: '2014-08-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/2004/06/30/p/dre
   label: null
@@ -103,16 +126,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/66/1995/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/66/1995/07/10/p/dre
+- type: cites
+  target: pt:dre:274234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615046:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:12Z'
   warnings: []
   errors: []
 ---

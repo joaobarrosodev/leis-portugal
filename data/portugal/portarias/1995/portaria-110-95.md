@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/029b00/06680670.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/110/1995/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1995-138542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8739ece6b274b513af9eed769b43c728beabaa309ebe6123865b758603edbfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf360fe9400a0cf6ca87e07f91b5c7b2cd22eaa93d1f2acf1797ce86cef8886c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
 - Direcção Geral das Alfândegas
 - Regulamento
-- Avaliação do Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:406093:por
@@ -77,16 +77,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre
+- type: cites
+  target: pt:dre:283368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406093:por
+  label: "Revogada pela PORT.649-A/2009.09.06.2009.MFAP, DR.IS [111-Supl] de 09.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-a-2009-406093
+  date: '2009-06-09'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:48Z'
   warnings: []
   errors: []
 ---
@@ -215,6 +228,6 @@ b) Ao director de alfândega, nos demais casos.
 
 Ministério das Finanças.
 
-**Assinada em 15 de Dezembro de 1994.**
+Assinada em 15 de Dezembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias.

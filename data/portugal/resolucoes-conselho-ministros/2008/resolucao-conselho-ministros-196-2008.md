@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/196/2008/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-2008-444227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 848565d9b8f7e45acebb02553b84a8dce0a35cf5c75e494dae3bfe21fbee5f5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8020d0cf1bc1099de7cc7803d285c00af73771dd009256168a179a904ccaf038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Modernização Administrativa
+- Agência para a Modernização Administrativa
 - Cejur
-- Direcção Geral dos Assuntos Europeus
 - Definição de Competências
 - Direção Geral das Atividades Económicas
+- Direcção Geral dos Assuntos Europeus
+- Empresa
 - Gabinete de Planeamento Estratégia Avaliação e Relações Internacionais
-- Programa Simplex
 - Internet
-- Programa Legislar Melhor
-- Secretário de Estado da Presidência do Conselho de Ministros
+- Modernização Administrativa
 - Programa de Acção para a Redução dos Encargos Administrativos na União Europeia
-- Agência para a Modernização Administrativa
+- Programa Legislar Melhor
+- Programa Simplex
 - Representação Permanente de Portugal Junto das Comunidades Europeias
 - Secretaria de Estado da Modernização Administrativa
+- Secretário de Estado da Presidência do Conselho de Ministros
 - SPOC
 relationships:
 - type: cites
@@ -92,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
+- type: cites
+  target: pt:dre:444216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633530:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:27Z'
   warnings: []
   errors: []
 ---

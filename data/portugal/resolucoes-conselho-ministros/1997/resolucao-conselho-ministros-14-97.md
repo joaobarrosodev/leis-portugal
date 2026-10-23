@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/14/1997/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-1997-571201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e42b282067d02e52ac716959a6c8a6739dddf9d415dfc03e0ccddfb83248ff20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04889f7592048763231b2e79894a6b3c1be67510032d3804e0829c2543ce1604
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,63 @@ reuse:
 subjects:
 - Arruda dos Vinhos
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 relationships:
+- type: amended_by
+  target: pt:dre:2517209:por
+  label: "Tornada pública a alteração ao Regulamento do Plano Diretor Municipal de Arruda dos Vinhos, ratificado pelo presente\
+    \ diploma, pelo EDITAL.558/2008.03.06.2008.MARR DOS VINHOS, DR.IIS [106] de 03.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/edital/558-2008-2517209
+  date: '2008-06-03'
+- type: amended_by
+  target: pt:dre:106891014:por
+  label: Tornada pública a alteração ao n.º 4 do art. 27.º do Regulamento do PDM de Arruda dos Vinhos pelo(a) Declaração n.º
+    28/2017 - Diário da República n.º 76/2017, Série II de 2017-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/28-2017-106891014
+  date: '2017-04-18'
+- type: amended_by
+  target: pt:dre:114626919:por
+  label: Tornado público ter sido aprovada a alteração dos arts. 3.º, 4.º,21.º, 22.º, 23.º, 44.º, 63.º, 64.º do regulamento,
+    assim como a reversão da classificação dos solos, na área de intervenção do Plano de Pormenor da ZIR revogado, nas plantas
+    de ordenamento e de condicionantes todos do Plano Diretor Municipal de Arruda dos Vinhos pelo(a) Aviso n.º 1585/2018 -
+    Diário da República n.º 24/2018, Série II de 2018-02-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1585-2018-114626919
+  date: '2018-02-02'
+- type: amended_by
+  target: pt:dre:116954634:por
+  label: Tornada pública a aprovação do aditamento do art. 43.º-A e do anexo V ao Regulamento, assim como da alteração da
+    planta de ordenamento, da planta de condicionantes e da planta da reserva agrícola nacional do Plano Diretor Municipal
+    de Arruda dos Vinhos, ratificado pelo presente diploma, pelo(a) Aviso n.º 16427/2018 - Diário da República n.º 218/2018,
+    Série II de 2018-11-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/16427-2018-116954634
+  date: '2018-11-13'
+- type: amended_by
+  target: pt:dre:122063385:por
+  label: Tornada pública a suspensão parcial do Plano Diretor Municipal de Arruda dos Vinhos, ratificado pela presente resolução,
+    pelo(a) Aviso n.º 6604/2019 - Diário da República n.º 71/2019, Série II de 2019-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6604-2019-122063385
+  date: '2019-04-10'
+- type: amended_by
+  target: pt:dre:122278408:por
+  label: Tornada pública a aprovação da correção material da planta de ordenamento do Plano Diretor Municipal de Arruda dos
+    Vinhos, ratificado pelo presente diploma pelo(a) Aviso n.º 8143/2019 - Diário da República n.º 90/2019, Série II de 2019-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8143-2019-122278408
+  date: '2019-05-10'
+- type: amended_by
+  target: pt:dre:123855633:por
+  label: Tornada pública a segunda alteração ao PDM ratificado pelo presente diploma pelo(a) Aviso n.º 12780/2019 - Diário
+    da República n.º 152/2019, Série II de 2019-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12780-2019-123855633
+  date: '2019-08-09'
+- type: amended_by
+  target: pt:dre:170214991:por
+  label: Alterado, a partir de 31 de agosto de 2021, o artigo 67.º do Regulamento do Plano Diretor Municipal de Arruda dos
+    Vinhos pelo(a) Aviso n.º 16173/2021 - Diário da República n.º 166/2021, Série II de 2021-08-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/16173-2021-170214991
+  date: '2021-08-25'
 - type: cites
   target: celex:31991L0271
   label: null
@@ -80,16 +132,23 @@ relationships:
   target: celex:31992R2078
   label: null
   source: http://data.europa.eu/eli/reg/1992/2078/oj
+- type: corrected_by
+  target: pt:dre:2398331:por
+  label: "Retificado o quadro do nº4 do art. 64º da alteração ao Regulamento do Plano Diretor Municipal de Arruda dos Vinhos,\
+    \ tornada pública pelo Edital 558/2008, de 03-jun, ratificado pelo presente diploma, pela DECL-RECT.648/2012.17.05.2012.MARR\
+    \ DOS VINHOS, DR.IIS [96] de 17.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/648-2012-2398331
+  date: '2012-05-17'
 article_structure:
   article_count: 75
-  section_count: 53
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 42
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:44Z'
   warnings: []
   errors: []
 ---
@@ -138,15 +197,15 @@ O referido Decreto Lei n.º 69/90, de 2 de Março, actualizado pelo Decreto-Lei 
 
 O Regulamento do Plano Director Municipal de Arruda dos Vinhos encontra-se organizado nos seguintes títulos:
 
-## Título I, «Disposições gerais, constituição e definições»;
+Título I, «Disposições gerais, constituição e definições»;
 
-## Título II, «Classes e categorias de espaço»;
+Título II, «Classes e categorias de espaço»;
 
-## Título III, «Unidades operativas de planeamento e gestão»;
+Título III, «Unidades operativas de planeamento e gestão»;
 
-## Título IV, «Condicionantes/servidões e restrições de utilidade pública»;
+Título IV, «Condicionantes/servidões e restrições de utilidade pública»;
 
-## Título V, «Disposições complementares»;
+Título V, «Disposições complementares»;
 
 ## Título VI, «Disposições finais».
 
@@ -234,7 +293,7 @@ De acordo com estes princípios foi estabelecido o Regulamento, o qual define o 
 
 Finalmente refere-se que o solo natural é objecto de protecção específica, pelo que estão sujeitos a licenciamento municipal, nos termos do Decreto-Lei n.º 139/89, de 28 de Abril, as acções de destruição do revestimento vegetal que não tenham fins agrícolas, bem como ainda as acções de aterro ou escavação que conduzam à alteração do relevo natural e das camadas do solo arável, aplicando-se às infracções o regime jurídico previsto no referido Decreto-Lei n.º 139/89.
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais, constituição e definições
 
@@ -272,7 +331,7 @@ Volume III, «Elementos anexos ao Plano»;
 
 Peças desenhadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
 
 ###### Artigo 4.º — Definições
 
@@ -304,7 +363,7 @@ k) Número de pisos máximo - número máximo de pavimentos sobrepostos, incluin
 
 l) Lugar de estacionamento - área não edificada de domínio público afecta em exclusivo a estacionamento de veículo ligeiro e servida por arruamento ou área de domínio privado afecta em exclusivo a essa utilização com as dimensões estabelecidas na Portaria n.º 1182/92, de 22 de Dezembro.
 
-## TÍTULO II
+TÍTULO II
 
 Classes e categorias de espaço
 
@@ -450,7 +509,7 @@ c) Zona a reabilitar (R) - correspondente à zona com estrutura urbana mal defin
 
 1 - Quadro de caracterização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
 
 2 - A área bruta de pavimento construído acima do nível do terreno equivalente a um fogo, para referência, quando não se encontre caracterizada como fogo, é 125 m2 = 1 fogo.
 
@@ -582,7 +641,7 @@ b) Zona não programada ou de reserva (n/p) - correspondente às zonas da área 
 
 1 - Quadro de caracterização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
 
 2 - A área bruta de pavimento construído acima do nível do terreno equivalente a um fogo, quando não se encontre caracterizado como fogo, é 125 m2 = 1 fogo.
 
@@ -1046,7 +1105,7 @@ a) Apenas é admitido o licenciamento de edificação de apoio ao turismo de pas
 
 5 - No espaço cultural abrangido pela REN observam-se as disposições do seu regime jurídico.
 
-## TÍTULO III
+TÍTULO III
 
 Unidades operativas de planeamento e gestão
 
@@ -1086,7 +1145,7 @@ c) Plano de pormenor/plano de salvaguarda e valorização (PP/PSV):
 
 4 - Poderão, por deliberação da CMAV, ser promovidos outros PMOT para outras UOPG, as quais terão de respeitar os limites das classes de espaço definidas na planta de ordenamento e as disposições deste Regulamento.
 
-## TÍTULO IV
+TÍTULO IV
 
 Condicionantes/servidões e restrições de utilidade pública
 
@@ -1330,7 +1389,7 @@ c) Fl. 403:
 
 Mourão.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições complementares
 
@@ -1352,7 +1411,7 @@ K2 é o parâmetro para fixação da área afecta a equipamentos;
 
 2 - Os valores referidos no n.º 1 de K1 e K2 são, consoante a área regulamentada a que se referem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
 
 ###### Artigo 64.º — Arruamentos e estacionamentos
 
@@ -1364,7 +1423,7 @@ K2 é o parâmetro para fixação da área afecta a equipamentos;
 
 4 - A repartição do número de lugares de estacionamento privado e público corresponde respectivamente, consoante a utilização da edificação, a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
 
 5 - A aplicação dos n.os 1 a 4 incide no licenciamento de loteamento urbano.
 
@@ -1442,7 +1501,7 @@ c.4) O ajustamento dos limites referidos na subalínea c.1) apenas poderá abran
 
 Às situações não previstas no presente Regulamento aplica-se o disposto na legislação vigente.
 
-## TÍTULO VI
+TÍTULO VI
 
 Disposições finais
 
@@ -2482,17 +2541,17 @@ Nalguns casos particulares de auto-estradas executadas anteriormente à concess�
 
 Rede viária constante do PRN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
 
 Para os nós de ligação é considerada zona de servidão non aedificandi o solo situado num círculo de 1300 m de diâmetro, centrado em cada nó de ligação.
 
 Auto-estradas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
 
 Rede viária não constante do PRN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
 
 Nas zonas non aedificandi poderão ser autorizadas algumas construções sujeitas a condicionamentos. É ainda considerada a distância mínima de certas ocupações condicionadas ao limite da plataforma da estrada.
 
@@ -2664,7 +2723,7 @@ Decreto-Lei n.º 38382, de 7 de Agosto de 1951 (Regulamento Geral das Edificaç�
 
 Decreto-Lei n.º 637/76, de 29 de Julho (licenciamento de objectos de publicidade nas áreas urbanas);
 
-## Anexo A ao Despacho conjunto MPAT/MOPT de 19 de Abril de 1991, publicado no Diário da República, 2.ª série, n.º 106, de 9 de Maio de 1991 (estabelece as normas técnicas para as EN a integrar na rede municipal).
+Anexo A ao Despacho conjunto MPAT/MOPT de 19 de Abril de 1991, publicado no Diário da República, 2.ª série, n.º 106, de 9 de Maio de 1991 (estabelece as normas técnicas para as EN a integrar na rede municipal).
 
 Entidade com jurisdição. - Câmara Municipal de Arruda dos Vinhos.
 
@@ -2990,7 +3049,7 @@ I é o índice de revisão de preços referentes à base 1 considerada quando da
 
 Os valores de W1, W2, W3 e W4 são, consoante a localização e a utilização a que se referem, os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
 
 em que:
 
@@ -3140,4 +3199,4 @@ UOPG - unidades operativas de planeamento e gestão.
 
 VQPRD - vinho de qualidade produzido em região demarcada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf))](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/023b00/04480477.pdf)

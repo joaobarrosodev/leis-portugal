@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/29/1998/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-1998-209671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d3407c83c569ae5fb0d20a58d6d67b6669705f43079716b64befcb541c3337c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f67a7f362405e46ef5d08fe1e7e2d1ec5346c552d5fe8e630df6a98bf82c9c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
+- Plano de Urbanização
 - Plano Director Municipal
 - Política de Solos
-- Plano de Urbanização
 - Regulamento
 - Vila Velha de Ródão
 relationships:
@@ -76,6 +76,21 @@ relationships:
   target: pt:dre:670015:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670015:por
+  label: "Suspensas, pelo prazo de dois anos, as disposições dos art.s 42º, 43º, 46º, 47º, 49º e 50º do Regulamento do Plano\
+    \ Director Municipal de Vila Velha de Ródão, ratificado pela Res 27/94, de 06-Maio, com as alterações ratificadas pelo\
+    \ presente diploma, pela RES.27/2011.15.06.2011.PCM, DR.IS [114] de 15.06.2011, nas áreas delimitadas nas plantas anexas,\
+    \ sujeitando as mesmas áreas a medidas preventivas por igual prazo.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/27-2011-670015
+  date: '2011-06-15'
+- type: amended_by
+  target: pt:dre:71021087:por
+  label: Tornada pública a aprovação da 1.ª Revisão do Plano Diretor Municipal de Vila Velha de Ródão ratificado pela Res
+    27/94 de 06-mai PCM, na redação da presente Resolução, pelo Aviso n.º 13372/2015 - Diário da República n.º 224/2015, Série
+    II de 2015-11-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13372-2015-71021087
+  date: '2015-11-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -100,16 +115,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/27/1994/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/27/1994/05/06/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667311:por
+  label: null
+  source: null
 article_structure:
   article_count: 54
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:05Z'
   warnings: []
   errors: []
 ---
@@ -158,15 +213,15 @@ De acordo com o [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe
 
 2 - São elementos fundamentais o Regulamento e as seguintes plantas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
 
 3 - São elementos complementares o relatório, o programa de execução, o plano de financiamento e as seguintes plantas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
 
 4 - São elementos anexos os estudos de caracterização, o extracto do Regulamento do PDM e as seguintes plantas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
 
 ###### Artigo 4.º — Entrada em vigor
 
@@ -380,7 +435,7 @@ f) Habitação unifamiliar isolada.
 
 QUADRO I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
 
 ###### Artigo 18.º — Estacionamento em projectos de construção
 
@@ -390,7 +445,7 @@ QUADRO I
 
 QUADRO II
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
 
 3 - Constituem excepção aos referidos parâmetros as situações, nas zonas consolidadas em que não seja possível a sua aplicação.
 
@@ -976,7 +1031,7 @@ Sempre que este Regulamento for omisso, serão aplicadas as disposições da lei
 
 Quadro síntese da edificabilidade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06370647.pdf)
 
 Nota. - Para além do uso habitacional nas ZHC, ZHP e ZHE, são ainda permitidos os seguintes usos: comércio, serviços, turismo e equipamentos, que deverão contemplar os mesmos índices salvo se existir regulamentação própria constante dos artigos deste Regulamento.
 

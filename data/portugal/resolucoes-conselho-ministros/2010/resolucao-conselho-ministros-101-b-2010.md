@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 249/2010, 1º Suplemento, Série I de 2010-12-27
   number: '249'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5936-(12) a 5936-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/24901/0001200015.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101-b/2010/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-b-2010-233715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6911fe3068e530e8b150908aeb287d166f74ef8a961c842b77de304c7a466180
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9189d53b96085560d9c8f50819b8ca46d156c68229f092703587ca3a21500857
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Iniciativa para a Competitividade e Emprego
-- Modernização Administrativa
-- Combate à Fraude
-- Internacionalização Empresarial
-- Projeto de Investimento
-- Incentivos Fiscais
 - Apoio à Exportação
+- Combate à Fraude
 - Desenvolvimento Económico
 - Evasão Fiscal
-- Projecto PIN
+- Incentivos Fiscais
+- Iniciativa para a Competitividade e Emprego
+- Internacionalização Empresarial
+- Modernização Administrativa
 - Pequenas e Médias Empresas
+- Projecto PIN
+- Projeto de Investimento
+- QREN
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:13Z'
   warnings: []
   errors: []
 ---

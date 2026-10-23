@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/3/2004/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2004-241012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8ef43a14c3b6861bbda063df9bd224e09c0a1c2856f2c041a8c9b0062faa363
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7444a81b698371d0f232cfdbed1795dc89276595007663a49442617663bbb24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Investimento
 - Apoio ao Investimento
-- Projeto de Investimento
+- Benefícios Fiscais
+- Contrato de Investimento
 - Incentivos Fiscais
 - Indústria
 - Investimento Estrangeiro
-- Benefícios Fiscais
+- Projeto de Investimento
 - Valença
 - Viana do Castelo
 relationships:
@@ -81,6 +81,19 @@ relationships:
   target: pt:dre:553452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628484:por
+  label: "Aprovadas as minutas dos aditamentos ao contrato de investimento pela RES.175/2007.26.11.2007.PCM, DR.IS [227] de\
+    \ 26.11.2007\01.2007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/175-2007-628484
+  date: '2007-11-26'
+- type: amended_by
+  target: pt:dre:553452:por
+  label: "Declarada a resolução, a partir de 19.03.2012, com efeitos a 01.03.2012, do contrato de investimento celebrado em\
+    \ 19.01.2004 entre o Estado Português e a Rodman - Lusitânia, Construção e Reparação Naval, S. A. pela RES.31/2012.14.03.2012.PCM,\
+    \ DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/31-2012-553452
+  date: '2012-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/2001/07/03/p/dre
   label: null
@@ -93,16 +106,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
+- type: cites
+  target: pt:dre:229157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667137:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:51Z'
   warnings: []
   errors: []
 ---

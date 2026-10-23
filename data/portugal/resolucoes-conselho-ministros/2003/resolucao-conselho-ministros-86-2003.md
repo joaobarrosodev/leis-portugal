@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2003-692252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25bdf6bc19c81ee14d9ac67a5936ba492639ad2cca28044b38fbfcecc6eb6071
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bb0670ff4514ccb63d68e74154bd1051be46c2a7e18a204608cc78d1b97cf24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,58 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almada
+- Cascais
+- Diversidade Biológica
 - Ordenamento do Território
 - Orla Costeira
 - Parque Natural da Arrábida
 - Parque Natural de Sintra-Cascais
-- Proteção do Ambiente
-- Diversidade Biológica
-- Setúbal
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
 - Sesimbra
-- Cascais
+- Setúbal
 - Sintra
 relationships:
 - type: amended_by
   target: pt:dre:201907981:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3449987:por
+  label: "Suspenso por um ano o uso da praia da Figueirinha pela PORT.721/2005(2ªSérie).01.06.2005.MDN, DR.IIS [121] de 27.06.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/721-2005-3449987
+  date: '2005-06-01'
+- type: amended_by
+  target: pt:dre:456535:por
+  label: "Declarada como praia de uso suspenso a praia da Aguda, no concelho de Sintra, classificada como praia equipada com\
+    \ uso condicionado pelo presente diploma, pela PORT.619/2008.15.07.2008.MDN, DR.IS [135] de 15.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/619-2008-456535
+  date: '2008-07-15'
+- type: amended_by
+  target: pt:dre:490468:por
+  label: "Declarada a manutenção como praia de uso suspenso, a praia da Aguda, classificada como praia equipada com uso condicionado\
+    \ pelo presente diploma, declarada como praia de uso suspenso pela Port 619/2008, de 15-Jul, pela PORT.1108/2009.25.09.2009.MDN,\
+    \ DR.IS [187] de 25.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1108-2009-490468
+  date: '2009-09-25'
+- type: amended_by
+  target: pt:dre:122074192:por
+  label: Determinada a inaplicabilidade do Plano de Ordenamento da Orla Costeira Sintra-Sado, na área abrangida pelo POC-ACE,
+    aprovado pelo presente diploma, pelo(a) Resolução do Conselho de Ministros n.º 66/2019 - Diário da República n.º 72/2019,
+    Série I de 2019-04-11 sem prejuízo do seu n.º 6
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/66-2019-122074192
+  date: '2019-04-11'
+- type: amended_by
+  target: pt:dre:201907981:por
+  label: Determinado que nos termos do n.º 5 do presente diploma, se mantêm em vigor as disposições do Plano de Ordenamento
+    da Orla Costeira Sintra-Sado, e revogado, nos termos do n.º 7 o Plano de Ordenamento da Orla Costeira Sintra- Sado aprovado
+    pela presente resolução, pelo(a) Resolução do Conselho de Ministros n.º 87-A/2022 - Diário da República n.º 192/2022,
+    1º Suplemento, Série I de 2022-10-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/87-a-2022-201907981
+  date: '2022-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2000/07/04/p/dre
   label: null
@@ -116,16 +150,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/9/1994/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/1994/03/11/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661085:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246128:por
+  label: "Revogado o n.º 2, referência T8, do art. 16.º e o n.º 2 e as als. b), e) e f) do n.º 5 do art. 95.º, alterada a\
+    \ classificação das praias definidas na al. yy) do anexo, excluída da UOPG 20 -Pedreira do Cavalo, a área do PNE prevista\
+    \ no art. 94º, todos do Regulamento do Plano de Ordenamento da Orla Costeira (POOC) Sintra-Sado, aprovado pelo presente\
+    \ diploma, pela RES.141/2005.23.06.2005.PCM, DR.IS-B [161] de 23.08.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/141-2005-246128
+  date: '2005-06-23'
 article_structure:
   article_count: 104
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:54Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +262,7 @@ Presidência do Conselho de Ministros, 3 de Junho de 2003. - O Primeiro-Ministro
 
 REGULAMENTO DO PLANO DE ORDENAMENTO DA ORLA COSTEIRA (POOC) SINTRA-SADO
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -372,7 +462,7 @@ sss) Varadouro - frente de águas do mar e faixa terrestre adjacente, natural ou
 
 ttt) Vegetação autóctone - vegetação originária de uma determinada área biogeográfica, incluindo vegetação endémica, e que forma associações vegetais características dessa região.
 
-## TÍTULO II
+TÍTULO II
 
 Servidões administrativas e restrições de utilidade pública
 
@@ -428,7 +518,7 @@ v) Protecção a edifícios escolares.
 
 3 - Nos terrenos objecto de servidões administrativas ou restrições de utilidade pública, os usos e construções que vierem a merecer parecer favorável das entidades competentes, nos termos da legislação aplicável, não dispensam o cumprimento das regras constantes do presente Regulamento.
 
-## TÍTULO III
+TÍTULO III
 
 Uso, ocupação e transformação da orla costeira
 
@@ -660,7 +750,7 @@ d) É respeitado o sistema de vistas urbano e privilegiados os valores paisagís
 
 2 - Aplicam-se a estas áreas as seguintes regras:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
 
 ###### Artigo 17.º — Áreas de desenvolvimento singular
 
@@ -2040,7 +2130,7 @@ d) Acesso a partir do piso de cota inferior.
 
 4 - As plantas dos planos de praia contêm o zonamento dos usos balneares e a localização dos acessos e estacionamentos para a praia, cujo conteúdo pode ser alterado pelas entidades licenciadoras em função do disposto no presente Regulamento.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposições finais e transitórias
 
@@ -2300,11 +2390,11 @@ Critérios para a aplicação de faixas de risco e de protecção do litoral com
 
 Valores em metros, contados da crista da arriba para o interior, em direcção perpendicular ao contorno da crista da arriba. Valores referidos à altura das arribas (H), definida pela cota da crista mais alta em cada local, ou correspondentes a faixa de largura fixa:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
 
 ## ANEXO IV — Critérios para a delimitação das faixas de salvaguarda em litoral baixo e arenoso que não se encontre abrangido por planos de praia
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
 
 Designadamente o litoral entre a praia da Bela Vista e a Fonte da Telha, que constitui a maior extensão de litoral baixo e arenoso não abrangido por planos de praia, deverá seguir o critério da alínea a) para a faixa de protecção.
 
@@ -2324,30 +2414,30 @@ Envolvente da estrada de acesso ao Portinho da Arrábida até ao Outão: vertent
 
 ## ANEXO VI — Instalações existentes em domínio hídrico e não abrangidas por plano de praia
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
 
 ## ANEXO VII — Viveiros e depósitos fixos de lagostas e lavagantes existentes em domínio hídrico e não abrangidas por plano de praia
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
 
 ## ANEXO VIII
 
 Figuras 1.1, 1.2 e 1.3 - Cartografia de instalações e viveiros/depósitos fixos de lagostas e lavagantes existentes em domínio hídrico e não abrangidas por plano de praia
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
 
 ## ANEXO IX — Acessibilidades às praias marítimas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
 
 ## ANEXO X — Áreas dos apoios/equipamentos de praia
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
 
 Área descoberta = área máxima de ocupação - área coberta total.
 
 ## ANEXO XI — Características construtivas das instalações nas praias marítimas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)
+[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)](https://files.diariodarepublica.pt/1s/2003/06/144b00/36323661.pdf)

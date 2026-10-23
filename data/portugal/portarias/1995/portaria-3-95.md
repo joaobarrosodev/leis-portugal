@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/002b00/00250027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/3/1995/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-1995-364737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 406cd008e509d0df57bb296597d18737f4950d65af8983701f05c35f8cb67b8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3e6d097aba2526905a87f86a720c2faa8618ba340cbd76eb7ff1c52e2fd53c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Brucelose
-- Gado Caprino
 - Comunidade Europeia
-- Decisão CE
 - Controlo Sanitário
+- Decisão CE
 - Exploração Pecuária
+- Gado Caprino
 - Gado Ovino
 - Troca Intracomunitária
 relationships:
@@ -88,16 +88,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/233/1991/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/233/1991/03/22/p/dre
+- type: repealed_by
+  target: pt:dre:561379:por
+  label: "Revogada pelo DEC LEI.244/2000.2000.09.27.MADRP DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-2000-561379
+  date: '2000-09-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:17Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +121,7 @@ Manda o Governo, pelo Ministro da Agricultura, ao abrigo do artigo 4.º do Decre
 
 Ministério da Agricultura.
 
-**Assinada em 5 de Dezembro de 1994.**
+Assinada em 5 de Dezembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 

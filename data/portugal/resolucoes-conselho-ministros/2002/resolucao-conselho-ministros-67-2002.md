@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/67/2002/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/67-2002-301062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9600d168ac5568af6ea523fe88925cfc0824b525d04fdb79c2cf204dec2aa3d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0103da555f961db9aeeff5a8066da6045b5e48749478aabafadee61bd87ea791
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ subjects:
 - Acção Financeira
 - Alienação de Acções
 - Corporação Interamericana de Investimentos
-- Ministro das Finanças
+- Instituição Financeira
 - Investimento
 - Mercado Financeiro
-- Instituição Financeira
+- Ministro das Finanças
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decpresrep/11/2002/02/25/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/12/2002/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/12/2002/02/25/p/dre
+- type: cites
+  target: pt:dre:279836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279838:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:50Z'
   warnings: []
   errors: []
 ---

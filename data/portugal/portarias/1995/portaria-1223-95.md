@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1223/1995/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1223-1995-663277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac9838f7341135dbbc6383bf399a2df476d8de1110c2d0a4878ee731c92bc443
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc7305de61b863531af20f212c21cb31e90242457efa60927c28e91c81dea9aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,96 @@ relationships:
   target: pt:dre:949380:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3106475:por
+  label: "Alterado o quadro de pessoal constante do anexo I, pela PORT.269/96IIS.1996.11.06.PCM DR.IIS [275] DE 27/NOV/1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-1996-3106475
+  date: '1996-11-06'
+- type: amended_by
+  target: pt:dre:3242770:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo ao presente diploma, pela Port.69/97IIS.1997.01.22.PCM, MF\
+    \ e MEPAT DR.IIS [43] de 1997.02.20\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1997-3242770
+  date: '1997-01-22'
+- type: amended_by
+  target: pt:dre:3242771:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela Port.70/97IIS.1997.01.22.PCM, MF E MEPAT DR.IIS\
+    \ [43] de 1997.02.20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/70-1997-3242771
+  date: '1997-01-22'
+- type: amended_by
+  target: pt:dre:2397677:por
+  label: "Alterado o quadro de pessoal constante do anexo I, pela PORT.715/97(2ª SÉRIE).1997.09.03.PCM, DR.IIS [214] de 1997.09.16\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1997-2397677
+  date: '1997-09-03'
+- type: amended_by
+  target: pt:dre:1205199:por
+  label: "Alterado o quadro de pessoal pela PORT.318/98(2ªSÉRIE).1997.09.23.PCM, DR.IIS [66] de 19/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/318-1998-1205199
+  date: '1997-09-23'
+- type: amended_by
+  target: pt:dre:1716661:por
+  label: "Alterado o quadro de pessoal pela PORT.77/99(2ªSÉRIE).1998.12.31.PCM DR.IIS [20] de 25/Jan/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-1999-1716661
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:1103969:por
+  label: "Alterado o quadro de pessoal pela PORT.342/99(2ªSÉRIE).1999.03.08.PCM, DR.IIS [70] de 24/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-1999-1103969
+  date: '1999-03-08'
+- type: amended_by
+  target: pt:dre:2170538:por
+  label: "Alterado o quadro de pessoal (aprovado pelo presente diploma), pela PORT.764/99(2ªSÉRIE).1999.07.14.PCM, DR.IIS\
+    \ [180] de 04/Ago/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/764-1999-2170538
+  date: '1999-07-14'
+- type: amended_by
+  target: pt:dre:774541:por
+  label: "Alterado o quadro de pessoal pela PORT.1076/99(2ªSÉRIE).1999.09.11.PCM, DR.IIS (243] de 18/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1076-1999-774541
+  date: '1999-09-11'
+- type: amended_by
+  target: pt:dre:929105:por
+  label: "Alterado o quadro de pessoal pela PORT.942/2002(2ªSÉRIE).2002.05.28.MF, DR.IIS [144] de 25/Jun/2002.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/942-2002-929105
+  date: '2002-06-25'
+- type: amended_by
+  target: pt:dre:2723679:por
+  label: "Alterado o anexo I do quadro de pessoal por PORT.265/2003(2ªSÉRIE).2003.02.07.SEO-MF, DR.IIS [45] de 22/Fev/2003.\0\
+    .\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/265-2003-2723679
+  date: '2003-02-22'
+- type: amended_by
+  target: pt:dre:876426:por
+  label: "Alterado o quadro de pessoal por PORT.401/2003(2ªSÉRIE).2003.03.20.SEO-MF e SEAP-MF, DR.IIS [78] de 2/Abr/2003.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/401-2003-876426
+  date: '2003-04-02'
+- type: amended_by
+  target: pt:dre:949380:por
+  label: "Alterado o quadro de pessoal por PORT.537/2003(2ªSÉRIE).2003.04.28.MF, DR.IIS [107] de 9/Mai/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/537-2003-949380
+  date: '2003-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/1995/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/1995/01/17/p/dre
+- type: cites
+  target: pt:dre:146565:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:53Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +187,11 @@ Manda o Governo, pelos Ministros das Finanças e do Planeamento e da Administra�
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 12 de Setembro de 1995.**
+Assinada em 12 de Setembro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro do Planeamento e da Administração do Território, Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota, Secretária de Estado do Planeamento e do Desenvolvimento Regional.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/234b00/62346235.pdf))](https://files.diariodarepublica.pt/1s/1995/10/234b00/62346235.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/234b00/62346235.pdf)
 
 ## ANEXO II
 

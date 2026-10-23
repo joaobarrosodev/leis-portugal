@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/40/1998/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-1998-196954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d32bc906cf61864f199cd50df5a683d7da96e16dc5ede182e72093f622f367b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 939f84cebd5de401dedf250d7cbb5a57833df53a2262e4fe2fd7333ee9a29830
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Ajuda à Modernização
 - Apoio Técnico
-- Financiamento
-- Empresa
 - Capital Social
+- Empresa
+- Financiamento
 - Fundo de Investimento
 - Fundo para a Modernização e Reestruturação do Tecido Empresarial em Regiões de Monoindústria
 - Fundo para a Revitalização e Modernização do Tecido Empresarial
+- IAPMEI
 - Instituto de Gestão Financeira da Segurança Social
-- Recuperação de Empresas
-- Promoção de Emprego
-- Reconversão Profissional
-- Reconversão Industrial
 - Microempresa
+- Promoção de Emprego
+- Reconversão Industrial
+- Reconversão Profissional
+- Recuperação de Empresas
 - Saneamento Económico e Financeiro
 - Setor Empresarial
 - SGPS
-- IAPMEI
 - Viabilidade Económica
 relationships:
 - type: cites
@@ -102,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/100/1996/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/100/1996/07/04/p/dre
+- type: cites
+  target: pt:dre:223031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:12Z'
   warnings: []
   errors: []
 ---

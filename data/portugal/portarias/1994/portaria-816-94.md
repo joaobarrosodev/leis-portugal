@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/816/1994/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/816-1994-586375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7ecb35e825010bd15996b6a2be10247ef5c45cde9c887d6479a039c3dc97024
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eb7344336bf65dc28771273dd85044dbef5b50ed8c9ba4a8fdd88488f377671
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,43 +68,57 @@ reuse:
 subjects:
 - Criação de Serviços
 - Extinção de Lugares
-- Lisboa
-- Pessoal de Justiça
-- Tribunal do Trabalho
-- Gondomar
-- Tribunal Cível
-- Tribunal de Comarca
-- Matosinhos
-- Setúbal
 - Funchal
-- Quadro de Pessoal
+- Gondomar
+- Lisboa
+- Matosinhos
 - Ministério Público
+- Pessoal de Justiça
+- Porto
+- Quadro de Pessoal
 - Santa Maria da Feira
+- Setúbal
 - Sintra
 - Tribunal Administrativo
+- Tribunal Cível
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Família e de Menores
-- Porto
+- Tribunal do Trabalho
 - VARA Criminal
 relationships:
 - type: amended_by
   target: pt:dre:333494:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:244891:por
+  label: "Alterado o quadro de pessoal da secretaria judicial do Tribunal de Pequena Instância de Lisboa, pela PORT.835/98.1998.09.30.PCM\
+    \ DR.IS-B [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/835-1998-244891
+  date: '1998-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1177/1993/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1177/1993/11/10/p/dre
+- type: cites
+  target: pt:dre:581269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:58Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +141,7 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 26 de Agosto de 1994.**
+Assinada em 26 de Agosto de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
 
@@ -163,7 +177,7 @@ Gondomar
 
 Tribunal do Trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -237,7 +251,7 @@ Jardineiro ... 1
 
 Tribunal do Trabalho
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -255,7 +269,7 @@ Escriturário judicial ... 7
 
 Juízos cíveis
 
-#### Secção central e três secções de processos em cada juízo:
+Secção central e três secções de processos em cada juízo:
 
 Pessoal:
 
@@ -273,7 +287,7 @@ Escriturário judicial ... 10
 
 Tribunal de Pequena Instância Cível
 
-#### Secção central e oito secções de processos:
+Secção central e oito secções de processos:
 
 Pessoal:
 
@@ -295,7 +309,7 @@ Matosinhos
 
 Tribunal de Círculo e de Comarca
 
-#### Secção central e oito secções de processos, sendo uma afecta ao Tribunal de Círculo, quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e oito secções de processos, sendo uma afecta ao Tribunal de Círculo, quatro afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -315,7 +329,7 @@ Porto
 
 Varas criminais
 
-#### Secção central e duas secções de processos em cada duas varas:
+Secção central e duas secções de processos em cada duas varas:
 
 Pessoal:
 
@@ -333,7 +347,7 @@ Escriturário judicial ... 7
 
 Tribunal do Trabalho
 
-#### Secção central e uma secção de processos em cada juízo:
+Secção central e uma secção de processos em cada juízo:
 
 Pessoal:
 
@@ -355,7 +369,7 @@ Serviços do Ministério Público
 
 Tribunal do Trabalho
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -375,7 +389,7 @@ Santa Maria da Feira
 
 Tribunal de Círculo e de Comarca
 
-#### Secção central e seis secções de processos, sendo uma afecta ao Tribunal de Círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e seis secções de processos, sendo uma afecta ao Tribunal de Círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -395,7 +409,7 @@ Setúbal
 
 Tribunal de Círculo e de Comarca
 
-#### Secção central e oito secções de processos, sendo duas afectas ao Tribunal de Círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e oito secções de processos, sendo duas afectas ao Tribunal de Círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -411,7 +425,7 @@ Escriturário judicial ... 28
 
 Tribunal de Família e de Menores
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/89/2008/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2008-448967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26d0d15c3d37c344ddfb69da9d34fd7764720cb434846c1359aeeb10f474b925
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8290988eabcdd3cf31cd49f9d6e7cb0ff5e517f50cd2f832d9b750dc178af9d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Amarante
+- Auto-estrada
 - Auto-estrada IP 4 - Amarante-vila REAL
+- Bragança
 - Contrato de Concessão
 - Rede de Estradas
-- Auto-estrada
-- Vila Real
-- Bragança
 - Serra do Marão
+- Vila Real
 relationships:
 - type: cites
   target: celex:31997L0011
@@ -98,13 +98,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:16Z'
   warnings: []
   errors: []
 ---
@@ -1045,7 +1045,7 @@ Para efeitos da aplicação das tarifas de portagem, tem-se:
 
 a) As seguintes classes de veículos, por ordem crescente do respectivo valor tarifário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 b) Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com dois eixos, peso bruto superior a 2300 kg e inferior ou igual a 3500 kg, com lotação igual ou superior a cinco lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, desde que não apresentem tracção às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático;
 
@@ -1067,7 +1067,7 @@ d) Que a relação entre as tarifas das classes 2, 3 e 4 e a tarifa da classe 1 
 
 6 - As tarifas de portagem poderão ser actualizadas anualmente, no 1.º mês de cada ano civil tendo em atenção a evolução do índice de preços no consumidor, sem habitação, para o continente, de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 7 - O incumprimento do projecto de obra ou de qualquer uma das condições mínimas de circulação, segurança, sinalização e informação, no troço em obras, previstas nos artigos 1.º a 8.º da Lei n.º 24/2007, de 18 de Julho, obriga à restituição ou não cobrança, ao utente, da taxa de portagem referente ao troço ou sublanço em obras.
 
@@ -1277,21 +1277,21 @@ d) Apólices de seguro.
 
 1 - A Concessionária receberá uma remuneração anual, calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 2 - A componente da remuneração anual relativa à disponibilidade para cada sublanço j em cada ano, será calculada de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 3 - O valor da tarifa de disponibilidade definido para cada ano t não é actualizável durante a vigência do Contrato de Concessão.
 
 4 - A componente da remuneração anual relativa ao serviço prestado pela Concessionária efectivamente verificado em cada ano, será calculada de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 5 - O montante total das deduções a efectuar em cada ano, a que se refere o n.º 1, será calculado de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 6 - Considera-se existir uma falha de disponibilidade quando alguma das condições de indisponibilidade definidas no anexo n.º 12 se verificar.
 
@@ -1299,25 +1299,25 @@ d) Apólices de seguro.
 
 a) O índice de sinistralidade da concessão calcular-se-á nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 b) O índice de sinistralidade de todas as concessões com portagem real calcular-se-á nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 c) O índice de sinistralidade ponderado calcular-se-á nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 8 - Sempre que se verifique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 o Concedente somará à remuneração anual da Concessionária um valor calculado nos termos do n.º 10, alínea a).
 
 9 - Sempre que se verifique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 a Concessionária deduzirá à remuneração anual da Concessionária um valor calculado nos termos do n.º 10, alínea b).
 
@@ -1325,11 +1325,11 @@ a Concessionária deduzirá à remuneração anual da Concessionária um valor c
 
 a) Incremento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 b) Dedução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 11 - No caso de o último sublanço da Concessão entrar em serviço em mês diverso de Janeiro ou no caso de a Concessão terminar em mês diverso de Dezembro, serão feitos os necessários ajustes ao cálculo dos prémios e multas aplicáveis, na proporção dos meses inteiros que decorrerem até Dezembro, no primeiro caso, ou dos meses inteiros que decorrerem entre Janeiro e o termo da Concessão, no segundo.
 
@@ -1633,7 +1633,7 @@ O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão
 
 4 - No fim do prazo da concessão cessam para a Concessionária todos os direitos emergentes do contrato de concessão, sendo entregues ao Concedente, livres de quaisquer ónus ou encargos, todos os bens que constituem o estabelecimento da concessão, em estado que satisfaça as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50 % da vida útil de cada um dos seus componentes.
 
@@ -1875,50 +1875,50 @@ Os prazos fixados no Contrato de Concessão contar-se-ão em dias ou meses segui
 
 A Concessionária terá de pagar anualmente à InIR uma taxa de gestão do contrato, para suporte das despesas do InIR com o acompanhamento, gestão e fiscalização da concessão, calculada de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0304103071.pdf)
 
 92 - Anexos
 
 1 - Fazem parte integrante do Contrato de Concessão, para todos os efeitos legais e contratuais, os seus seguintes anexos:
 
-## Anexo n.º 1 - Lista dos Contratos de Projecto;
+Anexo n.º 1 - Lista dos Contratos de Projecto;
 
-## Anexo n.º 2 - Composição do Agrupamento e Estrutura Accionista da Subconcessionária;
+Anexo n.º 2 - Composição do Agrupamento e Estrutura Accionista da Subconcessionária;
 
-## Anexo n.º 3 - Programa de Trabalhos;
+Anexo n.º 3 - Programa de Trabalhos;
 
-## Anexo n.º 4 - Declaração dos Accionistas da Subconcessionária;
+Anexo n.º 4 - Declaração dos Accionistas da Subconcessionária;
 
-## Anexo n.º 5 - Caso Base;
+Anexo n.º 5 - Caso Base;
 
-## Anexo n.º 6 - Acordo Directo referente ao Contrato de Projecto e Construção;
+Anexo n.º 6 - Acordo Directo referente ao Contrato de Projecto e Construção;
 
-## Anexo n.º 7 - Acordo Directo com os Bancos Financiadores;
+Anexo n.º 7 - Acordo Directo com os Bancos Financiadores;
 
-## Anexo n.º 8 - Definição dos Lanços e Sublanços;
+Anexo n.º 8 - Definição dos Lanços e Sublanços;
 
-## Anexo n.º 9 - Critérios Chave da Reposição do Equilíbrio Financeiro;
+Anexo n.º 9 - Critérios Chave da Reposição do Equilíbrio Financeiro;
 
-## Anexo n.º 10 - Acordo Directo referente ao Contrato de Operação e Manutenção;
+Anexo n.º 10 - Acordo Directo referente ao Contrato de Operação e Manutenção;
 
-## Anexo n.º 11 - Minuta de Garantia Bancária referente à Caução;
+Anexo n.º 11 - Minuta de Garantia Bancária referente à Caução;
 
-## Anexo n.º 12 - Cálculo das Falhas de Disponibilidade.
+Anexo n.º 12 - Cálculo das Falhas de Disponibilidade.
 
 2 - Encontram-se anexos ao Contrato de Concessão e estão submetidos ao regime que lhe for, nos seus termos, aplicável os seguintes documentos:
 
-## Anexo n.º 13 - Contrato de Projecto e Construção;
+Anexo n.º 13 - Contrato de Projecto e Construção;
 
-## Anexo n.º 14 - Contratos de Financiamento;
+Anexo n.º 14 - Contratos de Financiamento;
 
-## Anexo n.º 15 - Pacto Social da Subconcessionária;
+Anexo n.º 15 - Pacto Social da Subconcessionária;
 
-## Anexo n.º 16 - Acordo de Subscrição de Capital;
+Anexo n.º 16 - Acordo de Subscrição de Capital;
 
-## Anexo n.º 17 - Acordo Parassocial;
+Anexo n.º 17 - Acordo Parassocial;
 
-## Anexo n.º 18 - Garantia Bancária referente aos fundos próprios da Subconcessionária;
+Anexo n.º 18 - Garantia Bancária referente aos fundos próprios da Subconcessionária;
 
-## Anexo n.º 19 - Programa de Seguros;
+Anexo n.º 19 - Programa de Seguros;
 
-## Anexo n.º 20 - Contrato de Operação e Manutenção.
+Anexo n.º 20 - Contrato de Operação e Manutenção.

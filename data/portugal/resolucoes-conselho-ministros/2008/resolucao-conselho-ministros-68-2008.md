@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/68/2008/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-2008-249815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4b955d19e303d2a99dc0f4992cb79be5a2e03fe06397a4330caca75db1238a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a246063374a684e8c6946192588aaab032d4cbf57a0c7322eecc0b0574f8009f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
 - Ponte de Sor
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:306614:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306614:por
+  label: "Aprovada a alteração (substituindo as folhas n.º F3.1, F3.3 e F3.4 da planta de delimitação e mantendo em vigor\
+    \ a folha F3.2) à delimitação da Reserva Ecológica Nacional do município de Ponte de Sor aprovada pela Res 157/2003, de\
+    \ 29-Set, da PCM, com a alteração aprovada pela presente resolução, pela PORT.1317/2010.28.12.2010.MAOT, DR.IS [250] de\
+    \ 28.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1317-2010-306614
+  date: '2010-12-28'
+- type: amended_by
+  target: pt:dre:1700630:por
+  label: "Corrigida materialmente a carta correspondente à Carta Militar n.º 368 da Reserva Ecológica Nacional do Município\
+    \ de Ponte de Sor, aprovada pela Res 157/2003 de 29-Dez da PCM, e cuja delimitação foi alterada pelo presente diploma,\
+    \ pelo DESP-EXT.3168/2011.16.02.2011.CCDRALT-MAOT, DR.IIS [33] de 16.02.2011, que republicou a referida carta corrigida.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/3168-2011-1700630
+  date: '2011-02-16'
+- type: amended_by
+  target: pt:dre:3081832:por
+  label: "Corrigida materialmente a carta correspondente à Carta Militar nº 356 da Reserva Ecológica Nacional do Município\
+    \ de Ponte de Sor, aprovada pela Res 153/2003 de 29-Set da PCM, cuja delimitação foi alterada pelo presente diploma, pelo\
+    \ DESP-EXT.8975/2011.08.07.2011.CCDRALT-MAOT, DR.IIS [130] de 08.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/8975-2011-3081832
+  date: '2011-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/180/2006/09/06/p/dre
   label: null
@@ -95,16 +118,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/2002/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/2002/05/08/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539979:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:58Z'
   warnings: []
   errors: []
 ---
@@ -129,4 +176,4 @@ Ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 93/90](https://diariod
 
 Presidência do Conselho de Ministros, 20 de Março de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07300/0219902199.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07300/0219902199.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07300/0219902199.pdf)

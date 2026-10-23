@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/222/1995/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-1995-172744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad8b1b42c4c317f1700f6a7e844cf1717c7d8f1d8bf282568b0d4dff772b9877
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6c22dbe1257de9bcab104151120caba58a3d51685b4c78dc42079deee87632a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Oficial
+- Ensino Superior
 - Estabelecimento de Ensino
 - Regulamento
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:575369:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262141:por
+  label: "Alteradas as datas limite de comunicação constantes do anexo I a que se refere o artigo 43.º do Regulamento, pela\
+    \ PORT.954-A/95.04.08.1995.ME, DR.IS-B [179]Supl de 04.08.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/954-a-1995-262141
+  date: '1995-08-04'
+- type: amended_by
+  target: pt:dre:563828:por
+  label: "Alterado, o prazo fixado nos termos do artigo 43.º do anexo I, para as vagas previstas no n.º 1 do artigo 7.º, pela\
+    \ PORT.1124/95.14.09.1995.ME, DR.IS-B [213] de 14.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1124-1995-563828
+  date: '1995-09-14'
+- type: amended_by
+  target: pt:dre:575369:por
+  label: "Alteradas as referências 9 a 20 do anexo I ao Regulamento, na redacção das Portarias n.ºs 954-A/95, de 4 de Agosto,\
+    \ e 1124/95, de 14 de Setembro, pela PORT.1191/95.29.09.1995.ME, DR.IS-B [226] de 29.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1191-1995-575369
+  date: '1995-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
   label: null
@@ -91,16 +109,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
+- type: cites
+  target: pt:dre:166202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:28Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +171,7 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 14 de Março de 1995.**
+Assinada em 14 de Março de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
@@ -713,7 +763,7 @@ O DESUP ou o Departamento do Ensino Secundário, conforme os casos, expedirão a
 
 ## ANEXO I — Prazos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/072b00/16501658.pdf))](https://files.diariodarepublica.pt/1s/1995/03/072b00/16501658.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/072b00/16501658.pdf)
 
 ## ANEXO II — Modelo de requerimento de permuta (artigo 39.º, n.º 4)
 

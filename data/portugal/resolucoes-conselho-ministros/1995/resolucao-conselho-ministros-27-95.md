@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/27/1995/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-1995-173914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bbba7a489763d0986c93397c5487d1a7eb69cd8cb754257456bf5cea406aa07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13bb9a196e24aab35f925181f5de6c9baf5485280ff6db5677d0498a1fd197b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Fronteira.povoação
 - Ordenamento do Território
 - Plano Director Municipal
-- Fronteira.povoação
 - Política de Solos
 - Regulamento
 relationships:
@@ -75,6 +75,25 @@ relationships:
   target: pt:dre:507781:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302344:por
+  label: "Alterado o Plano Director Municipal de Fronteira, no que dispõe contrariamente ao plano ratificado pela RES.57/2004.06.04.2004.PCM,\
+    \ DR.IS-B [100] de 28.04.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/57-2004-302344
+  date: '2004-04-06'
+- type: amended_by
+  target: pt:dre:507781:por
+  label: "Ratificada parcialmente a altera&#231;&#227;o ao Plano Director Municipal de Fronteiro, ratificado pelo presente\
+    \ diploma, alterado pela Res 57/2004, de 28-Abr, e republicada em anexo a vers&#227;o actualizada do regulamento, pela\
+    \ RES.107/2004.01.07.2004.PCM, DR.IS-B [172] de 23.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/107-2004-507781
+  date: '2004-07-01'
+- type: amended_by
+  target: pt:dre:3603680:por
+  label: "Tornada pública a alteração ao PDM de Fronteira, pelo EDITAL.573/2012.22.06.2012.MFRONTEIRA, DR.IIS [120] de 22.06.2012\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/edital/573-2012-3603680
+  date: '2012-06-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -115,16 +134,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
 article_structure:
   article_count: 66
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:03Z'
   warnings: []
   errors: []
 ---
@@ -1119,4 +1238,4 @@ Com a entrada em vigor do PDMF, será revogado o Plano Geral de Urbanização de
 
 2 - Os condicionamentos impostos pelas remissões referidas no número anterior deixarão de ter efeito se as disposições legais para que remetam forem revogadas sem que seja promulgada legislação substitutiva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/076b00/17581769.pdf))](https://files.diariodarepublica.pt/1s/1995/03/076b00/17581769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/076b00/17581769.pdf)

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/165/2006/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/165-2006-552367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cc7e62bf9c1bd49e08145ad6b9728236f6ba174b51fc6fc612e5474b95322ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3d3b0165940b84406a7d0d7ffaaa2c06d1b6948d75bff989b1b7a33cb09da70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Armazenagem
 - Concurso Público Internacional
 - Contrato de Concessão
+- Empresa de Silos Portuários
 - Matéria-Prima
 - Porto de Leixões
+- Produto Alimentar
 - Serviço Público
 - SILO
-- Empresa de Silos Portuários
 - Transporte
 relationships:
 - type: amended_by
@@ -103,16 +103,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/378/2003/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/378/2003/05/10/p/dre
+- type: cites
+  target: pt:dre:198687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580999:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:349480:por
+  label: "Rectificada pela DECL-RECT.4-C/2007.08.01.2007.PCM, DR.IS [6]Supl de 09.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-c-2007-349480
+  date: '2007-01-08'
+- type: corrected_by
+  target: pt:dre:517666:por
+  label: "Rectificada pela DECL-RECT.12/2007.09.02.2007.PCM, DR.IS [31] de 13.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/12-2007-517666
+  date: '2007-02-09'
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:05Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +227,7 @@ IPC - Índice de Preços no Consumidor, sem habitação publicado pelo Instituto
 
 IVA - Imposto sobre o Valor Acrescentado;
 
-# Parte ou Partes - O Concedente ou e a Concessionária;
+Parte ou Partes - O Concedente ou e a Concessionária;
 
 Plano de Actividades - O plano elaborado nos termos do n.º 10.3. do Contrato de Concessão;
 
@@ -223,37 +253,37 @@ TIR Accionista - A taxa interna de rentabilidade para os accionistas, em termos 
 
 2.1. Fazem parte integrante do Contrato de Concessão, para todos os efeitos legais e contratuais, os seus catorze anexos, organizados da forma seguinte:
 
-## ANEXO I: Planta da área afecta à Concessão;
+ANEXO I: Planta da área afecta à Concessão;
 
-## ANEXO II: Lista de edifícios, instalações, equipamentos e outros bens compreendidos no objecto da Concessão e afectos a esta, constituído por:
+ANEXO II: Lista de edifícios, instalações, equipamentos e outros bens compreendidos no objecto da Concessão e afectos a esta, constituído por:
 
-# Parte 1 - Bens a permanecer na titularidade do Concedente;
+Parte 1 - Bens a permanecer na titularidade do Concedente;
 
-# Parte 2 - Bens a adquirir pela Concessionária;
+Parte 2 - Bens a adquirir pela Concessionária;
 
 ## ANEXO III: Tarifas;
 
-## ANEXO IV: Pacto social da Concessionária;
+ANEXO IV: Pacto social da Concessionária;
 
-## ANEXO V: Contratos de Subscrição de Fundos Próprios;
+ANEXO V: Contratos de Subscrição de Fundos Próprios;
 
-## ANEXO VI: Contratos de Financiamento;
+ANEXO VI: Contratos de Financiamento;
 
-## ANEXO VII: Lista dos trabalhadores afectos ao estabelecimento da Silopor;
+ANEXO VII: Lista dos trabalhadores afectos ao estabelecimento da Silopor;
 
-## ANEXO VIII: Acordo de empresa e regulamento de regalias sociais;
+ANEXO VIII: Acordo de empresa e regulamento de regalias sociais;
 
-## ANEXO IX: Regulamento de Segurança e Higiene no Trabalho;
+ANEXO IX: Regulamento de Segurança e Higiene no Trabalho;
 
-## ANEXO X: Contratos de seguros;
+ANEXO X: Contratos de seguros;
 
 ## ANEXO XI: Caso Base;
 
-## ANEXO XII: Cópia de garantia bancária;
+ANEXO XII: Cópia de garantia bancária;
 
-## ANEXO XIII: Relatório da A2P - Consultores, Estudos e Projectos, Lda.;
+ANEXO XIII: Relatório da A2P - Consultores, Estudos e Projectos, Lda.;
 
-## ANEXO XIV: Plano de obras referidas no Anexo XIII.
+ANEXO XIV: Plano de obras referidas no Anexo XIII.
 
 2.2. Na interpretação, integração ou aplicação de qualquer disposição do Contrato de Concessão, deverão ser consideradas as disposições dos documentos que nele se consideram integrados nos termos do número anterior e que tenham relevância na matéria em causa.
 

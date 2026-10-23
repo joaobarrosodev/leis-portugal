@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/24/2003/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2003-190592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67731b64a2b182702800b26578fd8c8b2f75c0605c9f863710b1f2829a227ddc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99897f5337ec68c0ad2c522944d9c674abb03011d2f82fcf01e883227176128e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Tavira
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:91967815:por
+  label: Tornada pública a alteração dos arts. 1.º, 4.º, 7.º, 9.º, 10.º, 11.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º,
+    24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 33.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º e do Anexo I do Regulamento,
+    bem como das plantas, do Plano de Pormenor ratificado pela presente Resolução, pelo(a) Aviso n.º 14853/2016 - Diário da
+    República n.º 227/2016, Série II de 2016-11-25 que procede à republicação dos referidos Regulamento e Anexo I
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14853-2016-91967815
+  date: '2016-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli
   label: null
@@ -112,16 +120,132 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/1997/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/1997/06/19/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 33
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:11Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +376,9 @@ Zona verde de enquadramento;
 
 Rede viária e estacionamento público.
 
-### CAPÍTULO III — SECÇÃO I
+### CAPÍTULO III
+
+#### SECÇÃO I
 
 Lotes industriais e ou de armazenagem
 
@@ -466,7 +592,9 @@ Na área abrangida pelo Plano serão observadas, nomeadamente no projecto de arq
 
 Caso seja necessário reposicionar algum poste de média ou alta tensão ou alterar o traçado das linhas, deverão ser previamente consultadas as entidades com jurisdição na matéria.
 
-### CAPÍTULO VI — Artigo 30.º
+### CAPÍTULO VI
+
+###### Artigo 30.º
 
 Cálculo de taxas municipais e critérios para a distribuição de encargos
 

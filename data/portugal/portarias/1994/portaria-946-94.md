@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/247b00/64436443.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/946/1994/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/946-1994-624620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3519d552b619f5540bf938ce1bbc2afb1bb461dcaed731a72bf36731c7306ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 143d63fc2d1410351402e7ea84e3d62c70facec0e8228660c1f84d3a7c3823ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-t1/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-t1/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:617956:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157233:por
+  label: "Revogada pela PORT.254-FO/96.15.07.1996.MADRP, DR.IS-B [162-4ºSupl] de 15.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-fo-1996-157233
+  date: '1996-07-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:05Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +119,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 722-T1/92
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Outubro de 1994.**
+Assinada em 3 de Outubro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/247b00/64436443.pdf))](https://files.diariodarepublica.pt/1s/1994/10/247b00/64436443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/247b00/64436443.pdf)

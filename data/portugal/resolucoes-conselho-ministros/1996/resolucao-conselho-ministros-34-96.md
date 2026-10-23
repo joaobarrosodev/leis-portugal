@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/34/1996/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-1996-558622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0302011184e9d99918623df36e504b21499dc2ba774b6956992e7623df675721
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7bf1627dcfd70d1dfcc16f6d31492deae41faa0ffe7f2eb62cfe4e6f1172f0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almada
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:306945:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:607102:por
+  label: "Alterada a delimitação da Reserva Ecológica Nacional do município de Almada pela RES.31/2005.20.01.2005.PCM, DR.IS-B\
+    \ [36] de 21.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/31-2005-607102
+  date: '2005-01-20'
+- type: amended_by
+  target: pt:dre:306945:por
+  label: "Aprovada a alteração à delimitação da Reserva Ecológica Nacional do município de Almada, aprovada pelo presente\
+    \ diploma, alterada pela Res 31/2005, de 21-Fev, pela PORT.1284/2010.16.12.2010.MAOT, DR.IS [242] de 16.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1284-2010-306945
+  date: '2010-12-16'
+- type: amended_by
+  target: pt:dre:115868413:por
+  label: Tornada pública a alteração da delimitação da Reserva Ecológica Nacional (REN) para o município de Almada, incidente
+    na folha A (Desenho 2.A) da carta da REN aprovada pela presente Resolução, na redação da Res 31/2005 de 21-fev PCM e da
+    Port 1284/2010 de 16-dez, pelo(a) Aviso n.º 10444/2018 - Diário da República n.º 148/2018, Série II de 2018-08-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10444-2018-115868413
+  date: '2018-08-02'
+- type: amended_by
+  target: pt:dre:124125073:por
+  label: Tornada pública a alteração, com efeitos com a entrada em vigor do Plano de Pormenor de Reconversão da Quinta do
+    Guarda-Mor, da delimitação da Reserva Ecológica Nacional do município de Almada aprovada pela presente Resolução, na redação
+    da Res 31/2005 de 21-fev PCM, da Port 1284/2010 de 16-dez e do Av 10444/2018 de 02-ago, pelo(a) Aviso n.º 13332/2019 -
+    Diário da República n.º 161/2019, Série II de 2019-08-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13332-2019-124125073
+  date: '2019-08-23'
+- type: amended_by
+  target: pt:dre:173106636:por
+  label: Tornada pública a alteração da delimitação da Reserva Ecológica Nacional (REN) do município de Almada pelo(a) Aviso
+    n.º 19707/2021 - Diário da República n.º 204/2021, Série II de 2021-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/19707-2021-173106636
+  date: '2021-10-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -83,16 +116,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:17Z'
   warnings: []
   errors: []
 ---
@@ -115,4 +164,4 @@ Aprovar a delimitação da Reserva Ecológica Nacional do concelho de Almada, co
 
 Presidência do Conselho de Ministros, 12 de Março de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/082b00/07260726.pdf))](https://files.diariodarepublica.pt/1s/1996/04/082b00/07260726.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/082b00/07260726.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 298/1994, 3º Suplemento, Série I-B de 1994-12-27
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7388-(11) a 7388-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298b03/00110012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1152-e/1994/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1152-e-1994-303233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0034245c0393417b13f62f3031cef714b74a8fc32889f3d83a4d1432e69cb261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 264ae5d8ab93070479fbfa9343df5918306924b74abdf76ced97a7cbf20119eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Fundo de Pensões
-- Seguro
 - Pensões
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:531465:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517873:por
+  label: "Alterados os nºs 2º, 3º e 5º pela Port.195/97.1997.03.21.MF DR.IS-B [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-1997-517873
+  date: '1997-03-21'
+- type: amended_by
+  target: pt:dre:224988:por
+  label: "Alterados os nºs 2º, 3º e 5º , na redacção dada pela Port 195/97 de 21-Mar, pela PORT.46/98.1998.01.30.MF DR.IS-B\
+    \ [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-1998-224988
+  date: '1998-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/415/1991/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/415/1991/10/25/p/dre
+- type: cites
+  target: pt:dre:341582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397311:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:531465:por
+  label: "Revogada pela PORT.293/99.1999.04.28.MF DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-1999-531465
+  date: '1999-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:25Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +175,7 @@ Limites na composição das aplicações do fundo
 
 1 - As aplicações de cada fundo de pensões, incluindo os das comunidades portuguesas no estrangeiro, permitidas pela norma constante do n.º 1 do artigo 27.º do [Decreto-Lei n.º 415/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1991-341582), de 25 de Outubro, devem obedecer aos seguintes limites:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298b03/00110012.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298b03/00110012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00110012.pdf)
 
 2 - Consideram-se como títulos cotados, durante o período máximo de um ano a partir da data de emissão, as acções nacionais obtidas por aumento de capital, pelo uso de direitos por acções já detidas, quer aquele aumento de capital seja efectuado por incorporação de reservas quer por emissão de acções com preferência a accionistas e desde que a emissão tenha sido feita com o compromisso de pedido de admissão na bolsa, bem como as obrigações emitidas há menos de um ano e cuja admissão na bolsa tenha sido requerida.
 
@@ -183,6 +207,6 @@ Disposições transitórias e finais
 
 Ministério das Finanças.
 
-**Assinada em 27 de Dezembro de 1994.**
+Assinada em 27 de Dezembro de 1994.
 
-**O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques.**
+O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques.

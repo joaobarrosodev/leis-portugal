@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1112/1995/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1112-1995-562212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e9e8c050aea04bedacc95e07fc580e4c517d8e24acd6ad91aa8856ea6e182cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31f6270c9b3a663476d92e242a93a72114a2e52a6651dc2e299e3bfea91b4d56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,148 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Escola Profissional
 - Escola Profissional Instituto de Artes e Ofícios
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:519022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147626:por
+  label: "Extinto o curso profissional de Técnico de Electrónica/Hardware, criado pelo presente diploma e revogado parcialmente\
+    \ na parte referente ao citado curso, pela PORT.889/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no nº 8º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/889-2005-147626
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147629:por
+  label: "Extinto o curso de Técnico de Electrónica Audio, Vídeo TV, criado pelo presente diploma e revogado parcialmente\
+    \ na parte referente ao citado curso, pela PORT.892/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/892-2005-147629
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147640:por
+  label: "Extinto o curso profissional de Técnico de Informática/Gestão, criado pelo presente diploma que é revogado parcialmente\
+    \ no que àquele curso se refere, pela PORT.913/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ nos n.ºs 7.º e 8.º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/913-2005-147640
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147641:por
+  label: "Extintos os cursos profissionais de Técnico de Contabilidade em Organização de Economia Social e Técnico de Contabilidade\
+    \ em regime pós laboral, criado pelo presente diploma e revogado parcialmente na parte referente aos citados cursos, pela\
+    \ PORT.914/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no n.º 8.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/914-2005-147641
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147649:por
+  label: "Extinto o curso profissional de Técnico de Decoração do Vidro/Gravação/Lapidação/Pintura e revogado parcialmente\
+    \ na parte referente ao citado curso, pela PORT.895/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/895-2005-147649
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147658:por
+  label: "Extinto o curso profissional de Técnico de Organização e Gestão de Empresas/Produção, criado pelo presente diploma\
+    \ e revogado parcialmente na parte referente ao citado curso, pela PORT.899/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005,\
+    \ sem prejuízo do disposto no n.º 9.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-2005-147658
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:544825:por
+  label: "Extinto o curso profissional de Técnico de Desenho Gráfico e revogado o presente diploma no que àquele curso se\
+    \ refere pela PORT.1289/2006.21.11.2006.ME, DR.IS [224] de 21.11.2006, sem prejuízo do disposto no nº 6º daquele diploma\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1289-2006-544825
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:544835:por
+  label: "Extintos os cursos profissionais de Técnico de Comunicação/Marketing, Relações Públicas e Publicidade e de Técnico\
+    \ de Comunicação/Técnicas Jornalísticas e revogado o presente diploma no que àqueles cursos se refere pela PORT.1286/2006.21.11.2006.ME,\
+    \ DR.IS [224] de 21.11.2006, sem prejuízo do disposto no nº 6º daquele diploma\0ma\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1286-2006-544835
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:544837:por
+  label: "Extinto o curso profissionaL de técnico de artes em granito, criado pelo presente diploma, revogando-o parcialmente\
+    \ no que àquele curso se refere, permanecendo em vigor o respectivo plano de estudos nos termos do nº 6º pela PORT.1278/2006.21.11.2006.ME,\
+    \ DR.IS [224] de 21.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1278-2006-544837
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:544838:por
+  label: "Extinto o curso profissionaL de técnico de design de equipamento - interiores e exteriores, criado pelo presente\
+    \ diploma, revogando-o parcialmente no que àquele curso se refere, permanecendo em vigor o respectivo plano de estudos\
+    \ nos termos do nº 6º pela PORT.1279/2006.21.11.2006.ME, DR.IS [224] de 21.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1279-2006-544838
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:544839:por
+  label: "Extinto o curso profissional de Animador Sociocultural/Desporto e revogado o presente diploma no que àquele curso\
+    \ se refere pela PORT.1280/2006.21.11.2006.ME, DR.IS [224] de 21.11.2006, sem prejuízo do disposto no nº 6º daquele diploma\0\
+    a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1280-2006-544839
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:544843:por
+  label: "Extinto o curso profissional de técnico de património cultural - gestão e divulgação, criado pelo presente diploma,\
+    \ revogado parcialmente no que àquele curso se refere e permanecendo em vigor o respectivo plano de estudos nos termos\
+    \ do nº 6º pela PORT.1270/2006.21.11.2006.ME, DR.IS [224] de 21.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1270-2006-544843
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:544844:por
+  label: "Extinto o curso profissional de técnico de audio e vídeo, técnico de vídeo e áudio, técnico de vídeo e áudio/pós-produção\
+    \ e técnico de vídeo e áudio/produção, criados pelo presente diploma que é revogado parcialmente no que àquele curso se\
+    \ refere, permanecendo em vigor o respectivo plano de estudos nos termos do nº 6º pela PORT.1271/2006.21.11.2006.ME, DR.IS\
+    \ [224] de 21.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1271-2006-544844
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:544862:por
+  label: "Extintos, nos termos do nº 6º, os cursos profissionais de técnico de comunicação/técnicos audiovisuais e de técnico\
+    \ de comunicação/técnicas jornalísticas criados pelo presente diploma e revogado (o presente diploma) no que àqueles cursos\
+    \ se refere, pela PORT.1299/2006.22.11.2006.ME, DR.IS [225] de 22.11.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1299-2006-544862
+  date: '2006-11-22'
+- type: amended_by
+  target: pt:dre:545043:por
+  label: "Extinto o curso profissional de sistemas de informação geográfica criado pelo presente diploma, pela PORT.1318/2006.23.11.2006.ME,\
+    \ DR.IS [226] de 23.11.2006, revogando-a parcialmente no que àquele curso se refere e permanecendo em vigor o respectivo\
+    \ plano de estudos nos termos do nº 6\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1318-2006-545043
+  date: '2006-11-23'
+- type: amended_by
+  target: pt:dre:545045:por
+  label: "Extintos os cursos profissionais de técnico de fotografia, técnico de fotografia/fotojornalismo e técnico de fotografia\
+    \ publicitária criados no presente diploma, revogando-a parcialmente no que àqueles cursos se refere, e permanecendo em\
+    \ vigor os respectivos planos, pela PORT.1320/2006.23.11.2006.ME, DR.IS [226] de 23.11.2006, nos termos do seu n.º 6\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1320-2006-545045
+  date: '2006-11-23'
+- type: amended_by
+  target: pt:dre:518983:por
+  label: "Extintos os cursos profissionais de Instrumentista de Cordas, de Instrumento e de Piano criados no presente diploma,\
+    \ que é revogado no que àqueles cursos se refere pela PORT.220/2007.01.03.2007.ME, DR.IS [43] de 01.03.2007, sem prejuízo\
+    \ do disposto no nº 6º do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-2007-518983
+  date: '2007-03-01'
+- type: amended_by
+  target: pt:dre:519014:por
+  label: "Extinto o curso profissional de dança criado pelo presente diploma, que é revogado no que àquele curso se refere\
+    \ , pela PORT.230/2007.05.03.2007.ME, DR.IS [45] de 05.03.2007, sem prejuízo do disposto no nº 6º do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-2007-519014
+  date: '2007-03-05'
+- type: amended_by
+  target: pt:dre:519022:por
+  label: "Extintos os cursos profissionais de teatro e de teatro/interpretação/cenografia criados pelo presente diploma, que\
+    \ é revogado no que àqueles cursos se refere pela PORT.232/2007.05.03.2007.ME, DR.IS [45] de 05.03.2007, sem prejuízo\
+    \ do disposto no n.º 6 do citado diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-2007-519022
+  date: '2007-03-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
@@ -85,16 +219,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/307/1992/04/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/307/1992/04/06/p/dre
+- type: cites
+  target: pt:dre:188887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:05Z'
   warnings: []
   errors: []
 ---
@@ -249,8 +403,8 @@ c) Pintura Decorativa.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 17 de Agosto de 1995.**
+Assinada em 17 de Agosto de 1995.
 
-**A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/211b00/57385748.pdf))](https://files.diariodarepublica.pt/1s/1995/09/211b00/57385748.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/211b00/57385748.pdf)

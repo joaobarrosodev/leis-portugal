@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/174/2025/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/174-2025-964137282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dcdaecb8c581799ff3aa8bf85400fd00d8f72674e7ed6dd4f0ba48fd2716f6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 146ee0c10b705156bbc3dd8774c1ad21b8b291a025025c9e6ba61a7eaebd5fca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Prevenção de Incêndios
-- Financiamento
-- Proteção da Floresta
-- Ordenamento Florestal
 - Exploração Florestal
-- Política Florestal
+- Financiamento
+- Ordenamento Florestal
 - Plano de Recuperação e Resiliência
 - Plano Floresta 2050 Futuro + Verde
+- Política Florestal
+- Prevenção de Incêndios
+- Proteção da Floresta
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
+- type: cites
+  target: pt:dre:169175945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:58Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +127,7 @@ d) Governança.
 
 Aprovada em 19 de setembro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
 
 ## ANEXO — (a que se refere o n.º 1)
 
@@ -393,7 +401,7 @@ Enquadramento:
 
 Os ecossistemas florestais, para além de matérias-primas, produzem muitos outros bens e serviços como a proteção dos solos e a conservação de recursos hídricos, a proteção da paisagem, a manutenção ou incremento da biodiversidade, o recreio e o sequestro de carbono. No contexto do compromisso nacional para a Neutralidade Carbónica, entretanto antecipado para 2045, urge promover o aumento do sequestro de carbono através de apoios e incentivos à gestão florestal e recuperação de áreas ardidas e/ou degradadas, mas também através da implementação do Mercado Voluntário de Carbono.
 
-Neste âmbito, o papel da floresta portuguesa na mitigação das alterações climáticas por via do sequestro de CO<sub>2</sub>poderá e deverá ser potenciado com a florestação de área de matos, mas principalmente através do aumento da capacidade de sequestro dos povoamentos existentes pela melhoria da gestão e consequentes aumento de produtividade e redução de emissões (incêndios e desflorestação). Entende-se assim necessário desenvolver incentivos financeiros que apoiem a gestão sustentável e remunerem os serviços de ecossistema.
+Neste âmbito, o papel da floresta portuguesa na mitigação das alterações climáticas por via do sequestro de CO2poderá e deverá ser potenciado com a florestação de área de matos, mas principalmente através do aumento da capacidade de sequestro dos povoamentos existentes pela melhoria da gestão e consequentes aumento de produtividade e redução de emissões (incêndios e desflorestação). Entende-se assim necessário desenvolver incentivos financeiros que apoiem a gestão sustentável e remunerem os serviços de ecossistema.
 
 O Programa de Ação Nacional de Combate à Desertificação reconhece, desde 1999, a necessária atuação nas áreas semiáridas e sub-húmidas secas do território nacional, pelo que sendo o solo fator essencial para o desenvolvimento da floresta e da sustentabilidade do território, este Plano traça ações no sentido da sua salvaguarda.
 
@@ -1044,3 +1052,5 @@ Iniciativas/ações:
 4.3.3 - Capacitar as OPF para o bom desempenho das funções previstas nos contratos-programa;
 
 4.3.4 - Estabelecer contratos-programa com as OPF.
+
+119635587

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/21/2001/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2001-386821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83542e49f90e935d6347658da3f6eb91b59f91d9fb1bb0dcd38e1a15781e61c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff77e2ad37879cb64792ef3471fb235d5359bfcf6225df31514e2a1e0a6e8b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,21 @@ reuse:
 subjects:
 - Cernache de Bonjardim
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Sertã
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:58828346:por
+  label: Tornada pública a alteração dos n.ºs 2 e 3 do art. 1.º, do art. 2.º, do art. 3.º, do n.º 1 do art. 4.º, das als.
+    a), b) e c) do n.º 1 do art. 5.º, dos n.ºs 1, 3 e 9 do art. 8.º, do n.º 4 do art. 9.º, do art. 10.º, do art. 11.º e do
+    art. 12.º do Regulamento, assim como das plantas de implantação e de condicionantes do Plano de Pormenor da Zona Industrial
+    de Cernache do Bonjardim, ratificado pelo presente diploma, pelo(a) Aviso n.º 12635/2014 - Diário da República n.º 218/2014,
+    Série II de 2014-11-11, que procedeu à sua republicação em anexo.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12635-2014-58828346
+  date: '2014-11-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/236/1998/08/01/p/dre
   label: null
@@ -114,16 +123,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/119/1994/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/1994/12/02/p/dre
+- type: cites
+  target: pt:dre:188357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:54Z'
   warnings: []
   errors: []
 ---
@@ -408,18 +485,18 @@ QUADRO I
 
 Indicadores urbanísticos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)
 
 QUADRO II
 
 Estacionamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)
 
 QUADRO III
 
 Índice de ocupação do solo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)
 
 [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2001/02/045b00/09971001.pdf)

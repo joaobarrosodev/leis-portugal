@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/078b00/29612962.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/2002/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2002-301065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a96a3179f84e1bbce560a4b38ac07b8414b42523449a4164925c6563623b4f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 672bb226a28c187687c13075886d47744572ec44ce577444a9b6052ba2bffa87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,14 +73,32 @@ subjects:
 - Encarregado de Missão
 - Equipa de Missão
 - Fiscalização
+- Gabinete do Metro SUL do TEJO
 - Metropolitano do Sul do Tejo
 - Refer
-- Gabinete do Metro SUL do TEJO
 relationships:
 - type: amended_by
   target: pt:dre:493225:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644709:por
+  label: "Alterados os nºs 1, 3, 5, 6 e 7, pela RES.117/2002.2002.08.22.PCM, DR.IS-B [228]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/117-2002-644709
+  date: '2002-08-22'
+- type: amended_by
+  target: pt:dre:223007:por
+  label: "Alterado o n.º 8 do presente diploma, alterado pela Res 117/2002, de 02-Out, pela RES.54/2004.01.04.2004.PCM, DR.IS-B\
+    \ [97] de 24.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/54-2004-223007
+  date: '2004-04-01'
+- type: amended_by
+  target: pt:dre:493225:por
+  label: "Prorrogada até ao limite de três anos a actividade da equipa de missão (Gabinete do Metro Sul do Tejo), criada neste\
+    \ diploma, e alterado o nº 3º do mesmo, com a redacção conferida pela Res 117/2002 de 02-Out, pela RES.62/2009.23.07.2009.PCM,\
+    \ DR.IS [141] de 23.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/62-2009-493225
+  date: '2009-07-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/337/1999/08/24/p/dre
   label: null
@@ -89,16 +107,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433824:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:309028:por
+  label: "Revogada, a partir de 16.11.2010, pela RES.87/2010.11.11.2010.PCM, DR.IS [219] de 11.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/87-2010-309028
+  date: '2010-11-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:46Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/140/1998/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/140-1998-222050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f123c445cb92650c18834ab1a9919a2a5365843d3b052e07cbf1b60e9d6312e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b816370d5148897adc56b6ad04a0cc52faedc8b70df87ae212da01e83eb3c6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Universitária
-- Financiamento
 - Beira Interior
-- Ministério da Defesa Nacional
-- REDE Escolar
-- Fundação para a Ciência e a Tecnologia
-- Ministério da Educação
+- Castelo Branco
 - Contrato
 - Criação de Serviços
 - Curso de Medicina
@@ -84,30 +80,34 @@ subjects:
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Enfermagem
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Secretaria Geral
-- Ministério do Equipamento do Planeamento e da Administração do Território
-- Ministério das Finanças
-- Grupo de Missão
+- Estabelecimento de Ensino
+- Estabelecimento Hospitalar
 - Faculdade de Ciências
-- QCA
+- Financiamento
+- Fundação para a Ciência e a Tecnologia
+- Grupo de Missão
+- Guarda
 - Lei de Bases
 - Licenciatura
 - Mandato
 - Ministério da Ciência e da Tecnologia
-- Universidade
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Ministério da Saúde
+- Ministério das Finanças
+- Ministério do Equipamento do Planeamento e da Administração do Território
 - Nomeação
 - Plano de Desenvolvimento
 - Plano Nacional de Desenvolvimento Económico e Social de Médio Prazo
-- Castelo Branco
-- Estabelecimento de Ensino
-- Ministério da Saúde
-- Estabelecimento Hospitalar
-- Ensino Superior
+- Política de Saúde
+- QCA
+- REDE Escolar
+- Secretaria Geral
+- Serviço Nacional de Saúde
 - Sistema Educativo
-- Guarda
+- Universidade
 - Universidade da Beira Interior
 - Universidade do Minho
 relationships:
@@ -115,6 +115,18 @@ relationships:
   target: pt:dre:644708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301009:por
+  label: "Prorrogado, pelo periodo de seis meses a duração do mandato do grupo de missão previsto no nº 9.1, pela RES.65/2002.2002.03.07.PCM,\
+    \ DR.IS-B [77] de 02/Abr/2002 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/65-2002-301009
+  date: '2002-03-07'
+- type: amended_by
+  target: pt:dre:644708:por
+  label: "Determinada a prorrogação do mandato, até à entrada em funcionamento do grupo, do grupo de missão referido no nº\
+    \ 9.1 do presente diploma, pela RES.116/2002.2002.08.22.PCM, DR.IS-B [228] de 02/Out/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/116-2002-644708
+  date: '2002-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/113/1997/09/16/p/dre
   label: null
@@ -123,16 +135,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:48Z'
   warnings: []
   errors: []
 ---

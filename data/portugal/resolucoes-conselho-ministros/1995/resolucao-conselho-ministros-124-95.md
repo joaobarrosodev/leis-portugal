@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/124/1995/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/124-1995-682611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7646945c123854a88cfbeb593170330e5ad615fcd44b182b78898f3264506ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d51e74015eb798ad6f5e84da0bfec84803c8915cf719b48546284ddc633dfef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Automóvel
-- Contrato de Investimento
 - Apoio ao Investimento
+- Benefícios Fiscais
+- Contrato de Investimento
+- Indústria Automóvel
 - Investimento Estrangeiro
 - Modernização Industrial
-- Benefícios Fiscais
 relationships:
+- type: amended_by
+  target: pt:dre:492433:por
+  label: "Determinada a aprovação da antecipação do termo do contrato da Visteon Portuguesa actualmente em vigor de 31 de\
+    \ Dezembro de 2005 para 26 de Junho de 2003, fixado pelo presente diploma, pela RES.151/2003.2003.09.04.PCM DR.IS-B [222]\
+    \ DE 25/SET/2003 nos termos do n.º 2\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/151-2003-492433
+  date: '2003-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
+- type: cites
+  target: pt:dre:311209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:30Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +140,7 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 28 de Setembro de 1995. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo 4 ao contrato de investimento
+Anexo 4 ao contrato de investimento
 
 1 - Atento o disposto no artigo 49.º-A do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 95/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1990-333296), de 20 de Março, e pela [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, no âmbito da segunda fase do projecto do contrato de investimento que os promotores celebraram com a República Portuguesa, representada pelo ICEP, concede-se à sucursal da Ford Electrónica Portuguesa, Lda., adiante designada por sucursal, um incentivo fiscal, correspondente a 4,5% das aplicações relevantes para a segunda fase do projecto efectivamente realizadas, até ao montante global de 1240229000$00, nos seguintes termos:
 

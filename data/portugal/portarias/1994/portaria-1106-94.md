@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1106/1994/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1106-1994-566458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:18:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50bf05caf14aa7a0408c7737727343d6c68c0e65ab233e8b2ebd2fff1fd9b448
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e55339a3674483e470057da6ee3e3409175d05be1dde676d512e69f5be904fe5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:18:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Particular
+- Ensino Superior
 - Instituto Superior de Ciências Educativas
 - Numerus Clausus
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -80,16 +80,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/855/1993/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/855/1993/09/11/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661938:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:18:10Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +124,6 @@ Manda o Governo, pela Ministra da Educação, que, para o ano lectivo de 1994-19
 
 Ministério da Educação.
 
-**Assinada em 14 de Novembro de 1994.**
+Assinada em 14 de Novembro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.

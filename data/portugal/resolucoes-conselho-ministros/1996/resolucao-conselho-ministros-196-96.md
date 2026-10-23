@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/196/1996/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/196-1996-145803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f2880403627bc20034a03439ed661ccd22b9746a873a79b4954a1ef6eef517e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d46dda5204c86b5699fcd81b9c727f5d935d8a80fe43826ae8ead1db169a86a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
 subjects:
 - Ajuda Alimentar
 - Ajuda Humanitária
-- Portugal
 - Cabo Verde
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:05Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +88,7 @@ validation:
 
 Cabo Verde sofreu no ano uma situação de seca, considerada pelos especialistas a pior dos últimos 50 anos. A produção agrícola, em consequência, registou um decréscimo superior a 90%. Cabo Verde enfrenta pois, por razões naturais, de natureza conjuntural, e não por problemas estruturais e de desenvolvimento, uma situação de grande penúria alimentar, que se prolongará ao longo do próximo ano.
 
-**O Presidente da República de Cabo Verde lançou na Cimeira Alimentar da FAO, que se realizou recentemente em Roma, um veemente apelo à comunidade internacional para o reforço da ajuda alimentar à Nação Cabo-Verdiana, em face desta situação excepcional de penúria alimentar.**
+O Presidente da República de Cabo Verde lançou na Cimeira Alimentar da FAO, que se realizou recentemente em Roma, um veemente apelo à comunidade internacional para o reforço da ajuda alimentar à Nação Cabo-Verdiana, em face desta situação excepcional de penúria alimentar.
 
 Este apelo foi retomado pelo Ministro da Agricultura de Cabo Verde aquando da reunião de Ministros da Agricultura da CPLP realizada nos dias 22 e 23 de Novembro em Lisboa. O Ministro da Cabo Verde fez um apelo à boa vontade de Portugal, chamando a atenção para a situação calamitosa que poderá ser vivida em Cabo Verde caso não consiga garantir a tempo um abastecimento mínimo de géneros alimentares.
 

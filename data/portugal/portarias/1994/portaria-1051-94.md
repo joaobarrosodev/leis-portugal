@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1051/1994/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1051-1994-548637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb4b159ff4a21df1d154a23f4f761abf84e35910ee14314f989aa1d4ca62e260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86b5751bb0456b2b6023cab6419751980bb1bc6d5731ea713c15fc6f1c69c0aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Lugares
+- Ministério dos Negócios Estrangeiros
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:26Z'
   warnings: []
   errors: []
 ---
@@ -108,10 +120,10 @@ Manda o Governo, pelos Ministros das Finanças e dos Negócios Estrangeiros, ao 
 
 Ministérios das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 24 de Outubro de 1994.**
+Assinada em 24 de Outubro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro dos Negócios Estrangeiros, Domingos Manuel Martins Jerónimo, Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.
 
 Mapa anexo à Portaria n.º 1051/94
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/277b00/70667066.pdf))](https://files.diariodarepublica.pt/1s/1994/11/277b00/70667066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/277b00/70667066.pdf)

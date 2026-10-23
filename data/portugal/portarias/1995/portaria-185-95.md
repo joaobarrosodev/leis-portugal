@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/185/1995/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-1995-185090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70bc68f605aee0603f82c1f5f55b4def6ca0125c481382bcd65572460bb515ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab372a475d35e64e77e1998f80cbd9700761f919bdfa80673caa657c36aa8ef3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Construção Civil
-- Plano de Estudos
 - Curso de Desenhador de Construção Civil
 - Equivalência de Habilitações Literárias
-- Recrutamento de Pessoal
 - FSE
 - Pessoal Autárquico
 - Pessoal Técnico Profissional
+- Plano de Estudos
 - Quadro de Pessoal
-- Autarquia Local
-relationships: []
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:31Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +105,11 @@ Manda o Governo, pelo Secretário de Estado do Orçamento e pelo Secretário de 
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 7 de Fevereiro de 1995.**
+Assinada em 7 de Fevereiro de 1995.
 
-**O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
-## Anexo à Portaria n.º 185/95
+Anexo à Portaria n.º 185/95
 
 Curso de Desenhadores de Construção Civil com Novas Tecnologias
 

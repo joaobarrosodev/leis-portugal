@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1256/1995/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1256-1995-668155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcace1be9fdfedec350f08fc22e734c3a6095ad808f5194bc2fa5f4e8ac80494
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a287e8b817bedb366572b31346e545f2952d7763d5e82d2ce781053d185336a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
+- Direção Geral de Política de Defesa Nacional
 - Direcção Geral de Armamento e Equipamentos de Defesa
 - Direcção Geral de Pessoal
-- Direção Geral de Política de Defesa Nacional
 - Inspecção Geral das Forças Armadas
+- Ministério da Defesa Nacional
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -77,20 +77,63 @@ relationships:
   target: pt:dre:3376860:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478213:por
+  label: "Alterado o quadro de pessoal constante do anexo I ao presente diploma, pela PORT.358/98.1998.06.25.PCM DR.IS-B [144]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-1998-478213
+  date: '1998-06-25'
+- type: amended_by
+  target: pt:dre:3323856:por
+  label: "Alterado o quadro de pessoal pela PORT.102/99(2ªSÉRIE).1999.01.12.PCM DR.IIS [30] DE 05/FEV/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-1999-3323856
+  date: '1999-01-12'
+- type: amended_by
+  target: pt:dre:2009393:por
+  label: "Alterado o quadro de pessoal aprovado por este diploma, pela PORT.307/99(2ªSÉRIE).1999.02.03.PCM, DR.IIS [65] de\
+    \ 18/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/307-1999-2009393
+  date: '1999-02-03'
+- type: amended_by
+  target: pt:dre:1206404:por
+  label: "Alterado o quadro de pessoal constante do anexo III pela PORT.320/99(2ªSÉRIE).1999.02.22.PCM DR.IIS [66] DE 19/MAR/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-1999-1206404
+  date: '1999-02-22'
+- type: amended_by
+  target: pt:dre:1843027:por
+  label: "Substituido o anexo VI, pela PORT.697/99(2ªSÉRIE).1999.05.27.PCM DR.IIS [161] DE 13/JUL/1999\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-1999-1843027
+  date: '1999-05-27'
+- type: amended_by
+  target: pt:dre:763474:por
+  label: "Alterado o quadro de pessoal constante do anexo III pela PORT.1101/2001(2ªSÉRIE).2001.06.07.MDN, DR.IIS [146] de\
+    \ 26/Jun/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1101-2001-763474
+  date: '2001-06-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3376860:por
+  label: "Revogado o anexo VI pela PORT.249/2005( 2ªSérie).25.01.2005.MDN e MFAP, DR.IIS [42] de 01.03.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/249-2005-3376860
+  date: '2005-01-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:39Z'
   warnings: []
   errors: []
 ---
@@ -113,11 +156,11 @@ Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, o seguinte:
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 22 de Setembro de 1995.**
+Assinada em 22 de Setembro de 1995.
 
 Pelo Ministro da Defesa Nacional, Abílio Manuel Pinto Rodrigues de Almeida Morgado, Secretário de Estado da Defesa Nacional. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
 
-## ANEXO I ao ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/246b00/65936601.pdf))](https://files.diariodarepublica.pt/1s/1995/10/246b00/65936601.pdf)
+## ANEXO I ao ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/246b00/65936601.pdf)
 
 ## ANEXO VII
 

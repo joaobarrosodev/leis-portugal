@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/60/2013/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/60-2013-499783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b031d884f9965df79cb031616a0edd8eea00aa7ca5bca6f93a5f185b953a559e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f313314d04fc96fccfc573244b865743cbb0878b7664b74fb45fe17e07977ba9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
 subjects:
 - Acção Financeira
 - Alienação de Acções
-- Sociedade Anónima
+- ANA
 - Capital Social
-- Setor Empresarial do Estado
 - OPV
 - Preço
 - Privatização
-- ANA
+- Setor Empresarial do Estado
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/232/2012/10/29/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94-a/2012/11/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94-a/2012/11/14/p/dre
+- type: cites
+  target: pt:dre:190640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348910:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:48Z'
   warnings: []
   errors: []
 ---

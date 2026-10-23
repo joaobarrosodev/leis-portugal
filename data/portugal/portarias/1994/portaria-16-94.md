@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/16/1994/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-1994-532377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd5a691f44d3c2fa906e67635238d70bdf20c4fbbe41a52218a8fdf710e5a72c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91097cec727fe60bf46a49f8fcf18b9efd5d6e239b02cdca252b55a1b149b23b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
+- type: cites
+  target: pt:dre:377087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659544:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:51Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +152,12 @@ Praças (CFP/SEN) ... 8
 
 2.º Os quantitativos de pessoal do contingente a incorporar nos ramos das Forças Armadas, a que se refere o n.º 1 do artigo 4.º do RLSM, para 1994, são os constantes do quadro abaixo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/005b00/00750075.pdf))](https://files.diariodarepublica.pt/1s/1994/01/005b00/00750075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/005b00/00750075.pdf)
 
 3.º As propostas, devidamente fundamentadas, relativas ao ano de 1995, serão remetidas ao Ministério da Defesa Nacional até 28 de Fevereiro de 1994.
 
 Ministério da Defesa Nacional.
 
-**Assinada em 16 de Dezembro de 1993.**
+Assinada em 16 de Dezembro de 1993.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.

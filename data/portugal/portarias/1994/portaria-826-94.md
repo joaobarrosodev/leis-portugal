@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/216b00/55935594.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/826/1994/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/826-1994-586830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f5b38d01cb73e90bb16dbcd81c62489c20163c0bfa37f43c4d85554367f935e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f985ac807a196b7bc1c58b0010c55f622bb302d2c3f70d1b55b7261adffdf7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - CE Países
+- Comissão CE
 - Comissão de Acompanhamento
 - Controlo de Qualidade
+- Cooperação Científica
 - Criação de Serviços
 - Definição de Competências
-- Comissão CE
 - Instituto de Protecção da Produção Agro-Alimentar
-- Cooperação Científica
 - Jnict
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:74788786:por
@@ -85,16 +85,21 @@ relationships:
   target: celex:31993L0005
   label: null
   source: http://data.europa.eu/eli/dir/1993/5/oj
+- type: repealed_by
+  target: pt:dre:74788786:por
+  label: Revogada pelo(a) Decreto-Lei n.º 31/2016 - Diário da República n.º 120/2016, Série I de 2016-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2016-74788786
+  date: '2016-06-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:10Z'
   warnings: []
   errors: []
 ---
@@ -161,6 +166,6 @@ e) Um representante do Ministério da Saúde.
 
 Ministérios do Planeamento e da Administração do Território e da Agricultura.
 
-**Assinada em 19 de Agosto de 1994.**
+Assinada em 19 de Agosto de 1994.
 
 Pelo Ministro do Planeamento e da Administração do Território, Manuel Carvalho Fernandes Thomaz, Secretário de Estado da Ciência e Tecnologia. - O Ministro da Agricultura, António Duarte Silva.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 127/2013, 1º Suplemento, Série I de 2013-07-04
   number: '127'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3926-(2) a 3926-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/12701/0000200002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/42-b/2013/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-b-2013-673404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3983fbe0d9d2169745311ea34ff2c86ca7954fe34914a72e842c5c5044353be4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6dc4a1de11d5439e363991b548ea9526bc46e83c168cd2150353632ed3f47787
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Modernização Administrativa
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Delegação de Competências
-- Mudança Tecnológica
-- Ministro da Solidariedade e Segurança Social
+- Governo XIX
 - Informatização
 - Instituto de Informática
-- Governo XIX
-- Agência para a Modernização Administrativa
+- Ministro da Solidariedade e Segurança Social
+- Mudança Tecnológica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2012/05/18/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:145193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551977:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:28Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/11/2002/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-2002-234725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51577d3b2fbd02887ca31f201a84fb18aa95e0b9c037e9eb4d003705ab872cb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cce16223ed0a2471ac84413474ddec080a9812bacb96f3cecb0f379440de9098
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcobaça
-- Ordenamento do Território
 - Mafra
+- Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
 - Regulamento
@@ -76,6 +76,13 @@ relationships:
   target: pt:dre:122074192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541587:por
+  label: "Declarada como praia de uso suspenso pelo prazo de um ano, a praia da Almagreira classificada pelo Plano de Ordenamento\
+    \ da Orla Costeira Alcobaça-Mafra, aprovado pelo presente diploma, pela PORT.1063/2006.26.09.2006.MDN, DR.IS [186] de\
+    \ 26.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1063-2006-541587
+  date: '2006-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -116,16 +123,75 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1999/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1999/07/26/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122074192:por
+  label: Revogado o Plano de Ordenamento da Orla Costeira de Alcobaça-Mafra, aprovado pelo presente diploma, pelo(a) Resolução
+    do Conselho de Ministros n.º 66/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11, sem prejuízo do seu n.º
+    6
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/66-2019-122074192
+  date: '2019-04-11'
 article_structure:
   article_count: 104
   section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:01Z'
   warnings: []
   errors: []
 ---
@@ -2152,7 +2218,7 @@ O POOC entra em vigor no dia seguinte ao da sua publicação no Diário da Repú
 
 ## ANEXO I — Critérios de cálculo das faixas de risco das arribas por troço
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)
 
 Faixas de protecção por troço
 
@@ -2160,10 +2226,10 @@ Faixas de protecção por troço
 
 ## ANEXO II — Dimensionamento das instalações nas praias marítimas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)
 
 ## ANEXO III — Características construtivas das instalações nas praias marítimas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)
 
 [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2002/01/014b00/03300358.pdf)

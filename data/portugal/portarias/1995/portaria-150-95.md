@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/150/1995/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-1995-197695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95da9fcc58dd4443b617b34dcd88af6f4e2df16be5483df8d5afbfcae8f1d70c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e78e618048067c5f59372808ad1a2e4f8a0328fde1ce5968e80969fe29bb180d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almada
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Expressões Artísticas Integradas em Educação
 - Curso de Estudos Superiores Especializados em Gestão das Artes na Cultura e na Educação
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Educação
 - Instituto Piaget
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:41Z'
   warnings: []
   errors: []
 ---
@@ -180,14 +192,14 @@ A autorização de funcionamento conferida pela presente portaria não prejudica
 
 Ministério da Educação.
 
-**Assinada em 30 de Dezembro de 1994.**
+Assinada em 30 de Dezembro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Curso de estudos superiores especializados em Expressões Artísticas Integradas em Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/038b00/09600962.pdf))](https://files.diariodarepublica.pt/1s/1995/02/038b00/09600962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/038b00/09600962.pdf)
 
 ## ANEXO II — Curso de estudos superiores especializados em Gestão das Artes na Cultura e na Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/038b00/09600962.pdf))](https://files.diariodarepublica.pt/1s/1995/02/038b00/09600962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/038b00/09600962.pdf)

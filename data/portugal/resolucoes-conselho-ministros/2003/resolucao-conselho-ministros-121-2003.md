@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/121/2003/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/121-2003-654694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ececb102489c626154c6acde949a1c185a24515b1b3e41ce9b08b1aa80f5b9ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21406bbf1d3771a24f06ad3fe76af38577bdd930b2c4380102d71b7769eae722
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Ministro da Saúde
-- SIDA
+- Comissão Nacional de LUTA contra a SIDA
+- Conselho Consultivo
 - Definição de Competências
 - Encarregado de Missão
 - Gabinete Técnico
-- Recrutamento de Pessoal
-- Conselho Consultivo
 - Instituto de Gestão Informática e Financeira da Saúde
+- Ministro da Saúde
 - Nomeação
-- Comissão Nacional de LUTA contra a SIDA
 - Orgânica
+- Pessoal Dirigente
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- SIDA
 relationships:
 - type: amended_by
   target: pt:dre:241792:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241792:por
+  label: "Extinta a Comissão, reestruturada no presente diploma, pelo DR.7/2005.10.08.2005.MS, DR.IS-B [153] de 10.08.2005,\
+    \ e determinado que as atribuições da (CNLCS), sejam asseguradas por um dos coordenadores nacionais, criados no citado\
+    \ diploma, e nos termos do seu art. 7.º, o pessoal em serviço e os bens afectos, transitem para o Alto Comissariado da\
+    \ Saúde que lhe sucede na universalidade dos direitos e obrigações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2005-241792
+  date: '2005-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
@@ -100,16 +108,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/76/2003/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/76/2003/05/21/p/dre
+- type: cites
+  target: pt:dre:303180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660332:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:31Z'
   warnings: []
   errors: []
 ---

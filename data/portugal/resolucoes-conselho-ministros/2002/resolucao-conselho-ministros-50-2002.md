@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/50/2002/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2002-265285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c03d093259f4367df594c1648daefd056fdf9e4135f21c2537d68058041c4c86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bba1394b196eb7baa81cc32ec6b527b1dae1067839693f0495ba2c05c06727d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Ferreira do Zêzere
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:1763997:por
+  label: "Tornado público ter sido aprovada pela Assembleia Municipal de Ferreira do Zêzere em 29.06.2012, a alteração da\
+    \ planta de ordenamento do Plano Diretor Municipal de Ferreira do Zêzere, ratificado pela Res 175/95 de 20-dez da PCM,\
+    \ com as alterações ratificadas pelo presente diploma, pelo AV.2810/2013.26.02.2013.MFERR DO ZÊZERE, DR.IIS [40] de 26.02.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2810-2013-1763997
+  date: '2013-02-26'
 - type: cites
   target: eli:http://data.dre.pt/
   label: null
@@ -112,16 +120,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/175/1995/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/175/1995/12/20/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644085:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:34Z'
   warnings: []
   errors: []
 ---
@@ -286,7 +338,9 @@ Para efeitos de aplicação do presente Regulamento, o território objecto do pr
 
 Na área de intervenção do Plano será permitido o exercício de actividades industriais das classes B, C e D, nos termos da legislação em vigor bem como a armazenagem, o comércio e serviços complementares da actividade industrial.
 
-### CAPÍTULO IV — Divisão fundiária
+### CAPÍTULO IV
+
+##### Divisão fundiária
 
 ###### Artigo 13.º — Ocupação da área do Plano
 

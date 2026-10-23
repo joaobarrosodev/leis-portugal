@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/528/1995/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/528-1995-526804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bf4f21792a785ec4f499164f90fd572627aa21f195ec1efb40cfed357352990
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe43fcd4dd4978fb02306c0f8d7103907ff6f00aff23bf5cf434a2d55c7e19fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Lugares
-- Presidência da República
 - Pessoal Técnico Superior
+- Presidência da República
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -86,16 +86,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/286/1994/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/286/1994/05/13/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421818:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:53Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +140,8 @@ Manda o Governo, pelo Primeiro-Ministro e pelo Ministro das Finanças, ao abrigo
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 12 de Maio de 1995.**
+Assinada em 12 de Maio de 1995.
 
 Pelo Primeiro-Ministro, Paulo Jorge de Assunção Rodrigues Teixeira Pinto, Secretário de Estado da Presidência do Conselho de Ministros. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/128b00/35333533.pdf))](https://files.diariodarepublica.pt/1s/1995/06/128b00/35333533.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/128b00/35333533.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/91/2001/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-2001-522986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a223989f29b657798625d80585c343a887fa05251840a7a313f68c7e241afd32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f708d2c57360998b072daa67240cdcffc8e81c98f8b4eb860a374cf9823aa5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exclusão Social
-- Luta contra a Pobreza
-- Pobreza
 - Desenvolvimento Social
-- PNAI
 - Direitos Cívicos
-- Política Social
 - Economia Social
+- Exclusão Social
 - Inserção Social
+- Luta contra a Pobreza
+- PNAI
+- Pobreza
+- Política Social
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/387/1999/09/28/p/dre
@@ -103,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
+- type: cites
+  target: pt:dre:248975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:42Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +183,7 @@ Presidência do Conselho de Ministros, 12 de Julho de 2001. - O Primeiro-Ministr
 
 PLANO NACIONAL DE ACÇÃO PARA A INCLUSÃO
 
-# PARTE I — Enquadramento
+## PARTE I — Enquadramento
 
 1 - Uma Europa de todos para todos
 
@@ -279,7 +307,7 @@ Trata-se de fazer convergir em concreto e numa lógica de proximidade e concentr
 
 Para atingir as orientações estratégicas, o Plano assume como grandes desafios os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48004848.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48004848.pdf)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48004848.pdf)
 
 6 - Factores facilitadores do desenvolvimento do PNAI
 
@@ -317,7 +345,7 @@ No sentido de acompanhar o cumprimento das metas apresentadas o Plano adopta ind
 
 (nota 5) No final de 1999 existiam 190896 residentes estrangeiros legalizados em Portugal. O número é neste momento bem maior, e só durante o corrente ano o Serviço de Estrangeiros e Fronteiras terá emitido cerca de 54913 novas autorizações de permanência a imigrantes.
 
-# PARTE II — Objectivos de luta contra a pobreza e a exclusão social
+## PARTE II — Objectivos de luta contra a pobreza e a exclusão social
 
 1 - Promover a participação no emprego e o acesso de todos aos recursos, aos direitos, aos bens e serviços
 
@@ -1099,7 +1127,7 @@ Gabinete de Apoio às Pessoas Sobreendividadas;
 
 Regras sobre publicidade de produtos financeiros;
 
-# Livro Verde do Consumo;
+Livro Verde do Consumo;
 
 Observatório sobre o sobreendividamento;
 
@@ -1617,7 +1645,7 @@ Indicadores:
 
 Número de comissões centrais e regionais com participação das autoridades centrais e ou locais e com todos os outros intervenientes nos processos de combate à pobreza e exclusão social.
 
-# PARTE III — Boas práticas
+## PARTE III — Boas práticas
 
 Princípio da diferenciação positiva
 
@@ -2109,4 +2137,4 @@ Relação entre a remuneração média de base e a de trabalhadores não qualifi
 
 Indicadores de resultados e de acompanhamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48004848.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48004848.pdf)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48004848.pdf)

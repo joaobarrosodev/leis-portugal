@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/16/1995/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-1995-366815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d55d1219fb6a4260c266fe08e53bdc9c2a08468e9476d5466e5ccc0e66327654
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0af381d52273b2696b816200c1396eac2fc0e4b32a60a7dff97210b98d7b7cbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Curso de Estudos Superiores Especializados em Gestão e Contabilidade
 - Curso de Estudos Superiores Especializados em Relações Públicas e Internacionais
 - Ensino Particular
+- Ensino Superior
 - Fedespab
 - Instituto Superior de Paços de Brandão
 - Numerus Clausus
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1236/1993/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1236/1993/12/02/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551636:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:56Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +134,6 @@ b) Relações Públicas e Internacionais.
 
 Ministério da Educação.
 
-**Assinada em 6 de Dezembro de 1994.**
+Assinada em 6 de Dezembro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.

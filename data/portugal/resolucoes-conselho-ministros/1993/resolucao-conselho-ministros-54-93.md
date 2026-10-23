@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/54/1993/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-1993-330467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e4777a24026ea942acacd3e36df02a864a4bf757d05151fd0b26834fe786ad6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 343811391a7cab228dcb5ab413513b7788393f34843521af4208ea617cf04edf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
 - Manteigas
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA, COM PUBLICAÇÃO DAS PLANTAS ANEXAS, PELA DECLARAÇÃO DE RECTIFICAÇÃO 144-B/93, DE 14 DE AGOSTO, PUBLICADA\
+    \ NO DR.IS-B, 190, SUPL.\0, SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-14'
+- type: amended_by
+  target: pt:dre:71049474:por
+  label: Tornada pública a revogação do PDM pelo(a) Aviso n.º 13518/2015 - Diário da República n.º 227/2015, Série II de 2015-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13518-2015-71049474
+  date: '2015-11-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
   article_count: 42
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:45Z'
   warnings: []
   errors: []
 ---
@@ -374,7 +405,7 @@ Está incluída nesta designação a área delimitada no mapa de ordenamento da 
 
 As reconstruções e recuperações de edifícios deverão ser obtidas pelo restauro dos elementos deteriorados e pela reconversão do seu uso ou distribuição funcional e não pela demolição total para construir de novo no mesmo local.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf))](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
 
 ###### Artigo 4.º — Demolições parciais
 
@@ -394,7 +425,7 @@ As reconstruções e recuperações de edifícios deverão ser obtidas pelo rest
 
 A substituição de caixilharias, de alpendres ou de coberturas por motivo de mau estado de conservação deverá ser feita com material, desenho, cores ou volumetria idênticos aos preexistentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf))](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
 
 ###### Artigo 7.º — Substituição de paredes
 
@@ -404,7 +435,7 @@ A substituição de paredes exteriores em taipa poderá ser feita em alvenaria d
 
 A substituição de coberturas deve utilizar a telha cerâmica e manter a morfologia do telhado preexistente. No caso de utilização de betão armado, as lajes devem rematar sobre as paredes sem qualquer saliência para o exterior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf))](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
 
 ###### Artigo 9.º — Ampliações em altura
 
@@ -412,7 +443,7 @@ A substituição de coberturas deve utilizar a telha cerâmica e manter a morfol
 
 2 - A autorização eventual da elevação da cércea preexistente fica sujeita a uma apreciação caso a caso, desde que não haja prejuízo pela envolvente e seja considerado necessário ao complemento da habitação inferior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf))](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
 
 ###### Artigo 10.º — Varandas
 
@@ -420,7 +451,7 @@ A substituição de coberturas deve utilizar a telha cerâmica e manter a morfol
 
 2 - As guardas das varandas deverão ser transparentes e utilizar preferencialmente a madeira na sua construção, como material mais aconselhado e tradicional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf))](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
 
 ###### Artigo 11.º — Construções de raiz
 
@@ -436,6 +467,6 @@ A substituição de coberturas deve utilizar a telha cerâmica e manter a morfol
 
 As disposições dos artigos anteriores não se aplicam às construções já remodeladas nos anos mais recentes. Nestas deverá a Câmara Municipal encorajar ou condicionar obras a alterações no tratamento de fachada capazes de suprimir aspectos mais dissonantes, tais como cores, tratamento de vãos ou morfologia das coberturas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf))](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/190b00/43484351.pdf)
 
 § único. As construções e edifícios de utilização pública e colectiva, independentemente da sua localização, ficam sujeitos, com as necessárias adaptações, às normas do presente Regulamento.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/136/1999/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/136-1999-692070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 724170aa58b198084d0f0412ce1b93140c6414e887498695c877e5f2ace9ef98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 908373877207ab89524ed1252e17e805730bb6a3b9845a8cd03ceed416132b06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,72 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Definição de Competências
 - Direcção Regional do Ambiente do Alentejo
-- Orla Costeira
-- Protecção do Litoral
-- Grândola
-- Santiago do Cacém
-- Rio Sado
-- Plano de Ordenamento da Orla Costeira
-- Zona de Proteção
-- Política de Solos
 - Domínio Público Hídrico
-- Regulamento
+- Grândola
+- Ordenamento do Território
+- Orla Costeira
+- Plano de Ordenamento da Orla Costeira
+- Política de Solos
 - Portos
+- Protecção do Litoral
+- Regulamento
+- Rio Sado
+- Santiago do Cacém
 - Sines
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:201907981:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502837:por
+  label: "Suspensa a aplicação da al. i) do n.º 2 do art. 5.º, do art. 7.º, do n.º 1 do art. 9.º, do n.º 2 do art. 10.º e\
+    \ das als. a) e d) do n.º 1 do art. 23.º do Regulamento do Plano de Ordenamento da Orla Costeira Sado-Sines, aprovado\
+    \ pelo presente diploma, nas áreas de proteção costeira do concelho de Grândola, adjacentes aos empreendimentos turísticos\
+    \ designados por UNOP 5, ADT 2, ADT 3, ADT 4 - núcleos A e B, identificadas na planta e nos quadros constantes dos anexos\
+    \ I e II, pela RES.68/2013.28.10.2013.PCM, DR.IS [208] de 28.10.2013\010.2013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/68-2013-502837
+  date: '2013-10-28'
+- type: amended_by
+  target: pt:dre:25676877:por
+  label: "Reclassificada as praias da Galé-Fontainhas e da Aberta Nova, situadas no concelho de Grândola, para a categoria\
+    \ de praias não urbanas com uso intensivo - categoria II do Plano aprovado pela presente Resolução, pela PORT.121/2014.09.06.2014.MECO,\
+    \ DR.IS [110] de 09.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/121-2014-25676877
+  date: '2014-06-09'
+- type: amended_by
+  target: pt:dre:116607940:por
+  label: Estabelecidas medidas preventivas para áreas de cordões dunares frontais a abranger pelo Programa da Orla Costeira
+    Espichel-Odeceixe e determinada a suspensão da eficácia do Plano de Ordenamento da Orla Costeira Sado-Sines nas áreas
+    abrangidas pelas referidas medidas preventivas, pelo(a) Resolução do Conselho de Ministros n.º 130/2018 - Diário da República
+    n.º 193/2018, Série I de 2018-10-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/130-2018-116607940
+  date: '2018-10-08'
+- type: amended_by
+  target: pt:dre:145012227:por
+  label: Prorrogada por um ano, com efeitos a 09.10.2020, a suspensão de eficácia, nas áreas abrangidas pelas medidas preventivas
+    estabelecidas pela Res 130/2018 de 08-out da PCM, do Plano de Ordenamento da Orla Costeira Sado-Sines, aprovado pelo presente
+    diploma, pelo(a) Resolução do Conselho de Ministros n.º 84-A/2020 - Diário da República n.º 197/2020, 1º Suplemento, Série
+    I de 2020-10-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/84-a-2020-145012227
+  date: '2020-10-09'
+- type: amended_by
+  target: pt:dre:172351563:por
+  label: Determinada, nos termos do n.º 3, a suspensão da eficácia do Plano de Ordenamento da Orla Costeira Sado--Sines, aprovado
+    pelo presente diploma, nas áreas abrangidas pelas medidas preventivas, pelo(a) Resolução do Conselho de Ministros n.º
+    136-A/2021 - Diário da República n.º 193/2021, 1º Suplemento, Série I de 2021-10-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/136-a-2021-172351563
+  date: '2021-10-04'
+- type: amended_by
+  target: pt:dre:201907981:por
+  label: Determinado que nos termos do n.º 5 do presente diploma, se mantêm em vigor as disposições do Plano de Ordenamento
+    da Plano de Ordenamento da Orla Costeira Sado-Sines, e revogado, nos termos do n.º 7 a presente resolução, pelo(a) Resolução
+    do Conselho de Ministros n.º 87-A/2022 - Diário da República n.º 192/2022, 1º Suplemento, Série I de 2022-10-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/87-a-2022-201907981
+  date: '2022-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -109,16 +155,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/26/1993/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/26/1993/08/27/p/dre
+- type: cites
+  target: pt:dre:162668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:13Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1051/1995/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1051-1995-432810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf52b401eefa3259e7fe4cb26757ef199bd738637866220c364fb4ae367cb18e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6bde5d5da95faa07e2e4bbe6cd3559281f7bd4c22120432aba90b3affeea424
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,18 @@ subjects:
 - Ensino Particular
 - Ensino Superior Politécnico
 - Escola Superior de Educação
-- Numerus Clausus
 - Estabelecimento de Ensino
+- Numerus Clausus
 relationships:
 - type: amended_by
   target: pt:dre:633733:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:633733:por
+  label: "Alterado o anexo ao presente diploma, pela PORT.1447/95.05.12.1995.ME, DR.IS-B [280] de 05.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1447-1995-633733
+  date: '1995-12-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -93,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:166202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:41Z'
   warnings: []
   errors: []
 ---
@@ -167,10 +192,10 @@ A presente portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 8 de Agosto de 1995.**
+Assinada em 8 de Agosto de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Estabelecimentos de ensino superior politécnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/198b00/54075411.pdf))](https://files.diariodarepublica.pt/1s/1995/08/198b00/54075411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/198b00/54075411.pdf)

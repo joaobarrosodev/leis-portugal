@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/182/1997/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/182-1997-676801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf6eb765eeb6e23ac46a46043e28e5e0d68c3ee4f39886b28d02ed9343253054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db17f5f4911b82300b90a72067c8b0e8726e3451296ba2e1abe2cddf920582f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,18 @@ reuse:
 subjects:
 - Azeitão
 - Ordenamento do Território
-- Proteção do Ambiente
-- Setúbal
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
+- Setúbal
 relationships:
+- type: amended_by
+  target: pt:dre:793096:por
+  label: "Alterado o plano de pormenor pela DECL.14/2001(2ªSÉRIE).2000.12.12.DGOTDU-MAO, DR.IIS [7] de 09/Jan/2001\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/14-2001-793096
+  date: '2000-12-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -114,16 +119,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/1994/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/1994/08/10/p/dre
+- type: cites
+  target: pt:dre:222642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668901:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:18Z'
   warnings: []
   errors: []
 ---
@@ -412,4 +465,4 @@ O sistema de recolha de resíduos sólidos deve ser selectivo, procurando-se rea
 
 A Câmara Municipal de Setúbal poderá promover a verificação no local do cumprimento dos requisitos de salvaguarda dos valores naturais e da qualidade dos sistemas de abastecimento de água e drenagem de esgotos domésticos, através dos seus serviços ou recorrendo a entidades públicas ou privadas com competência na matéria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/250b00/58685871.pdf))](https://files.diariodarepublica.pt/1s/1997/10/250b00/58685871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/250b00/58685871.pdf)

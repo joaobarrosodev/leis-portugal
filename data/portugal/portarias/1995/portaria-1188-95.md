@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1188/1995/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1188-1995-573131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4be6a96f6349ef2c22438f8cb4561dfa48bbb4cab29543774cb5a0a226aad06f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a242e95d3832a8dfdbeba6d06e421bd0753b8472a30520d618112f772f3915e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Covilhã
-- Hospital Distrital
 - Descrição de Funções
+- Hospital Distrital
 - Pessoal de Chefia
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
@@ -76,6 +76,23 @@ relationships:
   target: pt:dre:658698:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 341/96 DE 08-AGO DR.IS-B [183]\0[183]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-08'
+- type: amended_by
+  target: pt:dre:411652:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.341/96.08.08.1996.PCM, DR.IS-B [183] de 08.08.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/341-1996-411652
+  date: '1996-08-08'
+- type: amended_by
+  target: pt:dre:658698:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital da Covilhã aprovado no presente diploma, com a redacção conferida\
+    \ na Port 341/96 de 08-Ago, pela PORT.1032/97.1997.10.01.PCM DR.IS-B [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1032-1997-658698
+  date: '1997-10-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1225/1992/12/29/p/dre
   label: null
@@ -92,16 +109,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/458/1993/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/458/1993/04/30/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621731:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:59Z'
   warnings: []
   errors: []
 ---
@@ -126,9 +207,9 @@ Unidades orgânicas de natureza técnica:
 
 Direcção de Serviços de Gestão Financeira;
 
-##### Divisão de Serviços Farmacêuticos;
+Divisão de Serviços Farmacêuticos;
 
-##### Divisão de Instalações e Equipamento;
+Divisão de Instalações e Equipamento;
 
 Unidades orgânicas de natureza administrativa:
 
@@ -136,33 +217,33 @@ Repartição de Contabilidade;
 
 Repartição de Gestão de Pessoal:
 
-#### Secção de Processamentos;
+Secção de Processamentos;
 
-#### Secção de Movimentação de Pessoal;
+Secção de Movimentação de Pessoal;
 
 Repartição de Aprovisionamento:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisições e Armazéns;
+Secção de Aquisições e Armazéns;
 
 Repartição de Gestão de Doentes:
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
-#### Secção de Arquivo e Estatística.
+Secção de Arquivo e Estatística.
 
 3.º O conteúdo funcional da carreira de secretária de serviços de saúde é o constante do anexo I à presente portaria.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 28 de Agosto de 1995.**
+Assinada em 28 de Agosto de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital Distrital da Covilhã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/225b00/60256029.pdf))](https://files.diariodarepublica.pt/1s/1995/09/225b00/60256029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/225b00/60256029.pdf)
 
 ## ANEXO I — Grupo de pessoal técnico-profissional de nível 4
 

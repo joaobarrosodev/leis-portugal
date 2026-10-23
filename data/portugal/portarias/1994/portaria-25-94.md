@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/006b00/00860087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/25/1994/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-1994-532610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b703e54d98d5b821e9bfa1a8eeffc8b7b781855fb8a7a8e822fe1db54b80c3f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cac4ba6276401b14af4940a86404edaf20106da421c4d6f22e2e9fd0922bfba1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
 - Alimento para Animais
+- Gestão de Resíduos
 - Regulamento
 relationships:
 - type: amended_by
@@ -86,16 +86,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/965/1992/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/965/1992/10/10/p/dre
+- type: repealed_by
+  target: pt:dre:357771:por
+  label: "Revogada a Portaria 965/92, de 10 de Outubro, alterada pelo presente diploma, pelo DEC LEI.122/2006.27.06.2006.MADRP,\
+    \ DR.IS-A [122] de 27.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2006-357771
+  date: '2006-06-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:02Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +116,7 @@ Considerando a necessidade de alterar a Portaria n.º 965/92, de 10 de Outubro, 
 
 Manda o Governo, pelo Ministro da Agricultura, ao abrigo do n.º 2 do Decreto-Lei n.º 175/92, de 13 de Agosto, que sejam alterados os artigos 13.º e 14.º da Portaria n.º 965/92, de 10 de Outubro, que passam a ter a seguinte redacção:
 
-###### Art. 13.º - 1 - À organização e às acções a empreender na sequência dos controlos levados a efeito pelo Estado membro de destino e às medidas de salvaguarda que sejam tomadas aplica-se o disposto no Decreto-Lei n.º 69/93, de 10 de Março, e respectivos diplomas de execução regulamentar.
+Art. 13.º - 1 - À organização e às acções a empreender na sequência dos controlos levados a efeito pelo Estado membro de destino e às medidas de salvaguarda que sejam tomadas aplica-se o disposto no Decreto-Lei n.º 69/93, de 10 de Março, e respectivos diplomas de execução regulamentar.
 
 2 - A fim de assegurar o acompanhamento dos controlos previstos no número anterior:
 
@@ -132,10 +138,10 @@ ii) Os resultados dos testes de pesquisa de salmonelas;
 
 iii) Se o produto contém proteínas provenientes de ruminantes.
 
-###### Art. 14.º Os critérios para a recolha de amostras e para os controlos microbiológicos serão objecto de portaria do Ministro da Agricultura.
+Art. 14.º Os critérios para a recolha de amostras e para os controlos microbiológicos serão objecto de portaria do Ministro da Agricultura.
 
 Mininistério da Agricultura.
 
-**Assinada em 21 de Dezembro de 1993.**
+Assinada em 21 de Dezembro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

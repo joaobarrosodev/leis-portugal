@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/276b00/70367039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1049/1994/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1049-1994-548045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f42e54abc23947f60062c5221debad7a3b59bb028f64b129a56afdfa8db5303
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffc2561a873420192fb371af3c95bb1e7fa4ea3d43ffe93ad60c25a72864e188
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Carreira Médica Hospitalar
-- Formação Profissional
-- Ensino Médico
-- Internato Complementar
-- Estágio de Formação
 - Avaliação de Conhecimentos
+- Carreira Médica Hospitalar
+- Ensino Médico
+- Estágio de Formação
+- Formação Profissional
+- Internato Complementar
+- Médico
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:360750:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 265/94 DE 22-DEZ DR.IS-B [302]3SUPL DE 31/DEZ/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PRORROGADO O PRAZO PREVISTO NO NUM 7.1.6 PELA PORT 29/95 DE 11-JAN DR.IS-B [9]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 22-A/95 DE 28-FEV DR.IS-B [50]3SUPL DE 28/FEV/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
   label: null
@@ -90,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/416-b/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/416-b/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:259697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623638:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:24Z'
   warnings: []
   errors: []
 ---
@@ -136,9 +167,9 @@ Manda o Governo, pelo Ministro da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 3 de Novembro de 1994.**
+Assinada em 3 de Novembro de 1994.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO — Regulamento das Provas de Avaliação Final dos Internatos Complementares
 

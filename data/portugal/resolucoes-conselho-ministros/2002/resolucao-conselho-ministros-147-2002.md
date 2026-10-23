@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/147/2002/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/147-2002-405334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82fae0e0b50aecb8bcb236baf6a0e2cd4eb453ebdf0347921beedc2bbc909296
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4cbf3947da4bdfe63e35830d497e62bb92a083a9550cbaf8b3dd8c01606f776
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Economia
+- Comunicações
 - Contrato de Compra e Venda
 - Contrato de Concessão
 - Delegação de Competências
-- Serviço Público
+- Ministro da Economia
 - Ministro de Estado e das Finanças
 - PT Comunicações
 - REDE de Telex
-- Comunicações
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:600347:por
@@ -92,16 +92,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/29/2002/12/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/29/2002/12/06/p/dre
+- type: cites
+  target: pt:dre:202419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693812:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:600347:por
+  label: Aprovada a minuta do acordo que retifica o contrato de compra e venda da rede básica de telecomunicações e da rede
+    de telex, celebrado entre o Estado Português e a PT Comunicações, S.A., em 27 de dezembro de 2002, cuja minuta foi aprovada
+    pelo presente diploma, pela RES.72-A/2013.15.11.2013.PCM, DR.IS [222-Supl] de 15.11.2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/72-a-2013-600347
+  date: '2013-11-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:15Z'
   warnings: []
   errors: []
 ---

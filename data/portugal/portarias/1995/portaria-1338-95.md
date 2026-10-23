@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1338/1995/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79b471a25ca50980e2cfc32e6c3cce995753667ed01bfdf4d6d44bcbabc4de21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c12aac39d5112bdbeca732ea746ef73cc364e8b48c5ebe3c8830ccf62c91d5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundo de Pensões dos Militares das Forças Armadas
 - Forças Armadas
+- Fundo de Pensões dos Militares das Forças Armadas
 - Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/749/1991/08/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/749/1991/08/05/p/dre
+- type: cites
+  target: pt:dre:334625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687582:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:41Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ Assim:
 
 Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 17.º, 21.º, 22.º e 23.º do regulamento publicado em anexo à [Portaria n.º 749/91](https://diariodarepublica.pt/dr/detalhe/portaria/749-1991-687582), de 5 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 17.º, 21.º, 22.º e 23.º do regulamento publicado em anexo à [Portaria n.º 749/91](https://diariodarepublica.pt/dr/detalhe/portaria/749-1991-687582), de 5 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -278,10 +290,10 @@ c) Caderno de encargos da obra, de onde deve constar o respectivo preço e condi
 
 5 - A não observância dos n.os 1, 2 e 3 implica a anulação do pedido e arquivamento do respectivo processo.
 
-###### Art. 2.º As alterações ao regulamento referido no artigo anterior aplicam-se às candidaturas apresentadas entre 1 de Outubro e 30 de Novembro de 1994.
+Art. 2.º As alterações ao regulamento referido no artigo anterior aplicam-se às candidaturas apresentadas entre 1 de Outubro e 30 de Novembro de 1994.
 
 Ministério da Defesa Nacional.
 
-**Assinada em 28 de Setembro de 1995.**
+Assinada em 28 de Setembro de 1995.
 
 Pelo Ministro da Defesa Nacional, Abílio Manuel Pinto Rodrigues de Almeida Morgado, Secretário de Estado da Defesa Nacional.

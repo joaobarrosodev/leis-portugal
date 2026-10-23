@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/262/1994/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/262-1994-251871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c5ab892465018cf29c26c49e5a675a7bdd1f0161269b9c98abdbdd9f9117b41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e998652f58c65488132a164486eb620cc670db397e8cf2acbaa7f68bf1f7d9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:235565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235565:por
+  label: "Desanexada uma parcela de terreno da zona de caça criada no presente diploma, pela PORT.878/98.10.10.1998.MECO,\
+    \ DR.IS-B [234] de 10.10.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/878-1998-235565
+  date: '1998-10-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1991/07/16/p/dre
   label: null
@@ -89,16 +95,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/581/1992/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/581/1992/06/26/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663911:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:17Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +171,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 13 de Abril de 1994.**
+Assinada em 13 de Abril de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/100b00/21382139.pdf))](https://files.diariodarepublica.pt/1s/1994/04/100b00/21382139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/100b00/21382139.pdf)

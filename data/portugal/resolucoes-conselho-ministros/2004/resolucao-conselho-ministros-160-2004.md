@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/160/2004/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/160-2004-549465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7baf93a1afb5ddd8fe569cbcbbe82acf09e396a1d32ec4988adb89dd7bbcf519
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7ef9a61172ba791685ec0116fc449f9933a2d83199c11d94713c0518307a84b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,24 @@ relationships:
   target: pt:dre:655343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655343:por
+  label: "Alterado o Plano Director Muncicipal ratificado pelo presente diploma na área de intervenção do Plano de Pormenor\
+    \ da Zona Nordeste da Cidade de Ponte de Sor ratificado RES.55/2006.30.03.2006.PCM, DR.IS-B [90] de 10.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/55-2006-655343
+  date: '2006-03-30'
+- type: amended_by
+  target: pt:dre:107756994:por
+  label: Tornada pública a alteração por adaptação do Plano Diretor Municipal de Ponte de Sor, ratificado pelo presente diploma,
+    pelo(a) Declaração n.º 53/2017 - Diário da República n.º 143/2017, Série II de 2017-07-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/53-2017-107756994
+  date: '2017-07-26'
+- type: amended_by
+  target: pt:dre:115406997:por
+  label: Tornada pública a correção material do art. 80.º do Regulamento do Plano Diretor Municipal de Ponte de Sor, ratificado
+    pela presente resolução, pelo(a) Declaração n.º 21/2018 - Diário da República n.º 103/2018, Série II de 2018-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/21-2018-115406997
+  date: '2018-05-29'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -83,16 +101,22 @@ relationships:
   target: celex:31992L0043
   label: null
   source: http://data.europa.eu/eli/dir/1992/43/oj
+- type: corrected_by
+  target: pt:dre:115513002:por
+  label: Retificada e republicada integralmente na versão corrigida a Decl 21/2018 de 29-mai, na correção material que efetuou
+    ao presente diploma, pelo(a) Declaração de Retificação n.º 443/2018 - Diário da República n.º 113/2018, Série II de 2018-06-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/443-2018-115513002
+  date: '2018-06-14'
 article_structure:
   article_count: 97
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:34Z'
   warnings: []
   errors: []
 ---
@@ -433,7 +457,7 @@ o) Servidão militar.
 
 Nos terrenos objecto de servidões administrativas ou de restrições de utilidade pública, os usos e construções que vierem a merecer parecer favorável das entidades competentes, nos termos da legislação aplicável, não dispensam o cumprimento obrigatório das regras constantes do presente Regulamento.
 
-### CAPITULO III
+CAPITULO III
 
 Uso dominante do solo
 
@@ -483,7 +507,7 @@ QUADRO N.º 1
 
 Número de pisos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/262b00/66126645.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/262b00/66126645.pdf)](https://files.diariodarepublica.pt/1s/2004/11/262b00/66126645.pdf)
 
 ###### Artigo 15.º — Anexos
 
@@ -671,7 +695,7 @@ QUADRO N.º 3
 
 Regime de edificabilidade nas áreas de urbanização programada
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/262b00/66126645.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/262b00/66126645.pdf)](https://files.diariodarepublica.pt/1s/2004/11/262b00/66126645.pdf)
 
 ###### Artigo 27.º — Áreas de urbanização programada - Expansão de alta densidade
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1042/1995/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1042-1995-432800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d61e5c759bc64efbb77777b05e7234a89cc16fdcf1d212bda33b13d30cb16c1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03bcec9f8be6d5d4b7c04a7580159d3f0f0c22a7c739e7d62d7727cd3e47c037
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,17 @@ relationships:
   target: pt:dre:248522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631060:por
+  label: "Renovada a concessão da zona de caça pela PORT.1059/2001.2001.09.04.MADRP, DR.IS-B [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1059-2001-631060
+  date: '2001-09-04'
+- type: amended_by
+  target: pt:dre:248522:por
+  label: "Renovada a concessão da zona de caça concessionada pelo presente diploma, renovada pela Port 1059/2001 de 04-Set,\
+    \ pela PORT.73/2008.23.01.2008.MADRP, DR.IS [16] de 23.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/73-2008-248522
+  date: '2008-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +93,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-p13/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-p13/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617904:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:28Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +137,6 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Agosto de 1995.**
+Assinada em 7 de Agosto de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

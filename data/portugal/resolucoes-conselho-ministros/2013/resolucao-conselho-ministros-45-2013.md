@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/45/2013/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fac712414bfb45001a4ed78a4b83b4627da010f613bc09acfcbf6d534a924e74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13bf07ee110888aec72768410b6bd78c6a372beb6c81dea0afae40069a4ccb65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Hospitalar do Algarve
+- Conselho Diretivo
 - Empresa Pública
-- Serviço Nacional de Saúde
-- Setor Empresarial do Estado
+- Estabelecimento Hospitalar
 - Gestor
 - Gestor Público
-- Conselho Diretivo
 - Ministério da Saúde
-- Estabelecimento Hospitalar
 - Remuneração
+- Serviço Nacional de Saúde
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:122498963:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66674042:por
+  label: Alterada, no referente à tutela setorial do Ministério da Defesa Nacional, o anexo da Res 36/2012 de 26-mar, alterado
+    pelo presente diploma, pelo(a) Resolução do Conselho de Ministros n.º 11/2015 - Diário da República n.º 46/2015, Série
+    I de 2015-03-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/11-2015-66674042
+  date: '2015-03-06'
+- type: amended_by
+  target: pt:dre:115698902:por
+  label: Alterado o anexo da Res 36/2012 de 26-mar da PCM, na redação do presente diploma, pelo(a) Resolução do Conselho de
+    Ministros n.º 92/2018 - Diário da República n.º 135/2018, Série I de 2018-07-16 nos termos dos seus n.ºs 1 e 2
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/92-2018-115698902
+  date: '2018-07-16'
+- type: amended_by
+  target: pt:dre:122498963:por
+  label: Alterado, no referente à tutela sectorial do Ministério da Saúde, onde é incluído o Hospital de Braga, E. P. E.,
+    o anexo da Res 36/2012 de 26-mar da PCM, na redação dada pelo presente diploma, pelo(a) Resolução do Conselho de Ministros
+    n.º 93/2019 - Diário da República n.º 108/2019, Série I de 2019-06-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/93-2019-122498963
+  date: '2019-06-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/69/2013/05/17/p/dre
   label: null
@@ -109,16 +129,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2012/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2012/11/21/p/dre
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:31Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +195,7 @@ a) [...]:
 
 b) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13800/0419004190.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13800/0419004190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13800/0419004190.pdf)
 
 2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 

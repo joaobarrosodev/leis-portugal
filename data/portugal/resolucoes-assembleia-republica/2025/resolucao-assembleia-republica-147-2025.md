@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19700/0000700007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/147/2025/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/147-2025-939474951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 018c251ee37d354c8fd56339ee8e052afbff1ccaa103a9c5754575b4bc72ff8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 722e66786f36a91ee185c9815bd61d69b14e3024abcd4ac80d45ccf55d5c945f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Segurança no Trabalho
-- Lista
 - Assembleia da República
-- Doença Profissional
-- Recomendação
 - Condições de Higiene e Segurança no Trabalho
 - Doença
-- Trabalho por Turnos
+- Doença Profissional
 - Equipamento de Proteção
 - Governo XXV
+- Lista
+- Recomendação
+- Segurança no Trabalho
+- Trabalho por Turnos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/6/2001/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/6/2001/05/05/p/dre
+- type: cites
+  target: pt:dre:315913:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:20Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +118,6 @@ f) Realizar um estudo para quantificar o impacto de fatores de risco ocupacional
 
 Aprovada em 19 de setembro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+119637936

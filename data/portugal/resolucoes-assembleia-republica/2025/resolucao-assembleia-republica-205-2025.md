@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/205/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/205-2025-992627239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b490d4239b35ecc6cf8338539b02899374006284556791ef5dc36c693737c14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a115881c36779bccbb3c6a2e6fced0dbd8eb8d1982fc5513c8af96347f11ad1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Assembleia da República
+- Avaliação do Pessoal
+- Pessoal Dirigente
 - Progressão na Carreira
 - Promoção Profissional
 - Regulamento
-- Avaliação do Pessoal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:49/2015
+  label: Altera, a partir de 1 de janeiro de 2026, os artigos 2.º, 10.º, 12.º, 16.º-A e 19.º do Regulamento de Gestão do Desempenho
+    na Assembleia da República, aprovado pela Resolução da Assembleia da República n.º 49/2015, de 8 de maio, Diário da República
+    n.º 89/2015, Série I
+  source: null
+  date: '2015-05-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/49/2015/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/49/2015/05/08/p/dre
+- type: cites
+  target: pt:dre:144263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67175406:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:42Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +134,9 @@ c) [...]
 
 d) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A avaliação é da competência do superior hierárquico imediato, ouvido o funcionário que possua responsabilidade de coordenação sobre o avaliado.
 
@@ -137,7 +154,9 @@ d) [...]
 
 8 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -155,7 +174,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 16.º-A — [...]
+Artigo 16.º-A
+
+[...]
 
 1 - [...]
 
@@ -167,7 +188,9 @@ e) [...]
 
 5 - Nos casos previstos no n.º 4 do artigo 29.º do EFP, o funcionário parlamentar tem direito a dois dias de férias adicionais por cada 6 pontos acumulados, que, por opção do próprio, manifestada por escrito, e tendo em consideração os limites orçamentais da Assembleia da República, são convertíveis na correspondente remuneração.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Para efeitos da presente secção, e como tal sujeitos a avaliação, são considerados dirigentes os diretores de serviços e os chefes de divisão nomeados nos termos da LOFAR.
 
@@ -185,4 +208,6 @@ A presente resolução entra em vigor no dia 1 de janeiro de 2026.
 
 Aprovada em 19 de dezembro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+119918382

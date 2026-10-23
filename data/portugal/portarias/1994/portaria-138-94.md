@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/138/1994/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-1994-275593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc3e6b0af5f80623fef5fbac52893de17e99679c244ba8f234849cd61dea056a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea9dea4fbf0c2755fc9b7bc4eb93a8670ca2e69f30fc4aa2506407e307ede40a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Aljustrel
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:15Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +116,13 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 25 de Janeiro de 1994.**
+Assinada em 25 de Janeiro de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor do Ferragial da Forca
 
-###### Artigo 1.º - O presente Regulamento é aplicável à área abrangida pelo Plano de Pormenor, cujo perímetro se encontra definido na planta de síntese.
+Artigo 1.º - O presente Regulamento é aplicável à área abrangida pelo Plano de Pormenor, cujo perímetro se encontra definido na planta de síntese.
 
 Art.º 2 O Plano é constituído pelas seguintes peças, que fazem parte integrante do presente Regulamento:
 
@@ -168,7 +176,7 @@ Art.º 7.º O parcelamento do solo é o que está definido na planta de síntese
 
 3) Biblioteca.
 
-###### Art. 8.º Edifícios propostos:
+Art. 8.º Edifícios propostos:
 
 Implantação - as superfícies de implantação são as indicadas nas peças gráficas do Plano. São, no entanto, admissíveis as alterações decorrentes do desenvolvimento dos projectos a apresentar para os vários equipamentos;
 
@@ -178,4 +186,4 @@ Art.º 9.º Juntamente com os projectos arquitectónicos deverão ser elaborados
 
 Art.º 10.º Em tudo o que estas bases regulamentares sejam omissas caberá à Câmara Municipal de Aljustrel analisar e decidir.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/056b00/11831184.pdf))](https://files.diariodarepublica.pt/1s/1994/03/056b00/11831184.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/056b00/11831184.pdf)

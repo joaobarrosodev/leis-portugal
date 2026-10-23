@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1010/1994/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1010-1994-550189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 652f5106ae9ac42fc66a906211b871e2cd97c8ce3d0f9c6ae3b4e63b8f90955c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbad292df83410e30441b1d02bd97d4443c5bf125ffa4849c9538433cb87945a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Turismo e Termalismo
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Portalegre
 relationships:
 - type: amended_by
   target: pt:dre:241243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241243:por
+  label: "Alterado o plano de estudos aprovado pelo presente diploma, pela PORT.774/98.1998.09.15.ME DR.IS-B [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-1998-241243
+  date: '1998-09-15'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:15:24Z'
   warnings: []
   errors: []
 ---
@@ -142,8 +155,8 @@ O curso referido no n.º 1.º entrará em funcionamento, progressivamente, um an
 
 Ministério da Educação.
 
-**Assinada em 28 de Outubro de 1994.**
+Assinada em 28 de Outubro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/267b00/68836884.pdf))](https://files.diariodarepublica.pt/1s/1994/11/267b00/68836884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/267b00/68836884.pdf)

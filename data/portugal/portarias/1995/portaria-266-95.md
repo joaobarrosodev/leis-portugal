@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/266/1995/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/266-1995-174521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fffff929f184c664e3362e2924da900a9244da84497cd43da6e6d0677f23ee3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4129b330da2ca9a72407c5fef82a1da9a0cf23deb1c93b846945e076a7b47c67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Bragança
 - Curso de Estudos Superiores Especializados em Auditoria e Controlo de Gestão
 - Curso de Estudos Superiores Especializados em Informática Aplicada a Gestão
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
-- Bragança
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:321569:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397962:por
+  label: "Alterado o anexo I pela Port 343/97.1997.05.22.ME, DR.IS-B [118] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-1997-397962
+  date: '1997-05-22'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321569:por
+  label: "Revogada, findo o processo de transição previsto no art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul,\
+    \ pela PORT.379/99.1999.05.21.ME,DR,IS-B [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-1999-321569
+  date: '1999-05-21'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:27Z'
   warnings: []
   errors: []
 ---
@@ -323,8 +342,8 @@ Os cursos entrarão em funcionamento no ano lectivo que for determinado por desp
 
 Ministério da Educação.
 
-**Assinada em 23 de Fevereiro de 1995.**
+Assinada em 23 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/078b00/18471851.pdf))](https://files.diariodarepublica.pt/1s/1995/04/078b00/18471851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/078b00/18471851.pdf)

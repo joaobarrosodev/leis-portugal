@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/545/1994/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/545-1994-290817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:30:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a650e11f8671566a0b0449edead81c6b069802a85caff6aba7de5233088fdf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59e833e028613afe6cf5ab1ab75f56892740bd29fc4007cf2a6f83faa1ced86e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:30:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,17 @@ relationships:
   target: pt:dre:491417:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692623:por
+  label: "Renovada a concessão da zona de caça pela PORT.493/2003.2003.06.21.MECO, DR.IS-B [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/493-2003-692623
+  date: '2003-06-21'
+- type: amended_by
+  target: pt:dre:491417:por
+  label: "Extinta a zona de caça concessionada neste diploma, com a renovação constante da Port 493/2003 de 21-Jun, pela PORT.1191/2009.07.10.2009.MADRP,\
+    \ DR.IS [194] de 07.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1191-2009-491417
+  date: '2009-10-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -91,16 +102,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-e/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-e/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:206021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:30:17Z'
   warnings: []
   errors: []
 ---
@@ -143,8 +182,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Junho de 1994.**
+Assinada em 21 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/157b00/36753676.pdf))](https://files.diariodarepublica.pt/1s/1994/07/157b00/36753676.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/157b00/36753676.pdf)

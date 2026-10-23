@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/812/1994/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/812-1994-590553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17bd8a001dde12418838aa64c6dad5dc7c54c0c077ca81cac8236fd60358cda9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7ae51acf29674fce12cdbdf073ca264bb4c4ca50c64382fbbbf6dd98a624223
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/851/1992/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/851/1992/09/02/p/dre
+- type: cites
+  target: pt:dre:240793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285477:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:52Z'
   warnings: []
   errors: []
 ---
@@ -109,10 +121,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 28 de Julho de 1994.**
+Assinada em 28 de Julho de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal da Escola Superior de Enfermagem de Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/213b00/55005500.pdf))](https://files.diariodarepublica.pt/1s/1994/09/213b00/55005500.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/213b00/55005500.pdf)

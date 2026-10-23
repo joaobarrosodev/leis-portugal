@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/234b00/62376242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1227/1995/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1227-1995-663283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c17a4f9f09b2ffc462e06ef752597bacba3f64255e8da84ffc08e7a98c137c13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9645e64fbc8b4b13044ffd568e9bf23cbad9f23aef77dcc8b56418d30d2e9ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Diploma
+- Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:303187:por
@@ -80,16 +80,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:694187:por
+  label: "Revogada pela PORT.989/99.1999.11.03.MECO,DR.IS-B [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/989-1999-694187
+  date: '1999-11-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:58Z'
   warnings: []
   errors: []
 ---
@@ -264,19 +281,19 @@ Certificação
 
 Ministérios da Indústria e Energia, da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 20 de Setembro de 1995.**
+Assinada em 20 de Setembro de 1995.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
 
 ## ANEXO I — Cursos de especialização tecnológica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/234b00/62376242.pdf))](https://files.diariodarepublica.pt/1s/1995/10/234b00/62376242.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/234b00/62376242.pdf)
 
 ## ANEXO II — Cursos de especialização tecnológica
 
 Modelos organizativos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/234b00/62376242.pdf))](https://files.diariodarepublica.pt/1s/1995/10/234b00/62376242.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/234b00/62376242.pdf)
 
 ## ANEXO III — Diploma para os alunos habilitados com formação inicial profissionalmente qualificante de nível III [alínea a) do n.º 2.º]
 

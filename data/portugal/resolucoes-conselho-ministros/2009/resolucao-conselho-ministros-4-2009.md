@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/4/2009/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2009-396927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3297ef41d7aec9d9e5bc0e0350128034903b9e06c22ff2528a843e0b63c558a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32b5d5c5ba6aa34473aaa7a41f63bb8f44ebe7964c737a3789638af7c2ff9236
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
 subjects:
 - ANO Europeu da Criatividade e da Inovação
 - Apoio Administrativo
-- Plano Tecnológico
 - Coordenador Nacional
-- Mudança Tecnológica
-- Secretaria Geral
 - Coordenador Nacional da Estrategia de Lisboa e do Plano Tecnológico
 - Estratégia de Lisboa
-- Programa de Actividades
+- Mudança Tecnológica
+- Plano Tecnológico
 - Presidência do Conselho de Ministros
+- Programa de Actividades
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/6/2006/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/6/2006/01/19/p/dre
+- type: cites
+  target: pt:dre:539580:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:13Z'
   warnings: []
   errors: []
 ---

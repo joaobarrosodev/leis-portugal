@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1253/1995/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1253-1995-668310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d051bfb992c6c6e9039c72bb13e13f6f3c903309f7d255f29b228d41c8855795
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7f59fa5f9493d48a789b273301c2fbeb9366e6f8859a6b12f46883a0705c4dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tribunal Constitucional
 - Quadro de Pessoal
 - Serviços de Apoio ao Tribunal Constitucional
+- Tribunal Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:1351997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:482161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664729:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1351997:por
+  label: "REVOGA NA PARTE CORRESPONDENTE E NA ALTERAÇÃO À PORT 170-A/90, DE 03-MAI, PELA PORT.1147/2000(2ªSÉRIE).2000.07.20.PCM,\
+    \ MF, DR.IIS [180] DE 5/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1147-2000-1351997
+  date: '2000-08-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:36Z'
   warnings: []
   errors: []
 ---
@@ -97,10 +115,10 @@ Manda o Governo, pelo Primeiro-Ministro e pelos Ministros das Finanças e da Jus
 
 Quadro de pessoal do Núcleo de Apoio Documental e Informação Jurídica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/244b00/65286529.pdf))](https://files.diariodarepublica.pt/1s/1995/10/244b00/65286529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/244b00/65286529.pdf)
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e da Justiça.
 
-**Assinada em 13 de Outubro de 1995.**
+Assinada em 13 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.

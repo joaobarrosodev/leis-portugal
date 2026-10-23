@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1033/1995/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-1995-432208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62307a09301f5ce876896de9508572474e8696e99daf9af750270c15e8bccb78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e36c14fa7a2cae8bd1159fa5d8cda8db0375e48b73ed8fa49ae256b95d4cdcd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
 - Aveiro
-- Braga
-- Cartografia
-- Serviço Nacional de Protecção Civil
-- Faro
-- Lisboa
-- Catástrofe
-- Leiria
-- Setúbal
 - Beja
-- Castelo Branco
-- Vila Real
-- Coimbra
-- Portalegre
-- Santarém
+- Braga
 - Bragança
+- Cartografia
+- Castelo Branco
+- Catástrofe
+- Coimbra
 - Évora
-- Porto
+- Faro
 - Guarda
+- Leiria
+- Lisboa
+- Portalegre
+- Porto
+- Proteção Civil
+- Santarém
+- Serviço Nacional de Protecção Civil
+- Setúbal
 - Viana do Castelo
+- Vila Real
 - Viseu
 relationships:
 - type: cites
@@ -98,16 +98,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/113/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/113/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:257591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404107:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:16Z'
   warnings: []
   errors: []
 ---
@@ -146,6 +154,6 @@ c) Distritos de alto risco: Aveiro, Lisboa, Porto e Setúbal.
 
 Ministérios da Administração Interna, das Finanças, do Planeamento e da Administração do Território, da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 11 de Julho de 1995.**
+Assinada em 11 de Julho de 1995.
 
-**O Ministro da Administração Interna, Manuel Dias Loureiro. - O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Administração Interna, Manuel Dias Loureiro. - O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.

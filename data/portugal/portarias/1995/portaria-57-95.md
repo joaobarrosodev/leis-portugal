@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/57/1995/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-1995-139752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da5809ac4a4a34d709cf89c3f5dc8a6f88c99f78a49f0dc3c1fb6c196b057fc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95867e7e168980b78fbf478dfe7e4db846b6310abb2bb67e90aba5c9505fe1ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,6 +66,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Lugares
+- Estabelecimento Hospitalar
 - Hospitais da Universidade de Coimbra
 - Integração de Trabalhadores
 - Pessoal Administrativo
@@ -73,7 +74,6 @@ subjects:
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Quadro de Efectivos Interdepartamentais
 - Quadro de Pessoal
-- Estabelecimento Hospitalar
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
@@ -111,16 +111,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/961/1993/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/961/1993/10/01/p/dre
+- type: cites
+  target: pt:dre:170483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:51Z'
   warnings: []
   errors: []
 ---
@@ -157,6 +233,6 @@ Pessoal administrativo:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 15 de Dezembro de 1994.**
+Assinada em 15 de Dezembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.

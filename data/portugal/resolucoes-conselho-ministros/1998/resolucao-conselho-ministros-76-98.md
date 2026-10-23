@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/76/1998/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08b84253619c395840764481766f3e61f33076a7977c64a36098cffb0ba20528
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ee6f4c28db0a6c845c04e663d0f3dc614a1b8d51af714dda0d91d9a747b86af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Turismo
-- Investigação Científica e Tecnológica
-- Mudança Tecnológica
 - Apoio ao Investimento
-- Projeto de Investimento
+- Comércio
+- Empresa
 - Indústria
+- Investigação Científica e Tecnológica
 - JURO Bonificado
 - Modernização Tecnológica
+- Mudança Tecnológica
 - Prestação de Serviços
 - Programa Operacional
+- Projeto de Investimento
+- Regime de Apoio
+- Regime de Apoio à Competitividade das Empresas da Construção
 - Regime de Apoio à Competitividade das Empresas de Turismo
 - Regime de Apoio à Competitividade das Empresas dos Sectores da Indústria Comércio e Serviços as Empresas
-- Regime de Apoio
+- Regime de Apoio ao Desenvolvimento de Competências Tecnológicas
+- Regulamento
 - Regulamento do Regime de Apoio à Competitividade das Empresas da Construção
 - Regulamento do Regime de Apoio à Competitividade das Empresas de Turismo
-- Regulamento
-- Regime de Apoio à Competitividade das Empresas da Construção
 - Regulamento do Regime de Apoio ao Desenvolvimento de Competências Tecnológicas
-- Regime de Apoio ao Desenvolvimento de Competências Tecnológicas
 - Subsídio não Reembolsável
-- Comércio
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1997/07/16/p/dre
@@ -114,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/131/1997/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/131/1997/08/01/p/dre
+- type: cites
+  target: pt:dre:141832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:33Z'
   warnings: []
   errors: []
 ---
@@ -192,11 +216,13 @@ g) ...
 
 4 - As redes de cooperação podem ser constituídas através de sociedades, comerciais ou cooperativas, de agrupamentos complementares de empresas de consórcios ou sob quaisquer outras formas de cooperação em direito permitidas desde que entre os entes envolvidos não existam relações de pertença e visem desenvolver actividades de interesse estratégico comum.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Os beneficiários deste Regime são pequenas e médias empresas com menos de 250 trabalhadores, incluídas na secção F - Construção, da CAE - Rev. 2, aprovada pelo [Decreto-Lei n.º 182/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1993-275862), de 14 de Maio.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +236,9 @@ c) ...
 
 3 - No caso de aprovação da candidatura, o montante de suprimentos que garante os 20% de autonomia financeira estipulados na alínea b) do n.º 1 deve ser integrado em capital próprio antes da assinatura do contrato de concessão dos incentivos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -222,7 +250,7 @@ c) Garantir o financiamento do investimento com um mínimo de 30% de capitais pr
 
 d) Garantir uma situação financeira pós-projecto (ano após a conclusão do projecto) equilibrada, entendida como uma autonomia financeira não inferior a 20%, no caso de programas estratégicos de investimento definidos nos termos da alínea b) do n.º 1 do artigo 2.º
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Despesas de investimento em capital fixo não directamente produtivo, corpóreo e incorpóreo, nomeadamente em:
 
@@ -282,7 +310,9 @@ b) No caso do investimento directamente produtivo, o quíntuplo do investimento 
 
 5 - O cálculo das despesas elegíveis é efectuado a preços correntes deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -324,11 +354,13 @@ III - Fundamentação do projecto de investimento.»
 
 4 - As redes de cooperação podem ser constituídas através de sociedades, comerciais ou cooperativas, de agrupamentos complementares de empresas, de consórcios ou sob quaisquer outras formas de cooperação em direito permitidas desde que entre os entes envolvidos não existam relações de pertença e visem desenvolver actividades de interesse estratégico comum.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Os beneficiários deste Regime são empresas com menos de 250 trabalhadores, dos sectores da indústria, comércio e serviços às empresas, incluídas nas secções C, D, G, no grupo 634 da secção I, nas divisões 72, 73 e 74 da secção K, e nas divisões 90 e 921 da secção O da CAE - Rev. 2, aprovada pelo [Decreto-Lei n.º 182/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1993-275862), de 14 de Maio.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -342,7 +374,9 @@ c) ...
 
 3 - No caso de aprovação da candidatura, o montante de suprimentos que garante os 20% de autonomia financeira, estipulados na alínea b) do n.º 1, deve ser integrado em capital próprio antes da assinatura do contrato de concessão dos incentivos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -354,7 +388,9 @@ c) Garantir o financiamento do investimento com um mínimo de 30% de capitais pr
 
 d) Garantir uma situação financeira pós-projecto (ano após a conclusão do projecto) equilibrada, entendida como uma autonomia financeira não inferior a 20%, no caso de programas estratégicos de investimento definidos nos termos da alínea b) do n.º 1 do artigo 2.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Despesas de investimento em capital fixo não directamente produtivo, corpóreo e incorpóreo, nomeadamente em:
 
@@ -414,7 +450,9 @@ b) No caso do investimento directamente produtivo, o triplo do investimento não
 
 5 - O cálculo das despesas elegíveis é efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -468,11 +506,15 @@ c) Investimentos para utilização e gestão de energias alternativas, sistemas 
 
 4 - As redes de cooperação podem ser constituídas através de sociedades, comerciais ou cooperativas, de agrupamentos complementares de empresas, de consórcios ou sob quaisquer outras formas de cooperação em direito permitidas desde que entre os entes envolvidos não existam relações de pertença e visem desenvolver actividades de interesse estratégico comum.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Os beneficiários deste Regime são empresas com menos de 250 trabalhadores, do sector do turismo, incluídas na secção H, no grupo 633 da secção I e no grupo 711 da secção K da CAE - Rev. 2, aprovada pelo [Decreto-Lei n.º 182/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1993-275862), de 14 de Maio.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -486,7 +528,9 @@ c) ...
 
 3 - No caso de aprovação da candidatura, o montante de suprimentos que garante os 20% de autonomia financeira, estipulados na alínea b) do n.º 1, deve ser integrado em capital próprio antes da assinatura do contrato de concessão dos incentivos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -502,7 +546,9 @@ e) Ter parecer favorável do ICEP - Investimentos, Comércio Externo e Turismo d
 
 f) Ter aprovação das entidades competentes, de acordo com a natureza dos projectos, nomeadamente em matéria ambiental e de energias alternativas.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Despesas de investimento em capital fixo não directamente produtivo, corpóreo e incorpóreo, nomeadamente em:
 
@@ -552,7 +598,9 @@ b) No caso do investimento directamente produtivo, o triplo do investimento não
 
 5 - O cálculo das despesas elegíveis é efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -594,7 +642,9 @@ b) Para efeitos do n.º 3 do artigo 3.º, pessoas que pretendam vir a criar PME 
 
 2 - Entende-se por rede de cooperação uma associação entre empresas sem relações de propriedade entre si ou entre entidades no Sistema Científico Tecnológico e uma ou várias empresas. Essa associação deverá assumir a forma de consórcio ou agrupamento complementar de empresas (ACE), ou outras formas de cooperação em direito permitidas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -606,7 +656,9 @@ b) Demonstrar possuir uma situação financeira equilibrada e meios financeiros 
 
 3 - No caso de aprovação da candidatura, o montante de suprimentos que garante os 20% de autonomia financeira, estipulados na alínea b) do n.º 1, deve ser integrado em capital próprio antes da assinatura do contrato de concessão dos incentivos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -648,7 +700,9 @@ h) Despesas com consumíveis directamente associados às actividades de lançame
 
 5) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os incentivos a conceder no âmbito do presente regime correspondem ao previsto no artigo 7.º do [Decreto-Lei n.º 172/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765) de 16 de Julho.
 

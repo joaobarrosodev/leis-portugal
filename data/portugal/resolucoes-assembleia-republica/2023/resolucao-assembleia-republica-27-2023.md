@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07200/0000600009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/27/2023/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-2023-211666652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffab084f97d26618b2190a05411c305efd7bbdc57b3e9e1ea0c61cffbf83753b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf07362d24d0e8ac096f4084a2c2c2965b171ca4d81db0baf319e9cd0d45fddf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Portugal
-- ONU
-- Lisboa
 - Guimarães
+- Lisboa
+- ONU
+- Portugal
 - Universidade
 relationships: []
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:17:55Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 17 de março de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 ACORDO SUPLEMENTAR AO ACORDO ENTRE A REPÚBLICA PORTUGUESA E A UNIVERSIDADE DAS NAÇÕES UNIDAS RELATIVO À CRIAÇÃO, FUNCIONAMENTO E LOCALIZAÇÃO DA UNIDADE OPERACIONAL DE GOVERNAÇÃO ELETRÓNICA ORIENTADA PARA POLÍTICAS DA UNIVERSIDADE DAS NAÇÕES UNIDAS EM GUIMARÃES, PORTUGAL.
 
@@ -207,3 +207,5 @@ Augusto Santos Silva, Minister of State and Foreign Affairs.
 For the United Nations University:
 
 Delfina Soares, Programme Head of the United Nations University Operating Unit on Policy-driven Electronic Governance.
+
+116325189

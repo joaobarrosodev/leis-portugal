@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/137b00/38913897.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/577/1995/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1995-517425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d375fe7eb40b150cb765cb0c3616f6fc75c656b1043d552bd47dc19a40aa804d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d01c50f662f01c31050fbc94015535260a6ed783cd91fb57489a0b6931579387
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,42 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
-- Gado Caprino
 - CEE
-- Definição de Competências
 - Controlo Sanitário
+- Definição de Competências
+- Doença Animal
 - Exploração Pecuária
 - Fiscalização
 - Gado Bovino
+- Gado Caprino
+- Gado Ovino
 - Gado Suíno
 - Instituto de Protecção da Produção Agro-Alimentar
 - Laboratório
-- Gado Ovino
-- Zona de Proteção
+- Pecuária
 - Política Agrícola Comum
 - Regulamento
-- Pecuária
 - Suinicultura
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:456785:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476961:por
+  label: "Substituído o termo \"doença de teschen\" por \"peste suína africana\" no anexo I do Regulamento aprovado pelo presente\
+    \ diploma, pelo DEC LEI.267/2003.25.10.2003.MADRP, DR.IS-A [248] de 25.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-2003-476961
+  date: '1995-06-16'
 - type: cites
   target: celex:31992L0119
   label: null
   source: http://data.europa.eu/eli/dir/1992/119/oj
+- type: repealed_by
+  target: pt:dre:456785:por
+  label: "Revogada pelo DEC LEI.131/2008.21.07.2008.MADRP, DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-2008-456785
+  date: '2008-07-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:01Z'
   warnings: []
   errors: []
 ---
@@ -118,17 +129,17 @@ Manda o Governo, pelo Ministro da Agricultura, que, ao abrigo do artigo 2.º do 
 
 Ministério da Agricultura.
 
-**Assinada em 19 de Maio de 1995.**
+Assinada em 19 de Maio de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 577/95
+Anexo a que se refere a Portaria n.º 577/95
 
 Regulamento das Medidas Gerais de Luta contra Certas Doenças Animais, bem como Medidas Específicas Respeitantes à Doença Vesiculosa do Suíno.
 
-###### Artigo 1.º O presente Regulamento estabelece, sem prejuízo das disposições que regem o comércio intracomunitário, as medidas de luta a aplicar em caso de surto de uma das doenças referidas no anexo I a este Regulamento e que dele faz parte integrante.
+Artigo 1.º O presente Regulamento estabelece, sem prejuízo das disposições que regem o comércio intracomunitário, as medidas de luta a aplicar em caso de surto de uma das doenças referidas no anexo I a este Regulamento e que dele faz parte integrante.
 
-###### Art. 2.º Para efeitos do presente Regulamento entende-se por:
+Art. 2.º Para efeitos do presente Regulamento entende-se por:
 
 a) «Exploração»: qualquer estabelecimento (agrícola ou outro), situado em território nacional, no qual os animais sejam mantidos ou criados;
 
@@ -146,9 +157,9 @@ g) «Autoridade competente»: o Instituto de Protecção da Produção Agro-Alim
 
 h) «Veterinário oficial»: o médico veterinário designado pela autoridade competente.
 
-###### Art. 3.º Qualquer suspeita ou existência de uma das doenças referidas no anexo I deve ser notificada de imediato à autoridade competente.
+Art. 3.º Qualquer suspeita ou existência de uma das doenças referidas no anexo I deve ser notificada de imediato à autoridade competente.
 
-###### Art. 4.º - 1 - Quando numa exploração existam animais suspeitos de estarem infectados ou contaminados por uma das doenças referidas no anexo I, o veterinário oficial deve, utilizando-se dos meios oficiais para confirmar ou informar a presença da doença em causa, proceder ou mandar proceder às colheitas de amostras necessárias às análises laboratoriais.
+Art. 4.º - 1 - Quando numa exploração existam animais suspeitos de estarem infectados ou contaminados por uma das doenças referidas no anexo I, o veterinário oficial deve, utilizando-se dos meios oficiais para confirmar ou informar a presença da doença em causa, proceder ou mandar proceder às colheitas de amostras necessárias às análises laboratoriais.
 
 2 - O transporte de animais suspeitos de doença para os laboratórios deve ser efectuado sob controlo da autoridade competente, que tomará as disposições adequadas para evitar qualquer propagação da doença.
 
@@ -176,7 +187,7 @@ f) Seja efectuado um inquérito epidemiológico nos termos do artigo 8.º
 
 6 - As medidas previstas no n.º 3 só serão levantadas quando a suspeita da presença de doença for oficialmente afastada.
 
-###### Art. 5.º - 1 - Quando a presença de uma das doenças suspeitas constantes do anexo I for oficialmente confirmada numa exploração, a autoridade competente deve ordenar, em complemento das medidas enumeradas no n.º 3 do artigo anterior, a execução das seguintes medidas:
+Art. 5.º - 1 - Quando a presença de uma das doenças suspeitas constantes do anexo I for oficialmente confirmada numa exploração, a autoridade competente deve ordenar, em complemento das medidas enumeradas no n.º 3 do artigo anterior, a execução das seguintes medidas:
 
 a) Abate imediato e no local de todos os animais das espécies sensíveis existentes na exploração, devendo os animais mortos ou abatidos ser queimados ou enterrados no local e destruídos em digestores, por forma a evitar o risco de propagação da doença;
 
@@ -192,9 +203,9 @@ d) A execução de um inquérito epidemiológico nos termos do artigo 8.º
 
 4 - A reintrodução de animais na exploração é autorizada pela autoridade competente, após o veterinário oficial ter inspeccionado as operações de limpeza e desinfecção efectuadas nos termos do artigo 16.º
 
-###### Art. 6.º Sempre que os animais selvagens estejam infectados ou haja disso suspeita, a autoridade competente deve aplicar as medidas adequadas e informar a Comissão Europeia e os outros Estados membros das mesmas.
+Art. 6.º Sempre que os animais selvagens estejam infectados ou haja disso suspeita, a autoridade competente deve aplicar as medidas adequadas e informar a Comissão Europeia e os outros Estados membros das mesmas.
 
-###### Art. 7.º - 1 - No caso de explorações compostas por duas ou mais unidades de produção distintas, a autoridade competente pode, com base em critérios a estabelecer, derrogar as exigências do n.º 1, alínea a), do artigo 5.º, no que respeita às unidades de produção sãs de uma exploração infectada, desde que o veterinário oficial confirme que as operações aí efectuadas asseguram a completa separação das unidades no que diz respeito ao alojamento, manutenção, pessoal, material e alimentação, por forma a impedir a propagação do agente patogénico de uma unidade para outra.
+Art. 7.º - 1 - No caso de explorações compostas por duas ou mais unidades de produção distintas, a autoridade competente pode, com base em critérios a estabelecer, derrogar as exigências do n.º 1, alínea a), do artigo 5.º, no que respeita às unidades de produção sãs de uma exploração infectada, desde que o veterinário oficial confirme que as operações aí efectuadas asseguram a completa separação das unidades no que diz respeito ao alojamento, manutenção, pessoal, material e alimentação, por forma a impedir a propagação do agente patogénico de uma unidade para outra.
 
 2 - Em caso de recurso à derrogação prevista no n.º 1, esta só pode ser concedida após exame individual da exploração em causa por um veterinário oficial, na altura de investigação oficial, para confirmar ou excluir a presença da doença em causa, devendo esse exame tomar em consideração todas as condições e situações relativas à possível propagação da doença em causa.
 
@@ -210,7 +221,7 @@ d) Não ter havido qualquer intercâmbio de máquinas agrícolas ou outros equip
 
 4 - As condições estabelecidas no número anterior devem ter-se verificado antes da data em que um ou mais animais infectados sejam presentes na exploração, tendo em conta o provável período de incubação da doença.
 
-###### Art. 8.º - 1 - O inquérito epidemiológico incide sobre:
+Art. 8.º - 1 - O inquérito epidemiológico incide sobre:
 
 a) A duração do período durante o qual a doença pode ter existido na exploração antes de ser notificada ou suspeitada;
 
@@ -222,7 +233,7 @@ d) A presença e distribuição de vectores da doença.
 
 2 - Será criada uma célula de crise, com os objectivos de coordenar as medidas necessárias para uma rápida erradicação da doença e proceder à execução do inquérito epidemiológico.
 
-###### Art. 9.º - 1 - Quando o veterinário oficial verificar ou suspeitar que a doença possa ter sido introduzida na exploração suspeita de infecção ou contaminação a partir de outras explorações, ou a partir daquela noutras explorações, em consequência de movimento de pessoas, de animais, de veículos ou por qualquer outra forma, essas outras explorações devem ser colocadas sob vigilância oficial, nos termos do artigo 4.º, a qual só pode ser levantada quando se conclua oficialmente pela exclusão da doença.
+Art. 9.º - 1 - Quando o veterinário oficial verificar ou suspeitar que a doença possa ter sido introduzida na exploração suspeita de infecção ou contaminação a partir de outras explorações, ou a partir daquela noutras explorações, em consequência de movimento de pessoas, de animais, de veículos ou por qualquer outra forma, essas outras explorações devem ser colocadas sob vigilância oficial, nos termos do artigo 4.º, a qual só pode ser levantada quando se conclua oficialmente pela exclusão da doença.
 
 2 - Quando o veterinário oficial verificar, considerar ou suspeitar que a doença possa ter sido introduzida na exploração infectada a partir de outras explorações, ou a partir daquela noutras explorações, em consequência de movimento de pessoas, de animais, de veículos ou por qualquer outra forma, essas outras explorações devem ser colocadas sob vigilância oficial, nos termos do artigo 4.º, a qual só pode ser levantada quando se conclua oficialmente pela exclusão da doença.
 
@@ -230,11 +241,11 @@ d) A presença e distribuição de vectores da doença.
 
 4 - Quando considerar que as condições o permitem, a autoridade competente pode limitar as medidas previstas nos n.os 1 e 2 a uma parte da exploração e aos animais que aí se encontrem, desde que a exploração reúna as condições descritas no artigo 7.º ou apenas aos animais das espécies sensíveis.
 
-###### Art. 10.º - 1 - Logo que o diagnóstico de uma das doenças referidas no anexo I tenha sido oficialmente confirmado, a autoridade competente deve delimitar, em redor da exploração infectada, uma zona de protecção com um raio mínimo de 3 km, a qual deve ser incluída numa zona de vigilância com um raio mínimo de 10 km, devendo a delimitação dessas zonas ter em consideração factores de ordem geográfica, administrativa, ecológica e epizootológica ligados à doença em causa e às estruturas de controlo.
+Art. 10.º - 1 - Logo que o diagnóstico de uma das doenças referidas no anexo I tenha sido oficialmente confirmado, a autoridade competente deve delimitar, em redor da exploração infectada, uma zona de protecção com um raio mínimo de 3 km, a qual deve ser incluída numa zona de vigilância com um raio mínimo de 10 km, devendo a delimitação dessas zonas ter em consideração factores de ordem geográfica, administrativa, ecológica e epizootológica ligados à doença em causa e às estruturas de controlo.
 
 2 - Quando a zona ou zonas abranjam o território de vários Estados membros, as respectivas autoridades competentes devem colaborar de modo a delimitar as zonas referidas no n.º 1, podendo, se necessário, ser comunitariamente delimitadas as zonas de protecção e de vigilância.
 
-###### Art. 11.º - 1 - A autoridade competente deve aplicar nas zonas de protecção as seguintes medidas:
+Art. 11.º - 1 - A autoridade competente deve aplicar nas zonas de protecção as seguintes medidas:
 
 a) Identificação de todas as explorações nas quais existam animais das espécies sensíveis dentro da referida zona;
 
@@ -248,7 +259,7 @@ d) Manutenção dos animais das espécies sensíveis na exploração em que se e
 
 3 - No final do período referido no número anterior, as regras aplicadas à zona de vigilância devem ser igualmente aplicadas à zona de protecção.
 
-###### Art. 12.º - 1 - A autoridade competente deve aplicar na zona de vigilância as seguintes medidas:
+Art. 12.º - 1 - A autoridade competente deve aplicar na zona de vigilância as seguintes medidas:
 
 a) Identificação de todas as explorações nas quais existam animais das espécies sensíveis;
 
@@ -260,7 +271,7 @@ d) Manutenção dos animais das espécies sensíveis dentro da zona de vigilânc
 
 2 - As medidas aplicadas na zona de vigilância devem ser mantidas durante um período pelo menos igual ao período máximo de incubação, depois de terem sido eliminados da exploração todos os animais referidos no artigo 5.º e depois de executadas as operações de limpeza e desinfecção previstas no artigo 16.º, podendo a autoridade competente, no caso de a doença ter sido transmitida por um insecto vector, fixar a duração da aplicação das medidas e determinar as disposições relativas a uma eventual introdução de animais-testemunho, devendo, neste caso, informar os outros Estados membros e a Comissão das medidas tomadas.
 
-###### Art. 13.º - 1 - Quando as proibições previstas na alínea d) no n.º 1 do artigo 11.º e na alínea d) no n.º 1 do artigo 12.º forem mantidas além dos 30 dias previstos devido ao aparecimento de novos casos de doença, criando problemas de alojamento dos animais, a autoridade competente, mediante pedido justificado do proprietário, pode autorizar a saída dos animais de uma exploração situada na zona de protecção ou na zona de vigilância, desde que:
+Art. 13.º - 1 - Quando as proibições previstas na alínea d) no n.º 1 do artigo 11.º e na alínea d) no n.º 1 do artigo 12.º forem mantidas além dos 30 dias previstos devido ao aparecimento de novos casos de doença, criando problemas de alojamento dos animais, a autoridade competente, mediante pedido justificado do proprietário, pode autorizar a saída dos animais de uma exploração situada na zona de protecção ou na zona de vigilância, desde que:
 
 a) O veterinário oficial tenha confirmado a existência de problemas de alojamento dos animais;
 
@@ -274,11 +285,11 @@ e) A exploração de destino esteja situada na zona de protecção ou dentro da 
 
 2 - Devem ser tomadas todas as precauções necessárias, nomeadamente através da limpeza e desinfecção dos camiões após o transporte, para evitar o risco de propagação do agente patogénico no decurso desse transporte.
 
-###### Art. 14.º A autoridade competente deve tomar as medidas necessárias para informar pelo menos as pessoas estabelecidas nas zonas de protecção e de vigilância sobre as restrições em vigor e tomar todas as decisões que se imponham para uma execução adequada dessas medidas.
+Art. 14.º A autoridade competente deve tomar as medidas necessárias para informar pelo menos as pessoas estabelecidas nas zonas de protecção e de vigilância sobre as restrições em vigor e tomar todas as decisões que se imponham para uma execução adequada dessas medidas.
 
-###### Art. 15.º As disposições específicas relativas às medidas de luta e de erradicação da doença vesiculosa do suíno são as constantes do anexo II a este Regulamento, do qual faz parte integrante.
+Art. 15.º As disposições específicas relativas às medidas de luta e de erradicação da doença vesiculosa do suíno são as constantes do anexo II a este Regulamento, do qual faz parte integrante.
 
-###### Art. 16.º - 1 - Só é permitida a utilização de desinfectantes insecticidas e respectivas concentrações oficialmente aprovados pela autoridade competente.
+Art. 16.º - 1 - Só é permitida a utilização de desinfectantes insecticidas e respectivas concentrações oficialmente aprovados pela autoridade competente.
 
 2 - As operações de limpeza, de desinfecção e de desinfectização são efectuadas sob controlo oficial:
 
@@ -290,7 +301,7 @@ b) De forma a eliminar qualquer risco de propagação ou de sobrevivência do ag
 
 4 - As explorações infectadas com a doença vesiculosa do suíno devem ser objecto de limpeza e desinfecção de acordo com os processos constantes no anexo II.
 
-###### Art. 17.º - 1 - A autoridade competente deve designar no território nacional:
+Art. 17.º - 1 - A autoridade competente deve designar no território nacional:
 
 a) Um laboratório nacional que disponha de instalações e de pessoal especializado que lhe permita determinar em qualquer altura, e nomeadamente durante as primeiras manifestações da doença, o tipo, o subtipo e a variante do vírus em causa e confirmar os resultados obtidos pelos laboratórios regionais de diagnóstico;
 
@@ -314,13 +325,13 @@ e) Assegurar que sejam confirmados os resultados positivos obtidos nos laborató
 
 5 - Os laboratórios nacionais designados para cada doença devem cooperar com os respectivos laboratórios comunitários de referência previstos no artigo 18.º
 
-###### Art. 18.º - 1 - O laboratório comunitário de referência para a doença vesiculosa do suíno consta do anexo II.
+Art. 18.º - 1 - O laboratório comunitário de referência para a doença vesiculosa do suíno consta do anexo II.
 
 2 - Os laboratórios comunitários de referência para cada uma das doenças enumeradas no anexo I serão comunitariamente designados, no âmbito da elaboração das medidas especificas próprias de cada doença.
 
 3 - As competências e tarefas dos laboratórios referidos nos n.os 1 e 2 figuram no anexo III a este Regulamento, do qual faz parte integrante.
 
-###### Art. 19.º - 1 - A vacinação contra as doenças constantes do anexo I só pode ser praticada em complemento das medidas de luta tomadas na altura do aparecimento da doença em questão, desde que a decisão de introduzir a vacina em complemento dessas medidas seja tomada pela Comissão, em colaboração com a autoridade competente, e com base nos seguintes critérios:
+Art. 19.º - 1 - A vacinação contra as doenças constantes do anexo I só pode ser praticada em complemento das medidas de luta tomadas na altura do aparecimento da doença em questão, desde que a decisão de introduzir a vacina em complemento dessas medidas seja tomada pela Comissão, em colaboração com a autoridade competente, e com base nos seguintes critérios:
 
 a) Concentração dos animais das espécies em causa na zona atingida;
 
@@ -350,13 +361,13 @@ b) Todos os animais vacinados devem permanecer na zona de vacinação, excepto s
 
 5 - Em derrogação do n.º 1, a decisão de instaurar a vacinação de urgência pode ser tomada pela autoridade competente, após notificação à Comissão, e tendo em conta, nomeadamente, o grau de concentração dos animais em certas regiões, a necessidade de proteger determinadas raças e, ainda, a zona geográfica em que é praticada a vacinação.
 
-###### Art. 20.º - 1 - Em derrogação das condições previstas no artigo 19.º quanto às medidas de emergência a adoptar pela autoridade competente e a fim de ter em conta as restrições naturais e geográficas específicas das Regiões Autónomas dos Açores e da Madeira, bem como o seu afastamento em relação à parte central do território da Comunidade, a autoridade competente pode aplicar disposições específicas especiais em matéria de luta contra cada uma das doenças enumeradas no anexo I do presente Regulamento.
+Art. 20.º - 1 - Em derrogação das condições previstas no artigo 19.º quanto às medidas de emergência a adoptar pela autoridade competente e a fim de ter em conta as restrições naturais e geográficas específicas das Regiões Autónomas dos Açores e da Madeira, bem como o seu afastamento em relação à parte central do território da Comunidade, a autoridade competente pode aplicar disposições específicas especiais em matéria de luta contra cada uma das doenças enumeradas no anexo I do presente Regulamento.
 
 2 - A autoridade competente informará a Comissão e os outros Estados membros das medidas que tiver tomado na matéria e, nomeadamente, das medidas de controlo aplicadas para evitar que os animais dos territórios em questão ou os produtos provenientes desses animais sejam enviados para outros territórios da Comunidade.
 
 ## ANEXO I — Lista das doenças de notificação obrigatória
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/137b00/38913897.pdf))](https://files.diariodarepublica.pt/1s/1995/06/137b00/38913897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/137b00/38913897.pdf)
 
 ## ANEXO II — Medidas específicas de luta e de erradiação contra certas doenças
 
@@ -412,7 +423,7 @@ Laboratoire central de recherche vétérinaire, Maisons-Alfort;
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/137b00/38913897.pdf))](https://files.diariodarepublica.pt/1s/1995/06/137b00/38913897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/137b00/38913897.pdf)
 
 Irlanda:
 

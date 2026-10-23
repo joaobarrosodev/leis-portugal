@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/168b00/40664066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/686/1994/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/686-1994-297816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5ad5b8a0e64a2c5ab62a4cfdfa44dbc29c9112e748eaba4a8c76d3d3a6241aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18d914bf94700f24be3dccfc59bb87da220032fb63a254bb85964a6f07d8fbbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,11 @@ relationships:
   target: pt:dre:539018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241663:por
+  label: "Alterados os nºs 1, 3, 4, 5, e 6 pela PORT.797/98.1998.09.22.MADRP, DR.IS-B [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/797-1998-241663
+  date: '1998-09-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1994/05/28/p/dre
   label: null
@@ -82,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/84/1992/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/84/1992/02/07/p/dre
+- type: cites
+  target: pt:dre:152140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614656:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:539018:por
+  label: "Revogada pela PORT.1434/2001.2001.12.19.MADRP,DR.IS-B [292]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1434-2001-539018
+  date: '2001-12-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:42Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +146,7 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 29 de Junho de 1994.**
+Assinada em 29 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 

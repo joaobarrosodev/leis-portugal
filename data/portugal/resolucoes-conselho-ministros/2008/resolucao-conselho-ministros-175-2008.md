@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/175/2008/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2008-439872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa1ac69ad90ad1187de0d1726a63b2174fd5ede432935ff266d774150f5e8136
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 028496bdfac947d60f512cc88b414ebeb6c0d4adca5a59555bfce42cc602d1a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Protecção do Litoral
 - Parque Natural do Litoral Norte
-- Proteção do Ambiente
-- Zona de Proteção
 - Política de Solos
-- Regulamento
+- Proteção do Ambiente
+- Protecção do Litoral
 - Rede Natura 2000
+- Regulamento
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:32004D0813
@@ -80,14 +80,14 @@ relationships:
   source: http://data.europa.eu/eli/dec/2004/813/oj
 article_structure:
   article_count: 55
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:08Z'
   warnings: []
   errors: []
 ---
@@ -458,7 +458,7 @@ ii) Áreas de protecção complementar do tipo ii.
 
 ##### SUBSECÇÃO I — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo i
 
@@ -494,7 +494,7 @@ c) Instalação de infra-estruturas e edifícios conexos destinados ao aproveita
 
 d) Instalação de infra-estruturas eléctricas e telefónicas, aéreas e subterrâneas, de telecomunicações, de transporte de gás natural e de saneamento básico.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo ii
 
@@ -520,7 +520,7 @@ c) As obras de construção de edificações de interesse municipal cuja localiz
 
 ##### SUBSECÇÃO II — Áreas de protecção complementar
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção complementar do tipo i
 
@@ -544,7 +544,7 @@ c) As obras de construção de edificações de interesse municipal cuja localiz
 
 d) As obras de reconstrução e ampliação de edificações, nos termos previstos no artigo 33.º
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção complementar do tipo ii
 
@@ -1196,4 +1196,4 @@ Nos termos do n.º 2 do artigo 14.º do Decreto-Lei n.º 19/93, de 23 de Janeiro
 
 O POPNLN entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22800/0829808314.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22800/0829808314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22800/0829808314.pdf)

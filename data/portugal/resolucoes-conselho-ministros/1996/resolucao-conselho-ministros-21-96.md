@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/21/1996/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-1996-621113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 821b7b68ecc767b03ee51855a1d1052a451e914159415a07a40456fab9452c79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7982f87eaece485919400943d8473bffc7286dd87e731734bb3b79dda6d08b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Participações do Estado
+- ANA
 - Banco Borges e Irmão
 - Banco de Fomento Exterior
 - Banco Totta e Açores
 - Brisa
-- Companhia Nacional de Petroquímica
+- Cimpor
 - Companhia das Lezírias
+- Companhia Nacional de Petroquímica
 - Dragapor-dragagens de Portugal
 - EDP
-- Portucel
-- Cimpor
 - Estaleiros Navais de Viana do Castelo
-- Portugal Telecom
 - PEC-Produtos Pecuários e Alimentação
 - Petrogal
+- Portucel
+- Portugal Telecom
 - Privatização
 - Quimigal
-- ANA
 - Setenave
 - Siderurgia Nacional
 - Tabaqueira
@@ -91,16 +91,20 @@ relationships:
   target: pt:dre:241399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:06Z'
   warnings: []
   errors: []
 ---
@@ -265,4 +269,4 @@ Com o cumprimento do programa de privatizações espera-se que, em 1996, sejam g
 
 ## ANEXO I — Principais empresas privatizáveis em 1996/1997
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/055b00/04380441.pdf))](https://files.diariodarepublica.pt/1s/1996/03/055b00/04380441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/055b00/04380441.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/151b00/34983498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/477/1994/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/477-1994-291445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f19409af28cad4942de5571dabcb477061ee8cea8c59525840d5a89d93e5f818
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9adc254ba25260afa597e6ff51a2a54feec686825ac9a567b9b2f8b2cb786e9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
+- Bombeiro
 - Contrato de Seguro
 - Seguro
-- Bombeiro
 relationships:
 - type: amended_by
   target: pt:dre:197323:por
@@ -78,16 +78,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/36/1994/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/36/1994/02/08/p/dre
+- type: cites
+  target: pt:dre:155655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521451:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197323:por
+  label: "Revogada pela PORT.35/99.1999.01.21.MF, DR.IS-B [17] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-1999-197323
+  date: '1999-01-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:34Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +137,6 @@ c) Despesas de tratamento - 1000000$00.
 
 Ministérios da Administração Interna, das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 24 de Maio de 1994.**
+Assinada em 24 de Maio de 1994.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - Pelo Ministro das Finanças, Francisco Adelino Gusmão Esteves de Carvalho, Secretário de Estado do Tesouro. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/126b00/28472848.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/335/1994/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/335-1994-301645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 517695be4ca15d1287e5b2307e8b0af299978e8c503407800aa0a8ae9364206c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e30706e0963524f4fcb3e9817fea753e14231b54dead75922a35ecfb2e219833
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gado Caprino
-- Reprodução Animal
 - Gado Ovino
-- Regulamento
 - Inseminação Artificial
+- Regulamento
+- Reprodução Animal
 relationships:
 - type: amended_by
   target: pt:dre:430392:por
@@ -79,16 +79,21 @@ relationships:
   target: celex:31992L0065
   label: null
   source: http://data.europa.eu/eli/dir/1992/65/oj
+- type: repealed_by
+  target: pt:dre:430392:por
+  label: "Revogada pela PORT.455/98.1998.07.29.MADRP, DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-1998-430392
+  date: '1998-07-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:25:12Z'
   warnings: []
   errors: []
 ---
@@ -107,17 +112,17 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Maio de 1994.**
+Assinada em 10 de Maio de 1994.
 
-**O Ministro da Agricultura, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Arlindo Marques da Cunha.
 
-## Anexo a que se refere a Portaria n.º 335/94
+Anexo a que se refere a Portaria n.º 335/94
 
 Regulamento de Licenciamento dos Centros de Inseminação Artificial de Ovinos e Caprinos
 
-###### Artigo 1.º O presente diploma estabelece as condições a que os centros de inseminação artificial de ovinos e caprinos devem obedecer para que lhes seja concedida autorização para produzir, armazenar e distribuir sémen da espécie ovina e caprina destinado à inseminação artificial.
+Artigo 1.º O presente diploma estabelece as condições a que os centros de inseminação artificial de ovinos e caprinos devem obedecer para que lhes seja concedida autorização para produzir, armazenar e distribuir sémen da espécie ovina e caprina destinado à inseminação artificial.
 
-###### Art. 2.º Para efeitos do presente diploma entende-se por:
+Art. 2.º Para efeitos do presente diploma entende-se por:
 
 a) «Centro de inseminação artificial de ovinos e caprinos (CIAOC)» - estabelecimento oficialmente autorizado e controlado pelo Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR) que produz, armazena e distribui sémen de animais da espécie ovina e caprina destinado à inseminação artificial;
 
@@ -127,7 +132,7 @@ c) «Colheita» - uma quantidade de sémen retirada de um dador da espécie ovin
 
 d) «Director do centro» - o médico veterinário autorizado pelo presidente do IEADR a exercer essas funções e que é responsável pelo cumprimento das exigências previstas neste diploma, das normas a aplicar na preparação, armazenamento e distribuição do sémen, das condições sanitárias dos animais do centro, bem como dos animais propostos à sua admissão, e pela certificação do sémen ali produzido.
 
-###### Art. 3.º - 1 - As licenças de funcionamento dos CIAOC serão requeridas ao abrigo do artigo 3.º do Decreto-Lei n.º 37/75, de 31 de Janeiro, devendo os requerimentos ser dirigidos ao presidente do IEADR e entregues nos serviços regionais de agricultura em cuja área se pretende instalá-los.
+Art. 3.º - 1 - As licenças de funcionamento dos CIAOC serão requeridas ao abrigo do artigo 3.º do Decreto-Lei n.º 37/75, de 31 de Janeiro, devendo os requerimentos ser dirigidos ao presidente do IEADR e entregues nos serviços regionais de agricultura em cuja área se pretende instalá-los.
 
 2 - Dos requerimentos devem constar os seguintes elementos:
 
@@ -155,17 +160,17 @@ l) Parecer dos serviços regionais de agricultura da área de implantação do C
 
 m) Declaração favorável da câmara municipal à instalação e funcionamento do centro.
 
-###### Art. 4.º - 1 - Só pode ser autorizado a exercer as funções de director do centro o médico veterinário que apresente comprovativo de formação na área de tecnologia do sémen e inseminação artificial.
+Art. 4.º - 1 - Só pode ser autorizado a exercer as funções de director do centro o médico veterinário que apresente comprovativo de formação na área de tecnologia do sémen e inseminação artificial.
 
 2 - A autorização referida no número anterior compete ao presidente do IEADR e é válida pelo período de dois anos, renovável por iguais períodos.
 
-###### Art. 5.º - 1 - A concessão da licença de funcionamento dos CIAOC compete ao presidente do IEADR, ouvido o Instituto de Protecção da Produção Agro-Alimentar (IPPAA) nos termos do número seguinte.
+Art. 5.º - 1 - A concessão da licença de funcionamento dos CIAOC compete ao presidente do IEADR, ouvido o Instituto de Protecção da Produção Agro-Alimentar (IPPAA) nos termos do número seguinte.
 
 2 - Compete ao IPPAA emitir parecer sobre a licença de funcionamento, a qual integrará as condições e exigências colocadas por este Instituto para a sua concessão.
 
 3 - Os técnicos do IEADR e do IPPAA inspeccionarão anualmente o funcionamento dos CIAOC.
 
-###### Art. 6.º - 1 - A admissão de animais nos CIAOC é autorizada pelo director do centro, devendo ser respeitadas as condições previstas nos pontos B e C do capítulo II do anexo D da Directiva n.º [92/65/CEE](http://data.europa.eu/eli/dir/1992/65/oj?locale=pt), do Conselho, de 13 de Julho.
+Art. 6.º - 1 - A admissão de animais nos CIAOC é autorizada pelo director do centro, devendo ser respeitadas as condições previstas nos pontos B e C do capítulo II do anexo D da Directiva n.º [92/65/CEE](http://data.europa.eu/eli/dir/1992/65/oj?locale=pt), do Conselho, de 13 de Julho.
 
 2 - Os animais alojados no CIAOC devem ser submetidos anualmente às análises previstas na alínea b) do ponto B do diploma referido no número anterior.
 

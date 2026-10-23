@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/838/1994/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/838-1994-587853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e742213e39bca29102b6bc2643924ba73ae890097eb78e28ee129267858f8d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab35aa0b1b75f3a2a8c613572c469dc5bb447089f40afaf447c3380d1c8a0383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1105/1993/11/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1105/1993/11/02/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666560:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:28Z'
   warnings: []
   errors: []
 ---
@@ -101,10 +109,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 23 de Agosto de 1994.**
+Assinada em 23 de Agosto de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal da Direcção-Geral da Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/219b00/56595659.pdf))](https://files.diariodarepublica.pt/1s/1994/09/219b00/56595659.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/219b00/56595659.pdf)

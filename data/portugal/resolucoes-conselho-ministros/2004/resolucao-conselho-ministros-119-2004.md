@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/119/2004/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/119-2004-501220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 806d0e398cbf54f2ff252778ff9dcfda2fb3190e4a814e0aa91c40fa356d09ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1960037b09ca1fcd037452463b44d3571702edb79d2f64ea41ca8d384ee78c30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Portugal
-- Grupo de Trabalho
-- Dados Estatísticos
-- Comissão para as Alterações Climáticas
-- Proteção do Ambiente
-- Programa Nacional para as Alterações Climáticas
 - Alteração Climática
 - Clima
+- Comissão para as Alterações Climáticas
+- Dados Estatísticos
+- Financiamento
+- Grupo de Trabalho
+- Portugal
+- Programa Nacional para as Alterações Climáticas
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:540621:por
@@ -87,16 +87,21 @@ relationships:
   target: celex:32003L0087
   label: null
   source: http://data.europa.eu/eli/dir/2003/87/oj
+- type: repealed_by
+  target: pt:dre:540621:por
+  label: "Revogada pela Res.104/2006.03.08.2006.PCM, DR.IS [162] de 23.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/104-2006-540621
+  date: '2006-08-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:14Z'
   warnings: []
   errors: []
 ---
@@ -289,7 +294,7 @@ Concomitantemente, e por forma a minimizar os custos da estratégia europeia de 
 
 A figura 1 ilustra a articulação necessária entre o PNAC, o comércio europeu de licenças de emissão e os mecanismos de flexibilidade do PQ, bem como a forma de articulação entre as políticas e medidas adicionais, com o domínio definido no presente documento, e todas as outras já existentes e ou a equacionar.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
 
 De acordo com a referida Directiva n.º [2003/87/CE](http://data.europa.eu/eli/dir/2003/87/oj?locale=pt), de 13 de Outubro, a partir de Janeiro de 2005, em cada EM, ficam sujeitos ao comércio europeu de licenças de emissão de GEE todos os sectores - instalações - cujas actividades se encontram listadas no seu anexo I (ver nota 2). No âmbito do presente trabalho, esta especificação induz, desde logo, à distinção entre os sectores de actividade económica sob comércio de emissões e os outros sectores, na medida em que cada um destes subgrupos deve ser alvo de tratamento diferenciado. Assim, deve atender-se aos seguintes pontos:
 
@@ -309,11 +314,11 @@ A arquitectura do conjunto de medidas e instrumentos adicionais equacionados con
 
 Nesta secção é apresentada a evolução das emissões de GEE dos diferentes sectores de actividade (figuras 2 e 3), assim como o seu esforço de redução devido à implementação das PeM previstas no cenário de referência do PNAC. Assumindo a implementação total das PeM do cenário de referência, verifica-se que entre 1990 e 2010 as emissões de GEE nacionais aumentam cerca 24,8 Mt a 28,8 Mt de CO(índice 2)eq, a que corresponde um aumento de 41% a 48%.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
 
 O consumo de energia no sector residencial e serviços é a actividade responsável pelo maior aumento percentual das emissões de GEE (em 2010 prevê-se que as emissões deste sector aumentem 126% a 135% face ao valor de 1990). Não obstante, a contribuição mais significativa em termos de volume de emissões deve-se ao sector dos transportes, com um aumento das emissões em 2010 superior a 100% em qualquer dos cenários.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
 
 No quadro n.º 1 encontram-se representadas as PeM do cenário de referência. Pode constatar-se que o sector da oferta da energia é responsável pela maioria da redução de emissões, com cerca de 50% da redução total esperada no âmbito do cenário de referência, devida à produção de electricidade por fontes renováveis. É de salientar igualmente a contribuição dos transportes, principalmente devido à implementação da Directiva de Biocombustíveis. A redução esperada da indústria justifica-se pelo pressuposto assumido na cenarização relativo à melhoria esperada da eficiência energética dos processos produtivos.
 
@@ -323,7 +328,7 @@ QUADRO N.º 1
 
 Síntese de medidas propostas para o cenário de referência
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
 
 4 - Medidas adicionais propostas
 
@@ -351,13 +356,13 @@ QUADRO N.º 2
 
 Síntese das medidas adicionais propostas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
 
 4.2 - Contribuição das medidas adicionais para a redução de GEE
 
 Nesta fase, só é possível quantificar a eficácia ambiental das medidas adicionais propostas para os sectores dos transportes, florestas, agricultura e oferta de energia. Da análise da figura 4, relativa ao cenário alto, evidencia-se a grande contribuição esperada dos transportes, com quase 50% da redução.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
 
 No quadro n.º 3 apresentam-se indicadores percentuais relativos à contribuição sectorial (e por medida adicional) para a redução de emissões de GEE, comparativamente à sua contribuição para o balanço nacional de emissões de GEE, em 2010, no cenário de referência. É de salientar a participação esperada do sector dos transportes, que, devido essencialmente às medidas destinadas a melhorar a eficiência energética do transporte individual e desincentivar a sua utilização, contribui com cerca de 40% do esforço de redução associada ao total de medidas adicionais.
 
@@ -365,13 +370,13 @@ QUADRO N.º 3
 
 Esforço de redução sectorial devido às medidas adicionais propostas e contribuição de cada sector para as emissões de GEE nacionais em 2010.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
 
 Nota. - As emissões em 2010 do cenário de referência aqui consideradas não incluem as reduções devido à floresta e alterações do uso do solo. Enquanto a contribuição percentual das medidas adicionais de cada sector para a diminuição do esforço de redução considera as sinergias entre as medidas aplicáveis ao sector da oferta de energia, o mesmo não acontece com a contribuição percentual de cada medida (de outra forma, a soma da contribuição de cada medida excede os 100%).
 
 Na figura 5 apresentam-se as reduções esperadas de cada uma das medidas consideradas individualmente. Verifica-se que cada sector apresenta pelo menos uma medida cuja contribuição é fundamental para a redução nacional, mostrando o critério de equidade de redução assumido como um dos princípios basilares do PNAC. Note-se, por exemplo, a valorização de resíduos da pecuária, na produção de electricidade a partir de energias renováveis, no desincentivo ao transporte individual e no papel de sumidouro da floresta.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
 
 Não obstante o esforço de redução associado quer ao cenário de referência quer ao conjunto de medidas adicionais, não é possível cumprir o objectivo de redução acordado no seio da UE. Como se constata das figuras 6 e 7, é ainda necessário reduzir cerca de 1,7 Mt a 5,6 Mt de CO(índice 2)eq. Este valor deve ser encarado com a cautela associada ao grau de incerteza inerente à implementação das medidas do cenário de referência, assim como as medidas adicionais.
 
@@ -421,7 +426,7 @@ O sistema de monitorização das emissões de GEE deve obedecer, desde logo, ao 
 
 A monitorização da execução das PeM é aqui objecto de análise. O processo de concepção-implementação-execução de PeM e respectivos instrumentos implica uma cadeia de agentes que, na generalidade, integra o sector público, o sector privado e os consumidores/cidadãos, organizados num modelo conceptual que é apresentado na figura 8.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)](https://files.diariodarepublica.pt/1s/2004/07/179b00/49784994.pdf)
 
 A principal motivação, interesse e necessidade da monitorização da execução de PeM no quadro de um programa transversal como o PNAC, alicerçado em obrigações de cumprimento, é assegurar o conhecimento atempado sobre o impacte esperado das PeM no balanço nacional de emissões. A informação decorrente de um sistema de monitorização deve servir, sobretudo, para identificar, em tempo útil, lacunas e ineficiências na execução das PeM por parte dos agentes. Uma tarefa subsidiária a este conhecimento é a identificação das causas de tais lacunas e a respectiva actuação, por parte da governance pública, no sentido de ajustamentos de política e instrumentos.
 

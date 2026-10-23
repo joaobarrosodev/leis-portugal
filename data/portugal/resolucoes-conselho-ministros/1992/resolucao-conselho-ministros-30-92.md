@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/30/1992/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-1992-282102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71b497f1576aacce5b799d0ae3ddcf2dddab7e998c575686eb6c209282485632
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46103c3dfa81ca228ea86e761a3a1d95764405f5e22fd9651ffa03414e433c88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,50 @@ reuse:
 subjects:
 - Ação Social
 - Ministério da Justiça
+- Ministério da Saúde
 - Ministério do Emprego e da Segurança Social
 - Orgânica
-- Proteção à Infância
 - Projecto de Apoio à Família e a Criança
-- Ministério da Saúde
+- Proteção à Infância
 relationships:
 - type: amended_by
   target: pt:dre:692200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219554:por
+  label: "Colocado na dependência do Alto-Comissário para as Questões da Promoção da Igualdade e da Família o Projecto de\
+    \ Apoio à Família e à Criança, pelo DEC LEI.3-B/96.1996.01.26.PCM, DR.IS-A [22]Supl\0]Supl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-b-1996-219554
+  date: '1996-01-26'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade, do Projecto de Apoio à Família e à Criança,\
+    \ criado pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:327823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639490:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:24Z'
   warnings: []
   errors: []
 ---

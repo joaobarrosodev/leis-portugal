@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/11/1996/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-1996-595129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1df078b1e39bbfd881227f32c41e9432b67e7df1b8e176c4faa2017aa64c2ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35976f6a2cd9462882880f68968b72487991df8405d7c70c164296717c1e303f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Idanha-a-nova
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
@@ -104,16 +104,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/43/1994/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/43/1994/06/20/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:38Z'
   warnings: []
   errors: []
 ---
@@ -152,9 +228,9 @@ REGULAMENTO DO PLANO DE PORMENOR DA ZONA INDUSTRIAL DA VILA DE PENHA GARCIA
 
 O presente Regulamento tem como anexos:
 
-## Anexo A: quadro de síntese da ocupação do solo;
+Anexo A: quadro de síntese da ocupação do solo;
 
-## Anexo B: aquisição de lotes industriais e processo de candidatura.
+Anexo B: aquisição de lotes industriais e processo de candidatura.
 
 ###### Artigo 3.º — Definições
 
@@ -296,7 +372,7 @@ Quaisquer omissões ou dúvidas de interpretação e aplicação do presente Reg
 
 ## ANEXO A — Quadro de síntese da ocupação do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/031b00/02240228.pdf))](https://files.diariodarepublica.pt/1s/1996/02/031b00/02240228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/031b00/02240228.pdf)
 
 ## ANEXO B — Aquisição de lotes industriais e processo de candidatura
 
@@ -448,4 +524,4 @@ Atendendo às condições especiais de vendas dos lotes da Zona Industrial, só 
 
 4 - O incentivo referido no n.º 2 do artigo 10.º não colide com quaisquer outros eventualmente a receber e só será atribuído uma única vez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/031b00/02240228.pdf))](https://files.diariodarepublica.pt/1s/1996/02/031b00/02240228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/031b00/02240228.pdf)

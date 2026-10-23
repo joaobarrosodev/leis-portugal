@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 162/1994, 2º Suplemento, Série I-B de 1994-07-15
   number: '162'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3862-(33) a 3862-(34)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b02/00330034.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/640-h1/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/640-h1-1994-276393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ca9a654f7a413f5668d1ec42435a1eee7b46881b2272af22e4de4d06fe950dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ad83d6b2cbbae358e26038a86aed53c093eb936ac599e33d7729117187a129d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,19 @@ relationships:
   target: pt:dre:490960:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148412:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma e renovada pela Port 636/2003 de\
+    \ 26-Jul pela PORT.860/2005.21.09.2005.MADRP, DR.IS-B [182] de 21.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/860-2005-148412
+  date: '2005-09-21'
+- type: amended_by
+  target: pt:dre:490960:por
+  label: "Renovada por um período de 6 anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Port\
+    \ 636/2003, de 26-Jul e pela Port 860/2005, de 21-Set, pela PORT.1137/2009.01.10.2009.MADRP, DR.IS [191] de 01.10.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1137-2009-490960
+  date: '2009-10-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -89,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-u7/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-u7/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:13Z'
   warnings: []
   errors: []
 ---
@@ -139,8 +176,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 5 de Julho de 1994.**
+Assinada em 5 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b02/00330034.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b02/00330034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b02/00330034.pdf)

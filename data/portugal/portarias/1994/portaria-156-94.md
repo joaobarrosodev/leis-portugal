@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/156/1994/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-1994-283909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c979b7827f2cd36884f4dfa1f770c451ff232881dd23a6ff452f33b6cce3902
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a7956085b1335df075a8af20592dc7bdf01dd6c7bbae41e56825accb2372fb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Estabelecimento Industrial
 - Instalação de Serviços
+- Ordenamento do Território
 - Parque Industrial
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Poluição Industrial
 - Regulamento
 - Vendas Novas
@@ -81,6 +81,19 @@ relationships:
   target: pt:dre:302171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302171:por
+  label: "Ratificada a alteração ao plano de pormenor pela Port 21/97.1997.01.07.MEPAT, DR.IS-B [5] e publicados em anexo\
+    \ aquela portaria os quadros e planta de síntese do plano, já reformulados.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21-1997-302171
+  date: '1997-01-07'
+- type: amended_by
+  target: pt:dre:67626848:por
+  label: Tornada pública a aprovação da segunda alteração ao Plano de Pormenor do Parque Industrial de Vendas Novas ratificado
+    pelo presente diploma, na redação da Port 21/97 de 07-jan, pelo(a) Aviso n.º 7206/2015 - Diário da República n.º 124/2015,
+    Série II de 2015-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7206-2015-67626848
+  date: '2015-06-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -97,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:40Z'
   warnings: []
   errors: []
 ---
@@ -135,9 +176,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 9 de Fevereiro de 1994.**
+Assinada em 9 de Fevereiro de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor do Parque Industrial de Vendas Novas
 
@@ -257,4 +298,4 @@ h) Os estabelecimentos industriais geradores de poluição sonora deverão preve
 
 4.4 - A concessão de alvará de licença de construção, para instalação ou alteração dos estabelecimentos industriais, ficará condicionada à apresentação, pelo interessado, de documento comprovativo do licenciamento efectuado pela Direcção-Geral da Indústria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/065b00/13891392.pdf))](https://files.diariodarepublica.pt/1s/1994/03/065b00/13891392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/065b00/13891392.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/135b00/37903808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/563/1995/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/563-1995-518802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 751a8393164691ba6a1743bc9cab05bb5d97b642678c886eaa6a931ed86fcf34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9217f83a2c2db930a23c29892be0b6b28c70144cc1e686d7ea84b162628afa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
+- Comércio
 - Comissão Consultiva de Pesticidas
-- Organismo Geneticamente Modificado
-- Definição de Competências
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
 - Etiquetagem
 - Fiscalização
 - Instituto de Protecção da Produção Agro-Alimentar
 - Licenciamento
-- Proteção do Ambiente
+- Limite Máximo de Resíduos
+- Organismo Geneticamente Modificado
 - Pesticida
 - Produto Fitofarmacêutico
-- Limite Máximo de Resíduos
-- Comércio
+- Produto Químico
+- Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:173369:por
@@ -106,16 +106,21 @@ relationships:
   target: celex:31992R3600
   label: null
   source: http://data.europa.eu/eli/reg/1992/3600/oj
+- type: repealed_by
+  target: pt:dre:173369:por
+  label: "Revogada pelo DEC LEI.94/98.1998.04.15.MADRP, DR.IS-A [88]3\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-1998-173369
+  date: '1998-04-15'
 article_structure:
-  article_count: 1
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:43Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +161,7 @@ Manda o Governo, pelos Ministros da Agricultura, da Saúde e do Ambiente e Recur
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º - 1 - O presente diploma estabelece as regras relativas à:
+Artigo 1.º - 1 - O presente diploma estabelece as regras relativas à:
 
 a) Homologação, autorização, colocação no mercado, utilização, controlo e fiscalização de produtos fitofarmacêuticos apresentados na sua forma comercial e à colocação no mercado e controlo das substâncias activas destinadas a qualquer das utilizações definidas na alínea a) do n.º 2 do artigo 2.º da presente portaria;
 
@@ -166,7 +171,7 @@ c) Aprovação dos requisitos a que deve obedecer a inscrição de uma substânc
 
 ### CAPÍTULO II — Disposições gerais
 
-###### Art. 2.º - 1 - Para os efeitos desta portaria, as entidades nacionais e comunitárias são identificadas pelas seguintes siglas:
+Art. 2.º - 1 - Para os efeitos desta portaria, as entidades nacionais e comunitárias são identificadas pelas seguintes siglas:
 
 CATPF - Comissão de Avaliação Toxicológica de Produtos Fitofarmacêuticos;
 
@@ -242,7 +247,7 @@ q) Ambiente - o ar, a água, a terra, a fauna selvagem e a flora espontânea, be
 
 r) Protecção integrada - a aplicação de uma combinação racional de medidas biológicas, biotecnológicas, químicas, culturais ou relativas à selecção dos vegetais, em que a utilização de produtos químicos fitofarmacêuticos é limitada ao estritamente necessário para manter a presença de organismos prejudiciais abaixo dos níveis a partir dos quais surgem prejuízos ou perdas economicamente inaceitáveis.
 
-###### Art. 3.º - 1 - Um produto fitofarmacêutico só pode ser colocado no mercado e utilizado, no território nacional, após atribuição de um título de autorização nos termos do presente diploma, a menos que a utilização pretendida esteja abrangida pelo disposto nos artigos 19.º e 20.º
+Art. 3.º - 1 - Um produto fitofarmacêutico só pode ser colocado no mercado e utilizado, no território nacional, após atribuição de um título de autorização nos termos do presente diploma, a menos que a utilização pretendida esteja abrangida pelo disposto nos artigos 19.º e 20.º
 
 2 - Se a utilização de um produto fitofarmacêutico não estiver autorizada no território nacional, mas se for destinado a ser utilizado noutro Estado membro, não serão postos entraves à sua produção, armazenamento e circulação, desde que:
 
@@ -260,7 +265,7 @@ ii) Se tratar de uma substância activa que não se encontre no mercado comunit�
 
 ### CAPÍTULO III — Homologação, concessão, revisão e retirada de autorização de produtos fitofarmacêuticos
 
-###### Art. 4.º - 1 - Os títulos de autorização de venda referidos no artigo 3.º são concedidos pelo IPPAA.
+Art. 4.º - 1 - Os títulos de autorização de venda referidos no artigo 3.º são concedidos pelo IPPAA.
 
 2 - Um produto fitofarmacêutico só é homologado e autorizado se:
 
@@ -316,7 +321,7 @@ b) Foram fornecidas indicações falsas ou erradas relativamente aos dados que s
 
 ### CAPÍTULO IV — Inscrição das substâncias activas na lista positiva comunitária
 
-###### Art. 5.º - 1 - Tendo em conta os conhecimentos científicos e técnicos existentes, uma substância activa será inscrita na lista positiva comunitária, por um período inicial não superior a 10 anos, se for possível admitir que os produtos fitofarmacêuticos que contêm essa substância activa respeitam as seguintes condições:
+Art. 5.º - 1 - Tendo em conta os conhecimentos científicos e técnicos existentes, uma substância activa será inscrita na lista positiva comunitária, por um período inicial não superior a 10 anos, se for possível admitir que os produtos fitofarmacêuticos que contêm essa substância activa respeitam as seguintes condições:
 
 a) Os seus resíduos, resultantes de uma aplicação conforme com uma boa prática fitossanitária, não têm efeitos prejudiciais para a saúde humana ou animal ou para as águas subterrâneas, ou um efeito inaceitável no ambiente, e, na medida em que têm significado do ponto de vista toxicológico e ambiental, podem ser determinados por métodos apropriados de uso corrente;
 
@@ -328,7 +333,7 @@ b) A sua utilização, conforme com uma boa prática, na protecção das plantas
 
 4 - Em caso de pedido da renovação prevista no número anterior, a apresentar com antecedência suficiente e, de qualquer forma, pelo menos dois anos antes de expirar o período de inscrição, aquela renovação será concedida pelo período necessário para fornecer a informação exigida em conformidade com os n.os 3, 4 e 5 do artigo 6.º
 
-###### Art. 6.º - 1 - O IPPAA, ao receber um pedido para a inscrição de uma substância activa na lista positiva comunitária, assegurará que seja remetido pelo interessado aos outros Estados membros e à Comissão um processo que satisfaça as exigências constantes do anexo I à presente portaria, bem como um outro processo conforme o anexo II a esta mesma portaria, relativo a pelo menos uma preparação que contenha essa substância activa, os quais serão submetidos para apreciação pelo CFP.
+Art. 6.º - 1 - O IPPAA, ao receber um pedido para a inscrição de uma substância activa na lista positiva comunitária, assegurará que seja remetido pelo interessado aos outros Estados membros e à Comissão um processo que satisfaça as exigências constantes do anexo I à presente portaria, bem como um outro processo conforme o anexo II a esta mesma portaria, relativo a pelo menos uma preparação que contenha essa substância activa, os quais serão submetidos para apreciação pelo CFP.
 
 2 - Sem prejuízo do disposto nos n.os 3, 4 e 5, a pedido de um Estado membro e num prazo de três a seis meses após a data em que os processos tiverem sido transmitidos ao CFP, verificar-se-á, de acordo com o procedimento comunitário apropriado, se a sua apresentação respondeu às exigências dos anexos I e II à presente portaria.
 
@@ -342,11 +347,11 @@ b) A sua utilização, conforme com uma boa prática, na protecção das plantas
 
 ### CAPÍTULO V — Informação sobre potenciais efeitos perigosos
 
-###### Art. 7.º - O requerente de homologação, o titular de uma autorização de um produto fitofarmacêutico ou a entidade a quem tenha sido concedido um alargamento do espectro de utilização em conformidade com o n.º 2 do artigo 8.º têm de comunicar imediatamente ao IPPAA, às autoridades competentes dos restantes Estados membros e à Comissão todas as novas informações relativas aos efeitos potencialmente perigosos do produto fitofarmacêutico ou dos resíduos de uma substância activa para a saúde humana ou animal ou para as águas subterrâneas ou dos seus efeitos potencialmente perigosos para o ambiente.
+Art. 7.º - O requerente de homologação, o titular de uma autorização de um produto fitofarmacêutico ou a entidade a quem tenha sido concedido um alargamento do espectro de utilização em conformidade com o n.º 2 do artigo 8.º têm de comunicar imediatamente ao IPPAA, às autoridades competentes dos restantes Estados membros e à Comissão todas as novas informações relativas aos efeitos potencialmente perigosos do produto fitofarmacêutico ou dos resíduos de uma substância activa para a saúde humana ou animal ou para as águas subterrâneas ou dos seus efeitos potencialmente perigosos para o ambiente.
 
 ### CAPÍTULO VI — Do pedido de homologação
 
-###### Art. 8.º - 1 - O pedido de homologação de um produto fitofarmacêutico e os respectivos pedidos de alargamento serão apresentados ao IPPAA pelo ou em nome do responsável pela sua colocação no mercado nacional.
+Art. 8.º - 1 - O pedido de homologação de um produto fitofarmacêutico e os respectivos pedidos de alargamento serão apresentados ao IPPAA pelo ou em nome do responsável pela sua colocação no mercado nacional.
 
 2 - Os organismos oficiais ou científicos de investigação implicados em actividades no domínio agrícola, as organizações agrícolas profissionais e os utilizadores profissionais podem pedir o alargamento do espectro de utilização de um produto fitofarmacêutico já autorizado pelo IPPAA para um fim diferente do abrangido por essa autorização.
 
@@ -376,7 +381,7 @@ d) Seja assegurada uma informação completa e específica aos utilizadores no q
 
 ### CAPÍTULO VII — Reconhecimento mútuo das autorizações
 
-###### Art. 9.º - 1 - A pedido do requerente, que deverá apresentar documentos comprovativos dos elementos de comparabilidade invocada, o IPPAA, em relação ao pedido de homologação de um produto fitofarmacêutico já autorizado noutro Estado membro:
+Art. 9.º - 1 - A pedido do requerente, que deverá apresentar documentos comprovativos dos elementos de comparabilidade invocada, o IPPAA, em relação ao pedido de homologação de um produto fitofarmacêutico já autorizado noutro Estado membro:
 
 a) Não exigirá a repetição dos ensaios e análises já realizados, segundo métodos harmonizados a nível comunitário, para a autorização do referido produto nesse Estado membro, sempre que as condições agrícolas, fitossanitárias e ambientais, incluindo as climáticas, relacionadas com a utilização do produto sejam comparáveis e similares nas regiões em causa;
 
@@ -390,13 +395,13 @@ b) Permitirá igualmente a colocação no mercado nacional do referido produto, 
 
 5 - O IPPAA informará a Comissão dos casos em que tenha exigido a repetição de ensaios ou análises ou tenha recusado a autorização de colocação no mercado nacional de um produto fitofarmacêutico já autorizado noutro Estado membro de acordo com as condições do n.º 1 deste artigo.
 
-###### Art. 10.º - 1 - Quando o IPPAA tiver razões válidas para considerar que um produto que tenha autorizado ou que deveria autorizar, nos termos do artigo 9.º, constitui um risco para a saúde humana ou animal ou para o ambiente, pode, provisoriamente, retirar a autorização ou não a conceder, conforme o caso, ou restringir a utilização desse produto em Portugal, devendo informar imediatamente a Comissão e os outros Estados membros de tal medida e indicar as razões da sua decisão.
+Art. 10.º - 1 - Quando o IPPAA tiver razões válidas para considerar que um produto que tenha autorizado ou que deveria autorizar, nos termos do artigo 9.º, constitui um risco para a saúde humana ou animal ou para o ambiente, pode, provisoriamente, retirar a autorização ou não a conceder, conforme o caso, ou restringir a utilização desse produto em Portugal, devendo informar imediatamente a Comissão e os outros Estados membros de tal medida e indicar as razões da sua decisão.
 
 2 - A decisão sobre a matéria referida no número anterior ocorrerá de acordo com o procedimento comunitário previsto para este efeito.
 
 ### CAPÍTULO VIII — Intercâmbio de informações
 
-###### Art. 11.º - 1 - No final de cada trimestre e no prazo de um mês, o IPPAA informará os outros Estados membros e a Comissão de todos os produtos fitofarmacêuticos autorizados ou cuja autorização foi cancelada ou não concedida, em conformidade com o disposto no presente diploma, indicando:
+Art. 11.º - 1 - No final de cada trimestre e no prazo de um mês, o IPPAA informará os outros Estados membros e a Comissão de todos os produtos fitofarmacêuticos autorizados ou cuja autorização foi cancelada ou não concedida, em conformidade com o disposto no presente diploma, indicando:
 
 a) O nome ou a sede social do titular da autorização;
 
@@ -418,7 +423,7 @@ h) Quando aplicável, as razões da revogação da autorização.
 
 ### CAPÍTULO IX — Protecção de dados e confidencialidade
 
-###### Art. 12.º - 1 - Sem prejuízo do disposto no artigo 9.º, o IPPAA exigirá que o requerente de homologação de um produto fitofarmacêutico junte ao seu pedido:
+Art. 12.º - 1 - Sem prejuízo do disposto no artigo 9.º, o IPPAA exigirá que o requerente de homologação de um produto fitofarmacêutico junte ao seu pedido:
 
 a) Em relação ao produto fitofarmacêutico, um processo que satisfaça, à luz dos conhecimentos científicos e técnicos existentes, os requisitos referidos no anexo II à presente portaria;
 
@@ -464,7 +469,7 @@ c) O IPPAA, se dispuser de elementos suficientes que revelem que o requerente te
 
 9 - Quando os dados forem solicitados com vista à inclusão de uma substância activa existente no mercado desde 26 de Julho de 1993 na lista positiva comunitária, o IPPAA procurará que os detentores de dados cooperem na comunicação dos dados solicitados, a fim de limitar a repetição de ensaios com vertebrados, e poderá vir a propor medidas que obriguem o requerente de homologação e o titular da autorização a partilhar as informações, de modo a evitar aquela repetição, determinando o processo para a utilização da informação e para o equilíbrio razoável entre os interesses das partes envolvidas.
 
-###### Art. 13.º - 1 - Sem prejuízo das disposições nacionais em vigor relativas à liberdade de acesso à informação sobre o ambiente, o IPPAA e a Comissão assegurarão que a informação apresentada pelos requerentes e que constituem segredo industrial ou comercial sejam mantidas confidenciais no caso de a pessoa interessada na inclusão de uma substância activa na lista positiva comunitária ou o requerente da homologação de um produto fitofarmacêutico assim o solicitarem e se o IPPAA ou a Comissão aceitarem a justificação fornecida.
+Art. 13.º - 1 - Sem prejuízo das disposições nacionais em vigor relativas à liberdade de acesso à informação sobre o ambiente, o IPPAA e a Comissão assegurarão que a informação apresentada pelos requerentes e que constituem segredo industrial ou comercial sejam mantidas confidenciais no caso de a pessoa interessada na inclusão de uma substância activa na lista positiva comunitária ou o requerente da homologação de um produto fitofarmacêutico assim o solicitarem e se o IPPAA ou a Comissão aceitarem a justificação fornecida.
 
 2 - A confidencialidade não abrange:
 
@@ -494,7 +499,7 @@ l) Os primeiros socorros e tratamento médico a aplicar em caso de lesões corpo
 
 ### CAPÍTULO X — Acondicionamento e rotulagem dos produtos fitofarmacêuticos
 
-###### Art. 14.º As embalagens dos produtos fitofarmacêuticos, no que respeita à rotulagem, ficam sujeitas à prévia autorização do IPPAA e devem satisfazer as seguintes condições:
+Art. 14.º As embalagens dos produtos fitofarmacêuticos, no que respeita à rotulagem, ficam sujeitas à prévia autorização do IPPAA e devem satisfazer as seguintes condições:
 
 1 - Em todas as embalagens devem constar, de modo legível e indelével, as seguintes indicações:
 
@@ -568,17 +573,17 @@ s) O prazo de validade em condições normais de armazenamento, quando o produto
 
 11 - Os rótulos desactualizados em virtude do disposto no número anterior têm de ser retirados do mercado nacional pelos titulares das respectivas autorizações, no prazo a prever caso a caso pelo conselho directivo do IPPAA.
 
-###### Art. 15.º O artigo 6.º do Decreto-Lei n.º 294/88, de 24 de Agosto, aplica-se a todos os produtos fitofarmacêuticos não abrangidos por esse diploma.
+Art. 15.º O artigo 6.º do Decreto-Lei n.º 294/88, de 24 de Agosto, aplica-se a todos os produtos fitofarmacêuticos não abrangidos por esse diploma.
 
 ### CAPÍTULO XI — Publicidade e informação técnica
 
-###### Art. 16.º - 1 - A publicidade e a informação técnica não autenticada pelo(s) respectivo(s) autor(es) sobre produtos fitofarmacêuticos só podem ser divulgadas pelos titulares das respectivas autorizações de venda desde que estejam de acordo com o estipulado na presente portaria, sendo obrigatório o seu envio ao IPPAA antes da sua divulgação.
+Art. 16.º - 1 - A publicidade e a informação técnica não autenticada pelo(s) respectivo(s) autor(es) sobre produtos fitofarmacêuticos só podem ser divulgadas pelos titulares das respectivas autorizações de venda desde que estejam de acordo com o estipulado na presente portaria, sendo obrigatório o seu envio ao IPPAA antes da sua divulgação.
 
 2 - Os textos referidos no número anterior divulgados em desacordo com o estipulado nesta portaria, além das sanções previstas no Decreto-Lei n.º 284/94, de 11 de Novembro, serão recolhidos pelos titulares das respectivas autorizações de venda.
 
 ### CAPÍTULO XII — Condições de comercialização
 
-###### Art. 17.º - 1 - A colocação no mercado de um produto fitofarmacêutico, bem como a publicidade ou promoção com ela relacionada, só pode ser efectuada de acordo com as condições da autorização concedida.
+Art. 17.º - 1 - A colocação no mercado de um produto fitofarmacêutico, bem como a publicidade ou promoção com ela relacionada, só pode ser efectuada de acordo com as condições da autorização concedida.
 
 2 - A colocação no mercado de produtos fitofarmacêuticos só é permitida em embalagens fechadas e invioladas.
 
@@ -600,13 +605,13 @@ b) Os mesmos locais ficam sujeitos à observância das medidas cautelares julgad
 
 ### CAPÍTULO XIII — Estruturas técnicas das empresas
 
-###### Art. 18.º - 1 - As entidades responsáveis pela colocação no mercado nacional de produtos fitofarmacêuticos terão ao seu serviço pelo menos um técnico responsável, com preparação adequada ao desempenho das atribuições, a quem competirá a concretização das determinações técnicas contidas na presente portaria, servindo, nomeadamente, de interlocutor com os técnicos do IPPAA.
+Art. 18.º - 1 - As entidades responsáveis pela colocação no mercado nacional de produtos fitofarmacêuticos terão ao seu serviço pelo menos um técnico responsável, com preparação adequada ao desempenho das atribuições, a quem competirá a concretização das determinações técnicas contidas na presente portaria, servindo, nomeadamente, de interlocutor com os técnicos do IPPAA.
 
 2 - As empresas deverão informar o IPPAA sobre a identidade do(s) técnico(s) responsável(eis) referido(s) no n.º 1 e no caso da sua substituição disporão de um prazo de 60 dias para indicar o seu substituto, ficando entretanto suspensas as respectivas relações técnicas.
 
 ### CAPÍTULO XIV — Investigação, desenvolvimento e controlo
 
-###### Art. 19.º - 1 - A realização de testes e experiências para efeitos do disposto na alínea b) do n.º 2 do artigo 4.º, particularmente em relação à eficácia e efeitos secundários sobre as culturas e organismos auxiliares, considerando as condições agrícolas, fitossanitárias e ambientais, incluindo as climáticas prevalecentes no País, embora sem prejuízo do estipulado no artigo 9.º, deve ser efectuada de acordo com o prescrito no artigo 20.º e com os métodos e condições gerais de instalação de ensaios recomendados a nível comunitário, ou, na sua ausência, aceites pelo IPPAA.
+Art. 19.º - 1 - A realização de testes e experiências para efeitos do disposto na alínea b) do n.º 2 do artigo 4.º, particularmente em relação à eficácia e efeitos secundários sobre as culturas e organismos auxiliares, considerando as condições agrícolas, fitossanitárias e ambientais, incluindo as climáticas prevalecentes no País, embora sem prejuízo do estipulado no artigo 9.º, deve ser efectuada de acordo com o prescrito no artigo 20.º e com os métodos e condições gerais de instalação de ensaios recomendados a nível comunitário, ou, na sua ausência, aceites pelo IPPAA.
 
 2 - O IPPAA estabelecerá regras necessárias à realização de ensaios de produtos fitofarmacêuticos, para fins de homologação, no âmbito do indicado no n.º 1 deste artigo, relativamente a métodos e outros aspectos gerais de instalação e condução de ensaios, tramitação do pedido de experimentação e de visitas de técnicos do IPPAA aos locais de ensaio e seu acompanhamento.
 
@@ -614,7 +619,7 @@ b) Os mesmos locais ficam sujeitos à observância das medidas cautelares julgad
 
 4 - O procedimento do n.º 2 deste artigo será estabelecido em relação a outros tipos de ensaios e análises, o que poderá permitir, em qualquer caso, a definição de ensaios e análises oficialmente reconhecidos nos termos do n.º 6 do artigo 4.º da presente portaria, bem como das entidades responsáveis pela sua realização.
 
-###### Art. 20.º - 1 - Os ensaios e análises a efectuar para fins de investigação ou desenvolvimento que impliquem a utilização no ambiente de um produto fitofarmacêutico não autorizado só podem ser efectuados depois de obtida do IPPAA uma autorização de experimentação, sob condições controladas e em quantidades e áreas limitadas.
+Art. 20.º - 1 - Os ensaios e análises a efectuar para fins de investigação ou desenvolvimento que impliquem a utilização no ambiente de um produto fitofarmacêutico não autorizado só podem ser efectuados depois de obtida do IPPAA uma autorização de experimentação, sob condições controladas e em quantidades e áreas limitadas.
 
 2 - Antes do início do ensaio ou da experimentação e dentro dos prazos indicados nesta portaria, os interessados apresentarão ao IPPAA um pedido acompanhado de documentação que contenha todos os dados disponíveis que permitam avaliar de eventuais efeitos sobre a saúde humana ou animal ou a sua eventual repercussão no ambiente.
 
@@ -626,13 +631,13 @@ b) Os mesmos locais ficam sujeitos à observância das medidas cautelares julgad
 
 6 - A importação de produtos fitofarmacêuticos, destinados a ser utilizados conforme o disposto no presente artigo e no artigo 19.º, não é considerada como colocação no mercado, tal como é definido na alínea m) do n.º 2 do artigo 2.º, devendo as respectivas embalagens ser devidamente identificadas em relação a esse objectivo.
 
-###### Art. 21.º Anualmente, até 1 de Agosto, será publicado pelo IPPAA um relatório da actividade de controlo referente ao ano anterior, que será enviado aos outros Estados membros.
+Art. 21.º Anualmente, até 1 de Agosto, será publicado pelo IPPAA um relatório da actividade de controlo referente ao ano anterior, que será enviado aos outros Estados membros.
 
-###### Art. 22.º Em caso de eliminação de produtos fitofarmacêuticos e das suas embalagens, a mesma deve ser efectuada de acordo com o método indicado na alínea i) do n.º . 2 do artigo 13.º
+Art. 22.º Em caso de eliminação de produtos fitofarmacêuticos e das suas embalagens, a mesma deve ser efectuada de acordo com o método indicado na alínea i) do n.º . 2 do artigo 13.º
 
 ### CAPÍTULO XV — Disposições finais e transitórias
 
-###### Art. 23.º - 1 - O IPPAA pode autorizar, por um período provisório não superior a três anos, a colocação no mercado nacional de produtos fitofarmacêuticos que contenham substâncias activas que não constem da lista positiva comunitária e que ainda não se encontrem no mercado comunitário em 26 de Julho de 1993, se:
+Art. 23.º - 1 - O IPPAA pode autorizar, por um período provisório não superior a três anos, a colocação no mercado nacional de produtos fitofarmacêuticos que contenham substâncias activas que não constem da lista positiva comunitária e que ainda não se encontrem no mercado comunitário em 26 de Julho de 1993, se:
 
 a) Tiver verificado que o processo relativo à substância activa satisfaz os requisitos dos anexos I e II à presente portaria relativamente às utilizações previstas;
 
@@ -658,7 +663,7 @@ b) Chegar à conclusão que a substância activa satisfaz os requisitos constant
 
 11 - O IPPAA poderá autorizar, por um período máximo de 120 dias, a colocação no mercado nacional de produtos fitofarmacêuticos não autorizados com vista a uma utilização limitada e controlada, em casos de extrema necessidade ou devido a um perigo imprevisível que não possa ser combatido por outros meios.
 
-###### Art. 24.º - 1 - Os pareceres emitidos pela CATPF, a pedido do IPPAA, no âmbito dos processos referidos nos n.os 8 e 9 do artigo 8.º e no n.º 1 do artigo 10.º da presente portaria deverão ser fundamentados.
+Art. 24.º - 1 - Os pareceres emitidos pela CATPF, a pedido do IPPAA, no âmbito dos processos referidos nos n.os 8 e 9 do artigo 8.º e no n.º 1 do artigo 10.º da presente portaria deverão ser fundamentados.
 
 2 - Os peritos de outros organismos do Ministério da Agricultura envolvidos nos pedidos de homologação serão designados pelo Ministro da Agricultura, ouvido o conselho directivo do IPPAA.
 
@@ -668,11 +673,11 @@ b) Chegar à conclusão que a substância activa satisfaz os requisitos constant
 
 5 - Sempre que o IPPAA o considere necessário, poderá solicitar parecer, para fins de homologação de produtos fitofarmacêuticos, a outros organismos do Ministério da Agricultura.
 
-###### Art. 25.º As entidades responsáveis pela colocação no mercado nacional de produtos fitofarmacêuticos são obrigadas a enviar ao IPPAA em nome individual ou através das suas associações, até 30 de Maio de cada ano, os dados relativos às quantidades vendidas no ano anterior, discriminadas por substância activa.
+Art. 25.º As entidades responsáveis pela colocação no mercado nacional de produtos fitofarmacêuticos são obrigadas a enviar ao IPPAA em nome individual ou através das suas associações, até 30 de Maio de cada ano, os dados relativos às quantidades vendidas no ano anterior, discriminadas por substância activa.
 
 Ministérios da Agricultura, da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 11 de Maio de 1995.**
+Assinada em 11 de Maio de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
@@ -702,7 +707,7 @@ ii) Não é necessário do ponto de vista científico ou tecnicamente possível 
 
 2.2 - Em derrogação do n.º 2.1, os ensaios e análises realizados para obter dados sobre as propriedades e ou segurança das abelhas e outros artrópodes auxiliares podem ser realizados em instalações ou organizações oficiais ou oficialmente reconhecidas que satisfaçam, pelo menos, as exigências dos n.os 2.2 e 2.3 do anexo II, terminando esta derrogação em 31 de Dezembro de 1999.
 
-# PARTE A — Das substâncias químicas (ver nota 1)
+## PARTE A — Das substâncias químicas (ver nota 1)
 
 1 - Da identificação da substância activa deve constar:
 
@@ -982,7 +987,7 @@ Frases relativas aos conselhos de prudência.
 
 (nota 3) Estas informações devem ser fornecidas para a substância activa e para a substância activa purificada cuja especificação é indicada.
 
-# PARTE B — Microrganismos e vírus
+## PARTE B — Microrganismos e vírus
 
 [O disposto nesta parte B ou parte que não se aplica aos organismos geneticamente modificados (ver nota *) nos pontos abrangidos pela Directiva n.º [90/220/CEE](http://data.europa.eu/eli/dir/1990/220/oj?locale=pt), de 23 de Abril de 1986.]
 
@@ -1236,7 +1241,7 @@ Quando é permitida a utilização do formulante em alimentos para o homem e par
 
 Quando forem apresentados dados sobre a segurança do formulante em conformidade com a Directiva n.º [67/548/CEE](http://data.europa.eu/eli/dir/1967/548/oj?locale=pt), de 27 de Junho, do Conselho.
 
-# PARTE A — Preparações químicas
+## PARTE A — Preparações químicas
 
 1 - Da identificação do produto fitofarmacêutico deve constar:
 
@@ -1672,7 +1677,7 @@ Frases relativas aos conselhos de prudência.
 
 (nota *) «International seed testing», Proceedings of the International Seed Testing Association, Seed Science and Technology, vol. 13, n.º 2, 1985.
 
-# PARTE B — Microrganismos e vírus
+## PARTE B — Microrganismos e vírus
 
 (Esta parte não se aplica aos OGM nos pontos abrangidos pelo Decreto-Lei n.º 126/93, de 20 de Abril)
 

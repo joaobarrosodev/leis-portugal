@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/155/1994/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-1994-283908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b55753331b52d0c8c9ee1500778d00e2a2549130d50ae51a6e5daab2beab116
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62c2b36350067e405db81f5d42b7fc70ee22a72e0a053edf68a54288d39ff62b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Odemira
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:60652208:por
+  label: Tornada pública a alteração por adaptação dos arts. 2.º, 4.º e 5.º, 10.º a 12.º, 14.º, 29.º e a introd. do art. 30.º
+    todos do Plano de Pormenor da Zona Nordeste de São Luís, município de Odemira, ratificado pelo presente diploma pelo(a)
+    Aviso n.º 13445/2014 - Diário da República n.º 233/2014, Série II de 2014-12-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13445-2014-60652208
+  date: '2014-12-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -96,16 +103,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/286/1993/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/286/1993/03/12/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:43Z'
   warnings: []
   errors: []
 ---
@@ -132,9 +195,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 2 de Fevereiro de 1994.**
+Assinada em 2 de Fevereiro de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Plano de Pormenor da Zona Nordeste de São Luís
 
@@ -184,72 +247,72 @@ As oficinas (lotes n.os 131 a 148) são espaços para ocupações variadas (ofic
 
 Regulamento do Plano de Pormenor da Zona Nordeste de São Luís
 
-###### Artigo 1.º As peças desenhadas fazem parte integrante deste Regulamento.
+Artigo 1.º As peças desenhadas fazem parte integrante deste Regulamento.
 
-###### Art. 2.º A implantação das construções deverá cumprir os alinhamentos expressos na planta n.º 7, devendo ser cumprido o Regulamento Geral das Edifcações Urbanas (RGEU) em relação aos restantes limites.
+Art. 2.º A implantação das construções deverá cumprir os alinhamentos expressos na planta n.º 7, devendo ser cumprido o Regulamento Geral das Edifcações Urbanas (RGEU) em relação aos restantes limites.
 
-###### Art. 3.º Não serão permitidas quaisquer alterações aos projectos tipo da Câmara Municipal de Odemira (CMO).
+Art. 3.º Não serão permitidas quaisquer alterações aos projectos tipo da Câmara Municipal de Odemira (CMO).
 
-###### Art. 4.º Os lotes destinados a habitação social deverão alinhar pela frente, constituindo bandas contínuas, obedecendo ao projecto tipo elaborado pela CMO, conforme desenho na planta n.º 7.
+Art. 4.º Os lotes destinados a habitação social deverão alinhar pela frente, constituindo bandas contínuas, obedecendo ao projecto tipo elaborado pela CMO, conforme desenho na planta n.º 7.
 
-###### Art. 5.º Os restantes lotes, com excepção das oficinas, devem prever uma garagem para estacionamento de um veículo por fogo.
+Art. 5.º Os restantes lotes, com excepção das oficinas, devem prever uma garagem para estacionamento de um veículo por fogo.
 
-###### Art. 6.º Nos lotes destinados a habitação social não é permitida a construção de sótãos que impliquem o aumento da altura das paredes exteriores da edificação ou a inclinação da cobertura.
+Art. 6.º Nos lotes destinados a habitação social não é permitida a construção de sótãos que impliquem o aumento da altura das paredes exteriores da edificação ou a inclinação da cobertura.
 
-###### Art. 7.º As construções não deverão exceder o número de pisos indicado no quadro síntese.
+Art. 7.º As construções não deverão exceder o número de pisos indicado no quadro síntese.
 
-###### Art. 8.º Poderão admitir-se outras resoluções volumétricas e tipológicas, à excepção dos lotes com tipologia habitacional (seis) (v. quadro síntese), desde que sejam mantidos os alinhamentos, seja garantida a integração estética no conjunto e cumpridos os demais pontos deste Regulamento.
+Art. 8.º Poderão admitir-se outras resoluções volumétricas e tipológicas, à excepção dos lotes com tipologia habitacional (seis) (v. quadro síntese), desde que sejam mantidos os alinhamentos, seja garantida a integração estética no conjunto e cumpridos os demais pontos deste Regulamento.
 
-###### Art. 9.º Só poderá existir uma construção principal por cada lote edificável.
+Art. 9.º Só poderá existir uma construção principal por cada lote edificável.
 
-###### Art. 10.º As construções adjacentes aos espaços públicos (lotes n.os 29 a 36, 61 a 64 e 128 a 130) poderão ter uso comercial a nível de rés-do-chão e habitacional no piso superior, sendo cumpridas as disposições constantes no RGEU e portarias municipais.
+Art. 10.º As construções adjacentes aos espaços públicos (lotes n.os 29 a 36, 61 a 64 e 128 a 130) poderão ter uso comercial a nível de rés-do-chão e habitacional no piso superior, sendo cumpridas as disposições constantes no RGEU e portarias municipais.
 
-###### Art. 11.º Na zona destinada a oficinas e armazéns permite-se a construção até 10 m de profundidade, constituindo o espaço restante área de logradouro (v. des. n.º 7).
+Art. 11.º Na zona destinada a oficinas e armazéns permite-se a construção até 10 m de profundidade, constituindo o espaço restante área de logradouro (v. des. n.º 7).
 
-###### Art. 12.º A linha do beiral, nas edificações destinadas a oficinas/armazéns não deverá exceder 5 m contados acima da cota de soleira. A linha de cumeeira não deverá exceder 7 m de altura.
+Art. 12.º A linha do beiral, nas edificações destinadas a oficinas/armazéns não deverá exceder 5 m contados acima da cota de soleira. A linha de cumeeira não deverá exceder 7 m de altura.
 
-###### Art. 13.º Nas edificações destinadas a oficinas/armazéns dever-se-á prever guarda-fogos nas empenas de cada construção, subindo 0,5 m acima do telhado.
+Art. 13.º Nas edificações destinadas a oficinas/armazéns dever-se-á prever guarda-fogos nas empenas de cada construção, subindo 0,5 m acima do telhado.
 
-###### Art. 14.º Os lotes para oficinas deverão ser destinados à pequena indústria (exemplo: carpintaria, serralharia, olaria, oficina auto ou armazéns, etc.).
+Art. 14.º Os lotes para oficinas deverão ser destinados à pequena indústria (exemplo: carpintaria, serralharia, olaria, oficina auto ou armazéns, etc.).
 
-###### Art. 15.º É proibida a utilização dos edifícios destinados a oficinas/armazéns para o armazenamento de matérias poluentes ou facilmente inflamáveis.
+Art. 15.º É proibida a utilização dos edifícios destinados a oficinas/armazéns para o armazenamento de matérias poluentes ou facilmente inflamáveis.
 
-###### Art. 16.º Nos termos do artigo 10.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, a CMO não concederá licença para obras de novas instalações, alterações ou ampliações de estabelecimentos industriais sem que tenha sido efectuado o respectivo licenciamento pela entidade coordenadora.
+Art. 16.º Nos termos do artigo 10.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, a CMO não concederá licença para obras de novas instalações, alterações ou ampliações de estabelecimentos industriais sem que tenha sido efectuado o respectivo licenciamento pela entidade coordenadora.
 
-###### Art. 17.º Os estabelecimentos industriais susceptíveis de emitir poluentes atmosféricos deverão tomar medidas para minimizar aquelas emissões, de forma a cumprir com o disposto no [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, e não ultrapassar os limites fixados na [Portaria n.º 286/93](https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909), de 12 de Março, ou outra legislação aplicável.
+Art. 17.º Os estabelecimentos industriais susceptíveis de emitir poluentes atmosféricos deverão tomar medidas para minimizar aquelas emissões, de forma a cumprir com o disposto no [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, e não ultrapassar os limites fixados na [Portaria n.º 286/93](https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909), de 12 de Março, ou outra legislação aplicável.
 
-###### Art. 18.º - 1 - As águas industriais residuais a descarregar no colector municipal deverão cumprir os parâmetros indicados no anexo XXVIII do [Decreto-Lei n.º 74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430), de 7 de Março, ou outra legislação aplicável, devendo prever-se um pré-tratamento sempre que necessário.
+Art. 18.º - 1 - As águas industriais residuais a descarregar no colector municipal deverão cumprir os parâmetros indicados no anexo XXVIII do [Decreto-Lei n.º 74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430), de 7 de Março, ou outra legislação aplicável, devendo prever-se um pré-tratamento sempre que necessário.
 
 2 - Os estabelecimentos industriais a instalar são responsáveis pelas lamas resultantes dos pré-tratamentos das águas residuais, devendo indicar, nos respectivos projectos, qual o destino final previsto.
 
 3 - Não é permitida a evacuação de óleos e gorduras nas redes de drenagem de esgotos, nomeadamente de óleos usados, devendo estes produtos ser armazenados para posterior tratamento, nos termos do [Decreto-Lei n.º 88/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1991-485448), de 23 de Fevereiro, e da [Portaria n.º 240/92](https://diariodarepublica.pt/dr/detalhe/portaria/240-1992-188357), de 4 de Maio, ou outra legislação aplicável.
 
-###### Art. 19.º Os estabelecimentos industriais a instalar serão responsáveis por dar destino adequado aos resíduos que vierem a produzir, devendo dar cumprimento ao disposto no [Decreto-Lei n.º 488/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315), de 25 de Novembro, e na [Portaria n.º 374/87](https://diariodarepublica.pt/dr/detalhe/portaria/374-1987-421225), de 4 de Maio.
+Art. 19.º Os estabelecimentos industriais a instalar serão responsáveis por dar destino adequado aos resíduos que vierem a produzir, devendo dar cumprimento ao disposto no [Decreto-Lei n.º 488/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315), de 25 de Novembro, e na [Portaria n.º 374/87](https://diariodarepublica.pt/dr/detalhe/portaria/374-1987-421225), de 4 de Maio.
 
-###### Art. 20.º Os estabelecimentos industriais deverão considerar nos seus processos de licenciamento as disposições constantes no Regulamento Geral do Ruído, aprovado pelo [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647) e pelo [Decreto-Lei n.º 292/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1989-546986), de 2 de Setembro (o qual introduz algumas alterações ao decreto-lei anterior), e demais legislação aplicável sobre a matéria.
+Art. 20.º Os estabelecimentos industriais deverão considerar nos seus processos de licenciamento as disposições constantes no Regulamento Geral do Ruído, aprovado pelo [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647) e pelo [Decreto-Lei n.º 292/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1989-546986), de 2 de Setembro (o qual introduz algumas alterações ao decreto-lei anterior), e demais legislação aplicável sobre a matéria.
 
-###### Art. 21.º Os estabelecimentos industriais que utilizem substâncias perigosas deverão cumprir o disposto no [Decreto-Lei n.º 224/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1987-421828), de 3 de Junho, e demais legislação aplicável.
+Art. 21.º Os estabelecimentos industriais que utilizem substâncias perigosas deverão cumprir o disposto no [Decreto-Lei n.º 224/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1987-421828), de 3 de Junho, e demais legislação aplicável.
 
-###### Art. 22.º A cor base das edificações será o branco com os socos e as barras numa das cores tradicionais (azul, ocre, etc.).
+Art. 22.º A cor base das edificações será o branco com os socos e as barras numa das cores tradicionais (azul, ocre, etc.).
 
-###### Art. 23.º É proibida a utilização do alumínio anodizado à cor natural nas caixilharias, portas, janelas, marquises, grades, portões, etc.
+Art. 23.º É proibida a utilização do alumínio anodizado à cor natural nas caixilharias, portas, janelas, marquises, grades, portões, etc.
 
-###### Art. 24.º Proíbe-se qualquer tipo de utilização de mármore, à excepção das soleiras das portas e peitoris das janelas.
+Art. 24.º Proíbe-se qualquer tipo de utilização de mármore, à excepção das soleiras das portas e peitoris das janelas.
 
-###### Art. 25.º A inclinação da cobertura será de 22% nos lotes destinados a habitação social, podendo nos restantes ser superior, nunca excedendo os 25%.
+Art. 25.º A inclinação da cobertura será de 22% nos lotes destinados a habitação social, podendo nos restantes ser superior, nunca excedendo os 25%.
 
-###### Art. 26.º Todas as coberturas serão em telha cerâmica vermelha tipo «Lusa».
+Art. 26.º Todas as coberturas serão em telha cerâmica vermelha tipo «Lusa».
 
-###### Art. 27.º As chaminés serão do tipo alentejano.
+Art. 27.º As chaminés serão do tipo alentejano.
 
-###### Art. 28.º Os muros separadores dos lotes deverão ter 1,20 m de altura, serão caiados ou pintados a branco e o seu projecto deverá ser apresentado juntamente com os projectos das construções.
+Art. 28.º Os muros separadores dos lotes deverão ter 1,20 m de altura, serão caiados ou pintados a branco e o seu projecto deverá ser apresentado juntamente com os projectos das construções.
 
-###### Art. 29.º Nos casos omissos deverão ser respeitadas as disposições constantes do RGEU, RMEUCO e demais legislação em vigor, podendo qualquer dúvida ser esclarecida pelo Departamento de Planeamento e Gestão Urbanística da CMO.
+Art. 29.º Nos casos omissos deverão ser respeitadas as disposições constantes do RGEU, RMEUCO e demais legislação em vigor, podendo qualquer dúvida ser esclarecida pelo Departamento de Planeamento e Gestão Urbanística da CMO.
 
 Quadro síntese
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/065b00/13851389.pdf))](https://files.diariodarepublica.pt/1s/1994/03/065b00/13851389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/065b00/13851389.pdf)
 
 Quadro de habitantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/065b00/13851389.pdf))](https://files.diariodarepublica.pt/1s/1994/03/065b00/13851389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/065b00/13851389.pdf)

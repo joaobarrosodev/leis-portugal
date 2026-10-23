@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20800/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/263/2021/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/263-2021-173412007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:12:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cf2e79a28bead21a4598b3405933ee84eaa807a91112478e58f751ac1be6ebe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 829bd1bdf6cfd96d4626875c122a781b4397fafed9ca414de6b72909f447a51d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:12:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Energia não Poluente
-- Transporte Marítimo
-- Transporte Rodoviário
-- Transporte Ferroviário
 - Energia Renovável
-- Mobilidade Elétrica
+- Fundo Ambiental
 - Infraestrutura dos Transportes
-- Veículo Elétrico
+- Mobilidade Elétrica
+- Posto de Abastecimento de Combustíveis
 - Proteção do Ambiente
 - Recomendação
-- Posto de Abastecimento de Combustíveis
-- Fundo Ambiental
+- Transporte Ferroviário
+- Transporte Marítimo
+- Transporte Rodoviário
+- Veículo Elétrico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/88/2017/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/88/2017/06/26/p/dre
+- type: cites
+  target: pt:dre:107567058:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:12:13Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +132,6 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 8 de outubro de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+114669128

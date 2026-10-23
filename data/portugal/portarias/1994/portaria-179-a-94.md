@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 75/1994, 1º Suplemento, Série I-B de 1994-03-30
   number: '75'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1570-(2) a 1570-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/075b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/179-a/1994/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/179-a-1994-572395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:21:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 792934c579e09d4f4c4ad034546492b750a1782b7a78da82c160ce61e46df6bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcb0d8953c73eee016e1c52b10fa31ff786975385094d9dfbce91c2f7dae3c6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1219/1991/12/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1219/1991/12/26/p/dre
+- type: cites
+  target: pt:dre:239799:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:21:20Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +108,6 @@ Manda o Governo, pelo Secretário de Estado do Tesouro, o seguinte:
 
 Ministério das Finanças.
 
-**Assinada em 30 de Março de 1994.**
+Assinada em 30 de Março de 1994.
 
-**O Secretário de Estado do Tesouro, Francisco Adelino Gusmão Esteves de Carvalho.**
+O Secretário de Estado do Tesouro, Francisco Adelino Gusmão Esteves de Carvalho.

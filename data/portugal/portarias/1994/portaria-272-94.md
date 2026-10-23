@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/272/1994/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/272-1994-256590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ee329b92193e9f43ea65fb8250f29cb868d93febd32e5aea61f6c840a2be8c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3645e9c37496d15b60d7ae25af20b2dccfe985f85fe697271819a51f1a5a61f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura
 - Inspecção Geral e Auditoria de Gestão
+- Ministério da Agricultura
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:2025285:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1641091:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.848/98(2ªSÉRIE).1998.07.27.PCM DR.IIS [191]\
+    \ de 20/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/848-1998-1641091
+  date: '1998-07-27'
+- type: amended_by
+  target: pt:dre:3493608:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.787/99(2ªSÉRIE).1999.07.19.PCM DR.IIS [181]\
+    \ DE 05/AGO/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/787-1999-3493608
+  date: '1999-07-19'
+- type: amended_by
+  target: pt:dre:3088087:por
+  label: "ALTERADO O QUADRO DE PESSOAL POR PORT.735/2003(2ªSÉRIE).2003.05.19.MF, MADRP, DR.IIS [130] DE 5/JUN/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/735-2003-3088087
+  date: '2003-05-19'
+- type: amended_by
+  target: pt:dre:2025287:por
+  label: "Alterado o quadro de pessoal pela PORT.990/2003(2ªSÉRIE).2003.07.07.MF e MADRP, DR.IIS [174] de 30/Jul/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/990-2003-2025287
+  date: '2003-07-07'
+- type: amended_by
+  target: pt:dre:2025285:por
+  label: "Alterado o quadro de pessoal pela PORT.988/2003(2ªSÉRIE).2003.07.07.MF e MADRP, DR.IIS [174] de 30/Jul/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/988-2003-2025285
+  date: '2003-07-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/1994/01/25/p/dre
   label: null
@@ -81,16 +108,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/192/1991/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/192/1991/05/21/p/dre
+- type: cites
+  target: pt:dre:496130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640076:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:37Z'
   warnings: []
   errors: []
 ---
@@ -107,10 +146,10 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, que seja aprova
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 4 de Abril de 1994.**
+Assinada em 4 de Abril de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Arlindo Marques da Cunha.
 
 Mapa anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/106b00/23772377.pdf))](https://files.diariodarepublica.pt/1s/1994/05/106b00/23772377.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/106b00/23772377.pdf)

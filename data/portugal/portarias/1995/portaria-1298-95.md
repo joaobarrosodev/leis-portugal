@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1298/1995/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1298-1995-679003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97d57784f90b13e893121bc9e2567c397a2b62ada73230db4473ed825d2759e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3833baff428f4eed1e33f08317272a06cdd7c295c263929ed609762eadce6927
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -89,16 +89,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/971/1991/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/971/1991/09/20/p/dre
+- type: cites
+  target: pt:dre:301616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685432:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599702:por
+  label: "Revogada pela PORT.1134/2000.2000.11.29.ME DR.IS-B [276], nos termos do respectivo art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1134-2000-599702
+  date: '2000-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:37Z'
   warnings: []
   errors: []
 ---
@@ -133,6 +158,6 @@ O disposto na presente portaria será concretizado nos termos e prazos a fixar p
 
 Ministério da Educação.
 
-**Assinada em 29 de Setembro de 1995.**
+Assinada em 29 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.

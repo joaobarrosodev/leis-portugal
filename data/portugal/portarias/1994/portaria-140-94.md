@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/140/1994/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/140-1994-275590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a8d6f6a180f703ba08190758974c93047b4eb8facd2662b3474be720cfc763b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d08089f78e2fb4c90cf083df08b2c0faef9d03fa0eeecc20a37f9ee2a2a56bfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
 - Prova de Aferição
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/894/1993/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/894/1993/09/18/p/dre
+- type: cites
+  target: pt:dre:240823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674616:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:20Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +153,11 @@ c) Nos cursos constantes dos quadros D, J, L e M do anexo à presente portaria: 
 
 Ministério da Educação.
 
-**Assinada em 9 de Fevereiro de 1994.**
+Assinada em 9 de Fevereiro de 1994.
 
 Pela Ministra da Educação, Manuel Castro de Almeida, Secretário de Estado da Educação e do Desporto.
 
-## Anexo à Portaria n.º 140/94, de 8 de Março
+Anexo à Portaria n.º 140/94, de 8 de Março
 
 Disciplinas sobre que incide o exame nacional previsto no artigo 7.º do [Decreto-Lei n.º 189/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1992-240823), de 3 de Setembro
 
@@ -147,22 +167,22 @@ Estudantes titulares (ou que possam adquirir a titularidade
 
 em 1993-1994) de um curso de nível III das escolas profissionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf))](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf)
 
 QUADRO J
 
 Estudantes titulares do curso de educador social do Instituto Piaget (despacho conjunto de 27 de Novembro de 1991, publicado no Diário da República, 2.ª série, de 15 de Março de 1991).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf))](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf)
 
 QUADRO L
 
 Estudantes titulares do curso de formação de sargentos do Centro de Formação Militar e Técnica da Força Aérea ([Portaria n.º 894/93](https://diariodarepublica.pt/dr/detalhe/portaria/894-1993-654757), de 18 de Setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf))](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf)
 
 QUADRO M
 
 Estudantes titulares dos cursos de formação de sargentos da Marinha ([Portaria n.º 347/93](https://diariodarepublica.pt/dr/detalhe/portaria/347-1993-643572), de 24 de Março, e [Despacho Normativo n.º 190/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/190-1993-357527), de 9 de Agosto).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf))](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/056b00/11871188.pdf)

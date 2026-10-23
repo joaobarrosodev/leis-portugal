@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/24/2010/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-2010-612654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edf7806723677e4141e20202e55d6d35f334ebe416714990100cdefde724b324
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd329e9fdf1ed52f687c8ae4ba69229afec8b0539ab4a9cd221b8d8ce5871447
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
-- Definição de Competências
-- Estratégia Nacional de Adaptação as Alterações Climáticas
-- Grupo Coordenador
-- Comissão para as Alterações Climáticas
-- Proteção do Ambiente
 - Alteração Climática
 - Clima
+- Comissão para as Alterações Climáticas
+- Definição de Competências
+- Efeito de Estufa
+- Estratégia Nacional de Adaptação as Alterações Climáticas
+- Grupo Coordenador
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:69905665:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta, sendo objecto de fusão, a Comissão para as Alterações Climáticas, cuja criação e competências constam da\
+    \ Res 72/98 de 29-Jun, com as alterações introduzidas pelo presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS\
+    \ [12] de 17.01.2012, nos termos do nº 3 do seu art. 34º, sendo as suas atribuições integradas na Agência Portuguesa do\
+    \ Ambiente, I.P..\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/196/2005/12/22/p/dre
   label: null
@@ -90,16 +98,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/1998/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/1998/06/29/p/dre
+- type: cites
+  target: pt:dre:332037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477827:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69905665:por
+  label: Revoga a presente Resolução, pelo(a) Resolução do Conselho de Ministros n.º 56/2015 - Diário da República n.º 147/2015,
+    Série I de 2015-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/56-2015-69905665
+  date: '2015-07-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:23Z'
   warnings: []
   errors: []
 ---
@@ -274,7 +300,7 @@ No quadro seguinte sistematizam-se as principais acções para o desenvolvimento
 
 QUADRO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf)
 
 3.1 - Objectivo 1: Informação e conhecimento
 
@@ -578,7 +604,7 @@ A operacionalização de uma estratégia desta natureza requer uma estrutura org
 
 A aplicação da Estratégia fica sob a coordenação interministerial da Comissão para as Alterações Climáticas, apoiada pelo seu Comité Executivo (CECAC), que por sua vez é apoiada por um grupo de coordenação, pelos grupos de trabalho sectoriais e por um painel científico. O organograma da figura n.º 1 esclarece as relações que se estabelecem entre os diferentes grupos de trabalho. As competências de cada um destes grupos encontram-se especificadas abaixo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf)
 
 Fig. 1 - Organograma para o desenvolvimento e aplicação da Estratégia
 
@@ -742,7 +768,7 @@ A base metodológica de todo o exercício parte da definição de cenários clim
 
 As medidas de adaptação são a resposta que os vários decisores e agentes devem tomar para fazer face aos riscos e impactes resultantes das alterações climáticas que foram previamente identificados. O objectivo dessas medidas pode ser: anular ou reduzir significativamente o risco de danos; potenciar os benefícios; reduzir ou mitigar as consequências de fenómenos resultantes das alterações do clima.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf)
 
 Fig. 2. - Metodologia geral para identificação e aplicação de medidas de adaptação
 
@@ -794,7 +820,7 @@ O cronograma genérico apresentado abaixo identifica os principais prazos e meta
 
 No entanto, a Estratégia não se esgotará nesse primeiro período, pelo que se espera o desenvolvimento de novos objectivos e metas, após a análise do primeiro relatório de progresso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06400/0109001106.pdf)
 
 8 - Siglas e acrónimos
 

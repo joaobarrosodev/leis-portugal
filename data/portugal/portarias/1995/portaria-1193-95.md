@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1193/1995/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1193-1995-574878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1020a13199f6127a00a69cec137c19de23dbebcf51e165add88b9917c6b55027
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a285821b4f274a5f2c084b9034a931b082070a10194885d6e0de05cb6007f5f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,11 @@ relationships:
   target: pt:dre:2167151:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2167151:por
+  label: "Alterado o quadro de pessoal pela PORT.797/99(2ºSÉRIE).1999.06.17.PCM, DR.IIS [183] de 07/Ago/1999 \0999 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/797-1999-2167151
+  date: '1999-06-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/1995/05/20/p/dre
   label: null
@@ -81,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/129/1993/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/129/1993/04/22/p/dre
+- type: cites
+  target: pt:dre:503650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:07Z'
   warnings: []
   errors: []
 ---
@@ -109,10 +122,10 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, que o quadro de 
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 7 de Setembro de 1995.**
+Assinada em 7 de Setembro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Quadro de pessoal dos Serviços de Acção Social da Universidade Técnica de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/228b00/60826085.pdf))](https://files.diariodarepublica.pt/1s/1995/10/228b00/60826085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/228b00/60826085.pdf)

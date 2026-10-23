@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/910/1993/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/910-1993-655119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e9126c283a9b235e610a32d28b08ec1ab7e9226e4d51e8f65d51cfba436b68e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 011f8b673831cafc5de70728b5e7d596e13b1c221955bdd5425b5f87369150c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Concurso
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Engenharia e Gestão Industrial
 - Diploma
 - Ensino Superior Politécnico
@@ -75,23 +74,41 @@ subjects:
 - Instituto Politécnico
 - Licenciatura
 - Numerus Clausus
-- Setúbal
+- Plano de Estudos
 - Propinas
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:550985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUM 2 DO NUM 21 PELA PORT 1106/95 DE 09-SET DR.IS-B [209]\0B [209]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-09'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:00Z'
   warnings: []
   errors: []
 ---
@@ -408,11 +425,11 @@ O curso entrará em funcionamento no ano lectivo que for determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 20 de Agosto de 1993.**
+Assinada em 20 de Agosto de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/221b00/51395146.pdf))](https://files.diariodarepublica.pt/1s/1993/09/221b00/51395146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/221b00/51395146.pdf)
 
 ## ANEXO VI — Diploma de estudos superiores especializados em Engenharia e Gestão Industrial, ramo ... (ver nota g)
 
@@ -422,11 +439,11 @@ Ministério da Educação.
 
 Instituto Politécnico de Setúbal, ... (ver nota i).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Setúbal, ... (ver nota j).**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Setúbal, ... (ver nota j).
 
-**O Presidente da Comissão Instaladora da Escola Superior de Tecnologia, ...(ver nota j).**
+O Presidente da Comissão Instaladora da Escola Superior de Tecnologia, ...(ver nota j).
 
-**O Secretário da Escola Superior de Tecnologia, ... (ver nota l).**
+O Secretário da Escola Superior de Tecnologia, ... (ver nota l).
 
 (nota a) Símbolo do Instituto Politécnico de Setúbal e da Escola Superior de Tecnologia.
 
@@ -458,11 +475,11 @@ Instituto Politécnico de Setúbal, ... (ver nota i).
 
 Instituto Politécnico de Setúbal, ... (ver nota m).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Setúbal, ... (ver nota n).**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Setúbal, ... (ver nota n).
 
-**O Presidente da Comissão Instaladora da Escola Superior de Tecnologia, ... (ver nota n).**
+O Presidente da Comissão Instaladora da Escola Superior de Tecnologia, ... (ver nota n).
 
-**O Secretário da Escola Superior de Tecnologia, ... (ver nota o).**
+O Secretário da Escola Superior de Tecnologia, ... (ver nota o).
 
 (nota a) Símbolo do Instituto Politécnico de Setúbal e da Escola Superior de Tecnologia.
 

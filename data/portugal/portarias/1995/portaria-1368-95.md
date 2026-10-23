@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1368/1995/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1368-1995-690653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58d2977f9665a0f3984b21ed6374b354a5fdd75e9be9f1f6a71b2009c728b613
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fc7c6ba4623984252fad30e18585d4f54d4566951e912e94634c4c1b09e0202
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Gestão Bancária e Gestão Seguradora
 - Ensino Particular
 - Ensino Superior Politécnico
 - Instituto Superior Politécnico Internacional
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:606720:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:606720:por
+  label: "Caducada, findo o processo de transição fixado nos termos do art. 3º, a autorização de funcionamento do curso de\
+    \ estudos superiores especializados em Gestão Bancária e em Gestão Seguradora, cujo funcionamento foi autorizado pelo\
+    \ presente diploma, pela PORT.1222/2004.20.09.2004.MCIES, DR.IS-B [222] de 20.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1222-2004-606720
+  date: '2004-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:22Z'
   warnings: []
   errors: []
 ---
@@ -314,7 +333,7 @@ A autorização e reconhecimento estabelecidos na presente portaria não prejudi
 
 Ministério da Educação.
 
-**Assinada em 29 de Setembro de 1995.**
+Assinada em 29 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
@@ -322,4 +341,4 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 Curso de estudos superiores especializados em Gestão Bancária e Gestão Seguradora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/269b00/71717173.pdf))](https://files.diariodarepublica.pt/1s/1995/11/269b00/71717173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/269b00/71717173.pdf)

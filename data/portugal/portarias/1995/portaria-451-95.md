@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/451/1995/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/451-1995-507604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55bd6fbc3b0f37bd307c84cc294e2607fe9992d6473fe673afdaeed46f892cfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93f5cf0d1ab79266b55370a68a5a595dded96144101923abd4d6fb7d96337764
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Crato
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
@@ -92,16 +92,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:58Z'
   warnings: []
   errors: []
 ---
@@ -124,60 +156,60 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 26 de Março de 1995.**
+Assinada em 26 de Março de 1995.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Zona Industrial do Crato/Flor da Rosa
 
-###### Artigo 1.º É considerada zona industrial do aglomerado urbano do Crato/Flor da Rosa a área como tal assinalada nas peças desenhadas - em conformidade com o constante do projecto de planta de síntese do Plano Geral de Urbanização do Crato/Flor da Rosa - e que inclui os terrenos situados a nascente da EN 245, limitados a norte pelo topo sul das actuais edificações de Flor da Rosa e a sul pela faixa de protecção à futura variante à EN 119.
+Artigo 1.º É considerada zona industrial do aglomerado urbano do Crato/Flor da Rosa a área como tal assinalada nas peças desenhadas - em conformidade com o constante do projecto de planta de síntese do Plano Geral de Urbanização do Crato/Flor da Rosa - e que inclui os terrenos situados a nascente da EN 245, limitados a norte pelo topo sul das actuais edificações de Flor da Rosa e a sul pela faixa de protecção à futura variante à EN 119.
 
-###### Art. 2.º Na Zona Industrial do Crato/Flor da Rosa mais de 80% da superfície dos pavimentos a construir serão destinados a uso industrial.
+Art. 2.º Na Zona Industrial do Crato/Flor da Rosa mais de 80% da superfície dos pavimentos a construir serão destinados a uso industrial.
 
-###### Art. 3.º Na Zona Industrial do Crato/Flor da Rosa 20% da área de pavimentos a construir poderão ser destinados a uso comercial e a serviços de apoio directo à actividade industrial, com localização definitiva a decidir pela Câmara Municipal do Crato em função da efectiva implementação do Plano, nos termos do artigo 20.º deste Regulamento.
+Art. 3.º Na Zona Industrial do Crato/Flor da Rosa 20% da área de pavimentos a construir poderão ser destinados a uso comercial e a serviços de apoio directo à actividade industrial, com localização definitiva a decidir pela Câmara Municipal do Crato em função da efectiva implementação do Plano, nos termos do artigo 20.º deste Regulamento.
 
-###### Art. 4.º Na Zona Industrial do Crato/Flor da Rosa é interdita a construção de edifícios de habitação.
+Art. 4.º Na Zona Industrial do Crato/Flor da Rosa é interdita a construção de edifícios de habitação.
 
-###### Art. 5.º - 1 - Os proprietários e demais titulares de direitos reais sobre os terrenos integrados na Zona Industrial cederão à Câmara Municipal do Crato, a título gratuito, as parcelas de terreno exteriores aos limites dos lotes constituídos.
+Art. 5.º - 1 - Os proprietários e demais titulares de direitos reais sobre os terrenos integrados na Zona Industrial cederão à Câmara Municipal do Crato, a título gratuito, as parcelas de terreno exteriores aos limites dos lotes constituídos.
 
 2 - As áreas a ceder nos termos do número anterior serão afectadas ao estacionamento de veículos, arruamentos, passeios adjacentes, faixas de arborização anexas, outras infra-estruturas e equipamentos de apoio à indústria e áreas livres.
 
-###### Art. 6.º - 1 - O valor máximo da relação volume de construção/superfície dos lotes de construção isolada é de 1 m3/m2.
+Art. 6.º - 1 - O valor máximo da relação volume de construção/superfície dos lotes de construção isolada é de 1 m3/m2.
 
 2 - O valor máximo da relação volume de construção/superfície dos lotes de construção em banda é de 2,25 m3/m2.
 
-###### Art. 7.º - 1 - O valor máximo da relação área de implantação/superfície dos lotes de construção isolada é de 0,16 m2/m2.
+Art. 7.º - 1 - O valor máximo da relação área de implantação/superfície dos lotes de construção isolada é de 0,16 m2/m2.
 
 2 - O valor máximo da relação área de implantação/superfície dos lotes de construção em banda é de 0,34 m2/m2.
 
-###### Art. 8.º A altura máxima dos edifícios é de 7,5 m.
+Art. 8.º A altura máxima dos edifícios é de 7,5 m.
 
-###### Art. 9.º Os afastamentos mínimos das construções aos limites dos lotes constituídos serão de 10 m, sem prejuízo dos valores definidos por alinhamentos especiais assinalados na planta de implantação deste Plano de Pormenor.
+Art. 9.º Os afastamentos mínimos das construções aos limites dos lotes constituídos serão de 10 m, sem prejuízo dos valores definidos por alinhamentos especiais assinalados na planta de implantação deste Plano de Pormenor.
 
-###### Art. 10.º Não será permitida a construção em lotes industriais sem que esteja assegurado o acesso imediato a arruamentos existentes ou incluídos em projecto de execução de obras de urbanização previstas no Plano de Pormenor da Zona Industrial do Crato.
+Art. 10.º Não será permitida a construção em lotes industriais sem que esteja assegurado o acesso imediato a arruamentos existentes ou incluídos em projecto de execução de obras de urbanização previstas no Plano de Pormenor da Zona Industrial do Crato.
 
-###### Art. 11.º - 1 - Nos edifícios isolados a cor predominante nos paramentos exteriores será o branco.
+Art. 11.º - 1 - Nos edifícios isolados a cor predominante nos paramentos exteriores será o branco.
 
 2 - Os edifícios em banda obedecerão ao projecto de pavilhão tipo constante do desenho n.º 3, que faz parte integrante deste Plano de Pormenor.
 
-###### Art. 12.º A altura das vedações dos lotes não deverá ser superior a 1,40 m. Porém, junto às estradas nacionais esta altura não poderá exceder 0,90 m acima do terreno natural, podendo ser encimada por grade de ferro com mais 0,50 m de altura [alínea a) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro].
+Art. 12.º A altura das vedações dos lotes não deverá ser superior a 1,40 m. Porém, junto às estradas nacionais esta altura não poderá exceder 0,90 m acima do terreno natural, podendo ser encimada por grade de ferro com mais 0,50 m de altura [alínea a) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro].
 
-###### Art. 13.º No interior de cada lote industrial deverão ser construídas instalações sanitárias, dimensionadas de acordo com a legislação em vigor.
+Art. 13.º No interior de cada lote industrial deverão ser construídas instalações sanitárias, dimensionadas de acordo com a legislação em vigor.
 
-###### Art. 14.º O tratamento de águas residuais industriais poderá ser feito individual ou colectivamente, devendo, neste útlimo caso, ser instalados em cada unidade sistemas de pré-tratamento, sempre que, pelas suas características, as respectivas águas residuais sejam susceptíveis de afectar o funcionamento e manutenção da rede de esgotos e da estação de tratamento.
+Art. 14.º O tratamento de águas residuais industriais poderá ser feito individual ou colectivamente, devendo, neste útlimo caso, ser instalados em cada unidade sistemas de pré-tratamento, sempre que, pelas suas características, as respectivas águas residuais sejam susceptíveis de afectar o funcionamento e manutenção da rede de esgotos e da estação de tratamento.
 
-###### Art. 15.º Conquanto exista rede geral de recolha de efluentes e águas pluviais, o tratamento das áreas livres de terreno, em cada lote, não deverá provocar a sua total impermeabilização, acautelando-se o escoamento eficaz das linhas naturais de drenagem superficial, quando existirem.
+Art. 15.º Conquanto exista rede geral de recolha de efluentes e águas pluviais, o tratamento das áreas livres de terreno, em cada lote, não deverá provocar a sua total impermeabilização, acautelando-se o escoamento eficaz das linhas naturais de drenagem superficial, quando existirem.
 
-###### Art. 16.º Dentro de cada lote isolado é permitida a associação de duas actividades industriais diversas mas compatíveis, desde que respeitados os índices urbanísticos definidos neste Regulamento para os lotes com construção e salvaguardada a acessibilidade.
+Art. 16.º Dentro de cada lote isolado é permitida a associação de duas actividades industriais diversas mas compatíveis, desde que respeitados os índices urbanísticos definidos neste Regulamento para os lotes com construção e salvaguardada a acessibilidade.
 
-###### Art. 17.º Não será permitida a instalação de actividades que causem poluição atmosférica significativa.
+Art. 17.º Não será permitida a instalação de actividades que causem poluição atmosférica significativa.
 
-###### Art. 18.º A instalação ou alteração de estabelecimentos industriais cujas actividades constem da [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto, carecem de licenciamento prévio pelo organismo competente, nos termos do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, com a redacção do [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto, e do [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto.
+Art. 18.º A instalação ou alteração de estabelecimentos industriais cujas actividades constem da [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto, carecem de licenciamento prévio pelo organismo competente, nos termos do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, com a redacção do [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto, e do [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto.
 
-###### Art. 19.º Além do disposto no presente Regulamento, deverão ser consideradas as normas vigentes na legislação portuguesa, nomeadamente no RGEU, REBA, RIE e Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais, aprovado pela [Portaria n.º 53/71](https://diariodarepublica.pt/dr/detalhe/portaria/53-1971-446313), de 3 de Fevereiro, e alterado pela Portaria de 22 de Setembro.
+Art. 19.º Além do disposto no presente Regulamento, deverão ser consideradas as normas vigentes na legislação portuguesa, nomeadamente no RGEU, REBA, RIE e Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais, aprovado pela [Portaria n.º 53/71](https://diariodarepublica.pt/dr/detalhe/portaria/53-1971-446313), de 3 de Fevereiro, e alterado pela Portaria de 22 de Setembro.
 
-###### Art. 20.º Todos os casos omissos ou que suscitem dúvidas no presente Regulamento serão da competência da Câmara Municipal do Crato, de acordo com os instrumentos de gestão urbanística em vigor e ouvidos os técnicos da Câmara Municipal do Crato.
+Art. 20.º Todos os casos omissos ou que suscitem dúvidas no presente Regulamento serão da competência da Câmara Municipal do Crato, de acordo com os instrumentos de gestão urbanística em vigor e ouvidos os técnicos da Câmara Municipal do Crato.
 
 Características dos lotes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/111b00/28172819.pdf))](https://files.diariodarepublica.pt/1s/1995/05/111b00/28172819.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/111b00/28172819.pdf)

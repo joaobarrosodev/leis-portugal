@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/195/1995/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/195-1995-185494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dc5a810520c58321a6a37e90e3c37224647d9e648da80abdb2300140a4ae109
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f780491cba77004565b8be74a50464a7efc4b66194cdd8b579da2e737a37ad1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,34 @@ relationships:
   target: pt:dre:469648:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469648:por
+  label: "Substituido o quadro de pessoal aprovado pela Port 856/91 de 20-Ago, na redacção dada pela presente Port, pela PORT.264/97.1997.04.17.PCM,\
+    \ DR.IS-B [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/264-1997-469648
+  date: '1997-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:46Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +120,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 31 de Janeiro de 1995.**
+Assinada em 31 de Janeiro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO — Quadro de pessoal médico do Hospital de Santa Maria Maior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/065b00/14641465.pdf))](https://files.diariodarepublica.pt/1s/1995/03/065b00/14641465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/065b00/14641465.pdf)

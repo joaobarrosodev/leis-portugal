@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/16/1993/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-1993-634127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 980322585049bdca5bff6d93780dda3d0555cdcf7621e978f5793eade3949412
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e85cb879de64c59b10b8fbcecd876ed70b03fd49135c5182650a7c6ada493fab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,72 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vila Franca de Xira
 - Ordenamento do Território
 - Plano Director Municipal
 - Política de Solos
 - Protecção do Património
+- Vila Franca de Xira
 relationships:
 - type: amended_by
   target: pt:dre:457045:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168232:por
+  label: "Alterado o Plano Director Municipal de Vila Franca de Xira, na área de intervenção do Plano de Pormenor da ex-Mague,\
+    \ ratificado pela RES.76-A/2003.2003.05.02.PCM DR.IS-B [121]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/76-a-2003-168232
+  date: '2003-05-02'
+- type: amended_by
+  target: pt:dre:216732:por
+  label: "Ratificada a suspensão parcial do Plano Director Municipal pela RES.43/2004.07.01.2004.PCM, DR.IS-B [78] de 01.04.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/43-2004-216732
+  date: '2004-01-07'
+- type: amended_by
+  target: pt:dre:500682:por
+  label: "Alterado o Plano Director Municipal de Vila Franca de Xira na área de intervenção do Plano de Pormenor da Área Urbana\
+    \ de Génese Ilegal do Casal do Urjal, ratificado pela RES.116/2004.15.07.2004.PCM, DR.IS-B [178] de 30.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/116-2004-500682
+  date: '2004-07-15'
+- type: amended_by
+  target: pt:dre:148409:por
+  label: "Ratificada a suspensão de 13 planos de pormenor das AUGI (Áreas Urbanas de Génese Ilegal), bem como o estabelecimento\
+    \ de medidas preventivas para as mesmas áreas, no município de Vila Franca de Xira cujo Plano Director Municipal foi ratificado\
+    \ pelo presente diploma, pela RES.148/2005.01.09.2005.PCM, DR.IS-B [182] de 21.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/148-2005-148409
+  date: '2005-09-01'
+- type: amended_by
+  target: pt:dre:522649:por
+  label: "Ratificada, pelo prazo de dois anos, a suspensão parcial do Plano Director Municipal de Vila Franca de Xira, ratificado\
+    \ pelo presente diploma, na área delimitada em planta anexa pela RES.13/2007.11.01.2007.PCM, DR.IS [17] de 24.01.2007,\
+    \ bem como é ratificado o estabelecimento de medidas preventivas para a mesma área e pelo mesmo prazo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/13-2007-522649
+  date: '2007-01-11'
+- type: amended_by
+  target: pt:dre:457045:por
+  label: "Não ratificados a al. a) do nº 2 do art. 21º e o quadro 4 do art. 22º do Plano Director Municipal de Vila Franca\
+    \ de Xira, pela RES.84-A/2009.14.09.2009.PCM, DR.IS [178-Supl] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/84-a-2009-457045
+  date: '2009-09-14'
+- type: amended_by
+  target: pt:dre:2932507:por
+  label: "Tornada pública a alteração do art. 8.º do Regulamento e de duas Cartas de Ordenamento do Plano Diretor Municipal\
+    \ de Vila Franca de Xira, pelo AV.10348/2013.16.08.2013.MVILA F XIRA, DR.IIS [157] de 16.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10348-2013-2932507
+  date: '2013-08-16'
+- type: amended_by
+  target: pt:dre:106572594:por
+  label: Alterado por adaptação o Plano Diretor Municipal de Vila Franca de Xira ratificado pela presente resolução, pelo(a)
+    Declaração n.º 14/2017 - Diário da República n.º 48/2017, Série II de 2017-03-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/14-2017-106572594
+  date: '2017-03-08'
+- type: amended_by
+  target: pt:dre:123895685:por
+  label: Aprovada a 2.ª alteração à 1.ª revisão do PDM de Vila Franca de Xira, ratificado pela presente resolução, pelo(a)
+    Aviso n.º 12851/2019 - Diário da República n.º 153/2019, Série II de 2019-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12851-2019-123895685
+  date: '2019-08-12'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -82,13 +138,13 @@ relationships:
 article_structure:
   article_count: 45
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:33Z'
   warnings: []
   errors: []
 ---
@@ -1619,4 +1675,4 @@ Novo Hospital Distrital de Vila Franca de Xira;
 
 Área desportiva (remodelação).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/064b00/12601271.pdf))](https://files.diariodarepublica.pt/1s/1993/03/064b00/12601271.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/064b00/12601271.pdf)

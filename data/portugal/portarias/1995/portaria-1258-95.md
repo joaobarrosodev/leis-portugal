@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1258/1995/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1258-1995-668157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4b22fa1107e9540374de12f44e2c12f0c9bfcd6f664d6aa5c5954c4aaea3ba4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cb9ce8804714285dafb2ae72e00dbed9ae2462885ff9e9ba5756ca93ac947f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,13 @@ subjects:
 - Braga
 - Caldas da Rainha
 - Gondomar
-- Tribunal de Comarca
 - Montemor-o-Novo
 - Ourique
+- Porto
 - Quadro de Pessoal
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Família e de Menores
-- Porto
 - Valongo
 - VILA NOVA de GAIA
 relationships:
@@ -95,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/816/1994/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/816/1994/09/16/p/dre
+- type: cites
+  target: pt:dre:581269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:41Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +137,7 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 13 de Outubro de 1995.**
+Assinada em 13 de Outubro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
 
@@ -137,7 +149,7 @@ Alcácer do Sal
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -175,7 +187,7 @@ Operador de reprografia ... 1
 
 Tribunal de comarca
 
-#### Secção central e sete secções de processos, sendo três afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e uma afecta ao tribunal de pequena instância mista:
+Secção central e sete secções de processos, sendo três afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e uma afecta ao tribunal de pequena instância mista:
 
 Pessoal:
 
@@ -191,7 +203,7 @@ Arraiolos
 
 Tribunal de comarca
 
-#### Secção central e de processos:
+Secção central e de processos:
 
 Pessoal:
 
@@ -227,7 +239,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e sete secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
+Secção central e sete secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -241,7 +253,7 @@ Escriturário judicial ... 21
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -259,7 +271,7 @@ Braga
 
 Tribunal de família e de menores
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -289,7 +301,7 @@ Caldas da Rainha
 
 Tribunal de círculo e de comarca
 
-#### Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -315,7 +327,7 @@ Coimbra
 
 Tribunal de família e de menores
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -355,7 +367,7 @@ Operador de reprografia ... 1
 
 Tribunal de círculo e de comarca
 
-#### Secção central e seis secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
+Secção central e seis secções de processos, sendo uma afecta ao tribunal de círculo, três afectas aos juízos de competência especializada cível e duas afectas aos juízos de competência especializada criminal:
 
 Pessoal:
 
@@ -369,7 +381,7 @@ Escriturário judicial ... 19
 
 Serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -387,7 +399,7 @@ Técnico de justiça auxiliar ... 6
 
 Tribunal de comarca
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -403,7 +415,7 @@ Escriturário judicial ... 8
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -419,7 +431,7 @@ Lisboa
 
 Tribunal de pequena instância criminal
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -437,7 +449,7 @@ Montemor-o-Novo
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -455,7 +467,7 @@ Ourique
 
 Tribunal de comarca
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -473,7 +485,7 @@ Porto
 
 Tribunal de pequena instância criminal
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -495,7 +507,7 @@ Valongo
 
 Tribunal de círculo e de comarca
 
-#### Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
+Secção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:
 
 Pessoal:
 
@@ -511,7 +523,7 @@ Escriturário judicial ... 13
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -527,7 +539,7 @@ Vila Nova de Gaia
 
 Tribunal de pequena instância mista
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/199b00/54275429.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1061/1995/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1061-1995-433026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6e4169e3e21e93173f41dced58b2a9777cb850892b49b52805f94376de199a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f8df579ae1c14024ae52415baa679a9e63a9f01b364a02624db16575fcbce20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Gestão de Empresas de Turismo
 - Ensino Superior Politécnico
+- Escola Superior de Hotelaria e Turismo do Estoril
 - Estoril
 - Instituto Nacional de Formação Turística
-- Escola Superior de Hotelaria e Turismo do Estoril
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:219734:por
@@ -91,16 +91,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/90/1992/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/90/1992/02/10/p/dre
+- type: cites
+  target: pt:dre:287978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657778:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219734:por
+  label: "Revogada pela PORT.493/96.16.09.1996.MECO, DR.IS-B [215] de 16.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/493-1996-219734
+  date: '1996-09-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:55Z'
   warnings: []
   errors: []
 ---
@@ -195,10 +216,10 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministérios da Educação e do Comércio e Turismo.
 
-**Assinada em 7 de Agosto de 1995.**
+Assinada em 7 de Agosto de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior. - Pelo Ministro do Comércio e Turismo, Alexandre Carlos de Mello Vieira Costa Relvas, Secretário de Estado do Turismo.
 
 ## ANEXO I — Curso de Gestão de Empresas de Turismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/199b00/54275429.pdf))](https://files.diariodarepublica.pt/1s/1995/08/199b00/54275429.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/199b00/54275429.pdf)

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1336/1995/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1336-1995-683033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf9143e51b2ceb32511d563ac6f211948aa02d8b62efd4c1a36b30410ff73cf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e02bf32e86dda782b839cedf2c7b2b0a1e7ac7ac01e0a8d51d7730633d3f3573
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,39 +68,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- Ajuda Comunitária
-- Produção Animal
+- Agricultor
+- Agricultura
+- Agricultura Biológica
 - Agrupamento de Produtores
-- Financiamento
-- Vida Selvagem
+- Ajuda Comunitária
 - Castro Verde
 - CEE
 - Direcção Regional de Agricultura do Alentejo
-- Agricultura Biológica
-- Instituto da Conservação da Natureza
-- Exploração Agrícola
-- Proteção do Ambiente
 - Espécie Protegida
+- Exploração Agrícola
+- Exploração Florestal
+- Financiamento
+- Ifadap
+- Instituto da Conservação da Natureza
+- Pesticida
 - Política Agrícola Comum
 - Prazo
-- Exploração Florestal
+- Produção Agrícola
+- Produção Animal
+- Produto Fitofarmacêutico
+- Produto Químico
 - Programa
 - Programa Agrícola
+- Proteção do Ambiente
 - Proteção Fitossanitária
-- Agricultor
-- Produção Agrícola
 - Recursos Naturais
 - Regulamento CE
-- Pesticida
-- Produto Fitofarmacêutico
-- Agricultura
-- Ifadap
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:209843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517975:por
+  label: "Alterados os nºs 3, 4, 5, 13, 14 e 15 da Port 703/94 de 28-Jul, anteriormente alterados pelo presente diploma, pela\
+    \ Port.196/97.1997.03.21.MADRP [68]]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1997-517975
+  date: '1997-03-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/31/1994/02/05/p/dre
   label: null
@@ -129,16 +135,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/858/1994/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/858/1994/09/23/p/dre
+- type: cites
+  target: pt:dre:230120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605309:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:209843:por
+  label: "Revogados os nºs 1 a 4 pela PORT.85/98.1998.02.19.MADRP, DR.IS-B [42)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-1998-209843
+  date: '1998-02-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:39Z'
   warnings: []
   errors: []
 ---
@@ -223,6 +262,6 @@ Manda o Governo, pelos Ministros da Agricultura e do Ambiente e Recursos Naturai
 
 Ministérios da Agricultura e do Ambiente e Recursos Naturais.
 
-**Assinada em 24 de Outubro de 1995.**
+Assinada em 24 de Outubro de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.**
+O Ministro da Agricultura, António Duarte Silva - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/211/1995/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/211-1995-172500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42cbb4109fe572a4d4a9e10570cbed34b9a7a14e72bd86cf76837713072d6599
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 689908a50dae449a317e0faf103d24ee1c719d2b2d26387b5776a6b5d0d28061
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665747:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:13Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +121,7 @@ Manda o Governo, pelos Secretários de Estado da Cultura e do Orçamento, o segu
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 10 de Fevereiro de 1995.**
+Assinada em 10 de Fevereiro de 1995.
 
 Pelo Secretário de Estado da Cultura, Manuel Joaquim Barata Frexes, Subsecretário de Estado da Cultura. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.
 
@@ -117,10 +129,10 @@ MAPA ANEXO I
 
 Quadro de pessoal do Mosteiro dos Jerónimos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/071b00/16301630.pdf))](https://files.diariodarepublica.pt/1s/1995/03/071b00/16301630.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/071b00/16301630.pdf)
 
 MAPA ANEXO II
 
 Quadro de pessoal do Palácio Nacional de Queluz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/071b00/16301630.pdf))](https://files.diariodarepublica.pt/1s/1995/03/071b00/16301630.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/071b00/16301630.pdf)

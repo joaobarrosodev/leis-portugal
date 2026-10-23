@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/174/1995/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/174-1995-643893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a659d970fa694490997ec2aca80d465cddb3f4fc5c7837456d5cf8dab3c0e13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e37be802c5b182f06e7eb090507f4e0ba56b3ccf1e2f34184c830e3189d9c7ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Faro
 - Ordenamento do Território
 - Plano Director Municipal
-- Faro
 - Política de Solos
 - Regulamento
 relationships:
@@ -75,6 +75,41 @@ relationships:
   target: pt:dre:243360:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2046008:por
+  label: "Alterados os arts. 10º, 50º, 51º e 65º do Regulamento do Plano Director Municipal de Faro pela DECL.203/98(2ªSÉRIE).1998.05.28.DGOTDU-MEPAT,\
+    \ DR.IIS [132] de 08/Jun/1998 \098 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/203-1998-2046008
+  date: '1998-05-28'
+- type: amended_by
+  target: pt:dre:346532:por
+  label: "Ratificada a suspensão parcial do Plano Director Municipal de Faro pela RES.34/2001.2001.03.08.PCM, DR.IS-B [76]\
+    \ de 30/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/34-2001-346532
+  date: '2001-03-08'
+- type: amended_by
+  target: pt:dre:584630:por
+  label: "Ratificada a alteração ao Plano Director Municipal de Faro, ratificado pelo presente diploma, ficando revogadas,\
+    \ as anteriores disposições do Plano Director, na àrea de intervenção da supracitada alteração, pela RES.38/2005.13.01.2005.PCM,\
+    \ DR.IS-B [41] de 28.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/38-2005-584630
+  date: '2005-01-13'
+- type: amended_by
+  target: pt:dre:243360:por
+  label: "Ratificado o Plano de Pormenor do Largo de São Luís, no município de Faro, excluído de ratificação o artigo 6.º\
+    \ do Regulamento, ficando alterado o Plano Director Municipal de Faro, designadamente o artigo 50.º do seu Regulamento,\
+    \ ratificados pelo presente diploma, pela RES.134/2005.29.07.2005.PCM, DR.IS-B [157] de 17.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/134-2005-243360
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:2965679:por
+  label: "Tornado público que a Planta de Implantação do PPSMVPM altera a Planta de Ordenamento do Plano Diretor Municipal\
+    \ de Faro, passando a área de intervenção a constituir uma Unidade Operativa de Planeamento designada Sítio da Má Vontade/Pontes\
+    \ de Marchil e revogada a área de intervenção do PPSMVPM, nas disposições e indicadores urbanísticos que estejam em contradição\
+    \ com as disposições e indicações do PPSMVPM, constantes do Regulamento do Plano Diretor Municipal de Faro ratificado\
+    \ pelo presente diploma, pelo AV.14575/2013.26.11.2013.MFARO, DR.IIS [229] de 26.11.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14575-2013-2965679
+  date: '2013-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
@@ -115,16 +150,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port
   label: null
   source: http://data.dre.pt/eli/port
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693270:por
+  label: null
+  source: null
 article_structure:
   article_count: 102
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:00Z'
   warnings: []
   errors: []
 ---
@@ -1977,4 +2080,4 @@ Infra-estruturas - obrigatoriamente ligadas às redes públicas.
 
 A UOP de Pontal deverá ser objecto de plano de pormenor, a ratificar nos termos da legislação em vigor e elaborado com base num programa previamente acordado entre as entidades com competência na área, nomeadamente o Parque Natural da Ria Formosa, com vista à implementação de uma área turística de qualidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/291b00/79898007.pdf))](https://files.diariodarepublica.pt/1s/1995/12/291b00/79898007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/291b00/79898007.pdf)

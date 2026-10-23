@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/837/1994/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/837-1994-587852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e98b5af9f8687640a94698547e70d361262e73c7a4eae0a37c49a038a5e658a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 465f4b8d695903764738c5ca08c51d24ba37387c5604d9857d98614127384d5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Impresso
+- Contribuições e Impostos
+- Direcção Geral das Contribuições e Impostos
 - Imposto de Camionagem
 - Imposto de Circulação
-- Contribuições e Impostos
+- Impresso
 - Transporte de Mercadorias
-- Direcção Geral das Contribuições e Impostos
 relationships:
 - type: amended_by
   target: pt:dre:566643:por
@@ -84,16 +84,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/214/1994/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/214/1994/08/19/p/dre
+- type: cites
+  target: pt:dre:218496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250664:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:566643:por
+  label: "Revogado o nº 1 pela PORT.682/98.1998.09.01.MF, DR.IS-B [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/682-1998-566643
+  date: '1998-09-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:26Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +127,8 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 2.º do [Decr
 
 Ministério das Finanças.
 
-**Assinada em 23 de Agosto de 1994.**
+Assinada em 23 de Agosto de 1994.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/219b00/56565658.pdf))](https://files.diariodarepublica.pt/1s/1994/09/219b00/56565658.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/219b00/56565658.pdf)

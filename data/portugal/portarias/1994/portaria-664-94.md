@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/664/1994/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/664-1994-299474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f9fa1e9a10bff0748529eccf0f8a0233c7379162afad716f78bbd4f1f5da12a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82865591a7e7c81dbe907819df273b19f538a77cc118b664145b1a766f964efe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/116/1994/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/116/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:250664:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:11Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +106,6 @@ b) Não exceder a quilometragem efectuada os 2500 km iniciais.
 
 Ministério das Finanças.
 
-**Assinada em 20 de Junho de 1994.**
+Assinada em 20 de Junho de 1994.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/134/2005/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-2005-243360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee50d5ef72e49b480ac007c0fe21bbaf410d8f6445a585dec724e9a80be21bf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bf05a929e9a236a8168b6b116c796bcde3c25868d9ba203209ca5a9a1ee35ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
 - Faro
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Plano Director Municipal
+- Política de Solos
 - Regulamento
 relationships:
 - type: cites
@@ -97,16 +97,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/174/1995/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/174/1995/12/19/p/dre
+- type: cites
+  target: pt:dre:397953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677432:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:59Z'
   warnings: []
   errors: []
 ---
@@ -295,7 +323,7 @@ A rede de gás destinada ao abastecimento domiciliário deve ser desenvolvida em
 
 4 - O número máximo de pisos acima da cota de soleira admitido é 4, e a superfície de pavimentos encontra-se referida no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157b00/47924795.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157b00/47924795.pdf)](https://files.diariodarepublica.pt/1s/2005/08/157b00/47924795.pdf)
 
 5 - A área bruta de construção ao nível do subsolo será determinada no âmbito do projecto de execução do edifício e deve ser dimensionada de forma a contemplar o número mínimo de 150 lugares de estacionamento.
 
@@ -305,7 +333,7 @@ A rede de gás destinada ao abastecimento domiciliário deve ser desenvolvida em
 
 1 - Os usos permitidos, em ordem à animação do Estádio e do próprio Largo de São Luís, encontram-se referidos no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157b00/47924795.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/157b00/47924795.pdf)](https://files.diariodarepublica.pt/1s/2005/08/157b00/47924795.pdf)
 
 2 - O uso industrial permitido deve ser compatível com o uso habitacional da envolvente.
 

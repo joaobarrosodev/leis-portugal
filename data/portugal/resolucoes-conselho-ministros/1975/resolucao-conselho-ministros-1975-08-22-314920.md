@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1975-314920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:27:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33f88dd29c08d8cd563b285e27c4823593326b38bf4135abb0db4484bcac09a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 416bae461fb1aab1c05f70c5d57e4b5153caec55b4343ad00165c9556d452c94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:27:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Corpos Gerentes
+- Definição de Competências
+- Empresa
+- Empresa Intervencionada
+- Empresa Privada
+- Indústria Metalúrgica
+- Intervenção do Estado
+- Nomeação
+- Saneamento Económico e Financeiro
+- Suspensão de Funções
 relationships:
 - type: amended_by
   target: pt:dre:627198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627198:por
+  label: Determinada, com efeitos a 17.10.1977, a cessação da intervenção do Estado na empesa Facar - António de Carvalho
+    & Filhos, Lda, com a restituição aos titulares, e exonerada a partir de 17.10.1977 a comissão administrativa em funções
+    pelo(a) Resolução n.º 270/77 - Diário da República n.º 240/1977, 2º Suplemento, Série I de 1977-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/270-1977-627198
+  date: '1977-10-17'
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:27:31Z'
   warnings: []
   errors: []
 ---

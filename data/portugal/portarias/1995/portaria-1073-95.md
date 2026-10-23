@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/202b00/55215522.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1073/1995/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1073-1995-546837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc451db0c8d5a90b1ee2568e013f36954389bd9273317814b1fff9e4bca68445
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc87372532e66827794fcefed1950821e40a53fcd9233fba04799543636e1433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - CEE
 - Desenvolvimento Rural
 - Direcção Regional de Agricultura
+- Exploração Agrícola
 - Exploração Pecuária
+- Financiamento
 - Gestão Agrícola
 - Instituto Nacional de Intervenção e Garantia Agrícola
-- Exploração Agrícola
 - Orientação Agrícola
+- Pecuária
 - Política Agrícola Comum
+- Produção Agrícola
 - Programa
 - Programa Agrícola
-- Produção Agrícola
 - Regulamento CE
-- Pecuária
 relationships:
 - type: amended_by
   target: pt:dre:233954:por
@@ -115,16 +115,23 @@ relationships:
   target: celex:31995R1461
   label: null
   source: http://data.europa.eu/eli/reg/1995/1461/oj
+- type: repealed_by
+  target: pt:dre:233954:por
+  label: "Revogada, na redacção da Port 145/97 de 28-Fev, mantidos contudo em vigor, os compromissos assumidos pelos agricultores\
+    \ ao abrigo da presente portaria, pela PORT.550/2005.24.06.2005.MADRP, DR.IS-B [120] de 24.06.2005, nos termos do seu\
+    \ art. 1º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/550-2005-233954
+  date: '2005-06-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:11Z'
   warnings: []
   errors: []
 ---
@@ -185,6 +192,6 @@ Outras situações a analisar caso a caso.
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Agosto de 1995.**
+Assinada em 16 de Agosto de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.

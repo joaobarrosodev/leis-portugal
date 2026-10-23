@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/040b00/07350736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/108/1994/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/108-1994-516497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:17:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4ca4399893276d0a6e1b64a023920aea38795d33d841103732654709a0f6bb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22800ef5bda0ff6832221bc5e32b748f47f5463a34ff06bd5855588adb6a4360
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:17:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/332/1993/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/332/1993/03/20/p/dre
+- type: cites
+  target: pt:dre:153129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:208998:por
+  label: "Revogada pela PORT.220/98.1998.04.03.MADRP, DR.IS-B [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-1998-208998
+  date: '1998-04-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:17:06Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +126,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 2 de Fevereiro de 1994.**
+Assinada em 2 de Fevereiro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/040b00/07350736.pdf))](https://files.diariodarepublica.pt/1s/1994/02/040b00/07350736.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/040b00/07350736.pdf)

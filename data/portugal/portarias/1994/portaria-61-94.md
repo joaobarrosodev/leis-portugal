@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/61/1994/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-1994-495478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:31:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9aed9627e56d84727aa5ee2f329477969e5573c5716518e6669fef0f6321b5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5676281173c6f2a719d805f06efbea0ed63722bd631bb20505b60bd8bd0bef2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:31:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carrazeda de Ansiães
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:74431083:por
+  label: Aprovada a nova delimitação da Reserva Ecológica Nacional do Município de Carrazeda de Ansiães pelo(a) Portaria n.º
+    136/2016 - Diário da República n.º 92/2016, Série I de 2016-05-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/136-2016-74431083
+  date: '2016-05-12'
+- type: amended_by
+  target: pt:dre:126279258:por
+  label: Tornada pública a alteração da delimitação da Reserva Ecológica Nacional (REN) do município de Carrazeda de Ansiães,
+    aprovada pela presente portaria, na redação da Port 136/2016, de 12-mai, pelo(a) Aviso n.º 18424/2019 - Diário da República
+    n.º 222/2019, Série II de 2019-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/18424-2019-126279258
+  date: '2019-11-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:31:42Z'
   warnings: []
   errors: []
 ---
@@ -104,8 +129,8 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território, da Agricultura, das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo, do Ambiente e Recursos Naturais e do Mar.
 
-**Assinada em 6 de Janeiro de 1994.**
+Assinada em 6 de Janeiro de 1994.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro das Obras Públicas, Transporte e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro das Obras Públicas, Transporte e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/022b00/04290432.pdf))](https://files.diariodarepublica.pt/1s/1994/01/022b00/04290432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/022b00/04290432.pdf)

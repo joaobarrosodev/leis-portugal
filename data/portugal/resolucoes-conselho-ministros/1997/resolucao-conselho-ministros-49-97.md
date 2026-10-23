@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/49/1997/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-1997-526583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cb8de5129a8f8345e32c159d63ebd3c038c10eb89f6af3f6ac0c28014a2aec0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11320106818bb0f2cc4a3403932d03ea94f6c2c0bf73a8169594b12c13bf369d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ALTO Comissário para as Questões da Promoção da Igualdade e da Família
-- Protecção da Maternidade
-- Igualdade de Tratamento
 - Direito à Educação
-- Luta contra a Discriminação
 - Discriminação Sexual
+- Igualdade de Tratamento
+- Luta contra a Discriminação
 - Mulher Trabalhadora
 - Plano Global para a Igualdade de Oportunidades
+- Política de Emprego
 - Promoção de Emprego
 - Promoção Profissional
-- Política de Emprego
+- Protecção da Maternidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/440/1991/11/14/p/dre
@@ -93,16 +93,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/104/1996/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/104/1996/07/09/p/dre
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661903:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:01Z'
   warnings: []
   errors: []
 ---

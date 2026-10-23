@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/120/2006/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2006-541782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2f525242c0663b8f6824c3162b26baf85e886313ccc3e1f41767fd1ffc0112d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a37dd94d608c4fbfd7b512087d16a03884a1d0da48cc315f4fc5b4f8feede30d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Deficiente
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 - Pessoa em Situação de Dependência
-- Proteção ao Deficiente
-- Programa de Acção
 - Plano de Acção para a Integração das Pessoas com Deficiência ou Incapacidade
+- Programa de Acção
+- Proteção ao Deficiente
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 relationships:
 - type: amended_by
   target: pt:dre:448971:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448971:por
+  label: "Alterado o último parágrafo do nº 4.1 da parte i e a parte ii do Plano, pela RES.88/2008.29.05.2008.PCM, DR.IS [103]\
+    \ de 29.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/88-2008-448971
+  date: '2008-05-29'
 - type: cites
   target: celex:32000L0078
   label: null
@@ -83,13 +89,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:41Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +156,7 @@ Presidência do Conselho de Ministros, 31 de Agosto de 2006. - O Primeiro-Minist
 
 ## ANEXO — I PLANO DE ACÇÃO PARA A INTEGRAÇÃO DAS PESSOAS COM DEFICIÊNCIAS OU INCAPACIDADE
 
-# Parte I
+Parte I
 
 Enquadramento
 
@@ -248,7 +254,7 @@ O grupo deverá realizar um relatório sobre a avaliação das medidas desenvolv
 
 Posteriormente, as propostas resultantes do relatório serão apresentadas ao Conselho de Ministros com vista a avaliar a execução do Plano e a adoptar novas medidas que se considerem mais adequadas à promoção dos direitos das pessoas com deficiências e à melhoria das suas condições de vida.
 
-# Parte II
+Parte II
 
 1 - Intervenção e estratégias para a qualidade de vida:
 

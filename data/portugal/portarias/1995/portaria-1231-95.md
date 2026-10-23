@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1231/1995/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1231-1995-663345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dd01181d4a2201f07e14c3c63f37903f577451abf183e179e0d3987f2faa2a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3f3fa13cf4a881ab28162235f3bb2dfb458c511ef9b275d72921acca11bdfe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Braga
 - Gondomar
 - Ílhavo
-- Tribunal de Comarca
 - MAIA
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Família e de Menores
 - Tribunal Judicial
 - Valongo
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/536-a/1991/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/536-a/1991/06/20/p/dre
+- type: cites
+  target: pt:dre:534798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618491:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:04Z'
   warnings: []
   errors: []
 ---
@@ -177,6 +185,6 @@ Tribunais de comarca
 
 Ministério da Justiça.
 
-**Assinada em 25 de Setembro de 1995.**
+Assinada em 25 de Setembro de 1995.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1441/1995/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1441-1995-627205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5215a4fcdc8bb25c071d19370ea929f1455c8cb30109bed2040a358dde1fab6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49f0a1578ca6177b357e7060e6ae153cd65bd4bb20566dded066a94192f61504
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
 - Estabelecimento de Jogos
+- Jogos de Fortuna e Azar
 - Máquinas de Jogo
 - Regime Jurídico
 relationships:
@@ -74,16 +74,37 @@ relationships:
   target: pt:dre:142709:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:582040:por
+  label: "Revogadas as regras de execução da modalidade do jogo \"black-jack/21\" contidas no tit. V deste diploma, pela PORT.1364/2001.2001.12.06.MECO\
+    \ DR.IS-B [282]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1364-2001-582040
+  date: '2001-12-06'
+- type: repealed_by
+  target: pt:dre:196901:por
+  label: "Revogadas as regras de execução do jogo denominado roleta americana, constantes do tit. IX deste diploma, pela PORT.894/2002.2002.07.29.MECO\
+    \ DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/894-2002-196901
+  date: '2002-07-29'
+- type: repealed_by
+  target: pt:dre:142709:por
+  label: "Revogada pela PORT.817/2005.13.09.2005.MEI, DR.IS-B [176] de 13.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/817-2005-142709
+  date: '2005-09-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:05Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +129,11 @@ Manda o Governo, pelo Secretário de Estado do Turismo, o seguinte:
 
 Ministério do Comércio e Turismo.
 
-**Assinada em 29 de Setembro de 1995.**
+Assinada em 29 de Setembro de 1995.
 
-**O Secretário de Estado do Turismo, Alexandre Carlos de Mello Vieira Costa Relvas.**
+O Secretário de Estado do Turismo, Alexandre Carlos de Mello Vieira Costa Relvas.
 
-## Anexo a que alude o n.º 1.º da Portaria n.º 1441/95
+Anexo a que alude o n.º 1.º da Portaria n.º 1441/95
 
 Regras de execução de jogos de fortuna ou azar
 
@@ -286,7 +307,7 @@ c) Se tiver bacará, 1 ou 2, tira uma terceira carta para si, salvo se o ponto a
 
 d) Se tiver 3, 4, 5 ou 6 e se o ponto não tiver abatido, tirará ou não, conforme o ponto tenha ou não pedido carta e, tendo pedido carta, consoante a pontuação da terceira carta, de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf))](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf)
 
 68 - A terceira carta extraída do sabot, quando nesse sentido houver pedido do ponto, será entregue com a pontuação à vista de todos os jogadores, mesmo se o ponto tiver descoberto antes uma das cartas que lhe foram distribuídas.
 
@@ -512,7 +533,7 @@ Com excepção do primeiro, antes de cada lance e depois de anunciado «nada mai
 
 13 - Apenas mais uma carta poderá ser adicionada às duas inicialmente distribuídas a cada grupo, sendo a primeira para o grupo do ponto e observando-se a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf))](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf)
 
 14 - Quando, durante qualquer das distribuições inicial ou adicional, se verifique lapso, deve ser este imediatamente corrigido. O lance, porém, será considerado nulo se for de todo impossível corrigir-se o lapso.
 
@@ -588,7 +609,7 @@ Com excepção do primeiro, antes de cada lance e depois de anunciado «nada mai
 
 13 - Apenas mais uma carta poderá ser adicionada às duas inicialmente distribuídas a cada grupo, sendo a primeira para o grupo do ponto e observando-se a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf))](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf)
 
 14 - Quando, durante qualquer das distribuições, inicial ou adicional, se verifique lapso, deve este ser imediatamente corrigido. O lance, porém, será considerado nulo se for de todo impossível corrigir-se o lapso.
 
@@ -900,7 +921,7 @@ Total 4 ou total 10 - 2 para 1.
 
 Os pagamentos em relação aos totais saídos são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf))](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/276b00/74487459.pdf)
 
 As apostas nestas chances têm de ser sempre múltiplas dos mínimos fixados.
 

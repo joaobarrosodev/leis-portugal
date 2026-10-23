@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/33/1999/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-1999-531411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17a7a476007c094cd0a8034226ef0b6642153553b6984ae3341ca6a64e977f10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64d5e07186ae37fa07e0e7203bc04f65d58ff08ec1555acc7ac39b14b8d5ce23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Protecção do Litoral
-- Plano de Ordenamento da Orla Costeira
-- Zona de Proteção
-- Política de Solos
 - Domínio Público Hídrico
+- Ordenamento do Território
+- Plano de Ordenamento da Orla Costeira
+- Política de Solos
+- Protecção do Litoral
 - Regulamento
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:637405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:637405:por
+  label: "Determinada a alteração do POOC Burgau-Vilamoura pela RES.104/2007.07.08.2007.PCM, DR.IS [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/104-2007-637405
+  date: '2007-08-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -89,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
 article_structure:
   article_count: 92
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:34Z'
   warnings: []
   errors: []
 ---
@@ -1671,13 +1692,13 @@ O POOC deverá ser revisto dentro do prazo de 10 anos sobre a data da sua entrad
 
 ## ANEXO I — Dispositivos de assinalamento marítimo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)
 
 ## ANEXO II — [(ver quadros 1 a 14 no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)
 
 ## ANEXO III — Faixas de risco e protecção às arribas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)
 
 ## ANEXO IV — Infra-estruturas de saneamento básico (águas e esgotos): soluções tipo
 
@@ -1779,7 +1800,7 @@ O dimensionamento das áreas de estacionamento deverá ser em função do tipo, 
 
 Praias marítimas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)](https://files.diariodarepublica.pt/1s/1999/04/098b00/22322257.pdf)
 
 2 - Cálculo da capacidade de utilização da praia
 

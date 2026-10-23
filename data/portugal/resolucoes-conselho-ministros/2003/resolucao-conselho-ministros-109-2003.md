@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/109/2003/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2003-660948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdc34ce5abe0d978f5e331442bd7f74a1be3356678b34554036be4bb5b5d0457
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e0ec628de4a9b7eed0b97998aa42e8dd89d440e25aff39a017538de87da28a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,44 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Tecnologia da Informação
+- Comunicações
 - Comunicações Eletrónicas
-- Equipamento Eletrónico
-- Indústria Electrónica
 - Dados Estatísticos
+- Desenvolvimento Económico
+- Eeurope 2005
+- Empresa
+- Equipamento Eletrónico
+- Governo Electrónico
+- Indústria Electrónica
 - Iniciativa Legislativa
-- TIC
-- Sociedade da Informação
+- Iniciativa Nacional para a Banda Larga
+- Internet
 - Investimento Público
 - Nova Tecnologia
-- Eeurope 2005
-- Desenvolvimento Económico
-- Programa de Acção
-- Governo Electrónico
-- Internet
-- UMIC
-- Serviço Público
 - Produtividade
-- Comunicações
+- Programa de Acção
+- Serviço Público
 - Serviço Público Directo
+- Sociedade da Informação
 - TAXA de Utilização
-- Iniciativa Nacional para a Banda Larga
+- Tecnologia da Informação
+- TIC
+- UMIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
+- type: cites
+  target: pt:dre:451783:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:16Z'
   warnings: []
   errors: []
 ---
@@ -297,11 +301,11 @@ Nos últimos anos, o crescimento da economia portuguesa tem registado atrasos si
 
 Índice de produtividade por trabalhador - 2002 (EU15 - 100)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Evolução no ranking global de competitividade (posição no ranking)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: EUROSTAT; IMD World Competitiveness Yearbook 2002; estimativas da OCDE para 2002.
 
@@ -329,21 +333,21 @@ Apesar do crescimento acentuado nos últimos anos no que se refere ao acesso e �
 
 Taxa de penetração de Internet (percentagem de agregados familiares conectados, Março de 2000)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Taxa de penetração de Internet (percentagem de agregados familiares conectados, Novembro de 2002)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 TACC (Março-Novembro de 2002)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Comissão Europeia (Eurobarómetro).
 
 Para este atraso, contribui um conjunto de factores inibidores - entre os quais se destaca a reduzida penetração de equipamentos terminais (PC) em Portugal -, verdadeiros obstáculos à massificação da Internet, à generalização da banda larga e, evidentemente, ao desenvolvimento da sociedade da informação.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: INE, Março de 2002; IDC.
 
@@ -351,7 +355,7 @@ Objectivos do eEurope 2005. - No eEurope 2005, os objectivos da União Europeia 
 
 Dimensões do eEurope 2005
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: eEurope 2005.
 
@@ -373,11 +377,11 @@ A centralidade dos segmentos mais jovens da população reflecte-se não apenas 
 
 Utilizadores de computador e de Internet por escalão etário
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Utilizadores de computador e de Internet por nível de educação
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: ANACOM; INE, estimativas da população residente; OCDE e EUROSTAT.
 
@@ -387,11 +391,11 @@ Por fim, foi já possível diagnosticar que a distribuição geográfica do aces
 
 Distribuição geográfica da população (2000)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: DUN & Bradstreet; MOPE.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: INE, Março de 2002; IDC; ANACOM.
 
@@ -403,11 +407,11 @@ A análise dos perfis de utilização da Internet no segmento residencial consti
 
 Razões que levam à ligação do computador à Internet nos agregados familiares (indivíduos que já adquiriram ou planeiam adquirir ligação à Internet nos agregados familiares).
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: OCT, 2001.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Marktest - Bareme Internet, Setembro-Novembro de 2002.
 
@@ -423,7 +427,7 @@ Segmento adultos - trata-se de um segmento em que os utilizadores da Internet t�
 
 Segmento jovens - trata-se de um segmento composto por indivíduos utilizadores da Internet com idades inferiores a 25 anos, maioritariamente estudantes. A formação e o entretenimento constituem factores de estimulação e familiarização das camadas mais jovens, devendo ser potenciadas por propostas de valor que estimulem a adopção da banda larga neste segmento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 2.1.1.2 - Residenciais não utilizadores da Internet
 
@@ -431,7 +435,7 @@ No caso do segmento de não utilizadores da Internet, a compreensão das respect
 
 Razões que levam à não aquisição de ligação à Internet nos agregados familiares (indivíduos que não dispõem de ligação à Internet nos agregados familiares).
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: OCT, 2001.
 
@@ -443,7 +447,7 @@ Segmento adultos - a dificuldade em potenciar a utilização da Internet em bene
 
 Segmento jovens - o baixo nível de cultura tecnológica, a reduzida motivação de desenvolvimento pessoal, a inserção em comunidades afastadas do desenvolvimento económico e da academia, bem como a elevada sensibilidade ao custo de oportunidade (monetário e temporal) associado à utilização da Internet, poderão constituir algumas das razões que justificam a não adesão à Internet neste segmento. Assim sendo, a proposta de valor a direccionar deverá considerar os níveis de escolaridade, a ocupação de tempos livres e a preparação para o mercado de trabalho. Neste sentido, considera-se essencial que o acesso e a utilização da Internet sejam: 1) promovidos em ambientes de ensino/formação, enquanto instrumento fundamental nos processos de aprendizagem; 2) incentivados como alternativa de valorização cultural e pessoal, nomeadamente ao nível do entretenimento; 3) promovidos como meio de proximidade, inserção social e alargamento de fronteiras de conhecimento e relacionamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 2.1.2 - Segmento empresarial
 
@@ -453,11 +457,11 @@ O aumento da produtividade económica das empresas encontra-se positivamente cor
 
 Correlação entre despesa em TI e produtividade na EU (análise sectorial)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Despesa em TI em percentagem do PIB
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Gartner book; EUROSTAT 2002; análise.
 
@@ -465,7 +469,7 @@ Uma vez que a intensidade e sofisticação tecnológicas das empresas variam em 
 
 Matriz de posicionamento de sectores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Dun & Bradstreet; MOPE; A.T. Kearney.
 
@@ -473,7 +477,7 @@ A distribuição geográfica das empresas que utilizam a Internet vai de par com
 
 Distribuição geográfica das empresas em Portugal (2000)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Dun & Bradstreet; MOPE.
 
@@ -487,7 +491,7 @@ A procura de informação e comunicação com organismos, entidades e autoridade
 
 Actividades em que a empresa utiliza a Internet (empresas com ligação à Internet)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: IPCE, OCT/INE, 2001.
 
@@ -501,7 +505,7 @@ Médias empresas - segmento com uma utilização generalizada da Internet, funda
 
 Pequenas empresas - segmento utilizador da Internet como ferramenta de comunicação (como, por exemplo, o correio electrónico). Este segmento subdivide-se em dois grandes grupos: a) pequenas empresas distribuidoras que contactam fundamentalmente com o cliente final e para os quais é fundamental optimizar a comunicação, tipicamente profissionais liberais ou empresários por conta própria (cerca de 200000 em Portugal), e b) pequenas empresas que trabalham fundamentalmente como subcontratadas de empresas de dimensão superior e para as quais é fundamental a optimização dos seus processos de integração com os parceiros de negócio para alcançarem ganhos de eficiência e de rentabilidade. Assim, a proposta de valor para este segmento deverá centrar-se em necessidades de comunicação, para melhorar o processo de comunicação para as empresas que contactam com o cliente final, e em necessidades de desenvolvimento e relacionamento empresarial (B2B), para optimizar a integração de processos e operações, fundamentalmente para as empresas subcontratadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Estimativa OCT 2001.
 
@@ -515,7 +519,7 @@ No caso das empresas não utilizadoras de Internet, e dada a elevada percentagem
 
 Razões para a não utilização de Internet nas empresas (empresas com computador e sem ligação à Internet)
 
-[(ver gráficos no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[(ver gráficos no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: IUTIC, OCT/ICP, 2000.
 
@@ -525,7 +529,7 @@ As propostas de valor para estes segmentos, especialmente para as pequenas e mé
 
 Assim, considera-se que as propostas de valor para este segmento devem focalizar-se, numa primeira fase, no processo de adesão das empresas à Internet através do desenvolvimento de sítios presenciais, para posteriormente endereçar outros desafios mais complexos, como a criação de plataformas transaccionais e a própria automatização dos processos de negócio através de tecnologia Web.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Estimativa OCT 2001.
 
@@ -541,17 +545,17 @@ A diversidade de opções tecnológicas disponíveis no mercado evidencia que o 
 
 Comparação das várias tecnologias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: A.T. Kearney.
 
 Cada uma das tecnologias disponíveis apresenta vantagens e desvantagens, quer do ponto de vista funcional, quer do ponto de vista tecnológico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Assumindo como condição crítica a neutralidade tecnológica, o desenvolvimento da estratégia de banda larga deverá ser inclusivo e consagrar as diversas soluções mais adequadas ao tipo de aplicação e conteúdos consumidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Plannedapproach Inc.
 
@@ -569,7 +573,7 @@ Mapa digital da TV Cabo e Cabo Visão vs. Distribuição do rendimento
 
 Fonte: Dun & Bradstreet; MOPE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: A.T. Kearney (2003).
 
@@ -577,7 +581,7 @@ Relativamente ao ADSL, e apesar da sua introdução comercial recente no mercado
 
 Linhas de ADSL esperadas em 2003 por distrito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Estimativa A.T. Kearney.
 
@@ -585,7 +589,7 @@ Paralelamente, é expectável a proliferação de tecnologias emergentes como o 
 
 No contexto do mercado nacional, o HFC/cabo e o ADSL continuam a ser as infra-estruturas tecnológicas de banda larga de referência, na medida em que algumas tecnologias se encontram ainda em fase de teste comercial, como o WiFi, encontraram obstáculos ao seu desenvolvimento, como o WLL, ou têm registado atrasos no seu lançamento, como é o caso do UMTS, previsto apenas para meados de 2004. No caso do UMTS, e apesar deste atraso, o seu contributo para o desenvolvimento da iniciativa de banda larga deverá ser reavaliado de acordo com a sua evolução e a disponibilidade tecnológica e comercial no médio prazo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Actualmente, a disponibilidade e a capilaridade de infra-estrutura são elevadas nas regiões de maior densidade populacional e de maior desenvolvimento económico. Ao invés, nas regiões de menor densidade populacional - generalidade das regiões rurais, interior do País e Regiões Autónomas - e nas regiões de menor rendimento económico, como as zonas urbanas periféricas e as bolsas de pobreza urbanas, a infra-estrutura de comunicações disponível e a oferta de serviços de banda larga são escassas ou mesmo inexistentes. Neste contexto, constituem objectivos primordiais reforçar a capacidade e garantir a cobertura integral da infra-estrutura nas mais diversas regiões do território nacional.
 
@@ -597,11 +601,11 @@ Os custos de acesso à Internet encontram-se actualmente bastante dependentes do
 
 Comparação do custo de opções de acesso à Internet
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Segmentos de mercado de Internet
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: A.T. Kearney.
 
@@ -611,7 +615,7 @@ Apesar do recente esforço dos operadores para a promoção de serviços de aces
 
 Custo mensal de serviço ADSL 512/128 Kbps (ver nota 1) (Fev. 2003) (euros com IVA)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 (nota 1) O valor não inclui os custos adicionais de instalação nem de equipamento. Oferta para 512 Kbps downstream e 128 Kbps upstream, excepto no Reino Unido e Holanda (256 Kbps upstream), Áustria e Luxemburgo (64 Kbps upstream) e Bélgica (3 Mbps downstream). PPP - Paridade Poder de Compra.
 
@@ -619,13 +623,13 @@ Fonte: Sítios dos ISP (Internet Service Providers) representantes dos países: 
 
 Os preços atractivos assumem um papel fundamental no processo de massificação do acesso à banda larga. Com efeito, são os países com maior taxa de penetração da banda larga, como a Coreia do Sul, o Canadá, a Alemanha, a Bélgica e alguns países nórdicos (Dinamarca, Suécia), que apresentam os custos mensais de utilização do serviço mais baixos.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: OCDE (2001).
 
 Actualmente, o peso dos gastos de telecomunicações no PIB português é superior à média da União Europeia, o que representa, por si só, um factor limitador do seu crescimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: OCDE, A.T. Kearney.
 
@@ -635,7 +639,7 @@ No entanto, a redução do custo do acesso de banda larga nas diversas tecnologi
 
 Custo total da tecnologia (ver nota 1) por conexão (ver nota 2) versus penetração (Lisboa e Porto)
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 (nota 1) Custo total calculado como um custo anual equivalente que incorpora investimentos e custos operacionais, actualizados com uma taxa de desconto (8,5%) durante o período de vida útil da tecnologia(nota 2).
 
@@ -651,7 +655,7 @@ Deste modo, o recurso a uma estratégia de redução de preços de acesso de ban
 
 Custo total da tecnologia (ver nota 1) por conexão versus penetração (Lisboa e Porto)
 
-[(ver gráficos no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[(ver gráficos no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 (nota 1) Custo total calculado como um custo anual equivalente que incorpora investimentos e custos operacionais, actualizados com uma taxa de desconto (8,5%) durante o período de vida útil da tecnologia.
 
@@ -669,7 +673,7 @@ Esta importante e inovadora margem de intervenção que é conferida ao regulado
 
 Principais impactes do Novo Pacote Regulamentar para o desenvolvimento da banda larga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 2.2.4 - Conteúdos
 
@@ -677,11 +681,11 @@ Os países que registam maiores níveis de investimento em conteúdos e aplicaç
 
 Investimentos em software versus investimentos em infra-estrutura de comunicações
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Taxa de penetração de Internet e PC em Portugal e na Europa
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: OCDE 2002.
 
@@ -733,7 +737,7 @@ Valorização do tempo livre e do lazer;
 
 Valorização profissional e integração socio-económica das minorias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 3.1 - Definição do conceito de banda larga
 
@@ -745,7 +749,7 @@ A definição de banda larga aqui proposta ultrapassará as dimensões relativas
 
 A definição de banda larga varia entre países e organizações, sendo nalguns casos definidos claramente em termos técnicos e noutros descritos genericamente em função do tipo de aplicações que disponibilizam no mercado. Contudo, e através da análise aos casos britânico e alemão, depreende-se que o conceito, evidencia não apenas a sua disponibilidade técnica, mas também a missão estratégica conferida e os princípios subjacentes ao seu papel funcional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: eEurope 2005 (EU), OECD, Canada NBTF, Austrália BAG, UK BSG.
 
@@ -763,7 +767,7 @@ A banda larga deverá suportar diferentes perfis de cultura tecnológica dos uti
 
 A banda larga deverá ser adaptável à evolução tecnológica das plataformas de comunicação, capacidade e diversidade dos terminais e complexidade dos conteúdos e aplicações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Do ponto de vista da capacidade de transmissão associada ao conceito, e atendendo à situação de partida do mercado português na adopção dos serviços de banda larga, considera-se que os seus referenciais deverão ser adaptáveis às diferentes necessidades dos utilizadores.
 
@@ -793,7 +797,7 @@ O número de postos públicos com acesso à Internet em banda larga será superi
 
 Comparativamente a outros mercados internacionais, Portugal possui, actualmente, uma reduzida taxa de penetração da Internet de banda larga (cerca de 2%) (ver nota 2).
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: OCDE.
 
@@ -801,7 +805,7 @@ Fonte: OCDE.
 
 As projecções apontam para que o mercado nacional atinja naturalmente uma taxa de penetração de acessos que se situará num intervalo de variação entre 6,6% e 9,1%, para o segmento residencial, em 2005.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Fonte: Morgan Standley, Junho de 2000; Portugal Telecom.
 
@@ -817,7 +821,7 @@ O âmbito e a natureza dos ePolicy Indicators foram estabelecidos a nível europ
 
 Neste sentido, constitui objectivo deste plano incorporar medidas de acção que permitam, de forma concertada, atingir os seguintes objectivos até 2005:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 3.2.1.2 - Objectivos para o segmento residencial
 
@@ -825,13 +829,13 @@ No caso do segmento residencial, deverão ser assumidos objectivos de penetraç�
 
 Para o período 2003-2005 constitui, assim, objectivo desejável evoluir dos actuais 2,4% de penetração de acessos em banda larga para 18%, ou seja, aproximadamente 1,85 milhões de acessos em banda larga.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 O número de agregados com acesso em 2005 deverá atingir os 1,8 milhões (aproximadamente 50% dos 3,7 milhões de agregados existentes em Portugal), assumindo-se que a dimensão média de um agregado nacional corresponde a 2,8 pessoas (ver nota 3) (e assumindo-se que cada agregado terá apenas um acesso à Internet de banda larga).
 
 De acordo com estes objectivos, e considerando que o número médio de utilizadores por acesso residencial corresponde a 1,9 (ver nota 4) pessoas, pode estimar-se que o número total de utilizadores será de aproximadamente 3,4 milhões em 2005 (cerca de 34% da população portuguesa).
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 (nota 3) Fonte: INE - Censos 2001.
 
@@ -841,7 +845,7 @@ De acordo com estes objectivos, e considerando que o número médio de utilizado
 
 Relativamente ao segmento empresarial, considera-se como objectivo desejável atingir uma taxa de penetração de acessos na ordem dos 50% do total das empresas e superior a 50% nas empresas com mais de nove trabalhadores até 2005.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 3.3 - Princípios orientadores de concepção estratégica
 
@@ -849,7 +853,7 @@ A abrangência dos objectivos para a Iniciativa Nacional para a Banda Larga exig
 
 A definição da estratégia nacional de banda larga deverá fundar-se num conjunto de princípios de orientação balizadores das opções a tomar, nomeadamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 4 - Factores críticos de sucesso
 
@@ -869,7 +873,7 @@ Factores com impacte indirecto no desenvolvimento da banda larga por serem inibi
 
 Com base na análise dos modelos de mercado adoptados por países com maiores índices de adopção de serviços de banda larga e das especificidades da oferta e da procura do mercado nacional, é possível identificar três factores críticos determinantes no desenvolvimento e massificação dos serviços de banda larga no mercado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 4.1.1.1 - Preço
 
@@ -929,7 +933,7 @@ A Iniciativa Nacional para a Banda Larga deverá ser desenvolvida em torno de ci
 
 Atendendo aos factores críticos enunciados, o desenvolvimento bem sucedido da Iniciativa Nacional para a Banda Larga impõe a adopção de um conjunto de medidas, agrupadas e estruturadas em cinco eixos de actuação prioritária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 4.3 - O papel do Estado
 
@@ -949,7 +953,7 @@ Apesar da sua importância para o desenvolvimento da banda larga, o Estado não 
 
 No desenvolvimento desta estratégia de banda larga, o papel do Estado pode assumir perfis de actuação diferenciados. Nos vários mercados internacionais analisados, identificaram-se três grandes modelos de actuação, diferenciáveis quanto aos níveis de participação estatal na alocação de recursos financeiros e na intervenção regulamentar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 O modelo de intervenção a adoptar depende das circunstâncias específicas de cada mercado, não sendo possível identificar modelos ideais de sucesso. A opção por cada modelo encontra-se bastante dependente da orientação política e social assumida por cada governo, das características específicas dos mercados locais, dos recursos disponíveis e da própria determinação dos objectivos assumidos face aos planos de acção para a banda larga.
 
@@ -957,13 +961,13 @@ De acordo com estes modelos, conclui-se que, apesar das vantagens e desvantagens
 
 A agressividade dos objectivos de penetração de banda larga definidos para 2005, o relativo atraso face aos objectivos do eEurope 2002 e as dificuldades e desafios específicos no contexto nacional determinam a adopção de um modelo abrangente com perfis de intervenção diferenciados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 4.3.2 - Áreas de intervenção do Estado
 
 A participação e intervenção do Estado deverão ser estabelecidas em três domínios de intervenção distintos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Como agente de intervenção regulamentar/legislativa, através da:
 
@@ -1019,21 +1023,21 @@ Mobilizar e concertar formas de actuação entre os agentes/entidades críticos 
 
 Cada um dos cinco eixos de actuação na Iniciativa Nacional para a Banda Larga deverá ser dinamizado por um grupo de stakeholders próprio, sendo a coordenação das várias iniciativas assegurada por uma estrutura de coordenação global responsável pelo alinhamento dos recursos com os objectivos do Estado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 A organização de cada grupo de stakeholders deverá estruturar-se em cinco níveis de actuação, reflectindo funções diferenciadas ao nível da coordenação e planeamento, implementação efectiva das medidas e controlo dos resultados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 4.4.3 - Modelo operacional
 
 A UMIC será responsável pela coordenação de cada grupo de stakeholders com o apoio de entidades representativas, que intervirão na definição de políticas e na mobilização dos agentes responsáveis pela sua implementação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 O modelo de funcionamento dos grupos de stakeholders assentará num ajuste contínuo do grau de intervenção consoante o nível de cumprimento dos objectivos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 5 - Eixos de actuação
 
@@ -1041,11 +1045,11 @@ A Iniciativa Nacional para a Banda Larga estrutura-se em cinco eixos de actuaç�
 
 A Iniciativa Nacional para a Banda Larga estrutura-se em cinco eixos de actuação, no quadro dos quais será desenvolvido um conjunto de projectos chave que visam dar resposta factores inibidores da difusão acelerada e sustentada da banda larga em Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 Paralelamente aos eixos de actuação, foram identificadas as contribuições da banda larga enquanto plataforma tecnológica de interligação e suporte à implementação dos diversos modelos definidos nos eixos de actuação estratégica de cada uma das restantes iniciativas da sociedade da informação, nomeadamente: 1) governo electrónico: a alavanca da mudança (eGovernment); 2) novas capacidades (eLearning); 3) saúde ao alcance de todos (eHealth), e 4) novas formas de criar valor económico (eBusiness).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 5.1 - Eixo n.º 1 - Infra-estruturas e acessos
 
@@ -1295,7 +1299,7 @@ Regulador (ANACOM).
 
 5.1.4 - Plano de acção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 5.2 - Eixo n.º 2 - Conteúdos e aplicações multimédia
 
@@ -1507,7 +1511,7 @@ Editoras e produtoras de conteúdos de banda larga.
 
 5.2.3 - Plano de acção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 5.3 - Eixo n.º 3 - Utilização da banda larga
 
@@ -1945,7 +1949,7 @@ Grupos de desenvolvimento de aplicações de ensino remoto de banda larga.
 
 5.3.6 - Plano de acção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 5.4 - Eixo n.º 4 - Info-inclusão
 
@@ -2079,7 +2083,7 @@ Ministérios da Saúde, da Segurança Social e do Trabalho, da Educação e da C
 
 5.4.3 - Plano de acção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 5.5 - Eixo n.º 5 - Competitividade nacional
 
@@ -2575,7 +2579,7 @@ Operadores de telecomunicações.
 
 5.5.6 - Plano de acção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/48524894.pdf)
 
 6 - Anexo - Declaração conjunta ANACOM/UMIC
 

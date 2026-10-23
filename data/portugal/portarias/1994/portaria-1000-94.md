@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1000/1994/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1000-1994-534982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32dd0181d16b2b20a2e746a92ddebb3fe9fac8851daac906b04a80aca4a81e18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06375f69fcf80fce28fcd5e05f2966b46f0e03debf8aa97c52c90b8fa06db170
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:15:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Professores do Ensino Básico Variante Matemática e Ciências da Natureza
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Portalegre
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:420008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556990:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:15:13Z'
   warnings: []
   errors: []
 ---
@@ -115,12 +131,12 @@ O disposto no n.º 1.º aplica-se, progressivamente, a partir do ano lectivo de 
 
 Regime de transição
 
-**O presidente do Instituto Politécnico de Portalegre, sob proposta da comissão instaladora da sua Escola Superior de Educação, ouvido o respectivo conselho científico, fixará as regras do regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos.**
+O presidente do Instituto Politécnico de Portalegre, sob proposta da comissão instaladora da sua Escola Superior de Educação, ouvido o respectivo conselho científico, fixará as regras do regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos.
 
 Ministério da Educação.
 
-**Assinada em 28 de Outubro de 1994.**
+Assinada em 28 de Outubro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/264b00/68396840.pdf))](https://files.diariodarepublica.pt/1s/1994/11/264b00/68396840.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/264b00/68396840.pdf)

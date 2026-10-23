@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1041/1995/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1041-1995-432799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d3485ecf021474f62bfd5236f7831abbeaec094a8dbf8ea369a0e8e2c5ff9d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b49d4e38532abba43724bb06d0d8107f4ce08df89eaf9ea3ce4a89c446c0e43b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
+- type: cites
+  target: pt:dre:283521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681593:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:27Z'
   warnings: []
   errors: []
 ---
@@ -115,14 +127,14 @@ Manda o Governo, pelos Ministros das Finanças e do Ambiente e Recursos Naturais
 
 Ministérios das Finanças e do Ambiente e Recursos Naturais.
 
-**Assinada em 27 de Julho de 1995.**
+Assinada em 27 de Julho de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
 Mapa anexo I à Portaria n.º 1041/95
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/198b00/54025403.pdf))](https://files.diariodarepublica.pt/1s/1995/08/198b00/54025403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/198b00/54025403.pdf)
 
 Mapa anexo II à Portaria n.º 1041/95
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/198b00/54025403.pdf))](https://files.diariodarepublica.pt/1s/1995/08/198b00/54025403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/198b00/54025403.pdf)

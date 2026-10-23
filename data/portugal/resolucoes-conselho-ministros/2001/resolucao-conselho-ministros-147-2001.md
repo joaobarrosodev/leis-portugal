@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/147/2001/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/147-2001-616241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 186081abb7fe70cb9cffce50143a452c31bc0d69d607632f4e540018779207a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0e5974ff9270cdff1e351775a21fc26a19c23c3816d6825e42549b174baa3ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Plano Director Municipal
 - Penafiel
-- Política de Solos
 - Plano de Pormenor
+- Plano Director Municipal
+- Política de Solos
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:641404:por
+  label: "Ratificada, nos termos dos nºs 1 e 2, a revisão do PDM de Penafiel, ratificado pela Res 53/94, de 13-Jul, da PCM,\
+    \ com as alterações ratificadas pelo presente diploma, pela RES.163/2007.12.10.2007.PCM, DR.IS [197] de 12.10.2007, que\
+    \ revoga o PDM a partir de 13.10.2007.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/163-2007-641404
+  date: '2007-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
@@ -80,16 +87,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/1994/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/1994/07/13/p/dre
+- type: cites
+  target: pt:dre:300255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:641404:por
+  label: "Revogado, a partir de 13.10.2007, o Plano de Pormenor da Zona Industrial de Penafiel II, ratificado em 18.10.1991,\
+    \ e cujo Regulamento foi tornado público pela Decl DDECL75/92, de 07-Abr, com a alteração ratificada pelo presente diploma,\
+    \ pela.RES.163/2007.12.10.2007.PCM, DR.IS [197] de 12.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/163-2007-641404
+  date: '2007-10-12'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:35Z'
   warnings: []
   errors: []
 ---

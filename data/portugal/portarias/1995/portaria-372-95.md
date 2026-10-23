@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/372/1995/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/372-1995-223053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a97d31b2c06a70feeb3562402a40688cd30450197b0d3de9b15caab1dc85223
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1df3e4abe63302815e47e54a556f0f6d1cf997af383791e952419b7c259b1ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Desenvolvimento Económico
+- Embarcação de Pesca
 - Financiamento
 - Frota de Pesca
+- Ifadap
 - Pesca
+- Programa para o Desenvolvimento Económico do Sector das Pescas
 - QCA
 - Reestruturação Industrial
-- Desenvolvimento Económico
-- Programa para o Desenvolvimento Económico do Sector das Pescas
 - Regime de Apoio à Renovação e Modernização da Frota de Pesca
 - Regulamento
-- Ifadap
-- Embarcação de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:428622:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:428622:por
+  label: "Alterados os arts. 5º, 6º, 12º, 14º, 17º, 19º, 20º e 21º e o anexo I da Port 576/94, de 12-Jul, na redacção do presente\
+    \ diploma, pela PORT.428/98.1998.07.25.MADRP DR.IS-B [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/428-1998-428622
+  date: '1998-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/576/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/576/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:294697:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 11
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:02Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +129,9 @@ Manda o Governo, pelo Ministro do Mar, o seguinte:
 
 Ministério do Mar.
 
-**Assinada em 13 de Março de 1995.**
+Assinada em 13 de Março de 1995.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
 Regulamento do Regime de Apoio à Renovação e Modernização da Frota de Pesca
 
@@ -185,7 +195,9 @@ As ajudas a conceder ao abrigo do presente Regulamento são diminuídas, na prop
 
 3 - O pedido de atribuição do subsídio referido será formalizado através da apresentação de requerimento, dirigido ao Ministro do Mar.
 
-### CAPÍTULO II — Artigo 11.º
+### CAPÍTULO II
+
+###### Artigo 11.º
 
 Projectos não admissíveis
 
@@ -215,7 +227,9 @@ d) Equipamentos não amortizáveis.
 
 2 - Sempre que circunstâncias excepcionais o justifiquem, podem os prazos anteriores ser prorrogados.
 
-### CAPÍTULO III — Artigo 18.º
+### CAPÍTULO III
+
+###### Artigo 18.º
 
 Indeferimento de candidaturas
 
@@ -239,7 +253,7 @@ Coeficiente de 1,925 para embarcações em aço ou fibra de vidro;
 
 Coeficiente de 1,375 para outras embarcações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24342435.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24342435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24342435.pdf)
 
 2 - Modernização
 
@@ -249,4 +263,4 @@ Coeficiente de 1,925 para embarcações em aço ou fibra de vidro;
 
 Coeficiente de 1,375 para outras embarcações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24342435.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24342435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24342435.pdf)

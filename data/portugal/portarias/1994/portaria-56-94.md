@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56/1994/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-1994-512396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:30:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 690743d4017d99d41797a07a17d0ae13329ac4e17b58e1532a9b42ab02d5ef23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52c4d7906f05d6f2da1916bb80b9c30f30388fa2a6d67d4d36d95c7bcab40e89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:30:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:30:37Z'
   warnings: []
   errors: []
 ---
@@ -134,12 +138,12 @@ A não comprovação, de forma inequívoca, das remunerações efectivamente auf
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 6 de Janeiro de 1994.**
+Assinada em 6 de Janeiro de 1994.
 
-**O Secretário de Estado da Segurança Social, Fernando Mário Teixeira de Almeida.**
+O Secretário de Estado da Segurança Social, Fernando Mário Teixeira de Almeida.
 
 ## ANEXO — Tabela de remunerações convencionais
 
 (N.º 3 do artigo 33.º do [Decreto-Lei n.º 329/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1993-653127), de 25 de Setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/017b00/03180319.pdf))](https://files.diariodarepublica.pt/1s/1994/01/017b00/03180319.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/017b00/03180319.pdf)

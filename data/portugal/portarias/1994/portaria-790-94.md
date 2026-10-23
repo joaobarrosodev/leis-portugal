@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/790/1994/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-1994-657620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1095ea8904fe4f066673ece53caacc53d0e5664032da741233e265e0d56f52a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0cc989470297456158b2a725c10530127fc8fe026c4bef176f443b19029b4ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/109/1994/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/109/1994/04/26/p/dre
+- type: cites
+  target: pt:dre:265543:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:15Z'
   warnings: []
   errors: []
 ---
@@ -98,52 +102,74 @@ Manda o Governo, pelo Ministro da Indústria e Energia, ao abrigo do disposto no
 
 Ministério da Indústria e Energia.
 
-**Assinada em 26 de Julho de 1994.**
+Assinada em 26 de Julho de 1994.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 Bases dos contratos de concessão a que se refere o artigo 83.º do [Decreto-Lei n.º 109/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1994-265543), de 26 de Abril
 
-###### Base I — Objecto
+Base I
+
+Objecto
 
 O contrato de concessão é redigido em língua portuguesa, tem a natureza de contrato administrativo e tem por objecto a atribuição de direitos exclusivos de exercício de actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo, nos termos do [Decreto-Lei n.º 109/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1994-265543), de 26 de Abril.
 
-###### Base II — Partes contratantes
+Base II
+
+Partes contratantes
 
 No contrato de concessão serão identificadas as partes contratantes e os seus representantes no acto da outorga, indicando-se, quanto a estes, a respectiva qualidade, com menção expressa da verificação dos seus poderes para o acto.
 
-###### Base III — Área
+Base III
+
+Área
 
 A área de concessão deverá constar do respectivo contrato, identificando-se os lotes e blocos que a constituem, dele fazendo parte integrante, em anexo, um mapa à escala de 1:400000, onde conste a implantação dos lotes e blocos da área concessionada, assim como as coordenadas geográficas dos vértices dos blocos.
 
-###### Base IV — Contrapartidas
+Base IV
+
+Contrapartidas
 
 As contrapartidas oferecidas pela concessionária ao Estado deverão ser expressamente indicadas no contrato de concessão.
 
-###### Base V — Prazos e suas prorrogações
+Base V
+
+Prazos e suas prorrogações
 
 Do contrato de concessão deverão constar o prazo inicial e a possibilidade de a concessionária requerer as respectivas prorrogações, os prazos para restituição de áreas e para demarcação dos blocos petrolíferos e as prorrogações do prazo de produção, bem como as condições específicas a que, eventualmente, fiquem sujeitos tais prazos.
 
-###### Base VI — Trabalhos
+Base VI
+
+Trabalhos
 
 Sem prejuízo da faculdade de renúncia a que se refere o artigo 63.º do [Decreto-Lei n.º 109/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1994-265543), de 26 de Abril, no contrato de concessão será feita a descrição dos trabalhos a efectuar pela concessionária durante o prazo inicial, com expressa menção do número de sondagens de pesquisa e respectivo calendário de execução.
 
-###### Base VII — Relatórios de actividade
+Base VII
+
+Relatórios de actividade
 
 A matéria a constar dos relatórios de actividade da concessionária bem como a periodicidade da remessa de tais relatórios ao GPEP serão fixadas no contrato de concessão.
 
-###### Base VIII — Condição resolutiva
+Base VIII
+
+Condição resolutiva
 
 Deverá ser expressamente referida no contrato de concessão qualquer condição resolutiva que determine a sua caducidade.
 
-###### Base IX — Renda de superfície, taxas e cauções
+Base IX
+
+Renda de superfície, taxas e cauções
 
 Do contrato de concessão devem constar os montantes da renda de superfície devida durante o curso das diferentes fases de actividade e das taxas cujo pagamento incumbe à concessionária, assim como o montante da caução e as condições da sua prestação.
 
-###### Base X — Reversão
+Base X
+
+Reversão
 
 Qualquer alteração ao regime de reversão previsto no artigo 65.º do [Decreto-Lei n.º 109/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1994-265543), de 26 de Abril, deverá constar expressamente do contrato de concessão.
 
-###### Base XI — Convenção de arbitragem
+Base XI
+
+Convenção de arbitragem
 
 Sendo celebrada convenção de arbitragem entre o Estado e a concessionária, deverá o respectivo teor constar do contrato de concessão.

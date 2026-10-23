@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/112/1994/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/112-1994-516228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f200c6cd8ff64be50391e27e6add4745b7cd925e154e01abdc55397b164d21e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43b49d7ac33b7303d88ec2a2573cc0679c6935ffa0f870df7230b2de743d8a52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Tomar
 relationships:
+- type: amended_by
+  target: pt:dre:768349:por
+  label: "Alterado Plano de Pormenor pela DECL.404/2000(2ªSÉRIE).2000.12.11.DGOTDU-MAOT, DR.IIS [293] de 21/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/404-2000-768349
+  date: '2000-12-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:18:35Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +124,13 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 18 de Janeiro de 1994.**
+Assinada em 18 de Janeiro de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Âmbito de aplicação
 
@@ -353,4 +368,4 @@ O estacionamento deve respeitar as necessidades mínimas e deverá ter um pé-di
 
 Não poderá dar-se início a nenhuma construção nova, alteração, ampliação, reparação ou demolição sem prévia licença da Câmara Municipal de Tomar. Estas serão requeridas em conformidade com as normas estabelecidas pela Câmara Municipal de Tomar e a legislação aplicável.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/041b00/07430746.pdf))](https://files.diariodarepublica.pt/1s/1994/02/041b00/07430746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/041b00/07430746.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/165/2001/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/165-2001-576145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1d1ba5a2c9b5e94050556d036223f374161dc33303f4347c224c6f4ce2807e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53f10f939766a90e767b3b73911842d8bf3d193550f40cd4fc2d157d9464a8c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/30/1999/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/30/1999/12/20/p/dre
+- type: cites
+  target: pt:dre:374591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:45Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ SOLVERDE - Sociedade de Investimentos Turísticos da Costa Verde, S. A., com sed
 
 Sociedade Figueira-Praia, S. A., com sede na rua do Dr. Calado, 1, na Figueira da Foz.
 
-**O Ministro da Economia, através do despacho n.º 115/2001, de 3 de Outubro, tendo em conta o relatório elaborado pela comissão a que alude o n.º 2 do artigo 12.º do citado diploma legal, admitiu a concurso as duas concorrentes.**
+O Ministro da Economia, através do despacho n.º 115/2001, de 3 de Outubro, tendo em conta o relatório elaborado pela comissão a que alude o n.º 2 do artigo 12.º do citado diploma legal, admitiu a concurso as duas concorrentes.
 
 No dia 19 de Outubro, em acto público, procedeu-se na Inspecção-Geral de Jogos à abertura e leitura das propostas apresentadas pelas referidas concorrentes.
 

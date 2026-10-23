@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/53/2010/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2010-333798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4e4408c3801b2d5cf41c6e212dcb87d11e2d06e089859ec886c53a74a4e03c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 237d4b1bbc709400b78bd2d0cd01cd398ba36d2962bb1e7789037e6bef948bbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,7 +70,8 @@ reuse:
 subjects:
 - Alandroal
 - Alcácer do SAL
-- Plano Regional de Ordenamento do Território do Alentejo
+- Alentejo
+- Aljustrel
 - Almodôvar
 - Alter do CHÃO
 - Alvito
@@ -78,43 +79,42 @@ subjects:
 - Arronches
 - Avis
 - Barrancos
+- Beja
 - Borba
 - Campo Maior
 - Castelo de VIDE
 - Castro Verde
-- Ordenamento do Território
-- Plano Director Municipal
+- Comissão de Coordenação e Desenvolvimento Regional
 - Crato
+- Cuba
 - Definição de Competências
 - Elvas
 - Estremoz
+- Évora
 - Ferreira do Alentejo
 - Fronteira.povoação
-- Comissão de Coordenação e Desenvolvimento Regional
 - Gavião
 - Grândola
-- Santiago do Cacém
 - Monforte
 - Montemor-o-Novo
 - MORA
 - Moura
 - Nisa
 - Odemira
+- Ordenamento do Território
 - Ourique
-- Cuba
-- Aljustrel
-- Beja
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Plano Director Municipal
+- Plano Regional de Ordenamento do Território
+- Plano Regional de Ordenamento do Território do Alentejo
+- Política de Solos
 - Ponte de Sor
 - Portalegre
 - Portel
-- Alentejo
-- Plano Regional de Ordenamento do Território
 - Redondo
 - Reguengos de Monsaraz
-- Évora
+- Santiago do Cacém
 - Serpa
 - Sines
 - Sousel
@@ -127,6 +127,39 @@ relationships:
   target: pt:dre:212551389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669531:por
+  label: "Prorrogado, por mais 12 meses, o prazo para aprovação dos planos de urbanização e dos planos de pormenor pelas assembleias\
+    \ municipais, estabelecido na al. b) do nº 15, pela RES.33/2011.01.08.2011.PCM, DR.IS [146] de 01.08.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/33-2011-669531
+  date: '2011-08-01'
+- type: amended_by
+  target: pt:dre:1078906:por
+  label: "Tornada pública a aprovação das correções materiais e retificativas à planta de implantação n.º 1.0. do Plano de\
+    \ Pormenor do Olival à Porta do Nó, aprovado pelo presente diploma, pela DECL-EXT.154/2012.08.08.2012.MVILAVIÇOSA, DR.IIS\
+    \ [153] de 08.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-extrato/154-2012-1078906
+  date: '2012-08-08'
+- type: amended_by
+  target: pt:dre:1521113:por
+  label: "Tornado público, ter sido aprovada por deliberação da Assembleia Municipal de Ponte de Sor, a 2.ª alteração do Plano\
+    \ Diretor Municipal de Ponte de Sor, aprovado pelo presente diploma, na redação da Decl-Ext 154/2012, de 08-ago, pelo\
+    \ AV.13231/2012.03.10.2012.MPONTE DE SOR, DR.IIS [192] de 03.10.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13231-2012-1521113
+  date: '2012-10-03'
+- type: amended_by
+  target: pt:dre:3599272:por
+  label: "Tornada pública a alteração do art. 14º do Regulamento do Plano Diretor Municipal do Crato, aprovado pelo presente\
+    \ diploma, na redação da Decl-Ext 154/2012, de 08-ago e do Aviso 13231/2012, de 03-out, pelo AV.2899/2013.27.02.2013.MCRATO,\
+    \ DR.IIS [41] de 27.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2899-2013-3599272
+  date: '2013-02-27'
+- type: amended_by
+  target: pt:dre:212551389:por
+  label: Alterado, a partir de 04.05.2023, o Plano Regional de Ordenamento do Território do Alentejo pelo(a) Resolução do
+    Conselho de Ministros n.º 39/2023 - Diário da República n.º 85/2023, Série I de 2023-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-2023-212551389
+  date: '2023-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
   label: null
@@ -167,16 +200,400 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/93/2002/05/08/p/dre
+- type: cites
+  target: pt:dre:144780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1463567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1637462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1789903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1870914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2014584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2176785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2307133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2324427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2345746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2637721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2909253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3171454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3192582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3232942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3432615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3632116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692442:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:480969:por
+  label: "Rectificadas e renumeradas [por ter ocorrido uma omissão na numeração de uma norma orientadora e à qual corresponderia\
+    \ o n.º 147] as normas orientadoras 146 a 155 do capítulo IV, «Normas Orientadoras e de Natureza Operacional», do anexo\
+    \ I, «Plano Regional de Ordenamento do Território do Alentejo», rectificado o título do anexo II e republicado, na versão\
+    \ corrigida, o anexo I pela DECL-RECT.30-A/2010.01.10.2010.PCM, DR.IS [192-2ºSupl] de 01.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/30-a-2010-480969
+  date: '2010-10-01'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:57Z'
   warnings: []
   errors: []
 ---
@@ -399,7 +816,7 @@ Uma administração pública mais eficiente e modernizada.
 
 Em termos de policentrismo urbano e coesão territorial, a ENDS realça a necessidade de articular a estrutura do sistema urbano com as redes de transportes e acessibilidades. Tem uma perspectiva integrada de desenvolvimento urbano-rural, em que as tecnologias de informação e comunicação desempenham um papel crítico no desenvolvimento das regiões, pois podem assegurar uma boa conectividade digital numa malha policêntrica e promover o enraizamento local das competências em tecnologias da informação e comunicação (TIC).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 Fonte: Adaptado PIENDS, 2007
 
@@ -483,7 +900,7 @@ Por fim, o programa do Governo e as Grandes Opções do Plano 2005-2009 (GOP) in
 
 Para além dos trabalhos integrantes dos vários Planos de âmbito regional - Planos Especiais de Ordenamento do Território e anteriores PROT - a elaboração do PROT beneficiou, ainda, de um conjunto de estudos de natureza estratégica realizados recentemente na região e promovidos, nomeadamente, pela Comissão de Coordenação e Desenvolvimento Regional do Alentejo (CCDR Alentejo). O mais recente documento de orientação estratégica regional - Orientações estratégicas regionais - Alentejo 2015 - preparado com vista à fundamentação do Programa Operacional Regional 2006-2013, ao estabelecer os grandes eixos estratégicos de intervenção das políticas públicas de desenvolvimento regional a implementar no horizonte do presente ciclo de programação estrutural constituiu um documento de orientação fundamental para os trabalhos do PROTA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 Figura 2 - Alentejo 2015 - Eixos Estratégicos de Intervenção
 
@@ -569,7 +986,7 @@ O PROT Alentejo é constituído, ao abrigo do artigo 54.º do [Decreto-Lei n.º 
 
 Tabela resumo dos elementos de Diagnóstico Prospectivo Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 2 - Visão e Desígnios Regionais para o Alentejo
 
@@ -913,13 +1330,13 @@ MAPA 1
 
 Modelo Territorial do PROT Alentejo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 MAPA 2
 
 Enquadramento Ibérico do Alentejo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 2.2 - Sistema Ambiental e Riscos
 
@@ -989,7 +1406,7 @@ No Alentejo a paisagem apresenta uma grande diversidade morfológica, com uma va
 
 Quadro de Correspondência entre Unidades de Paisagem do PROT Alentejo e Unidades de Paisagem do estudo "Contributos para a identificação e caracterização da paisagem em Portugal Continental"
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 Face à crescente procura social da paisagem rural como suporte de bens e serviços, o espaço de produção a que ela corresponde tem vindo a tornar-se também espaço de consumo. Assim, aos sectores agrícola e ambiental, que têm construído e gerido estas paisagens, são agora solicitadas outras funções. Esta perspectiva coloca novas questões ao ordenamento das paisagens, sobretudo de integração com outros sectores e de possível adequação de usos e ocupações do solo, tendo presente as novas procuras da paisagem. De forma a gerir a multifuncionalidade da paisagem rural, tanto do lado da conservação da natureza como do lado do sector agrícola, o ordenamento do território pode contribuir para potenciar as características diferenciadoras de cada paisagem particular.
 
@@ -1017,13 +1434,13 @@ MAPA 3
 
 Unidades de Paisagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 MAPA 4
 
 Estrutura Regional de Protecção e Valorização Ambiental e Litoral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 2.2-B - Subsistema dos Riscos Naturais e Tecnológicos
 
@@ -1049,7 +1466,7 @@ MAPA 5
 
 Subsistema dos Riscos Naturais e Tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 2.3 - Sistema da Base Económica Regional
 
@@ -1093,7 +1510,7 @@ a) Instituições de Ensino Superior público e privado (Universidades e Institu
 
 b) Infra-estruturas Tecnológicas de carácter multifuncional ou sectorial (Centros Tecnológicos, Centros de Transferência de Tecnologia, Institutos de Novas Tecnologias e Centros de Engenharia e Desenvolvimento de Produtos), como nível fundamental à mediação e transferência de tecnologia para o tecido empresarial;
 
-c) Infra-estruturas do nível regional do Sistema Regional de Logística Empresarial, como aglomerações empresariais privilegiadas para a criação de instrumentos de interacção entre empresas e entidades de I&D;
+c) Infra-estruturas do nível regional do Sistema Regional de Logística Empresarial, como aglomerações empresariais privilegiadas para a criação de instrumentos de interacção entre empresas e entidades de I&D
 
 d) Entidades de Formação Profissional e Tecnológica de relevância regional;
 
@@ -1115,7 +1532,7 @@ Nível regional - é constituído por infra-estruturas de localização empresar
 
 Sistema Regional de Logística Empresarial - Estrutura e Componentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 O nível municipal/supramunicipal do Sistema Regional de Logística Empresarial consubstancia-se nas redes municipais ou supramunicipais de parques empresariais e logísticos, sendo estas redes constituídas por três tipos de espaços de acolhimento empresarial:
 
@@ -1349,7 +1766,7 @@ MAPA 6
 
 Sistema da Base Económica Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 2.4 - Sistema das Actividades Agro-Florestais
 
@@ -1377,7 +1794,7 @@ MAPA 7
 
 Subsistema das Actividades Agro-florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 2.4-B - Subsistema de Desenvolvimento Turístico
 
@@ -1491,7 +1908,7 @@ MAPA 8
 
 Subsistema de Desenvolvimento Turístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 2.5 - Sistema Urbano e de Suporte à Coesão Territorial
 
@@ -1589,7 +2006,7 @@ MAPA 9
 
 Sistema Urbano e de Suporte à Coesão Territorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 2.6 - Sistema de Acessibilidades e de Conectividade Internacional
 
@@ -1663,7 +2080,7 @@ MAPA 10
 
 Sistema de Acessibilidades e Conectividade Internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 ### CAPÍTULO IV — Normas Orientadoras e de Natureza Operacional
 
@@ -3451,7 +3868,7 @@ V.3 - Constituição e Funções do Sistema
 
 A CCDR Alentejo é a entidade responsável pela elaboração, monitorização e avaliação do PROT acolhendo a respectiva estrutura orgânica um ajustado conjunto de competências em matérias de definição, acompanhamento e avaliação das políticas de ordenamento do território e de urbanismo. Desta forma, considera-se que a actual estrutura orgânica da CCDR e as competências dos respectivos órgãos e serviços, permitem, com uma adequada eficácia operacional e com uma desejada economia de meios (nomeadamente organizacionais), implementar as funções necessárias à constituição e funcionamento do Sistema de Gestão e Monitorização do PROT. Considera-se, assim, desnecessária a criação de novas unidades orgânicas para o exercício de funções de gestão e de monitorização do PROT. O esquema que se apresenta de seguida explicita a estrutura de se estabelece para o Sistema de Gestão e Monitorização do PROT bem como a sua articulação com os níveis nacional e municipal responsáveis pela monitorização das políticas de ordenamento do território e do urbanismo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 Ilustração 1: Sistema de Gestão e Monitorização do PROT Alentejo
 
@@ -4227,204 +4644,204 @@ Disposições dos PDM e dos PEOT Incompatíveis com o PROT ALENTEJO
 
 PDM de Alandroal ([Resolução do Conselho de Ministros n.º 150/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/150-1997-649092), de 15 de Setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Alcácer do Sal ([Resolução do Conselho de Ministros n.º 25/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-1994-302533), de 29 de Abril - [Resolução do Conselho de Ministros n.º 170/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/170-2004-534651) de 22 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Aljustrel ([Resolução do Conselho de Ministros n.º 138/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/138-1995-688457), de 15 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Almodôvar ([Resolução do Conselho de Ministros n.º 13/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-1998-222987), de 27 de Janeiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Alter do Chão ([Resolução do Conselho de Ministros n.º 103/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-1995-663974), de 13 de Outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Alvito ([Resolução do Conselho de Ministros n.º 42/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-1993-281632), de 20 de Maio)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Arraiolos ([Resolução do Conselho de Ministros n.º 18/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2003-198338), de 13 de Fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Arronches ([Resolução do Conselho de Ministros n.º 97/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-1995-664684), de 7 de Outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Avis (Resolução de Conselho de Ministros n.º 9/95, de 2 de Fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Barrancos (Resolução de Conselho de Ministros n.º 172/95, de 15 de Dezembro - [Aviso n.º 2163/2009](https://diariodarepublica.pt/dr/detalhe/aviso/2163-2009-3192582) de 23 de Janeiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Beja ([Resolução do Conselho de Ministros n.º 123/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-2000-543930), de 7 de Outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Borba ([Edital n.º 35/2008](https://diariodarepublica.pt/dr/detalhe/edital/35-2008-1789903), de 8 de Janeiro, e [Aviso n.º 11551/2009](https://diariodarepublica.pt/dr/detalhe/aviso/11551-2009-3232942), de 30 de Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Campo Maior ([Resolução do Conselho de Ministros n.º 140/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/140-1995-689025), de 16 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Castelo de Vide ([Resolução do Conselho de Ministros n.º 126/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/126-1997-144780), de 30 de Julho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Castro Verde ([Resolução do Conselho de Ministros n.º 59/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-1993-668333), de 13 de Outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM do Crato ([Resolução do Conselho de Ministros n.º 147/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/147-1995-692442), de 23 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Cuba ([Resolução do Conselho de Ministros n.º 50/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1993-260596), de 8 de Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Elvas ([Deliberação n.º 279/2010](https://diariodarepublica.pt/dr/detalhe/deliberacao/279-2010-2014584), de 2 de Fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Estremoz ([Resolução do Conselho de Ministros n.º 122/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/122-1995-680053), de 3 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Évora ([Regulamento n.º 47/2008](https://diariodarepublica.pt/dr/detalhe/regulamento/47-2008-2637721), de 25 de Janeiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Ferreira do Alentejo ([Resolução do Conselho de Ministros n.º 62/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-1998-521836), de 18 de Maio - [Aviso n.º 4600/2008](https://diariodarepublica.pt/dr/detalhe/aviso/4600-2008-3171454), de 21 de Fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Fronteira ([Resolução do Conselho de Ministros n.º 107/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-2004-507781), de 23 de Julho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Gavião ([Resolução do Conselho de Ministros n.º 136/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/136-1996-241383), de 30 de Agosto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Grândola ([Deliberação n.º 2864/2009](https://diariodarepublica.pt/dr/detalhe/deliberacao/2864-2009-2176785), de 13 de Outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 Aplicável apenas à faixa costeira de 500 m
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Marvão ([Resolução do Conselho de Ministros n.º 70/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/70-1994-218094), de 18 de Agosto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Mértola ([Resolução do Conselho de Ministros n.º 162/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-1995-631430), de 6 de Dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Monforte ([Resolução do Conselho de Ministros n.º 176/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/176-1995-644083), de 20 de Dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Montemor-o-Novo ([Resolução do Conselho de Ministros n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2007-262345), de 5 de Janeiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Mora ([Aviso n.º 3125/2008](https://diariodarepublica.pt/dr/detalhe/aviso/3125-2008-2909253), de 8 de Fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Moura ([Aviso n.º 25476/2008](https://diariodarepublica.pt/dr/detalhe/aviso/25476-2008-2324427), de 22 de Outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Mourão ([Resolução do Conselho de Ministros n.º 122/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/122-1998-240049), de 19 de Outubro - Declaração n.º 50/2006, de 29 de Março - [Edital n.º 813/2008](https://diariodarepublica.pt/dr/detalhe/edital/813-2008-3432615), de 5 de Agosto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Nisa ([Resolução do Conselho de Ministros n.º 59/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-1994-229933), de 27 de Julho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Odemira ([Resolução do Conselho de Ministros n.º 114/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/114-2000-330463), de 25 de Agosto - [Aviso n.º 25224/2007](https://diariodarepublica.pt/dr/detalhe/aviso/25224-2007-2345746), de 19 de Dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 Aplicável apenas à faixa costeira de 500 m
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Ourique ([Resolução do Conselho de Ministros n.º 35/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-2001-346306), de 3 de Abril - [Declaração de Rectificação n.º 9-A/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-a-2001-306899), de 3 de Abril)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Ponte de Sor ([Resolução do Conselho de Ministros n.º 160/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/160-2004-549465), de 8 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Portalegre ([Declaração n.º 324-A/2007](https://diariodarepublica.pt/dr/detalhe/declaracao/324-a-2007-1463567), de 26 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Portel ([Resolução do Conselho de Ministros n.º 76/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2001-347359), de 2 de Julho - [Deliberação n.º 2569/2008](https://diariodarepublica.pt/dr/detalhe/deliberacao/2569-2008-1870914), de 24 de Setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Redondo ([Resolução do Conselho de Ministros n.º 54/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-1995-520821), de 7 de Junho - [Aviso n.º 18170/2008](https://diariodarepublica.pt/dr/detalhe/aviso/18170-2008-3632116), de 19 de Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Reguengos de Monsaraz ([Resolução do Conselho de Ministros n.º 106/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1995-662505), de 16 de Outubro - [Resolução do Conselho de Ministros n.º 161-A/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/161-a-2007-457036), de 11 de Outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Santiago de Cacém ([Resolução do Conselho de Ministros n.º 62/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-1993-666283) de 3 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 Aplicável apenas à faixa costeira de 500 m
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Serpa ([Resolução do Conselho de Ministros n.º 178/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-1995-642918), de 26 de Dezembro - [Aviso n.º 2064/2009](https://diariodarepublica.pt/dr/detalhe/aviso/2064-2009-1637462), de 22 de Janeiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Sines ([Portaria n.º 623/90](https://diariodarepublica.pt/dr/detalhe/portaria/623-1990-573148), de 4 de Agosto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 Aplicável apenas à faixa costeira de 500 m
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Sousel ([Resolução do Conselho de Ministros n.º 130/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-1999-692270), de 26 de Outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Vendas Novas ([Resolução do Conselho de Ministros n.º 137/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/137-1999-692074), de 29 de Outubro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Viana do Alentejo ([Resolução do Conselho de Ministros n.º 12/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-1997-581265), de 22 de Janeiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Vidigueira ([Resolução do Conselho de Ministros n.º 39/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-1993-275977), de 15 de Maio)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
 
 PDM de Vila Viçosa ([Resolução do Conselho de Ministros n.º 193/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/193-2008-444190), de 15 de Dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf))](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/14800/0296203129.pdf)

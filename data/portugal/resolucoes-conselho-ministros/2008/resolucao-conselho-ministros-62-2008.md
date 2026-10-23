@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/62/2008/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2008-246300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f024a841493c2eb5e962b5d361b144888400d2ee9335457bf4640547d6ceb102
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61bdfb267fef4990b1775c2ea94c24cc3b8af7604ffa2eea6b41290b985d8532
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Mondim de Basto
+- Ordenamento do Território
 - Parque Natural do Alvão
 - Política de Solos
 - Vila Real
@@ -78,13 +78,13 @@ relationships:
 article_structure:
   article_count: 42
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:53Z'
   warnings: []
   errors: []
 ---
@@ -895,15 +895,15 @@ O POPNAL entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — Áreas de intervenção específica para a conservação da natureza e da biodiversidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)
 
 ## ANEXO II — Áreas de intervenção específica para a visitação e comunicação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)
 
 ## ANEXO III — Áreas de intervenção específica para a valorização cultural e patrimonial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)
 
 ## ANEXO IV — Critérios a observar para as edificações e infra-estruturas
 
@@ -939,8 +939,8 @@ b) Sempre que se verifique a existência de muros de pedra seca, deve privilegia
 
 ## ANEXO V — Imóveis classificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)
 
 ## ANEXO VI — Sítios arqueológicos identificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06800/0208402098.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/62/2002/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2002-300461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5a09c4e7918015e5ce5563d85450f07a9d56140c9fe0aee813a43c8234a2739
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ce3722788da60fe41e796ccc4776bc848883af2a373d724586b11acd9577200
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Ordenamento do Território
 - Albufeiras
-- Zona de Proteção
 - Domínio Público Hídrico
+- Ordenamento do Território
 - Régua
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:1130121308:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306972:por
+  label: "Suspensas, pelo prazo de dois anos, as disposições do Regulamento ratificado pela presente resolução, aplicáveis\
+    \ nas áreas objecto da suspensão (artigos 38.º e 39.º) e sujeitas a medidas preventivas pela RES.98/2010.15.12.2010.PCM,\
+    \ DR.IS [241] de 15.12.2010\0010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/98-2010-306972
+  date: '2010-12-15'
+- type: amended_by
+  target: pt:dre:189940:por
+  label: "Prorrogada, pelo prazo de um ano, a suspensão das disposições do Regulamento ratificado pela presente resolução,\
+    \ aplicáveis nas áreas objeto da prorrogação (art.s 38.º e 39.º) e sujeitas ao estabelecimento de medidas preventivas,determinada\
+    \ pela Res. 98/2010, de 15-dez, da PCM, pela RES.107/2012.18.12.2012.PCM, DR.IS [244] de 18.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/107-2012-189940
+  date: '2012-12-18'
+- type: amended_by
+  target: pt:dre:483920:por
+  label: "Suspensa a aplicação das als. a) a f) do n.º 2 do art. 41.º do Regulamento aprovado pelo presente diploma, pela\
+    \ RES.92/2013.23.12.2013.PCM, DR.IS [248] de 23.12.2013, nas áreas do concelho de Cinfães identificadas na planta constante\
+    \ do anexo, sujeitas ao estabelecimento de medidas preventivas e determinada a aplicação à ETAR do disposto nos n.os 2\
+    \ e 3 do art. 21.º do mesmo Regulamento \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/92-2013-483920
+  date: '2013-12-23'
+- type: amended_by
+  target: pt:dre:1130121308:por
+  label: Mantidas em vigor as disposições do Plano de Ordenamento das Albufeiras da Régua e Carrapatelo, aprovado pelo presente
+    diploma pelo(a) Resolução do Conselho de Ministros n.º 112/2026 - Diário da República n.º 109/2026, Série I de 2026-06-08
+    nos termos da alínea b) do n.º 6 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/112-2026-1130121308
+  date: '2026-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -116,16 +145,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/l
   label: null
   source: http://data.dre.pt/eli/l
+- type: cites
+  target: pt:dre:217733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
 article_structure:
   article_count: 74
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:45Z'
   warnings: []
   errors: []
 ---
@@ -636,7 +733,7 @@ f) Espaços industriais e unidades industriais dispersas.
 
 2 - O plano prevê unidades operativas de planeamento e gestão cujo programa é definido no capítulo IV.
 
-##### DIVISÃO I
+DIVISÃO I
 
 Espaços naturais e de valor paisagístico
 
@@ -692,7 +789,7 @@ j) Novas pedreiras.
 
 9 - As pedreiras não licenciadas devem cessar a actividade, procedendo-se a acções de recuperação paisagística.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Espaços florestais
 
@@ -794,7 +891,7 @@ A majoração até 30% nos restantes casos, incluindo nova função habitacional
 
 d) Estabelecimento hoteleiro ou hotel rural de acordo com a legislação em vigor, em propriedades com área não inferior a 10 ha, salvo nos municípios de Baião, Cinfães, Marco de Canavezes e Resende, onde esta não será inferior a 5 ha.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Espaços agrícolas
 
@@ -844,7 +941,7 @@ b) Recuperação/reconversão de edificações habitacionais ou de apoio à expl
 
 c) Estabelecimento hoteleiro ou hotel rural de acordo com a legislação em vigor em propriedades com área não inferior a 10 ha, salvo nos municípios de Baião, Cinfães, Marco de Canaveses e Resende, onde esta não será inferior a 5 ha.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Espaços urbanos
 
@@ -860,7 +957,7 @@ Os espaços urbanos incluem os perímetros urbanos, tal como delimitados na plan
 
 3 - Nas áreas inundáveis, dentro dos perímetros urbanos, observa-se o regime estabelecido pelo [Decreto-Lei n.º 364/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1998-217733), de 21 de Novembro.
 
-##### DIVISÃO V
+DIVISÃO V
 
 Espaços de edificação dispersa
 
@@ -886,7 +983,7 @@ e) Os alinhamentos devem respeitar os definidos pelas construções existentes o
 
 f) As infra-estruturas de saneamento, quando não houver possibilidade de ligação à rede pública, devem ser asseguradas por sistema autónomo não poluente, devidamente licenciadas pelas entidades competentes nos termos do artigo 22.º
 
-##### DIVISÃO VI
+DIVISÃO VI
 
 Espaços de vocação turística
 
@@ -896,7 +993,7 @@ Espaços de vocação turística
 
 2 - Na ocupação destes espaços, deverá ser assegurada a integração das edificações de forma a preservar o coberto vegetal natural e a garantir a adequada integração paisagística.
 
-##### DIVISÃO VII
+DIVISÃO VII
 
 Espaço industrial e unidades industriais dispersas
 
@@ -1360,7 +1457,7 @@ b) 60% para o Estado.
 
 ###### Artigo 72.º — Embargo de obras
 
-**O Ministro do Ambiente e do Ordenamento do Território e os presidentes das câmaras municipais podem ordenar a demolição das obras e a reposição do terreno e das condições preexistentes à prática da contra-ordenação, para o efeito fixando o respectivo prazo.**
+O Ministro do Ambiente e do Ordenamento do Território e os presidentes das câmaras municipais podem ordenar a demolição das obras e a reposição do terreno e das condições preexistentes à prática da contra-ordenação, para o efeito fixando o respectivo prazo.
 
 ###### Artigo 73.º — Execução das ordens de embargo, de demolição e de reposição
 

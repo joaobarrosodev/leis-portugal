@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/140/1995/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/140-1995-198726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d91c7bb16fb2cd54c5e7ec2d9d71ea2a539bc6d67d07e863f65b6f25783f28e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 346761b7de44bc24bcfb1c444b7217947f4d57a4bc53b5aaa9a2cb198fac3580
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
 - Batata
-- Definição de Competências
+- Comércio
 - Controlo Sanitário
+- Definição de Competências
 - Instituto de Protecção da Produção Agro-Alimentar
 - Política Agrícola Comum
-- Proteção Fitossanitária
 - Produção Vegetal
-- Agricultura
-- Comércio
+- Proteção Fitossanitária
 - Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:635842:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141854:por
+  label: "Mantida em vigor pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 - type: cites
   target: celex:31977L0093
   label: null
@@ -90,16 +95,21 @@ relationships:
   target: celex:31993L0085
   label: null
   source: http://data.europa.eu/eli/dir/1993/85/oj
+- type: repealed_by
+  target: pt:dre:635842:por
+  label: "Revogada pelo DEC LEI.248/2007.27.06.2007.MADRP, DR.IS [122] de 27.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-2007-635842
+  date: '2007-06-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:07Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +172,7 @@ b) Nos restantes casos, tanto nas plantas da selecção clonal inicial como em a
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Janeiro de 1995.**
+Assinada em 16 de Janeiro de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -238,13 +248,13 @@ FIGURA 1
 
 Lâmina com a amostra e com o controlo de PBS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf))](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
 
 FIGURA 2
 
 Lâmina de controlo positivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf))](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
 
 5.2.3 - Deixar secar ao ar a cerca de 37ºC e fixar com etanol a 95% ou à chama.
 
@@ -298,7 +308,7 @@ Para os pormenores da cultura, v. apêndice n.º 5.
 
 FIGURA 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf))](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
 
 6.3 - Inoculação por fenda II:
 
@@ -402,9 +412,9 @@ Para o teste IF, a concentração bacteriana deve ser ajustada a 10(elevado a 6)
 
 Para o teste da beringela, a concentração bacteriana deve ser ajustada a 10(elevado a 7) células/ml. Os testes da beringela devem ser realizados utilizando 10 plantas para cada um dos organismos a testar, utilizando sempre controlos com uma cultura conhecida de Clavibacter michiganensis ssp. sepedonicus e água esterilizada; com culturas puras deve observar-se a murchidão típica no período de 20 dias, mas as plantas que não apresentem sintomas ao fim desse período devem ser incubadas durante 30 dias a temperaturas convenientes para a beringela mas não excedendo 30ºC (apêndice n.º 5). Se ao fim de 30 dias não se observarem quaisquer sintomas, não se pode confirmar que a cultura seja uma forma patogénica de Clavibacter michiganensis ssp. sepedonicus.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf))](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Fórmula do tampão de maceração recomendado por Lelliott e Sellar, 1976
 
@@ -416,7 +426,7 @@ Pirofosfato tetrassódico: 1 g.
 
 Tampão fosfato PBS 0,05 M pH 7,0 (apêndice n.º 2): 1 l.
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Tampões
 
@@ -456,7 +466,7 @@ Glicerol: 50 ml.
 
 Água destilada: 100 ml.
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Coloração Gram (modificação de Hucker) (Doestsch, 1981)
 
@@ -514,13 +524,13 @@ Processo de coloração
 
 As bactérias Gram-positivas coram de azul-violeta e as Gram-negativas de vermelho-rosado.
 
-## APÊNDICE N.º 4
+APÊNDICE N.º 4
 
 Determinação da população de células com imunofluorescência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf))](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
 
-## APÊNDICE N.º 5
+APÊNDICE N.º 5
 
 Cultura de beringela
 
@@ -552,7 +562,7 @@ A variedade Black Beauty de beringela pode ser obtida de:
 
 4) Küpper, Mitteldeutsche Sament GmbH, Hesseuring 22, D-37269 Eschwegw.
 
-## APÊNDICE N.º 6
+APÊNDICE N.º 6
 
 Meios de cultura utilizados para isolamento e crescimento de Clavibacter michiganensis ssp sepedonicus
 
@@ -606,7 +616,7 @@ Bacto ágar purificado da Difco: 18 g.
 
 Esterilizar volumes de 1/2 litro de meio em autoclave a 115ºC durante vinte minutos.
 
-## APÊNDICE N.º 7
+APÊNDICE N.º 7
 
 Testes bioquímicos de fisiológicos para a identificação de Clavibacter michiganensis ssp sepedonicus
 
@@ -642,7 +652,7 @@ Inocular por picada tubos de 5 ml e de 10 ml para cada cultura. Adicionar assept
 
 Reacção positiva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf))](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
 
 Teste da oxidase (Kovacs, 1956)
 
@@ -698,7 +708,7 @@ Naftilamina: 5 g.
 
 Inocular em duplicado o meio de nitrato. Testar ao fim de 10 e de 20 dias adicionando 1 gota de solução de Lugol, 0,5 ml de reagente A e 0,5 ml de reagante B. Se o meio não ficar avermelhado, adicionar cerca de 50 mg de zinco em pó. Observar a cor da reacção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf))](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/034b00/08230832.pdf)
 
 Produção de urease (Lelliott, 1966)
 

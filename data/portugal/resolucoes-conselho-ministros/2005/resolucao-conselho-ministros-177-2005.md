@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/177/2005/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-2005-481364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1310f1a7b5046fed5fdb6d7d3b1cd780f6c90a764d016857e373e07c12d0fee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cce39cb33b0a5ee96b1705f7b25b58c8d7463d1fbb3dba99f5e99c7cb08742cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Beja
+- Ordenamento do Território
 - Plano de Pormenor
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:2283461:por
+  label: "Tornado público ter sido aprovada pela Assembleia Municipal de Beja, em 30.09.2010, a alteração, por adaptação ao\
+    \ Plano Regional de Ordenamento do Território do Alentejo (PROTA), dos arts. 42.º, 44.º, 46.º, 47.º 49.º e 50.º do Regulamento\
+    \ do Plano Diretor Municipal de Beja, cuja revisão foi parcialmente ratificada pela Res 123/2000 de 07-out da PCM, com\
+    \ as alterações ratificadas pelo presente diploma, pelo AV.26411/2010.16.12.2010.MBEJA, DR.IIS [242] de 16.12.2010 \0\
+    \ \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/26411-2010-2283461
+  date: '2010-12-16'
+- type: amended_by
+  target: pt:dre:2621202:por
+  label: "Tornado público ter sido aprovada pela Assembleia Municipal de Beja, em 25.02.2014, a revogação do Plano Diretor\
+    \ Municipal de Beja, cuja revisão foi parcialmente ratificada pela Res 123/2000 de 07-out da PCM, com as alterações ratificadas\
+    \ pelo presente diploma, pelo AV-EXT.4296/2014.28.03.2014.MBEJA, DR.IIS [62] de 28.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/4296-2014-2621202
+  date: '2014-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
   label: null
@@ -82,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/123/2000/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/123/2000/10/07/p/dre
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:24Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +152,9 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 20 de Outubro de 2005. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 

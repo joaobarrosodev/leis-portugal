@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/197b00/49724972.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/771/1994/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/771-1994-219149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5ef55b054ca2abf5c11af43f2da9f0470e10c7be08c853152dd0bb10b237460
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9121db60d4e24fad4e86711ff053e694d2df5731d1968b70a6ded2752e3a9dc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Aproximação das Legislações
 - CEE
 - Direcção Geral de Viação
-- Veículo
 - Equipamento de Veículo
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:542794:por
@@ -89,16 +89,21 @@ relationships:
   target: celex:31993L0081
   label: null
   source: http://data.europa.eu/eli/dir/1993/81/oj
+- type: repealed_by
+  target: pt:dre:542794:por
+  label: "Revogada pela PORT.517-A/96.27.09.1996.MAI, DR.IS-B [225]Supl de 27.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/517-a-1996-542794
+  date: '1996-09-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:42Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +124,6 @@ Manda o Governo, pelo Ministro da Administração Interna, que o n.º 2.º da Po
 
 Ministério da Administração Interna.
 
-**Assinada em 25 de Julho de 1994.**
+Assinada em 25 de Julho de 1994.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.

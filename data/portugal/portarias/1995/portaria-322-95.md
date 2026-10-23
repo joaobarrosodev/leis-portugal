@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/090b00/21922196.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/322/1995/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/322-1995-224641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bdba88e6e6a450f41de3cdcab4b01a1049662a58201fe14ea4f7bafe2a094c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b29651e1175d2924e0142939317cf784897ad96d28836fc75704d3a615c6c0f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Equipamento Eletrónico
 - Instalações Radioelétricas
 - Instituto das Comunicações de Portugal
-- Radiodifusão
 - Radioamador
+- Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:1126675654:por
@@ -80,16 +80,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/5/1995/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/1995/01/17/p/dre
+- type: cites
+  target: pt:dre:146567:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:604653:por
+  label: "Revogada, a partir de 31.05.2009, pelo DEC LEI.53/2009.02.03.2009.MOPTC, DR.IS [42] de 02.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2009-604653
+  date: '2009-03-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:51Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +181,7 @@ h) Nas comunicações estabelecidas através de uma estação de amador, ao abri
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 6 de Março de 1995.**
+Assinada em 6 de Março de 1995.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 
@@ -180,7 +189,7 @@ Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto 
 
 1.º As faixas de frequências e respectivas classes de emissão autorizadas para cada categoria de amador são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/090b00/21922196.pdf))](https://files.diariodarepublica.pt/1s/1995/04/090b00/21922196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/090b00/21922196.pdf)
 
 2.º Os símbolos das classes de emissão são os seguintes:
 

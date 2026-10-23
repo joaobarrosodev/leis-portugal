@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 288/1994, 2º Suplemento, Série I-B de 1994-12-15
   number: '288'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7256-(23) a 7256-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/288b02/00230024.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1115-c/1994/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1115-c-1994-664881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 701f60e092c4e4a83cd4453d479c09e5d8792cc6b0074f8a95cf1658eedd7c46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e11fcd5bd346fc0ea1fa1fdb7c3d1e8261e15f98d35a1319da1f34e4bca833d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Documentação Administrativa
 - Fiscalização
 - Industrial da Construção Civil
-- Licenciamento de Obras
 - Licença Municipal
+- Licenciamento de Obras
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/250/1994/10/15/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/470/1992/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/470/1992/06/05/p/dre
+- type: cites
+  target: pt:dre:300643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:18:30Z'
   warnings: []
   errors: []
 ---
@@ -156,26 +168,26 @@ h) Prazo de validade da licença de construção.
 
 Ministérios do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 14 de Dezembro de 1994.**
+Assinada em 14 de Dezembro de 1994.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 ## ANEXO
 
 Coluna n.º 1:
 
-## Título: data;
+Título: data;
 
 Conteúdo: data dos registos.
 
 Coluna n.º 2:
 
-## Título: sujeito;
+Título: sujeito;
 
 Conteúdo: nome e categoria do autor do registo - técnico responsável pela direcção técnica da obra; técnico autor do projecto; titular do alvará; identificação do industrial de construção civil; fiscal da câmara municipal ou outro agente de fiscalização previsto na legislação em vigor.
 
 Coluna n.º 3:
 
-## Título: observações;
+Título: observações;
 
 Conteúdo: estado de execução da obra, bem como qualquer observação considerada conveniente sobre o desenvolvimento dos trabalhos, nomeadamente sobre a qualidade da execução e dos materiais utilizados, alterações ao abrigo do artigo 29.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 21 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 250/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1994-618126), de 15 de Outubro, e cumprimento das normas legais e regulamentares aplicáveis.

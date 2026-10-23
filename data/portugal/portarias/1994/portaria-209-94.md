@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/209/1994/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-1994-257024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 661ec1f2ca7d004d7a19d33f25a98e4e5481dfce37e12f5ab67fbb51c7f7ae95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59d73437983eb862fb4c43f789d1c916af70f0b3652d4567b939114653e28355
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,30 @@ relationships:
   target: pt:dre:604176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288205:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório pela PORT.500/2002.2002.04.27.MADRP, DR.IS-B\
+    \ [98]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/500-2002-288205
+  date: '2002-04-27'
+- type: amended_by
+  target: pt:dre:626461:por
+  label: "Renovada a concessão da zona de caça turística pela PORT.1209/2002.2002.09.02.MECO, DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1209-2002-626461
+  date: '2002-09-02'
+- type: amended_by
+  target: pt:dre:449413:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça, concessionada pelo presente diploma, renovada\
+    \ pela Port 1209/2002 de 02-Set, pela PORT.430/2008.17.06.2008.MADRP, DR.IS [115] de 17.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/430-2008-449413
+  date: '2008-06-17'
+- type: amended_by
+  target: pt:dre:604176:por
+  label: "Anexado um prédio rústico à zona de caça turística da Herdade da Casa de Bragança, concessionada pelo presente diploma,\
+    \ e renovada pelas Port 1209/2002 de 02-Set e 430/2008 de 17-Jun, pela PORT.399/2009.13.04.2009.MADRP, DR.IS [71] de 13.04.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/399-2009-604176
+  date: '2009-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:01Z'
   warnings: []
   errors: []
 ---
@@ -126,8 +170,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 11 de Março de 1994.**
+Assinada em 11 de Março de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/084b00/16781679.pdf))](https://files.diariodarepublica.pt/1s/1994/04/084b00/16781679.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/084b00/16781679.pdf)

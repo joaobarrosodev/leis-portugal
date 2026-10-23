@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/100/2002/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2002-152712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78fd0dff01535810e388faccd4bdcdd40b26c36df77101a24ca7e1b3d3cb1308
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9417e76a3411ec77c30e76ead0168d38d732f8add443c849a3ac3de40b8e704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
+- Administração Regional de Saúde
 - ALTO Comissário da Saúde
 - Assistência Médica
-- Comissão de Acompanhamento
-- Saúde
-- Administração Regional de Saúde
-- Serviço Nacional de Saúde
 - Base de Dados
-- Lista de Espera
-- Cuidados Médicos
-- Reclamação
 - Cirurgia
+- Comissão de Acompanhamento
+- Cuidados Médicos
+- Lista de Espera
+- Reclamação
+- Recurso
+- Saúde
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:625800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:625800:por
+  label: "Repristinado o presente diploma, pela RES.18/2005.23.12.2004.PCM, DR.IS-B [14] de 20.01.2005, na medida do estritamente\
+    \ necessário à execução do Programa Especial de Combate às Listas de Espera Cirúrgicas, pelas Administrações Regionais\
+    \ de Saúde do Centro, do Norte e de Lisboa e Vale do Tejo, até à plena instalação do SIGIC\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/18-2005-625800
+  date: '2004-12-23'
+- type: repealed_by
+  target: pt:dre:271255:por
+  label: "Revogada pela RES.79/2004.03.06.2004.PCM, DR.IS-B [147] de 24.06.2004, sem prejuízo do disposto no nº 5 daquele\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/79-2004-271255
+  date: '2004-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:55Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/176/2003/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/176-2003-448087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78890959ca0b6a4eae6aa72004e9d233647aa23abcfe05d34a13571aa6d2c115
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c755b3c44109510eb097cb34ce793c9933fbc75278c7f10ef2594d7146d26f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ subjects:
 - Coordenador
 - Esmoriz
 - Espinho
+- Gestão do Ambiente
 - Ministro das Cidades Ordenamento do Território e Ambiente
 - Ovar
 - Proteção do Ambiente
-- Gestão do Ambiente
 - Zona de Proteção
 - ZONA Humida
 relationships:
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/76/2000/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/76/2000/07/05/p/dre
+- type: cites
+  target: pt:dre:301241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:00Z'
   warnings: []
   errors: []
 ---

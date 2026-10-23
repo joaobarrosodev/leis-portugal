@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/23/1994/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23-1994-532602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bde582c77484963b4a2d40c0ebd2eaa9f01cd99bd2960c4b4f7a1218324eb8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e95677e644b39c4c3452b91fb345aa55d11bd832df888c02f0a3af1625479148
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:505647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566641:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão da exploração cinegética instituída pela Port 722-A2/92 de\
+    \ 15-Jul, na redacção do presente diploma, pela PORT.690/98.1998.09.01.MADRP DR.IS-B [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/690-1998-566641
+  date: '1998-09-01'
+- type: amended_by
+  target: pt:dre:357358:por
+  label: "Alterado o nº 1 da Port 722-A2/92, de 15-Jul, corrigida pelo presente diploma, pela PORT.397/2001.2001.04.16.MADRP\
+    \ DR.IS-B [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/397-2001-357358
+  date: '2001-04-16'
+- type: amended_by
+  target: pt:dre:505647:por
+  label: "Renovada, por um per&#237;odo de 12 anos, a concess&#227;o da zona de ca&#231;a associativa concessionada pela Port\
+    \ 722-A2/92, de 15-Jul, na redac&#231;&#227;o do presente diploma, pela PORT.876/2004.21.07.2004.MADRP, DR.IS-B [170]\
+    \ de 21.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/876-2004-505647
+  date: '2004-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +101,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-a2/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-a2/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617361:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:31Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +145,8 @@ Manda o Governo, pelo Ministro da Agricultura, que seja corrigida a área submet
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Dezembro de 1993.**
+Assinada em 21 de Dezembro de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/006b00/00850086.pdf))](https://files.diariodarepublica.pt/1s/1994/01/006b00/00850086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/006b00/00850086.pdf)

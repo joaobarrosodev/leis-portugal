@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/83/2005/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/83-2005-548419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2403875792fed7350d540a0d4dd87c26faad9d0deac1bb54de718d7e3d8b2bd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbd937c794f52df2c3e70928c964a91b253eb68f6f32bf759a7f3639bd50cfe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,36 @@ reuse:
 subjects:
 - Águas de Portugal
 - Associação Nacional de Municípios Portugueses
-- Serviço Nacional de Bombeiros e Protecção Civil
-- Instituto da ÁGUA
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
 - Comissão de Coordenação e Desenvolvimento Regional do Algarve
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
+- Comissão para a SECA 2005
 - Direção Geral da Saúde
-- Recursos Hídricos
-- Direcção Geral dos Recursos Florestais
-- Gabinete de Planeamento e Política Agro-alimentar
-- Instituto do Ambiente
-- Instituto de Meteorologia
-- SECA
 - Direcção Geral da Empresa
 - Direcção Geral de Geologia e Energia
-- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Direcção Geral dos Recursos Florestais
+- Gabinete de Planeamento e Política Agro-alimentar
+- Instituto da ÁGUA
+- Instituto de Meteorologia
+- Instituto do Ambiente
 - Instituto Regulador de Águas e Resíduos
-- Comissão para a SECA 2005
 - Programa de Acompanhamento e Mitigação dos Efeitos da SECA 2005
+- Recursos Hídricos
+- SECA
+- Serviço Nacional de Bombeiros e Protecção Civil
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:12Z'
   warnings: []
   errors: []
 ---

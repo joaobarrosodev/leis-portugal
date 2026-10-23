@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/1994/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-1994-509859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0f6d8f004c86d8b931d30afc8b68b2b4b94622a39e03030c7df9493f9d28a9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f52af7a17d933f8bf276b30fa1093b6b82fe85d153e18408ae3bf180ed55cda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
 subjects:
 - Almada
 - Conservatória do Registo Predial
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:24Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +99,6 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 2 do a
 
 Ministério da Justiça.
 
-**Assinada em 31 de Dezembro de 1993.**
+Assinada em 31 de Dezembro de 1993.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.

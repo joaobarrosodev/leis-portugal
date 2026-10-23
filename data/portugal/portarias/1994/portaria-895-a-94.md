@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 229/1994, 1º Suplemento, Série I-B de 1994-10-03
   number: '229'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6064-(2) a 6064-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/229b01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/895-a/1994/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/895-a-1994-323487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1b47ba047a52a3abbba21966c27ff26c75d471fe1f284fb9ee8a85d0fe4b8a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53f2dafd19be420b479c9acfe07704198e28385fe374dfdb013f2f885662484d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva de CAÇA
-- Crime
 - Caldas da Rainha
 - Chaves
+- Crime
+- Reserva de CAÇA
 - Sanção Penal
 - Zona de Proteção
 relationships:
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/725-b/1993/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/725-b/1993/08/10/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:48Z'
   warnings: []
   errors: []
 ---
@@ -128,6 +144,6 @@ A reserva ALC-1, no concelho de Alcobaça, para o conjunto das Matas do Gaio, da
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Outubro de 1994.**
+Assinada em 3 de Outubro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

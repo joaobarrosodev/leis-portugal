@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/179/1997/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-1997-673607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65e318ca031464b771b430f08cb6fd466b0601e23bd1278729f004d4a88c1fc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbfec124bba2f46432d65908dedec6814581d500af5911c968dff10808de1b31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,29 @@ subjects:
 - Alvaiázere
 - Ordenamento do Território
 - Plano Director Municipal
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:115552611:por
+  label: Tornado público o aditamento do art. 44.º-A ao regulamento do Plano Diretor Municipal de Alvaiázere pelo(a) Aviso
+    n.º 8364/2018 - Diário da República n.º 117/2018, Série II de 2018-06-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8364-2018-115552611
+  date: '2018-06-20'
+- type: amended_by
+  target: pt:dre:120919984:por
+  label: Tornado Público a alteração por adaptação do n.º 8 do art. 25.º; art. 27.º; art. 34.º; n.ºs 1 e 2 do art. 38.º, art.
+    39.º; art. 44.º, bem como a revogação do n.º 4.1 do art. 27.º e do n.º 2 do art. 44.º do Regulamento do PDM de Alvaiázere,
+    ratificado pela presente Resolução, pelo(a) Aviso n.º 4051/2019 - Diário da República n.º 51/2019, Série II de 2019-03-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/4051-2019-120919984
+  date: '2019-03-13'
+- type: amended_by
+  target: pt:dre:122063379:por
+  label: Tornada pública a suspensão parcial do Plano Diretor Municipal de Alvaiázere, ratificado pela presente resolução,
+    pelo(a) Aviso n.º 6602/2019 - Diário da República n.º 71/2019, Série II de 2019-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6602-2019-122063379
+  date: '2019-04-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/1994/01/15/p/dre
   label: null
@@ -112,16 +131,188 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/158/1992/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/158/1992/03/12/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682209:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 45
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:13Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +353,7 @@ Presidência do Conselho de Ministros, 25 de Setembro de 1997. - O Primeiro-Mini
 
 REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DE ALVAIÁZERE
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais e condicionamentos
 
@@ -434,7 +625,7 @@ Podem constituir-se servidões sobre parcelas de baldios, nos termos gerais de d
 
 Os postos retransmisssores localizados na serra de Alvaiázere regem-se pelo disposto no [Decreto-Lei n.º 181/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1970-225986), de 28 de Abril, e pelo [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-## TÍTULO II
+TÍTULO II
 
 Uso dos solos
 
@@ -1300,7 +1491,9 @@ c) O edifício, pelo seu porte e recorte na paisagem, não prejudique imagens na
 
 d) A área de construção total do hotel resulta da concentração, total ou parcial, da área de construção admissível para a parcela onde o hotel se implanta. A área de construção referida resulta da aplicação dos parâmetros e índices da área onde a parcela se insere.
 
-### CAPÍTULO IX — Artigo 37.º
+### CAPÍTULO IX
+
+###### Artigo 37.º
 
 Operações de loteamento
 
@@ -1496,7 +1689,9 @@ b) Numa distância a 200 m dos espaços urbanos e urbanizáveis.
 
 3 - Deverão ter tratamento dos efluentes antes do lançamento nas linhas de água e de drenagem natural, de acordo com a alínea a) do n.º 5 do artigo 25.º deste Regulamento.
 
-### CAPÍTULO XVI — Artigo 44.º
+### CAPÍTULO XVI
+
+###### Artigo 44.º
 
 Certidão de localização para estabelecimentos industriais não licenciados
 
@@ -1514,8 +1709,8 @@ Cabeças normais (CN)
 
 Coeficientes de conversão das diferentes espécies pecuárias em CN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/249b00/57885801.pdf))](https://files.diariodarepublica.pt/1s/1997/10/249b00/57885801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/249b00/57885801.pdf)
 
 ## ANEXO — Marcos geodésicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/249b00/57885801.pdf))](https://files.diariodarepublica.pt/1s/1997/10/249b00/57885801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/249b00/57885801.pdf)

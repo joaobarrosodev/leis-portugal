@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1376/1995/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1376-1995-692780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e18f6b7e4b8733ec6216409a50c936c8dbff39b94d4de088df68475f780b4dcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9722d44374cf710f22bc7fab2d4ec2ee83b936908ede9d746153da0e52f171b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Hospital de Santa Maria
 - Descrição de Funções
+- Hospital de Santa Maria
 - Pessoal de Chefia
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
@@ -75,6 +75,33 @@ relationships:
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3525243:por
+  label: "Alterado o quadro de pessoal pela Port.294/96IIS.1996.11.21.PCM, DR.IIS [299] de 1996.12.272\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-1996-3525243
+  date: '1996-11-21'
+- type: amended_by
+  target: pt:dre:218519:por
+  label: "Alterado o quadro anexo ao presente diploma, pela PORT.128/98.1998.03.04.PCM, DR.IS-B [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1998-218519
+  date: '1998-03-04'
+- type: amended_by
+  target: pt:dre:566826:por
+  label: "Alterado o quadro de pessoal pela PORT.691/98.1998.09.03.PCM DR.IS-B [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/691-1998-566826
+  date: '1998-09-03'
+- type: amended_by
+  target: pt:dre:315557:por
+  label: "Extintos os lugares de chefe de repartição previstos no anexo II e revogado o nº 2º pela PORT.448/2001.2001.03.22.MS,DR.IS-B\
+    \ [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-2001-315557
+  date: '2001-03-22'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital de Santa Maria aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/477/1994/07/12/p/dre
   label: null
@@ -99,16 +126,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/978/1993/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/978/1993/10/06/p/dre
+- type: cites
+  target: pt:dre:179997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690247:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:34Z'
   warnings: []
   errors: []
 ---
@@ -133,27 +248,27 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 27 de Setembro de 1995.**
+Assinada em 27 de Setembro de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/270b00/71957204.pdf))](https://files.diariodarepublica.pt/1s/1995/11/270b00/71957204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/270b00/71957204.pdf)
 
 ## ANEXO I — Unidades orgânicas de natureza técnica
 
 Direcção de Serviços Farmacêuticos:
 
-##### Divisão de Aquisições de Produtos Farmacêuticos;
+Divisão de Aquisições de Produtos Farmacêuticos;
 
-##### Divisão de Distribuição de Produtos Farmacêuticos.
+Divisão de Distribuição de Produtos Farmacêuticos.
 
 Direcção de Serviços de Instalações e Equipamento:
 
-##### Divisão de Instalações e Infra-Estruturas;
+Divisão de Instalações e Infra-Estruturas;
 
-##### Divisão de Equipamento.
+Divisão de Equipamento.
 
 Direcção de Serviços de Informática e Estatística.
 
@@ -161,53 +276,53 @@ Direcção de Serviços de Gestão de Recursos Humanos.
 
 Direcção de Serviços de Gestão Financeira.
 
-##### Divisão de Apoio Jurídico e Contencioso.
+Divisão de Apoio Jurídico e Contencioso.
 
-##### Divisão de Vigilância e Segurança.
+Divisão de Vigilância e Segurança.
 
 Unidades orgânicas de natureza administrativa
 
 Repartição de Pessoal:
 
-#### Secção de Informação, Expediente e Arquivo;
+Secção de Informação, Expediente e Arquivo;
 
-#### Secção de Gestão de Pessoal;
+Secção de Gestão de Pessoal;
 
-#### Secção de Vencimentos e Controlo de Assiduidade.
+Secção de Vencimentos e Controlo de Assiduidade.
 
 Repartição de Serviços Financeiros:
 
 #### Secção de Despesa;
 
-#### Secção de Receita;
+Secção de Receita;
 
-#### Secção de Contabilidade Analítica.
+Secção de Contabilidade Analítica.
 
 Repartição de Aprovisionamento:
 
 #### Secção de Aquisições;
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
 #### Secção de Património.
 
 Repartição de Estatística Hospitalar e Registo de Doentes:
 
-#### Secção de Estatística Hospitalar e Registo de Doentes;
+Secção de Estatística Hospitalar e Registo de Doentes;
 
-#### Secção de Registo de Doentes (Internamento).
+Secção de Registo de Doentes (Internamento).
 
 Repartição do Serviço de Doentes/Ambulatório:
 
-#### Secção do Serviço de Urgência;
+Secção do Serviço de Urgência;
 
-#### Secção de Consultas Externas.
+Secção de Consultas Externas.
 
 Repartição de Apoio Administrativo:
 
-#### Secção de Secretaria-Geral;
+Secção de Secretaria-Geral;
 
-#### Secção de Informação e Relações Públicas.
+Secção de Informação e Relações Públicas.
 
 ## ANEXO II — Fiscal técnico de obras
 

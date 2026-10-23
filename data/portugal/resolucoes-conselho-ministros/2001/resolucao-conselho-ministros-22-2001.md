@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/22/2001/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-2001-384669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:44:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f80449bdba46c9f0c0b639a00e4f451719d70525767027d7c22f8dbca570e191
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b7d5e3cf84e7e68a25c2ce8ca10363d9366114c9735a70816c8d5cb73f7ea5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:44:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Função Pública
-- Modernização Administrativa
 - Administração Pública
-- Sociedade da Informação
-- Organismo do Estado
+- Função Pública
 - Internet
+- Modernização Administrativa
+- Organismo do Estado
 - Setor Público
+- Sociedade da Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/110/2000/08/22/p/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/95/1999/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/95/1999/08/25/p/dre
+- type: cites
+  target: pt:dre:324161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428857:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:44:55Z'
   warnings: []
   errors: []
 ---

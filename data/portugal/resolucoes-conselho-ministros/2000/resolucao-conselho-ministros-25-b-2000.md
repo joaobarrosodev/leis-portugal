@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 111/2000, 3º Suplemento, Série I-B de 2000-05-13
   number: '111'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2104-(74) a 2104-(77)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/111b03/00740077.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/25-b/2000/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-b-2000-232731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f06a471a45304e474976dbf6e4e8902d33f93612b8d67f9b197559e550df64d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ea6d0d0d022917ebdcc849124fb7b2e27c223cd0b0f05b9bb0e452aa14217fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,42 +67,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Financiamento
 - BEI
 - Comissão de Acompanhamento da OBRA da NOVA Travessia do TEJO
+- Contrato de Concessão
+- Expropriação
+- Financiamento
+- Gabinete da Travessia do TEJO em Lisboa
+- Instituto das Estradas de Portugal
+- LUSOPONTE
+- Ministro das Finanças
+- Ministro do Equipamento Social
 - Ponte 25 de Abril
 - Ponte de Vasco da GAMA
-- LUSOPONTE
-- Contrato de Concessão
-- Propriedade do Estado
-- Expropriação
-- Salinas do Samouco
-- Gabinete da Travessia do TEJO em Lisboa
-- Ministro das Finanças
-- Instituto das Estradas de Portugal
-- Ministro do Equipamento Social
 - Portagem
+- Propriedade do Estado
 - Relatório
+- Salinas do Samouco
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:332960:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332960:por
+  label: "Aditamento ao acordo, pela RES.52/2001.2001.04.26.PCM, DR.IS-B [120]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/52-2001-332960
+  date: '2001-04-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/168/1994/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/168/1994/06/15/p/dre
+- type: cites
+  target: pt:dre:304094:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:50Z'
   warnings: []
   errors: []
 ---

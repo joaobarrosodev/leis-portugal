@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/221b00/57575758.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/860/1994/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/860-1994-605303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16ca37f9bb57ae72b83b21ec52140b5c6e02a8982b1eead95aa2eb64caa66e71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d574848127b46fe0d89d6f3f0fd53085b5a401a8ece9e8e279428e2e306fdec5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Cálculo de Pensões
 - Indústria Mineira
 - Mineiro
-- Reforma Antecipada
 - Pensão de Invalidez
 - Pensão de Velhice
+- Reforma Antecipada
 - Segurança Social
 relationships:
 - type: amended_by
@@ -82,16 +82,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/378/1992/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/378/1992/05/02/p/dre
+- type: cites
+  target: pt:dre:497850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676056:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484655:por
+  label: "Revogada pelo DEC LEI.195/95.1995.07.28.MESS, DR.IS-A [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1995-484655
+  date: '1995-07-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:58Z'
   warnings: []
   errors: []
 ---
@@ -178,6 +199,6 @@ São revogadas as Portarias n.os [656/81](https://diariodarepublica.pt/dr/detalh
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 26 de Agosto de 1994.**
+Assinada em 26 de Agosto de 1994.
 
 Pelo Ministro do Emprego e da Segurança Social, José Frederico de Lemos Salter Cid, Secretário de Estado da Segurança Social.

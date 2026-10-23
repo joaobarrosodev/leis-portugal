@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/18/1998/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-1998-223992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f07590e76f32478f060c0f79cf8e9d1e9eb8c445fab721ff043242fec656219
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bc906fcbbf3b355e012e58db643c133c5167ff36fb618fbad63709c2b9ea51e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
 subjects:
 - Aveiro
 - Ordenamento do Território
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
 - type: cites
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/165/1995/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/165/1995/12/11/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632208:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:02Z'
   warnings: []
   errors: []
 ---
@@ -129,13 +141,13 @@ Compreende cinco secções, que estruturam intenções de ordenamento do territ�
 
 #### Secção 1, «Disposições gerais»;
 
-#### Secção 2, «Usos»;
+Secção 2, «Usos»;
 
-#### Secção 3, «Zonas verdes, zonas pavimentadas, espaços de circulação viária e pedonal e estacionamento»;
+Secção 3, «Zonas verdes, zonas pavimentadas, espaços de circulação viária e pedonal e estacionamento»;
 
 #### Secção 4, «Emparcelamento»;
 
-#### Secção 5, «Infra-estruturas».
+Secção 5, «Infra-estruturas».
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -241,7 +253,7 @@ f) Cobertura das construções - nas novas construções as coberturas serão pl
 
 As normas relativas à implementação de espaços de estacionamento são as seguintes:
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)
+[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)
 
 Para o cálculo dos lugares de estacionamento considerar-se-ão obrigatoriamente como valores mínimos, para veículos ligeiros, 15 m2 por lugar à superfície e 25 m2 por lugar em estrutura edificada.
 
@@ -271,7 +283,7 @@ e) Área total de construção - a área total de construção acima da cota sol
 
 1 - Cada parcela deverá dispor de espaços de estacionamento automóvel calculados com base nos seguintes valores:
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)
+[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)
 
 2 - Para o cálculo dos lugares de estacionamento considerar-se-ão obrigatoriamente como valores mínimos, para veículos ligeiros, 15 m2 por lugar à superfície e 25 m2 por lugar em estrutura edificada, e, para veículos pesados, 75 m2 e 130 m2, respectivamente.
 

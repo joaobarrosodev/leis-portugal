@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/09700/0282402865.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/80/2008/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2008-249240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 825334a0b188215ad1e1e5ecf9c54afaee4fe2018ce884e0cfcb8663aa5afd88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d066ad6b89a32060e5701d0b3a172d876fbce735dea4d5fe4bc4d041d58b35b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Elétrica
-- Plano Nacional de Acção para a Eficiência Energética (2008-2015)
-- Política Energética
-- Fundo de Eficiência Energética
-- Ministério da Economia e da Inovação
 - Direcção Geral de Geologia e Energia
 - Energia
+- Energia Elétrica
+- Fundo de Eficiência Energética
+- Ministério da Economia e da Inovação
+- Plano Nacional de Acção para a Eficiência Energética (2008-2015)
+- Política Energética
 - Programa Internacional de Energia
 - Programa Nacional para as Alterações Climáticas
 relationships:
@@ -83,16 +83,21 @@ relationships:
   target: celex:32006L0032
   label: null
   source: http://data.europa.eu/eli/dir/2006/32/oj
+- type: repealed_by
+  target: pt:dre:260463:por
+  label: "Revogada pela RES.20/2013.10.04.2013.PCM, DR.IS [70] de 10.04.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/20-2013-260463
+  date: '2013-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:08Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +130,4 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 17 de Abril de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09700/0282402865.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09700/0282402865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09700/0282402865.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1278/1995/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1278-1995-668135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c331146bd259ebe71b73b42328132f97576b980e005634e4faed20682791a6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 217101fc33b7910d88c53fdc3ef2e763465efd5c28c5dc8fd0fd5db30c9bee6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
-- Admissão de Pessoal
-- Formação Profissional
-- Pessoal Dirigente
-- Higiene do Trabalho
 - Administração de Portos
-- Junta Autónoma dos Portos
-- Segurança no Trabalho
-- Carreira Profissional
-- Extinção de Lugares
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
-- Doença Profissional
-- Descrição de Funções
-- Pessoal de Chefia
-- Estágio de Formação
-- Quadro de Pessoal
-- Reconversão Profissional
-- Reclassificação de Pessoal
-- Reestruturação de Carreiras
-- Mobilidade de Pessoal
+- Admissão de Pessoal
 - Avaliação do Pessoal
+- Carreira Profissional
+- Descrição de Funções
+- Doença Profissional
+- Estágio de Formação
+- Extinção de Lugares
+- Formação Profissional
+- Formas de Provimento
 - Gestão de Recursos Humanos
+- Higiene do Trabalho
+- Integração de Trabalhadores
+- Junta Autónoma dos Portos
+- Mobilidade de Pessoal
+- Pessoal de Chefia
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reclassificação de Pessoal
+- Reconversão Profissional
+- Recrutamento de Pessoal
+- Reestruturação de Carreiras
+- Segurança no Trabalho
 - Trabalhador Portuário
 relationships:
 - type: amended_by
@@ -104,16 +104,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/862/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/862/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:233754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667362:por
+  label: "Revogada pelo DEC LEI.421/99.1999.10.21.MEPAT, DR.IS-A [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/421-1999-667362
+  date: '1999-10-21'
 article_structure:
   article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:09Z'
   warnings: []
   errors: []
 ---
@@ -1056,7 +1101,7 @@ A presente portaria entra em vigor a 1 de Janeiro de 1996.
 
 Ministério do Mar.
 
-**Assinada em 25 de Setembro de 1995.**
+Assinada em 25 de Setembro de 1995.
 
 Pelo Ministro do Mar, José Monteiro de Morais, Secretário de Estado Adjunto e das Pescas.
 
@@ -1064,15 +1109,15 @@ Pelo Ministro do Mar, José Monteiro de Morais, Secretário de Estado Adjunto e 
 
 Critérios caracterizadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
 
 ## ANEXO II — Mapa de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
 
 ## ANEXO II-A — Mapa de pessoal (residual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
 
 ## ANEXO III — Descrição de funções
 
@@ -2738,11 +2783,11 @@ Informa superiormente sobre as questões de pessoal, tais como promoções, tran
 
 ## ANEXO IV — Admissão e acesso nas carreiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
 
 ## ANEXO IV-A — Carreira com lugares a extinguir quando vagarem da base para o topo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
 
 ## ANEXO V — Normas a observar na integração dos trabalhadores no novo enquadramento profissional
 
@@ -2752,15 +2797,15 @@ Informa superiormente sobre as questões de pessoal, tais como promoções, tran
 
 3.ª Os trabahadores das extintas carreiras de tradutor, agente de publicidade e relações públicas e oficial administrativo são integrados na carreira de técnico administrativo, de acordo com a seguinte regra, considerando os graus de desenvolvimento respectivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
 
 4.ª Os trabalhadores das extintas carreiras de bombeiro e auxiliar de exploração são integrados na carreira de operador de cais, de acordo com a seguinte regra, considerando os graus de desenvolvimento respectivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
 
 5.ª Os trabalhadores das extintas carreiras de operador de offset e de operador de reprografia são integrados na carreira de operador de offset e reprografia, de acordo com a seguinte regra, considerando os graus de desenvolvimento respectivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
 
 6.ª Os trabalhadores das extintas carreiras de auxiliar de serviços gerais, de auxiliar técnico e de auxiliar administrativo são integrados na carreira de auxiliar de serviços, aplicando-se a norma 1.ª
 
@@ -2768,8 +2813,8 @@ Informa superiormente sobre as questões de pessoal, tais como promoções, tran
 
 8.ª Os trabalhadores cujas carreiras sejam objecto de encurtamento são integrados do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
 
 9.ª A integração na carreira de auxiliar de limpeza é feita de acordo com a seguinte regra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf))](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/249b00/66596697.pdf)

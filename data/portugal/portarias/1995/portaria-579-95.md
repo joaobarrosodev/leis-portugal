@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/579/1995/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/579-1995-517389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40498ab782de64505c54e1e51d5b526b3723a832facf02c6f81b882bf0e56ff8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cf3b9ee2ded6fc9b728ea2f9dbd7f9d5c6c31ea309f641689dc088bd17322c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
 - Carreira Médica Hospitalar
-- Pessoal Dirigente
 - Hospital de Santa Maria
+- Pessoal de Saúde
+- Pessoal Dirigente
 - Pessoal Técnico Superior
 - Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SANTA MARIA, PELA PORT 1376/95 DE 22-NOV DR.IS-B [270]\0B [270]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/477/1994/07/12/p/dre
   label: null
@@ -96,16 +101,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/978/1993/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/978/1993/10/06/p/dre
+- type: cites
+  target: pt:dre:179997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690247:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:04Z'
   warnings: []
   errors: []
 ---
@@ -130,34 +223,34 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Direcção de Serviços Farmacêuticos:
 
-##### Divisão de Aquisições de Produtos Farmacêuticos;
+Divisão de Aquisições de Produtos Farmacêuticos;
 
-##### Divisão de Distribuição de Produtos Farmacêuticos;
+Divisão de Distribuição de Produtos Farmacêuticos;
 
 Direcção de Serviços de Instalações e Equipamento:
 
-##### Divisão de Instalações e Infra-Estruturas;
+Divisão de Instalações e Infra-Estruturas;
 
-##### Divisão de Equipamento;
+Divisão de Equipamento;
 
 Direcção de Serviços de Informática e Estatística:
 
-##### Divisão de Informação e Estatística;
+Divisão de Informação e Estatística;
 
 Direcção de Serviços de Gestão de Recursos Humanos;
 
 Direcção de Serviços de Gestão Financeira;
 
-##### Divisão de Apoio Jurídico e Contencioso;
+Divisão de Apoio Jurídico e Contencioso;
 
-##### Divisão de Vigilância e Segurança.
+Divisão de Vigilância e Segurança.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 18 de Maio de 1995.**
+Assinada em 18 de Maio de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/138b00/39273928.pdf))](https://files.diariodarepublica.pt/1s/1995/06/138b00/39273928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/138b00/39273928.pdf)

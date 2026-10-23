@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/185/1994/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-1994-259680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:21:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44fdedce42a787d2b53a7bc0953c6346a82061366c504bc511c011375fc87209
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeb0d312bb11a72bc6ccc71c3ad90aed4fc2cdbbae9bfd94f820e5547ae86bc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso Superior de Fisioterapia
 - Curso Superior de Terapêutica Ocupacional
 - Ensino Particular
-- Escola de Reabilitação de Alcoitão
 - Ensino Superior
+- Escola de Reabilitação de Alcoitão
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:156865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:623026:por
+  label: "Caducada a autorização de funcionamento do curso de bacharelato em Fisioterapia pela PORT.1043/2000.2000.10.27.ME\
+    \ DR.IS-B [249], nos termos do respectivo art. 8º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1043-2000-623026
+  date: '2000-10-27'
+- type: amended_by
+  target: pt:dre:623027:por
+  label: "Caducada a autorização de funcionamento do Curso de bacharelato em Terapia Ocupacional, concedida pelo presente\
+    \ diploma, pela PORT.1044/2000.2000.10.27.ME DR.IS-B [249], nos termos do respectivo art. 8º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1044-2000-623027
+  date: '2000-10-27'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:21:30Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +149,7 @@ Curso superior de Fisioterapia.
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 11 de Março de 1994.**
+Assinada em 11 de Março de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior. - Pelo Ministro da Saúde, José Carlos Lopes Martins, Secretário de Estado da Saúde.
 
@@ -137,4 +157,4 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 Curso superior de Terapêutica Ocupacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/076b00/15821583.pdf))](https://files.diariodarepublica.pt/1s/1994/03/076b00/15821583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/076b00/15821583.pdf)

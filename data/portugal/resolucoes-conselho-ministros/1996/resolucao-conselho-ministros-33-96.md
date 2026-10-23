@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/33/1996/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-1996-558992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fae40721d4a3e24c358078e46792e21c42b1a5875c2b7b83d9bab47392f4c2fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64c5c7f88ffcdcc0bb3cd56ff9a3899b64bb039a5f2f52a84d13df294321897a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
-- Cooperação Interempresas
 - Apoio ao Investimento
-- Projeto de Investimento
+- Comércio
+- Cooperação Interempresas
+- Empresa
+- Financiamento
 - JURO Bonificado
-- Programa
 - Procom
+- Programa
+- Projeto de Investimento
 - Regulamento
 - Sociedade de Locação Financeira
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:389818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:156008:por
+  label: "Alterados os artºs 2º, 5º, 12º, 15º e 28º do Regulamento aprovado pelo presente diploma, pela RES.109/97.1997.04.23.PCM,\
+    \ DR.IS-B [152] de 1997.07.04\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/109-1997-156008
+  date: '1997-04-23'
+- type: amended_by
+  target: pt:dre:389818:por
+  label: "Alterados os n.ºs 2 e 12 do Regulamento (alterado pela Res 109/97, de 04-Jul), pela RES.59/99.1999.05.12.PCM DR.IS-B\
+    \ [144] DE 23/JUN/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/59-1999-389818
+  date: '1999-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/184/1994/07/01/p/dre
   label: null
@@ -97,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/63/1994/08/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/63/1994/08/05/p/dre
+- type: cites
+  target: pt:dre:217704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587859:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:16Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +157,7 @@ Presidência do Conselho de Ministros, 7 de Março de 1996. - O Primeiro-Ministr
 
 Regulamento de Execução do Programa de Apoio à Modernização do Comércio
 
-# PARTE I — 1.º
+## PARTE I — 1.º
 
 Candidaturas
 
@@ -211,7 +239,9 @@ I(índice p) = montante global do investimento do projecto, incluindo os activos
 
 4 - Na análise financeira da empresa serão ainda tidos em conta, quando necessário, os prazos médios de pagamento aos fornecedores e de recebimento dos clientes, bem como, complementarmente, a sua relação com o valor dos stocks médios das mercadorias e a sua rotação.
 
-# PARTE II — SECÇÃO I
+## PARTE II
+
+#### SECÇÃO I
 
 Projectos de dinamização integrados e de cooperação empresarial
 
@@ -455,7 +485,7 @@ Limites das aplicações relevantes
 
 Para efeitos da alínea c) do artigo 23.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, as aplicações relevantes relativas à elaboração do projecto e aos estudos e assistência técnica necessários à concepção e execução do projecto não podem exceder as percentagens máximas previstas no anexo II (quadro III) do presente Regulamento.
 
-# PARTE III — Disposições finais e transitórias
+## PARTE III — Disposições finais e transitórias
 
 27.º
 
@@ -589,19 +619,19 @@ No cálculo dos indicadores são utilizados os números da empresa no exercício
 
 Projectos de dinamização integrados e de cooperação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/080b00/06960703.pdf))](https://files.diariodarepublica.pt/1s/1996/04/080b00/06960703.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/080b00/06960703.pdf)
 
 QUADRO II
 
 Projectos de dinamização pontuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/080b00/06960703.pdf))](https://files.diariodarepublica.pt/1s/1996/04/080b00/06960703.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/080b00/06960703.pdf)
 
 QUADRO III
 
 Projectos de apoio ao associativismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/080b00/06960703.pdf))](https://files.diariodarepublica.pt/1s/1996/04/080b00/06960703.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/080b00/06960703.pdf)
 
 ## ANEXO III
 

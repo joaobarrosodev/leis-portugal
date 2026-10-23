@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/5/1998/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-1998-239666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47a36a026ad12a6b6cfce89308aa002b1aeccd7281130b1a5be7e7e0d7c36461
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7115e2e96619c6a8bf7096dad6b3c7c611e656f7118ecbdf8ec77d42dce01601
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,81 @@ reuse:
 subjects:
 - Cartaxo
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1253756:por
+  label: Tornada pública a revogação da aplicação dos art. 29.º e 30.º do Regulamento do PDM, bem como a aplicação das correspondentes
+    representações gráficas constantes da respectiva Planta de Ordenamento, pelo(a) Regulamento n.º 796/2010 - Diário da República
+    n.º 204/2010, Série II de 2010-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regulamento/796-2010-1253756
+  date: '2010-10-20'
+- type: amended_by
+  target: pt:dre:2140757:por
+  label: "Tornada pública a aprovação da retificação ao Plano Diretor Municipal do Cartaxo e publicada em anexo a respetiva\
+    \ planta de ordenamento, pelo AV-EXT.2548/2012.16.02.2012.MCARTAXO, DR.IIS [34] de 16.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/2548-2012-2140757
+  date: '2012-02-16'
+- type: amended_by
+  target: pt:dre:3520353:por
+  label: "Tornada pública a aprovação da retificação ao Plano Diretor Municipal do Cartaxo, publicada em anexo pelo AV-EXT.9639/2013.26.07.2013.MCARTAXO,\
+    \ DR.IIS [143] de 26.07.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/9639-2013-3520353
+  date: '2013-07-26'
+- type: amended_by
+  target: pt:dre:67239474:por
+  label: Tornada pública a alteração das Plantas de Ordenamento e Aglomerado Urbano do Cartaxo do Plano Diretor Municipal
+    do Cartaxo, ratificado pelo presente diploma, com as retificações publicadas pelos Av-Ext 2548/2012 de 16-fev e 9639/2013
+    de 26-jul, pelo(a) Aviso n.º 5398/2015 - Diário da República n.º 95/2015, Série II de 2015-05-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5398-2015-67239474
+  date: '2015-05-18'
+- type: amended_by
+  target: pt:dre:74019772:por
+  label: Tornada pública a alteração aos arts 12.º, 20.º, 28.º, 30.º, 31.º, 34.º, 35.º, 39.º, 42.º e 47.º do Regulamento do
+    PDM do Cartaxo, (com as retificações publicadas pelo Av-Ext 2548/2012 de 16-fev, pelo Av-Ext 9639/2013 de 26-jul e pelo
+    Av 5398/2015 de 18-mai),ratificado pela presente resolução, pelo(a) Aviso n.º 4471/2016 - Diário da República n.º 64/2016,
+    Série II de 2016-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/4471-2016-74019772
+  date: '2016-04-01'
+- type: amended_by
+  target: pt:dre:114555405:por
+  label: Tornado público ter sido aprovada a alteração dos arts. 14.º, 17.º, 18.º, 21.º, 22.º, 30.º, 35.º, 39.º e 67.º e o
+    aditamento do artigo 65.º-A ao Regulamento, assim como a alteração da Planta de Ordenamento e a Planta do Aglomerado Urbano
+    do Cartaxo, todos do Plano Diretor Municipal do Cartaxo, ratificado parcialmente pelo presente diploma, pelo(a) Aviso
+    n.º 1020/2018 - Diário da República n.º 15/2018, Série II de 2018-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1020-2018-114555405
+  date: '2018-01-22'
+- type: amended_by
+  target: pt:dre:114682804:por
+  label: Tornada pública a 6.ª alteração do Plano Diretor Municipal (PDM) do Cartaxo, ratificado pela presente resolução,
+    pelo(a) Aviso n.º 2015/2018 - Diário da República n.º 31/2018, Série II de 2018-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2015-2018-114682804
+  date: '2018-02-13'
+- type: amended_by
+  target: pt:dre:115406984:por
+  label: Tornado público ter sido aprovada a alteração dos art. 65.º-A do Regulamento, assim como a alteração da Planta de
+    Ordenamento, todos do Plano Diretor Municipal do Cartaxo, ratificado parcialmente pela presente resolução, pelo(a) Aviso
+    n.º 7265/2018 - Diário da República n.º 103/2018, Série II de 2018-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7265-2018-115406984
+  date: '2018-05-29'
+- type: amended_by
+  target: pt:dre:119016200:por
+  label: Tornado público ter sido aprovada a alteração do art. 14.º do Regulamento do Plano Diretor Municipal do Cartaxo,
+    ratificado parcialmente pela presente Resolução, pelo(a) Aviso n.º 1967/2019 - Diário da República n.º 24/2019, Série
+    II de 2019-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1967-2019-119016200
+  date: '2019-02-04'
+- type: amended_by
+  target: pt:dre:126212828:por
+  label: Tornada pública a 9.ª Alteração - incidente nas Plantas de Ordenamento e do Aglomerado Urbano dos Casais dos Penedos/Casais
+    da Amendoeira - do Plano Diretor Municipal do Cartaxo pelo(a) Aviso n.º 18300/2019 - Diário da República n.º 220/2019,
+    Série II de 2019-11-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/18300-2019-126212828
+  date: '2019-11-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre
   label: null
@@ -93,16 +162,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
 article_structure:
   article_count: 67
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:18Z'
   warnings: []
   errors: []
 ---

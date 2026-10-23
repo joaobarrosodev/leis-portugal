@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/176/2008/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/176-2008-439873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f84eb35393da576c44d3ba8a18ab960d98df0605729b4266950342ab9f074f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bd36e74727b998315ef59572f3a31e5539df6011dfd787aa2112d63c8d15108
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,43 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Parque Natural do Tejo Internacional
-- Proteção do Ambiente
-- Zona de Proteção
 - Política de Solos
-- Regulamento
+- Proteção do Ambiente
 - Rede Natura 2000
+- Regulamento
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:572426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502844:por
+  label: "Alterados os arts. 20.º e 32.º do Regulamento do Plano de Ordenamento do Parque Natural do Tejo Internacional, pela\
+    \ RES.67/2013.28.10.2013.PCM, DR.IS [208] de 28.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/67-2013-502844
+  date: '2013-10-28'
+- type: amended_by
+  target: pt:dre:572426:por
+  label: "Alterado o art. 20.º do Regulamento do Plano de Ordenamento do Parque Natural do Tejo Internacional, aprovado pelo\
+    \ presente diploma, na redação da Res. 67/2013, de 28-out, da PCM, pela RES.19/2014.10.03.2014.PCM, DR.IS [48] de 10.03.2014\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/19-2014-572426
+  date: '2014-03-10'
 - type: cites
   target: celex:31979L0409
   label: null
   source: http://data.europa.eu/eli/dir/1979/409/oj
 article_structure:
   article_count: 42
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:09Z'
   warnings: []
   errors: []
 ---
@@ -485,7 +498,7 @@ f) Em casos excepcionais de visitação devidamente justificados.
 
 ##### SUBSECÇÃO II — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo i
 
@@ -523,7 +536,7 @@ e) Em situações de risco ou calamidade.
 
 6 - Nos casos referidos nas alíneas a), b) e d) do número anterior, a navegação está sujeita a parecer vinculativo do ICNB, I. P.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo ii
 
@@ -571,7 +584,7 @@ h) Pesca profissional entre 1 de Agosto e 1 de Janeiro, nos termos e condições
 
 ##### SUBSECÇÃO III — Áreas de protecção complementar
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção complementar do tipo i
 
@@ -635,7 +648,7 @@ e) Situações de risco ou calamidade.
 
 5 - Nos casos referidos nas alíneas a), b) e d) do número anterior, a navegação está sujeita a parecer vinculativo do ICNB, I. P.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção complementar do tipo ii
 
@@ -971,4 +984,4 @@ Nos termos do n.º 6 do artigo 23.º do Decreto-Lei n.º 142/2008, de 24 de Julh
 
 O POPNTI entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22800/0831508332.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22800/0831508332.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22800/0831508332.pdf)

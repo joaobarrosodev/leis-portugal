@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/424/1995/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/424-1995-513646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2c748606d84d05faed0296a798775a13a177f78e4c4bde7bfe76227e53cf012
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f66fa557ca8b88c116cc8d8d2d3d7ec5c03b23d5d46dc1bd0f78f12e32b62ead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/268/1991/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/268/1991/04/04/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622135:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:15Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +142,6 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, que seja criado 
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 23 de Março de 1995.**
+Assinada em 23 de Março de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/114-2006-539852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df88b021b5047eef696810abdd1e4eb280275e71a1068a053b9c4c640bbf2a9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eac957410035da12cd8c9bc8eb74a4499e5f9d0a85873bc718e2e1b50a4a32db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direcção Geral dos Recursos Florestais
+- Estratégia Nacional para as Florestas
+- Exploração Florestal
 - Incêndio
 - Prevenção de Incêndios
-- Direcção Geral dos Recursos Florestais
-- Proteção da Floresta
 - Prolunp
-- Exploração Florestal
+- Proteção da Floresta
 - Sector Florestal
-- Estratégia Nacional para as Florestas
 relationships:
 - type: amended_by
   target: pt:dre:66432466:por
@@ -86,16 +86,27 @@ relationships:
   target: celex:32005R1698
   label: null
   source: http://data.europa.eu/eli/reg/2005/1698/oj
+- type: corrected_by
+  target: pt:dre:545857:por
+  label: "Rectificada pela DECL-RECT.77/2006.09.11.2006.PCM, DR.IS [219] de 14.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/77-2006-545857
+  date: '2006-11-09'
+- type: repealed_by
+  target: pt:dre:66432466:por
+  label: Revogada pelo(a) Resolução do Conselho de Ministros n.º 6-B/2015 - Diário da República n.º 24/2015, 1º Suplemento,
+    Série I de 2015-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/6-b-2015-66432466
+  date: '2015-02-04'
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:40Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +165,7 @@ A evolução no sector florestal mede-se em décadas. Devido aos longos período
 
 Durante o século XX, o sector florestal português teve um desempenho surpreendente. No Continente a área de espaços florestais arborizados aumentou muito significativamente sobretudo devido ao sobreiro e pinheiro bravo até à década de 70 e ao eucalipto desde a década de 50 (Fig. 1), atingindo em 1995 um valor máximo de 3.3 milhões de hectares. Processos equivalentes mas de dimensão desigual ocorreram nos Açores e Madeira, onde só a arborização de baldios pelo Estado representou, desde a década de 50 até ao meio da década de 70, cerca de 28 mil hectares e 17 mil hectares, respectivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 No Continente, para além da acção do Estado, a evolução da área florestal ficou sobretudo associada à crescente valorização que os proprietários florestais e a sociedade em geral têm vindo a reconhecer à floresta em comparação com outros usos de solo alternativos, em particular em relação aos matos (ou «incultos») até meados do século e, a partir dessa altura, em relação à própria agricultura.
 
@@ -162,7 +173,7 @@ Mas para uma Estratégia Nacional para as Florestas, que incidirá sobre os espa
 
 Uma estimativa relativa a 2001 apontava o valor de 1,3 mil milhões de euros como sendo a produção económica total anual efectiva da floresta no Continente, não descontando as externalidades negativas (Mendes, 2005). Esta abordagem permite a comparação com estimativas equivalentes do valor por unidade de área efectuadas para os países do Mediterrâneo (Fig. 2) em estudos coordenados por Merlo e Croitoru (2005) e divulgados pelo Millenium Ecosystem Assessment (2005).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Desses estudos conclui-se que o valor económico total das florestas do Continente ultrapassa em muito, por unidade de área, os valores encontrados para outros países mediterrâneos, tanto em produtos comerciais como em produtos ambientais. Portugal extrai mais riqueza de um hectare de terra florestal do Continente (344 euros/ha/ano) do que qualquer outro país do Mediterrâneo e esta comparação inclui países como a França (292 euros/ha/ano) e a Espanha (90 euros/ha/ano). Conclui-se, por isso, que a contribuição anual das florestas para o bem-estar público é muito superior em Portugal comparativamente a outros países do Mediterrâneo, o que demonstra uma taxa de utilização da terra florestal eficiente. Desta análise também se conclui que o elevado valor económico total da floresta não se refere apenas à sua realização comercial, mas também aos serviços ambientais e sociais que presta.
 
@@ -176,13 +187,13 @@ Por outro lado, a floresta tem sido a base de um sector da economia que gera cer
 
 Assim, mantendo a silvicultura e as indústrias da madeira e da cortiça as suas contribuições ao nível do valor acrescentado e tendo vindo a indústria do papel, das artes gráficas e edição de publicações a aumentar a sua contribuição, o VAB do sector florestal tem mostrado uma tendência clara de crescimento nas últimas décadas (Fig. 3).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 A par da elevada produtividade e da integração vertical, o sector florestal é também positivamente atípico em relação ao de muitos outros países pela diversificação da actividade económica que apresenta. Para além dos produtos madeireiros baseados nas duas espécies dominantes na produção lenhosa, pinheiro e eucalipto, e da actividade corticeira, o sector florestal tem outros pólos economicamente activos a uma escala local.
 
 É o caso da produção de frutos secos cuja produção tem aumentado de valor ao longo das últimas duas décadas (Fig. 4).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Por sua vez, também a caça tem vindo a ser progressivamente organizada em zonas ordenadas, sendo que as referentes às áreas associativas e em especial às turísticas, que representam uma área já muito significativa (Quadro 1), valorizam a actividade de forma muito acentuada (Mendes, 2005; Carmo, 2005).
 
@@ -190,11 +201,11 @@ QUADRO 1
 
 Síntese de alguns indicadores das zonas de caça em 2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Também a pesca desportiva nas águas interiores tem tido grande incremento nos últimos anos, associado ao cada vez maior interesse pelas actividades de ar livre e à aproximação ao meio rural. O número de pescadores desportivos mais do que triplicou desde 1980, ano em que se venderam 74 mil licenças de pesca, até 2005, ano em que o número de licenças vendidas foi de 261 mil (Fig. 5).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Por outro lado, verifica-se um aumento substancial da percentagem de licenças de pesca nacionais e regionais relativamente ao total de licenças vendidas, evolução esta que indicia um grande aumento da mobilidade dos pescadores e um consequente aumento do dispêndio feito com esta actividade, quer através da aquisição de equipamentos cada vez mais caros, quer pelo recurso a infraestruturas turísticas junto dos locais onde se dirigem para pescar. Inquéritos à pesca desportiva realizados pela DGRF conduzem a estimativas das despesas efectuadas anualmente por pescador de cerca de quinhentos euros, atingindo um valor total de cerca de 130 milhões de euros, dos quais 106 milhões (64.5%) poderão ser atribuídos aos espaços florestais.
 
@@ -228,11 +239,11 @@ Mas o que teria levado milhares de pequenos proprietários privados a refloresta
 
 Exercícios efectuados com dados recentes demonstram que até nas condições actuais os principais tipos de floresta têm capacidade de gerar rendimentos fundiários e empresariais, em estações de qualidade média, superiores a 50 euros/ha/ano. Estes rendimentos, quando comparados com os valores negativos relativos à agricultura de sequeiro sem subsídios, apresentam alternativas altamente favoráveis (Fig. 6).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Um aspecto em que a administração pública tem contribuído positivamente para o desempenho florestal é no financiamento, já que ele tem tido um êxito considerável em afectar recursos públicos, de origem externa ou interna, para a viabilização do sector. Estes apoios ao sector têm vindo a crescer desde 1965, através do Fundo de Fomento Florestal seguido pelo Projecto Florestal Português/Banco Mundial e pelos quadros comunitários de apoio (Fig. 7).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 2 - Mudanças de contexto e novos riscos.
 
@@ -248,11 +259,11 @@ O primeiro fenómeno de mudança de contexto é o das alterações climáticas. 
 
 Para Portugal, na âmbito do projecto SIAM [Santos, F.; (et al.) 2002] identificam-se três períodos na evolução do clima durante o século XX: um aquecimento entre 1910 e 1945; um arrefecimento, entre 1946 e 1975; e um período de aquecimento, rápido, entre 1976 e 2000. Desde a década de setenta as temperaturas máximas e mínimas subiram, em Portugal Continental, cerca de 0,5ºC/década, o que corresponde a mais do dobro do aumento verificado na temperatura média mundial. Nos Açores as mesmas tendências existem mas com um menor acréscimo nas temperaturas máximas, enquanto que na Madeira as temperaturas máximas acompanham o acréscimo do Continente, mas as mínimas ultrapassam aquele ritmo, atingindo, respectivamente, acréscimos 0,7 e 0,5ºC/década (Fig. 8).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Quanto à precipitação, as alterações observadas são irregulares não se detectando tendências significativas no seu valor médio anual. Todavia, detecta-se claramente a perda de precipitação na Primavera no período de 1971 a 2000 relativamente ao período anterior de 1941 a 1970 (Fig. 9).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Variações relevantes foram ainda observadas para outras variáveis climáticas, como seja a humidade relativa, nebulosidade e insolação, provando-se que o processo de aquecimento global é complexo, particularmente no que se refere à sua interacção com o ciclo da água.
 
@@ -262,7 +273,7 @@ As alterações climáticas levantam importantes desafios ao sector florestal, q
 
 Os diferentes impactos das alterações climáticas no Continente podem ser representados no diagrama de Emberger, de utilização clássica na bioclimatologia florestal e calculado com base nos dados de precipitação anual e das temperaturas médias do mês mais frio e do mês mais quente que o Instituto de Meteorologia registou para as capitais de distrito desde 1941. Verifica-se um aumento das produtividades potenciais lenhosas nalgumas estações localizadas no Norte e Centro de Portugal Continental (Viana do Castelo, Braga, Porto e Aveiro) enquanto que noutras estações (Bragança, Guarda e Évora) essa evolução é negativa, em resultado das reduções na precipitação anual e no aumento das amplitudes térmicas (Fig. 10).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Em resultado das alterações climáticas, poderão verificar-se mudanças quanto ao domínio de algumas espécies e nas áreas de distribuição dos diversos tipos de floresta, assim como um aumento do risco de desertificação, podendo algumas espécies florestais sofrer mortalidade acentuada no limite mais seco da sua actual área de distribuição. As previsões, com todas as suas limitações, apontam para:
 
@@ -272,19 +283,19 @@ Em resultado das alterações climáticas, poderão verificar-se mudanças quant
 
 Uma das características importantes das alterações climáticas previstas e observadas é a do aumento de frequência dos fenómenos extremos (cheias, tempestades, secas e ondas de calor). Estes fenómenos já aumentaram à escala global, conduzindo a prejuízos económicos muito significativos cujo valor aumentou cerca de 10 vezes desde a década de 1950 até à década de 1990 (Fig. 11).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 2.2 - Incêndios.
 
 Uma expressão do efeito das mudanças climáticas é o aumento do fenómeno dos incêndios florestais que são, hoje em dia, certamente o maior dos riscos percebidos no sector florestal. E não pode ser casual a coincidência dos padrões observados na Europa para a evolução da área ardida nos últimos 50 anos (Fig. 12) e dos registados para os fenómenos extremos à escala global (Fig. 11).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 São os grandes incêndios provenientes do espaço rural que atingem as dimensões causadoras dos grandes prejuízos à sociedade, acabando por atingir por vezes os próprios espaços urbanos. Os médios e grandes incêndios (mais de 100 ha) constituíram mais de 85% da área ardida nos anos de 2003 a 2005. Qualquer estratégia de controlo dos incêndios florestais deverá por isso considerar os aspectos particulares aos incêndios de maior dimensão.
 
 Um primeiro aspecto particular aos grandes incêndios é o de que ocorrem em condições meteorológicas extremas. Para o território continental, a importância das condições meteorológicas extremas na área ardida total pode ser resumida na comparação dos dois gráficos da Fig. 13. Eles mostram o número de dias de 15 de Maio a 15 de Outubro em que se observaram as diferentes classes de risco meteorológico de incêndio nos anos de 2000 a 2005 e o correspondente resultado em áreas ardidas. De registar que, nos últimos três anos, aos poucos dias de risco muito elevado (13, 8 e 18 dias) corresponderam áreas ardidas respectivamente de 299, 62 e 168 mil hectares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Um segundo aspecto particular dos incêndios de mais de 100 ha é o de que a probabilidade da sua ocorrência só é significativa a partir de durações superiores a 24 horas (DGRF, 2005). Sabendo-se, por outro lado, que existe uma relação estreita entre a rapidez de intervenção e a duração do incêndio (e também portanto a sua dimensão) é de grande importância promover o objectivo de melhorar a rapidez de intervenção.
 
@@ -294,11 +305,11 @@ Um quarto aspecto está relacionado com a alteração da população no interior
 
 Um último aspecto a considerar é o de que os grandes incêndios tendem a ser pouco selectivos, isto é, percorrem tipos de florestas que, em condições normais, são menos susceptíveis aos incêndios. Comparando a composição das áreas ardidas entre 1996 e 2005 com a composição dos espaços florestais em 1995 (Fig. 14) verifica-se que, nos anos de grandes incêndios, tipos de espaços florestais normalmente menos susceptíveis aos incêndios (como os dominados por sobro) constituem uma fracção significativa das áreas ardidas. Este aspecto tem particular relevância no desenho de estratégias especiais para condições extremas de propagação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 No entanto, o maior impacto dos incêndios nas últimas duas décadas tem sido nos povoamentos de pinheiro bravo e de eucalipto o que não pode deixar de estar associado a reduções na produção de madeira. Este facto é especialmente relevante para o pinheiro bravo, que demonstra uma tendência para uma redução gradual dos seus volumes explorados, enquanto que para o eucalipto se assiste a um aumento dos volumes explorados, mas menor do que seria expectável a partir do aumento da sua área, indicando quebra na produtividade (Fig. 15).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 De qualquer forma, a real dimensão do problema dos incêndios ultrapassa em muito a questão da diminuição da produção de material lenhoso, e essa avaliação pode agora fazer-se pela estimativa do seu custo social, que constitui a mais negativa das externalidades associadas à floresta. De facto, para um valor económico total do espaço florestal estimado em 2001 em 1,3 mil milhões de euros, contrapõem-se estimativas de custo social dos incêndios florestais que variaram no período 2000-2004 entre 0,2 e 1,0 mil milhões de euros (no ano extremo de 2003), ou seja, entre 20 a 80% da produção anual de riqueza florestal. As componentes daquele custo social constam no Anexo II.
 
@@ -310,11 +321,11 @@ As perdas são muito grandes e as percepções de risco associado aos incêndios
 
 O clima afecta a sobrevivência e o desenvolvimento dos agentes patogénicos, assim como, de modo indirecto, as interacções entre estes e o seu hospedeiro que, em condições de maior severidade climática, se apresenta num estado de maior stress e, por isso, mais sensível ao ataque daqueles agentes bióticos. Também é provável a migração de agentes patológicos em função das alterações climáticas. Finalmente as modificações do clima poderão potenciar a propagação de espécies invasoras a novas áreas, com reflexos directos na redução da biodiversidade, como no caso da Laurissilva (Fig. 16) e na produção de produtos lenhosos, não lenhosos e dos valores de uso indirecto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Problemas fitossanitários afectam significativamente o sobreiro e a azinheira, sendo o declínio dos montados evidenciado nas sucessivas medições que têm sido feitas na rede europeia de parcelas permanentes de amostragem para a monitorização dos ecossistemas florestais, actualmente implementada através do Regulamento Forest Focus da Comunidade Europeia. Os resultados desse trabalho apresentam-se na Fig. 17 para as quatro espécies mais representativas de Portugal Continental - sobreiro, azinheira, pinheiro bravo e eucalipto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 A observação da Fig. 17 revela um aumento significativo, particularmente evidente a partir de 1997, na percentagem de árvores de sobreiro e azinheira com baixa vitalidade.
 
@@ -322,7 +333,7 @@ Mas já a partir da década de 70 se tinha começado a verificar um anormal e co
 
 A dimensão do problema tem consequências claras para o valor económico da componente cortiça, ao reduzir as quantidades produzidas anualmente (Fig. 18). Esta redução é preocupante para a indústria que alerta para que a produção total dos anos 90 representou menos 21% do que a média dos anos 70 e menos 34% do que a média dos anos 60 (Amorim, 2005).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 A investigação efectuada sobre o assunto, mostra que os montados estão a ser fragilizados por um conjunto de processos lentos e cumulativos que têm que ser claramente quantificados e contra os quais é necessário tomar medidas.
 
@@ -350,7 +361,7 @@ A internacionalização da economia à escala global irá ter consequências no 
 
 De facto, em Portugal, as tendências do mercado têm revelado, na última década, uma descida do valor unitário de diversas matérias-primas da produção lenhosa florestal (Fig. 19 e Fig. 20).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Esta tendência de decréscimo dos preços das matérias primas está associada à descida dos preços médios de mercado dos produtos florestais em toda a Europa Ocidental, descida que tem aproximado os preços aos praticados nos Países do Leste Europeu e da Comunidade de Estados Independentes, que têm, por sua vez, convergido para os valores praticados na Europa Ocidental (Ponto 9.3 do Anexo III).
 
@@ -362,7 +373,7 @@ A simples análise de dados de inventário relativos ao estado dos povoamentos f
 
 A fileira da cortiça encontra-se numa situação bem distinta da dos produtos lenhosos. Nesta fileira, em cujo mercado Portugal é claramente dominante (responsável por aproximadamente metade da produção e das exportações), tem-se assistido, nas últimas décadas, a flutuações importantes mas a uma tendência de acréscimo global da valorização do produto, embora se verifique um ligeiro decréscimo nos últimos anos (Fig. 21).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Nesta fileira, para além da degradação quantitativa e qualitativa do montado de sobro, que pode pôr em risco a sustentabilidade do abastecimento desta matéria-prima, a forte especialização da produção num único produto final, a rolha de cortiça, que representa 2/3 do valor das exportações de cortiça, faz com que o sector veja com preocupação a erosão das vendas de rolha, designadamente pelo aparecimento de produtos sucedâneos (rolhas de plástico e cápsulas de alumínio) neste nicho do mercado. Esta opção ocorre especialmente em novos produtores, já que os preços das rolhas de plástico e das cápsulas de alumínio são significativamente mais baixos do que os das rolhas de cortiça. Questões associadas à qualidade do processamento da cortiça foram também invocadas para a opção pela rolha de plástico, o que conduziu a um mais apertado controle de qualidade. Por isso, o European Forest Sector Outlook Study (UNECE, FAO, 2005) prevê um crescimento estável e moderado do mercado de rolha de cortiça, «por parecer muito pouco provável que a maior parte dos produtores de vinhos venham a escolher materiais alternativos, desde que o produto se mantenha competitivo em preço e qualidade». Mas, de qualquer forma, a promoção do produto tem de ser garantida.
 
@@ -370,7 +381,7 @@ Nesta fileira, para além da degradação quantitativa e qualitativa do montado 
 
 Os serviços ambientais da floresta sempre foram reconhecidos tendo dado origem, logo no início do século XX, à instituição do Regime Florestal. Para além da arborização das dunas, que será tratada adiante, o Regime Florestal pretendia o revestimento florestal dos terrenos cuja arborização fosse de utilidade pública, nomeadamente para «o bom regime das águas e defesa das várzeas» e para «a fixação e conservação do solo nas montanhas». Foi esta uma das principais justificações que deram origem à arborização pelo Estado dos terrenos baldios, que representam neste momento áreas significativas tanto no Continente (Fig. 22) como nos Açores e Madeira, sendo que nestas duas Regiões a importância desta função se torna ainda mais fundamental tendo em conta a orografia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Na Europa, esta função de protecção associada à floresta tem sido fundamentalmente assegurada pelo Estado, não sendo um serviço pago pelo mercado. Mas, actualmente, onde não há mercados, aparecem por vezes outras formas de pagamentos pela produção de serviços. Por exemplo, a cidade de Nova Iorque compensa os proprietários da bacia hidrográfica com cobertura florestal que abastece água à cidade, para estes manterem esse coberto. Pagamentos semelhantes são feitos noutros países para promover ocupações do solo que reduzam o assoreamento de barragens e lhes prolonguem a vida útil. Em vários países têm-se também observado um crescimento rápido de zonas de protecção privadas, por vezes com objectivos comerciais ligados ao turismo.
 
@@ -382,15 +393,15 @@ A competição entre o uso florestal de consumo e de conservação tem sido conf
 
 (1) A Estratégia Nacional de Conservação da Natureza e da Biodiversidade (ENCNB), aprovada em 2001 e em vigor até 2010, assume três objectivos gerais - (i) conservar a Natureza e a diversidade biológica, (ii) promover a utilização sustentável dos recursos biológicos e (iii) contribuir para a prossecução dos objectivos visados pelos processos de cooperação internacional na área da conservação da Natureza em que Portugal está envolvido, em especial os objectivos definidos na Convenção sobre a Diversidade Biológica, designadamente a conservação da biodiversidade, a utilização sustentável dos seus componentes e a partilha justa e equitativa dos benefícios provenientes da utilização dos recursos genéticos. Para a concretização destes objectivos, a ENCNB formula 10 opções estratégicas, neles se enquadrando a constituição da Rede Fundamental de Conservação da Natureza e o Sistema Nacional de Áreas Classificadas (Fig. 23), integrando neste a Rede Nacional de Áreas Protegidas, assim como assegurar a conservação e a valorização do património natural dos sítios e das zonas de protecção especial integrados no processo da Rede Natura 2000;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 (2). O Programa de Acção Nacional de Combate à Desertificação (PANCD) aprovado em 1999 na sequência de compromissos assumidos internacionalmente, nomeadamente no quadro da Convenção das Nações Unidas de Combate à Desertificação (CNUAD), da qual deriva o primeiro objectivo estratégico do PANCD relativo à conservação do solo e da água. No âmbito deste Programa foi elaborada, para o território continental, a carta de susceptibilidade à desertificação que se apresenta na Fig. 24, e que corresponde, em grande parte à distribuição da azinheira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 (3). O Programa Nacional para as Alterações Climáticas (PNAC) define a estratégia nacional para o controlo e redução das emissões de gases de efeitos de estufa (GEE). O PNAC procura quantificar o esforço de mitigação das emissões necessárias para o cumprimento dos compromissos assumidos por Portugal no âmbito de Quioto e da UE, identificando as responsabilidades sectoriais, e em particular as do sector florestal. O PNAC 2006 foi preparado com base na actualização das estimativas do balanço de emissões de GEE e das medidas de redução que constavam do PNAC 2004. Essa actualização é concretizada pela introdução de medidas adicionais além das medidas de cenário referência já consideradas, que no caso da floresta são da seguinte grandeza:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 A produção de energia a partir de fontes renováveis é um processo essencial para atingir os compromissos assumidos no âmbito do protocolo de Quioto, nele se integrando o aproveitamento de biomassa para energia. Em 1997 a Comissão Europeia, no livro branco sobre energias para o futuro, assumiu o compromisso de até 2010 duplicar a utilização de Fontes de Energia Renovável (FER), aumentando para 12% a participação destas energias no balanço energético. Esse aumento será feito, nomeadamente através da:
 
@@ -402,7 +413,7 @@ Actualmente, o aproveitamento de biomassa florestal para a rede de energia eléc
 
 Para cumprir os objectivos estabelecidos para o aproveitamento da biomassa florestal será necessário construir novas centrais até 2010, estando actualmente a decorrer o «Concurso para Atribuição de Capacidade de Injecção de Potência na Rede do Sistema Eléctrico de Serviço Público e Ponto de Recepção Associado» para a adjudicação de novos pontos de ligação à rede para a produção de energia eléctrica a partir de biomassa florestal. Na Fig. 25 representa-se a carta de distribuição de biomassa florestal, que constitui uma base de informação territorial onde as intervenções a nível da implementação de medidas de silvicultura preventiva se tornam prioritárias de forma a diminuir a carga combustível e o risco de incêndio associado, e que segundo critérios de integração das políticas energética nacional e florestal suportará a definição de pontos injectores de energia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Assim, em consequência das preocupações ambientais e dos compromissos internacionais anteriormente descritos, verificou-se o aparecimento de uma série de instrumentos tais como as áreas classificadas (Fig. 23), as análises de impacto ambiental, e outros que se preocuparam com a protecção dos serviços ambientais, mas cujo valor não é capturado em mercados.
 
@@ -418,13 +429,13 @@ Um dos principiais factores da mudança no sector florestal reside nas alteraç�
 
 Nos últimos 30 anos, de um modo geral, a população portuguesa emigrou para a zona litoral e para os centros urbanos localizados tanto no litoral como no interior, e essa tendência continua a verificar-se (Fig. 26).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 As zonas costeiras são, por isso, fundamentais para a sociedade representando situações muito especiais não só em termos biofísicos pela influência directa ou indirecta do mar (ventos, salinidade, etc.) mas também em termos dos sistemas socio-económicos associados pelo que justificaram, no passado, como justificam no presente, abordagens estratégicas particulares.
 
 Em termos biofísicos, a fixação das dunas pela arborização constituiu prioridade estratégica desde os primeiros Reis de Portugal, à semelhança do que se fazia nas landes francesas. Prioridade retomada, no início do século XIX, no trabalho pioneiro de Andrade e Silva. Nessa altura, o governo francês iniciou a arborização das dunas da Gasconha, onde, a partir do processo iniciado em 1801, ficariam arborizadas logo em 1874 cerca de 90 mil hectares de dunas. Em Portugal, o Relatório àcerca da Arborização Geral do País de 1868 apontava como prioritária a arborização das áreas incultas de todo o litoral, estimadas em 72 mil hectares, que começaram a ser arborizadas a partir do estabelecimento do Regime Florestal (1901-1903). Nesta sequência as áreas do domínio privado do Estado, que representam na actualidade 66 mil hectares, correspondem, em grande medida, à floresta de protecção das zonas costeiras (Fig. 27).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Mas, para além das ameaças dos agentes físicos, a mudança de contexto das últimas décadas tem sido especialmente problemática pela degradação acelerada da paisagem resultante do «crescimento descontrolado dos núcleos urbanos», por sua vez determinado pela coincidência da maior concentração populacional na zona costeira e pelo facto de «a capacidade de gestão do litoral não ter progredido conforme a capacidade de transformação criada pelo progresso tecnológico» como bem refere Ilídio de Araújo. Mas o mesmo autor recorda que, paradoxalmente, é o litoral a principal zona recreativa do território português, que apresenta ainda a atracção adicional de inúmeros testemunhos arqueológicos antigos (povoados, fortificações de diversas épocas, etc.).
 
@@ -446,7 +457,7 @@ A grande representatividade e particular visibilidade que os proprietários priv
 
 Em relação à propriedade a falta de Cadastro para grande parte da área florestal prejudica o conhecimento e limita muitas dinâmicas do sector. No entanto é possível verificar uma distribuição geográfica muito marcada da dimensão da propriedade. Na Fig. 28 apresentam-se os números de prédios rústicos por NUTS II, confirmando que o grande número de prédios se situa no Norte e Centro do Continente, explicando que seja nessas áreas que falte o Cadastro. A distribuição concelhia da dimensão média dos prédios rústicos também pôde ser estimada através do quociente entre as áreas de cada concelho (depois de subtraídas as respectivas áreas sociais) e o número de artigos rústicos, a partir do registo da Direcção Geral dos Impostos (Fig. 28).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 A relação entre a dimensão da propriedade, as espécies florestais, e as características de gestão florestal e os objectivos dos proprietários privados foi efectuado por Baptista e Santos (2005) a partir da realização de inquéritos, identificando cinco tipos de situações, resumidas no Quadro 2.
 
@@ -454,7 +465,7 @@ QUADRO 2
 
 Principais características das propriedades e dos proprietários florestais privados estudados (adaptado de Baptista e Santos, 2005)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 2.6.2.2 - Organizações de produtores florestais.
 
@@ -466,7 +477,7 @@ Outras formas de agrupamento podem acontecer por via do associativismo e coopera
 
 O associativismo florestal integra organizações diferenciadas quando à abrangência dos seus objectivos, incluindo as que se dedicam exclusivamente a actividades ligadas ao ordenamento e gestão florestal (Associações e Cooperativas Florestais) e as que desenvolvem outras actividades ligadas ao sector agrário (Associações Agro-florestais e Cooperativas Agrícolas com secção florestal). A partir da 1977 o número de organizações de produtores florestais cresceu de forma notável estando registadas no momento 163 (Fig. 29).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Oficialmente são reconhecidos três tipos de organizações representativas dos proprietários e produtos florestais (Decreto-Lei n.º 166/2000, publicado no Diário da República, n.º 180, 1.ª série-A, de 5 de Agosto): (i) associações e cooperativas, de âmbito nacional, regional ou local; (ii) uniões e federações de associações e de cooperativas; e (iii) confederações de âmbito nacional (Quadro 3).
 
@@ -474,7 +485,7 @@ QUADRO 3
 
 Organizações de Produtores Florestais (OPF)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Confederações - CAP (Confederação da Agricultura Portuguesa); CONFAGRI (Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal); CNA (Confederação Nacional de Agricultura).
 
@@ -492,7 +503,7 @@ Não foi só a actividade de produção florestal que beneficiou de um movimento
 
 Embora por razões diferentes, o mesmo se passou na caça, onde o associativismo foi promovido por força de legislação específica resultando numa cobertura de zonas de caça associativas bastante significativa em quase todo o território continental (Fig. 30) representando, em 2005, 77% da área total com aptidão cinegética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Quanto às associações de caçadores não há informação quantitativa segura sobre a sua dimensão, mas estima-se que a ordem de grandeza seja ao nível dos milhares. Estas associações estão agrupadas em federações e confederações. Nas associações de segundo nível, registadas na DGRF, há 16 Federações, uma Confederação e 4 Associações Nacionais.
 
@@ -566,7 +577,7 @@ QUADRO 4
 
 Matriz estruturante do valor das florestas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Da análise da matriz resultam evidentes algumas importantes linhas de acção da Estratégia.
 
@@ -688,7 +699,7 @@ Em paralelo com as acções de reabilitação deverão ser implementados sistema
 
 De modo a maximizar o valor económico total da floresta num território diversificado devem utilizar-se as espécies e os sistemas que maior riqueza social possam extrair de um hectare de terra. Propõe-se por isso especializar o território continental português em três tipos de áreas com base no conceito de função dominante (fig. 31).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 No mapa apresentado, simula-se com base no índice de Paterson, a distribuição geográfica das três tipologias de especialização do território continental português propostas.
 
@@ -722,7 +733,7 @@ QUADRO 5
 
 Especialização do território. Áreas de ocupção previstas em 2030 (unidades de 10 mil hectares).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Importa esclarecer que a especialização do território continental português apresentado no âmbito da Estratégia Nacional para as Florestas, com base no conceito de função dominante, tem tradução a outra escala nas funcionalidades das sub-regiões homogéneas que têm vindo a ser desenvolvidas no âmbito dos Planos Regionais de Ordenamento Florestal (PROF). No Quadro 6 é feita a equivalência entre as áreas de especialização propostas na estratégia e as funções principais dos PROF, discriminando, a título de exemplo, para a função principal produção, as respectivas sub-funções principais.
 
@@ -730,7 +741,7 @@ QUADRO 6
 
 Equivalência entre as áreas de especialização do território preconizadas na estratégia, os valores de uso directo e indirecto, e as funções principais da floresta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Acrescenta-se que a estratificação do território realizada para cada região PROF integra-se numa escala regional, mais fina do que a nacional, utilizada na macrozonagem dessa estratégia. Como se referiu atrás, o planeamento à escala regional envolve necessariamente a consideração de um maior número de parâmetros, nomeadamente quanto a características edáficas e outras especificidades regionais, que resultam numa apreciação do território com um maior grau de detalhe e, desse modo, a uma lógica de delimitação de áreas que apenas faz sentido nessa escala.
 
@@ -746,7 +757,7 @@ Em terceiro lugar é uma estratégia que a longo prazo promoverá a relocalizaç
 
 Em quarto lugar é uma estratégia que permitirá aumentar a eficiência do combate a incêndios e de outras intervenções do sector público. Os prejuízos causados por incêndios seriam provavelmente muito maiores na área de produção lenhosa e justificar-se-ia a concentração de esforços de prevenção e combate nessa região, o que já acontece, porque a concentração de população e de bombeiros é maior aí. Por outro lado os incêndios na área multifuncional terão danos económicos mais limitados, podendo até o fogo ser utilizado de forma controlada como factor positivo de renovação de matos e pastagens ou do habitat para as espécies selvagens.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Em quinto lugar é uma estratégia consistente com o Programa de Acção Nacional de Combate à Desertificação (PANCD), existindo grande coincidência espacial entre a localização geográfica das áreas mais susceptíveis à desertificação e as áreas onde os sistemas multifuncionais têm maior expressão, facto que reforça a importância que nestes sistemas se confere à produção de valores de uso indirecto, em particular no que respeita à protecção dos solos e do regime hídrico. Sendo que a generalidade das áreas susceptíveis à desertificação se situam no Sul e no Este do País, e que estas são também as regiões que se prevê serem mais afectadas pelas alterações climáticas, há que ponderar especialmente o papel da floresta nessas regiões, tanto mais que os efeitos se estendem por décadas.
 
@@ -1018,7 +1029,7 @@ Nas outras superfícies florestais a rearborização de ardidos deverá estabele
 
 3.8.1 - Matriz de responsabilidades e indicadores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 3.8.2 - Avaliação.
 
@@ -1488,7 +1499,7 @@ Direcção Geral dos Serviços Florestais e Aquícolas; Junta Nacional dos Resin
 
 Direccion General de Conservacion de la Naturaleza - 2002. Plan Forestal Español. Madrid: Ministério de Médio Ambiente, Secretaria General de Médio Ambiente.
 
-##### Divisão de Protecção e Conservação Florestal - 2005. Montados de Sobro e Azinho. Lisboa: Direcção Geral dos Recursos Florestais (não pubicado)
+Divisão de Protecção e Conservação Florestal - 2005. Montados de Sobro e Azinho. Lisboa: Direcção Geral dos Recursos Florestais (não pubicado)
 
 European Commission - 2005. Forest Fires in Europe 2004. Italy: Official Publication of the European Communities, SPI.05.147EN.
 
@@ -1720,11 +1731,11 @@ Quadro 6 - Equivalência entre as áreas de especialização do território prec
 
 ## ANEXO I — Alguns indicadores económicos do sector florestal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 ## ANEXO II — Custos associados às externalidades negativas da floresta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 ## ANEXO III — Enquadramento internacional do sector florestal
 
@@ -1762,7 +1773,7 @@ Esta política adopta como método, de modo inovador, a busca de uma maior integ
 
 A presente Estratégia Nacional integra os princípios da Estratégia da União Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 2 - Compromissos internacionais e regionais.
 
@@ -1800,11 +1811,11 @@ Relativamente à H1, importa realçar que é nesta resolução que está integra
 
 No que respeita à Resolução V1 e centrando os comentários na abordagem que é feita ao conceito de «programa florestal nacional» (considerando-o um processo participativo, holístico, inter-sectorial e iterativo), dever-se-á entender cada instrumento, mecanismo, diploma legal, plano ou estratégia relativo a florestas como peças desse programa. Nesse programa - por que dinâmico - deverá ser sempre possível incluir novas peças, que mais não são do que o reflexo de eventos recentes, necessidades emergentes ou novas práticas. Assim sendo, a presente Estratégia Nacional para as Florestas será parte do «programa florestal nacional» português.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 3 - Tendências de mercado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 ## ANEXO IV — Instrumentos de política florestal
 
@@ -1834,7 +1845,7 @@ Na discriminação representada na próxima Figura apenas se destacaram os momen
 
 Recentemente tem-se assistido a um esforço de concentração das diversas matérias florestais numa entidade única, a exemplo do verificado aquando da integração dos serviços regionais florestais na Direcção Geral dos Recursos Florestais, bem como da recente incorporação neste organismo da Agência para a Prevenção dos Incêndios Florestais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 2 - Instrumentos de Planeamento.
 
@@ -1850,7 +1861,7 @@ Actualmente, o sistema de planeamento territorial em vigor foi estabelecido em 1
 
 O sistema de gestão territorial concretiza, por sua vez, a interacção coordenada dos seus diversos âmbitos através de um conjunto de instrumentos de gestão territorial que integram de acordo com as funções diferenciadas que desempenham:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Entre as quatros tipologias de instrumentos de gestão territorial existe um relacionamento hierárquico e funcional que estabelece, nomeadamente, que as orientações definidas pelos instrumentos de desenvolvimento territorial são prosseguidas nos instrumentos de planeamento territorial e que existe um compromisso recíproco de integração e compatibilização das suas opções com as dos instrumentos de política sectorial.
 
@@ -1860,7 +1871,7 @@ No âmbito da reforma estrutural do sector florestal de 2003 e face às proporç
 
 Na actualidade, há um esforço de simplificação do sistema de planeamento em três níveis: nacional, regional e municipal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 3 - Instrumentos financeiros.
 
@@ -1872,7 +1883,7 @@ As fontes de financiamento públicas criadas ao longo dos anos para apoiar o sec
 
 Na próxima Figura destacam-se as sucessivas fontes de subvenção que foram sendo disponibilizadas desde 1923, assim como a sua concretização quanto à área total, aprovada, de arborização e de beneficiação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 O Plano de Povoamento Florestal teve como objectivo principal a arborização das áreas públicas e comunitárias do Norte e Centro de Portugal.
 
@@ -1890,7 +1901,7 @@ QUADRO
 
 Programas de apoios comunitários. Discriminação do número de projectos aprovados, respectivos investimentos e áreas totais de intervenção (Fonte: DGRF e IFADAP, 2003 e 2005).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 É de mencionar a dificuldade encontrada na obtenção de informação quanto à execução física e financeira dos apoios públicos. Os valores apresentados correspondem sobretudo aos dados da aprovação do projecto; não existindo, igualmente, coerência quanto aos campos de informação das bases de dados dos diferentes programas, o que dificulta a sua análise e avaliação comparativa.
 
@@ -1900,15 +1911,15 @@ QUADRO
 
 Candidaturas Homologadas e Contratadas pelo Fundo Florestal Permanente em 2004
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Na Figura seguinte representa-se a adesão regional dos diferentes programas, com base na divisão territorial NUTS III. A variável analisada foi o investimento aprovado. Dela sobressai a maior tendência das regiões Interior, Norte e Centro, e Sul de Portugal para o recurso a programas cuja filosofia assenta na arborização de áreas marginais para a agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Mas nos últimos anos tem-se verificado uma tendência para a redução da adesão aos programas de apoio à arborização, rearborização e beneficiação florestal. Esta situação é comprovada na próxima Figura que apresenta a evolução, de 1986 a 2003, da Formação Bruta de Capital Fixo associado às actividades de florestação e reflorestação, e cujos valores decrescem acentuadamente a partir de 2000, ano que coincide com a entrada em vigor do terceiro Quadro Comunitário de Apoio (QCA III) e do Plano de Desenvolvimento Rural (Programa AGRO, Medida AGRIS e RURIS).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 O decréscimo da adesão aos programas de apoio comunitário mais recentes (2000-2006), relativamente ao quadro anterior (1994-1999), deve-se certamente a uma multiplicidade de factores cuja identificação merece um estudo aprofundado e rigoroso. Contudo, a esse facto não será indiferente o aumento na complexidade dos trâmites processuais e do quadro legal ligado aos processos de apresentação, análise e decisão das respectivas candidaturas. Esta situação é comprovada nos quadros apresentados nos próximos quatro Quadros, que contêm a discriminação dos normativos legais associados aos programas de apoio comunitários e respectivas medidas e acções, no período de 2000 a 2006.
 
@@ -1916,25 +1927,25 @@ QUADRO
 
 Plano de Desenvolvimento Rural - RURIS. Quadro legislativo, normativos e formulários de candidatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 QUADRO
 
 Programa Operacional Agricultura e Desenvolvimento Rural. Quadro legislativo e circulares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 QUADRO
 
 Medida Agricultura e Desenvolvimento Rural dos programas operacionais regionais - AGRIS. Quadro legislativo e circulares, caderno de encargos e formulários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 QUADRO
 
 Medida «Acção Integrada de Base Territorial do Pinhal Interior» do Programa Operacional Regional do Centro - AIBT PI. Legislação e circulares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Para o período 2007-2013, o acesso ao novo pacote de Fundos Estruturais e de Coesão da União Europeia é feito através da elaboração e aprovação, junto da Comissão Europeia, de dois tipos de documentos prévios: o Quadro de Referência Estratégico Nacional (QREN) e os Programas Operacionais. Estes documentos constituem a orientação estratégica e operacional dos instrumentos financeiros de carácter estrutural que apoiarão a concretização de componentes relevantes da política de desenvolvimento de Portugal. O QREN substitui, em simultâneo, o Plano de Desenvolvimento Regional e o Quadro Comunitário de Apoio, instrumentos de programação dos períodos anteriores. Ele organiza o novo ciclo de fundos comunitários, definindo as linhas mestras que devem presidir à sua operacionalização através dos Programas Operacionais.
 
@@ -1960,7 +1971,7 @@ QUADRO
 
 Medidas de apoio comunitário com relevância para o sector florestal (período de 2007 a 2013)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 3.2 - Seguros florestais.
 
@@ -2008,7 +2019,7 @@ Frutos e sementes
 
 Os valores de produção e os preços considerado na função frutos e sementes foram retirados de Mendes (2005), actualizando os preços para valores de 2005, conforme a seguir se discrimina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 O valor unitário de 0,9 euros/kg corresponde à média ponderada dos preços dos diferentes frutos.
 
@@ -2036,7 +2047,7 @@ Caça
 
 O valor económico da caça foi estimado para o total do continente nos seguintes pressupostos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 O número de jornadas de caça atribuíveis a cada tipo de floresta é proporcional à sua representatividade no conjunto dos espaços florestais, com base no pressuposto de que os espaços florestais (floresta e matos) representarem 64,5% dos espaços rurais (incluindo agricultura) - IFN 1995-1998.
 
@@ -2352,7 +2363,7 @@ QUADRO
 
 Área Ocupada pela Floresta Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 A Floresta na Região apresenta especificidades evidentes em matéria de dimensão e orografia com particularidades objectivas ao nível do ordenamento do território e com características próprias ao nível da paisagem, do património natural e do ambiente. O regime de propriedade da área florestal é disperso, quer na sua dimensão física (95% das explorações têm uma área inferior a 1ha e cerca de 85% é inferior a 0,5ha) quer no número elevado de proprietários desse minifúndio e ainda pelo regime júridico dessas mesmas propriedades (superfície na posse de proprietários privados: 35800 ha; logradouros comuns das populações: 4037 ha; propriedades comunitárias: 11365 ha; zonas florestais públicas: 3867 ha e propriedades camarárias: 1000 ha).
 
@@ -2362,7 +2373,7 @@ QUADRO
 
 Regime de Propriedade da Floresta e Área por Regime de Propriedade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Dos 77710 ha que constituem a área total das ilhas da Madeira e do Porto Santo, cerca de 70% correspondem a superfícies com aptidão florestal e de incultos (54397 ha). Das 8399 explorações existentes, 8362 encontram-se ocupadas por matos e floresta e apenas 37 são exclusivamente florestais.
 
@@ -2390,7 +2401,7 @@ QUADRO
 
 Resumo dos projectos de florestação/reflorestação realizados desde 1975 pelos Serviços Florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 A R.A.M. possui um Património natural riquíssimo de elevado valor ecológico e paisagístico, onde se inserem 11 sítios classificados de interesse comunitário pertencentes à Rede Natura 2000, que ao mesmo tempo que representam para a Região notoriedade, acarretam igualmente uma responsabilidade acrescida na gestão e na qualidade das intervenções nessas áreas. De facto, os espaços naturais existentes na Região, onde se engloba a floresta Laurissilva, contêm valores ambientais com significado e importância relevante do ponto de vista da conservação da natureza, devendo ser alvo de medidas estratégicas que promovam a garantia da Biodiversidade e a sustentabilidade da floresta regional.
 
@@ -2438,7 +2449,7 @@ QUADRO
 
 Áreas florestais por ilha e por espécie (ha)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 No arquipélago dos Açores a floresta ocupa uma área próxima dos 70000 hectares, o que corresponde a uma taxa de arborização média por ilha de 30%. Embora não haja uma nítida fronteira entre o que se possa considerar como floresta de produção e floresta de protecção, pela natureza dos solos locais, clima e acidentado do terreno, a floresta plantada desempenha um importante papel de protecção, sendo que a proporção relativa que cada uma daquelas ocupa é de cerca de 35% e 65%, respectivamente para a floresta de produção e para a de protecção.
 
@@ -2538,7 +2549,7 @@ QUADRO
 
 Áreas (ha) exploradas por espécie e por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 No Quadro seguinte apresentam-se estes valores traduzidos no volume de material lenhoso cortado, por espécie, para o global dos Açores.
 
@@ -2546,7 +2557,7 @@ QUADRO
 
 Áreas e volumes explorados por espécie
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Da leitura destes quadros destaca-se, de imediato, o facto do eucalipto ter sido a espécie mais cortada em área e volume.
 
@@ -2582,7 +2593,7 @@ QUADRO
 
 Principais utilizações da madeira de outras espécies
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 O subsector das carpintarias/marcenarias representa cerca de 88% do sector florestal. A maior proporção encontra-se estabelecida na ilha Terceira seguindo-se a ilha de S. Miguel.
 
@@ -2608,7 +2619,7 @@ QUADRO
 
 Mão-de-obra afecta a cada subsector
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 No que concerne à classe etária dos operários/outros, em 2004, verificou-se que se tratava de um sector relativamente jovem por toda a Região, como podemos constatar no quadro seguinte.
 
@@ -2616,7 +2627,7 @@ QUADRO
 
 Classe etária dos operários/outros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Quanto ao nível de escolaridade (Quadro seguinte), verificou-se que da totalidade dos operários, apenas 5 detinham escolaridade ao nível do ensino médio ou superior, sendo que se encontravam na totalidade a trabalhar na ilha de S. Miguel.
 
@@ -2624,7 +2635,7 @@ QUADRO
 
 Nível de escolaridade dos operários/outros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Para se ter uma noção mais correcta da expressão do sector florestal e da sua fileira em termos da mão-de-obra empregue, deve-se adicionar aos valores referidos os correspondentes ao sector público, nomeadamente da Direcção Regional dos Recursos e seus serviços operativos que empregavam 490 activos, sendo 32 técnicos e técnicos superiores (6%), 32 administrativos (8%) e os restantes 420 (12%) dispersos por várias categorias no seu conjunto equivalentes ao grupo dos operário/outros.
 
@@ -2660,7 +2671,7 @@ QUADRO
 
 Total de projectos activos no âmbito REG. (CEE) n.º [2080/92](https://data.europa.eu/eli/reg/1992/2080/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Relativamente ao quadro acima, verifica-se que 46,5% da área total arborizada foi em S. Miguel, com um ritmo de arborização de aproximadamente 100 ha por ano, seguindo-se a ilha do Pico com 15% da área total arborizada no âmbito da florestação de terras agrícolas, numa média de 32,7 ha por ano, a ilha das Flores com um peso de 14,7% na arborização a um ritmo de cerca de 32,0 ha arborizados por ano e a ilha Terceira com 12,6% de área agrícola florestada a um ritmo de 27,4 ha. As ilhas de S. Jorge, Faial e Santa Maria contribuíram igualmente para o sucesso desta medida, num total de 11,2% a um ritmo de arborização de 23,9 ha repartidos pelas 3 ilhas.
 
@@ -2676,7 +2687,7 @@ QUADRO
 
 Acção Florestas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 Verifica-se desta forma que a maior percentagem de investimento é feita em S. Miguel com 68% do investimento, seguindo-se o Pico com 23%, e as ilhas Terceira, Faial e S. Maria com investimento conjunto em 9% da área total.
 
@@ -2716,7 +2727,7 @@ QUADRO
 
 Total de projectos activos no âmbito do PDRu Açores - Florestação de terras agrícolas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 As espécies mais utilizadas na arborização das áreas agrícolas foram:
 
@@ -2756,7 +2767,7 @@ A despesa da Região para a totalidade dos projectos aprovados foi de (euro) 151
 
 No período de 2000 a 2006, a média global de arborização nos Açores ao abrigo do PRODESA, foi de 185,0 ha/ano, sendo significativamente maior do que a média verificada no período 1995-1999, a qual foi de cerca de 86,7 ha/ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17900/67306809.pdf)
 
 C) O papel da floresta nos Açores.
 

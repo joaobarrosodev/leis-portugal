@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/2/2005/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2005-457209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8a2602ca8b073c62d72094e38e268bb9588711638fdc5c99ee232bb1fd8ff88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1538a2d1518b0f8c52ecab1c13a6ee1974e58ac86a23b706f7841dc578903de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,18 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Plano Director Municipal
-- Rede de Estradas
 - Política de Solos
+- Rede de Estradas
 - Regulamento
 - VILA NOVA de Paiva
 relationships:
+- type: amended_by
+  target: pt:dre:59039542:por
+  label: Alterado o Plano Diretor Municipal de Vila Nova de Paiva, ratificado pela Res 13/94, de 15 -mar, da PCM, na redação
+    e republicação da presente Resolução, na redação por adaptação, pelo Av 276/2009 de 06-jan e pelo Av 11.595/2011 de 25-maio
+    pelo(a) Aviso n.º 13159/2014 - Diário da República n.º 229/2014, Série II de 2014-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13159-2014-59039542
+  date: '2014-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/168/1997/07/04/p/dre
   label: null
@@ -112,16 +119,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/13/1994/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/13/1994/03/15/p/dre
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
-  article_count: 119
+  article_count: 68
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:41Z'
   warnings: []
   errors: []
 ---
@@ -274,7 +381,7 @@ Encontram-se sujeitas ao regime florestal as áreas assinaladas na planta de con
 
 Estão sujeitos, pelo prazo de 10 anos a contar da data do fogo, a restrições à alteração do uso do solo os terrenos percorridos por incêndios, conforme previsto na legislação aplicável.
 
-###### Artigo 10.º (anterior artigo 8.º)
+Artigo 10.º (anterior artigo 8.º)
 
 [...]
 
@@ -318,19 +425,19 @@ Eira comunitária e espigueiros de Fráguas (exemplo na ficha 37);
 
 Diversas igrejas, capelas e cruzeiros (fichas 6, 9, 12, 13, 18, 19, 23, 25, 26, 28 e 29).
 
-###### Artigo 11.º (anterior artigo 9.º)
+Artigo 11.º (anterior artigo 9.º)
 
-###### Artigo 12.º (anterior artigo 10.º)
+Artigo 12.º (anterior artigo 10.º)
 
-###### Artigo 13.º (anterior artigo 11.º)
+Artigo 13.º (anterior artigo 11.º)
 
-###### Artigo 14.º (anterior artigo 12.º)
+Artigo 14.º (anterior artigo 12.º)
 
-###### Artigo 15.º (anterior artigo 13.º)
+Artigo 15.º (anterior artigo 13.º)
 
-###### Artigo 16.º (anterior artigo 14.º)
+Artigo 16.º (anterior artigo 14.º)
 
-###### Artigo 17.º (anterior artigo 15.º)
+Artigo 17.º (anterior artigo 15.º)
 
 [...]
 
@@ -338,19 +445,19 @@ Diversas igrejas, capelas e cruzeiros (fichas 6, 9, 12, 13, 18, 19, 23, 25, 26, 
 
 2 - ...
 
-###### Artigo 18.º (anterior artigo 16.º)
+Artigo 18.º (anterior artigo 16.º)
 
-###### Artigo 19.º (anterior artigo 17.º)
+Artigo 19.º (anterior artigo 17.º)
 
-###### Artigo 20.º (anterior artigo 18.º)
+Artigo 20.º (anterior artigo 18.º)
 
 Rede de telecomunicações
 
 A execução de edificações nas proximidades das instalações de telecomunicações deverá respeitar as disposições legais em vigor sobre a protecção àquelas instalações.
 
-###### Artigo 21.º (anterior artigo 19.º)
+Artigo 21.º (anterior artigo 19.º)
 
-###### Artigo 22.º (anterior artigo 20.º)
+Artigo 22.º (anterior artigo 20.º)
 
 [...]
 
@@ -364,7 +471,7 @@ A execução de edificações nas proximidades das instalações de telecomunica
 
 2 - É interdita a edificação nas zonas non aedificandi que são definidas na legislação aplicável.
 
-###### Artigo 24.º (anterior artigo 21.º)
+Artigo 24.º (anterior artigo 21.º)
 
 Rede rodoviária municipal colectora
 
@@ -394,17 +501,17 @@ f) [Anterior alínea e).]
 
 7 - ...
 
-###### Artigo 25.º (anterior artigo 22.º)
+Artigo 25.º (anterior artigo 22.º)
 
-###### Artigo 26.º (anterior artigo 23.º)
+Artigo 26.º (anterior artigo 23.º)
 
-###### Artigo 27.º (anterior artigo 24.º)
+Artigo 27.º (anterior artigo 24.º)
 
-###### Artigo 28.º (anterior artigo 25.º)
+Artigo 28.º (anterior artigo 25.º)
 
-###### Artigo 29.º (anterior artigo 26.º)
+Artigo 29.º (anterior artigo 26.º)
 
-###### Artigo 30.º (anterior artigo 27.º)
+Artigo 30.º (anterior artigo 27.º)
 
 [...]
 
@@ -446,7 +553,7 @@ Número de pisos máximo - o dominante no local e nunca superior a 5.
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 31.º (anterior artigo 28.º)
+Artigo 31.º (anterior artigo 28.º)
 
 [...]
 
@@ -476,13 +583,13 @@ a) ...
 
 b) Obter parecer favorável da Comissão de Coordenação de Desenvolvimento Regional do Centro.
 
-###### Artigo 32.º (anterior artigo 29.º)
+Artigo 32.º (anterior artigo 29.º)
 
-###### Artigo 33.º (anterior artigo 30.º)
+Artigo 33.º (anterior artigo 30.º)
 
-###### Artigo 34.º (anterior artigo 31.º)
+Artigo 34.º (anterior artigo 31.º)
 
-###### Artigo 35.º (anterior artigo 32.º)
+Artigo 35.º (anterior artigo 32.º)
 
 [...]
 
@@ -514,7 +621,7 @@ Altura máxima de edificação - 2,5 m ao beirado.
 
 ...
 
-###### Artigo 36.º (anterior artigo 33.º)
+Artigo 36.º (anterior artigo 33.º)
 
 [...]
 
@@ -522,9 +629,9 @@ Altura máxima de edificação - 2,5 m ao beirado.
 
 2 - Os projectos de equipamentos devem ser acompanhados por um estudo de integração urbana, devendo ser previsto estacionamento com capacidade adequada aos usos previstos. Os parâmetros urbanísticos a considerar para a edificação serão os constantes do artigo 30.º, n.º 5, alínea a), com uma majoração de 30%, enquanto para o estacionamento se aplicará o disposto no artigo 32.º
 
-###### Artigo 37.º (anterior artigo 34.º)
+Artigo 37.º (anterior artigo 34.º)
 
-###### Artigo 38.º (anterior artigo 35.º)
+Artigo 38.º (anterior artigo 35.º)
 
 [...]
 
@@ -556,7 +663,7 @@ b) Número de pisos máximo - o dominante no local e nunca superior a 3.
 
 Aos aglomerados aplica-se o disposto no artigo 29.º e no n.º 6 do artigo 30.º
 
-###### Artigo 39.º (anterior artigo 36.º)
+Artigo 39.º (anterior artigo 36.º)
 
 [...]
 
@@ -564,13 +671,13 @@ Aos aglomerados aplica-se o disposto no artigo 29.º e no n.º 6 do artigo 30.º
 
 2 - Sempre que as condições urbanísticas não permitam a aplicação destes valores, deverão as condições a encontrar aproximar-se o mais possível dos parâmetros indicados, tendo em consideração ainda os n.os 3 e 4 do artigo 32.º
 
-###### Artigo 40.º (anterior artigo 37.º)
+Artigo 40.º (anterior artigo 37.º)
 
 Zonas de equipamento e áreas verdes
 
 São previstas nos aglomerados zonas de equipamento e áreas verdes, as primeiras destinadas exclusivamente à instalação de equipamento e serviços de interesse público e utilização colectiva, às quais se aplica o disposto no artigo 36.º Nas áreas verdes aplicam-se os artigos 34.º e 35.º
 
-###### Artigo 41.º (anterior artigo 38.º)
+Artigo 41.º (anterior artigo 38.º)
 
 [...]
 
@@ -616,7 +723,7 @@ Dois pisos e altura máxima de 7,5 m;
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 42.º (anterior artigo 39.º)
+Artigo 42.º (anterior artigo 39.º)
 
 [...]
 
@@ -684,7 +791,7 @@ No caso da alínea e), a área mínima de terreno deverá ser de 5000 m2, o índ
 
 5 - ...
 
-###### Artigo 43.º (anterior artigo 40.º)
+Artigo 43.º (anterior artigo 40.º)
 
 [...]
 
@@ -702,37 +809,37 @@ No caso da alínea e), a área mínima de terreno deverá ser de 5000 m2, o índ
 
 7 - Nas zonas industriais respeitar-se-á o estipulado no n.º 6 do artigo 30.º
 
-###### Artigo 44.º (anterior artigo 41.º)
+Artigo 44.º (anterior artigo 41.º)
 
-###### Artigo 45.º (anterior artigo 42.º)
+Artigo 45.º (anterior artigo 42.º)
 
 1 - ...
 
 2 - Aplicam-se às comunicações viárias e espaços-canais as disposições contidas nos artigos 22.º, 23.º, 24.º e 25.º do presente Regulamento.
 
-###### Artigo 46.º (anterior artigo 43.º)
+Artigo 46.º (anterior artigo 43.º)
 
-###### Artigo 47.º (anterior artigo 44.º)
+Artigo 47.º (anterior artigo 44.º)
 
-###### Artigo 48.º (anterior artigo 45.º)
+Artigo 48.º (anterior artigo 45.º)
 
-###### Artigo 49.º (anterior artigo 46.º)
+Artigo 49.º (anterior artigo 46.º)
 
-###### Artigo 50.º (anterior artigo 53.º)
+Artigo 50.º (anterior artigo 53.º)
 
-###### Artigo 51.º (anterior artigo 54.º)
+Artigo 51.º (anterior artigo 54.º)
 
-###### Artigo 52.º (anterior artigo 55.º)
+Artigo 52.º (anterior artigo 55.º)
 
-###### Artigo 53.º (anterior artigo 56.º)
+Artigo 53.º (anterior artigo 56.º)
 
-###### Artigo 54.º (anterior artigo 57.º)
+Artigo 54.º (anterior artigo 57.º)
 
-###### Artigo 55.º (anterior artigo 58.º)
+Artigo 55.º (anterior artigo 58.º)
 
-###### Artigo 56.º (anterior artigo 59.º)
+Artigo 56.º (anterior artigo 59.º)
 
-###### Artigo 57.º (anterior artigo 60.º)
+Artigo 57.º (anterior artigo 60.º)
 
 [...]
 
@@ -748,13 +855,13 @@ c) Qualquer ajustamento só terá eficácia depois de aprovado pela Assembleia M
 
 3 - ...
 
-###### Artigo 58.º (anterior artigo 61.º)
+Artigo 58.º (anterior artigo 61.º)
 
-###### Artigo 59.º (anterior artigo 62.º)
+Artigo 59.º (anterior artigo 62.º)
 
-###### Artigo 60.º (anterior artigo 63.º)
+Artigo 60.º (anterior artigo 63.º)
 
-###### Artigo 61.º (anterior artigo 64.º)
+Artigo 61.º (anterior artigo 64.º)
 
 REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DE VILA NOVA DE PAIVA
 
@@ -1376,7 +1483,7 @@ b) Obter parecer favorável da Comissão de Coordenação e Desenvolvimento Regi
 
 1 - O número de lugares de estacionamento a prever nas zonas residenciais e industriais da sede do concelho de Vila Nova de Paiva não será inferior aos definidos no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003b00/00500067.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003b00/00500067.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003b00/00500067.pdf)
 
 2 - Sempre que as condições urbanísticas não permitam a aplicação destes valores, deverão as soluções a encontrar aproximar-se o mais possível dos parâmetros indicados. Nos edifícios destinados a comércio e serviços, indústria e armazéns e hotelaria e similares deverá ser prevista, no interior do lote, a área necessária à carga e descarga de veículos pesados e ao estabelecimento dos mesmos, em número a determinar caso a caso. Ao comércio grossista aplica-se o [Decreto-Lei n.º 190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779).
 
@@ -1514,7 +1621,7 @@ b) Número de pisos máximo - o dominante no local e nunca superior a 3.
 
 1 - O número de lugares de estacionamento a prever nas zonas residenciais dos aglomerados, com excepção da sede concelhia, não deverá ser inferior ao definido no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003b00/00500067.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003b00/00500067.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003b00/00500067.pdf)
 
 2 - Sempre que as condições urbanísticas não permitam a aplicação destes valores, deverão as condições a encontrar aproximar-se o mais possível dos parâmetros indicados, tendo em consideração ainda os n.os 3 e 4 do artigo 32.º
 

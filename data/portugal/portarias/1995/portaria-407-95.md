@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/105b00/25542554.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/407/1995/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-1995-514403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 074316b9faeea7df7229758a44e8826756e8c3bfc68948bd3806c94a124645db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 048349b9cd5c554bbc72b582c0f355c09d418039ed82ee7754def78735896047
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/662/1994/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/662/1994/07/19/p/dre
+- type: cites
+  target: pt:dre:220888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625619:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222775:por
+  label: "Revogada pela PORT.945/98.1998.10.31.PCM DR.IS-B [252]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/945-1998-222775
+  date: '1998-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:50Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +146,7 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 2 do artigo 1.º
 
 Ministério das Finanças.
 
-**Assinada em 15 de Março de 1995.**
+Assinada em 15 de Março de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
 
@@ -117,4 +154,4 @@ Mapa anexo à Portaria n.º 407/95
 
 Gabinete de Estudos Económicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/105b00/25542554.pdf))](https://files.diariodarepublica.pt/1s/1995/05/105b00/25542554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/105b00/25542554.pdf)

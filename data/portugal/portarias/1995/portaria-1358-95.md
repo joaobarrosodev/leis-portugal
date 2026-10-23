@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1358/1995/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1358-1995-691656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3beb5fc9e9e6f82abea7ff12aae6d07fa0e90f1bc1eb9fe1a7291f5471a486c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf9c1d3d18a5bb8c375efb2981edd7255ea1305c94d7b03929a8611de9c72a6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/250/1995/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/250/1995/09/21/p/dre
+- type: cites
+  target: pt:dre:566655:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:09Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +119,6 @@ Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
 
 Ministério da Administração Interna
 
-**Assinada em 28 de Setembro de 1995.**
+Assinada em 28 de Setembro de 1995.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.

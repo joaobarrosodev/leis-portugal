@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/078b00/18381839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/262/1995/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/262-1995-174520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e8ac6b2b5b1137769a105c6f65893b5ad75bd6c1133f3d9b01985a8d9f89609
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92fad18e03321ac526e3e0f310066fba04ffb210e75806ea2429228d9dbc1e33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Concurso Público
 - Inspecção de Veículos
-- Segurança Rodoviária
 - Norma
+- Segurança Rodoviária
 relationships:
 - type: amended_by
   target: pt:dre:655940:por
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
+- type: cites
+  target: pt:dre:298975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655940:por
+  label: "Revogada pelo DEC LEI.550/99.1999.12.15.MAI,DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-1999-655940
+  date: '1999-12-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:21Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +163,7 @@ d) Interdição da localização de novos centros a menos de 20 km de outro, ou 
 
 Ministério da Administração Interna.
 
-**Assinada em 23 de Fevereiro de 1995.**
+Assinada em 23 de Fevereiro de 1995.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.
 

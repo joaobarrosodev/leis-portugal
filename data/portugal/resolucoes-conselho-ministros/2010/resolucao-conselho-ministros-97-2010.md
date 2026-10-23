@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/97/2010/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2010-307186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0f6954bc65f6d429d707ad08ee6f64296ec3f01cc693fa461fc38fdf2ef7f3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 515a207f7af26f8384192e9c0a1251e7b820d8047067f6b6d3176ebeb2312db7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acesso ao Emprego
-- Modernização Administrativa
+- Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
+- Deficiente
+- Definição de Competências
 - Educação Especial
 - Formação Profissional
-- Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Definição de Competências
 - Grupo de Trabalho
+- Instituto Nacional para a Reabilitação
+- Modernização Administrativa
 - Programa Simplex
 - Proteção ao Deficiente
-- Sistema de Informação
 - Qualidade de VIDA
-- Instituto Nacional para a Reabilitação
+- Sistema de Informação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:18Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +157,7 @@ Este segundo objectivo é constituído, essencialmente, por medidas de sensibili
 
 Considera-se assim prioritária a sensibilização e a formação dos profissionais que se dedicam ao atendimento público.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)
 
 Eixo n.º 2, «Justiça e exercício de direitos»
 
@@ -165,7 +165,7 @@ O eixo «Justiça e exercício de direitos» incide na produção de novos diplo
 
 Esta perspectiva complementa-se com a definição ou criação de condições que facilitem o acesso das pessoas com deficiências e incapacidades às instituições jurídicas, e outras condições que acautelam a defesa dos seus direitos fundamentais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)
 
 Eixo n.º 3, «Autonomia e qualidade de vida»
 
@@ -177,7 +177,7 @@ No campo da formação profissional, emprego e qualificação ao longo da vida, 
 
 De referir, ainda, as medidas que programam a curto prazo um aumento bastante significativo da capacidade instalada no país de equipamentos sociais para a deficiência, com destaque para as residências autónomas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)
 
 Eixo n.º 4, «Acessibilidades e design para todos»
 
@@ -191,7 +191,7 @@ Perspectiva-se também a criação de dispositivos que facilitam a mobilidade e 
 
 No plano das acessibilidades tecnológicas propõe-se que a uniformização das plataformas de informação e que a investigação estejam mais direccionadas para as pessoas com necessidades especiais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)
 
 Eixo n.º 5, «Modernização administrativa e sistemas de informação»
 
@@ -199,4 +199,4 @@ O eixo «Modernização administrativa e sistemas de informação» convoca medi
 
 São objectivos concretos deste eixo a desmaterialização de processos integrados através do Programa SIMPLEX, a garantia da acessibilidade em sítios electrónicos dos organismos públicos, a produção de informação em formatos acessíveis e a promoção de mais conhecimento sobre o fenómeno da deficiência que potencie o desenvolvimento de políticas públicas mais sustentadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24000/0566605677.pdf)

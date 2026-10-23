@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21200/0000200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/127/2023/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/127-2023-223650973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edc3662de009b0a6d130a250e7eaa87fb456ef7198efd85e2fdeb313c10d88db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6a9b3e54b62a70ce583ead585b715448239ade98e920fa76101e0c82026d62e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento
 - Assembleia da República
+- Orçamento
 - Receita
 relationships:
 - type: cites
@@ -113,16 +113,160 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
+- type: cites
+  target: pt:dre:123407852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124346822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172420961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219915285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2417869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3104813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:49Z'
   warnings: []
   errors: []
 ---
@@ -135,23 +279,29 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 20 de outubro de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 ## ANEXO — Mapa da Receita OAR2024
 
-![](https://files.diariodarepublica.pt/images/223650973/223652825.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223650973/223652825.png) |
+| --- |
 
 Mapa da Despesa OAR2024
 
-![](https://files.diariodarepublica.pt/images/223650973/223652826.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223650973/223652826.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223650973/223652827.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223650973/223652827.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223650973/223652828.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223650973/223652828.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223650973/223652829.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223650973/223652829.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223650973/223652830.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223650973/223652830.png) |
+| --- |
 
 Notas explicativas
 
@@ -388,3 +538,5 @@ Despesa
 100 - Lei n.º 59/90, de 21 de novembro, e artigos 48.º e 50.º da [Lei n.º 53/2005](https://diariodarepublica.pt/dr/detalhe/lei/53-2005-583192), de 8 de novembro.
 
 101 - Artigo 5.º e artigos 15.º a 22.º da Lei do Financiamento dos Partidos Políticos e das Campanhas Eleitorais.
+
+117004438

@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-1987-662325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d659133732f23a528b4a75de582db754b6c79d900de588a4a03a376222f7fb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28dfb31dea4106f501d3d6212bc12993b13e3c9b8911a203235cc5c56d8701b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auto-estrada
+- Auto-estrada da Costa do Estoril
+- Auto-estrada do SUL
+- Brisa
+- Câmara Municipal
+- CREL
+- CRIL
+- Junta Autónoma das Estradas
+- Lisboa
+- Piddac
+- Rede de Estradas
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:31:19Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +143,4 @@ Nestes termos, o Conselho de Ministros, na sua reunião de 19 de Fevereiro, reso
 
 Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/06700/11531157.pdf))](https://files.diariodarepublica.pt/1s/1987/03/06700/11531157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/03/06700/11531157.pdf)

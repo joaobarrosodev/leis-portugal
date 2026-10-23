@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/32/1995/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-1995-230533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0db7bf88af7a5524c1ce3278ba2755e7cba0a92a858edaf0744afd46071a131c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34f05b12df4d7493856b94bde1d1b5911abdf4c8099bdb86e0e1652f924573e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Regional
 - Apoio ao Investimento
+- Desenvolvimento Regional
+- Prodouro
 - Projeto de Investimento
 - QCA
-- RIO Douro
-- Prodouro
 - Recursos Naturais
 - Região Demarcada do Douro
+- RIO Douro
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/34/1995/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/34/1995/02/11/p/dre
+- type: cites
+  target: pt:dre:198144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:05Z'
   warnings: []
   errors: []
 ---
@@ -382,4 +390,4 @@ c) Pelo PPDR, no que respeita às alíneas c) a f) do n.º 5 e ao n.º 6, até a
 
 Presidência do Conselho de Ministros, 23 de Março de 1995. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/083b00/20422045.pdf))](https://files.diariodarepublica.pt/1s/1995/04/083b00/20422045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/083b00/20422045.pdf)

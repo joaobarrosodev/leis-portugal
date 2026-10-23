@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/1994/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-1994-263886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1373d1bf83ae841c91f4b1371070f6655912c6840c16d724d933ddacd5396f1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39a5128e08922b8fe223c61da0f0098fee4b60a6b3b3f57543071cd8d3084217
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,6 +78,29 @@ relationships:
   target: pt:dre:245284:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A REDACÇÃO DOS ART 9, 10, 14, 20 E 28 PELA PORT 87/96 DE 21-MAR DR.IS-B [69]\0 [69]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-03-21'
+- type: amended_by
+  target: pt:dre:534648:por
+  label: "Alterada a redacção dos artigos 9.º, 10.º, 14.º, 20.º e 28.º do Regulamento Técnico da Produção de Sementes de Espécies\
+    \ de Cereais, pela PORT.87/96.21.03.1996.MADRP, DR.IS-B [69] de 21.03.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/87-1996-534648
+  date: '1996-03-21'
+- type: amended_by
+  target: pt:dre:478248:por
+  label: "Substituida a abreviatura \"CEE\" pela abreviatura \"CE\" no art. 33º do Regulamento Técnico de Produção de Sementes\
+    \ de Espécies de Cereais, pelo DEC LEI.169/98.1998.06.25.MADRP, DR.IS-A [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1998-478248
+  date: '1998-06-25'
+- type: amended_by
+  target: pt:dre:372854:por
+  label: "Alterados os arts. 2º, 10º, 20º e 22º, com a redacção conferida pela Port 87/96 de 21-Mar, e aditado o art. 22º-A\
+    \ pelo DEC LEI.207/2001.2001.07.27.MADRP DR.IS-A [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2001-372854
+  date: '2001-07-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/318/1991/08/23/p/dre
   label: null
@@ -90,16 +113,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/159/1992/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/159/1992/03/12/p/dre
+- type: cites
+  target: pt:dre:168052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403299:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:245284:por
+  label: "Revogada pelo DEC LEI.144/2005.26.08.2005.MADRP, DR.IS-A [164] de 26.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2005-245284
+  date: '2005-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:57Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +164,7 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 12 de Abril de 1994.**
+Assinada em 12 de Abril de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -128,7 +172,7 @@ Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º - 1 - O presente Regulamento aplica-se à produção de sementes de cereais, a admitir à comercialização das variedades pertencentes aos géneros e espécies seguintes:
+Artigo 1.º - 1 - O presente Regulamento aplica-se à produção de sementes de cereais, a admitir à comercialização das variedades pertencentes aos géneros e espécies seguintes:
 
 Aveia (Avena sativa L.);
 
@@ -176,7 +220,7 @@ g) Híbrido intervarietal: 1.ª geração de um cruzamento, definido pelo obtent
 
 ### CAPÍTULO II — Admissão à produção
 
-###### Art. 2.º São admitidas à produção as seguintes categorias de sementes:
+Art. 2.º São admitidas à produção as seguintes categorias de sementes:
 
 a) Semente pré-base;
 
@@ -236,13 +280,13 @@ ii) Não se destinem à produção de semente;
 
 iii) Obedeçam às condições constantes dos artigos 9.º e 27.º para semente certificada de 2.ª geração e para as quais se tenha verificado, num exame oficial, que essas condições foram respeitadas.
 
-###### Art. 3.º As entidades admitidas à produção de sementes, que pode ser feita separada ou simultaneamente, são:
+Art. 3.º As entidades admitidas à produção de sementes, que pode ser feita separada ou simultaneamente, são:
 
 a) O produtor de semente base - a entidade que procede à multiplicação por uma ou várias gerações de semente da categoria do melhorador até à obtenção da semente da categoria base, segundo as exigências do esquema de certificação;
 
 b) O produtor de semente certificada - a entidade que procede directamente à produção de semente certificada, segundo as exigências do esquema de certificação, ou que promove esta produção pelo recurso a agricultor-multiplicador, mediante acordos ou contratos prévios.
 
-###### Art. 4.º - 1 - Os produtores de semente base, além de cumprirem os requisitos constantes do Estatuto da Produção de Sementes, a que se refere a [Portaria n.º 148/92](https://diariodarepublica.pt/dr/detalhe/portaria/148-1992-168052), de 10 de Março, devem obedecer ainda às seguintes disposições:
+Art. 4.º - 1 - Os produtores de semente base, além de cumprirem os requisitos constantes do Estatuto da Produção de Sementes, a que se refere a [Portaria n.º 148/92](https://diariodarepublica.pt/dr/detalhe/portaria/148-1992-168052), de 10 de Março, devem obedecer ainda às seguintes disposições:
 
 a) Não delegar na mesma entidade a produção de sementes de mais de 10 variedades da mesma espécie sem autorização expressa da Direcção de Serviços de Controlo de Qualidade de Sementes e Propagação Vegetativa (DSCQSPV);
 
@@ -262,17 +306,17 @@ b) Cumprir o definido na alínea e) do número anterior;
 
 c) A área mínima de cada campo de multiplicação de semente certificada não pode ser inferior a 1 ha, salvo nos casos devidamente justificados perante a DSCQSPV.
 
-###### Art. 5.º Aos agricultores-multiplicadores não é permitida a celebração de contratos de multiplicação de sementes com produtores das mesmas, desde que daí resulte o não cumprimento do disposto nas alíneas a) e b) do n.º 2 do artigo anterior.
+Art. 5.º Aos agricultores-multiplicadores não é permitida a celebração de contratos de multiplicação de sementes com produtores das mesmas, desde que daí resulte o não cumprimento do disposto nas alíneas a) e b) do n.º 2 do artigo anterior.
 
-###### Art. 6.º - 1 - Os produtores devem fornecer informações sobre as culturas efectuadas anteriormente em cada campo de produção de sementes.
+Art. 6.º - 1 - Os produtores devem fornecer informações sobre as culturas efectuadas anteriormente em cada campo de produção de sementes.
 
 2 - Várias culturas sucessivas da mesma variedade e da mesma categoria de semente podem ser feitas no mesmo campo sem intervalo de tempo, com a condição de a pureza varietal ser mantida de modo satisfatório.
 
 ### CAPÍTULO III — Controlo de campos de multiplicação
 
-###### Art. 7.º A cultura precedente não deve ser incompatível com a produção de semente da espécie e variedade em questão e o campo deve estar suficientemente livre de plantas provenientes de semente da cultura anterior.
+Art. 7.º A cultura precedente não deve ser incompatível com a produção de semente da espécie e variedade em questão e o campo deve estar suficientemente livre de plantas provenientes de semente da cultura anterior.
 
-###### Art. 8.º - 1 - Os campos de multiplicação de semente de Avena sativa, Hordeum vulgare, Oryza sativa, Phalaris canariensis, X Triticosecale, Triticum aestivum, Triticum durum, Triticum spelta e Secale cereale estão sujeitos, pelo menos, a duas inspecções, de acordo com o seguinte:
+Art. 8.º - 1 - Os campos de multiplicação de semente de Avena sativa, Hordeum vulgare, Oryza sativa, Phalaris canariensis, X Triticosecale, Triticum aestivum, Triticum durum, Triticum spelta e Secale cereale estão sujeitos, pelo menos, a duas inspecções, de acordo com o seguinte:
 
 a) Na antese ou no início da maturação do grão;
 
@@ -290,17 +334,17 @@ c) À maturação do grão.
 
 4 - Nas inspecções referidas nos números anteriores utilizam-se os métodos prescritos pela OCDE.
 
-###### Art. 9.º Os campos de multiplicação de semente devem ser isolados da contaminação por pólen estranho, em particular para o caso de Sorghum spp., de fontes de pólen de Sorghum halepense, de acordo com o seguinte quadro:
+Art. 9.º Os campos de multiplicação de semente devem ser isolados da contaminação por pólen estranho, em particular para o caso de Sorghum spp., de fontes de pólen de Sorghum halepense, de acordo com o seguinte quadro:
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf))](https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf)
 
-###### Art. 10.º As variedades das diferentes espécies devem possuir suficiente identidade e pureza varietal.
+Art. 10.º As variedades das diferentes espécies devem possuir suficiente identidade e pureza varietal.
 
-###### Art. 11.º Para a produção de semente de variedades híbridas de Sorghum spp. e Zea mays, as disposições mencionadas no artigo 10.º devem aplicar-se também aos progenitores, incluindo androesterilidade e restauração da fertilidade.
+Art. 11.º Para a produção de semente de variedades híbridas de Sorghum spp. e Zea mays, as disposições mencionadas no artigo 10.º devem aplicar-se também aos progenitores, incluindo androesterilidade e restauração da fertilidade.
 
-###### Art. 12.º Na determinação da pureza varietal das espécies Avena sativa, Hordeum vulgare, Triticum aestivum, Triticum durum e Triticum spelta os limites máximos de plantas de outras variedades ou fora do tipo, admitidas nos campos de multiplicação, são os seguintes:
+Art. 12.º Na determinação da pureza varietal das espécies Avena sativa, Hordeum vulgare, Triticum aestivum, Triticum durum e Triticum spelta os limites máximos de plantas de outras variedades ou fora do tipo, admitidas nos campos de multiplicação, são os seguintes:
 
 a) Produção de semente pré-base e base: 0,1%;
 
@@ -308,7 +352,7 @@ b) Produção de semente certificada de 1.ª geração: 0,3%;
 
 c) Produção de semente certificada de 2.ª geração: 1%.
 
-###### Art. 13.º Na determinação da pureza varietal das variedades autofecundadas de X Triticosecale, os limites máximos de plantas de outras variedades ou fora do tipo, admitidas nos campos de multiplicação, são os seguintes:
+Art. 13.º Na determinação da pureza varietal das variedades autofecundadas de X Triticosecale, os limites máximos de plantas de outras variedades ou fora do tipo, admitidas nos campos de multiplicação, são os seguintes:
 
 a) Produção de semente pré-base e base: 0,3%;
 
@@ -316,19 +360,19 @@ b) Produção de semente certificada de 1.ª geração: 1%;
 
 c) Produção de semente certificada de 2.ª geração: 2%.
 
-###### Art. 14.º Na determinação da pureza varietal das espécies Phalaris canariensis e Secale cereale, os limites máximos de plantas de outras variedades ou fora do tipo, admitidas nos campos de multiplicação, são os seguintes:
+Art. 14.º Na determinação da pureza varietal das espécies Phalaris canariensis e Secale cereale, os limites máximos de plantas de outras variedades ou fora do tipo, admitidas nos campos de multiplicação, são os seguintes:
 
 a) Produção de semente pré-base e base: uma por 30 m2;
 
 b) Produção de semente certificada: uma por 10 m2.
 
-###### Art. 15.º Na determinação da pureza varietal da espécie Oryza sativa, o máximo de plantas reconhecidamente selvagens ou de grão vermelho (rajado) não deverá exceder:
+Art. 15.º Na determinação da pureza varietal da espécie Oryza sativa, o máximo de plantas reconhecidamente selvagens ou de grão vermelho (rajado) não deverá exceder:
 
 a) Produção de semente pré-base e base: zero;
 
 b) Produção de semente certificada: uma por 50 m2.
 
-###### Art. 16.º Na determinação da pureza varietal da espécie de Zea mays, a percentagem máxima de plantas reconhecidamente não conformes com a variedade, a linha pura ou o progenitor é de:
+Art. 16.º Na determinação da pureza varietal da espécie de Zea mays, a percentagem máxima de plantas reconhecidamente não conformes com a variedade, a linha pura ou o progenitor é de:
 
 a) Para a produção de semente base:
 
@@ -358,7 +402,7 @@ ii) Sempre que necessário, deve proceder-se ao desbandeiramento;
 
 iii) Quando 5% ou mais das plantas do progenitor feminino tiverem estigmas receptivos, a percentagem de plantas deste progenitor emitindo pólen não deve exceder 1% em qualquer das inspecções de campo ou 2% no total destas inspecções, considerando-se que as plantas emitiram ou estão a emitir pólen quando sobre 5 cm ou mais dos eixos central ou laterais da panícula as anteras emergiram da gluma e estão ou estiveram a emitir pólen.
 
-###### Art. 17.º Na determinação da pureza varietal de Sorghum spp., a percentagem máxima de plantas reconhecidamente não conformes com a linha pura ou o progenitor ou de plantas de uma espécie diferente de sorgo é de:
+Art. 17.º Na determinação da pureza varietal de Sorghum spp., a percentagem máxima de plantas reconhecidamente não conformes com a linha pura ou o progenitor ou de plantas de uma espécie diferente de sorgo é de:
 
 a) Para a produção de sementes base:
 
@@ -390,15 +434,15 @@ i) Produção de semente pré-base e base: uma por 30 m2;
 
 ii) Produção de semente certificada: uma por 10 m2.
 
-###### Art. 18.º Os campos contendo infestantes em número excessivo devem ser reprovados.
+Art. 18.º Os campos contendo infestantes em número excessivo devem ser reprovados.
 
-###### Art. 19.º Organismos nocivos, susceptíveis de reduzir o valor da semente, em particular do grupo Ustilaginales (cáries e morrões ou carvões), deverão estar presentes no mais baixo nível possível.
+Art. 19.º Organismos nocivos, susceptíveis de reduzir o valor da semente, em particular do grupo Ustilaginales (cáries e morrões ou carvões), deverão estar presentes no mais baixo nível possível.
 
 ### CAPÍTULO IV — Controlo dos lotes de semente produzida
 
-###### Art. 20.º As sementes devem possuir suficiente identidade e pureza varietal, devendo para as sementes de variedades híbridas de Sorghum spp. e Zea mays estas condições aplicar-se aos progenitores.
+Art. 20.º As sementes devem possuir suficiente identidade e pureza varietal, devendo para as sementes de variedades híbridas de Sorghum spp. e Zea mays estas condições aplicar-se aos progenitores.
 
-###### Art. 21.º A pureza varietal de variedades não híbridas de Avena sativa, Hordeum vulgare, Oryza sativa, Triticum aestivum, Triticum durum e Triticum spelta devem ser no mínimo de:
+Art. 21.º A pureza varietal de variedades não híbridas de Avena sativa, Hordeum vulgare, Oryza sativa, Triticum aestivum, Triticum durum e Triticum spelta devem ser no mínimo de:
 
 a) Semente base: 99,9%;
 
@@ -406,7 +450,7 @@ b) Semente certificada de 1.ª geração: 99,7%;
 
 c) Semente certificada de 2.ª geração: 99%.
 
-###### Art. 22.º A pureza varietal de variedades autofecundadas de X Triticosecale deve ser no mínimo de:
+Art. 22.º A pureza varietal de variedades autofecundadas de X Triticosecale deve ser no mínimo de:
 
 a) Semente base: 99,7%;
 
@@ -414,37 +458,37 @@ b) Semente certificada de 1.ª geração: 99%;
 
 c) Semente certificada de 2.ª geração: 98%.
 
-###### Art. 23.º Quando para a produção de semente certificada de variedades híbridas de Sorghum spp. e Zea mays for utilizado um progenitor feminino androestéril e um progenitor masculino que não restaure a androfertilidade, a semente será produzida:
+Art. 23.º Quando para a produção de semente certificada de variedades híbridas de Sorghum spp. e Zea mays for utilizado um progenitor feminino androestéril e um progenitor masculino que não restaure a androfertilidade, a semente será produzida:
 
 a) Quer por mistura de lotes, em proporção adequada à variedade, em que num tenha sido utilizado um progenitor feminino androestéril e noutro um progenitor feminino androfértil;
 
 b) Quer cultivando o progenitor feminino androestéril e o progenitor feminino androfértil, em proporção adequada à variedade, devendo a proporção destes progenitores ser examinada nas inspecções de campo de acordo com as condições previstas no capítulo III.
 
-###### Art. 24.º A mistura de lotes de semente pré-base não é permitida.
+Art. 24.º A mistura de lotes de semente pré-base não é permitida.
 
-###### Art. 25.º A mistura de lotes de semente base provenientes de campos de multiplicação diferentes apenas será realizada se:
+Art. 25.º A mistura de lotes de semente base provenientes de campos de multiplicação diferentes apenas será realizada se:
 
 a) Nesses campos tiver sido utilizado o mesmo lote de semente;
 
 b) O produtor obtiver a necessária autorização da DSCQSPV.
 
-###### Art. 26.º A mistura de lotes de semente certificada obtidos em campos de multiplicação diferentes apenas poderá ser praticada se for autorizada pela DSCQSPV.
+Art. 26.º A mistura de lotes de semente certificada obtidos em campos de multiplicação diferentes apenas poderá ser praticada se for autorizada pela DSCQSPV.
 
 ### CAPÍTULO V — Certificação
 
-###### Art. 27.º Para que sejam emitidos certificados relativos a sementes pré-base, base e certificada é indispensável que os lotes de sementes submetidos à certificação satisfaçam todas as prescrições regulamentares e que as sementes tenham as características definidas no quadro II anexo ao presente Regulamento, do qual faz parte integrante.
+Art. 27.º Para que sejam emitidos certificados relativos a sementes pré-base, base e certificada é indispensável que os lotes de sementes submetidos à certificação satisfaçam todas as prescrições regulamentares e que as sementes tenham as características definidas no quadro II anexo ao presente Regulamento, do qual faz parte integrante.
 
-###### Art. 28.º Organismos nocivos, susceptíveis de reduzir o valor da semente, deverão estar presentes no mais baixo nível possível, devendo as sementes, em particular, estar de acordo com as normas seguintes, relativas a Claviceps purpurea - número máximo de esclerotos ou fragmentos de esclerotos numa amostra de peso especificado no quadro III, anexo ao presente Regulamento e do qual faz parte integrante:
+Art. 28.º Organismos nocivos, susceptíveis de reduzir o valor da semente, deverão estar presentes no mais baixo nível possível, devendo as sementes, em particular, estar de acordo com as normas seguintes, relativas a Claviceps purpurea - número máximo de esclerotos ou fragmentos de esclerotos numa amostra de peso especificado no quadro III, anexo ao presente Regulamento e do qual faz parte integrante:
 
 Semente base: um;
 
 Semente certificada: três.
 
-###### Art. 29.º Os pesos máximos dos lotes a certificar, bem como o peso mínimo das amostras para as determinações constantes dos artigos 27.º e 28.º, são os que se apresentam no quadro III.
+Art. 29.º Os pesos máximos dos lotes a certificar, bem como o peso mínimo das amostras para as determinações constantes dos artigos 27.º e 28.º, são os que se apresentam no quadro III.
 
 ### CAPÍTULO VI — Acondicionamento de sementes e emissões de certificados
 
-###### Art. 30.º - 1 - As embalagens contendo as sementes a certificar devem, aquando da amostragem, apresentar-se convenientemente fechadas e com a identificação do seu conteúdo.
+Art. 30.º - 1 - As embalagens contendo as sementes a certificar devem, aquando da amostragem, apresentar-se convenientemente fechadas e com a identificação do seu conteúdo.
 
 2 - As embalagens devem apresentar-se devidamente fechadas por meio de um sistema que impossibilite a sua abertura sem danificação do dispositivo utilizado e não revele vestígios de violação.
 
@@ -452,7 +496,7 @@ Semente certificada: três.
 
 4 - A aplicação de elementos, como os indicados no número anterior, é dispensada quando os dispositivos utilizados no fecho das embalagens não possibilitem a sua reutilização.
 
-###### Art. 31.º - 1 - A identificação do conteúdo das embalagens é assegurada por etiquetas que funcionam simultaneamente como certificados de controlo de qualidade.
+Art. 31.º - 1 - A identificação do conteúdo das embalagens é assegurada por etiquetas que funcionam simultaneamente como certificados de controlo de qualidade.
 
 2 - As etiquetas com ilhó podem utilizar-se desde que o fecho das embalagens seja assegurado pelos selos da DSCQSPV.
 
@@ -460,7 +504,7 @@ Semente certificada: três.
 
 4 - As etiquetas emitidas pela DSCQSPV não podem apresentar vestígios de utilização anterior e devem colocar-se no exterior das embalagens.
 
-###### Art. 32.º As etiquetas devem obedecer às seguintes características:
+Art. 32.º As etiquetas devem obedecer às seguintes características:
 
 a) Ser impressas sobre uma ou duas faces;
 
@@ -488,7 +532,7 @@ g) Se os caracteres forem impressos nas embalagens, devem ser iguais aos das eti
 
 h) Nas embalagens destinadas à exportação, as informações impressas nas etiquetas podem ser redigidas em francês ou inglês.
 
-###### Art. 33.º As etiquetas devem conter ainda as seguintes indicações:
+Art. 33.º As etiquetas devem conter ainda as seguintes indicações:
 
 a) Variedades não híbridas:
 
@@ -524,9 +568,9 @@ Para as sementes certificadas:
 
 As etiquetas devem conter o nome da variedade a que pertencem as sementes base, acompanhado do termo «híbrido».
 
-###### Art. 34.º No caso em que a germinação tenha sido revista, os termos «germinação revista em ... (mês e ano)» e o serviço responsável por essa revisão devem ser mencionados. Estas indicações podem ser dadas através de um autocolocante oficial aposto sobre a etiqueta oficial.
+Art. 34.º No caso em que a germinação tenha sido revista, os termos «germinação revista em ... (mês e ano)» e o serviço responsável por essa revisão devem ser mencionados. Estas indicações podem ser dadas através de um autocolocante oficial aposto sobre a etiqueta oficial.
 
-###### Art. 35.º As etiquetas e documentos previstos no caso de sementes não certificadas definitivamente devem obedecer aos requisitos constantes do artigo 11.º da [Portaria n.º 159/92](https://diariodarepublica.pt/dr/detalhe/portaria/159-1992-175318), de 12 de Março, que aprova o Regulamento Geral para a Aplicação do Esquema de Certificação de Sementes.
+Art. 35.º As etiquetas e documentos previstos no caso de sementes não certificadas definitivamente devem obedecer aos requisitos constantes do artigo 11.º da [Portaria n.º 159/92](https://diariodarepublica.pt/dr/detalhe/portaria/159-1992-175318), de 12 de Março, que aprova o Regulamento Geral para a Aplicação do Esquema de Certificação de Sementes.
 
 QUADRO III
 
@@ -534,7 +578,7 @@ QUADRO III
 
 Normas e tolerâncias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf))](https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf)
 
 QUADRO III
 
@@ -542,4 +586,4 @@ QUADRO III
 
 Peso máximo dos lotes e peso mínimo das amostras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf))](https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/111b00/25182523.pdf)

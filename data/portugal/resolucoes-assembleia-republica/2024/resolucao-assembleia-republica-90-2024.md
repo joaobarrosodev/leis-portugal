@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20500/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/90/2024/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/90-2024-892125864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a35d5b8efc2695b5877ad6326f0ad293e249c3168c142b38cf28a7253e4f983
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b18fd7c991618aeb6fe80e1c61f20fd21132786a127c2f7e7535685d8af9ca2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- União Europeia
 - Assembleia da República
+- Governo
 - Política Comunitária
 - Política Governamental
 - Relatório
-- Governo
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/21/2012/05/17/p/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
+- type: cites
+  target: pt:dre:114796179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147096350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219915286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:01Z'
   warnings: []
   errors: []
 ---
@@ -112,10 +132,12 @@ Apreciação do Relatório do Governo sobre "Portugal na União Europeia, 2023"
 
 A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, no âmbito da apreciação da participação de Portugal no processo de construção da União Europeia, durante o ano de 2023, o seguinte:
 
-1 - Exprimir um juízo favorável sobre o conteúdo geral do Relatório do Governo, nos termos do n.º 4 do artigo 5.º da [Lei n.º 43/2006](https://diariodarepublica.pt/dr/detalhe/lei/43-2006-540659), de 25 de agosto, "Acompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia", com as alterações introduzidas pelas Leis n.<sup>os</sup>[21/2012](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), de 17 de maio, [8/2018](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), de 2 de maio, [64/2020](https://diariodarepublica.pt/dr/detalhe/lei/64-2020-147096350), de 2 de novembro, e [44/2023](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), de 14 de agosto, no âmbito do processo de consulta e troca de informações entre o Governo e a Assembleia da República.
+1 - Exprimir um juízo favorável sobre o conteúdo geral do Relatório do Governo, nos termos do n.º 4 do artigo 5.º da [Lei n.º 43/2006](https://diariodarepublica.pt/dr/detalhe/lei/43-2006-540659), de 25 de agosto, "Acompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia", com as alterações introduzidas pelas Leis n.os[21/2012](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), de 17 de maio, [8/2018](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), de 2 de maio, [64/2020](https://diariodarepublica.pt/dr/detalhe/lei/64-2020-147096350), de 2 de novembro, e [44/2023](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), de 14 de agosto, no âmbito do processo de consulta e troca de informações entre o Governo e a Assembleia da República.
 
 2 - Sublinhar que a apreciação deste Relatório traduz o empenho e o consenso existentes entre as principais forças políticas representadas na Assembleia da República, quanto à integração e à participação de Portugal na União Europeia, sem prejuízo das divergências quanto às prioridades e orientações seguidas neste processo.
 
 Aprovada em 4 de outubro de 2024.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+118248186

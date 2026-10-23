@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/182/1995/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/182-1995-176074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb9e06f20f7cb6c8965f0d19045c21e433a9ae3d8637f45f7c2da9d1e16a521a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e92f303ff7669890255655c717d7fbdd54e641cfa3abaa9b014b38bb53f4aa34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Lisboa
-- Instituto Superior de Serviço Social
-- Mestrado em Serviço Social
 - Ensino Superior
+- Instituto Superior de Serviço Social
+- Lisboa
+- Mestrado em Serviço Social
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:624440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624440:por
+  label: "Alterado o anexo ao presente diploma, pela PORT.107/2005.26.01.2005.MCIES, DR.IS-B [18] de 26.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/107-2005-624440
+  date: '2005-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:28Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +147,7 @@ b) Tem a duração de quatro semestres, sendo destinados dois semestres à fase 
 
 Ministério da Educação.
 
-**Assinada em 31 de Janeiro de 1995.**
+Assinada em 31 de Janeiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
@@ -138,4 +155,4 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 Mestrado em Serviço Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/055b00/12271228.pdf))](https://files.diariodarepublica.pt/1s/1995/03/055b00/12271228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/055b00/12271228.pdf)

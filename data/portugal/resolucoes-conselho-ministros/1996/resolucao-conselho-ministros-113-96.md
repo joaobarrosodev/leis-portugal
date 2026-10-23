@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/113/1996/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/113-1996-408492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d03de67ca00bb6557402b76089f23ce8d2ce453b5b7f1b6d4640c2bbfbff6a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a7270ec07220881c37765db19fe15c189de84046f920dd19865fd1650de06f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Moura
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:553659:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538657:por
+  label: "Substituída a delimitação da Reserva Ecológica Municipal de Moura pela Res.94/2006.06.07.2006.PCM, DR.IS [150] de\
+    \ 04.08.2006, na área abrangida pelo Plano de Ordenamento das Albufeiras do Alqueva e Pedrógão (POAAP) aprovado naquele\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/94-2006-538657
+  date: '2006-07-06'
+- type: amended_by
+  target: pt:dre:553659:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional do município de Moura pela PORT.65/2012.21.03.2012.MAMAOT,\
+    \ DR.IS [58] de 21.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-2012-553659
+  date: '2012-03-21'
+- type: amended_by
+  target: pt:dre:67377730:por
+  label: Aprovada a alteração da delimitação da Reserva Ecológica Nacional do município de Moura, aprovada pela presente,
+    alterada pela Res 94/2006, de 04-ago da PCM, e pela Port 65/2012, de 21-mar, pelo(a) Despacho n.º 5955/2015 - Diário da
+    República n.º 107/2015, Série II de 2015-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5955-2015-67377730
+  date: '2015-06-03'
+- type: amended_by
+  target: pt:dre:74612747:por
+  label: Aprovada a alteração simplificada da delimitação da REN do município de Moura, aprovada pelo presente diploma, alterado
+    pela Res 94/2006, de 04-ago, pela Port 65/2012, de 21- mar e pelo Desp 5955/2015, de 03-jun pelo(a) Despacho n.º 7372/2016
+    - Diário da República n.º 108/2016, Série II de 2016-06-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/7372-2016-74612747
+  date: '2016-06-06'
+- type: amended_by
+  target: pt:dre:117434580:por
+  label: Efetuada a correção material da carta da Reserva Ecológica Nacional do Município de Moura aprovada pelo presente
+    diploma, na redação da Res 94/2006, de 04-ago PDM, da Port 65/2012, de 21- mar e dos Desp 5955/2015 de 03-jun e 7372/2016
+    de 06-jun, pelo(a) Despacho n.º 12194/2018 - Diário da República n.º 243/2018, Série II de 2018-12-18 que procede à sua
+    republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12194-2018-117434580
+  date: '2018-12-18'
+- type: amended_by
+  target: pt:dre:122202224:por
+  label: Aprovada a alteração da delimitação da Reserva Ecológica Nacional (REN) do Município de Moura aprovada pela presente
+    Resolução, pelo(a) Despacho n.º 4498/2019 - Diário da República n.º 84/2019, Série II de 2019-05-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4498-2019-122202224
+  date: '2019-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -83,16 +124,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:40Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +174,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 3 de Julho de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/173b00/21422144.pdf))](https://files.diariodarepublica.pt/1s/1996/07/173b00/21422144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/173b00/21422144.pdf)

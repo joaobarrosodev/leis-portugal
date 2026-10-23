@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/893/1994/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/893-1994-600490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88315aa3fbcacd4e925fae5460dc5541c07cb9cf20193dcccfb4e1b79c20ad60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aa1b2df036d4427a62e817f10a9ead082f290c1589858d9bab2c052a84b763f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,36 @@ relationships:
   target: pt:dre:582414:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644489:por
+  label: "Alterado o nº 1º da Port 627/94 de 15-Jul, com a redacção do presente diploma, pela Port.868/97.1997.09.11.MADRP\
+    \ DR.IS-B [210] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/868-1997-644489
+  date: '1997-09-10'
+- type: amended_by
+  target: pt:dre:582414:por
+  label: "Renovada a concessão da zona de caça associativa concessionada pela Port 627/94 de 15-Jul DR.IS-B [162] (na redacção\
+    \ do presente diploma e da Port 868/97 de 10-Set), pela PORT.714/2000.2000.09.05.MADRP, DR.IS-B [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-2000-582414
+  date: '2000-09-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/627/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/627/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:298823:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:44Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +126,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 627/94](h
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Setembro de 1994.**
+Assinada em 16 de Setembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60566056.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60566056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/229b00/60566056.pdf)

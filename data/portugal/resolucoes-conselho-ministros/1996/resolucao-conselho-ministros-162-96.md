@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/162/1996/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-1996-219364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 798a63f7a3adde114108386af1bb0a5dc7fc85d5afbb87eabe5a4f8dfa3fb1dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20abbfe1af747ed3fc4c23c7ca74dd51a48454083959ad0b1d16868ea541969a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aljezur
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:342385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333872:por
+  label: "Alterada a delimitação da Reserva Ecológica Nacional do município de Aljezur pela PORT.595/2010.29.07.2010.MAOT,\
+    \ DR.IS [146] de 29.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/595-2010-333872
+  date: '2010-07-29'
+- type: amended_by
+  target: pt:dre:66547506:por
+  label: Alterada a delimitação da Reserva Ecológica Nacional pelo(a) Av (ext) 1948/2015 - Diário da República n.º 36/2015,
+    Série II de 2015-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/1948-2015-66547506
+  date: '2015-02-20'
+- type: amended_by
+  target: pt:dre:72963322:por
+  label: Tornada pública a aprovação da alteração da delimitação da Reserva Ecológica Nacional (REN) do município de Aljezur,
+    aprovada pelo presente diploma, com as alterações constantes da Port 595/2010 de 29-jul e as publicadas pelo AV-EXT 1948/2015
+    de 20-fev, pelo(a) Aviso (extrato) n.º 15114/2015 - Diário da República n.º 253/2015, Série II de 2015-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/15114-2015-72963322
+  date: '2015-12-29'
+- type: amended_by
+  target: pt:dre:74767015:por
+  label: Tornada pública a aprovação da alteração da delimitação da Reserva Ecológica Nacional do município de Aljezur, aprovada
+    pela presente diploma, com as alterações publicadas pela Port 595/2010 de 20-jul, pelo Av-Ext 1948/2015 de 20-fev e pelo
+    Av-Ext 15114/2015 de 29-dez, pelo(a) Despacho (extrato) n.º 8147/2016 - Diário da República n.º 119/2016, Série II de
+    2016-06-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extrato/8147-2016-74767015
+  date: '2016-06-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -83,16 +110,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:342385:por
+  label: "Rectificada a segunda planta publicada em anexo da Port 595/2010 de 29-Jul, que alterou a delimitação da reserva\
+    \ ecológica nacional do município de Aljezur, aprovada pelo presente diploma, pela DECL-RECT.30/2010.27.09.2010.PCM, DR.IS\
+    \ [188] de 27.09.2010 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/30-2010-342385
+  date: '2010-09-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:32Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +167,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 29 de Agosto de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/218b00/32903291.pdf))](https://files.diariodarepublica.pt/1s/1996/09/218b00/32903291.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/218b00/32903291.pdf)

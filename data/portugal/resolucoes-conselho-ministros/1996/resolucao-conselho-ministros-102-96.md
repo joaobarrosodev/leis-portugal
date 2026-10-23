@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/102/1996/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/102-1996-422861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7547dc6d680b7a9414463b174520ccb97f54ffde44b3e82fc541118f90e5d4f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3bd64a013aef6cff922d71e42d42d57a1f170a2c0b068c702b97f851c1d76ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,51 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Administração Central
-- Financiamento
-- Turismo
-- Investigação Científica e Tecnológica
+- Autarquia Local
 - Certificado de Origem
-- Desenvolvimento Rural
-- Saneamento Básico
-- REDE Escolar
-- Ordenamento do Território
+- Comércio
 - Comparticipação do Estado
-- Serviço de Saúde
-- Desenvolvimento Regional
-- Proteção da Floresta
-- Incentivos ao Desenvolvimento
-- Ensino Primário
-- QCA
 - Criação de Emprego
-- Ministério do Ambiente
-- Proteção do Ambiente
-- Pesca Profissional
-- Desenvolvimento Urbano
-- Espécie Protegida
-- Plano de Desenvolvimento
-- Zona de Proteção
 - Desenvolvimento Económico
-- Projeto
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Desenvolvimento Urbano
+- Ensino Primário
+- Espécie Protegida
+- Financiamento
+- Incentivos ao Desenvolvimento
+- Investigação Científica e Tecnológica
+- Ministério do Ambiente
+- Ordenamento do Território
+- Pesca Profissional
+- Plano de Desenvolvimento
 - Projecto Agrícola
 - Projecto Florestal
+- Projeto
+- Proteção da Floresta
+- Proteção do Ambiente
+- QCA
 - Qualidade de VIDA
 - Qualidade do Produto
-- Abastecimento de Água
-- Comércio
-- Autarquia Local
+- REDE Escolar
+- Saneamento Básico
+- Serviço de Saúde
+- Turismo
 - Turismo de Habitação
+- Zona de Proteção
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:30Z'
   warnings: []
   errors: []
 ---

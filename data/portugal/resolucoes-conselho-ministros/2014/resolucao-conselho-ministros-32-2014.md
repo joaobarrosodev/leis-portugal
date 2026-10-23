@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/32/2014/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2014-25343716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc399ee70ff78365cf7b6c858fc6331e21d4812010d4309361fcb165479b21db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22ba64c60afefbfeb627c3c3767f3e9e5fbdf10693303963787b4ca197259b13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Bolsa de Valores
 - Caixa Geral de Depósitos
 - Capital Social
+- CMVM
 - Comissão de Acompanhamento
 - Conselho de Ministros
 - Definição de Competências
-- Primeiro-ministro
-- Mercado de Capitais
 - Governo XIX
+- Mercado de Capitais
+- Ministro de Estado e das Finanças
 - OPV
 - Parpública
 - Preço
+- Primeiro-ministro
 - Privatização
-- Ministro de Estado e das Finanças
 - Rede Elétrica Nacional
 - Ren-redes Energéticas Nacionais
-- CMVM
+- Sociedade Anónima
 - Venda Directa
 relationships:
 - type: cites
@@ -107,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/52-b/2011/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/52-b/2011/12/07/p/dre
+- type: cites
+  target: pt:dre:181979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671005:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:06Z'
   warnings: []
   errors: []
 ---

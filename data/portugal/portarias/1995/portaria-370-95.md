@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/370/1995/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-1995-223050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a907c8a2e67069459fe908094c368333bc12b498b2d425de283a76ec1630e35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50823bfcacaeb5956ad6c9218bd35bdf9698b6f3eb3d37a707fef7253502ea1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Controlo Sanitário
-- Saúde Pública
 - Limite Máximo de Resíduos
 - Medicamento Veterinário
+- Produto Alimentar
 - Produto Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:334370:por
@@ -122,16 +122,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/966/1992/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/966/1992/10/10/p/dre
+- type: repealed_by
+  target: pt:dre:334370:por
+  label: "Revogada pelo DEC LEI.148/99.1999.05.04.MADRP,DR.IS-A [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1999-334370
+  date: '1999-05-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:59Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +161,7 @@ Manda o Governo, pelo Ministro da Agricultura, ao abrigo do n.º 3 do artigo 7.�
 
 Ministério da Agricultura.
 
-**Assinada em 8 de Março de 1995.**
+Assinada em 8 de Março de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -170,53 +175,53 @@ Lista de limites máximos de resíduos (LMR) em alimentos de origem animal de ce
 
 1.2 - Sulfamidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.1.2 - Derivados de diaminopirimidina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.1.3 - Nitrofuranos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.1.4 - Nitroimidazóis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.2 - Antibióticos:
 
 1.2.1 - Penicilinas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.2.2 - Tetraciclina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.2.3 - Macrólidos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.2.4 - Tianfenicol:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.2.5 - Quinoilonas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.2.6 - Cefalosporinas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.2.7 - Florfenicol e compostos afins:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 1.2.8 - Aminoglicosídeos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 2 - Agentes antiparasitários:
 
@@ -224,21 +229,21 @@ Lista de limites máximos de resíduos (LMR) em alimentos de origem animal de ce
 
 2.1.1 - Avermectina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 2.1.2 - Benzimidazóis e pro-benzimidazóis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 2.1.3 - Tetra-hidro-imidazóis (imidazoltiazóis)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 2.1.4 - Salicinalides:
 
 2.2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 3 - Agentes activos a nível do sistema nervoso:
 
@@ -246,14 +251,14 @@ Lista de limites máximos de resíduos (LMR) em alimentos de origem animal de ce
 
 3.1.1 - Tranquilizantes butiroferrónicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 3.1.2 - Tranquilizantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
 
 3.2 - Agentes activos a nível do sistema nervoso autónomo:
 
 3.2.1 - Antiadrenérgicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099b00/24082412.pdf)

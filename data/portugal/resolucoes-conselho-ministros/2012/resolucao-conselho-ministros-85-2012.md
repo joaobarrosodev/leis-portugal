@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/85/2012/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/85-2012-176352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8de8c64f0352fd86f1dc3046bbedbce12c921a4da30679564f5989631a06cc25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 862d7f9b646aec6ca6f3a10e8097f10f8154d357a5f3ea4eab49c59c7ac39d38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,38 +70,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Nacional de Compras Públicas
-- Distribuição de Energia Elétrica
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Direcção Geral dos Serviços Prisionais
 - Centro de Estudos Judiciários
-- Energia Elétrica
+- Coimbra
 - Conselho Superior da Magistratura
+- Direcção Geral da Administração da Justiça
 - Direcção Geral de Reinserção Social
-- Instituto dos Registos e do Notariado
-- Secretaria Geral
-- Ministro da Justiça
-- Ministério da Justiça
-- Primeiro-ministro
+- Direcção Geral dos Serviços Prisionais
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Governo XIX
 - Guimarães
-- Instituto Nacional da Propriedade Industrial
+- Inspecção Geral dos Serviços de Justiça
+- Instituto das Tecnologias de Informação na Justiça
 - Instituto de Gestão Financeira
 - Instituto de Gestão Financeira e de Infra-estruturas da Justiça
 - Instituto de Medicina Legal
-- Inspecção Geral dos Serviços de Justiça
-- Instituto das Tecnologias de Informação na Justiça
-- Governo XIX
-- Coimbra
-- Supremo Tribunal de Justiça
-- Direcção Geral da Administração da Justiça
+- Instituto dos Registos e do Notariado
+- Instituto Nacional da Propriedade Industrial
+- Ministério da Justiça
+- Ministro da Justiça
 - Polícia Judiciária
+- Porto
+- Primeiro-ministro
+- Procuradoria Geral da República
+- Secretaria Geral
 - Supremo Tribunal Administrativo
 - Supremo Tribunal da Justiça
+- Supremo Tribunal de Justiça
 - Tribunal Central Administrativo SUL
 - Tribunal da Relação
-- Porto
-- Procuradoria Geral da República
 relationships:
+- type: amended_by
+  target: pt:dre:105322315:por
+  label: Alterados os valores constantes, exceto para a Direção-Geral de Reinserção e Serviços Prisionais pelo Portaria n.º
+    481/2016 - Diário da República n.º 234/2016, Série II de 2016-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/481-2016-105322315
+  date: '2016-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
   label: null
@@ -134,16 +140,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:41Z'
   warnings: []
   errors: []
 ---
@@ -192,4 +230,4 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º d
 
 Presidência do Conselho de Ministros, 27 de setembro de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/19900/0586405865.pdf))](https://files.diariodarepublica.pt/1s/2012/10/19900/0586405865.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/10/19900/0586405865.pdf)

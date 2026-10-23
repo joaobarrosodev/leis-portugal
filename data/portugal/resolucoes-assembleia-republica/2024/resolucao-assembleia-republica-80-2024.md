@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19600/0000200013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/80/2024/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/80-2024-890389075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fafe0362e695ec06f120b71275a6fd0b26ea0f7d0424226df27eaf931d38e7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3580aca881dcb08ae8b065cd6e1e25ca68b15059864439908001f939e03e8a29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento
 - Assembleia da República
+- Orçamento
 - Receita
 - Receita Municipal
 relationships:
@@ -114,16 +114,176 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
+- type: cites
+  target: pt:dre:123407852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124346822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172420961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219915285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3104813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836604892:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:21:46Z'
   warnings: []
   errors: []
 ---
@@ -136,17 +296,22 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 4 de outubro de 2024.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
 
-![](https://files.diariodarepublica.pt/images/890389075/890366830.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/890389075/890366830.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/890389075/890366831.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/890389075/890366831.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/890389075/890366832.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/890389075/890366832.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/890389075/890366833.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/890389075/890366833.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/890389075/890366834.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/890389075/890366834.png) |
+| --- |
 
 Notas explicativas
 
@@ -210,7 +375,7 @@ Despesa
 
 12 - N.º 4 do artigo 49.º do EFP, artigos 226.º e seguintes do Código do Trabalho, e Lei Geral do Trabalho em Funções Públicas.
 
-13 - N.º 4 do artigo 37.º da LOFAR e n.<sup>os</sup> 2 e 3 do artigo 48.º do EFP.
+13 - N.º 4 do artigo 37.º da LOFAR e n.os 2 e 3 do artigo 48.º do EFP.
 
 14 - [Decreto-Lei n.º 106/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1998-176328), de 24 de abril (abono de ajudas de custo e de transporte pelas deslocações em serviço público).
 
@@ -302,7 +467,7 @@ Despesa
 
 58 - Comunicações, fixas (voz) e móveis, de acessos à Internet, incluindo correspondência via CTT e os serviços inerentes às próprias comunicações, abrangendo as despesas previstas pelo Conselho de Fiscalização do Sistema de Informações da República Portuguesa, pelo Conselho dos Julgados de Paz e pelo Conselho de Fiscalização da Base de Dados de Perfis de ADN.
 
-59 - N.<sup>os</sup> 1 e 2 do artigo 16.º do Estatuto dos Deputados e [Resolução da Assembleia da República n.º 113/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/113-2019-123407852), de 23 de julho (princípios gerais de atribuição de abonos para apoio à atividade política dos Deputados).
+59 - N.os 1 e 2 do artigo 16.º do Estatuto dos Deputados e [Resolução da Assembleia da República n.º 113/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/113-2019-123407852), de 23 de julho (princípios gerais de atribuição de abonos para apoio à atividade política dos Deputados).
 
 60 - Despesas com o transporte de pessoal (aluguer permanente de veículos). Inclui ainda as despesas com transporte de bens já na posse dos serviços e as despesas previstas pelo Conselho de Fiscalização do Sistema de Informações da República Portuguesa.
 
@@ -342,7 +507,7 @@ Despesa
 
 78 - Transferência para a Associação dos ex-Deputados da Assembleia da República, n.º 3 do artigo 28.º do Estatuto dos Deputados.
 
-79 - N.<sup>os</sup> 4, 5 e 6 do artigo 5.º da Lei do Financiamento dos Partidos Políticos e das Campanhas Eleitorais.
+79 - N.os 4, 5 e 6 do artigo 5.º da Lei do Financiamento dos Partidos Políticos e das Campanhas Eleitorais.
 
 80 - N.º 6 do artigo 12.º do Estatuto dos Deputados.
 
@@ -387,3 +552,5 @@ Despesa
 100 - [Lei n.º 59/90](https://diariodarepublica.pt/dr/detalhe/lei/59-1990-564586), de 21 de novembro, e n.º 5 do artigo 48.º da [Lei n.º 53/2005](https://diariodarepublica.pt/dr/detalhe/lei/53-2005-583192), de 8 de novembro.
 
 101 - Artigo 5.º e artigos 17.º, 18.º e 20.º a 22.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de junho.
+
+118198477

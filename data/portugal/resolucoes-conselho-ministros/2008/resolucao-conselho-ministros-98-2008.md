@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/98/2008/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/98-2008-449927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4618dce92212a745354d33843a89a87e574509b86d22c3042ec8dbcb1d2d50c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecb40b6678b85cafe657d905b5933c13cd7f50c94b671ff9a844e2a257cd4c6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Armazenagem
-- Sociedade Anónima
+- Comércio
 - Contrato
 - Contrato de Concessão
-- Distribuição de Gás
 - Direção Geral de Energia e Geologia
-- GDP
-- Ministro da Economia e da Inovação
+- Distribuição de Gás
 - Entidade Reguladora dos Serviços Energéticos
+- Gás Natural
+- GDP
 - Informação do Consumidor
-- Serviço Público
+- Ministro da Economia e da Inovação
 - Rede Nacional de Distribuição de Gás Natural
 - Rede Nacional de Transporte Instalações de Armazenamento e Terminais
 - Seguro Obrigatório de Responsabilidade Civil
+- Serviço Público
 - Sistema Nacional de Gás Natural
-- Comércio
+- Sociedade Anónima
 relationships:
 - type: cites
   target: celex:32003L0055
@@ -94,13 +94,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:27Z'
   warnings: []
   errors: []
 ---
@@ -1045,7 +1045,7 @@ b) Anexo n.º 2 - seguros.
 
 ## Anexo n.º 1 — Planta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
 
 ## Anexo n.º 2 — Seguros
 
@@ -1997,7 +1997,7 @@ b) Anexo n.º 2 - seguros.
 
 ## Anexo n.º 1 — Planta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
 
 ## Anexo n.º 2 — Seguros
 
@@ -2949,7 +2949,7 @@ b) Anexo n.º 2 - seguros.
 
 ## Anexo n.º 1 — Planta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
 
 ## Anexo n.º 2 — Seguros
 
@@ -3901,7 +3901,7 @@ b) Anexo n.º 2 - seguros.
 
 ## Anexo n.º 1 — Planta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
 
 ## Anexo n.º 2 — Seguros
 
@@ -4853,7 +4853,7 @@ b) Anexo n.º 2 - seguros.
 
 ## Anexo n.º 1 — Planta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
 
 ## Anexo n.º 2 — Seguros
 
@@ -5807,7 +5807,7 @@ b) Anexo n.º 2 - seguros.
 
 ## Anexo n.º 1 — Planta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11900/0362603714.pdf)
 
 ## Anexo n.º 2 — Seguros
 

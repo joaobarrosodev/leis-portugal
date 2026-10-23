@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/944/1994/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/944-1994-624618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12353334c69d0d9f67c9b203f3cb2cce6f79edf197a46ebdd707662dc5629d6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07bd8fe43a0925b7e47763ad27773e0fba8169c1bfdc313b7817e96c2962b04d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bragança
 - Hospital Distrital
 - Quadro de Pessoal
-- Bragança
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197509:por
+  label: "Alterado o quadro de pessoal pela Port 744/96.1996.12.16.PCM, DR.IS-B [290].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-1996-197509
+  date: '1996-12-16'
+- type: amended_by
+  target: pt:dre:155651:por
+  label: "Alterado o quadro de pessoal pela PORT.449/97.1997.07.10.PCM, MF e MS DR.IS-B [157] de 10/Jul/1997O\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/449-1997-155651
+  date: '1997-07-10'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Bragança aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1208/1993/11/17/p/dre
   label: null
@@ -93,16 +109,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/714/1991/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/714/1991/07/19/p/dre
+- type: cites
+  target: pt:dre:180632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688455:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:00Z'
   warnings: []
   errors: []
 ---
@@ -127,13 +215,13 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 19 de Setembro de 1994.**
+Assinada em 19 de Setembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital Distrital de Bragança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/247b00/64386442.pdf))](https://files.diariodarepublica.pt/1s/1994/10/247b00/64386442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/247b00/64386442.pdf)
 
 ## ANEXO I
 
@@ -143,18 +231,18 @@ Repartição de Pessoal e Admissão de Doentes:
 
 #### Secção de Pessoal;
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
-#### Secção de Admissão e Atendimento Psiquiátrico;
+Secção de Admissão e Atendimento Psiquiátrico;
 
 Repartição de Contabilidade:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 Repartição de Aprovisionamento:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisições e Armazéns.
+Secção de Aquisições e Armazéns.

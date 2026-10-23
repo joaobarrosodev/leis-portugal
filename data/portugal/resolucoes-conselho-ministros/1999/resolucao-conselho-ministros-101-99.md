@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/101/1999/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1999-572465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 349e3bd641b007c96254a01bb59086563903d015a1f30d9cf3d9ca9cbaaecc5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a00e0d0b05c143f18f75556242c69e91d97a7c50999aa96ef99a0299a490ea5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
 - Penacova
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:584194:por
+  label: "Ratificado parcialmente o Plano de Pormenor da Barragem da Aguieira, ficando alterado o Plano Director Municipal\
+    \ de Penacoba ratificado pelo presente diploma, na área de intervenção do supracitado plano, pela RES.44/2005.20.01.2005.PCM,\
+    \ DR.IS-B [43] de 02.03.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/44-2005-584194
+  date: '2005-01-20'
+- type: amended_by
+  target: pt:dre:70027211:por
+  label: Tornada pública a aprovação (com efeitos no dia seguinte à aprovação da delimitação da REN do Município de Penacova)
+    da primeira revisão do PDM de Penacova ratificado pela presente Resolução, na redação da Res 44/2005 de 02-mar PCM, pelo(a)
+    Aviso n.º 9079/2015 - Diário da República n.º 159/2015, Série II de 2015-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9079-2015-70027211
+  date: '2015-08-17'
+- type: amended_by
+  target: pt:dre:108239965:por
+  label: Tornado público ter sido aprovada a alteração dos arts. 4.º, 5.º, 6.º, 10.º, 19.º, 42.º, 43.º, 47.º, 48.º, 49.º,
+    51.º, 84.º, 87.º, 88.º e 89.º do Regulamento, bem como alteração das plantas de ordenamento e de condicionantes do Plano
+    Diretor Municipal de Penacova, ratificado pelo presente diploma, na versão revista e publicada pelo Av 9079/2015 de 17-ago,
+    pelo(a) Aviso n.º 11670/2017 - Diário da República n.º 190/2017, Série II de 2017-10-02, que republicou o citado regulamento.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/11670-2017-108239965
+  date: '2017-10-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
   label: null
@@ -113,16 +135,320 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1182/1992/12/22/p/dre
+- type: cites
+  target: pt:dre:150512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668278:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:53Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +517,7 @@ As definições dos conceitos utilizados são as estabelecidas na legislação e
 
 O concelho de Penacova é abrangido parcialmente por um plano mais abrangente, o Plano Regional de Ordenamento do Território para a Zona Envolvente das Albufeiras da Aguieira, Coiço e Fronhas (PROZAG), aprovado pelo [Decreto Regulamentar n.º 22/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1992-232155), de 25 de Setembro.
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -241,7 +567,7 @@ Número de pisos limite - número total de pavimentos sobrepostos, incluindo as 
 
 Lugar de estacionamento - área afecta a estacionamento, servida por arruamento público, de acordo com a [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.
 
-## TÍTULO II
+TÍTULO II
 
 Classes e categorias de espaços
 
@@ -769,7 +1095,7 @@ b) Ampliação ou alteração dos edifícios existentes quando destinada a dotá
 
 3 - Os imóveis classificados ou em vias de classificação são os que se apresentam no artigo 43.º
 
-## TÍTULO III
+TÍTULO III
 
 Servidões e restrições de utilidade pública
 
@@ -887,7 +1213,7 @@ Gruta dos Penedos.
 
 Para além das servidões e restrições de utilidade pública referidas no presente Regulamento, devem considerar-se todas as outras decorrentes da legislação em vigor.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposições finais e transitórias
 

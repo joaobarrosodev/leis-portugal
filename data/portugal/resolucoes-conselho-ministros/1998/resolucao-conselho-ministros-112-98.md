@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/195b00/43484350.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/112/1998/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/112-1998-448093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1407293a78788f2646aa85b834637847a92ac8af25be3c2ce272839d287e631a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b3e2b6c01aec9612dba6c1f1cef5a85fd93e97423265ecb1008570ec8ef3882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção de Formação
-- Financiamento
 - CASA da Natureza
-- Turismo
-- Promoção Turística
 - Código de Conduta
-- Desenvolvimento Rural
-- Ordenamento do Território
 - Comissão Paritária
+- Desenvolvimento Económico
 - Desenvolvimento Regional
-- Turismo de Natureza
+- Desenvolvimento Rural
+- Desporto
 - Direcção Geral do Turismo
-- Tempos Livres
-- Projeto de Investimento
-- Secretário de Estado do Turismo
+- Financiamento
 - GUIA de Natureza
-- Programa Nacional de Turismo de Natureza
+- Infraestrutura Turística
 - Instituto da Conservação da Natureza
 - Instituto Nacional de Formação Turística
 - Instituto Nacional do Desporto
-- QCA
+- Investimento Privado
 - Investimento Público
-- Secretário de Estado do Ambiente
 - Nomeação
-- Proteção do Ambiente
-- Zona de Proteção
-- Desenvolvimento Económico
+- Ordenamento do Território
+- Programa Nacional de Turismo de Natureza
+- Projeto de Investimento
 - Promoção de Emprego
+- Promoção Turística
+- Proteção do Ambiente
+- QCA
 - Qualidade de VIDA
 - Rede Nacional de Áreas Protegidas
 - Regulamento
-- Investimento Privado
-- Desporto
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Turismo
+- Tempos Livres
+- Turismo
+- Turismo de Natureza
 - Turismo Rural
-- Infraestrutura Turística
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:69846841:por
@@ -113,16 +113,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
+- type: cites
+  target: pt:dre:422861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468869:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69846841:por
+  label: Revogada, a partir de 26.07.2015, pelo(a) Resolução do Conselho de Ministros n.º 51/2015 - Diário da República n.º
+    140/2015, Série I de 2015-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/51-2015-69846841
+  date: '2015-07-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:30Z'
   warnings: []
   errors: []
 ---

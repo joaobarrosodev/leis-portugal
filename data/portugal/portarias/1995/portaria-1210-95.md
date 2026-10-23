@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1210/1995/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1210-1995-664336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4c767ec9b4bb1b6805ed22aecfcdc799ead76e4c7082e0bf27d5903f4864463
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f209e70b810b937dc0cdc53e474f1b52bf482a8de36c658944f25b29310552b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- ZONA de Intervenção
 - Exposição Internacional de Lisboa de 1998
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
+- ZONA de Intervenção
 relationships:
 - type: amended_by
   target: pt:dre:408374:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:548253:por
+  label: "Actualizados os Planos de Pormenor pela PORT.1130-B/99.1999.12.31.MAOT,DR.IS-B [303]4º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1130-b-1999-548253
+  date: '1999-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1994/01/13/p/dre
   label: null
@@ -108,16 +113,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2906513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669800:por
+  label: null
+  source: null
 article_structure:
-  article_count: 60
-  section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 68
+  section_count: 40
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:35Z'
   warnings: []
   errors: []
 ---
@@ -146,17 +203,19 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 8 de Setembro de 1995.**
+Assinada em 8 de Setembro de 1995.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf))](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
 
 Regulamento do Plano de Pormenor 4 - Zona Norte, Beirolas
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -224,7 +283,9 @@ As disposições do Regulamento são vinculativas para todas as entidades públi
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -274,7 +335,9 @@ O uso de parcela afecta a habitação, indústria, serviço ou comércio localiz
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 10.º — Divisão de terrenos
+###### Artigo 10.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.
 
@@ -376,7 +439,9 @@ f) Ficha de caracterização, com indicação dos valores finais propostos refer
 
 ## TÍTULO IV — Condições especiais relativas às obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 14.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 14.º
 
 Caracterização das obras de urbanização e projectos das obras de urbanização
 
@@ -550,7 +615,9 @@ d) Utilização de um mínimo de dizeres ou símbolos, limitados a duas dimensõ
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores
 
-### CAPÍTULO ÚNICO — Artigo 24.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 24.º
 
 Espaços exteriores de uso público
 
@@ -710,7 +777,7 @@ O Plano, incluindo todos os seus elementos, pode ser consultado pelos interessad
 
 QUADRO SÍNTESE DAS PARCELAS DO PP4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf))](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
 
 Estacionamento na zona de intervenção da EXPO 98
 
@@ -718,7 +785,7 @@ Parâmetros de dimensionamento
 
 Lugares por cada 100 m2 de área bruta de construção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf))](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
 
 Nota. - O número de lugares de estacionamento necessário para comércio, com área superior a 2500 m2, equipamento colectivo, sala de espectáculo e equipamento turístico, deverá ser estabelecido caso a caso, sendo tomados como base os parâmetros de dimensionamento da [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro, e, caso sejam omissos, os do PDM de Lisboa.
 
@@ -726,7 +793,9 @@ Regulamento do Plano de Pormenor 3 - Zona Sul, Avenida do Marechal Gomes da Cost
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -794,7 +863,9 @@ As disposições do Regulamento são vinculativas para todas as entidades públi
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -840,7 +911,9 @@ O uso de parcela afecta a habitação, serviço ou comércio localizada em espa�
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 10.º — Divisão de terrenos
+###### Artigo 10.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.
 
@@ -942,7 +1015,9 @@ f) Ficha de caracterização, com indicação dos valores finais propostos refer
 
 ## TÍTULO IV — Condições especiais relativas às obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 14.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 14.º
 
 Caracterização das obras de urbanização e projectos das obras de urbanização
 
@@ -1116,7 +1191,9 @@ d) Utilização de um mínimo de dizeres ou símbolos, limitados a duas dimensõ
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores
 
-### CAPÍTULO ÚNICO — Artigo 24.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 24.º
 
 Espaços exteriores de uso público
 
@@ -1280,7 +1357,7 @@ O Plano, incluindo todos os seus elementos, pode ser consultado pelos interessad
 
 QUADRO SÍNTESE DAS PARCELAS DO PP3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf))](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
 
 Estacionamento na zona de intervenção da EXPO 98
 
@@ -1288,6 +1365,6 @@ Parâmetros de dimensionamento
 
 Lugares por cada 100 m2 de área bruta de construção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf))](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/231b00/61536169.pdf)
 
 Nota. - O número de lugares de estacionamento necessário para comércio, com área superior a 2500 m2, equipamento colectivo, sala de espectáculo e equipamento turístico, deverá ser estabelecido caso a caso, sendo tomados como base os parâmetros de dimensionamento da [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro, e, caso sejam omissos, os do PDM de Lisboa.

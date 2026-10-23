@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1975-312403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:27:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65ea079be2cb76084ce203061e35d1d753e8a4ad19ff4dc191cb57e13a3f512a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be80724fcb983a10f704e0a57faeca0161d83b4c3db4b6d3ae3d6b1e5bea32dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:27:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Caixa de Reforma
+- CP
+- Gestão Orçamental
+- Pensão de Invalidez
+- Pensão de Sobrevivência
+- Pensão de Velhice
+- Política Social
+- Regulamento
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:311009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311009:por
+  label: A presente resolução, substitui a presente resolução pelo(a) Resolução do Conselho de Ministros - Diário do Governo
+    n.º 291/1975, Série I de 1975-12-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/1975-311009
+  date: '1975-12-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:27:49Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +107,10 @@ O Conselho de Ministros, reunido em 6 de Outubro de 1975, resolveu que, a partir
 
 Pensões de invalidez e velhice
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/10/25100/16981698.pdf))](https://files.diariodarepublica.pt/1s/1975/10/25100/16981698.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/10/25100/16981698.pdf)
 
 Pensões de sobrevivência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/10/25100/16981698.pdf))](https://files.diariodarepublica.pt/1s/1975/10/25100/16981698.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/10/25100/16981698.pdf)
 
 Presidência do Conselho de Ministros, 16 de Outubro de 1975. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.

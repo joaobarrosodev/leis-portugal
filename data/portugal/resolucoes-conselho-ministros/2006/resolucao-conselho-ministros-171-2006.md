@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/171/2006/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2006-552340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb2006d27eaa287d10e51428604c31b5233cc7d0708505caccdc3350e51d6947
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efe064b0b16e95035a42fc0c726ec283f5ab446928d090328e69ccce53c7c86e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada da Grande Lisboa
 - Contrato de Concessão
-- Auto-estrada
 - LUSOLISBOA
 relationships:
 - type: amended_by
   target: pt:dre:69736233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167410:por
+  label: "Aprovada a minuta do contrato de alteração ao contrato de concessão, cuja minuta foi aprovada neste diploma, pela\
+    \ RES.39-F/2010.04.06.2010.PCM, DR.IS [108-Supl] de 04.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-f-2010-167410
+  date: '2010-06-04'
+- type: amended_by
+  target: pt:dre:69736233:por
+  label: Aprovada a minuta do contrato de alteração à minuta do contrato de concessão aprovada pelo presente diploma, na redação
+    da Res 39-F/2010 de 04-jun PCM, pelo(a) Resolução do Conselho de Ministros n.º 45-A/2015 - Diário da República n.º 130/2015,
+    1º Suplemento, Série I de 2015-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/45-a-2015-69736233
+  date: '2015-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119-b/1999/04/14/p/dre
   label: null
@@ -91,16 +104,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/1997/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/1997/01/10/p/dre
+- type: cites
+  target: pt:dre:240673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595496:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:349478:por
+  label: "Rectificada e republicada na íntegra pela DECL-RECT.4-A/2007.05.01.2007.PCM, DR.IS [6]Supl de 09.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-a-2007-349478
+  date: '2007-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:11Z'
   warnings: []
   errors: []
 ---

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/148/1995/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/148-1995-197700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88e4acf8f1368076e29bf9049dd8a12aaa976cf4c4fb71f19faa44ea85f9c5ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bca7d8c1682037eac5f44705d5a0cc97cbe4339fe80011d1c763fa85b2dbae4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Educadores de Infância
 - Curso de Professores do Ensino Primário
 - Curso de Professores do Primeiro Ciclo do Ensino Básico
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Setúbal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1128/1993/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1128/1993/11/03/p/dre
+- type: cites
+  target: pt:dre:420035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666164:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:01Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +148,8 @@ Revogação
 
 Ministério da Educação.
 
-**Assinada em 30 de Dezembro de 1994.**
+Assinada em 30 de Dezembro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/038b00/09570958.pdf))](https://files.diariodarepublica.pt/1s/1995/02/038b00/09570958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/038b00/09570958.pdf)

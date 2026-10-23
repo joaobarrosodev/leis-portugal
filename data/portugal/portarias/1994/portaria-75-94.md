@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/75/1994/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-1994-499264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea1929e24e2aec10cf566186a87aa29d8f828d783f089c3d949fe1b58385eef7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a94850f07fbd3358fbc9df1d315cb9041b9cea3555fada82fba6dd78511769e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/780/1991/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/780/1991/08/08/p/dre
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682238:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683233:por
+  label: "Revogada pela PORT.470/2003.2003.06.11.MF, DR.IS-B [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/470-2003-683233
+  date: '2003-06-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:12Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +142,7 @@ Manda o Governo, pelos Ministros das Finanças, da Agricultura e da Indústria e
 
 Ministérios das Finanças, da Agricultura e da Indústria e Energia.
 
-**Assinada em 30 de Dezembro de 1993.**
+Assinada em 30 de Dezembro de 1993.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
@@ -129,7 +150,7 @@ QUADRO I
 
 Factores multiplicativos correspondentes às classes dos estabelecimentos industriais em função dos respectivos escalões.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/029b00/05540555.pdf))](https://files.diariodarepublica.pt/1s/1994/02/029b00/05540555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/029b00/05540555.pdf)
 
 No caso de ao mesmo estabelecimento corresponderem escalões diferentes, em função do número de trabalhadores ou da potência instalada ou a instalar, o factor multiplicativo será o correspondente ao escalão superior.
 
@@ -137,7 +158,7 @@ QUADRO II
 
 Factores multiplicativos a aplicar à taxa base para efeitos do cálculo das taxas devidas pelos actos administrativos praticados no âmbito do presente diploma.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/029b00/05540555.pdf))](https://files.diariodarepublica.pt/1s/1994/02/029b00/05540555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/029b00/05540555.pdf)
 
 O valor da taxa correspondente a cada acto administrativo resulta do produto dos factores multiplicativos indicados nos quadros I e II pela taxa base.
 
@@ -145,4 +166,4 @@ QUADRO III
 
 Taxas devidas pela selagem e desselagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/029b00/05540555.pdf))](https://files.diariodarepublica.pt/1s/1994/02/029b00/05540555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/029b00/05540555.pdf)

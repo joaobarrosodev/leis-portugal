@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/298b00/72837284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/183/2004/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2004-219688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68ca1131398ff45416a98a27ee04d9d501a16955823f6904bb11f14ecab2cac6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed48c2a1a98488fee4332c66efc8d6d6cf5a1c75a127e8aee72b2c0b8552b2f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Navios
-- Ministro de Estado da Defesa Nacional e dos Assuntos do Mar
 - Contrato
 - Delegação de Competências
-- Marinha
 - Estaleiros Navais de Viana do Castelo
+- Marinha
+- Ministro de Estado da Defesa Nacional e dos Assuntos do Mar
 - Programa Relativo a Aquisição de Navios
 relationships:
 - type: amended_by
   target: pt:dre:176059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176059:por
+  label: "RES.79/2012.20.09.2012.PCM, DR.IS [183] de 20.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/79-2012-176059
+  date: '2012-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
@@ -94,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/2004/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/2004/06/04/p/dre
+- type: cites
+  target: pt:dre:169007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533472:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:45Z'
   warnings: []
   errors: []
 ---

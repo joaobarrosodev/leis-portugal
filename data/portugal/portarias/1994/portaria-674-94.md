@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/674/1994/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/674-1994-296783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69535a773c6fcd7a277d5976c661094de3c8d79fda036e76d3a16b1a1448eadf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c917e34a71f37287aee5366df38bb88e3e6e1704825f46750390d2700070ccd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,43 @@ reuse:
 subjects:
 - Castelo de Paiva
 - Ordenamento do Território
-- Plano Director Municipal
-- Urbanização
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
 - Plano Geral de Urbanização
+- Política de Solos
 - Regulamento
+- Urbanização
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:24Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +128,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 31 de Maio de 1994.**
+Assinada em 31 de Maio de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano Geral de Urbanização da Vila de Castelo de Paiva
 
@@ -378,4 +394,4 @@ f) A instalação de lixeiras, parques de sucata e depósitos de materiais de qu
 
 Natureza da ocupação e da utilização do solo. - A zona R é passível de ocupação de vários tipos, a definir em função das necessidades detectáveis após esgotada a capacidade das restantes áreas previstas no Plano Geral de Urbanização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/166b00/39803983.pdf))](https://files.diariodarepublica.pt/1s/1994/07/166b00/39803983.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/166b00/39803983.pdf)

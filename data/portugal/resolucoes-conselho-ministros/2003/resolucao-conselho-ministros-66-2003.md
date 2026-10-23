@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/2003/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5807076f77612737066efa67b43d3e4d4d0b63498c3ff8c2bbde59a5a70c9e34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11e96e1abb777752dc727cb28ca2671354fed584af59355ce10bcf7a3dbbc6a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,14 +72,14 @@ subjects:
 - Conselho de Ministros
 - Definição de Competências
 - Deliberação do Conselho de Ministros
+- Governo XV
+- Ministro da Presidência
 - Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
+- Processo Legislativo
 - Regimento
 - Reunião de Secretários de Estado
-- Ministro da Presidência
-- Governo XV
-- Processo Legislativo
+- Secretário de Estado Adjunto do Primeiro-ministro
+- Secretário de Estado da Presidência do Conselho de Ministros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/91/2002/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/91/2002/05/03/p/dre
+- type: cites
+  target: pt:dre:371032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
 article_structure:
-  article_count: 52
+  article_count: 38
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:34Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +141,9 @@ Composição
 
 4 - ...
 
-###### Artigo 6.º — Deliberações
+Artigo 6.º
+
+Deliberações
 
 1 - ...
 
@@ -143,7 +153,9 @@ Composição
 
 4 - ...
 
-###### Artigo 12.º — Composição
+Artigo 12.º
+
+Composição
 
 1 - ...
 
@@ -153,7 +165,9 @@ Composição
 
 4 - ...
 
-###### Artigo 15.º — Composição
+Artigo 15.º
+
+Composição
 
 1 - ...
 
@@ -163,7 +177,9 @@ Composição
 
 4 - ...
 
-###### Artigo 21.º — Prazo para a emissão de parecer
+Artigo 21.º
+
+Prazo para a emissão de parecer
 
 1 - Os pareceres referidos nos artigos anteriores devem ser emitidos no prazo de oito dias ou, em casos de urgência, de três dias contados a partir da data da sua solicitação pelo ministro responsável pelo projecto.
 
@@ -171,7 +187,9 @@ Composição
 
 3 - No caso de o projecto ser enviado para circulação e agendamento nos termos previstos no número anterior, não é dispensada a emissão de parecer pelo Ministro de Estado e das Finanças e pelo Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas.
 
-###### Artigo 22.º — Audição das Regiões Autónomas
+Artigo 22.º
+
+Audição das Regiões Autónomas
 
 1 - ...
 
@@ -183,7 +201,9 @@ Composição
 
 5 - (Revogado.)
 
-###### Artigo 23.º — Outras audições
+Artigo 23.º
+
+Outras audições
 
 1 - ...
 
@@ -191,7 +211,9 @@ Composição
 
 3 - Quando tal se justifique, podem os projectos ser submetidos a Conselho de Ministros, para aprovação na generalidade, antes de decorrido o prazo da audição, ficando a aprovação final dependente do transcurso desse prazo.
 
-###### Artigo 25.º — Documentos que acompanham os projectos
+Artigo 25.º
+
+Documentos que acompanham os projectos
 
 1 - Os projectos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados de uma nota justificativa de que constem, discriminadamente, em todos os casos, os seguintes elementos:
 
@@ -231,19 +253,25 @@ g) Programa de acções destinado à divulgação pública do projecto.
 
 5 - ...
 
-###### Artigo 26.º — Devolução e circulação
+Artigo 26.º
+
+Devolução e circulação
 
 1 - ...
 
 2 - A circulação inicia-se às sextas-feiras, mediante a distribuição de cópias dos projectos pelos gabinetes das entidades referidas, sendo as entregas feitas contra-recibo, onde constam a data e a hora da recepção e a assinatura do membro do gabinete que receber os documentos.
 
-###### Artigo 27.º — Objecções e comentários
+Artigo 27.º
+
+Objecções e comentários
 
 1 - ...
 
 2 - As objecções e comentários devem ser transmitidos até ao último dia útil anterior à reunião de secretários de Estado para a qual o projecto seja agendado e, quando não importarem rejeição global do mesmo, conter redacções alternativas aos textos sobre os quais não houve concordância.
 
-###### Artigo 28.º — Composição
+Artigo 28.º
+
+Composição
 
 1 - ...
 
@@ -259,7 +287,9 @@ d) [Anterior alínea c).]
 
 3 - ...
 
-###### Artigo 31.º — Agenda
+Artigo 31.º
+
+Agenda
 
 1 - Compete ao Ministro da Presidência ou, nas suas ausências e impedimentos, ao Secretário de Estado da Presidência do Conselho de Ministros o agendamento de projectos para as reuniões de secretários de Estado.
 
@@ -269,7 +299,9 @@ d) [Anterior alínea c).]
 
 4 - ...
 
-###### Artigo 32.º — Deliberações
+Artigo 32.º
+
+Deliberações
 
 1 - ...
 
@@ -293,13 +325,17 @@ Planeamento do procedimento legislativo
 
 2 - O Secretário de Estado da Presidência do Conselho de Ministros pode solicitar o envio de ante-projectos, sempre que a natureza das iniciativas legislativas o justifique.
 
-###### Artigo 17.º-B — Transposição de directivas comunitárias
+Artigo 17.º-B
+
+Transposição de directivas comunitárias
 
 1 - O Gabinete do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas informa os gabinetes dos ministros e o Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, com a regularidade e antecedência razoáveis, dos prazos de transposição de directivas comunitárias para a ordem jurídica nacional.
 
 2 - Os gabinetes dos ministros informam o Gabinete do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas das iniciativas legislativas em preparação que visem a transposição de directivas comunitárias, dando conhecimento ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.
 
-###### Artigo 20.º-A — Parecer do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
+Artigo 20.º-A
+
+Parecer do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
 
 1 - Todos os projectos de diploma que visem a transposição para a ordem jurídica nacional de directivas comunitárias carecem de parecer do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas.
 

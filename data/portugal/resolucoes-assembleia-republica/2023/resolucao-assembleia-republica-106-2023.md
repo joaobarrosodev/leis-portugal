@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16900/0006800082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/106/2023/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/106-2023-221100279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb0931ed544f97c5b2fcdd35a66c820fa5a380975bb8a9bae808cd78bc202908
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c4703d04d6faab0c442c856fb7bff879152d0103d0eee60578b75739b666621
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Autoridade Competente
 - Bucareste
-- Ministério da Defesa Nacional
 - Convenção
 - Cooperação
-- Política de Cooperação
-- Portugal
-- Política de Defesa
-- Roménia
 - Cooperação Militar
-- Autoridade Competente
-relationships: []
+- Ministério da Defesa Nacional
+- Política de Cooperação
+- Política de Defesa
+- Portugal
+- Roménia
+relationships:
+- type: amended_by
+  target: pt:dre:221067572:por
+  label: Ratificado o Acordo aprovado pelo presente diploma pelo(a) Decreto do Presidente da República n.º 75/2023 - Diário
+    da República n.º 169/2023, Série I de 2023-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/75-2023-221067572
+  date: '2023-08-31'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:19Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +106,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de julho de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A ROMÉNIA SOBRE COOPERAÇÃO EM MATÉRIA DE DEFESA
 
@@ -270,19 +276,26 @@ Pela Roménia:
 
 Vasile Dîncu, Ministro da Defesa Nacional.
 
-![](https://files.diariodarepublica.pt/images/221100279/221067719.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/221100279/221067719.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/221100279/221067720.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/221100279/221067720.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/221100279/221067721.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/221100279/221067721.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/221100279/221067722.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/221100279/221067722.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/221100279/221067723.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/221100279/221067723.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/221100279/221067724.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/221100279/221067724.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/221100279/221067725.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/221100279/221067725.png) |
+| --- |
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND ROMANIA ON CO-OPERATION IN DEFENCE MATTERS
 
@@ -477,3 +490,5 @@ Helena Carreiras, the Minister of National Defence.
 For Romania:
 
 Vasile Dîncu, the Minister of National Defence.
+
+116761228

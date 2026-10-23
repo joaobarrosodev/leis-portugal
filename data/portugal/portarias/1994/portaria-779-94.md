@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/200b00/50235027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/779/1994/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/779-1994-655338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f44048cfe4a65dabd72cb0c476ffe83be91bdc313b0ccf9fd0b75762fcbd349a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a662d18f21979f7f72af7ad9267137ec97c95bf4b3b88a9b552b0612bee0c5c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Coruche
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:434411:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434411:por
+  label: "Ratificada a alteração dos caps. II, III, IV, X e XI do Regulamento e da planta de implantação do Plano de Pormenor\
+    \ de Santo Antonino Norte, no município de Coruche, cuja ratificação foi publicitada pela Decl de 03-Mai de 1991 da DGOT-MPLAT,\
+    \ e revisão e republicação ratificada pelo presente diploma, pela PORT.666/99.18.08.1999.MAI, DR.IS-B [192] de 18.08.1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/666-1999-434411
+  date: '1999-08-18'
+- type: amended_by
+  target: pt:dre:1017475:por
+  label: "Tornada pública a revogação integral (a partir de 13.12.2011) do Regulamento e das plantas constituintes do Plano\
+    \ de Pormenor do Santo Antonino Norte, cuja ratificação foi publicitada pela Decl de 03-mai 1991 da DGOT-MPLAT, com a\
+    \ revisão ratificada pelo presente diploma, pelo EDITAL.1223/2011.12.12.2011.MCORUCHE, DR.IIS [236] de 12.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/edital/1223-2011-1017475
+  date: '2011-12-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -83,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1158/1993/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1158/1993/11/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686848:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:54Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +148,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 20 de Julho de 1994.**
+Assinada em 20 de Julho de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Revisão do Regulamento do Plano de Pormenor de Santo Antonino Norte
 
@@ -543,4 +570,4 @@ e) A actividade a instalar não poderá causar qualquer dano ou incómodo aos vi
 
 3 - Os Serviços Técnicos Municipais poderão aprovar construções que se desviem sensivelmente dos parâmetros e condições impostos à ocupação do lote, desde que seja reconhecida a qualidade da proposta de arquitectura e do enquadramento na envolvente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/200b00/50235027.pdf))](https://files.diariodarepublica.pt/1s/1994/08/200b00/50235027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/200b00/50235027.pdf)

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 145/2008, 2º Suplemento, Série I de 2008-07-29
   number: '145'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5106-(87) a 5106-(88)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14502/0008700088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/118-c/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/118-c-2008-575320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df7d220a2032c2160f5584567d811c3e50dd383c8e7fa7274c4c2ff5caf52bfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e9194b9fa2a50c57f7b09bea7726565483e75bd5e4c5d65aede64167c465466
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,14 +71,14 @@ subjects:
 - Delegação de Competências
 - Documentação Classificada
 - Empreitada de Obras Públicas
-- Ministro da Justiça
-- Ministério da Justiça
-- Grândola
 - Estabelecimento Prisional
-- Instituto de Gestão Financeira e de Infra-estruturas da Justiça
-- Segurança da Informação
 - Governo XVII
+- Grândola
+- Instituto de Gestão Financeira e de Infra-estruturas da Justiça
+- Ministério da Justiça
+- Ministro da Justiça
 - Obras Públicas
+- Segurança da Informação
 relationships:
 - type: amended_by
   target: pt:dre:335678:por
@@ -100,16 +100,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549396:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335678:por
+  label: "Revogada, a partir de 26.06.2010, pela RES.46/2010.21.06.2010.PCM, DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/46-2010-335678
+  date: '2010-06-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:29Z'
   warnings: []
   errors: []
 ---

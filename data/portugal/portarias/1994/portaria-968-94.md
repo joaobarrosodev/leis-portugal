@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/968/1994/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/968-1994-621152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a6a8e7238dfd256a10db0f039a9630bd73e2ec8017a7f48386d54dc781ad742
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0405292fa78199d92f83c51f2d3072a14db01ba863125aca00a6ae82fe29ca97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
+- Comércio
 - Fabrico Industrial
 - Indústria Química
 - Instruções de Utilização
-- Comércio
+- Produto Químico
 relationships:
 - type: amended_by
   target: pt:dre:532459:por
@@ -89,16 +89,21 @@ relationships:
   target: celex:31991L0339
   label: null
   source: http://data.europa.eu/eli/dir/1991/339/oj
+- type: repealed_by
+  target: pt:dre:532459:por
+  label: "Revogado o cap. II pelo DEC LEI.256/2000.2000.10.17.MECO,DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2000-532459
+  date: '2000-10-17'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:37Z'
   warnings: []
   errors: []
 ---
@@ -303,11 +308,11 @@ Monometil-tetraclorodifenil-metano, monometil-diclorodifenil-metano e monometil-
 
 Ministério da Indústria e Energia.
 
-**Assinada em 29 de Setembro de 1994.**
+Assinada em 29 de Setembro de 1994.
 
 Pelo Ministro da Indústria e Energia, Luís Filipe da Conceição Pereira, Secretário de Estado da Energia.
 
-## Anexo a que se refere o artigo 1.º
+Anexo a que se refere o artigo 1.º
 
 1) Pentaclorofenol e seus sais e ésteres, número CAS 87-86-5;
 

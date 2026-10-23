@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/397/1994/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/397-1994-305453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:26:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aabdb74ac394672a93e656906e661d2f4dc570f0c570b55335d655f2b23b515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eb05773782b22d3c5653d6ee3371d12d17a1ad111d6888ac373cac34fbd64f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:26:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral do Tesouro
 - Criação de Lugares
+- Direcção Geral do Tesouro
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 relationships:
@@ -75,16 +75,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1223-e/1991/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1223-e/1991/12/30/p/dre
+- type: cites
+  target: pt:dre:525872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:26:39Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +113,6 @@ Manda o Governo, pelo Ministro das Finanças, que seja criado no quadro de pesso
 
 Ministério das Finanças.
 
-**Assinada em 6 de Junho de 1994.**
+Assinada em 6 de Junho de 1994.
 
 Pelo Ministro das Finanças: Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento - Francisco Adelino Gusmão Esteves de Carvalho, Secretário de Estado do Tesouro.

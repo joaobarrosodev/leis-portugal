@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24901/0000300050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/206-a/2025/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/206-a-2025-993032372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7d09fc16ed617690c0a448a82e9200b7b55690f7ad5252aa81f1d8cb6bdd034
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 694d43dd634aec1e2a8bcc8d8c4fbec827f20b61b093075b3bdaec911762653c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
 - Convenção
-- Portugal
+- Dupla Tributação
+- Evasão Fiscal
 - Fraude Fiscal
 - Imposto de Mais-Valias
 - Imposto sobre o Rendimento
 - Londres
-- Dupla Tributação
-- Evasão Fiscal
+- Portugal
+- Reino Unido
 relationships:
+- type: amended_by
+  target: pt:dre:993032371:por
+  label: Ratificada a Convenção pelo(a) Decreto do Presidente da República n.º 124-A/2025 - Diário da República n.º 249/2025,
+    Suplemento, Série I de 2025-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/124-a-2025-993032371
+  date: '2025-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/398/1998/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/398/1998/12/17/p/dre
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:44Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +113,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 19 de dezembro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E O REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE PARA ELIMINAR A DUPLA TRIBUTAÇÃO EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO E SOBRE AS MAIS-VALIAS E PREVENIR A FRAUDE E A EVASÃO FISCAIS.
 
@@ -605,7 +615,7 @@ Considera-se que a expressão «direitos similares» inclui, no caso de Portugal
 
 Considera-se que:
 
-# PARTE I — ARBITRAGEM VINCULATIVA OBRIGATÓRIA
+## PARTE I — ARBITRAGEM VINCULATIVA OBRIGATÓRIA
 
 1 - Quando:
 
@@ -671,7 +681,7 @@ a) Qualquer questão não resolvida no âmbito de um procedimento amigável que 
 
 b) Se, em qualquer momento posterior à apresentação de um pedido de arbitragem e anterior à comunicação da decisão da comissão arbitral às autoridades competentes dos Estados Contratantes, for proferida uma decisão relativamente à questão por um tribunal judicial ou administrativo de um dos Estados Contratantes, o procedimento arbitral é encerrado.
 
-# PARTE II — DESIGNAÇÃO DOS ÁRBITROS
+## PARTE II — DESIGNAÇÃO DOS ÁRBITROS
 
 1 - Salvo na medida em que as autoridades competentes dos Estados Contratantes acordem entre si regras diferentes, para efeitos do presente Protocolo aplica-se o disposto nos números 2 a 4.
 
@@ -687,13 +697,13 @@ c) Cada um dos membros designados para a comissão arbitral deve ser imparcial e
 
 4 - Caso os dois membros iniciais da comissão arbitral não nomeiem o presidente nos termos e prazos estipulados no n.º 2 ou acordados pelas autoridades competentes dos Estados Contratantes, o presidente é nomeado pelo funcionário de escalão mais elevado do Centro de Política e Administração Fiscal da Organização para a Cooperação e Desenvolvimento Económico que não seja nacional de nenhum dos Estados Contratantes.
 
-# PARTE III — CONFIDENCIALIDADE DO PROCEDIMENTO ARBITRAL
+## PARTE III — CONFIDENCIALIDADE DO PROCEDIMENTO ARBITRAL
 
 1 - Unicamente para efeitos da aplicação das disposições do presente Protocolo e das disposições da Convenção e da legislação interna dos Estados Contratantes relativas à troca de informações, à confidencialidade e à assistência administrativa, os membros da comissão arbitral e um máximo de três colaboradores por cada membro (e os candidatos a árbitros unicamente na medida necessária a verificar a sua capacidade para satisfazer os requisitos necessários para exercer a função de árbitro) devem ser considerados como pessoas ou autoridades às quais podem ser comunicadas informações. As informações recebidas pela comissão arbitral ou pelos candidatos a árbitros e as informações que as autoridades competentes recebam da comissão arbitral são consideradas como informações trocadas ao abrigo das disposições da Convenção relativas à troca de informações e à assistência administrativa.
 
 2 - As autoridades competentes dos Estados Contratantes devem assegurar que os membros da comissão arbitral e os seus colaboradores, anteriormente à sua participação num procedimento arbitral, aceitam, por escrito, tratar todas as informações relacionadas com o procedimento arbitral em conformidade com as obrigações de confidencialidade e de não divulgação previstas nas disposições da Convenção relativas à troca de informações e à assistência administrativa e de acordo com a legislação aplicável dos Estados Contratantes.
 
-# PARTE IV — RESOLUÇÃO DE UM CASO ANTES DA CONCLUSÃO DA ARBITRAGEM
+## PARTE IV — RESOLUÇÃO DE UM CASO ANTES DA CONCLUSÃO DA ARBITRAGEM
 
 Para efeitos do presente Protocolo e das disposições da Convenção que prevejam a resolução de casos no quadro do procedimento amigável, o procedimento amigável assim como o procedimento arbitral respeitante a um caso é encerrado se, em qualquer momento posterior à apresentação de um pedido de arbitragem e anterior à comunicação da decisão da comissão arbitral às autoridades competentes dos Estados Contratantes:
 
@@ -701,7 +711,7 @@ a) As autoridades competentes dos Estados Contratantes cheguem a um acordo amig�
 
 b) A pessoa que apresentou o caso retire o pedido de arbitragem ou o pedido de procedimento amigável.
 
-# PARTE V — MÉTODO DE ARBITRAGEM
+## PARTE V — MÉTODO DE ARBITRAGEM
 
 1 - Salvo na medida em que as autoridades competentes dos Estados Contratantes acordem entre si regras diferentes, as seguintes disposições aplicam-se a um procedimento arbitral:
 
@@ -713,21 +723,21 @@ c) A decisão arbitral deve ser comunicada às autoridades competentes dos Estad
 
 2 - Anteriormente ao início do procedimento arbitral, as autoridades competentes dos Estados Contratantes devem assegurar que cada uma das pessoas que apresentou o caso, assim como os seus consultores, aceitam, por escrito, não divulgar, a qualquer outra pessoa, qualquer informação que recebam de qualquer das autoridades competentes ou da comissão arbitral, no decurso do procedimento arbitral. O procedimento amigável ao abrigo do artigo 23.º (Procedimento amigável) da Convenção, bem como o procedimento arbitral ao abrigo do presente Protocolo, relativos ao caso, são encerrados quando, em qualquer momento posterior à apresentação de um pedido de arbitragem e anterior à comunicação da decisão da comissão arbitral às autoridades competentes dos Estados Contratantes, uma pessoa que apresentou o caso ou um dos consultores dessa pessoa viole esse compromisso.
 
-# PARTE VI — ACORDO SOBRE UMA RESOLUÇÃO DIFERENTE
+## PARTE VI — ACORDO SOBRE UMA RESOLUÇÃO DIFERENTE
 
 Não obstante o disposto no n.º 4 da Parte I (Arbitragem vinculativa obrigatória) do presente Protocolo, uma decisão arbitral em conformidade com o presente Protocolo não é vinculativa para os Estados Contratantes e não é aplicada se as autoridades competentes dos Estados Contratantes acordarem entre si uma resolução diferente que abarque todas as questões não resolvidas no prazo de três meses após lhes ter sido comunicada a decisão arbitral.
 
-# PARTE VII — CUSTOS DO PROCEDIMENTO ARBITRAL
+## PARTE VII — CUSTOS DO PROCEDIMENTO ARBITRAL
 
 Num procedimento arbitral ao abrigo do presente Protocolo, as remunerações e as despesas dos membros da comissão arbitral, bem como os custos relacionados com os procedimentos arbitrais suportados pelos Estados Contratantes, são imputados aos Estados Contratantes de um modo a estabelecer através de acordo amigável entre as autoridades competentes dos Estados Contratantes. Na ausência desse acordo, cada Estado Contratante suporta as suas próprias despesas e as despesas do membro da comissão por si designado. Os custos com o presidente da comissão arbitral e outras despesas associadas à condução do procedimento arbitral são imputados aos Estados Contratantes em partes iguais.
 
-# PARTE VIII — COMPATIBILIDADE
+## PARTE VIII — COMPATIBILIDADE
 
 1 - Uma questão não resolvida decorrente de um procedimento amigável abrangido pelo âmbito do procedimento arbitral previsto no presente Protocolo não deve ser submetida a arbitragem quando essa questão se insira no âmbito de um caso em relação ao qual tenha previamente sido constituída uma comissão arbitral ou órgão similar em conformidade com uma convenção bilateral ou multilateral que preveja a arbitragem obrigatória e vinculativa para as questões não resolvidas decorrentes de um procedimento amigável.
 
 2 - O disposto no presente Protocolo não prejudica o cumprimento de obrigações mais amplas relativas à arbitragem de questões não resolvidas decorrentes de um procedimento amigável resultante de outras convenções de que os Estados Contratantes sejam ou venham a tornar-se Partes.
 
-# PARTE IX — CASOS ELEGÍVEIS PARA ARBITRAGEM
+## PARTE IX — CASOS ELEGÍVEIS PARA ARBITRAGEM
 
 As disposições do presente Protocolo aplicam-se apenas às questões decorrentes das disposições dos artigos 5.º (Estabelecimento estável), 7.º (Lucros das empresas) e 9.º (Empresas associadas) da Convenção, com exclusão dos seguintes casos:
 
@@ -739,7 +749,7 @@ c) Os casos que envolvam a aplicação de disposições gerais antiabuso previst
 
 d) Os casos que possam ser submetidos a arbitragem ao abrigo da Convenção relativa à eliminação da dupla tributação em caso de correção de lucros entre empresas associadas (90/436/CEE), tal como modificada, ou ao abrigo de qualquer outro instrumento da União Europeia.
 
-# PARTE X — PRODUÇÃO DE EFEITOS
+## PARTE X — PRODUÇÃO DE EFEITOS
 
 Não obstante o disposto no n.º 3 do artigo 28.º (Entrada em vigor) da Convenção, as disposições do presente Protocolo produzem efeitos unicamente em relação aos casos apresentados à autoridade competente de um Estado Contratante a partir da data de entrada em vigor da Convenção.
 
@@ -1305,7 +1315,7 @@ The Contracting State in whose territory this Convention is signed shall transmi
 
 In witness whereof the undersigned, duly authorized thereto, have signed this Convention
 
-Done at London on 15<sup>th</sup>, in two originals, in the Portuguese and English languages, both texts being equally authoritative.
+Done at London on 15th, in two originals, in the Portuguese and English languages, both texts being equally authoritative.
 
 For the Portuguese Republic:
 
@@ -1491,7 +1501,7 @@ The terms “VAT”, “customs duties” and “excise duties” are as defined
 
 In witness whereof the undersigned, duly authorized thereto, have signed this Protocol.
 
-Done at London on 15<sup>th</sup>, in two originals, in the Portuguese and English languages, both texts being equally authoritative.
+Done at London on 15th, in two originals, in the Portuguese and English languages, both texts being equally authoritative.
 
 For the Portuguese Republic:
 
@@ -1500,3 +1510,5 @@ Paulo Artur dos Santos de Castro de Campos Rangel, Minister of State and Foreign
 For the United Kingdom of Great Britain and Northern Ireland:
 
 Yvette Cooper, Foreign Secretary.
+
+119918439

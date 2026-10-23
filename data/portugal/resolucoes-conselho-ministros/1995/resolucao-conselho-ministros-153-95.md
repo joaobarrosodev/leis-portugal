@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/273b00/73187334.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/153/1995/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1995-692234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 689564de831c301ad8094d360b91a39780dcc2bdd1a64b8a0e3f75f015bf089e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37747b021e21b552afea002312da63c3786bebfc3d71d701627a0ea5992269b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,19 @@ relationships:
   target: pt:dre:444190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:358971:por
+  label: "Ratificadas as alterações às plantas anexas ao presente diploma, pela RES.90/97.1997.05.15.PCM DR.IS-B [133] de\
+    \ 11/Jun/1997U\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/90-1997-358971
+  date: '1997-05-15'
+- type: amended_by
+  target: pt:dre:444190:por
+  label: "Ratificada parcialmente a revisão do Plano Director Municipal de Vila Viçosa e revogado o Plano Director Municipal\
+    \ para o mesmo município, ratificado pelo presente diploma, com as alterações ratificadas pela Res 90/97, da PCM, de 11-Jun,\
+    \ pela RES.193/2008.15.12.2008.PCM, DR.IS [241] de 15.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/193-2008-444190
+  date: '2008-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -115,16 +128,212 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668278:por
+  label: null
+  source: null
 article_structure:
   article_count: 72
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 37
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:56Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +370,9 @@ Presidência do Conselho de Ministros, 28 de Setembro de 1995. - O Primeiro-Mini
 
 Regulamento do Plano Director Municipal de Vila Viçosa
 
-## TÍTULO I — CAPÍTULO I
+## TÍTULO I
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -351,7 +562,7 @@ As áreas referidas no artigo anterior podem ainda ter outras utilizações ou o
 
 1 - Os limites máximos a observar nos espaços urbanos e urbanizáveis para os efeitos de licenciamento municipal são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/273b00/73187334.pdf))](https://files.diariodarepublica.pt/1s/1995/11/273b00/73187334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/273b00/73187334.pdf)
 
 2 - Na áreas correspondentes às unidades operativas de planeamento e gestão os índices urbanísticos aplicáveis serão também os que se encontram estipulados no presente Regulamento.
 
@@ -1183,7 +1394,9 @@ Vila Viçosa-Terena.
 
 2 - Nas referidas linhas de transporte observar-se-á em toda a sua extensão o regime geral previsto na legislação em vigor.
 
-## TÍTULO III — CAPÍTULO X
+## TÍTULO III
+
+### CAPÍTULO X
 
 Unidades operativas de planeamento e gestão
 
@@ -1309,4 +1522,4 @@ Portaria n.º 615/C4/91, de 8 de Julho;
 
 Zonas de caça turística.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/273b00/73187334.pdf))](https://files.diariodarepublica.pt/1s/1995/11/273b00/73187334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/273b00/73187334.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/157/2003/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/157-2003-493177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95d791974ccd13d62e0cf85c0a322158b7a66cfa3c52797b96fc4ca3a33d67ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6582e534bfed7babef308d2f897ddb60fc02b9bc3f661f9a7c1074e10ce731cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
 - Ponte de Sor
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:306614:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249815:por
+  label: "Aprovada a alteração à delimitação da Reserva Ecológica Nacional no município de Ponte de Sor, pela RES.68/2008.14.04.2008.PCM,\
+    \ DR.IS [73] de 14.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/68-2008-249815
+  date: '2008-04-14'
+- type: amended_by
+  target: pt:dre:306614:por
+  label: "Aprovada a alteração (substituindo as folhas n.º F3.1, F3.3 e F3.4 da planta de delimitação e mantendo em vigor\
+    \ a folha F3.2) à delimitação da Reserva Ecológica Nacional do município de Ponte de Sor aprovada pela presente resolução,\
+    \ com a alteração aprovada pela Res 68/2008, de 14-Abr, da PCM, pela PORT.1317/2010.28.12.2010.MAOT, DR.IS [250] de 28.12.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1317-2010-306614
+  date: '2010-12-28'
+- type: amended_by
+  target: pt:dre:1700630:por
+  label: "Corrigida materialmente a carta correspondente à Carta Militar n.º 368 da Reserva Ecológica Nacional do Município\
+    \ de Ponte de Sor, aprovada pelo presente diploma, e cuja delimitação foi posteriormente alterada pela Res 68/2008 de\
+    \ 14-Abr da PCM, e pela Port 1317/2010 de 28-Dez, pelo DESP-EXT.3168/2011.16.02.2011.CCDRALT-MAOT, DR.IIS [33] de 16.02.2011,\
+    \ que republicou a referida carta corrigida.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/3168-2011-1700630
+  date: '2011-02-16'
+- type: amended_by
+  target: pt:dre:3081832:por
+  label: "Corrigida materialmente a carta correspondente à Carta Militar nº 356 da Reserva Ecológica Nacional do Município\
+    \ de Ponte de Sor, aprovada pelo presente diploma, cuja delimitação foi posteriormente alterada pela Res 68/2008 de 14-Abr\
+    \ da PCM e pela Port 1317/2010 de 28-Dez, e rectificada pelo Desp-Ext 3168/2011 de 16-Fev, pelo DESP-EXT.8975/2011.08.07.2011.CCDRALT-MAOT,\
+    \ DR.IIS [130] de 08.07.2011, que republicou a referida carta.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/8975-2011-3081832
+  date: '2011-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -83,16 +113,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:146434713:por
+  label: Tornada pública a correção material da delimitação da Reserva Ecológica Nacional do município de Ponte de Sor, republicada
+    pelo(a) Despacho n.º 10343/2020 - Diário da República n.º 208/2020, Série II de 2020-10-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/10343-2020-146434713
+  date: '2020-10-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:53Z'
   warnings: []
   errors: []
 ---

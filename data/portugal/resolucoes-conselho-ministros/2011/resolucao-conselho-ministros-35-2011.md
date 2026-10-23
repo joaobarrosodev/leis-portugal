@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/35/2011/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-2011-671582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2da2e757118d4aec18db1ba6d78ab2e22484902427fc4b97120a65d531a8a667
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27ecb3e6a432bcbb4ceed5eeb637e5a9b87738b627f3abfe374b3478c17a0e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
 - Energia Hidroelétrica
 - Gouveia
 - Mangualde
 - Medidas Preventivas
 - Nelas
+- Ordenamento do Território
+- Plano Director Municipal
 - Política de Solos
 - Seia
 relationships:
@@ -80,6 +80,28 @@ relationships:
   target: pt:dre:502843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2630737:por
+  label: "Tornado público ter sido aprovada pela Assembleia Municipal de Mangualde a suspensão parcial do Parcial do Plano\
+    \ Diretor Municipal - Zona da Senhora do Castelo, ratificado pela Res 171/95 de 15-dez da PCM, alterado pelo presente\
+    \ diploma, e estabelecidas medidas preventivas para a mesma área pelo prazo de dois anos pelo AV-EXT.1166/2012.25.01.2012.MMANGUALDE,\
+    \ DR.IIS [18] de 25.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/1166-2012-2630737
+  date: '2012-01-25'
+- type: amended_by
+  target: pt:dre:3386721:por
+  label: "Tornado público ter a Assembleia Municipal de Mangualde em 25.07.2013 deliberado aprovar a revisão do Plano Diretor\
+    \ Municipal de Mangualde, ratificado pela Res 171/95 de 15-dez da PCM, com as alterações que foram ratificadas pelo presente\
+    \ diploma, pelo AV.10007/2013.06.08.2013.MMANGUALDE, DR.IIS [150] de 06.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10007-2013-3386721
+  date: '2013-08-06'
+- type: amended_by
+  target: pt:dre:502843:por
+  label: "Prorrogados, pelo prazo de um ano, a suspensão parcial dos Planos Diretores Municipais de Gouveia e Seia, bem como\
+    \ o prazo de vigência das medidas preventivas estabelecidas pelo presente diploma, pela RES.69/2013.28.10.2013.PCM, DR.IS\
+    \ [208] de 28.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/69-2013-502843
+  date: '2013-10-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/182/2008/09/04/p/dre
   label: null
@@ -116,16 +138,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/82/2006/0
   label: null
   source: http://data.dre.pt/eli/resolconsmin/82/2006/0
+- type: cites
+  target: pt:dre:148981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690189:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:44Z'
   warnings: []
   errors: []
 ---
@@ -192,4 +262,4 @@ Presidência do Conselho de Ministros, 11 de Agosto de 2011. - O Primeiro-Minist
 
 Extracto das plantas de ordenamento dos Planos Directores Municipais de Gouveia, Mangualde, Nelas e Seia, com a delimitação das áreas abrangidas pela suspensão parcial e ou medidas preventivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/15700/0427404277.pdf))](https://files.diariodarepublica.pt/1s/2011/08/15700/0427404277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/15700/0427404277.pdf)

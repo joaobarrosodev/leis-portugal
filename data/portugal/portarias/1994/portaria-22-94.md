@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/006b00/00840085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/22/1994/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-1994-532606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b233bcf546331f4516ab2b5fba1adb4037b45ef08fc7a22b2f314e42ebfb7e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81a5c9e6b58a7c00c93a473c3cd6d2d9458a72252af11ada2742cbede58eb664
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/260/1993/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/260/1993/03/08/p/dre
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628833:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:425713:por
+  label: "Rectificado o preâmbulo pela DECL-RECT.27/94.28.02.1994.PCM, DR.IS-B [49]3ºSupl de 28.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/27-1994-425713
+  date: '1994-02-28'
+- type: repealed_by
+  target: pt:dre:500954:por
+  label: "Revogada pela PORT.465/95.17.05.1995.MF, DR.IS-B [114] de 17.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/465-1995-500954
+  date: '1995-05-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:16Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +144,7 @@ Determinação do valor da comparticipação das famílias
 
 1 - É aprovada a tabela para a determinação do valor da comparticipação das famílias prevista no n.º 1 do artigo 9.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/006b00/00840085.pdf))](https://files.diariodarepublica.pt/1s/1994/01/006b00/00840085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/006b00/00840085.pdf)
 
 2 - Nas modalidades de internato e de semi-internato a comparticipação familiar não pode ser inferior, respectivamente, ao valor do abono de família percebido por um só filho e a metade desse valor.
 
@@ -132,7 +154,7 @@ Determinação da poupança familiar
 
 É aprovada a tabela das despesas anuais fixas a considerar para o cálculo da poupança familiar e a determinação da comparticipação das famílias, de harmonia com o disposto no n.º 2 do artigo 9.º e no artigo 10.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/006b00/00840085.pdf))](https://files.diariodarepublica.pt/1s/1994/01/006b00/00840085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/006b00/00840085.pdf)
 
 4.º
 
@@ -152,6 +174,6 @@ A presente portaria revoga a [Portaria n.º 260/93](https://diariodarepublica.pt
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 19 de Novembro de 1993.**
+Assinada em 19 de Novembro de 1993.
 
-**A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/175b00/46204625.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/89/2001/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2001-378937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7304fa8fcb71d7a349c495d94b4389a5852990ebc5f9c09b3cff42c28645defd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9116720892e095e665a4535a2cedf3a84c5cbadfd2b15b8c54dce1fc2e75c3fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,19 @@ reuse:
 subjects:
 - Castelo de VIDE
 - Ordenamento do Território
-- Plano Director Municipal
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:70094135:por
+  label: Tornada pública a revogação a partir de 26.08.2015, do Plano de Pormenor de Expansão do Bairro da Muralha, ratificado
+    pelo presente diploma, pelo(a) Aviso n.º 9513/2015 - Diário da República n.º 165/2015, Série II de 2015-08-25, nos termos
+    do disposto no art. 89.º do Regulamento do PDMCV por ele publicado.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9513-2015-70094135
+  date: '2015-08-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/334/1995/12/28/p/dre
   label: null
@@ -93,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/126/1997/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/126/1997/07/30/p/dre
+- type: cites
+  target: pt:dre:144780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645280:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:41Z'
   warnings: []
   errors: []
 ---

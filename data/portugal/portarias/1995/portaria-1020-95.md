@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1020/1995/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1020-1995-431474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f90a42cb27026417b0da746737f67604dae1b98299e6bdbb1ec30de6149a56e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b9152895d131a11200a0cd78c88fe6269c4595abe2a1d6348ed9906ea333f2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixada
 - Criação de Lugares
+- Embaixada
 - Guiné-Bissau
 - Pessoal Assalariado
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:58Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +97,6 @@ Manda o Governo, pelo Ministro dos Negócios Estrangeiros, nos termos do § 1.º
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 11 de Julho de 1995.**
+Assinada em 11 de Julho de 1995.
 
 Pelo Ministro dos Negócios Estrangeiros, Domingos Manuel Martins Jerónimo, Subscretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.

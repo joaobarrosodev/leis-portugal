@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/103/2007/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2007-637232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97560e3ccd913b9c832ba224445f06696f3c2eb4a05cda8315397422746d693c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb148665984ed5228744ab642989c8454a5e35cb88bf8cd833428434ecece106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Qualidade do AR
-- Página na Internet
-- Proteção do Ambiente
-- Programa dos Tectos de Emissão Nacionais
-- Relatório
 - Agência Portuguesa do Ambiente
+- Página na Internet
+- Programa dos Tectos de Emissão Nacionais
+- Proteção do Ambiente
+- Qualidade do AR
+- Relatório
 relationships:
 - type: cites
   target: celex:31961L0006
@@ -119,13 +119,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:10Z'
   warnings: []
   errors: []
 ---
@@ -266,7 +266,7 @@ TABELA N.º 3.1
 
 Potencial de redução das emissões de gases acidificantes em 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
 
 3.3 - Estimativa de emissões de SO(índice 2), NO(índice x), COVNM e NH(índice 3)
 
@@ -288,7 +288,7 @@ TABELA N.º 3.2
 
 Emissões de SO(índice 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
 
 Relativamente às emissões de NO(índice x), estima-se uma redução global das emissões em 2010, não obstante alguns sectores aumentarem as emissões. É o caso do sector doméstico e de serviços (+ 37 %), em resultado do aumento de emissões verificado no sector dos serviços, e indústria (+ 5 %), conforme se pode verificar na tabela n.º 3.3 e na fig. 3.2.
 
@@ -296,7 +296,7 @@ TABELA N.º 3.3
 
 Emissões de NO(índice x)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
 
 Quanto às emissões de amónia (NH(índice 3)) e à semelhança dos outros poluentes considerados, verifica-se um decréscimo das emissões. No entanto, o sector dos transportes (+ 16 %) e da indústria (+ 7 %) aumentam as emissões deste poluente, como é verificável na tabela n.º 3.4 e na fig. 3.3.
 
@@ -304,7 +304,7 @@ TABELA N.º 3.4
 
 Emissões de NH(índice 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
 
 As emissões de COVNM são igualmente reduzidas entre 2000 e 2010. Todos os sectores, com excepção do sector doméstico, reduzem as emissões deste poluente, conforme se pode observar na tabela n.º 3.5 e na fig. 3.4.
 
@@ -312,7 +312,7 @@ TABELA N.º 3.5
 
 Emissões de COVNM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
 
 Em síntese, tendo em consideração as emissões de gases acidificantes no cenário de referência, por sector de actividade e por poluente, em 2000 e 2010, pode concluir-se que:
 
@@ -334,7 +334,7 @@ De facto, nesta análise não é considerado o esforço de redução do sector d
 
 No entanto, estas directivas têm impacte significativo na redução das emissões de GA, prevendo-se que o sector dos transportes venha a efectuar um esforço de redução de emissões relevante até 2010. Salienta-se que o acordo voluntário com as associações da indústria automóvel europeia, japonesa e coreana (acordo ACEA/JAMA/KAMA) tem um impacte muito reduzido nas emissões de SO(índice 2) (0,005 kt SOx em 2010). Por outro lado, prevê-se que a directiva sobre biocombustíveis reduzirá as emissões dos quatro poluentes mas em valores inferiores a 1 kt.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
 
 No que respeita à contribuição relativa dos diversos sectores (excepto transportes) no esforço total de redução de emissões por meio da implementação dos instrumentos de política e medidas em vigor, constata-se que o sector electroprodutor será o principal responsável pela diminuição do SO(índice 2) em 2010 (48 % do esforço total de redução de SO(índice 2) em 2010), seguido pela refinação com 32 % do total do esforço, a indústria com 18 % e o doméstico e serviços com 2 % do esforço total de redução em 2010. A redução do teor de enxofre nos combustíveis e a directiva das grandes instalações de combustão (GIC) são os principais instrumentos que levam a esta redução de emissões.
 
@@ -378,13 +378,13 @@ As estimativas de emissões de COVNM encontram-se 8 % acima do tecto que foi est
 
 Assim, os instrumentos de política e medidas identificados e que já se encontram em vigor são suficientes para assegurar o cumprimento dos tectos nacionais de emissão estabelecidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
 
 TABELA N.º 4.1
 
 Síntese das emissões de GA no cenário de referência em 2000 e 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15000/0503205040.pdf)
 
 5 - Referências
 

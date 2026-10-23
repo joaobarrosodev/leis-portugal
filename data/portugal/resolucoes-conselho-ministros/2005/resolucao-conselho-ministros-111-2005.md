@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/111/2005/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-2005-233737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e09e86f0976100093084f7fb232e552d5104d73bacb1d39d8d50ca6c5957bb2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78627c1ff918e96a1e1190fdf38f1a550168404a7551028594f3c63c07bd7c45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,54 +67,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Investigador
+- Administração de Portos
+- Administração Pública
 - ALTA Autoridade contra a Corrupção
-- Tempo de Serviço
 - Aposentação
-- Médico
-- Direcção Geral dos Serviços Prisionais
-- Guarda Fiscal
-- Instituto Nacional de Medicina Legal
+- Bombeiro
+- Caixa Geral de Aposentações
+- Comunicações
 - Conservador
 - Controlador de Tráfego Aéreo
+- Direcção Geral dos Serviços Prisionais
 - Educador de Infância
 - Empresa Pública
 - Estatuto da Aposentação
-- Administração Pública
-- Administração de Portos
-- Instituto dos Têxteis
-- Caixa Geral de Aposentações
+- Funcionário Público
+- GNR
+- Guarda Fiscal
+- Guarda Florestal
 - Inspecção Geral das Actividades Económicas
-- Ministério das Finanças
-- Ministério do Trabalho e da Solidariedade Social
-- Mestre Florestal
-- Instituto Marítimo-portuário
+- Instituto de Meteorologia
 - Instituto dos Produtos Florestais
 - Instituto dos Produtos Químicos e Farmacêuticos
-- Instituto de Meteorologia
+- Instituto dos Têxteis
+- Instituto Geográfico Português
+- Instituto Marítimo-portuário
+- Instituto Nacional de Medicina Legal
+- Investigador
 - Juiz
-- Bombeiro
 - Magistrado do Ministério Público
-- GNR
+- Médico
+- Mestre Florestal
+- Militar
+- Ministério das Finanças
+- Ministério do Trabalho e da Solidariedade Social
 - Notário
-- Serviço de Estrangeiros e Fronteiras
 - Oficial dos Registos e do Notariado
 - Pessoal de Enfermagem
+- Pessoal Docente
 - Pessoal Militarizado
 - Pessoal Técnico de Diagnóstico e Terapêutica
-- Guarda Florestal
+- Polícia Judiciária
 - Portagem
 - Pré-reforma
-- Pessoal Docente
-- Comunicações
+- PSP
 - Reforma
-- Polícia Judiciária
 - Reserva
-- Militar
+- Serviço de Estrangeiros e Fronteiras
 - Serviço de Informações Estratégicas de Defesa
-- Funcionário Público
-- Instituto Geográfico Português
+- Tempo de Serviço
 - Vigilante da Natureza
 relationships:
 - type: amended_by
@@ -125,16 +125,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/2002/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2002/12/20/p/dre
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:35Z'
   warnings: []
   errors: []
 ---

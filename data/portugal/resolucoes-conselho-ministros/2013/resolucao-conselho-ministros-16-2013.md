@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/16/2013/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2013-259424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cde014fd47ac32715b9769f3fdacb6c9dcfd13a71e125bc51c773a17d008086f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d5207093a59ce2b8e98674ea35a7994e0c9264300876a988f781429bd8ae048
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Financiamento
-- EUA
-- Fundação para a Ciência e a Tecnologia
 - Conselho de Ministros
 - Contrato de Cooperação
-- Portugal
+- Cooperação Internacional
 - Delegação de Competências
 - Despesas Públicas
+- EUA
+- Financiamento
+- Fundação para a Ciência e a Tecnologia
 - Fundação para a Computação Científica Nacional
 - Gestão Orçamental
 - Governo XIX
 - Ministro da Educação e Ciência
 - Orçamento
-- Cooperação Internacional
+- Organismo Internacional
 - Política de Investigação e Desenvolvimento
+- Portugal
 - Transferência de Competências
 - Transferência de Verbas
-- Organismo Internacional
 relationships:
 - type: amended_by
   target: pt:dre:58904669:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58904669:por
+  label: Alterado o n.º 4 do presente diploma pelo(a) Resolução do Conselho de Ministros n.º 67/2014 - Diário da República
+    n.º 223/2014, Série I de 2014-11-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/67-2014-58904669
+  date: '2014-11-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
   label: null
@@ -114,16 +120,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:530811:por
+  label: "Retificado o canto superior direito do anexo pela DECL-RECT.26-A/2013.20.05.2013.PCM, DR.IS [96-Supl] de 20.05.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/26-a-2013-530811
+  date: '2013-05-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:58Z'
   warnings: []
   errors: []
 ---
@@ -190,4 +226,4 @@ i) 1 645 000,00 EUR (um milhão e seiscentos e quarenta e cinco mil euros) corre
 
 Presidência do Conselho de Ministros, 7 de março de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05700/0178501786.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05700/0178501786.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05700/0178501786.pdf)

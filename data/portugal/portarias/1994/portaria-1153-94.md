@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1153/1994/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1153-1994-321726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7930642cd4117d72905926b39cf0a8b28c45e40889a7a52647d79d43f724e0f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2c202d67554aaac8e67017aaed2f05b6655d7a31c251e476c474c2a6d65b6a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselheiro Militar
+- Missão Permanente de Portugal Junto da ONU
 - Nomeação
 - Quadro de Pessoal
-- Missão Permanente de Portugal Junto da ONU
 relationships:
 - type: amended_by
   target: pt:dre:506803:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:339236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599562:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:19:35Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +129,6 @@ Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças e dos Negóci
 
 Ministérios da Defesa Nacional, das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 2 de Novembro de 1994.**
+Assinada em 2 de Novembro de 1994.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso.

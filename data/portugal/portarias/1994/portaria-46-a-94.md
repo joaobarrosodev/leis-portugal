@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 13/1994, 1º Suplemento, Série I-B de 1994-01-17
   number: '13'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 208-(2) a 208-(79)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/013b01/00020079.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/46-a/1994/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/46-a-1994-406289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa83ff294e6acab3ab6c8ddb1ae8dadeff2cf8facd82be3a59fc444cb162ace
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98a6bbda31097e8c29bc454a99ac5ad8cb5d72a6a09ff68c11e5d649b3fa852f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,52 @@ relationships:
   target: pt:dre:302974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:231765:por
+  label: "Aditados diversos sinais, relativos à EXPO 98, aos arts. 4º, 5º e 5º-A do Regulamento do Código da Estrada, aprovado\
+    \ pelo Dec Lei 39987 de 22-Dez 1954 (na redacção do presente diploma) pela PORT.65/98.1998.02.16.MAI, DR.IS-B [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-1998-231765
+  date: '1998-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/67/1991/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/67/1991/01/25/p/dre
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508445:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:302974:por
+  label: "Revogados os arts. 1.º a 11.º do Regulamento do Código da Estrada aprovado pelo Dec Lei 39987 de 22-Dez 1954 DG.IS\
+    \ [285]Supl, na redacção dada pelo presente diploma, pelo DR.22-A/98.1998.10.01.MAI DR.IS-B [227]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-a-1998-302974
+  date: '1998-10-01'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:09Z'
   warnings: []
   errors: []
 ---
@@ -833,8 +865,8 @@ c) Com o sinal C17, quando se considerar útil indicar a extensão na qual se ap
 
 Ministério da Administração Interna.
 
-**Assinada em 4 de Janeiro de 1993.**
+Assinada em 4 de Janeiro de 1993.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/013b01/00020079.pdf))](https://files.diariodarepublica.pt/1s/1994/01/013b01/00020079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/013b01/00020079.pdf)

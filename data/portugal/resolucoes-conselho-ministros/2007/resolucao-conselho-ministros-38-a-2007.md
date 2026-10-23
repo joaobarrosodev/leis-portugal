@@ -23,12 +23,12 @@ publication:
   reference: Diário da República n.º 42/2007, 2º Suplemento, Série I de 2007-02-28
   number: '42'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1414-(26) a 1414-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04202/00260026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/38-a/2007/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/38-a-2007-470073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64bfbc8be98c4fe19534c552cc441442f1717e990198b04c74e412736cfe2b5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de0fcb02226b558c43d81098d94daf9b41cb4f00e3d9f336d6370a6de3e6e09e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alentejo
 - Capital Social
+- Centro Hospitalar de Coimbra
 - Centro Hospitalar de Lisboa Central
 - Centro Hospitalar de Trás-os-montes e ALTO Douro
 - Centro Hospitalar de VILA NOVA de Gaia-espinho
 - Centro Hospitalar do ALTO AVE
 - Centro Hospitalar do Médio AVE
-- Gestão Financeira
-- Ministro da Saúde
 - Definição de Competências
 - Empresa Pública
-- Hospital do Espírito Santo
-- Centro Hospitalar de Coimbra
-- Ministro das Finanças e da Administração Pública
-- Alentejo
 - Évora
+- Gestão Financeira
+- Hospital do Espírito Santo
+- Ministro da Saúde
+- Ministro das Finanças e da Administração Pública
 - Unidade Local de Saúde
 relationships:
 - type: cites
@@ -94,16 +94,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454366:por
+  label: "Revogada, a partir de 28.07.2008, pela RES.116/2008.23.07.2008.PCM, DR.IS [141] de 23.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/116-2008-454366
+  date: '2008-07-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:23Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +145,4 @@ Presidência do Conselho de Ministros, 11 de Janeiro de 2007. - O Primeiro-Minis
 
 ## ANEXO — Calendário de subscrição faseada de dotações de capital estatutário para o triénio de 2007-2009
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/04202/00260026.pdf))](https://files.diariodarepublica.pt/1s/2007/02/04202/00260026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/04202/00260026.pdf)

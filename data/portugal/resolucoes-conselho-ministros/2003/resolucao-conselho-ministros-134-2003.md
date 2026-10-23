@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/198b00/56955695.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/134/2003/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-2003-633173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b81a47588369fea629186d4180df756ec8ead35f7c80dac3dd94c0ddd5824b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40215defb5d5e08d2ad9f14278400010666d5f06fff180c1cdd24165f2b74436
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Comissão Interministerial para a Inovação e Conhecimento
 - Ministro Adjunto do Primeiro-ministro
-- Sociedade da Informação
 - PCM-Entidades
+- Sociedade da Informação
 - UMIC
 relationships:
 - type: amended_by
@@ -85,16 +85,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/3/2001/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/3/2001/01/08/p/dre
+- type: cites
+  target: pt:dre:239187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451783:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545635:por
+  label: "Revogada a Res 3/2001 de 08-Jan, alterada pelo presente diploma, pela RES.143/2006.12.10.2006.PCM, DR.IS [209] de\
+    \ 30.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/143-2006-545635
+  date: '2006-10-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:36Z'
   warnings: []
   errors: []
 ---

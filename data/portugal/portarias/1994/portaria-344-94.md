@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/344/1994/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/344-1994-301594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 979250c9f9c7fd118327e19c0b7c491c2103d311cdd1222a7486f36991566fce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73fb55eb21a4e257eb4e2629116e4c235090ed85bea36476db5825757a9a966b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,76 @@ reuse:
 subjects:
 - CE Países
 - CEE
-- Doença Vegetal
 - Controlo Sanitário
+- Doença Vegetal
+- Exportação
 - Fiscalização
 - Importação
 - País Estrangeiro
-- Zona de Proteção
 - Política Agrícola Comum
-- Exportação
-- Proteção Fitossanitária
 - Produção Vegetal
+- Proteção Fitossanitária
 - Troca Intracomunitária
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:486163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225450:por
+  label: "Alterados os anexos II, III, IV, V e VI pela PORT.731/94.12.08.1994.MA, DR.IS-B [186] de 12.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/731-1994-225450
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:476724:por
+  label: "Alterados os anexos I, II, III, IV e VI pela PORT.690/95.30.06.1995.MA, DR.IS-B [149] de 30.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/690-1995-476724
+  date: '1995-06-30'
+- type: amended_by
+  target: pt:dre:476725:por
+  label: "Alterada, para 01.07.1995, a data limite de reconhecimento provisório das zonas protegidas constantes do presente\
+    \ diploma, pela PORT.691/95.30.06.1995.MA, DR.IS-B [149] de 30.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/691-1995-476725
+  date: '1995-06-30'
+- type: amended_by
+  target: pt:dre:431578:por
+  label: "Aditado o n.º 18.º-A pela PORT.1024/95.21.08.1995.MA, DR.IS-B [192] de 21.08.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1024-1995-431578
+  date: '1995-08-21'
+- type: amended_by
+  target: pt:dre:534647:por
+  label: "Alterados os anexos II, IV, V e VI do presente diploma, pela PORT.88/96.21.03.1996.MADRP, DR.IS-B [69] de 21.03.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/88-1996-534647
+  date: '1996-03-21'
+- type: amended_by
+  target: pt:dre:436638:por
+  label: "Alterados os artigos 5.º, 13.º, 19.º, a parte B dos anexos I, II e IV e o anexo VI, e adita o artigo 25.º pela PORT.212/96.12.06.1996.MADRP,\
+    \ DR.IS-B [135] de 12.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-1996-436638
+  date: '1996-06-12'
+- type: amended_by
+  target: pt:dre:214235:por
+  label: "Alterados os anexos I, II, III, IV, V e VI pela PORT.507/96.25.09.1996.MADRP, DR.IS-B [223] de 25.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/507-1996-214235
+  date: '1996-09-25'
+- type: amended_by
+  target: pt:dre:505413:por
+  label: "Altera o anexo VI pela Port 138/97.1997.02.26.MADRP, DR.IS-B [48]3\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-1997-505413
+  date: '1997-02-26'
+- type: amended_by
+  target: pt:dre:515395:por
+  label: "Alterados os anexos I, IV e V pela Port.167/97.1997.03.07. MADRP, DR.IS-B [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/167-1997-515395
+  date: '1997-03-07'
+- type: amended_by
+  target: pt:dre:164379:por
+  label: "Alterada a redacção do num 12 da parte A do anexo III pela Port.412/97.1997.06.23.MADRP, DR.IS-B [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/412-1997-164379
+  date: '1997-06-23'
 - type: cites
   target: celex:31977L0093
   label: null
@@ -97,16 +150,21 @@ relationships:
   target: celex:31990L0220
   label: null
   source: http://data.europa.eu/eli/dir/1990/220/oj
+- type: repealed_by
+  target: pt:dre:486163:por
+  label: "Revogada pelo DEC LEI.14/99.1999.01.12.MADRP DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1999-486163
+  date: '1999-01-12'
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:25:28Z'
   warnings: []
   errors: []
 ---
@@ -525,11 +583,13 @@ Qualquer pessoa que saiba ou suspeite da existência de qualquer organismo preju
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Maio de 1994.**
+Assinada em 10 de Maio de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## ANEXO I — PARTE A
+## ANEXO I
+
+## PARTE A
 
 Organismos prejudiciais cuja introdução e dispersão é proibida no interior do País e nos restantes Estados membros
 
@@ -809,65 +869,71 @@ d) Vírus e organismos afins
 
 3 - Pear decline mycoplasm.
 
-# PARTE B — Organismos prejudiciais cuja introdução e dispersão é proibida em determinadas zonas protegidas
+## PARTE B — Organismos prejudiciais cuja introdução e dispersão é proibida em determinadas zonas protegidas
 
 a) Insectos, ácaros e nemátodos em qualquer fase do seu desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
 d) Vírus e organismos afins
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
-## ANEXO II — PARTE A
+## ANEXO II
+
+## PARTE A
 
 Organismos prejudiciais cuja introdução e dispersão é proibida no interior do País e nos restantes Estados membros desde que estejam presentes em determinados vegetais ou produtos vegetais
 
 #### SECÇÃO I — Organismos prejudiciais não existentes na Comunidade e importantes para toda a Comunidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
 #### SECÇÃO II — Organismos prejudiciais existentes na Comunidade e importantes para toda a Comunidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
-# PARTE B — Organismos prejudiciais cuja introdução e dispersão é proibida em determinadas zonas protegidas desde que presentes em determinados vegetais e produtos vegetais
+## PARTE B — Organismos prejudiciais cuja introdução e dispersão é proibida em determinadas zonas protegidas desde que presentes em determinados vegetais e produtos vegetais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
-## ANEXO III — PARTE A
+## ANEXO III
+
+## PARTE A
 
 Vegetais, produtos vegetais e outros objectos cuja introdução é proibida no País e nos restantes Estados membros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
-# PARTE B — Vegetais, produtos vegetais e outros objectos cuja introdução é proibida em determinadas zonas protegidas
+## PARTE B — Vegetais, produtos vegetais e outros objectos cuja introdução é proibida em determinadas zonas protegidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
-## ANEXO IV — PARTE A
+## ANEXO IV
+
+## PARTE A
 
 Exigências específicas relativas aos vegetais, produtos vegetais e outros objectos e que deverão ser respeitadas para efeitos de introdução e circulação dos mesmos, no interior do País e dos restantes Estados membros
 
 #### SECÇÃO I — Vegetais, produtos vegetais e outros objectos originários de países terceiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
 #### SECÇÃO II — Vegetais, produtos vegetais e outros objectos originários da Comunidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
-# PARTE B
+## PARTE B
 
 Exigências específicas relativas aos vegetais, produtos vegetais e outros objectos e que deverão ser respeitadas para efeitos de introdução e circulação dos mesmos no interior de determinadas zonas protegidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
 ## ANEXO V
 
 Vegetais, produtos vegetais e outros objectos que devem ser submetidos a inspecção fitossanitária no local de produção, se originários da Comunidade, antes de poderem circular na Comunidade ou no país de origem ou no país expedidor, se originários de países terceiros, antes de poderem entrar na Comunidade.
 
-# PARTE A — Vegetais, produtos vegetais e outros objectos originários da Comunidade
+## PARTE A — Vegetais, produtos vegetais e outros objectos originários da Comunidade
 
 I - Vegetais, produtos vegetais e outros objectos portadores potenciais de organimos prejudiciais importantes para toda a Comunidade e que devem ser acompanhados de passaporte fitossanitário.
 
@@ -895,7 +961,7 @@ Platanus L., incluindo a madeira que não manteve a sua superfície natural arre
 
 b) Corresponda a uma das designações que se seguem, constantes da parte II do anexo I do Regulamento (CEE) n.º [2658/87](http://data.europa.eu/eli/reg/1987/2658/oj?locale=pt), do Conselho, de 23 de Julho de 1987, relativo à nomenclatura pautal e estatística e à Pauta Aduaneira Comum (ver nota 1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
 (nota 1) JO, n.º L 256, de 7 de Setembro de 1987, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 2505 (JO, n.º L 267, de 14 de Setembro de 1992, p. 1).
 
@@ -943,7 +1009,7 @@ a) Tenha sido obtida no todo ou em parte de coníferas (Coniferales); e
 
 b) Corresponda a uma das designações que se seguem, constantes da parte II do anexo I do Regulamento CEE n.º [2658/87](http://data.europa.eu/eli/reg/1987/2658/oj?locale=pt):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
 1.11 - Casca isolada de coníferas (Coniferales).
 
@@ -953,7 +1019,7 @@ b) Corresponda a uma das designações que se seguem, constantes da parte II do 
 
 2.2 - Vegetais de Begonia L. e Euphorbia pulcherrima Willd., destinados à plantação, excepto sementes.
 
-# PARTE B
+## PARTE B
 
 Vegetais, produtos vegetais e outros objectos, originários de países terceiros, que devem ser acompanhados de certificado fitossanitário e submetidos a inspecção fitossanitária, quando da sua introdução no País.
 
@@ -1005,7 +1071,7 @@ Acer saccharum Marsh., incluindo a madeira que não manteve a sua superfície na
 
 b) Corresponda a uma das designações que se seguem, constantes da parte II do anexo I do Regulamento CEE n.º [2658/87](http://data.europa.eu/eli/reg/1987/2658/oj?locale=pt):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
 Nota. - As pallettes simples e «pallettes caixa» (código NC ex 4415 20) ficam isentas sempre que satisfaçam as normas previstas para as «pallettes-UIC» e que estejam marcadas como tal.
 
@@ -1035,7 +1101,7 @@ a) Tenha sido obtida, no todo ou em parte, de coníferas (Coniferales), excepto 
 
 b) Corresponda a uma das designações que se seguem, constantes da parte II do anexo I do Regulamento CEE n.º [2658/87](http://data.europa.eu/eli/reg/1987/2658/oj?locale=pt):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
 Nota. - As pallettes simples e «pallettes caixa» (código NC ex 4415 20) ficam também isentas sempre que satisfaçam as normas previstas para as «pallettes-UIC» e que estejam marcadas como tal.
 
@@ -1043,14 +1109,16 @@ Nota. - As pallettes simples e «pallettes caixa» (código NC ex 4415 20) ficam
 
 ## ANEXO VI — Zonas da Comunidade reconhecidas como «zonas protegidas», em relação ao ou aos organismos prejudiciais indicados para cada zona
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
-## ANEXO VII — PARTE A
+## ANEXO VII
+
+## PARTE A
 
 Modelo de certificado fitossanitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
 
-# PARTE B — Modelo de certificado fitossanitário de reexportação
+## PARTE B — Modelo de certificado fitossanitário de reexportação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf))](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/127b00/28782921.pdf)

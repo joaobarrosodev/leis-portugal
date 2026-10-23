@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 231/2008, 1º Suplemento, Série I de 2008-11-27
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8554-(2) a 8554-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/191-a/2008/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/191-a-2008-337042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 202eb8a528d9118493a6fd8fa7fea468af49c5d5fd82fe84cd2102697ddaba2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f913eb9fcd17a54b2368401f2fd7636e8b5583ff14bb496f5abbde5c9545bfad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundo de Apoio ao Sistema de Pagamentos do Serviço Nacional de Saúde
-- Reestruturação de Serviços
-- Região Autónoma
-- Financiamento
-- Ministério das Finanças e da Administração Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Autarquia Local
 - Criação de Serviços
 - Definição de Competências
 - Direção Geral das Autarquias Locais
+- Direção Geral do Orçamento
 - Direção Geral do Tesouro e Finanças
 - Dívida Pública Interna
 - Dívidas das Autarquias Locais
-- Administração Pública
-- Secretaria Geral
+- Financiamento
+- Fundo de Apoio ao Sistema de Pagamentos do Serviço Nacional de Saúde
+- Ministério
+- Ministério das Finanças e da Administração Pública
+- Organismo do Estado
 - Pagamento
 - Publicitação
-- Ministério
-- Direção Geral do Orçamento
-- Organismo do Estado
-- Administração Local
+- Reestruturação de Serviços
+- Região Autónoma
 - Saneamento Económico e Financeiro
-- Administração Regional
-- Autarquia Local
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:603503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603503:por
+  label: "Alterado o nº 9 e prorrogado, até 30.06.2009, o prazo a que se refere o nº 10, pela RES.29/2009.30.03.2009.PCM,\
+    \ DR.IS [62] de 30.03.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/29-2009-603503
+  date: '2009-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/185/2006/09/12/p/dre
   label: null
@@ -112,16 +118,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/34/2008/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/34/2008/02/22/p/dre
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540022:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:22Z'
   warnings: []
   errors: []
 ---
@@ -180,13 +206,13 @@ a) O montante solicitado pela Região Autónoma ou pelo município;
 
 b) O montante de financiamento (F) obtido pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf)
 
 12 - Estabelecer que ao montante de financiamento atribuível, determinado de acordo com o número anterior, é deduzido:
 
 a) No caso das Regiões Autónomas e dos municípios que, durante o ano de 2008, tenham obtido financiamento de médio e longo prazos no âmbito do Programa Pagar a Tempo e Horas, aprovado pela [Resolução do Conselho de Ministros n.º 34/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-2008-247676), de 22 de Fevereiro, o valor obtido pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf)
 
 b) O valor dos empréstimos para saneamento ou reequilíbrio financeiro municipal contraídos desde a data de entrada em vigor da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, ou a contrair até à data de celebração do financiamento de médio e longo prazos ao abrigo da linha de financiamento de médio e longo prazos.
 
@@ -196,7 +222,7 @@ b) O valor dos empréstimos para saneamento ou reequilíbrio financeiro municipa
 
 15 - No caso de a soma dos montantes de financiamento atribuíveis exceder 1250 milhões de euros, o montante de financiamento atribuível a cada Região Autónoma e a cada município é deduzido do seguinte valor, em euros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/23101/0000200004.pdf)
 
 16 - Incumbir a Direcção-Geral do Tesouro e Finanças de divulgar na sua página electrónica, até 16 de Fevereiro de 2009, a lista das Regiões Autónomas e dos municípios elegíveis para financiamento ao abrigo da segunda fase de candidaturas de acesso à linha de financiamento de médio e longo prazos, bem como o respectivo montante autorizado de financiamento.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/166/1996/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/166-1996-230928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b69fc4977ffd6b2f59c4d89c97d9d64da8c31df0a654e35736bdeac535717a65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29acd83b8ba94b8b5d2e2e70e703b12cce54bb3a5a5d0af1f56314018b40cfba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cantanhede
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:258078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453837:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional do município de Cantanhede, constante da Port\
+    \ 807/93 de 07-Set, alterada pela presente Resolução, pela RES.138/2008.16.09.2008.PCM, DR.IS [179] de 16.09.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/138-2008-453837
+  date: '2008-09-16'
+- type: amended_by
+  target: pt:dre:258078:por
+  label: "Aprovada a alteração à delimitação da Reserva Ecológica Nacional do município de Cantanhede aprovada pelo presente\
+    \ diploma, com a alteração aprovada pela Res 138/2008, de 16-set, da PCM, pela PORT.48/2013.04.02.2013.MAMAOT, DR.IS [24]\
+    \ de 04.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/48-2013-258078
+  date: '2013-02-04'
+- type: amended_by
+  target: pt:dre:71092232:por
+  label: Aprovada a alteração da delimitação da REN do município de Cantanhede constante da Port 807/93 de 07-set, com as
+    alterações aprovadas pela presente Resolução, pelo(a) Despacho n.º 13662/2015 - Diário da República n.º 231/2015, Série
+    II de 2015-11-25 que republica a carta da REN
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/13662-2015-71092232
+  date: '2015-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -83,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:35Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +153,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 19 de Setembro de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/238b00/35913591.pdf))](https://files.diariodarepublica.pt/1s/1996/10/238b00/35913591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/238b00/35913591.pdf)

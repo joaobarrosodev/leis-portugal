@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/46/2000/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-2000-290375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2f640a34e457dfd6ec837c659198a9798e47d96a6c9aa6f05d37c33d5e68558
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1517ca97b4fcee6d69af773e795c822110b65ccca52568dbf1477f7ac736c596
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Definição de Competências
+- Câmara Municipal
+- Cascais
 - Comissão
+- Definição de Competências
 - Instituto da Conservação da Natureza
 - Medidas Preventivas
+- Ordenamento do Território
 - Parque Natural de Sintra-Cascais
-- Câmara Municipal
 - Regulamento
-- Cascais
 - Sintra
 relationships:
 - type: amended_by
   target: pt:dre:692252:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:142720:por
+  label: "Prorrogado por um ano o prazo constante do nº 10 pela RES.102/2002.2002.06.06.PCM DR.IS-B [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/102-2002-142720
+  date: '2002-06-06'
 - type: cites
   target: celex:31992L0043
   label: null
@@ -93,16 +98,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/9/1994/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/1994/03/11/p/dre
+- type: repealed_by
+  target: pt:dre:692252:por
+  label: "Revogadas a al. o) do nº 1 do art. 4º, as als. e) e g) do nº 2 do art. 11º, os nºs 3, 4 e 5 do art. 12º, o art.\
+    \ 13º, a al. a) do art. 14º, os nºs 2 e 3 da al. a) e nºs 4 e 7 do art. 15º, o nº 5 do art. 16º, os nºs 4, 5, 6 e 7 do\
+    \ art. 21º, o art. 22º, art. 23º e o nº 2 do art. 24º e alterados os nºs 1 e 4 do art. 6º, a al. i) do art. 10º, a al.\
+    \ d) do nº 2 do art. 11º, a al. b) do art. 14º, o art. 15º e o art. 20º todos do Regulamento aprovado pelo DR 9/94 de\
+    \ 11-Mar, na redacção do presente diploma, pela RES.86/2003.2003.06.03.PCM, DR.IS-B [144] de 25/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/86-2003-692252
+  date: '2003-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:04Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/39/2012/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2012-553900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e188a1d0c88901acdefc899c80a1cf91e64ca854b27b3828a0098ed6490f4389
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 554099a22865d196759d22a42fd716f4bdedf603e1c7917f9d7736625cad0bb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Marinha Grande
 - Ordenamento do Território
 - Orla Costeira
 - Ovar
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
-- Marinha Grande
+- Proteção do Ambiente
 - Regulamento
 relationships:
 - type: cites
@@ -103,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/76/2005/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/76/2005/03/21/p/dre
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:53Z'
   warnings: []
   errors: []
 ---
@@ -167,4 +195,4 @@ Presidência do Conselho de Ministros, 22 de março de 2012. - O Primeiro-Minist
 
 Extrato da planta síntese do Plano de Ordenamento da Orla Costeira de Ovar-Marinha Grande, com a delimitação da área abrangida pela suspensão parcial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06400/0151901520.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06400/0151901520.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06400/0151901520.pdf)

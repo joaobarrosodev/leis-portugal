@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/14/2008/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-2008-248539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3552a7a3cdd58e5955e4137d80d33a7f096cd1b17043f95632829aa296a415b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9de678787f25696ec0d4c07b1be38999e10d1aedfad764bbda7950a663c580cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contrato de Concessão
-- Transporte Ferroviário
 - Metropolitano do Sul do Tejo
 - MTS-Metro Transportes do Sul
 - Rede Ferroviária
+- Transporte Ferroviário
 - Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:439861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439861:por
+  label: "Alterada a minuta do aditamento ao contrato de concessão que constitui o anexo, pela RES.167/2008.13.11.2008.PCM,\
+    \ DR.IS [221] de 13.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/167-2008-439861
+  date: '2008-11-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2008/01/23/p/dre
   label: null
@@ -94,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/102-a/2002/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/102-a/2002/07/22/p/dre
+- type: cites
+  target: pt:dre:248524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667892:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:51Z'
   warnings: []
   errors: []
 ---
@@ -180,13 +202,13 @@ Definições, interpretações e anexos
 
 1.4 - Fazem parte integrante do presente aditamento, para todos os efeitos legais e contratuais, os seus quatro anexos, organizados da seguinte forma:
 
-## Anexo A, «Plano de trabalhos»;
+Anexo A, «Plano de trabalhos»;
 
-## Anexo B, «Base de cálculo dos pagamentos por disponibilidade»;
+Anexo B, «Base de cálculo dos pagamentos por disponibilidade»;
 
-## Anexo C, «Caso base revisto»
+Anexo C, «Caso base revisto»
 
-## Anexo D, «Minuta do Contrato de Abertura de Crédito e Constituição de Garantias/Acordo com o Concedente».
+Anexo D, «Minuta do Contrato de Abertura de Crédito e Constituição de Garantias/Acordo com o Concedente».
 
 Cláusula 2.ª
 

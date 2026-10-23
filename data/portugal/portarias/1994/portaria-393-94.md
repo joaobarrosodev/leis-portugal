@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/393/1994/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-1994-305394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:26:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a7947d45a5cd63454e71f4dd3e0565ad083a706f1ce7c89ee7e83d132fe0210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1db4d717cdd6c5de10990e8aef40aa91d4d09c787def68fe237119ac38465949
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:26:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Estabelecimento Industrial
 - Oliveira do Hospital
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
@@ -89,16 +89,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:26:34Z'
   warnings: []
   errors: []
 ---
@@ -123,23 +191,23 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 1 de Junho de 1993.**
+Assinada em 1 de Junho de 1993.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor da Zona Industrial de Oliveira do Hospital
 
-###### Artigo 1.º O presente Regulamento aplica-se na área de intervenção do Plano de Pormenor da Zona Industrial de Oliveira do Hospital (PPZIOH), definida pela linha limite da urbanização, conforme a planta de síntese.
+Artigo 1.º O presente Regulamento aplica-se na área de intervenção do Plano de Pormenor da Zona Industrial de Oliveira do Hospital (PPZIOH), definida pela linha limite da urbanização, conforme a planta de síntese.
 
-###### Art. 2.º Serão observadas todas as directivas comunitárias, leis, decretos-leis, normas e regulamentos gerais dos diferentes níveis de planeamento que estejam em vigor em cada momento e especificamente deste Plano de Pormenor, do Regulamento Geral de Edificações Urbanas, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e ainda dos demais regulamentos em vigor e pareceres prestados por entidades oficiais para a respectiva área de intervenção.
+Art. 2.º Serão observadas todas as directivas comunitárias, leis, decretos-leis, normas e regulamentos gerais dos diferentes níveis de planeamento que estejam em vigor em cada momento e especificamente deste Plano de Pormenor, do Regulamento Geral de Edificações Urbanas, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e ainda dos demais regulamentos em vigor e pareceres prestados por entidades oficiais para a respectiva área de intervenção.
 
-###### Art. 3.º O loteamento obedecerá à subdivisão indicada na planta de síntese, dentro da aproximação que o trabalho de campo permita, devendo oportunamente ser analisados todos os ajustamentos ou modificações sensíveis por razões justificadas. Todas as construções têm obrigatoriamente os edifícios principais com frente e acesso para uma rua aprovada.
+Art. 3.º O loteamento obedecerá à subdivisão indicada na planta de síntese, dentro da aproximação que o trabalho de campo permita, devendo oportunamente ser analisados todos os ajustamentos ou modificações sensíveis por razões justificadas. Todas as construções têm obrigatoriamente os edifícios principais com frente e acesso para uma rua aprovada.
 
-###### Art. 4.º A modelação do terreno e a implantação dos edifícios terão em atenção os declives naturais do terreno, ou sua vegetação, que deverão ser mantidos, evitando-se movimentos de terra que contrariem as melhores condições existentes.
+Art. 4.º A modelação do terreno e a implantação dos edifícios terão em atenção os declives naturais do terreno, ou sua vegetação, que deverão ser mantidos, evitando-se movimentos de terra que contrariem as melhores condições existentes.
 
-###### Art. 5.º A Câmara Mmunicipal (CM) intervirá sempre em primeira instância na selecção das indústrias, conferindo-lhes prioridade e usando as formas de intervenção que activem e orientem o tipo de investimento, de modo a inseri-lo no modelo industrial proposto para o concelho, de acordo com o regulamento específico anexo.
+Art. 5.º A Câmara Mmunicipal (CM) intervirá sempre em primeira instância na selecção das indústrias, conferindo-lhes prioridade e usando as formas de intervenção que activem e orientem o tipo de investimento, de modo a inseri-lo no modelo industrial proposto para o concelho, de acordo com o regulamento específico anexo.
 
-###### Art. 6.º Condições a respeitar na selecção das indústrias a instalar - definição de prioridades:
+Art. 6.º Condições a respeitar na selecção das indústrias a instalar - definição de prioridades:
 
 a) Indústrias a montante e a jusante do sector agrícola que o promovam e dinamizem;
 
@@ -153,7 +221,7 @@ e) Indústrias complementares ou activadoras de relações presentes e futuras e
 
 f) Indústrias cuja elaboração preveja à partida qualquer grau de poluição do ambiente ou dos próprios esgotos só serão autorizadas após provas de que os métodos e sistemas a introduzir darão plena garantia de que a poluição será compatível com parâmetros aceitáveis.
 
-###### Art. 7.º Condições de instalação e de funcionamento de estabelecimentos industriais:
+Art. 7.º Condições de instalação e de funcionamento de estabelecimentos industriais:
 
 a) A viabilidade de instalação carece sempre do parecer da CM, nos termos do artigo anterior, de acordo com o artigo 4.º do [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março;
 
@@ -169,7 +237,7 @@ f) A CM poderá indeferir pedidos de instalação na Zona Industrial de estabele
 
 g) A CM poderá impor aos utentes da Zona Industrial a instalação e funcionamento de instalações de pré-tratamento dos efluentes líquidos, de modo a garantir que as águas residuais saídas da ETAR da Zona Industrial satisfaçam integralmente os parâmetros estabelecidos pela legislação em vigor.
 
-###### Art. 8.º Condições de ocupação dos lotes:
+Art. 8.º Condições de ocupação dos lotes:
 
 a) A percentagem de ocupação do solo não poderá, por cada lote, ser superior a 50% da área do mesmo;
 
@@ -189,21 +257,21 @@ Nos limites frontais que dão para a via pública os muros terão também a altu
 
 g) A implantação do edifício principal deve respeitar os afastamentos mínimos de 5,1 m e 20 m aos limites laterais, posteriores e frontal dos lotes, respectivamente.
 
-###### Art. 9.º A área coberta mínima a construir na 1.ª fase deverá ocupar pelo menos 20% da área coberta máxima.
+Art. 9.º A área coberta mínima a construir na 1.ª fase deverá ocupar pelo menos 20% da área coberta máxima.
 
-###### Art. 10.º Como ocupação especial deverão ser previstos:
+Art. 10.º Como ocupação especial deverão ser previstos:
 
 a) Por unidade industrial, uma habitação para o guarda, de preferência integrada no edifício principal;
 
 b) Lotes reservados para a construção complementar de equipamento de assistência aos trabalhadores.
 
-###### Art. 11.º É obrigatória a existência de uma faixa de protecção com 30 m de largura, envolvendo todo o parque industrial, denominada por zona de protecção, que deverá ser também considerada zona verde obrigatória; pela sua localização e porque se pretendem salvaguardar os valores ambientais, todas estas zonas verdes deverão ser escrupulosamente mantidas e fiscalizada a sua manutenção.
+Art. 11.º É obrigatória a existência de uma faixa de protecção com 30 m de largura, envolvendo todo o parque industrial, denominada por zona de protecção, que deverá ser também considerada zona verde obrigatória; pela sua localização e porque se pretendem salvaguardar os valores ambientais, todas estas zonas verdes deverão ser escrupulosamente mantidas e fiscalizada a sua manutenção.
 
-###### Art. 12.º A CM reserva o direito, após a apreciação da implantação do futuro edifício das fábricas, de exigir a manutenção, em zonas que determinará, da vegetação que dentro de cada lote não prejudique o pleno funcionamento da unidade fabril e que potencialmente não se torne minimamente perigosa ou ameaçadora de qualquer desastre.
+Art. 12.º A CM reserva o direito, após a apreciação da implantação do futuro edifício das fábricas, de exigir a manutenção, em zonas que determinará, da vegetação que dentro de cada lote não prejudique o pleno funcionamento da unidade fabril e que potencialmente não se torne minimamente perigosa ou ameaçadora de qualquer desastre.
 
-###### Art. 13.º Todos os lotes terão de ter áreas livres envolventes das edificações que permitam o livre e fácil acesso a viaturas de bombeiros.
+Art. 13.º Todos os lotes terão de ter áreas livres envolventes das edificações que permitam o livre e fácil acesso a viaturas de bombeiros.
 
-###### Art. 14.º Sistemas de despoluição:
+Art. 14.º Sistemas de despoluição:
 
 a) Os estabelecimentos industriais devem ser providos de sistemas antipoluentes, quando exigíveis por lei, por forma a evitar que os efluentes líquidos indevidamente tratados, poeiras leves, gases ou fumos tóxicos, ruídos em excesso ou odores demasiado incómodos sejam lançados na atmosfera, no solo ou nas linhas de água, para a rede de drenagem de águas residuais e rede de drenagem de águas pluviais;
 
@@ -231,13 +299,13 @@ l) Os prejuízos causados pela suspensão obrigatória do funcionamento dos sist
 
 m) A empresa proprietária é responsável pelos danos causados a terceiros pelo funcionamento não eficaz dos sistemas antipoluentes.
 
-###### Art. 15.º Quaisquer omissões ou dúvidas surgidas na aplicação do presente Regulamento serão resolvidas pela Câmara Municipal de Oliveira do Hospital.
+Art. 15.º Quaisquer omissões ou dúvidas surgidas na aplicação do presente Regulamento serão resolvidas pela Câmara Municipal de Oliveira do Hospital.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/141b00/32223224.pdf))](https://files.diariodarepublica.pt/1s/1994/06/141b00/32223224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/141b00/32223224.pdf)
 
 Quadro síntese
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/141b00/32223224.pdf))](https://files.diariodarepublica.pt/1s/1994/06/141b00/32223224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/141b00/32223224.pdf)
 
 Zona de intervenção do Plano: 193575 m2.
 

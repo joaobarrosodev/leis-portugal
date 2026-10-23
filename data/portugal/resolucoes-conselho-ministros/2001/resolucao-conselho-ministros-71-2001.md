@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/71/2001/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/71-2001-359553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eccf11244a6e97f5c910f77a79972303f3b25b12e60decb311f7c865b2426e94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe9002862afc9030ac68692617d567986d46fe90ed12f29ebce76ee1cdaf7233
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
 subjects:
 - Almeirim
 - Ordenamento do Território
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
-- Urbanismo
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:937405799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116127330:por
+  label: Aprovada 4.ª alteração ao Plano de Urbanização de Almeirim, ratificado pela presente resolução, pelo(a) Anúncio n.º
+    151/2018 - Diário da República n.º 160/2018, Série II de 2018-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/anuncio/151-2018-116127330
+  date: '2018-08-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -109,16 +115,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:300775:por
+  label: "DECL-RECT.15-A/2001.2001.08.13.PCM DR.IS-B [187]Supl de 13/Ago/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-a-2001-300775
+  date: '2001-08-13'
 article_structure:
-  article_count: 76
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 78
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:31Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +212,7 @@ Presidência do Conselho de Ministros, 24 de Maio de 2001. - O Primeiro-Ministro
 
 REGULAMENTO DO PLANO DE URBANIZAÇÃO DE ALMEIRIM
 
-# PARTE I — Das disposições gerais
+## PARTE I — Das disposições gerais
 
 ### CAPÍTULO ÚNICO — Disposições comuns, forma e articulação com outros planos, objectivos, definições de conceitos
 
@@ -263,13 +318,13 @@ Na ausência de plano de pormenor eficaz, a Câmara Municipal de Almeirim poder�
 
 Do anexo n.º 1 constam as definições dos conceitos utilizados no presente Regulamento.
 
-# PARTE II — Servidões administrativas e restrições de utilidade pública
+## PARTE II — Servidões administrativas e restrições de utilidade pública
 
 ###### Artigo 11.º — Servidões e restrições de utilidade pública
 
 Será cumprida toda a legislação vigente e aplicável relativa a servidões e restrições de utilidade pública, nomeadamente a referente a: domínio público hídrico; margens e zonas inundáveis, monumentos nacionais e imóveis de interesse público; edifícios públicos; saneamento básico; protecção de linhas eléctricas; passagem de linhas de alta tensão; estradas nacionais; vias municipais; telecomunicações; escolas; equipamento de saúde; indústrias insalubres, incómodas e perigosas; produtos explosivos; defesa nacional; marcos geodésicos e barreiras arquitectónicas.
 
-# PARTE III — Das classes de espaços
+## PARTE III — Das classes de espaços
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -791,9 +846,11 @@ São consideradas zonas non aedificandi da circular de Almeirim:
 
 20 m ao eixo da via, após a aprovação do seu projecto.
 
-# PARTE IV — Gestão do plano
+## PARTE IV — Gestão do plano
 
-### CAPÍTULO ÚNICO — Artigo 73.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 73.º
 
 Realização do plano
 
@@ -819,9 +876,11 @@ A Câmara Municipal de Almeirim regulará o faseamento e a execução dos trabal
 
 Os terrenos a ceder ao município devem respeitar o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro. São escriturados e registados a favor do município antes da emissão do alvará de loteamento.
 
-# PARTE V — Disposições finais e transitórias
+## PARTE V — Disposições finais e transitórias
 
-### CAPÍTULO ÚNICO — Artigo 76.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 76.º
 
 Normas transitórias
 

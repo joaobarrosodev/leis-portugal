@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/773/1994/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/773-1994-219151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4efe7a43dfcbd1848e8d624b2666905eaeaa0cb19d83fc5b51c8cfff80ec054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b4d52643abdf8000a5562571e24011be4f92f9e3556b287b1f6b1eedb8e9157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Emolumento
-- Regulamento
 - Registo Comercial
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:457217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADAS AS ALÍNEAS AU) E AO) AO ARTIGO 16 DO REGULAMENTO APROVADO PELA PORTARIA 883/89, DE 13 DE OUTUBRO, ALTERADO\
+    \ PELA PRESENTE PORTARIA, PELA PORTARIA 937/94, DE 24 DE OUTUBRO, PUBLICADA NO DR.IS-B, 246.\0R.IS-B, 246."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-24'
+- type: amended_by
+  target: pt:dre:492203:por
+  label: Alterada a Tabela de Emolumentos constantes do Artº. 23º. da Port 883/89, de 13-Out, na redacção dada pelo presente
+    diploma, pelo DEC LEI.257/96.1996.12.31.MJ DR.IS-A [302]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1996-492203
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:591086:por
+  label: "Alterados os arts. 16º e 17º-A do Regulamento do Registo Comercial, aprovado pela Port 883/89 de 13-Out, com a redacção\
+    \ do presente diploma, pela PORT.1269/2004.06.10.2004.MJ, DR.IS-B [235] de 06.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1269-2004-591086
+  date: '2004-10-06'
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterado o art. 16º do Regulamento do Registo Comercial aprovado pela Port 883/89 de 13-Out, com a redacção do presente\
+    \ diploma, pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/216/1994/08/20/p/dre
   label: null
@@ -81,16 +105,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/31/1993/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/31/1993/02/12/p/dre
+- type: cites
+  target: pt:dre:218347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648475:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:47Z'
   warnings: []
   errors: []
 ---
@@ -233,6 +269,6 @@ Pelo averbamento de qualquer dos factos enumerados nas alíneas h) a p) do n.º 
 
 Ministério da Justiça.
 
-**Assinada em 3 de Agosto de 1994.**
+Assinada em 3 de Agosto de 1994.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.

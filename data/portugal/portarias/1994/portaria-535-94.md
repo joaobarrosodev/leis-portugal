@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/535/1994/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/535-1994-290663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T12:30:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf8058dc4e607663a46b2f01f56c09a3fb6f96a3486aa9a173b4c6252c9c43bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c078da416e95c52c94fb90fb529933018f4cbb453b02f62e1014329fe0ec479
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:30:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Reserva Agrícola Nacional
 - Política de Solos
+- Reserva Agrícola Nacional
 - Salvaterra de Magos
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:30:04Z'
   warnings: []
   errors: []
 ---
@@ -106,14 +110,14 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 15 de Junho de 1994.**
+Assinada em 15 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 535/94
+Anexo a que se refere o n.º 1.º da Portaria n.º 535/94
 
 Carta da Reserva Agrícola Nacional (RAN)
 
 Município de Salvaterra de Magos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/156b00/36663666.pdf))](https://files.diariodarepublica.pt/1s/1994/07/156b00/36663666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/156b00/36663666.pdf)

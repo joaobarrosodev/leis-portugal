@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/171/2005/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2005-584869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82c1df042f4d384fc1de69ae76823879bfc75a559d1e263399b4283494e29919
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28b1ccf3a9b6027463c5b88512ba5405e43cdb9cb4c0a5cfd1e1aca40523aadd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,41 @@ reuse:
 subjects:
 - Apoio Administrativo
 - Apoio Técnico
-- Financiamento
 - Certificação Electrónica
+- Comunicações
 - Criação de Serviços
 - Definição de Competências
 - Entidade de Certificação Eletrónica do Estado-Infraestrutura de Chaves Públicas
+- Financiamento
 - Fundação para a Computação Científica Nacional
-- Secretaria Geral
 - Gabinete Nacional de Segurança
-- Instituto das Comunicações de Portugal
-- Grupo de Trabalho
-- Instituto das Tecnologias de Informação na Justiça
-- Unidade de Coordenação da Modernização Administrativa
 - Governo Electrónico
-- UMIC
-- Secretário de Estado da Presidência do Conselho de Ministros
+- Grupo de Trabalho
+- Instituto das Comunicações de Portugal
+- Instituto das Tecnologias de Informação na Justiça
 - Presidência do Conselho de Ministros
-- Comunicações
 - Regime de Instalação
-relationships: []
+- Secretaria Geral
+- Secretário de Estado da Presidência do Conselho de Ministros
+- UMIC
+- Unidade de Coordenação da Modernização Administrativa
+relationships:
+- type: amended_by
+  target: pt:dre:3610030:por
+  label: "Prorrogado o prazo estabelecido pelo nº. 8 pelo DESP.4708/2006(2ªSérie).07.02.2006.SEPCM-PCM, DR.IIS [41] de 27.02.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4708-2006-3610030
+  date: '2006-02-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:22Z'
   warnings: []
   errors: []
 ---

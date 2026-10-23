@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/53/2001/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2001-332955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1f033b2a8e8c7fe99fe1ac35c63891e76a7ba284303a280f3ff3219a00fb1c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5146d91a040c454f2ea600af70b3415573895a1d2da8348e764bd92db6174aa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agenda para a Inovação em Portugal
-- Empresa
-- Formação Profissional
-- Investigação Científica e Tecnológica
 - Comissão Interministerial
 - Desenvolvimento Regional
-- Mudança Tecnológica
-- Programa Integrado de Apoio à Inovação
+- Empresa
 - Estratégia de Lisboa
+- Formação Profissional
+- Investigação Científica e Tecnológica
+- Mudança Tecnológica
 - Política Comunitária
-relationships: []
+- Programa Integrado de Apoio à Inovação
+relationships:
+- type: repealed_by
+  target: pt:dre:451783:por
+  label: "Revogados os nºs. 4, 5, 6 e 7 pela RES.135/2002.2002.10.26.PCM, DR.IS-B [268], de 20/11/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/135-2002-451783
+  date: '2002-10-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:19Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +178,7 @@ Promover o desenvolvimento sustentável das regiões e a coesão nacional.
 
 Por outro lado, mais recentemente, o Conselho Europeu de Lisboa estabeleceu para a União Europeia o objectivo estratégico de, na próxima década, se tornar no espaço económico mais dinâmico e competitivo do mundo baseado no conhecimento e capaz de garantir um crescimento económico sustentável, com mais e melhores empregos, e com maior coesão social. A consecução deste objectivo assenta numa estratégia global que visa:
 
-Preparar a transição para uma economia e uma sociedade baseadas no conhecimento, através da aplicação de melhores políticas no domínio da sociedade da informação e da I&D;
+Preparar a transição para uma economia e uma sociedade baseadas no conhecimento, através da aplicação de melhores políticas no domínio da sociedade da informação e da I&D
 
 A aceleração do processo de reforma estrutural para fomentar a competitividade e a inovação e a conclusão do mercado interno;
 

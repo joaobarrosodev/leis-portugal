@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/76/2000/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2000-301241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:43:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 296ad97fdf9d558db0179a8408d1e7b43669705ab3ad416b6595898bba5210b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3cdd27de40222f4e4cffb97e70a5f976cb818fb7cfeaa4d52e46453d5e22a75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Proteção dos Animais
+- Diversidade Biológica
+- Espécie Protegida
 - Instituto da Conservação da Natureza
 - Lista
 - Proteção do Ambiente
-- Diversidade Biológica
-- Espécie Protegida
-- Zona de Proteção
-- Vegetais
+- Proteção dos Animais
 - Rede Natura 2000
+- Vegetais
+- Vida Selvagem
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: amended_by
   target: pt:dre:649774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:649774:por
+  label: "Actualiza a identificação dos tipos de habitats naturais e das espécies da flora e da fauna que ocorrem em cada\
+    \ um dos sítios da Lista Nacional de Sítios (2ª fase) pela RES.115-A/2008.21.07.2008.PCM, DR.IS [139-Supl] de 21.07.2008,\
+    \ de acordo com as fichas de sítios e ZPE constantes do anexo II daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/115-a-2008-649774
+  date: '2008-07-21'
 - type: cites
   target: celex:31992L0043
   label: null
@@ -93,13 +100,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:43:35Z'
   warnings: []
   errors: []
 ---
@@ -132,9 +139,9 @@ Nos termos da alínea c) do artigo 199.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 15 de Junho de 2000. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — [(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2000/07/153b00/29332945.pdf)
+## ANEXO I — [[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2000/07/153b00/29332945.pdf)](https://files.diariodarepublica.pt/1s/2000/07/153b00/29332945.pdf)
 
-## ANEXO II — [(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2000/07/153b00/29332945.pdf)
+## ANEXO II — [[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2000/07/153b00/29332945.pdf)](https://files.diariodarepublica.pt/1s/2000/07/153b00/29332945.pdf)
 
 ## ANEXO III — PTCON0014 - Serra da Estrela (88291 ha)
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/68/2002/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-2002-302557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a06f8e7be8e85dc671e58a655b7eb95358f112c55aec73e493b7d002f1c78ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f7d1bcd028895072b261308a45474552583cc61b9447208b1147caefbfd47b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,62 @@ reuse:
 subjects:
 - Alcochete
 - Almada
-- Vila Franca de Xira
+- Amadora
 - Azambuja
 - Barreiro
+- Cascais
 - Lisboa
 - Loures
 - Mafra
 - Moita
 - Montijo
 - Odivelas
+- Oeiras
 - Palmela
-- Setúbal
 - PROT para a ÁREA Metropolitana de Lisboa
 - Seixal
 - Sesimbra
-- Amadora
-- Cascais
-- Oeiras
+- Setúbal
 - Sintra
+- Vila Franca de Xira
 relationships:
 - type: amended_by
   target: pt:dre:212551389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522649:por
+  label: "Suspensas as disposições do Plano Regional de Ordenamento do Território da Área Metropolitana de Lisboa, aprovado\
+    \ pelo presente diploma, pela RES.13/2007.11.01.2007.PCM, DR.IS [17] de 24.01.2007, nos termos dos seus nºs 4 e 5 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/13-2007-522649
+  date: '2007-01-11'
+- type: amended_by
+  target: pt:dre:449405:por
+  label: "Determinada a alteração do Plano Regional de Ordenamento do Território da Área Metropolitana de Lisboa (PROT-AML),\
+    \ aprovado pelo presente diploma, pela RES.92/2008.05.06.2008.PCM, DR.IS [108] de 05.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/92-2008-449405
+  date: '2008-06-05'
+- type: amended_by
+  target: pt:dre:665513:por
+  label: "Determinada a não aplicação ao munícipio da Azambuja do PROTAML, aprovado neste diploma, pela RES.64-A/2009.06.08.2009.PCM,\
+    \ DR.IS [151-Supl] de 06.08.2009, que o incluiu no Plano de Ordenamento Regional do Oeste e Vale do Tejo (PROTOVT)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/64-a-2009-665513
+  date: '2009-08-06'
+- type: amended_by
+  target: pt:dre:612392:por
+  label: "Recusada a ratificação dos n.ºs 1, 2, 3 e 3.A do art. 58.º do Plano Director Municipal da Moita, bem como a delimitação\
+    \ das UOPG 01, 02 e 03 na planta de programação do solo e das unidades operativas de planeamento e gestão que integram\
+    \ o citado Plano ratificado pela Decl DDecl 59/92 de 07-Dez, e confirmada a incompatibilidade dos n.os 1, 2, 3 e 3.A do\
+    \ artigo 58.º do PDM da Moita com o Plano Regional de Ordenamento do Território da Área Metropolitana de Lisboa, aprovado\
+    \ pelo presente diploma, pela RES.28/2010.08.04.2010.PCM, DR.IS [68] de 08.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/28-2010-612392
+  date: '2010-04-08'
+- type: amended_by
+  target: pt:dre:212551389:por
+  label: Alterado, a partir de 04.05.2023, o Plano Regional de Ordenamento do Território para a Área Metropolitana de Lisboa
+    pelo(a) Resolução do Conselho de Ministros n.º 39/2023 - Diário da República n.º 85/2023, Série I de 2023-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-2023-212551389
+  date: '2023-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
   label: null
@@ -126,16 +159,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/27/1999/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/27/1999/04/08/p/dre
+- type: cites
+  target: pt:dre:352526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690074:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:52Z'
   warnings: []
   errors: []
 ---
@@ -282,7 +367,7 @@ Assim, apesar de não fazerem parte da AML e do âmbito territorial do PROTAML, 
 
 As Resoluções do Conselho de Ministros n.os [21/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-1989-611100) (1.ª série), de 15 de Maio, e [27/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-1999-549576) (2.ª série), de 16 de Março, definem o âmbito territorial do PROTAML.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 4 - Conteúdo material
 
@@ -594,7 +679,7 @@ Estes espaços correspondem a extensas áreas a reordenar e a revitalizar onde s
 
 Espaços emergentes - correspondem a áreas com potencialidades para protagonizarem transformações positivas na AML, tanto no que respeita ao desenvolvimento de funções especializadas e novos usos, como à reestruturação e qualificação urbana e ambiental de sectores importantes da estrutura metropolitana.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 Os espaços ribeirinhos dos estuários do Tejo e Sado e a orla costeira norte e sul podem ter um papel destacado na requalificação da vida metropolitana, oferecendo condições privilegiadas para o recreio, lazer e turismo na ligação ao mar, aos rios e à natureza, integrando a estrutura ecológica metropolitana, no sentido de assegurar o necessário equilíbrio e complementaridade com os valores ambientais, designadamente os das áreas classificadas.
 
@@ -616,7 +701,7 @@ Estão neste caso as áreas de Malveira-Mafra, Carregado-Azambuja, Samora Correi
 
 Espaços naturais protegidos - são as áreas classificadas, integradas em parques ou reservas naturais, a Rede Natura 2000 e as áreas definidas em legislação específica de âmbito nacional, defendidas das dinâmicas urbanas metropolitanas.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 As dinâmicas territoriais identificadas, associadas a diversos espaços da estrutura metropolitana, estiveram na base da formulação de dois cenários contrastados de desenvolvimento, a partir dos quais se estabeleceram as linhas de estratégia territorial metropolitana e um modelo de ordenamento metropolitano.
 
@@ -644,7 +729,7 @@ Esta estratégia implica uma valorização especial, nos instrumentos de gestão
 
 Estrutura metropolitana policentrada/desenvolvimento de novas centralidades - esta estrutura tem como elemento principal e federador a cidade de Lisboa, com o qual se articula uma rede de centros urbanos que deve ver reforçada a sua autonomia funcional e capacidade polarizadora ao nível sub-regional e regional.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 O sistema urbano-metropolitano deverá ser reestruturado e requalificado através do desenvolvimento de novas centralidades metropolitanas baseadas em:
 
@@ -672,7 +757,7 @@ A passagem da situação actual, traduzida no diagrama das dinâmicas territoria
 
 3) Intervir nos espaços problema e nas áreas críticas urbanas com vista a conter as tendências de degradação e desqualificação, introduzir dinâmicas de reequilíbrio social e urbanístico e reforçar os mecanismos de coesão social;
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 4) Proteger e valorizar recursos naturais, os estuários, a orla costeira e os espaços agro-florestais sensíveis, integrando-os num conceito alargado de região metropolitana;
 
@@ -760,7 +845,7 @@ Centro da AML, constituído por Lisboa e, complementarmente, por Almada-Seixal-B
 
 Primeiro anel envolvente do centro da AML, incluindo igualmente o progressivo reforço das acessibilidades entre as duas margens do rio, desdobrando e apoiando o centro da AML através de um conjunto de pólos vocacionados para equipamentos e serviços: Algés, Amadora, Odivelas, Loures, Montijo e Moita. Este anel integra ainda o Parque das Nações, que deverá evoluir no sentido de se constituir como uma plataforma para a internacionalização da AML, Coina, enquanto centro de indústria, armazenagem e logística, e Monte de Caparica, como pólo de investigação e desenvolvimento;
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 Segundo anel metropolitano, integrando Cascais, Sintra, Malveira, Torres Vedras, Benavente/ Samora Correia e Setúbal - como pólos vocacionados para equipamentos e serviços - e Sintra - na vertente, complementar, de pólo de internacionalização cultural - e os pólos Terrugem/Mem Martins/Sabugo/Pêro Pinheiro, Carregado/Azambuja/Ota (com apoio de Alenquer em termos de equipamentos e serviços) e Pegões/Marateca (com extensões à península da Mitrena e ao CTM de Setúbal/Palmela) - vocacionados para indústria, armazenagem e logística. Estes pólos ligados por infra-estruturas circulares a executar a curto prazo constituirão a coroa da AML, a partir da qual se faz a articulação com o exterior;
 
@@ -826,7 +911,7 @@ O estuário tem condições para o desenvolvimento de actividades económicas e 
 
 2 - Lisboa - centro metropolitano. - Esta unidade territorial corresponde sensivelmente ao concelho de Lisboa, com excepção da área a noroeste do aeroporto, e constitui o centro da AML. Cerca de 85% desta área é classificada como urbano consolidado, nela se atingindo, em termos globais, as maiores densidades de ocupação da AML.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 Embora assim identificada, os limites da unidade «Lisboa-Centro Metropolitano» são naturalmente difusos, apresentando uma forte continuidade espacial e funcional com as unidades envolventes, em particular nas áreas de fronteira com os grandes eixos urbanos que dela irradiam: Cascais, Sintra, Loures e Vila Franca de Xira.
 
@@ -1070,7 +1155,7 @@ Sítio ao abrigo da Convenção de RAMSAR;
 
 Biótopo CORINE.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 Os valores naturais, tratando-se de uma zona húmida, são muito diversificados a nível de flora e comunidades locais e da fauna (em especial a avifauna; é uma das 10 zonas húmidas mais importantes da Europa para aves aquáticas migratórias).
 
@@ -1106,7 +1191,7 @@ Deverá garantir-se que as actividades económicas localizadas na sua envolvente
 
 Trata-se de uma área de paisagem única com elementos extremamente diversificados, tanto do ponto de vista geológico e geomorfológico, como florístico, faunístico e paisagístico.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 Desde áreas costeiras abruptas até zonas serranas, planícies arborizadas, falésias, costeiras, praias, maquis, pastagens, zonas agrícolas compartimentadas e florestas, todas ocorrem de forma contínua e integrada, representando uma imagem coerente e de elevado interesse paisagístico.
 
@@ -1266,7 +1351,7 @@ O sistema tarifário a implementar na coroa de transição deve não só atender
 
 4.2.3 - Pólos secundários - o conceito de transportes para o modelo territorial que se defende para as aglomerações urbanas mais afastadas de Lisboa e que já hoje constituem verdadeiros pólos secundários no interior da AML - casos de Setúbal/Palmela e de Cascais com a sua envolvente - parte da constatação de duas necessidades: por um lado, trata-se de continuar a garantir uma boa acessibilidade ao centro da AML; por outro, face ao crescente peso demográfico e extensão destas áreas urbanas torna-se imperioso assegurar uma oferta própria de TC que não esteja sobretudo dependente das ligações regionais que estão centradas nestas áreas.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 Caberá ao transporte ferroviário suburbano responder ao primeiro tipo de necessidades, devendo para isso resolver-se as actuais rupturas de carga. Na margem norte, através da ligação entre a linha de Cascais e a linha de cintura; na margem sul completando a ligação ferroviária através da Ponte de 25 de Abril com a construção do troço Coina-Pinhal Novo e a electrificação da linha até Setúbal (obras em curso).
 
@@ -1380,7 +1465,7 @@ Tal como referido, a rede de comboio suburbano é completada com as expansões d
 
 No sistema ferroviário pesado, a interligação de todas as linhas ferroviárias suburbanas através da linha de cintura poderá implicar, nomeadamente, a ligação entre as linhas de Cascais e de cintura em Alcântara (em estudo); a reformulação do sistema ferroviário da estação de Campolide; a construção do troço Coina-Pinhal Novo; e a conclusão das respectivas interfaces com a rede de metropolitano no núcleo central. Contudo, na coroa de transição da AML, no periurbano, as ligações circulares em sistemas de capacidade intermédia poderão ser um elemento importante de interconexão com este sistema, nomeadamente para as ligações transversais entre Paço de Arcos-Oeiras e Cacém e, posteriormente, entre Carcavelos e a Portela de Sintra.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 Para a coroa de transição na margem sul, o aproveitamento do antigo espaço canal ferroviário do Montijo ao Pinhal Novo, poderá ser equacionado para um sistema ferroviário de capacidade intermédia que permita estruturar o eixo urbano de Montijo-Pinhal Novo-Palmela-Setúbal (neste último caso permitirá a ligação da coroa de transição aos pólos secundários de Palmela e Setúbal).
 
@@ -1416,7 +1501,7 @@ Em relação à rede rodoviária nacional com incidência na AML, considera-se f
 
 A localização do novo aeroporto de Lisboa (NAL) na Ota, opção já tomada, as hipóteses em estudo para o traçado de uma ligação ferroviária Lisboa-Porto-Madrid em velocidade elevada e a nova travessia do Tejo entre Chelas e o Barreiro constituem grandes infra-estruturas de transporte com impacte significativo na realidade metropolitana. Justifica-se, assim, que a estrutura de acompanhamento e avaliação do PROTAML, em função das decisões que forem tomadas em relação a estas infra-estruturas ou outras de relevância regional ou metropolitana, proceda à necessária avaliação e monitorização dos seus impactes na concretização da proposta de plano e na sua eventual adaptação.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 4.3.3 - Logística - o reordenamento do sistema logístico da AML constitui uma área prioritária de intervenção com vista a atingir-se, por um lado, uma maior racionalização do transporte, tratamento e distribuição de mercadorias com efeitos na redução de custos da sua movimentação, na melhoria da qualidade dos serviços prestados e no aumento da capacidade competitiva das empresas, e, por outro, um melhor ordenamento e qualificação do território, minimizando os impactes negativos da actual dispersão das instalações logísticas e da circulação desordenada das mercadorias.
 
@@ -1468,7 +1553,7 @@ Também o desenvolvimento da logística inversa, organizada em articulação com
 
 Algumas das actividades, nomeadamente relacionadas com o armazenamento e distribuição de combustíveis, com indústrias agro-alimentares e montagem de automóveis, exigem a organização de sistemas especializados de logística, os quais devem ser definidos em função das necessidades e exigências destas actividades com base em projectos específicos que poderão implicar localizações a detalhar em futuros ajustamentos ao esquema do modelo territorial do PROTAML.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)](https://files.diariodarepublica.pt/1s/2002/04/082b00/32873328.pdf)
 
 IV - Normas orientadoras
 

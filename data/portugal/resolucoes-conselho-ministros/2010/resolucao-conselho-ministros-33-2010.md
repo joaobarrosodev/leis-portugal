@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/33/2010/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-2010-614149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 677f9efa54122b6303c72f07f3ed4e0e0710f333e3e1bb38db5c71c09db8ee88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4365c617ef2422532ffa10bd8e727a6818158b09d8a24a80202efd8689de4c61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arbitragem
-- Financiamento
-- Garantia
 - Capital Social
-- Investigação Científica e Tecnológica
 - Contrato de Concessão
-- Transporte Ferroviário
+- Évora
 - Expropriação
+- Financiamento
 - Fiscalização
+- Garantia
 - Infraestrutura dos Transportes
-- Propriedade Industrial
+- Investigação Científica e Tecnológica
 - Obras Públicas
 - Palmela
-- Serviço Público
+- Propriedade Industrial
 - Propriedade Intelectual
 - Rede Ferroviária Portuguesa de Alta Velocidade
 - Refer
 - Remuneração
 - RIO CAIA
 - Sanção
-- Évora
+- Serviço Público
 - Sistema Ferroviário Transeuropeu de Alta Velocidade
+- Transporte Ferroviário
 - Tribunal Arbitral
 - Utilidade Pública
 relationships:
@@ -96,20 +96,26 @@ relationships:
   target: pt:dre:280176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280176:por
+  label: "Aprovada a minuta do instrumento de reforma do contrato de concessão, pela RES.10/2011.28.01.2011.PCM, DR.IS [20]\
+    \ de 28.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/10-2011-280176
+  date: '2011-01-28'
 - type: cites
   target: celex:32004L0018
   label: null
   source: http://data.europa.eu/eli/dir/2004/18/oj
 article_structure:
   article_count: 0
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 31
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:27Z'
   warnings: []
   errors: []
 ---
@@ -348,81 +354,87 @@ ii) As Infra-estruturas Ferroviárias convencionais a construir entre o limite l
 
 2.1 - Fazem parte integrante do Contrato de Concessão, para todos os efeitos legais e contratuais, os seus seguintes anexos:
 
-## ANEXO 1 - Lista dos Contratos de Projecto
+ANEXO 1 - Lista dos Contratos de Projecto
 
-## ANEXO 2 - Estrutura Accionista, Composição do ACE e Composição do Operador de Manutenção
+ANEXO 2 - Estrutura Accionista, Composição do ACE e Composição do Operador de Manutenção
 
-# Parte A - Composição do Agrupamento e Estrutura Accionista da Concessionária
+Parte A - Composição do Agrupamento e Estrutura Accionista da Concessionária
 
-# Parte B - Composição do ACE
+Parte B - Composição do ACE
 
-# Parte C - Composição do Operador de Manutenção
+Parte C - Composição do Operador de Manutenção
 
-## ANEXO 3 - Calendário de Factos Relevantes
+ANEXO 3 - Calendário de Factos Relevantes
 
-## ANEXO 4 - Declaração dos Accionistas da Concessionária
+ANEXO 4 - Declaração dos Accionistas da Concessionária
 
-## ANEXO 5 - Caso Base — ANEXO 6 - Acordo Directo referente ao Contrato de Empreitada
+## ANEXO 5 - Caso Base
 
-## ANEXO 7 - Acordo Directo com as Entidades Financiadoras
+## ANEXO 6 - Acordo Directo referente ao Contrato de Empreitada
 
-## ANEXO 8 - Definição do Troço Poceirão-Caia
+ANEXO 7 - Acordo Directo com as Entidades Financiadoras
 
-## ANEXO 9 - Critérios Chave da Reposição do Equilíbrio Financeiro
+ANEXO 8 - Definição do Troço Poceirão-Caia
 
-## ANEXO 10 - Acordo Directo referente ao Contrato de Manutenção
+ANEXO 9 - Critérios Chave da Reposição do Equilíbrio Financeiro
 
-## ANEXO 11 - Minuta de Garantia Bancária referente à Caução
+ANEXO 10 - Acordo Directo referente ao Contrato de Manutenção
 
-## ANEXO 12 - Requisitos Técnicos
+ANEXO 11 - Minuta de Garantia Bancária referente à Caução
 
-# Parte A - Disposições gerais
+ANEXO 12 - Requisitos Técnicos
 
-# Parte B - Relação da normalização aplicável
+Parte A - Disposições gerais
 
-# Parte C - Requisitos técnicos
+Parte B - Relação da normalização aplicável
 
-# Parte D - Gestão de interfaces
+Parte C - Requisitos técnicos
 
-# Parte E - Segurança — Parte F - Qualidade
+Parte D - Gestão de interfaces
 
-# Parte G - Manutenção — Parte H - Ambiente
+## Parte E - Segurança
 
-## ANEXO 13 - Pagamentos dos parceiros públicos
+## Parte F - Qualidade
 
-# Parte A - Pagamentos dos parceiros públicos
+## Parte G - Manutenção
 
-# Parte B - Regime de deduções baseadas no desempenho
+## Parte H - Ambiente
 
-## ANEXO 14 - Programa de Seguros, no que se refere às apólices em que o Concedente é co-beneficiário
+ANEXO 13 - Pagamentos dos parceiros públicos
 
-## ANEXO 15 - Acordo Directo REFER
+Parte A - Pagamentos dos parceiros públicos
 
-## ANEXO 16 - Indemnização em caso de resgate
+Parte B - Regime de deduções baseadas no desempenho
 
-## ANEXO 17 - Mecanismo de ajustamento automático dos Pagamentos de Desempenho
+ANEXO 14 - Programa de Seguros, no que se refere às apólices em que o Concedente é co-beneficiário
 
-## ANEXO 18 - Acordo Relativo aos Efeitos da Variação do Indexante da Taxa de Juro
+ANEXO 15 - Acordo Directo REFER
+
+ANEXO 16 - Indemnização em caso de resgate
+
+ANEXO 17 - Mecanismo de ajustamento automático dos Pagamentos de Desempenho
+
+ANEXO 18 - Acordo Relativo aos Efeitos da Variação do Indexante da Taxa de Juro
 
 2.2 - Encontram-se apensados ao Contrato de Concessão, e estão submetidos ao regime que lhe for, nos seus termos, aplicável, os seguintes documentos:
 
-## APÊNDICE 1 - Contrato de Empreitada
+APÊNDICE 1 - Contrato de Empreitada
 
-## APÊNDICE 2 - Contratos de Financiamento
+APÊNDICE 2 - Contratos de Financiamento
 
-## APÊNDICE 3 - Pacto Social da Concessionária
+APÊNDICE 3 - Pacto Social da Concessionária
 
-## APÊNDICE 4 - Acordo de Subscrição de Capital
+APÊNDICE 4 - Acordo de Subscrição de Capital
 
-## APÊNDICE 5 - Acordo Parassocial
+APÊNDICE 5 - Acordo Parassocial
 
-## APÊNDICE 6 - Garantia Bancária referente aos fundos próprios da Concessionária
+APÊNDICE 6 - Garantia Bancária referente aos fundos próprios da Concessionária
 
-## APÊNDICE 7 - Programa de Seguros, no que se refere às apólices em que o Concedente não é co-beneficiário
+APÊNDICE 7 - Programa de Seguros, no que se refere às apólices em que o Concedente não é co-beneficiário
 
-## APÊNDICE 8 - Contrato de Manutenção
+APÊNDICE 8 - Contrato de Manutenção
 
-## APÊNDICE 9 - Acordo de Constituição do ACE
+APÊNDICE 9 - Acordo de Constituição do ACE
 
 3 - Epígrafes e remissões
 
@@ -1602,7 +1614,7 @@ O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão
 
 90.2 - No fim do prazo da Concessão os activos deverão ser entregues ao Concedente em estado que satisfaça as seguintes condições de Duração Residual Mínima:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/08100/0139701425.pdf))](https://files.diariodarepublica.pt/1s/2010/04/08100/0139701425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/08100/0139701425.pdf)
 
 Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50 % (cinquenta por cento) da vida útil de cada um dos seus componentes.
 

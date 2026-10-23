@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/939/1994/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/939-1994-626259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71ae3fe258a11cba5c7a1d5359b7bb48b57491a5eaa078d430ee2e7e4054b148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10adde04454a3d15a6e255a4358bab920aa994ce0bfa5858be626074bf62b35d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,37 @@ relationships:
   target: pt:dre:566007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507777:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça associativa concessionada pela\
+    \ Port 702/92, de 09-Jul, alterada pelo presente diploma, pela PORT.905/2004.23.07.2004.MADRP, DR.IS-B [172] de 23.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/905-2004-507777
+  date: '2004-07-23'
+- type: amended_by
+  target: pt:dre:566007:por
+  label: "Renovada, por um período de doze anos, a concessão da zona de caça associativa atribuída na Port 702/92, de 09-Jul,\
+    \ na redacção do presente diploma, pela Port 1372/2004, de 28-Out, DR.IS-B [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1372-2004-566007
+  date: '2004-10-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/702/1992/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/702/1992/07/09/p/dre
+- type: cites
+  target: pt:dre:288587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:52Z'
   warnings: []
   errors: []
 ---
@@ -111,8 +128,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 702/92](h
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Outubro de 1994.**
+Assinada em 3 de Outubro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/246b00/64156416.pdf))](https://files.diariodarepublica.pt/1s/1994/10/246b00/64156416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/246b00/64156416.pdf)

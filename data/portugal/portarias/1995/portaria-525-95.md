@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/525/1995/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/525-1995-527056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dadfe2765bb1058b9543dd6b213d42f64959d8bd1573661c47e03b99879da7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f91c52dbf41ef1d21103ef4c487e612bf4aab58c8b1653c1702c9d7e91de574
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Lisboa
-- Pessoal de Chefia
-- Pessoal Técnico Profissional
-- Quadro de Pessoal
 - Centro Regional de Oncologia
 - Instituto Português de Oncologia de Francisco Gentil
+- Lisboa
+- Pessoal de Chefia
+- Pessoal Dirigente
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187766:por
+  label: "Alterado o quadro de pessoal pela Port 715/96.1996.12.10.PCM, DR.IS-B [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1996-187766
+  date: '1996-12-10'
+- type: amended_by
+  target: pt:dre:352151:por
+  label: "Alterado o quadro de pessoal pela Port.358/97.1997.05.31.PCM, DR.IS-B [125]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-1997-352151
+  date: '1997-05-31'
+- type: amended_by
+  target: pt:dre:197284:por
+  label: "Alterado o quadro de pessoal pela Port 781/97.1997.08.29.PCM, DR.IS-B [199] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/781-1997-197284
+  date: '1997-08-29'
+- type: amended_by
+  target: pt:dre:3024850:por
+  label: "Alterado o quadro de pessoal pela PORT.642/98(2ªSÉRIE).1998.06.17.PCM, DR.IS-B [155] de 08/Jul/1998\098\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1998-3024850
+  date: '1998-06-17'
+- type: amended_by
+  target: pt:dre:567690:por
+  label: "Alterado o quadro de pessoal aprovado pelo prente diploma, pela PORT.694/98.1998.09.04.PCM, DR.IS-B [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/694-1998-567690
+  date: '1998-09-04'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Centro Regional de Lisboa do Instituto Português de Oncologia de Francisco Gentil\
+    \ aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/174/1993/02/16/p/dre
   label: null
@@ -85,16 +116,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/59/1992/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/59/1992/01/31/p/dre
+- type: cites
+  target: pt:dre:141217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649149:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578167:por
+  label: "Rectificado o quadro anexo pela DECL-RECT.101/95.31.07.1995.PCM, DR.IS-B [175]3ºSupl de 31.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/101-1995-578167
+  date: '1995-07-31'
 article_structure:
   article_count: 0
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:50Z'
   warnings: []
   errors: []
 ---
@@ -119,13 +183,13 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 10 de Abril de 1995.**
+Assinada em 10 de Abril de 1995.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Centro Regional de Lisboa do Instituto Português de Oncologia de Francisco Gentil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/127b00/34933500.pdf))](https://files.diariodarepublica.pt/1s/1995/06/127b00/34933500.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/127b00/34933500.pdf)
 
 ## ANEXO I
 
@@ -137,39 +201,39 @@ Direcção de Serviços de Instalações e Equipamento;
 
 Direcção de Serviços de Gestão Financeira, com:
 
-##### Divisão de Contabilidade Analítica e Gestão Patrimonial;
+Divisão de Contabilidade Analítica e Gestão Patrimonial;
 
 Direcção de Serviços de Gestão de Recursos Humanos, com:
 
-##### Divisão de Gestão de Efectivos e Formação Profissional;
+Divisão de Gestão de Efectivos e Formação Profissional;
 
-##### Divisão de Informação e Análise de Gestão.
+Divisão de Informação e Análise de Gestão.
 
 Unidades orgânicas de natureza administrativa:
 
 Repartição de Pessoal, com:
 
-#### Secção de Processamentos;
+Secção de Processamentos;
 
-#### Secção de Movimentação de Pessoal;
+Secção de Movimentação de Pessoal;
 
 Repartição de Contabilidade, com:
 
 #### Secção de Receitas;
 
-#### Secção de Despesas;
+Secção de Despesas;
 
 Repartição de Arquivo Clínico e Admissão de Doentes, com:
 
-#### Secção de Arquivo Clínico;
+Secção de Arquivo Clínico;
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
 Repartição de Aquisições e Armazéns, com:
 
 #### Secção de Aquisições;
 
-#### Secção de Armazéns.
+Secção de Armazéns.
 
 ## ANEXO II
 

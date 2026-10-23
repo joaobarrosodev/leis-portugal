@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/48/1997/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-1997-526580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64ff507cbb7411ec462cca39bb918208dc993a81c2c8050eee6a362aff5be9a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47a2f8729cdcd5644b663a7b94e62b90c0d4ec965c1da4d0b450a7994ea14515
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,18 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Penamacor
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:73331175:por
+  label: Tornada pública a alteração ao Plano de Pormenor da Zona Industrial de Penamacor, bem como ao Regulamento, a Planta
+    de Implantação e a Planta de Condicionantes do presente diploma pelo(a) Aviso n.º 978/2016 - Diário da República n.º 19/2016,
+    Série II de 2016-01-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/978-2016-73331175
+  date: '2016-01-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -112,16 +119,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/69/1994/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/69/1994/08/18/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634909:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:59Z'
   warnings: []
   errors: []
 ---
@@ -308,4 +411,4 @@ Quaisquer omissões ou dúvidas de interpretação e aplicação do presente Reg
 
 ## ANEXO — Quadros de síntese da ocupação do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070b00/13201323.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070b00/13201323.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070b00/13201323.pdf)

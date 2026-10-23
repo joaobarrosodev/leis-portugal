@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 295/1994, 1º Suplemento, Série I-B de 1994-12-23
   number: '295'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7340-(2) a 7340-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/295b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/125/1994/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/125-1994-627196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 531a77fd1d20763da00f193d70d5a9836e5179794df5e8f020d9ca74311dc753
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b73e16f4139281bd8484a817ec7a42e8bdffda2b1a473a2d077faeddcb1b75f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aliança Seguradora
 - Alienação de Acções
-- Sociedade Anónima
 - Caderno de Encargos
 - Capital Social
+- Companhia de Seguros Garantia
 - Fusão de Empresas
-- Setor Empresarial do Estado
 - IPE
 - Privatização
+- Setor Empresarial do Estado
+- Sociedade Anónima
 - Transferência Patrimonial
 - UAP Portugal-companhia de Seguros
-- Aliança Seguradora
-- Companhia de Seguros Garantia
 relationships:
 - type: amended_by
   target: pt:dre:244935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECL-RECT 269/94 DE 30-DEZ DR.IS-B [302]3SUPL DE 31/DEZ/1994.\0Z/1994."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/41/1991/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/1991/09/27/p/dre
+- type: cites
+  target: pt:dre:1876917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:244935:por
+  label: Rectificada pelo(a) Declaração de Rectificação n.º 269/94 - Diário da República n.º 302/1994, 3º Suplemento, Série
+    I-B de 1994-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/269-1994-244935
+  date: '1994-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:59Z'
   warnings: []
   errors: []
 ---

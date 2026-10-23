@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1076/1995/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1076-1995-546844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61d4651b2e2f105f93b3d7d665f33989e8fd6a0dad724bfed97dd91ce190f689
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed58a360d531cba5e10e8f797ef2930d22069b523aa848d3a59b6905f81ca5f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,70 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano de Estudos
 - Curso Profissional de Operador Horto-floricola
 - Curso Técnico de Enologia
 - Curso Técnico de Gestão Equina
 - Curso Técnico de Produção Animal
 - Curso Técnico de Produção Vegetal
 - Curso Técnico de Vitivinicultura
+- Ensino Básico
 - Ensino Profissional
 - Escola Profissional
-- Ensino Básico
+- Formação Profissional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:147633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505658:por
+  label: "Extinto o Curso de T&#233;cnico Produ&#231;&#227;o Vegetal (a funcionar em escolas criadas ao abrigo da Lei 46/86,\
+    \ de 14-Out e do Dec Lei 70/93, de 10-Mar) e o respectivo plano de estudos criados no presente diploma, pela PORT.892/2004.21.07.2004.ME,\
+    \ DR.IS-B [170] de 21.07.2004, nos termos do seu art. 7.&#186; e revogados no presente diploma as partes que &#224;quele\
+    \ curso respeitam pela supracitada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/892-2004-505658
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:147631:por
+  label: "Extinto o curso profissional de Técnico de Gestão Equina criado pelo presente diploma e revogado parcialmente na\
+    \ parte referente ao citado curso pela PORT.900/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/900-2005-147631
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147633:por
+  label: "Extintos, a partir de 27.09.2005 os curso profissional de Técnico de Enologia e o curso profissional de Técnico\
+    \ de Vitivinicultura, criados pelo presente diploma, que é revogado parcialmente, no que àqueles cursos se refere pela\
+    \ PORT.905/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no n.º 8 da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/905-2005-147633
+  date: '2005-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:15Z'
   warnings: []
   errors: []
 ---
@@ -140,8 +174,8 @@ e) Técnico de Gestão Equina.
 
 Ministérios da Agricultura, da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 8 de Agosto de 1995.**
+Assinada em 8 de Agosto de 1995.
 
-**O Ministro da Agricultura, António Duarte Silva. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+O Ministro da Agricultura, António Duarte Silva. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/202b00/55235525.pdf))](https://files.diariodarepublica.pt/1s/1995/09/202b00/55235525.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/202b00/55235525.pdf)

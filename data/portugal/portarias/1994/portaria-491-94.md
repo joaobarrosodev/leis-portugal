@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/153b00/35383545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/491/1994/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/491-1994-291582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc9dabeecccfe38e0225c1853599d1974a9e3885bfa310a8752510fc963eb888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dae16f04a4b51d02539740d32841fb55d3fd9b25de15bad63776b21e3c4e8772
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aditivo Alimentar
+- Alimento Industrial
+- Alimento para Animais
 - Aproximação das Legislações
 - CEE
-- Fabrico Industrial
-- Alimento Industrial
-- Aditivo Alimentar
-- Proteção do Consumidor
-- Alimento para Animais
 - Comércio
+- Fabrico Industrial
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:321692:por
@@ -83,16 +83,21 @@ relationships:
   target: celex:31992L0087
   label: null
   source: http://data.europa.eu/eli/dir/1992/87/oj
+- type: repealed_by
+  target: pt:dre:321692:por
+  label: "Revogada pelo DEC LEI.181/99.1999.05.22.MADRP DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1999-321692
+  date: '1999-05-22'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:55Z'
   warnings: []
   errors: []
 ---
@@ -127,13 +132,13 @@ Manda o Governo, pelo Ministro da Agricultura, ao abrigo do disposto na alínea 
 
 Ministério da Agricultura.
 
-**Assinada em 23 de Maio de 1994.**
+Assinada em 23 de Maio de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 491/94, de 5 de Julho
+Anexo a que se refere a Portaria n.º 491/94, de 5 de Julho
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 I - Notas explicativas
 
@@ -141,7 +146,7 @@ I - Notas explicativas
 
 Origem do produto/subproduto, por exemplo, vegetal, animal, mineral;
 
-# Parte do produto/subproduto utilizado, por exemplo, totalidade, sementes, tubérculos, ossos;
+Parte do produto/subproduto utilizado, por exemplo, totalidade, sementes, tubérculos, ossos;
 
 Processo de transformação a que o produto/subproduto foi sujeito, por exemplo, descasque, extracção, aquecimento e ou produto/subproduto resultante, por exemplo, flocos, sêmeas, polpa, gordura;
 
@@ -193,8 +198,8 @@ IV - Disposições relativas ao glossário
 
 O glossário seguinte refere-se aos principais processos utilizados no fabrico dos ingredientes mencionados na parte B do anexo. Quando as designações desses ingredientes incluírem uma designação comum ou termo do presente glossário, o processo a utilizar deve estar em conformidade com a definição correspondente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/153b00/35383545.pdf))](https://files.diariodarepublica.pt/1s/1994/07/153b00/35383545.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/153b00/35383545.pdf)
 
-# PARTE B — Lista não exclusiva dos principais ingredientes
+## PARTE B — Lista não exclusiva dos principais ingredientes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/153b00/35383545.pdf))](https://files.diariodarepublica.pt/1s/1994/07/153b00/35383545.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/153b00/35383545.pdf)

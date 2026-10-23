@@ -49,36 +49,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-1986-194792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbeb75f25b6089a2abc740002cf3bf6c24e1a86bef16fca894f9d4385cc3aaad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77ab192e4ffa31b809aa232009c0547420d69e5f2cc51c4c9544545e342885e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- BEI
+- Definição de Competências
+- FEDER
+- Feoga
+- FSE
+- Investimento
+- Ministro do Plano e da Administração do Território
+relationships:
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406938:por
+  label: Rectificada pela DECL.DD4550.07.02.1986.PCM, DR.IS [49-2º Supl] de 28.02.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-406938
+  date: '1986-02-07'
+- type: corrected_by
+  target: pt:dre:403136:por
+  label: Rectificada a Decl DD4550 de 28-Fev da PCM, na rectificação que efectuou ao presente diploma, pela DECL.DD4801.02.04.1986.PCM,
+    DR.IS [99-6ºSUPL] de 30.04.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-403136
+  date: '1986-04-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:30:59Z'
   warnings: []
   errors: []
 ---

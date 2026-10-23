@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/859/1994/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/859-1994-605310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b5201f144cf628cdda44dcd3139fdf213c7d4a11630df4cb71e3686f1e8c45a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 158c8302ef4a0d5afb26aa939926bfc39ecc02678d585469f5aa7b17a72be17f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radiocomunicações
 - Instalações Radioelétricas
+- Radiocomunicações
 - Serviços de Radiocomunicações
 relationships:
 - type: amended_by
   target: pt:dre:560777:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475677:por
+  label: "Aditada uma nova categoria de equipamentos de radiocomunicações de pequena potência e curto alcance ao anexo, pela\
+    \ PORT.649/95.22.06.1995.MOPTC, DR.IS-B [142] de 22.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-1995-475677
+  date: '1995-06-22'
+- type: amended_by
+  target: pt:dre:560777:por
+  label: "Aditada uma nova categoria de equipamentos de radiocomunicações ao anexo ao presente diploma, pela PORT.802/99.1999.09.20.MEPAT\
+    \ DR.IS-B [220]t\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/802-1999-560777
+  date: '1999-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/149/1991/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/149/1991/04/12/p/dre
+- type: cites
+  target: pt:dre:615860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662331:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:354311:por
+  label: "Rectificado o nº 2.5.2 do anexo, pela DECL-RECT.178/94.30.09.1994.PCM, DR.IS-B [227-3ºSupl] de 30.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/178-1994-354311
+  date: '1994-09-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:55Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +139,7 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 7 de Setembro de 1994.**
+Assinada em 7 de Setembro de 1994.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 
@@ -176,7 +201,7 @@ d) Não necessitarem de planeamento de frequências.
 
 As faixas de frequências e os níveis máximos dos valores da potência ou intensidade de campo equivalente para esta categoria de funcionamento são os indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/221b00/57515752.pdf))](https://files.diariodarepublica.pt/1s/1994/09/221b00/57515752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/221b00/57515752.pdf)
 
 2.2 - Equipamentos de pequena potência para telecomando e telemedida funcionando em frequências específicas das faixas ISM
 
@@ -226,7 +251,7 @@ c) Operarem numa base de não interferência e de não protecção relativamente
 
 As frequências de operação, os valores máximos de potência e os espaçamentos entre canais são os indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/221b00/57515752.pdf))](https://files.diariodarepublica.pt/1s/1994/09/221b00/57515752.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/221b00/57515752.pdf)
 
 2.4 - Microfones emissores de pequena potência
 

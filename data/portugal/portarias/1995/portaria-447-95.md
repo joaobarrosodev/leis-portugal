@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/447/1995/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/447-1995-506634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2cf5e60fa0179dc36d41d02e54f79ae7ecb8af7a6709c599c1452362ac93ae8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06f3c45987d292fd034615302a43f0f4a2a8384835595d5aeb7ff759768e60e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Contabilidade e Ciências da Administração
 - Ensino Particular
-- Instituto Superior de entre Douro e Vouga
 - Ensino Superior
+- Instituto Superior de entre Douro e Vouga
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:583246:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:291890:por
+  label: "Caducada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, a autorização de funcionamento do curso de estudos superiores especializados em Contabilidade e Ciências\
+    \ da Administração pela PORT.1111/99.1999.12.28.ME,DR.IS-B [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1111-1999-291890
+  date: '1999-12-28'
+- type: amended_by
+  target: pt:dre:583246:por
+  label: "Alterado o Plano de estudos do curso de estudos superiores especializados em Contabilidade e Ciências da Administração\
+    \ autorizado pelo presente diploma, pela PORT.1172/2000.2000.12.14.ME DR.IS-B [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1172-2000-583246
+  date: '2000-12-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -85,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/315/1993/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/315/1993/03/18/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634675:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:45Z'
   warnings: []
   errors: []
 ---
@@ -313,10 +342,10 @@ A autorização e reconhecimento estabelecidos na presente portaria não prejudi
 
 Ministério da Educação.
 
-**Assinada em 30 de Março de 1995.**
+Assinada em 30 de Março de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Curso de estudos superiores especializados em Contabilidade e Ciências da Administração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/110b00/27662769.pdf))](https://files.diariodarepublica.pt/1s/1995/05/110b00/27662769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/110b00/27662769.pdf)

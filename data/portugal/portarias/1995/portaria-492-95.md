@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/492/1995/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-1995-505189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 894c16eb23acbab9325cfb851daecc22e3e1f64afdffe08e3c074a43b0b6082c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aa2c078b7fb8a30e2a9fe8e177f44d494ccc8c2431d0b6206762312b334fe8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,31 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - Controlo Sanitário
-- Saúde Pública
 - Fiscalização
 - Importação
 - Instituto de Protecção da Produção Agro-Alimentar
 - Licenciamento
 - Política Agrícola Comum
 - Produto Animal
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:580776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423899:por
+  label: "Alterado o art. 8º, os cap. 1, 7 e 14 do anexo I e o anexo II pela PORT.412/98.1998.07.14.MECO, DR.IS-B [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/412-1998-423899
+  date: '1998-07-14'
+- type: amended_by
+  target: pt:dre:580776:por
+  label: "Alterados os artigos 3.º e 8.º e o anexo I e revogadas as alíneas e) e g) do n.º 1 do artigo 2.º e os capítulos\
+    \ 1, 3, 4, 8, 10 e 12 a 15 também do anexo I ao presente diploma, na redacção que lhe foi conferida pela Portaria n.º\
+    \ 412/98, de 14 de Julho DR.IS-B [160], pelo DEC LEI.32/2004.07.02.2004.MADRP, DR.IS-A [32] de 07.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2004-580776
+  date: '2004-02-07'
 - type: cites
   target: celex:31971L0118
   label: null
@@ -131,15 +143,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/d
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:02Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +170,11 @@ Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, ao abr
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - A presente portaria define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos de origem animal (incluindo amostras comerciais colhidas desses produtos) não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no anexo I da Portaria n.º 576/93, de 4 de Junho, e, no que respeita aos agentes patogénicos, no capítulo I do anexo A da Portaria n.º 575/93, de 4 de Junho.
+Artigo 1.º - 1 - A presente portaria define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos de origem animal (incluindo amostras comerciais colhidas desses produtos) não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no anexo I da Portaria n.º 576/93, de 4 de Junho, e, no que respeita aos agentes patogénicos, no capítulo I do anexo A da Portaria n.º 575/93, de 4 de Junho.
 
 2 - O presente diploma não prejudica a adopção de exigências mais particularizadas em matéria de polícia sanitária, no âmbito das regulamentações específicas acima referidas, nem a manutenção de restrições ao comércio ou às importações de produtos abrangidos pelas regulamentações específicas referidas no n.º 1 por motivo de exigências de saúde pública.
 
-###### Art. 2.º - 1 - Para efeitos da presente portaria entende-se por:
+Art. 2.º - 1 - Para efeitos da presente portaria entende-se por:
 
 a) "Comércio" as trocas comerciais entre Estados membros de produtos dele originários ou de produtos provenientes de países terceiros que se encontrem em livre prática nos Estados membros;
 
@@ -184,7 +196,7 @@ i) "Autoridade competente" a nível nacional o Instituto de Protecção da Produ
 
 2 - Além destas, são aplicáveis, com as devidas adaptações, as definições previstas nas Portarias n.os 576/93, 575/93 e 774/93, respectivamente de 4 de Junho e 3 de Setembro.
 
-###### Art. 3.º - 1 - O IPPAA pode proibir ou restringir, por motivos sanitários ou de polícia sanitária resultantes apenas da aplicação deste diploma e da legislação comunitária, bem como de medidas de salvaguarda eventualmente tomadas, o comércio e as importações de produtos de origem animal referidos no artigo l.º e de gelatinas não destinadas ao consumo humano.
+Art. 3.º - 1 - O IPPAA pode proibir ou restringir, por motivos sanitários ou de polícia sanitária resultantes apenas da aplicação deste diploma e da legislação comunitária, bem como de medidas de salvaguarda eventualmente tomadas, o comércio e as importações de produtos de origem animal referidos no artigo l.º e de gelatinas não destinadas ao consumo humano.
 
 2 - A comercialização ou importação de qualquer novo produto de origem animal só pode ser autorizada depois de avaliado, de acordo com o procedimento comunitariamente previsto, o risco real de propagação de doenças transmissíveis graves que possam advir da circulação do produto, não só na espécie da qual ele deriva mas também noutras espécies que possam agir como portadoras ou transmissoras da doença.
 
@@ -192,7 +204,7 @@ i) "Autoridade competente" a nível nacional o Instituto de Protecção da Produ
 
 ### CAPÍTULO II — Disposições aplicáveis ao comércio
 
-###### Art. 4.º - 1 - Para efeitos do disposto no artigo 4.º e no artigo 4.º, n.º 1, respectivamente das Portarias n.os 576/93 e 575/93, e sem prejuízo das disposições especiais a adoptar nos termos da alínea c) do n.º 3 do artigo 8.º e do artigo 9.º, os produtos de origem animal referidos nos anexos I e II, bem como nos n.os 2 e 3 do artigo 3.º da presente portaria, só podem ser comercializados se satisfizerem as exigências previstas nos números seguintes.
+Art. 4.º - 1 - Para efeitos do disposto no artigo 4.º e no artigo 4.º, n.º 1, respectivamente das Portarias n.os 576/93 e 575/93, e sem prejuízo das disposições especiais a adoptar nos termos da alínea c) do n.º 3 do artigo 8.º e do artigo 9.º, os produtos de origem animal referidos nos anexos I e II, bem como nos n.os 2 e 3 do artigo 3.º da presente portaria, só podem ser comercializados se satisfizerem as exigências previstas nos números seguintes.
 
 2 - Cumprirem as exigências do artigo 5.º e as exigências específicas previstas no anexo I no que se refere aos aspectos de saúde animal e no anexo II no que se refere aos aspectos de saúde pública.
 
@@ -218,9 +230,9 @@ b) Sejam sujeitos a fiscalização pela autoridade competente a fim de se certif
 
 c) Tenham sido objecto de registo pela autoridade competente com base nas garantias dadas pelos estabelecimentos, a fim de assegurar o cumprimento das exigências do presente diploma.
 
-###### Art. 5.º Os produtos de origem animal referidos nos anexos I e II não podem ser comercializados a partir de uma exploração situada numa zona sujeita a restrições devido ao aparecimento de uma doença à qual a espécie de que o produto é derivado seja sensível ou a partir de um estabelecimento ou de uma zona a partir dos quais a circulação ou o comércio constituam um risco para o estatuto sanitário nacional, excepto no caso de produtos tratados termicamente em conformidade com a legislação em vigor.
+Art. 5.º Os produtos de origem animal referidos nos anexos I e II não podem ser comercializados a partir de uma exploração situada numa zona sujeita a restrições devido ao aparecimento de uma doença à qual a espécie de que o produto é derivado seja sensível ou a partir de um estabelecimento ou de uma zona a partir dos quais a circulação ou o comércio constituam um risco para o estatuto sanitário nacional, excepto no caso de produtos tratados termicamente em conformidade com a legislação em vigor.
 
-###### Art. 6.º - 1 - As regras de controlo previstas na Portaria n.º 576/93 e, no que se refere aos agentes patogénicos, na Portaria n.º 575/93 são aplicáveis aos produtos referidos no presente diploma, nomeadamente no que se refere à organização dos controlos a efectuar e ao seguimento a dar a esses controlos.
+Art. 6.º - 1 - As regras de controlo previstas na Portaria n.º 576/93 e, no que se refere aos agentes patogénicos, na Portaria n.º 575/93 são aplicáveis aos produtos referidos no presente diploma, nomeadamente no que se refere à organização dos controlos a efectuar e ao seguimento a dar a esses controlos.
 
 2 - É aplicável aos produtos a que se refere a presente portaria o disposto no artigo 10.º da Portaria n.º 575/93.
 
@@ -230,9 +242,9 @@ c) Tenham sido objecto de registo pela autoridade competente com base nas garant
 
 ### CAPÍTULO III — Disposições aplicáveis às importações na Comunidade
 
-###### Art. 7.º As condições aplicáveis às importações de produtos abrangidos pelo presente diploma devem oferecer, no mínimo, as garantias previstas no capítulo II, incluindo as fixadas nos termos do artigo 6.º, bem como as previstas nos n.os 2 e 3 do artigo 3.º
+Art. 7.º As condições aplicáveis às importações de produtos abrangidos pelo presente diploma devem oferecer, no mínimo, as garantias previstas no capítulo II, incluindo as fixadas nos termos do artigo 6.º, bem como as previstas nos n.os 2 e 3 do artigo 3.º
 
-###### Art. 8.º - 1 - Para efeitos de execução uniforme do artigo 7.º aplicam-se as disposições dos números que se seguem.
+Art. 8.º - 1 - Para efeitos de execução uniforme do artigo 7.º aplicam-se as disposições dos números que se seguem.
 
 2 - Os produtos referidos nos anexos I e II e nos n.os 2 e 3 do artigo 3.º só podem ser objecto de importação pela Comunidade se satisfizerem as seguintes exigências:
 
@@ -252,11 +264,11 @@ c) Será determinada a natureza dos eventuais tratamentos ou as medidas a tomar 
 
 4 - Na pendência da elaboração das listas previstas na alínea a) do n.º 2 e na alínea b) do n.º 3, serão mantidos os controlos previstos no artigo 11.º da Portaria n.º 774/93 e o certificado nacional exigido para os produtos importados, de acordo com a legislação nacional vigente.
 
-###### Art. 9.º As condições específicas de polícia sanitária para a importação pela Comunidade dos produtos referidos no anexo I destinados a laboratório de experiências, bem como a natureza e o conteúdo dos respectivos documentos de acompanhamento, serão fixadas de acordo com o procedimento comunitariamente previsto.
+Art. 9.º As condições específicas de polícia sanitária para a importação pela Comunidade dos produtos referidos no anexo I destinados a laboratório de experiências, bem como a natureza e o conteúdo dos respectivos documentos de acompanhamento, serão fixadas de acordo com o procedimento comunitariamente previsto.
 
-###### Art. 10.º São aplicáveis os princípios e regras previstos nas Portarias n.os 574/93 e 774/93, nomeadamente no que se refere à organização dos controlos a efectuar e ao seguimento a dar a esses controlos, bem como as medidas de salvaguarda a aplicar.
+Art. 10.º São aplicáveis os princípios e regras previstos nas Portarias n.os 574/93 e 774/93, nomeadamente no que se refere à organização dos controlos a efectuar e ao seguimento a dar a esses controlos, bem como as medidas de salvaguarda a aplicar.
 
-###### Art. 11.º - 1 - O IPPAA poderá, mediante a emissão de uma licença adequada, autorizar as importações provenientes de países terceiros de produtos de origem animal referidos nos anexos I e II, sob a forma de amostras comerciais.
+Art. 11.º - 1 - O IPPAA poderá, mediante a emissão de uma licença adequada, autorizar as importações provenientes de países terceiros de produtos de origem animal referidos nos anexos I e II, sob a forma de amostras comerciais.
 
 2 - A licença referida no número anterior deverá acompanhar o lote e especificar as condições especiais em que o produto pode ser importado, bem como qualquer derrogação dos controlos previstos na Portaria n.º 774/93.
 
@@ -266,11 +278,11 @@ c) Será determinada a natureza dos eventuais tratamentos ou as medidas a tomar 
 
 ### CAPÍTULO IV — Disposições comuns e finais
 
-###### Art. 12.º A introdução no território nacional dos produtos de origem animal referidos nos anexos I e II e nos n.os 2 e 3 do artigo 3.º provenientes de um Estado membro e que tenham transitado pelo território de um país terceiro fica dependente da apresentação de um certificado sanitário e ou de um certificado de salubridade que ateste o cumprimento das exigências da presente portaria.
+Art. 12.º A introdução no território nacional dos produtos de origem animal referidos nos anexos I e II e nos n.os 2 e 3 do artigo 3.º provenientes de um Estado membro e que tenham transitado pelo território de um país terceiro fica dependente da apresentação de um certificado sanitário e ou de um certificado de salubridade que ateste o cumprimento das exigências da presente portaria.
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 19 de Abril de 1995.**
+Assinada em 19 de Abril de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
 

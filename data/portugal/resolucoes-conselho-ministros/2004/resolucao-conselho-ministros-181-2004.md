@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/181/2004/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/181-2004-219689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16c62bb3ddb33fc3198a895432dbabab231ab19dd50fc9cf6fd53044d0602113
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 241d30b61702bcd117ee740681e63cc1e9f89ee77fe9a019353eba7f4496624e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Tecnologia da Informação
-- GUIA para as Comunicações na Administração Pública
-- Comunicações Eletrónicas
-- Mudança Tecnológica
 - Administração Pública
-- Sociedade da Informação
-- Programa de Acção
-- Política Governamental
+- Comunicações Eletrónicas
 - Governo Electrónico
+- GUIA para as Comunicações na Administração Pública
+- Modernização Administrativa
+- Mudança Tecnológica
+- Política Governamental
+- Programa de Acção
+- Sociedade da Informação
+- Tecnologia da Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/108/2003/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/108/2003/08/12/p/dre
+- type: cites
+  target: pt:dre:660951:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:44Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +159,7 @@ QUADRO N.º 1
 
 Princípios para a gestão das comunicações da Administração Pública
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 1 - Enquadramento
 
@@ -199,7 +203,7 @@ QUADRO N.º 2
 
 Prioridades do eixo n.º 4, «Racionalização dos custos de comunicações»
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 O presente Guia - a adoptar por todas as entidades da AP no âmbito da sua esfera de intervenção nas comunicações de voz, dados e vídeo - destina-se a dar cumprimento à 1.ª prioridade do eixo n.º 4, «Racionalização dos custos de comunicações», do referido Plano de Acção e pretende alcançar os seguintes objectivos estratégicos:
 
@@ -233,113 +237,113 @@ FIGURA N.º 1
 
 Modelo de gestão para as comunicações na Administração Pública
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.1 - Articulação entre entidades
 
 2.1.1 - Modelo de coordenação
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.1.2 - Coordenação interministerial
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.1.3 - Coordenação intraministerial
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.2 - Organização e recursos humanos
 
 2.2.1 - Gestão de informação
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.2.2 - Sistema de monitorização
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.2.3 - Contabilidade pública
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.2.4 - Recursos humanos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.3 - Planeamento e controlo
 
 2.3.1 - Plano estratégico de comunicações
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.3.2 - Conformidade e conteúdo do plano estratégico
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.3.3 - Relatórios de actividade
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.4 - Locação e aquisição de bens e serviços de comunicações
 
 2.4.1 - Princípios gerais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.4.2 - Apreciação e avaliação das propostas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.4.3 - Preparação de contratos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.4.4 - Gestão da implementação
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.5 - Revisão das condições contratuais
 
 2.5.1 - Levantamento das condições contratuais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.5.2 - Análise das condições contratuais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.6 - Racionalização das infra-estruturas de comunicações
 
 2.6.1 - Objectivos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.6.2 - Princípios
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.6.3 - Acções de racionalização
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.6.4 - Acesso à Internet em banda larga
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.7 - Optimização dos perfis de utilização
 
 2.7.1 - Princípios
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.7.2 - Perfis de utilização das pessoas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 2.7.3 - Perfis de utilização dos sistemas informáticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 3 - Recomendações
 
@@ -505,7 +509,7 @@ QUADRO N.º 3
 
 Vertentes fundamentais para caracterização das infra-estruturas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 Para qualquer das vertentes descritas, é importante caracterizar as tecnologias utilizadas, os dimensionamentos, as quantidades, as marcas e modelos e a sua localização, entre outros aspectos.
 
@@ -861,7 +865,7 @@ A racionalização das comunicações é um processo contínuo que envolve, de f
 
 A optimização das infra-estruturas procura reduzir os custos de comunicações, maximizar a sua eficiência e a qualidade de serviço prestada para um determinado conjunto de perfis de utilização. Todavia, se os próprios perfis forem objecto de optimização (minimizando o uso desnecessário das infra-estruturas, tanto pela parte de pessoas como dos sistemas de informação) poderemos atingir um grau de optimização superior das mesmas, evitando aumentos desnecessários de capacidade.
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)](https://files.diariodarepublica.pt/1s/2004/12/298b00/72567281.pdf)
 
 Tendo em consideração que geralmente não é fácil assegurar, à partida, uma optimização total dos perfis de utilização, pela complexidade que lhes está geralmente associada (aspectos culturais, organizacionais e tecnológicos ao nível do funcionamento dos sistemas de informação), o processo de racionalização das infra-estruturas de comunicações deverá ser desenvolvido de forma iterativa, envolvendo as duas vertentes referidas.
 

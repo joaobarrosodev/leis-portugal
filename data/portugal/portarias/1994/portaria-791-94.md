@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/791/1994/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/791-1994-657621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae0190ec990d3a074e9462461bff370d155e1c80a3c4f467ec9b6d72502f5faf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe8bf8b8d295040fda4b6e10984803081deb66352353410435f912aaf9cd39aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:592733:por
+  label: "Revogada na parte relativa à Escola Superior de Tecnologia da Saúde de Lisboa, nos termos do art. 10º do Regulamento\
+    \ aprovado pela Port 3/2000 de 04-Jan, pela PORT.1128/2000.2000.11.28.ME, DR.IS-B [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1128-2000-592733
+  date: '2000-11-28'
+- type: repealed_by
+  target: pt:dre:239252:por
+  label: "Revogada pela PORT.20/2001.2001.01.10.ME DR.IS-B [8], nos termos do art. 100.º do Regulamento aprovado pela Port\
+    \ 3/2000, de 04-Jan\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-2001-239252
+  date: '2001-01-10'
+- type: repealed_by
+  target: pt:dre:384778:por
+  label: "Revogada, na parte que se refere ao curso de Audiometria da Escola Superior de Tecnologia da Saúde de Coimbra, nos\
+    \ termos do art. 10º do Regulamento, aprovado pela Port 3/2000, de 04-Jan, pela PORT.132/2001.2001.02.27.ME, DR.IS-B [49]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/132-2001-384778
+  date: '2001-02-27'
+- type: repealed_by
+  target: pt:dre:391432:por
+  label: "Revogada, na parte que se refere à Escola Superior de Tecnologia da Saúde de Coimbra pela PORT.214/2001.2001.03.15.ME,\
+    \ DR.IS-B [63] de 15/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/214-2001-391432
+  date: '2001-03-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:15Z'
   warnings: []
   errors: []
 ---
@@ -200,6 +241,6 @@ A classificação final do curso corresponde à média aritmética ponderada, ar
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 2 de Agosto de 1994.**
+Assinada em 2 de Agosto de 1994.
 
-**A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.

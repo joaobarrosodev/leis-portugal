@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/105/2005/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2005-234166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bd9c9d3827f924662a53d0ce5a0e80deed6c4078a52384dc0c10c85ab1b3462
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06342446a6f90bce542406eea1266cca0f7d6976e77bb195f2ae66d122ebe6e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alandroal
-- Instituto da ÁGUA
 - Barragem de Pedrógão
-- Ordenamento do Território
+- Barragem do Alqueva
 - Comissão Mista
-- Recursos Hídricos
 - Elvas
+- Évora
+- Instituto da ÁGUA
 - Moura
 - Mourão
-- Zona de Proteção
+- Ordenamento do Território
 - Portel
-- Barragem do Alqueva
+- Recursos Hídricos
 - Recursos Naturais
 - Reguengos de Monsaraz
-- Évora
 - Serpa
 - Vidigueira
 - Vila Viçosa
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/95/2002/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/95/2002/05/13/p/dre
+- type: cites
+  target: pt:dre:160314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:30Z'
   warnings: []
   errors: []
 ---

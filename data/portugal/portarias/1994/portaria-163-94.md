@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/163/1994/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/163-1994-283336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: faee0fa484a83d817f92f3701027164488bbb890bfdcc35deb36f37b835a1d91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c2ef522816d11847156e1677b09983643b7d6300a1f510ff9350be930a07a13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/267/1993/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/267/1993/03/11/p/dre
+- type: cites
+  target: pt:dre:179352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674452:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:20:55Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +140,6 @@ Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
 
 Ministério da Administração Interna.
 
-**Assinada em 23 de Fevereiro de 1994.**
+Assinada em 23 de Fevereiro de 1994.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna.

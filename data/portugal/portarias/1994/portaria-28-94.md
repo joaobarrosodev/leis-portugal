@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/008b00/01060106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/28/1994/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-1994-532037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e84b0d0751063f0d000a5f953908502574d2a640594cf87ec0dc7fa8af724eab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4328f9799062e3769aee525d5fb3a2b050d6fcfaa84a0dd3d49740ac0f8e7944
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:504130:por
+  label: "Revogada, a partir de 20.11.2013, pela PORT.335/2013.15.11.2013.MF, DR.IS [222] de 15.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/335-2013-504130
+  date: '2013-11-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:47Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +111,6 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 1 do artigo 95.�
 
 Ministério das Finanças.
 
-**Assinada em 30 de Dezembro de 1993.**
+Assinada em 30 de Dezembro de 1993.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga.**
+O Ministro das Finanças, Eduardo de Almeida Catroga.

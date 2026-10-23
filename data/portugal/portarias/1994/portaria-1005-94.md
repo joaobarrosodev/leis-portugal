@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1005/1994/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1005-1994-550183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:15:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 426af7681a87c49ceb79720e89bfb559913df9b2523271b7394e2f9a37cbb494
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: babfd26cf9143c1f0f1cf7ff5bca6345eaa4a9d987c14353d2783904d3e83847
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:15:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral da Aviação Civil
 - Descrição de Funções
+- Direcção Geral da Aviação Civil
 - Pessoal Técnico Adjunto
 - Pessoal Técnico Auxiliar
 - Pessoal Técnico Profissional
@@ -76,20 +76,51 @@ relationships:
   target: pt:dre:1560536:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2166090:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.237/98(2ªSÉRIE).1998.02.06.PCM DR.IIS [50]\
+    \ de 28/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/237-1998-2166090
+  date: '1988-02-06'
+- type: amended_by
+  target: pt:dre:2865406:por
+  label: "Criado um lugar de inspector superior principal, pela PORT.199/96IIS.1996.09.10.PCM, DR.IIS [239] de 15/Out/1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/199-1996-2865406
+  date: '1996-09-10'
+- type: amended_by
+  target: pt:dre:843542:por
+  label: "Alterado o quadro de pessoal pela PORT.291796IIS.1996.11.21.PCM, DR.IIS [291] de 1996.12.17\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-1996-843542
+  date: '1996-11-21'
+- type: amended_by
+  target: pt:dre:2494466:por
+  label: "Alterado o quadro de pessoal pela PORT.100/98(2ªSÉRIE).1997.12.31.PCM, MF E MEPAT DR.IIS [21] DE 26/JAN/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/100-1998-2494466
+  date: '1997-12-31'
+- type: amended_by
+  target: pt:dre:1560536:por
+  label: "Alterado o quadro de pessoal pela PORT.1875/2000(2ªSÉRIE).2000.11.03.MES, DR.IIS [277] de 30/Nov/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1875-2000-1560536
+  date: '2000-11-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre
+- type: cites
+  target: pt:dre:264276:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:15:19Z'
   warnings: []
   errors: []
 ---
@@ -110,14 +141,14 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 19 de Outubro de 1994.**
+Assinada em 19 de Outubro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 ## ANEXO I — Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/267b00/68786881.pdf))](https://files.diariodarepublica.pt/1s/1994/11/267b00/68786881.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/267b00/68786881.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/267b00/68786881.pdf))](https://files.diariodarepublica.pt/1s/1994/11/267b00/68786881.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/267b00/68786881.pdf)

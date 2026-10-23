@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/691/1994/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/691-1994-298218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c072776bbe25975ca5a3011dcd6137ef0b15db4b39d666af7dabfce808d67929
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fb334924c58f58f42630841ab27750698b84df92d6b6263ce2300ca3a7f23a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/258/1992/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/258/1992/11/20/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584256:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:48Z'
   warnings: []
   errors: []
 ---
@@ -116,20 +128,20 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 8 de Junho de 1994.**
+Assinada em 8 de Junho de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Localização de terrenos para comércio de grande superfície na zona da Azeda Plano de Pormenor
 
 Regulamento
 
-###### Artigo 1.º O presente Plano de Pormenor tem como objectivo a alteração do uso da área urbanizável identificada nas plantas anexas, por forma a aplicar-se o disposto no [Decreto-Lei n.º 258/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1992-584256), de 20 de Novembro, relativamente a instalações de grandes superfícies comerciais.
+Artigo 1.º O presente Plano de Pormenor tem como objectivo a alteração do uso da área urbanizável identificada nas plantas anexas, por forma a aplicar-se o disposto no [Decreto-Lei n.º 258/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1992-584256), de 20 de Novembro, relativamente a instalações de grandes superfícies comerciais.
 
-###### Art. 2.º Na área abrangida pelo presente Plano de Pormenor aplicar-se-ão os seguintes condicionamentos urbanísticos:
+Art. 2.º Na área abrangida pelo presente Plano de Pormenor aplicar-se-ão os seguintes condicionamentos urbanísticos:
 
 Índice máximo de utilização bruto - 0,7;
 
 Cérceas - a altura das edificações não poderá exceder 25 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/169b00/40814082.pdf))](https://files.diariodarepublica.pt/1s/1994/07/169b00/40814082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/169b00/40814082.pdf)

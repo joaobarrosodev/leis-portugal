@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/16/1997/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-1997-563975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 808a430e98ff9589942b6e54a1f0b8cb7d83becf0f6b005852ae03ad9c0494d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20a978958554ddb579e338267cb9744ad1cf878d75eb1a8d49b4cdfc0b471a07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,84 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Torres Novas
 relationships:
+- type: amended_by
+  target: pt:dre:580628:por
+  label: "Ratificada a suspensão parcial do Plano Director Municipal de Torres Novas, pela RES.9/2004.22.01.2004.PCM, DR.IS-B\
+    \ [33] de 09.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/9-2004-580628
+  date: '2004-01-22'
+- type: amended_by
+  target: pt:dre:63456868:por
+  label: Tornado público, que a Assembleia Municipal, na sua sessão ordinária de 30.09.2014 aprovou a suspensão parcial do
+    Plano Diretor Municipal de Torres Novas com incidência, numa área de 7200 m2, localizada na União de Freguesias de Torres
+    Novas (Santa Maria, Salvador e Santiago) e com determinação das medidas preventivas, ratificado pela presente Resolução,
+    pelo(a) Aviso n.º 13866/2014 - Diário da República n.º 238/2014, Série II de 2014-12-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13866-2014-63456868
+  date: '2014-12-10'
+- type: amended_by
+  target: pt:dre:72958522:por
+  label: Tornada pública a aprovação pela Assembleia Municipal de Torres Novas, em 20.10.2015, da suspensão pelo prazo de
+    dois anos dos arts. 8.º, 9.º, 10.º, 20.º, 21.º, 22.º, 29.º, 30.º, 31.º, 34.º, 35.º, 36.º, 37.º, 55,º 56.º e 85.º do Regulamento
+    do Plano Diretor Municipal de Torres Novas (PDMTN), ratificado pelo presente diploma, com as suspensões parciais ratificadas
+    pela Res 9/2004 de 09-fev e pela Res 148/2006 de 04-out, ambas da PCM, assim como com a publicitada pelo AV 13866/2014
+    de 10-dez, pelo(a) Aviso n.º 15028/2015 - Diário da República n.º 250/2015, Série II de 2015-12-23, nos termos do que
+    nele se dispõe.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/15028-2015-72958522
+  date: '2015-12-23'
+- type: amended_by
+  target: pt:dre:72958523:por
+  label: Tornada pública a aprovação pela Assembleia Municipal de Torres Novas, em 20.10.2015, do estabelecimento de medidas
+    preventivas pelo prazo de dois anos para a área da Fábrica 2 da RENOVA, na área de incidência da suspensão parcial do
+    Plano Diretor Municipal de Torres Novas (PDMTN), ratificado presente diploma, com as suspensões parciais ratificadas pela
+    Res 9/2004 de 09-fev e pela Res 148/2006 de 04-out, ambas da PCM, assim como com as publicitadas pelo AV 13866/2014 de
+    10-dez e pelo AV 15028/2015 de 23-dez, pelo(a) Aviso n.º 15029/2015 - Diário da República n.º 250/2015, Série II de 2015-12-23,
+    nos termos do que nele se dispõe.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/15029-2015-72958523
+  date: '2015-12-23'
+- type: amended_by
+  target: pt:dre:73462809:por
+  label: Suspendido parcialmente o presente diploma e estabelecidas medidas preventivas pelo(a) Aviso n.º 1571/2016 - Diário
+    da República n.º 27/2016, Série II de 2016-02-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1571-2016-73462809
+  date: '2016-02-09'
+- type: amended_by
+  target: pt:dre:106829391:por
+  label: Tornada pública a aprovação pela Assembleia Municipal de Torres Novas, em 23.02.2017, da suspensão pelo prazo de
+    dois anos, nos termos do disposto no presente aviso, da al. 4) do art. 10.º do Regulamento do Plano Diretor Municipal
+    de Torres Novas (PDMTN), ratificado pelo presente diploma, com as suspensões parciais ratificadas pela Res 9/2004 de 09-fev
+    e pela Res 148/2006 de 04-out, ambas da PCM, assim como com as publicitadas pelo AV 13866/2014 de 10-dez e pelo Av 15028/2015,
+    de 23-dez e pelo AV 1571/2016, de 09-fev pelo(a) Aviso n.º 3613/2017 - Diário da República n.º 68/2017, Série II de 2017-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/3613-2017-106829391
+  date: '2017-04-05'
+- type: amended_by
+  target: pt:dre:114766003:por
+  label: Tornado público terem sido aprovados pela Assembleia Municipal de Torres Novas a suspensão, pelo prazo de dois anos,
+    do art. 9.º do Regulamento do Plano Diretor Municipal de Torres Novas, ratificado pelo presente diploma, e o estabelecimento
+    de medidas preventivas para a área a que respeita aquele art. e pelo mesmo prazo pelo(a) Aviso n.º 2685/2018 - Diário
+    da República n.º 40/2018, Série II de 2018-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2685-2018-114766003
+  date: '2018-02-26'
+- type: amended_by
+  target: pt:dre:121462013:por
+  label: Tornada pública a terceira alteração ao PDM de Torres Novas pelo(a) Aviso n.º 5246/2019 - Diário da República n.º
+    59/2019, Série II de 2019-03-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5246-2019-121462013
+  date: '2019-03-25'
+- type: amended_by
+  target: pt:dre:122345180:por
+  label: Tornado público ter sido aprovado pela Assembleia Municipal de Torres Novas a suspensão parcial (incidente numa área
+    de 3 hectares, localizados na Cancela do Leão em Torres Novas, na União das freguesias de Torres Novas), a que correspondem
+    os arts. 9.º e 12.º do Regulamento do Plano Diretor Municipal de Torres Novas, ratificado pelo presente diploma, bem como
+    o estabelecimento de medidas preventivas para a mesma área, pelo prazo de dois anos, pelo(a) Aviso n.º 8698/2019 - Diário
+    da República n.º 96/2019, Série II de 2019-05-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8698-2019-122345180
+  date: '2019-05-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -104,16 +176,95 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:156190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645280:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546212:por
+  label: "Revogada a ratificação da área delimitada nas plantas anexas à Res 9/2004, de 9-Fev, e ratificada uma nova área\
+    \ delimitada sobre a qual incide a suspensão parcial do Plano Director Municipal de Torres Novas, ratificado pelo presente\
+    \ diploma, pela RES.148/2006.04.10.2006.PCM, DR.IS [213] de 06.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/148-2006-546212
+  date: '2006-10-04'
 article_structure:
   article_count: 94
-  section_count: 65
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 59
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:02Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +319,7 @@ Presidência do Conselho de Ministros, 16 de Dezembro de 1996. - O Primeiro-Mini
 
 REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DE TORRES NOVAS
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais, constituição e definições
 
@@ -198,13 +349,13 @@ Volume II - Relatório descritivo e propositivo do PDM de Torres Novas;
 
 Volume III - Elementos anexos ao Plano:
 
-## Anexo I - Disposições de carácter indicativo;
+Anexo I - Disposições de carácter indicativo;
 
-## Anexo II - Fichas das servidões e restrições de utilidade pública;
+Anexo II - Fichas das servidões e restrições de utilidade pública;
 
-## Anexo III - Regulamentação subsidiária;
+Anexo III - Regulamentação subsidiária;
 
-## Anexo IV - Identificação das abreviaturas inseridas no texto do Regulamento;
+Anexo IV - Identificação das abreviaturas inseridas no texto do Regulamento;
 
 Peças desenhadas: ... Escala
 
@@ -316,7 +467,7 @@ k) Número de pisos máximo - número máximo de pavimentos sobrepostos, incluin
 
 l) Lugar de estacionamento - área de domínio público, ou de domínio privado, afecta em exclusivo a estacionamento de veículos, com as dimensões estabelecidas na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.
 
-## TÍTULO II
+TÍTULO II
 
 Classes de espaço
 
@@ -422,7 +573,7 @@ VU - área verde de utilização pública - onde se devem constituir áreas para
 
 1 - Quadro de caracterização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf))](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
 
 P - Área a preservar.
 
@@ -568,7 +719,7 @@ b.2) Na área não urbanizável verde são admitidas as utilizações admitidas 
 
 1 - Quadro de caracterização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf))](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
 
 Nível I (N.I) - Torres Novas, incluindo Torres Novas, Lapas, Serrada Grande, Cerejal, Alvarenga, Chãs, Nicho dos Riachos, Quinta de São Gião e Vale.
 
@@ -632,7 +783,7 @@ b) Área industrial proposta - correspondente às áreas industriais propostas e
 
 Na urbanização de área industrial proposta e no completamento de área industrial existente, não abrangida por plano ou alvará de loteamento eficaz, observam-se os seguintes parâmetros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf))](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
 
 ###### Artigo 22.º — Normas gerais a observar na urbanização do espaço industrial
 
@@ -1082,7 +1233,7 @@ b.4) O licenciamento de equipamento de animação turística.
 
 3 - No espaço natural do PPNSAC deverá incentivar-se a protecção do olival aí instalado.
 
-## TÍTULO III
+TÍTULO III
 
 Unidades operativas de planeamento e gestão
 
@@ -1170,7 +1321,7 @@ PP das margens do rio Almonda, na cidade de Torres Novas (*).
 
 6 - A Câmara Municipal de Torres Novas deverá, sempre que possível, assegurar a elaboração e aprovação de plano de pormenor antes do licenciamento de loteamento urbano e obra de urbanização no espaço urbanizável e na área industrial proposta.
 
-## TÍTULO IV
+TÍTULO IV
 
 Condicionantes/servidões e restrições de utilidade pública
 
@@ -1272,7 +1423,7 @@ Ribeira do Chão das Maçãs;
 
 e) Nível da maior cheia conhecida - de acordo com as observações efectuadas nas Estações Hidrométricas do Rio Almonda, na Companhia Nacional de Fiação e Tecidos e na Ponte Nova, a cheia de Fevereiro de 1979 pode considerar-se como ocorrência centenária, com os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf))](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
 
 2 - Disposições no âmbito do PDM:
 
@@ -2046,7 +2197,7 @@ f) Fl. 330/SCE:
 
 Telégrafo.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições complementares
 
@@ -2068,7 +2219,7 @@ K2 é o parâmetro para fixação da área afecta a equipamentos;
 
 2 - Os valores referidos no n.º 1 de K1 e K2 são, consoante o espaço e área regulamentada a que se referem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf))](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
 
 ###### Artigo 85.º — Arruamentos e estacionamentos
 
@@ -2082,7 +2233,7 @@ a) Nas grandes superfícies comerciais observa-se o estabelecido em legislação
 
 4 - A repartição do número de lugares de estacionamento privado e público corresponde respectivamente, consoante a utilização da edificação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf))](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
 
 5 - A aplicação dos n.os 1 a 4 incide no licenciamento de loteamento urbano.
 
@@ -2176,7 +2327,7 @@ c.4) O ajustamento dos limites referidos na subalínea c.1) apenas poderá abran
 
 Às situações não previstas no presente Regulamento aplica-se o disposto na legislação vigente.
 
-## TÍTULO VI
+TÍTULO VI
 
 Disposições finais
 
@@ -2200,4 +2351,4 @@ O presente Regulamento entra em vigor no dia da sua publicação no Diário da R
 
 2 - Mediante solicitação dirigida à Câmara Municipal de Torres Novas, serão passadas certidões de matéria incluída no PDMTN.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf))](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/030b00/06050628.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/54/1998/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-1998-176017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff0690bfa3c6ae043eb271b21ec77ba50282f6b69c1ebe2af7883ebbf6c0f2bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c74fdd8fdf33571151b16c2fd4164a30a870e95b129f8e10563cedf6504a7b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Pessoal Dirigente
+- Comércio
 - Criação de Serviços
 - Definição de Competências
 - IAPMEI
-- Comércio
 - Observatório do Comércio
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:432180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235365:por
+  label: "Alterado o nº 10, pela RES.120/98.1998.09.17.PCM DR.IS-B [233] de 09/Out/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/120-1998-235365
+  date: '1998-09-17'
+- type: amended_by
+  target: pt:dre:274230:por
+  label: "Prorrogado por 24 meses o prazo de duração do Observatório do Comércio pela RES.28/2000.2000.04.27.PCM DR.IS-B [114]\
+    \ de 17/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/28-2000-274230
+  date: '2000-04-27'
+- type: amended_by
+  target: pt:dre:303380:por
+  label: "Prorrogado por seis meses a duração do Observatório do Comércio pela RES.77/2002.2002.02.21.PCM, DR.IS [85] de 11/Abr/2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/77-2002-303380
+  date: '2002-02-21'
+- type: amended_by
+  target: pt:dre:432180:por
+  label: "Determinado que o processo de extinção do observatório do comércio tenha o seu termo no prazo de 15 dias a contar\
+    \ da data de entrada do Dec Lei 217/2002, que o contratos celebrados nos termos do nº 5.2 caduquem na mesma data e revogada,\
+    \ pelo DEC LEI.217/2002.2002.10.22.MECO, DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2002-432180
+  date: '2002-10-22'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:23Z'
   warnings: []
   errors: []
 ---

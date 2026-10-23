@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/5/1995/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-1995-363904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:04:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dbc4e91ad56535e25c0f603c2b872e1e1b1e9f15279797fa0d921e900424192
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a25c731ed956d4ac4a0bdf243c5787d0fabc754adcfdf0bd50130b72d07bd74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:04:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
+- Beja
 - Criação de Serviços
 - Extinção de Serviços
 - Ilha de São Jorge
 - Ilha do Pico
-- Beja
 - Ilha Graciosa
 - Viana do Castelo
 - Vila Real de Santo António
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:145599:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145599:por
+  label: "Extinto o Posto Aduaneiro de Vila Real de Santo António, criado pelo presente diploma, pela PORT.677/2002.2002.06.19.MF\
+    \ DR.IS-B [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-2002-145599
+  date: '2002-06-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/286/1994/11/14/p/dre
   label: null
@@ -89,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre
+- type: cites
+  target: pt:dre:534657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653126:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:04:12Z'
   warnings: []
   errors: []
 ---
@@ -119,14 +133,14 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no artigo 44
 
 Ministério das Finanças.
 
-**Assinada em 29 de Novembro de 1994.**
+Assinada em 29 de Novembro de 1994.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.
 
 ## ANEXO I — (a que se refere o artigo 40.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf))](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf)
 
 ## ANEXO II — (a que se refere o artigo 41.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf))](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf)

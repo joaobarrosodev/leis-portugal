@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/186/2007/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/186-2007-627818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50ec3d8eb7a20d38840ac4368e8b9271db27519db09bf9f4d4a07d5ff81ebcc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa70bf47c50eb7d293b1fe9af9208e547ca45cee85f2c69085bc89e0ddff1d46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Albufeiras
 - Barragem da Aguieira
 - Carregal do SAL
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Recursos Hídricos
-- Albufeiras
-- Proteção do Ambiente
 - Penacova
 - Política de Solos
+- Proteção do Ambiente
+- Recursos Hídricos
 - Regulamento
+- Reserva Ecológica Nacional
 - Santa Comba DÃO
 - Tondela
 relationships:
+- type: amended_by
+  target: pt:dre:108000334:por
+  label: Aprovada, com efeitos a 15.08.2017, a terceira alteração da delimitação da Reserva Ecológica Nacional do concelho
+    de Santa Comba Dão, aprovada pela Res 151/2000, de 11-nov, PCM, na redação da presente resolução, pelo(a) Aviso n.º 9293/2017
+    - Diário da República n.º 156/2017, Série II de 2017-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9293-2017-108000334
+  date: '2017-08-14'
 - type: cites
   target: eli:http://data
   label: null
@@ -119,16 +126,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/2003/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/2003/04/22/p/dre
+- type: cites
+  target: pt:dre:173920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690646:por
+  label: null
+  source: null
 article_structure:
   article_count: 48
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:08Z'
   warnings: []
   errors: []
 ---
@@ -1195,4 +1278,4 @@ O POAA vigorará enquanto se mantiver a indispensabilidade de tutela dos recurso
 
 O POAA entra em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24600/0900509020.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24600/0900509020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24600/0900509020.pdf)

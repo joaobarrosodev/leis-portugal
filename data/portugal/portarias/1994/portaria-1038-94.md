@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1038/1994/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1038-1994-546783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2faaef098009a7693dc8606e9ee54166dedf9c8a13bc941030c6ed20b936f358
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50c8dc06cf41787e755a3d4cea93f074fc7fb4e1f72b2db3acc7a2d893f96f6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Formação Profissional
 - Cortiça
-- Plano de Estudos
 - Curso
+- Formação Profissional
 - Jovem Trabalhador
+- Plano de Estudos
 - Política de Emprego
 - Regulamento
 - VIDA Activa
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/850/1991/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/850/1991/08/19/p/dre
+- type: cites
+  target: pt:dre:288232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676797:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:07Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +132,9 @@ c) Técnico corticeiro.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 25 de Outubro de 1994.**
+Assinada em 25 de Outubro de 1994.
 
-**A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - Pelo Ministro do Emprego e da Segurança Social, José Mateus Varatojo Júnior, Secretário de Estado do Emprego e Formação Profissional.**
+A Ministra da Educação, Maria Manuela Dias Ferreira Leite. - Pelo Ministro do Emprego e da Segurança Social, José Mateus Varatojo Júnior, Secretário de Estado do Emprego e Formação Profissional.
 
 Normas regulamentares da aprendizagem nas saídas profissionais da área da cortiça anexas à Portaria n.º 1038/94
 
@@ -390,7 +406,7 @@ XIII - Disposições finais e transitórias
 
 Área profissional: cortiça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf))](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf)
 
 ## ANEXO II — Produção rolheira
 
@@ -398,7 +414,7 @@ Curso de Produção Rolheira (nível I) (ver nota *)
 
 (nota *) A saída profissional de auxiliar de operador corticeiro contempla as profissões de rabaneador-broquista e escolhedor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf))](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf)
 
 ## ANEXO III — Operação e transformação da cortiça
 
@@ -406,7 +422,7 @@ Curso de Operação e Transformação da Cortiça (nível II) (ver nota *)
 
 (nota *) A saída profissional de operador corticeiro contempla as profissões de operador de produtos naturais e operador de indústrias complexas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf))](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf)
 
 ## ANEXO IV — Tecnologia dos produtos de cortiça
 
@@ -414,4 +430,4 @@ Curso de Tecnologia dos Produtos de Cortiça (nível III) (ver nota *)
 
 (nota *) A saída profissional de técnico corticeiro contempla as profissões de técnico de produção de produtos naturais e técnico de granulação/aglomeração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf))](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/273b00/69826991.pdf)

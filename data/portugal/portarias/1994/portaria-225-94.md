@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/225/1994/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-1994-265762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b93303ecd4a234f0be46f2c583f54ee590ead5d1f992f8bb4cbabd84e4d8cdf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 526d9a747f39ae20f37cf284018728231fd2e6506bb2a252a32446e932b562b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/68/1994/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/68/1994/01/31/p/dre
+- type: cites
+  target: pt:dre:497247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653126:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:22:26Z'
   warnings: []
   errors: []
 ---
@@ -116,6 +124,6 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no artigo 44
 
 Ministério das Finanças.
 
-**Assinada em 21 de Março de 1994.**
+Assinada em 21 de Março de 1994.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.

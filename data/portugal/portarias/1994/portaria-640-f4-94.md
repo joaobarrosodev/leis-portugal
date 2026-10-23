@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1994, 3º Suplemento, Série I-B de 1994-07-15
   number: '162'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3862-(86) a 3862-(86)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b03/00860086.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/640-f4/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/640-f4-1994-276236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 093d0b127b27261e51b0f01c0106f3d5561aa6b4de1d900435d45ca6368f6075
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f9396ddd943ddd75dcba36fbd77229f05f4d76b52f733df39efedbbc8066639
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,24 @@ relationships:
   target: pt:dre:640310:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642898:por
+  label: "Alterados os nºs 1º e 6º e aditado o nº 1º-A pela Port.835/97.1997.09.06.MADRP DR.IS-B [206], que mantém em vigor\
+    \ o restante preceituado deste diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/835-1997-642898
+  date: '1997-09-06'
+- type: amended_by
+  target: pt:dre:437460:por
+  label: "Alterado o nº 1º e substituída a planta anexa à Port 835/97 de 06-Set, na alteração que introduziu ao presente diploma,\
+    \ pela PORT.531/98.17.08.1998.MADRP, DR.IS-B [188] de 17.08.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/531-1998-437460
+  date: '1998-08-17'
+- type: amended_by
+  target: pt:dre:640310:por
+  label: "Extinta parte da zona de caça criada no presente diploma e alterada pelas Port 835/97 de 06-Set e 531/98 de 17-Ago\
+    \ pela PORT.1105/2007.07.09.2007.MAOTDR, DR.IS [173] de 07.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1105-2007-640310
+  date: '2007-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -81,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:33:06Z'
   warnings: []
   errors: []
 ---
@@ -125,8 +163,8 @@ Manda o Governo, pelos Ministros da Agricultura e do Ambiente e Recursos Naturai
 
 Ministérios da Agricultura e do Ambiente e Recursos Naturais.
 
-**Assinada em 8 de Julho de 1994.**
+Assinada em 8 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b03/00860086.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b03/00860086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b03/00860086.pdf)

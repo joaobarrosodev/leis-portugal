@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/88/1994/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/88-1994-521625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98783f1cb559b301a990707336e684708225cd7a1ee24e4e3b5aa2be52349431
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e79165226774acdc3e38006c69bd3c9ed86189b6c47c9d27692d13526184fd20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,42 @@ relationships:
   target: pt:dre:344392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:650335:por
+  label: "Alterado o nº 1 e aditado o nº 1-A pela PORT.959/97.1997.09.12.MADRP DR.IS-B [211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/959-1997-650335
+  date: '1997-09-12'
+- type: amended_by
+  target: pt:dre:243753:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.738/98.1998.09.10.MADRP DR.IS-B [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/738-1998-243753
+  date: '1998-09-10'
+- type: amended_by
+  target: pt:dre:197134:por
+  label: "Anexados vários prédios rústicos à zona de caça pela PORT.919/2002.2002.08.01.MADRP DR.IS-B [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/919-2002-197134
+  date: '2002-08-01'
+- type: amended_by
+  target: pt:dre:284116:por
+  label: "Renovada por 12 anos a concessão da zona de caça associativa concessionada pelo presente diploma, alterada pelas\
+    \ Ports. 959/97, de 12-Set, 738/98, de 10-Set e 919/2002, de 01-Ago, pela Port.1033-CE/2004.10.08.2004.MADRP, DR.IS-B\
+    \ [187-Supl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-ce-2004-284116
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:334298:por
+  label: "Desanexados dois prédios rústicos da zona de caça associativa de Rio de Bucho, criada pelo presente diploma alterada\
+    \ pela Port 959/97, de 12-Set, pela Port 738/98, de 10-Set, pela Port 919/2002, de 01-Ago e renovada pela Port 1033-CE/2004,\
+    \ de 10-Ago, pela PORT.522/2010.19.07.2010.MADRP, DR.IS [138] de 19.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/522-2010-334298
+  date: '2010-07-19'
+- type: amended_by
+  target: pt:dre:344392:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, alterada pela Port 959/97, de 12-Set,\
+    \ pela Port 738/98, de 10-Set, pela Port 919/2002, de 01-Ago, pela Port 1033-CE/2004, de 10-Ago e pela Port 522/2010,\
+    \ de 19-Jul, pela PORT.835/2010.01.09.2010.MADRP, DR.IS [170] de 01.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/835-2010-344392
+  date: '2010-09-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +122,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/722-c3/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-c3/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:25Z'
   warnings: []
   errors: []
 ---
@@ -136,8 +196,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 12 de Janeiro de 1994.**
+Assinada em 12 de Janeiro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/031b00/06080608.pdf))](https://files.diariodarepublica.pt/1s/1994/02/031b00/06080608.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/031b00/06080608.pdf)

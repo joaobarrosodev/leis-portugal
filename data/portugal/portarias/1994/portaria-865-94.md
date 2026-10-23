@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/865/1994/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/865-1994-607125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e69a3eff742a52f9104647974dca42c081b97765627d5cf0ae8fd958078eab08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f971209047ed24279ab392f9ab8345ab0219ed0d9fe89026cdfbbda7569a0dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1120/1992/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1120/1992/12/07/p/dre
+- type: cites
+  target: pt:dre:274440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680633:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:355915:por
+  label: "Rectificada a nota (b) das observações pela DECL-RECT.232/94.30.11.1994.PCM, DR.IS-B [277]4ºSupl de 30.11.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/232-1994-355915
+  date: '1994-11-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:04Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +133,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 2 de Setembro de 1994.**
+Assinada em 2 de Setembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal da Escola Superior de Enfermagem de Francisco Gentil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/224b00/58495849.pdf))](https://files.diariodarepublica.pt/1s/1994/09/224b00/58495849.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/224b00/58495849.pdf)

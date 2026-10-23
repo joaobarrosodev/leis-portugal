@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/58/2009/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2009-492212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:59:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2057935d42b533f8efcad5b9be331792e13d9564c41cc19abcd6f823f80c631
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8c3b30156d18230952a1ca115a7de24743514b540155f340107cbcc2fed1712
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ subjects:
 - Ajuste Direto
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
+- Confidencialidade
 - Conselho de Ministros
 - Conselho Superior do Exército
 - Delegação de Competências
 - Governo XVII
-- Obras Públicas
-- Ministro de Estado e das Finanças
-- Confidencialidade
 - Ministro da Defesa Nacional
+- Ministro de Estado e das Finanças
+- Obras Públicas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/170/2007/05/03/p/dre
@@ -103,16 +103,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/6/2003/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/6/2003/01/20/p/dre
+- type: cites
+  target: pt:dre:172728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583190:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:59:25Z'
   warnings: []
   errors: []
 ---

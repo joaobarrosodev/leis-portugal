@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1217/1995/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1217-1995-664904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72fe240638f138405e27d74a1ea1032cb751c2ebf6b6aad991d92c5b517694e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7624dd8e48c7a0d27d4236adc13537a198fd244805db0356880f0ee6a762e8b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,6 +78,23 @@ relationships:
   target: pt:dre:641084:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615841:por
+  label: "Determinada a suspensão do exercício da caça e de actividades de carácter venatório na zona de caça associativa\
+    \ concessionada pelo presente diploma, pela PORT.1138/2001.2001.09.26.MADRP DR.IS-B [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1138-2001-615841
+  date: '2001-09-26'
+- type: amended_by
+  target: pt:dre:615601:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.1168-C/2001.2001.10.06.MADRP, DR.IS-B [232]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1168-c-2001-615601
+  date: '2001-10-06'
+- type: amended_by
+  target: pt:dre:641084:por
+  label: "Renovada, por um período de 6 anos a concessão da zona de caça associativa, criada pela Portaria 207/94, de 11 de\
+    \ Abril e renovada pelo presente diploma, pela PORT.1012/2007.30.08.2007.MADRP, DR.IS [167] de 30.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1012-2007-641084
+  date: '2007-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +103,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/207/1994/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/207/1994/04/11/p/dre
+- type: cites
+  target: pt:dre:257022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:43Z'
   warnings: []
   errors: []
 ---
@@ -122,6 +147,6 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Setembro de 1995.**
+Assinada em 21 de Setembro de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

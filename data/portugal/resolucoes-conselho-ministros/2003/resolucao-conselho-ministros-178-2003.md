@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/178/2003/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-2003-445572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:48:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7692c374dda9da773cc94fca480a74ccf07ac3f8a0b159a7d8cb180aa4d03e64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edecdfd35bd4a1829ecf0ab37d6a48c27ae65e570d3720d34b733ff594ad3f47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para a Prevenção dos Fogos Florestais
-- Prevenção de Incêndios
-- Ministério da Administração Interna
 - Comissão Municipal de Defesa da Floresta contra Incêndios
 - Conselho Nacional de Reflorestação
 - Criação de Serviços
 - Direcção Geral dos Recursos Florestais
-- Fundo Florestal Permanente
-- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Proteção do Ambiente
 - Exploração Florestal
+- Fundo Florestal Permanente
+- Ministério da Administração Interna
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Política Florestal
+- Prevenção de Incêndios
+- Proteção do Ambiente
 - Sector Florestal
 - Transferência de Competências
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:48:01Z'
   warnings: []
   errors: []
 ---

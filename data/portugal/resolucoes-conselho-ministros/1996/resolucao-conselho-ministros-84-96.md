@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/84/1996/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-1996-437436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 040e4200b6aae9ba5d49f2acd607eaef64b59616a8d782cab2b52b057bebb2ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e619cd4af43e790e6978bfdcab738f1d4778d216d2669cc5c6ea99f1784122a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 - Trancoso
 relationships:
+- type: amended_by
+  target: pt:dre:73825238:por
+  label: Alterada a delimitação da Reserva Ecológica Nacional (REN) do município de Trancoso pelo(a) Despacho n.º 3473/2016
+    - Diário da República n.º 48/2016, Série II de 2016-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3473-2016-73825238
+  date: '2016-03-09'
+- type: amended_by
+  target: pt:dre:128366546:por
+  label: Aprovada alteração da delimitação da Reserva Ecológica Nacional (REN) do município de Trancoso, aprovada pela presente
+    resolução, pelo(a) Aviso n.º 1096/2020 - Diário da República n.º 15/2020, Série II de 2020-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1096-2020-128366546
+  date: '2020-01-22'
+- type: amended_by
+  target: pt:dre:160311855:por
+  label: Aprovada nova delimitação da Reserva Ecológica Nacional do município de Trancoso pelo(a) Despacho n.º 3330/2021 -
+    Diário da República n.º 60/2021, Série II de 2021-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3330-2021-160311855
+  date: '2021-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -79,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:07Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +147,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 16 de Maio de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/131b00/14541456.pdf))](https://files.diariodarepublica.pt/1s/1996/06/131b00/14541456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/131b00/14541456.pdf)

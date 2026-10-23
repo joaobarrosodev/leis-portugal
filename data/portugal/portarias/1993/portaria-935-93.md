@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/935/1993/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/935-1993-653961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e52d1fba9cf100fd1bf6f7c1a614c3f9a0938a4b82008d1a3b3d163437a912a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11894aad3dc27330b17c63262f75ef411d4c9d99fe17e6cf0372413742f5aa4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
 - Criação de Serviços
 - Definição de Competências
 - Impresso
-- Regulamento
 - Polícia Judiciária
+- Regulamento
 - Regulamento de Classificações e Louvores da Polícia Judiciária
-- Avaliação do Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:364348:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECL-RECT 223/93 DE 28-OUT DR.IS-B [255]3SUPL DE 30/OUT/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUSPENSO, PELO PRAZO DE 18 MESES, O REGULAMENTO APROVADO PELO PRESENTE DIPLOMA PELA PORT 1229/95 DE 11-OUT DR.IS-B\
+    \ [235]\0DR.IS-B [235]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-11'
+- type: amended_by
+  target: pt:dre:694213:por
+  label: "Suspensa pelo prazo de doze meses a contar de 11 de Abril de 1997, pela PORT.1184/97.1997.11.20.PCM DR.IS-B [269]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1184-1997-694213
+  date: '1997-11-20'
+- type: amended_by
+  target: pt:dre:216750:por
+  label: "Suspenso, por 12 meses, pela PORT.994/98.1998.11.25.PCM,DR.IS-B [273]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/994-1998-216750
+  date: '1998-11-25'
+- type: amended_by
+  target: pt:dre:434605:por
+  label: "Suspenso, pelo prazo de 12 meses, o presente Regulamento pela PORT.670/99.1999.08.19.PCM, DR.IS-B [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/670-1999-434605
+  date: '1999-08-19'
+- type: amended_by
+  target: pt:dre:571637:por
+  label: "Suspenso, pelo prazo de 12 meses, o Regulamento aprovado pelo presente diploma, pela PORT.743/2000.2000.09.11.MJ,\
+    \ DR.IS-B [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-2000-571637
+  date: '2000-09-11'
+- type: amended_by
+  target: pt:dre:365309:por
+  label: "Suspenso, pelo prazo de 4 meses, o regulamento aprovado no presente diploma pela PORT.601/2001.2001.06.11.MJ, DR.IS-B[135]\
+    \ de 2001/JUN/11\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-2001-365309
+  date: '2001-06-11'
+- type: amended_by
+  target: pt:dre:364348:por
+  label: "Suspenso, até à entrada em vigor do novo regime de classificação, o Regulamento aprovado pelo presente diploma,\
+    \ pela PORT.510/2002.2002.04.30.MJ DR.IS-B [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/510-2002-364348
+  date: '2002-04-30'
+- type: cites
+  target: pt:dre:553435:por
+  label: null
+  source: null
 article_structure:
   article_count: 39
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:33Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +162,7 @@ Ao abrigo do artigo 112.º do [Decreto-Lei n.º 295-A/90](https://diariodarepubl
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 8 de Julho de 1993.**
+Assinada em 8 de Julho de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
 
@@ -523,4 +572,4 @@ f) Uniformizar procedimentos e critérios a nível nacional, emitindo directivas
 
 Uma vez notificado da classificação homologada, o interessado pode recorrer hierarquicamente para o Ministro da Justiça no prazo de 30 dias.
 
-## ANEXO 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/224b00/52565281.pdf))](https://files.diariodarepublica.pt/1s/1993/09/224b00/52565281.pdf)
+## ANEXO 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/224b00/52565281.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/217/1995/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-1995-172495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58761a0899073bbda181932bf23e46117d4f235446f97f8999e513462cc166b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83f7ca8fc6a4b863bb388a1f9d2371bd707019cb27b21f49e5d47e1e9609bb71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Professores do Ensino Básico Variante Educação Física
 - Curso de Professores do Ensino Básico Variante Educação Musical
 - Escola Superior de Educação JEAN Piaget
 - Licenciatura
 - Numerus Clausus
+- Plano de Estudos
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:577876:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:576141:por
+  label: "Alterado o plano de estudos do Curso de Professores do Ensino Básico-2º Ciclo Variante de Educação Musical, pela\
+    \ PORT.1398/2001.2001.12.10.ME DR.IS-B [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1398-2001-576141
+  date: '2001-12-10'
+- type: amended_by
+  target: pt:dre:577774:por
+  label: "Alterado o plano de estudos pela PORT.1405/2001.2001.12.11.ME,DR.IS-B [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1405-2001-577774
+  date: '2001-12-11'
+- type: amended_by
+  target: pt:dre:577875:por
+  label: "Alterado o plano de estudos do curso cujo funcionamento foi autorizado pelo presente diploma, pela PORT.1406/2001.2001.12.11.ME,\
+    \ DR.IS-B [285]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1406-2001-577875
+  date: '2001-12-11'
+- type: amended_by
+  target: pt:dre:577876:por
+  label: "Alterado o plano de estudos do curso cujo funcionamento foi autorizado pelo presente diploma, pela PORT.1407/2001.2001.12.11.ME,DR.IS-B\
+    \ [285]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1407-2001-577876
+  date: '2001-12-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -86,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1213/1993/11/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1213/1993/11/19/p/dre
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676020:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:21Z'
   warnings: []
   errors: []
 ---
@@ -140,8 +179,8 @@ Educação Musical.
 
 Ministério da Educação.
 
-**Assinada em 9 de Fevereiro de 1995.**
+Assinada em 9 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/071b00/16391643.pdf))](https://files.diariodarepublica.pt/1s/1995/03/071b00/16391643.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/071b00/16391643.pdf)

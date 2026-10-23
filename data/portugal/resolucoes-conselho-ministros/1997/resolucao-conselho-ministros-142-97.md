@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/142/1997/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-1997-194626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ae77882f8466d7a38ee7ffc4c92b45b055cd1fe9caaa2f20431e6fc177ea51c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86ad37e9b610f138bf78f1be55b9efc0ebdb37abb9dee89254e1bc72b5c3d5a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Proteção dos Animais
+- Espécie Protegida
 - Instituto da Conservação da Natureza
 - Proteção do Ambiente
-- Espécie Protegida
-- Zona de Proteção
+- Proteção dos Animais
 - Vegetais
+- Vida Selvagem
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: amended_by
   target: pt:dre:118287706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582870:por
+  label: "Alterados os limites do sítio PTCON0028 - Serra da Gardunha, incluído na lista nacional de sítios constante do anexo\
+    \ I deste diploma, pela RES.135/2004.02.09.2004.PCM, DR.IS-B [231] de 30.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/135-2004-582870
+  date: '2004-09-02'
+- type: amended_by
+  target: pt:dre:541588:por
+  label: "Determinada a interdição do exercício da caça, em todos os terrenos cinegéticos não ordenados, no sítio de Monchique\
+    \ que integra a Lista Nacional de Sítios aprovada pelo presente diploma, pela PORT.1064/2006.26.09.2006.MAOTDR, DR.IS\
+    \ [186] de 26.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-2006-541588
+  date: '2006-09-26'
+- type: amended_by
+  target: pt:dre:649774:por
+  label: "Actualizada a identificação dos tipos de habitats naturais e das espécies da flora e da fauna que ocorrem em cada\
+    \ um dos sítios da Lista Nacional de Sítios (1ª fase) pela RES.115-A/2008.21.07.2008.PCM, DR.IS [139-Supl] de 21.07.2008,\
+    \ de acordo com as fichas de sítios e ZPE constantes do anexo II daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/115-a-2008-649774
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:118287706:por
+  label: Alterados os limites do sítio Costa Sudoeste, nos termos definidos no anexo I, determinado que a identificação cartográfica
+    genérica da lista mencionada no n.º 1, passa a incluir o sítio Costa Sudoeste nos seus novos limites, conforme o anexo
+    II e aditado ao anexo III, as espécies da fauna incluídas nos anexos B-I e B-II do Decreto-Lei n.º 140/99, de 24 de abril,
+    na sua redação atual, que ocorrem no sítio Costa Sudoeste, tal como consta do anexo iii do presente diploma, pelo(a) Resolução
+    do Conselho de Ministros n.º 18/2019 - Diário da República n.º 16/2019, Série I de 2019-01-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/18-2019-118287706
+  date: '2019-01-23'
 - type: cites
   target: celex:31992L0043
   label: null
@@ -87,13 +116,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:47Z'
   warnings: []
   errors: []
 ---
@@ -124,9 +153,9 @@ Nos termos da alínea g) do n.º 1 do artigo 202.º da Constituição, o Conselh
 
 Presidência do Conselho de Ministros, 5 de Junho de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/198b00/44624475.pdf))](https://files.diariodarepublica.pt/1s/1997/08/198b00/44624475.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/198b00/44624475.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/198b00/44624475.pdf))](https://files.diariodarepublica.pt/1s/1997/08/198b00/44624475.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/198b00/44624475.pdf)
 
 ## ANEXO III — PTCON0001 - Serras da Peneda e Gerês (88845 ha)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/107b00/26182624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/420/1995/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/420-1995-513993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5cc6c53213ff8abdf7f764cb3894f77e27cd279bdd74ad96a78bc530e1b30a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd032af41bb69053331adc643aa2c9c78f21d928dd11928eeb1680e04bd08d47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Alimento para Crianças
 - Aproximação das Legislações
+- Comércio
 - Etiquetagem
 - Indústria Alimentar
-- Comércio
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:221167:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408159:por
+  label: "Alterado o quadro II do anexo ao presente diploma, pela PORT.332/96.03.08.1996.MADRP, DR.IS-B [179] de 03.08.1996\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/332-1996-408159
+  date: '1996-08-03'
 - type: cites
   target: celex:31994L0035
   label: null
   source: http://data.europa.eu/eli/dir/1994/35/oj
+- type: repealed_by
+  target: pt:dre:221167:por
+  label: "Revogado pelo DEC LEI.394/98.1998.12.10.MADRP DR.IS-A [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-1998-221167
+  date: '1998-12-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:10Z'
   warnings: []
   errors: []
 ---
@@ -138,10 +149,10 @@ b) Com baixo valor energético - com valor energético reduzido de pelo menos 30
 
 Ministérios da Agricultura, da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 23 de Março de 1995.**
+Assinada em 23 de Março de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
 ## ANEXO — Quadro I ao Quadro VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/107b00/26182624.pdf))](https://files.diariodarepublica.pt/1s/1995/05/107b00/26182624.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/107b00/26182624.pdf)

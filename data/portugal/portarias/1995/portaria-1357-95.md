@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1357/1995/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1357-1995-689023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea33de9d55dfd0aab1974fee76243e51149d2b41f71b86e3b73fd30a72afa464
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c5d3cc38e493f8347259876c6649cd8e40e3d47cdbf5e5240a9e1f5c3da58fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Lisboa
-- ZONA de Intervenção
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
 - Exposição Internacional de Lisboa de 1998
+- Lisboa
+- Ordenamento do Território
 - Parque EXPO 98
 - Plano de Pormenor
 - Plano de Urbanização
 - Regulamento
+- ZONA de Intervenção
 - ZONA Degradada
 relationships:
 - type: amended_by
   target: pt:dre:408374:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138128:por
+  label: "Suspensa, pelo DEC LEI.98/99.1999.03.25.PCM, DR.IS-A [71], durante o período de vigência das medidas previstas no\
+    \ citado diploma e na área delimitada na planta anexa ao mesmo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1999-138128
+  date: '1999-03-25'
+- type: amended_by
+  target: pt:dre:548253:por
+  label: "Actualizados os Planos de Pormenor pela PORT.1130-B/99.1999.12.31.MAOT,DR.IS-B [303]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1130-b-1999-548253
+  date: '1999-12-31'
+- type: amended_by
+  target: pt:dre:143067687:por
+  label: Tornada pública a aprovação da alteração dos arts. 2.º, 7.º, 9.º, 10.º, 12.º, 13.º, 14.º, 16.º, 20.º, 24.º, 26.º,
+    28.º e 31.º, do aditamento dos arts. 4.º-A, 9.º-A, 18.º-A, 24.º-A, 25.º-A, 25.º-B e 31.º-A e da revogação do n.º 2 do
+    art. 7.º, do n.º 1 do art. 11.º, do n.º 2 do art. 12.º, do n.º 3 do art. 13.º, do n.º 1 do art. 30.º e do art. 33.º do
+    Regulamento; assim como da alteração das plantas de implantação e de condicionantes, todos do Plano de Pormenor 1 - Zona
+    central, Plataforma Panorâmica, aprovado pelo presente diploma, pelo(a) Aviso n.º 14147/2020 - Diário da República n.º
+    182/2020, Série II de 2020-09-17, que republicou o citado regulamento com a redação atual.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14147-2020-143067687
+  date: '2020-09-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1994/01/13/p/dre
   label: null
@@ -108,16 +129,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:2906513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669800:por
+  label: null
+  source: null
 article_structure:
-  article_count: 59
-  section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 67
+  section_count: 39
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:07Z'
   warnings: []
   errors: []
 ---
@@ -146,11 +207,11 @@ Ao abrigo do n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diarioda
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 27 de Setembro de 1995.**
+Assinada em 27 de Setembro de 1995.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf))](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)
 
 Regulamento do Plano de Pormenor 1
 
@@ -158,7 +219,9 @@ Zona Central, Plataforma Panorâmica
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -232,7 +295,9 @@ As disposições do Regulamento são vinculativas para todas as entidades públi
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -272,7 +337,9 @@ O uso de parcela afecta a habitação, serviço ou comércio localizada em espa�
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 10.º — Divisão de terrenos
+###### Artigo 10.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 6 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.
 
@@ -374,7 +441,9 @@ f) Ficha de caracterização, com indicação dos valores finais propostos refer
 
 ## TÍTULO IV — Condições especiais relativas às obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 14.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 14.º
 
 Caracterização das obras de urbanização e projectos das obras de urbanização
 
@@ -548,7 +617,9 @@ d) Utilização de um mínimo de dizeres ou símbolos, limitados a duas dimensõ
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores
 
-### CAPÍTULO ÚNICO — Artigo 24.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 24.º
 
 Espaços exteriores de uso público
 
@@ -710,17 +781,17 @@ Estacionamento na zona de intervenção da EXPO 98
 
 Parâmetros de dimensionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf))](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)
 
 Quadro síntese das parcelas do PPI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf))](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)
 
 PP1 Zona central
 
 Quadro síntese das áreas de pavimento edificável (metros quadrados), do número de lugares de estacionamento, do número de fogos e de habitantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf))](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)
 
 Regulamento do Plano de Pormenor 2
 
@@ -728,7 +799,9 @@ Zona do Recinto da EXPO 98
 
 ## TÍTULO I — Disposições de natureza administrativa
 
-### CAPÍTULO ÚNICO — Artigo 1.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 1.º
 
 Âmbito e regime
 
@@ -802,7 +875,9 @@ As disposições do Regulamento são vinculativas para todas as entidades públi
 
 ## TÍTULO II — Condições gerais da concepção do espaço e uso do solo
 
-### CAPÍTULO ÚNICO — Artigo 5.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 5.º
 
 Generalidades
 
@@ -840,7 +915,9 @@ O uso de parcela afecta a habitação, serviço ou comércio, localizada em espa
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 10.º — Divisão de terrenos
+###### Artigo 10.º
+
+##### Divisão de terrenos
 
 1 - A divisão de terrenos rege-se pelo disposto no n.º 9 do artigo 2.º do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.
 
@@ -936,7 +1013,9 @@ f) Ficha de caracterização, com indicação dos valores finais propostos refer
 
 ## TÍTULO IV — Condições especiais relativas às obras de urbanização
 
-### CAPÍTULO ÚNICO — Artigo 14.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 14.º
 
 Caracterização das obras de urbanização e projectos das obras de urbanização
 
@@ -1072,7 +1151,9 @@ d) Utilização de um mínimo de dizeres ou símbolos, limitado a duas dimensõe
 
 ## TÍTULO VI — Condições especiais relativas aos espaços exteriores
 
-### CAPÍTULO ÚNICO — Artigo 23.º
+### CAPÍTULO ÚNICO
+
+###### Artigo 23.º
 
 Espaços exteriores de uso público
 
@@ -1202,4 +1283,4 @@ O presente Plano entra em vigor no dia da sua publicação no Diário da Repúbl
 
 O Plano, incluindo todos os seus elementos, pode ser consultado pelos interessados na Parque EXPO 98, S. A., e nas Câmaras Municipais de Lisboa e Loures, dentro das horas normais de expediente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf))](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/265b00/70247037.pdf)

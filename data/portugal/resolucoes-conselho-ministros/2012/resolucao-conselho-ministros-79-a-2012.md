@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 186/2012, 1º Suplemento, Série I de 2012-09-25
   number: '186'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5430-(2) a 5430-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18601/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/79-a/2012/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-a-2012-510632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23d54f1838618959e537e648e50de30305d8c289fa22e8f0b3cc4b75facd98d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d5f8ffb6529f0ceb6f42d5617ecd49beb474be9ffb3fc032f82d7c46dbb2afa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Análise Económica
-- Financiamento
-- Fundação
+- Avaliação das Instituições
 - Definição de Competências
 - Extinção de Serviços
+- Financiamento
+- Fundação
 - Fundação Privada
 - Fundação Pública
-- Avaliação das Instituições
 - Recenseamento
 - Utilidade Pública
 relationships:
@@ -82,6 +82,13 @@ relationships:
   target: pt:dre:839477381:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Determinado, durante o ano de 2013 e como medida excecional, o agravamento em 50%, face à redução inicialmente prevista,\
+    \ das reduções de transferências a conceder às Fundações identificadas no anexo do presente diploma pela LEI.66-B/2012.31.12.2012.AR,\
+    \ DR.IS [252-Supl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/391/2007/12/13/p/dre
   label: null
@@ -102,16 +109,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2001/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2001/06/22/p/dre
+- type: cites
+  target: pt:dre:178476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677451:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:839477381:por
+  label: Revogada, a partir de 30 de janeiro de 2024 e com efeitos a 01 de janeiro de 2024, a presente resolução, pelo(a)
+    Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29, nos termos do seu artigo 161.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2024-839477381
+  date: '2024-01-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:30Z'
   warnings: []
   errors: []
 ---
@@ -394,7 +459,7 @@ iv) Fundação Aga Khan Portugal.
 
 (nos termos e para os efeitos do n.º 4 do artigo 5.º da [Lei n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/lei/1-2012-477127), de 3 de janeiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/18601/0000200008.pdf))](https://files.diariodarepublica.pt/1s/2012/09/18601/0000200008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/18601/0000200008.pdf)
 
 ## ANEXO III — Propostas formuladas para as fundações em cuja criação ou financiamento participam as Regiões Autónomas
 

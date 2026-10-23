@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/91/2012/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-2012-191863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3365a8056e96b19d9097caacec95b43f39254fd24f2c5be2383d8093826b8fb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dddb53d379ad5ca8b68e7e8cacd4ff6e21eda147d62dd79fc9a6edf961ca4a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Interconexão de Dados
-- Especificação Técnica
-- Informática
-- Segurança da Informação
-- Documento Eletrónico
-- Página na Internet
-- Internet
-- Sistema de Informação
 - Agência para a Modernização Administrativa
 - Comunicações
+- Documento Eletrónico
+- Especificação Técnica
+- Informática
+- Interconexão de Dados
+- Internet
+- Página na Internet
 - Regulamento
+- Segurança da Informação
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:116734769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116734769:por
+  label: Alterada a partir de 01.01.2019. a tabela III do Regulamento Nacional de Interoperabilidade Digital constante do
+    anexo ao presente diploma, na redação da Res 2/2018, de 05-jan da PCM, pelo(a) Decreto-Lei n.º 83/2018 - Diário da República
+    n.º 202/2018, Série I de 2018-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2018-116734769
+  date: '2018-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
   label: null
@@ -93,16 +100,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/36/2011/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/36/2011/06/21/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114457664:por
+  label: Revogada, pela Resolução do Conselho de Ministros n.º 2/2018 - Diário da República n.º 4/2018, Série I de 2018-01-05,
+    nos termos do seu art. 7.º (a presente resolução produz efeitos 180 dias após a sua publicação)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/2-2018-114457664
+  date: '2018-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:45Z'
   warnings: []
   errors: []
 ---
@@ -183,52 +208,52 @@ TABELA I
 
 Formatos de dados, incluindo códigos de carateres, formatos de som e imagens (fixas e animadas), audiovisuais, dados gráficos e de pré-impressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
 
 TABELA II
 
 Formatos de documentos (estruturados e não estruturados) e gestão de conteúdos, incluindo gestão documental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
 
 TABELA III
 
 Tecnologias de interface web, incluindo acessibilidade, ergonomia, compatibilidade e integração de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
 
 TABELA IV
 
 Protocolos de streaming ou transmissão de som e imagens animadas em tempo real, incluindo o transporte e distribuição de conteúdos e os serviços ponto a ponto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
 
 TABELA V
 
 Protocolos de correio eletrónico, incluindo acesso a conteúdos e extensões e serviços de mensagem instantânea
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
 
 TABELA VI
 
 Sistemas de informação geográfica, incluindo cartografia, cadastro digital, topografia e modelação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
 
 TABELA VII
 
 Especificações técnicas e protocolos de comunicação em redes informáticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
 
 TABELA VIII
 
 Especificações técnicas de segurança para redes, serviços, aplicações e documentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
 
 TABELA IX
 
 Especificações técnicas e protocolos de integração, troca de dados e orquestração de processos de negócio na integração interorganismos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21600/0646006465.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/695/1994/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/695-1994-230124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c3528e1a7c1f5d48c76c18414d9d2b524e87021882fabfb0818cb9fe03fda61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1af1567635bff8439422e09713963b2b1e9639677cd5b56658e9cb20b2fd216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/804/1993/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/804/1993/09/07/p/dre
+- type: cites
+  target: pt:dre:626640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634491:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:53Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +117,8 @@ Manda o Governo, pelos Ministros das Finanças e da Indústria e Energia, que o 
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 20 de Junho de 1994.**
+Assinada em 20 de Junho de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/171b00/41364136.pdf))](https://files.diariodarepublica.pt/1s/1994/07/171b00/41364136.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/171b00/41364136.pdf)

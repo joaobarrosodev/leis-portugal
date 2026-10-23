@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/107/1995/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/107-1995-138311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93ad7ee30751a3ffcfef96016b73db0acf0f8a99276460c93ff7804a048c693e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06721d3384b276a2c81d0bf24a3d8ac902febe14500a5ddf1ccdc0986295f3a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,37 @@ relationships:
   target: pt:dre:155649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155649:por
+  label: "Alterado o quadro de pessoal pela PORT.448/97.1997.07.10.PCM, MF e MS DR.IS-B [157]O\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-1997-155649
+  date: '1997-07-10'
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:06Z'
   warnings: []
   errors: []
 ---
@@ -117,22 +138,22 @@ Repartição de Serviços Financeiros;
 
 Repartição de Pessoal e Admissão de Doentes:
 
-#### Secção de Pessoal e Expediente Geral;
+Secção de Pessoal e Expediente Geral;
 
-#### Secção de Doentes, Arquivo Clínico e Estatística;
+Secção de Doentes, Arquivo Clínico e Estatística;
 
 Repartição de Aprovisionamento:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisições e Armazéns.
+Secção de Aquisições e Armazéns.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Dezembro de 1994.**
+Assinada em 30 de Dezembro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital de Pedro Hispano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/028b00/06600665.pdf))](https://files.diariodarepublica.pt/1s/1995/02/028b00/06600665.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/028b00/06600665.pdf)

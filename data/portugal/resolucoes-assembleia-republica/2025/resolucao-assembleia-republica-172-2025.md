@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/172/2025/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/172-2025-944098799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c7af37fcdef03373f4bb15c7b481c005ea5b55080b813f8b4209654c0b39072
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e59ad99a5694ba41cb20176231e21e0a3bddec833f16c14f0759ad1bffb35e4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,29 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Transfronteira
-- Portugal
 - Espanha
 - Faro
 - Navegação de Recreio
+- Portugal
 - Rio Guadiana
 - Segurança da Navegação
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:944098797:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 107/2025 - Diário da República n.º 213/2025, Série
+    I de 2025-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/107-2025-944098797
+  date: '2025-11-04'
 article_structure:
   article_count: 35
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:55Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 30 de setembro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA PARA A SEGURANÇA DA NAVEGAÇÃO E NÁUTICA DE RECREIO NO TROÇO INTERNACIONAL DO RIO GUADIANA
 
@@ -193,7 +199,7 @@ d) Apólice do seguro obrigatório, se exigível conforme o disposto no artigo 6
 
 2 - Para além dos documentos referidos no número anterior, as embarcações de ambas as Partes devem dispor da documentação obrigatória nos termos do Direito aplicável.
 
-3 - Na impossibilidade da apresentação imediata dos documentos referidos nos n.<sup>os</sup> 1 e 2 do presente artigo, os mesmos devem ser apresentados no prazo de 48 horas.
+3 - Na impossibilidade da apresentação imediata dos documentos referidos nos n.os 1 e 2 do presente artigo, os mesmos devem ser apresentados no prazo de 48 horas.
 
 4 - No caso previsto no número anterior, a pessoa que tiver o comando efetivo deve apresentar um documento comprovativo da sua identidade ou declarar o seu nome e morada, confirmado por testemunho de algum dos acompanhantes que se encontre a bordo.
 
@@ -1168,3 +1174,5 @@ Paulo Artur dos Santos Castro de Campos Rangel, Ministro de Estado y de Asuntos 
 Por el Reino de España:
 
 José Manuel Albares Bueno, Ministro de Asuntos Exteriores, Unión Europea y Cooperación.
+
+119664739

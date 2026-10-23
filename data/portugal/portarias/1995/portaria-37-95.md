@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/37/1995/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/37-1995-146229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cbb1dd7b7df5092f6707bd656d45f0751655ea01b7e09222d2667feb968ece4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecc3164b02c8e38da08f9860fc362c8e5124f908770e91b87d5d239ca8ab0204
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,43 @@ relationships:
   target: pt:dre:491394:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642900:por
+  label: "Alterado o nº 1º da Port 434/94 de 29-Jun, com a redacção constante do presente diploma, pela PORT.837/97.06.09.1997.MADRP,\
+    \ DR.IS-B [206] de 06.09.1997, que lhe mantém todo o restante preceituado\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-1997-642900
+  date: '1997-09-06'
+- type: amended_by
+  target: pt:dre:546199:por
+  label: "Anexados vários prédios rústicos e renovada, por um período de 12 anos, a concessão da zona de caça associativa\
+    \ de Monte Alvão (zona C) atribuida pela Port 434/94, de 29-Jun, na redacção do presente diploma, pela PORT.1188/2006.03.11.2006.MAOTDR,\
+    \ DR.IS [212] de 03.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1188-2006-546199
+  date: '2006-11-03'
+- type: amended_by
+  target: pt:dre:491394:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa de Monte Alvão (zona C) atribuída pela Port 434/94,\
+    \ de 29-Jun, alterada pelo presente diploma, pela PORT.1168/2009.06.10.2009.MAOTDR, DR.IS [193] de 06.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1168-2009-491394
+  date: '2009-10-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/434/1994/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/434/1994/06/29/p/dre
+- type: cites
+  target: pt:dre:290040:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:57Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +132,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 434/94](h
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Dezembro de 1994.**
+Assinada em 21 de Dezembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/013b00/02250226.pdf))](https://files.diariodarepublica.pt/1s/1995/01/013b00/02250226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/013b00/02250226.pdf)

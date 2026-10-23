@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/01/020b00/02900291.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/96/1993/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/96-1993-602508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:14:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd1b0e34930d963bfe93c8b5d80087cc9e33592766362ab3edb158c172be6749
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd4dc4a4231367ea76526268b9088d7ca65b3e08b2f5649da80af7eec918ded6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:14:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos
 - Conselho Consultivo
+- Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos
 - Pessoal dos Casinos
 - Regulamento
 relationships:
@@ -75,20 +75,40 @@ relationships:
   target: pt:dre:522234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522234:por
+  label: "Alterada a redacção conferida ao art. 48º do Regulamento, aprovado pela Port 140/92, de 04-Mar, na redacção do presente\
+    \ diploma, pela PORT.101/94.1994.02.09.MESS, DR.IS-B [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-1994-522234
+  date: '1994-02-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/140/1992/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/140/1992/03/04/p/dre
+- type: cites
+  target: pt:dre:168420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551228:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124879310:por
+  label: Revogada, com efeitos a 31.05.2019, a Port 140/92 de 04-mar, na redação da presente portaria, pelo(a) Portaria n.º
+    324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/324-2019-124879310
+  date: '2019-09-20'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:14:10Z'
   warnings: []
   errors: []
 ---
@@ -143,6 +163,6 @@ Constam de regulamento aprovado por despacho do Secretário de Estado da Seguran
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 16 de Dezembro de 1992.**
+Assinada em 16 de Dezembro de 1992.
 
-**O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

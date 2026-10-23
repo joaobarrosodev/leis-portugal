@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/251b00/65226535.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/971/1994/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/971-1994-621160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6504b9870350fdef4fe848e5fadcb20699068486fe2072bedb50052d8799efe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d91371cb8fc348002f8c036e108d36de0c75a9cb0511938b182512615af7135c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Carne
 - Carne de Caprino
 - Carne de Cavalo
+- Carne de Ovino
 - Carne de Suíno
 - Carne de Vaca
-- Controlo Sanitário
-- Saúde Pública
-- Carne de Ovino
-- Regulamento
 - Comércio
+- Controlo Sanitário
+- Produção Animal
+- Regulamento
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
@@ -110,16 +110,22 @@ relationships:
   target: celex:31992L0005
   label: null
   source: http://data.europa.eu/eli/dir/1992/5/oj
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o presente diploma, na redacção da Port 252/96, de 10-Jul, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
-  article_count: 1
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:42Z'
   warnings: []
   errors: []
 ---
@@ -138,19 +144,19 @@ Manda o Governo, pelos Ministros da Agricultura, da Saúde, do Comércio e Turis
 
 Ministérios da Agricultura, da Saúde, do Comércio e Turismo e do Ambiente e Recursos Naturais.
 
-**Assinada em 27 de Setembro de 1994.**
+Assinada em 27 de Setembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
-## ANEXO A QUE SE REFERE A PORTARIA N.º 971/94
+ANEXO A QUE SE REFERE A PORTARIA N.º 971/94
 
 Regulamento das Condições Sanitárias da Produção de Carnes Frescas e sua Colocação no Mercado
 
-###### Artigo 1.º - 1 - O presente Regulamento estabelece as condições sanitárias aplicáveis à produção e à colocação no mercado de carnes frescas destinadas ao consumo humano, provenientes de animais domésticos das espécies bovina, incluindo as espécies Bubalus bubalis e Bison bison, suína, ovina e caprina, bem como dos solípedes domésticos.
+Artigo 1.º - 1 - O presente Regulamento estabelece as condições sanitárias aplicáveis à produção e à colocação no mercado de carnes frescas destinadas ao consumo humano, provenientes de animais domésticos das espécies bovina, incluindo as espécies Bubalus bubalis e Bison bison, suína, ovina e caprina, bem como dos solípedes domésticos.
 
 2 - A desmancha e a armazenagem de carnes frescas efectuadas por retalhistas ou em instalações adjacentes aos locais de venda, tendo essas operações como único objectivo a venda directa no local ao consumidor, são excluídas do âmbito de aplicação deste Regulamento.
 
-###### Art. 2.º - Para efeitos do presente Regulamento entende-se por:
+Art. 2.º - Para efeitos do presente Regulamento entende-se por:
 
 a) Carnes: todas as partes de animais domésticos das espécies bovina, incluindo as espécies Bubalus bubalis e Bison bison, suína, ovina e caprina, bem como de solípedes domésticos, próprias para consumo humano;
 
@@ -182,7 +188,7 @@ o) Autoridade sanitária competente: o Instituto de Protecção da Produção Ag
 
 p) Veterinário oficial: o veterinário designado pela autoridade sanitária competente.
 
-###### Art. 3.º - 1 - As carcaças, as meias carcaças ou as meias carcaças cortadas até três grandes peças ou os quartos de carcaças devem:
+Art. 3.º - 1 - As carcaças, as meias carcaças ou as meias carcaças cortadas até três grandes peças ou os quartos de carcaças devem:
 
 a) Ser obtidas num matadouro que preencha as condições enunciadas nos capítulos I e II do anexo I aprovado e controlado nos termos do artigo 10.º ou num matadouro aprovado de forma específica nos termos do artigo 4.º;
 
@@ -256,7 +262,7 @@ b) Às carnes frescas destinadas a exposições, estudos específicos ou a anál
 
 c) Às carnes frescas destinadas exclusivamente ao abastecimento de organizações internacionais.
 
-###### Art. 4.º - 1 - Os matadouros em actividade em 31 de Dezembro de 1991 que tratem, no máximo, de 12 CN por semana e 600 CN por ano serão, na medida em que não respeitem as condições enunciadas no anexo I, objecto de um registo veterinário especial e dotados de um número de aprovação específico dependente da unidade local de controlo, devendo, para poderem ser aprovados pelo IPPAA:
+Art. 4.º - 1 - Os matadouros em actividade em 31 de Dezembro de 1991 que tratem, no máximo, de 12 CN por semana e 600 CN por ano serão, na medida em que não respeitem as condições enunciadas no anexo I, objecto de um registo veterinário especial e dotados de um número de aprovação específico dependente da unidade local de controlo, devendo, para poderem ser aprovados pelo IPPAA:
 
 a) Satisfazer as condições de aprovação enunciadas no anexo II;
 
@@ -296,7 +302,7 @@ a) Ser reservadas à venda directa no mercado local, quer no estado fresco, quer
 
 b) Ser transportadas do estabelecimento até ao destinatário em condições de transporte higiénicas.
 
-###### Art. 5.º - Serão declaradas impróprias para consumo humano pelo veterinário oficial:
+Art. 5.º - Serão declaradas impróprias para consumo humano pelo veterinário oficial:
 
 a) As carnes provenientes de animais:
 
@@ -386,7 +392,7 @@ p) As carnes que, sem prejuízo de uma eventual regulamentação aplicável em m
 
 q) As carnes que apresentem um pronunciado odor sexual.
 
-###### Art. 6.º - 1 - Sem prejuízo dos casos previstos no ponto iii) da alínea a) do artigo anterior, as carnes frescas de suíno e de cavalo referidas no artigo 3.º e que não tenham sido submetidas à pesquisa de triquina em conformidade com o anexo I da Portaria n.º 241/90, de 4 de Abril, devem ser submetidas a um tratamento pelo frio, nos termos do anexo IV daquele diploma.
+Art. 6.º - 1 - Sem prejuízo dos casos previstos no ponto iii) da alínea a) do artigo anterior, as carnes frescas de suíno e de cavalo referidas no artigo 3.º e que não tenham sido submetidas à pesquisa de triquina em conformidade com o anexo I da Portaria n.º 241/90, de 4 de Abril, devem ser submetidas a um tratamento pelo frio, nos termos do anexo IV daquele diploma.
 
 2 - As carnes devem ostentar uma marca especial, conforme disposto no n.º 50 do capítulo XI do anexo I, cortada por duas linhas paralelas separadas, pelo menos, de 1 cm e dispostas no sentido do maior diâmetro, devendo as indicações que aí constem e as duas linhas paralelas ser perfeitamente legíveis e serem submetidas ao tratamento previsto na Directiva n.º [92/5/CEE](http://data.europa.eu/eli/dir/1992/5/oj?locale=pt), nos seguintes casos:
 
@@ -420,11 +426,11 @@ f) Enquanto a inspecção post mortem, efectuada em conformidade com alínea b) 
 
 8 - As carnes devem estar munidas do selo previsto no n.º 5 do artigo 4.º
 
-###### Art. 7.º - 1 - As carnes declaradas impróprias para consumo humano devem ser identificadas de forma distinta das carnes declaradas próprias para consumo humano.
+Art. 7.º - 1 - As carnes declaradas impróprias para consumo humano devem ser identificadas de forma distinta das carnes declaradas próprias para consumo humano.
 
 2 - As carnes declaradas impróprias para consumo humano devem ser submetidas a um tratamento, nos termos da Portaria n.º 965/92, de 10 de Outubro.
 
-###### Art. 8.º - 1 - Sem prejuízo do disposto no Decreto-Lei n.º 62/91 e na Portaria n.º 94/91, de 1 de Fevereiro, os animais ou as suas carnes devem ser submetidos a uma pesquisa de resíduos sempre que o veterinário oficial suspeite da presença daqueles, com base no resultado da inspecção sanitária.
+Art. 8.º - 1 - Sem prejuízo do disposto no Decreto-Lei n.º 62/91 e na Portaria n.º 94/91, de 1 de Fevereiro, os animais ou as suas carnes devem ser submetidos a uma pesquisa de resíduos sempre que o veterinário oficial suspeite da presença daqueles, com base no resultado da inspecção sanitária.
 
 2 - O exame referido no número anterior deve incidir na pesquisa de resíduos de substâncias com acção farmacológica e respectivos produtos de transformação, bem como de outras substâncias que se transmitam à carne e possam prejudicar a saúde pública.
 
@@ -434,7 +440,7 @@ f) Enquanto a inspecção post mortem, efectuada em conformidade com alínea b) 
 
 5 - Os resultados das pesquisas de resíduos podem ser avaliados segundo métodos de referência aprovados de acordo com o processo comunitariamente previsto.
 
-###### Art. 9.º - 1 - É obrigatória:
+Art. 9.º - 1 - É obrigatória:
 
 a) A presença permanente de, pelo menos, um veterinário oficial num matadouro aprovado nos termos do artigo 10.º, durante todo o período das inspecções ante e post mortem;
 
@@ -458,7 +464,7 @@ d) Inspecção e controlo dos estabelecimentos aprovados.
 
 5 - A autoridade sanitária competente definirá, para cada estabelecimento, a composição da equipa de inspecção, por forma a permitir ao veterinário oficial fiscalizar as operações referidas no n.º 2.
 
-###### Art. 10.º - 1 - A autoridade sanitária competente elaborará e comunicará aos outros Estados membros e à Comissão a lista dos estabelecimentos aprovados, com excepção dos referidos no artigo 4.º, sendo a cada um deles atribuído um número de aprovação veterinária.
+Art. 10.º - 1 - A autoridade sanitária competente elaborará e comunicará aos outros Estados membros e à Comissão a lista dos estabelecimentos aprovados, com excepção dos referidos no artigo 4.º, sendo a cada um deles atribuído um número de aprovação veterinária.
 
 2 - Os estabelecimentos de desmancha referidos no segundo travessão do n.º 19 do capítulo V do anexo I devem ser igualmente aprovados nos termos da Portaria n.º 743/92, de 24 de Julho.
 
@@ -484,17 +490,19 @@ d) Inspecção e controlo dos estabelecimentos aprovados.
 
 13 - Os resultados das análises a que se refere o número anterior serão objecto de um relatório cujas conclusões ou recomendações serão levadas ao conhecimento do concessionário do estabelecimento, do proprietário ou do seu representante, que procurará rectificar as irregularidades verificadas.
 
-###### Art. 11.º - 1 - A recolha e tratamento dos resultados das inspecções ante e post mortem efectuadas pelos veterinários oficiais e relativas ao diagnóstico de doenças transmissíveis ao homem compete à autoridade sanitária competente.
+Art. 11.º - 1 - A recolha e tratamento dos resultados das inspecções ante e post mortem efectuadas pelos veterinários oficiais e relativas ao diagnóstico de doenças transmissíveis ao homem compete à autoridade sanitária competente.
 
 2 - Sempre que se diagnostique uma doença transmissível ao homem, os resultados serão de imediato comunicados às autoridades veterinárias que tenham sob o seu controlo o efectivo de origem dos animais.
 
-###### Art. 12.º - Sem prejuízo das disposições específicas do presente Regulamento, o veterinário oficial ou a autoridade sanitária competente procederá a todos os controlos veterinários que considerar adequados em caso de suspeita de incumprimento ou se houver dúvidas quanto à salubridade das carnes.
+Art. 12.º - Sem prejuízo das disposições específicas do presente Regulamento, o veterinário oficial ou a autoridade sanitária competente procederá a todos os controlos veterinários que considerar adequados em caso de suspeita de incumprimento ou se houver dúvidas quanto à salubridade das carnes.
 
-###### Art. 13.º - Aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo Estado membro de destino e às medidas de salvaguarda a pôr em prática é aplicável o disposto no Decreto-Lei n.º 110/90, de 10 de Abril, e legislação complementar.
+Art. 13.º - Aos controlos na origem, à organização e ao seguimento a dar aos controlos a efectuar pelo Estado membro de destino e às medidas de salvaguarda a pôr em prática é aplicável o disposto no Decreto-Lei n.º 110/90, de 10 de Abril, e legislação complementar.
 
-###### Art. 14.º - A matéria das competências do veterinário oficial, das condições de abate dos animais, das inspecções ante e post mortem, da higiene do pessoal, das instalações e do equipamento e ainda da marcação das carnes referidas no anexo I é completada pelo disposto no capítulo XVI do mesmo anexo.
+Art. 14.º - A matéria das competências do veterinário oficial, das condições de abate dos animais, das inspecções ante e post mortem, da higiene do pessoal, das instalações e do equipamento e ainda da marcação das carnes referidas no anexo I é completada pelo disposto no capítulo XVI do mesmo anexo.
 
-## ANEXO I — CAPÍTULO I
+## ANEXO I
+
+### CAPÍTULO I
 
 Condições gerais de aprovação dos estabelecimentos
 
@@ -1206,7 +1214,9 @@ c) Os motivos da reprovação devem ser registados com a devida precisão e clar
 
 102 - Enquanto se mantiverem as dificuldades para a cobertura da inspecção sanitária a nível nacional manter-se-á a delegação nas câmaras municipais prevista no Decreto-Lei n.º 774/75, de 31 de Dezembro, e a ajuramentação a título precário de médicos veterinários pelo IPPAA.
 
-## ANEXO II — CAPÍTULO I
+## ANEXO II
+
+### CAPÍTULO I
 
 Condições gerais de aprovação dos estabelecimentos de fraca capacidade
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/32/2010/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2010-614147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80d67bfe3f03ebb2a75f9cea9338d37936ec49724563b562fe2af3e521963e52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7fb0ad15686f1954a6038304295791b5d07ecb81509ed812b1e788b81cab6b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alenquer
-- Vila Franca de Xira
+- Autarquia Local
 - Cartografia
-- Ordenamento do Território
 - Comissão de Coordenação e Desenvolvimento Regional
-- Medidas Preventivas
 - Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Medidas Preventivas
+- Ordenamento do Território
 - Rede Ferroviária
 - Rede Ferroviária Portuguesa de Alta Velocidade
-- Autarquia Local
+- Vila Franca de Xira
 relationships:
 - type: amended_by
   target: pt:dre:278892:por
@@ -114,16 +114,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/12/2009/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2009/01/27/p/dre
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:25Z'
   warnings: []
   errors: []
 ---
@@ -160,4 +192,4 @@ Presidência do Conselho de Ministros, 15 de Abril de 2010. - O Primeiro-Ministr
 
 Plantas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/08100/0139401396.pdf))](https://files.diariodarepublica.pt/1s/2010/04/08100/0139401396.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/08100/0139401396.pdf)

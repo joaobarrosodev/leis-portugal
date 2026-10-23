@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/728/1994/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/728-1994-225465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1b96e13b7fb1085517b81d9f73d34a682966db14a0209b7f9f4ea76fcf69455
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cca8d624706f9dc0337d51c1253e3994fe8f039adb8bcc30d7b420ac7064ca23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,29 @@ relationships:
   target: pt:dre:476319:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476319:por
+  label: "Alterado o disposto, pela PORT.664/95.1995.06.27.MNE, DR.IS-B [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-1995-476319
+  date: '1995-06-27'
+- type: cites
+  target: pt:dre:235275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312441:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:42Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +106,13 @@ Manda o Governo, pelo Ministro dos Negócios Estrangeiros, nos termos do n.º 4 
 
 100 - a) Distrito consular de Seul:
 
-#### Secção consular em Seul - todo o território da República da Coreia.
+Secção consular em Seul - todo o território da República da Coreia.
 
 Consulado honorário em Manila - todo o território da República das Filipinas.
 
 105) Distrito consular de Tóquio:
 
-#### Secção consular em Tóquio - ilhas de Ryukyu, Daito, Bonin, Rosário e Volcano, ilha de Hokkaido e ilhas adjacentes e as prefeituras de Aomori, Akita, Iware, Yamagata, Miyagi, Fukushima, Gumma, Tochigi, Ibaragi, Saitama, Niigata, Nagano, Yamanashi, Chiba, Tóquio, Kanagawa e Shizuoka.
+Secção consular em Tóquio - ilhas de Ryukyu, Daito, Bonin, Rosário e Volcano, ilha de Hokkaido e ilhas adjacentes e as prefeituras de Aomori, Akita, Iware, Yamagata, Miyagi, Fukushima, Gumma, Tochigi, Ibaragi, Saitama, Niigata, Nagano, Yamanashi, Chiba, Tóquio, Kanagawa e Shizuoka.
 
 Consulado honorário em Quioto - prefeituras de Quioto e Shiga.
 
@@ -117,6 +130,6 @@ Consulado honorário em Tokushima - prefeituras de Tokushima, Ehime, Kochi e Kag
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 26 de Junho de 1994.**
+Assinada em 26 de Junho de 1994.
 
 Pelo Ministro dos Negócios Estrangeiros, Luís Manuel da Costa de Sousa de Macedo, Secretário de Estado das Comunidades Portuguesas.

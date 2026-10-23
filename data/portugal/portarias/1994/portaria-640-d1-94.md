@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 162/1994, 2º Suplemento, Série I-B de 1994-07-15
   number: '162'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3862-(30) a 3862-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b02/00300031.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/640-d1/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/640-d1-1994-276383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d638a6b3f9a2e68eb839d3adb3f9c8db55e678524ff59fccbe66e06c856d6aa9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8923d7a759a0c28238711fe0cc441ce25ac48bd468b41388390a0704257435d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:439836:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344433:por
+  label: "Desanexado um prédio rústico à presente zona de caça associativa pela PORT.496/2001.2001.05.12.MADRP,DR.IS-B [110]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/496-2001-344433
+  date: '2001-05-12'
+- type: amended_by
+  target: pt:dre:594157:por
+  label: "Anexa vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pela Port 496/2001 de\
+    \ 12-Mai, pela PORT.1086/2005.21.10.2005.MADRP, DR.IS-B [203] de 21.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1086-2005-594157
+  date: '2005-10-21'
+- type: amended_by
+  target: pt:dre:439836:por
+  label: "Renovada, por um período de oito anos, a concessão da zona de caça associativa, concessionada pelo presente diploma,\
+    \ alterada pelas Port. 496/2001 de 12-Mai e 1086/2005 de 21-Out e anexados vários prédios rústicos à citada zona de caça,\
+    \ pela PORT.1324/2008.18.11.2008.MADRP, DR.IS [224] de 18.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1324-2008-439836
+  date: '2008-11-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-f/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-f/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:48Z'
   warnings: []
   errors: []
 ---
@@ -136,8 +179,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 5 de Julho de 1994.**
+Assinada em 5 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b02/00300031.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b02/00300031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b02/00300031.pdf)

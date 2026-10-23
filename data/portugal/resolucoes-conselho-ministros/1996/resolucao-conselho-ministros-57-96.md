@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/57/1996/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-1996-571390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cab75fff3cee7df957430cb77d0efc66f599ebba43cd2662904a8eb7251e470
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 147f85123e87b29583f60d88fceb35779f78a7c569faba61edfa7df5436a8bd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Anadia
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:2773848:por
+  label: "Alterada (através da exclusão da área identificada como E1 na planta e no quadro anexos) a delimitação da Reserva\
+    \ Ecológica Nacional do município de Anadia aprovada pelo presente diploma, pelo AV.12704/2013.17.10.2013.CCDRC-PCM, DR.IIS\
+    \ [201] de 17.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12704-2013-2773848
+  date: '2013-10-17'
+- type: amended_by
+  target: pt:dre:3064882:por
+  label: "Tornada pública a aprovação da alteração da delimitação da Reserva Ecológica Nacional do município de Anadia aprovada\
+    \ pelo presente diploma, na redaçãoo do Av. 12704/2013, de 17-out e republicado o respetivo mapa, pelo AV.13870/2013.14.11.2013.CCDRC-PCM,\
+    \ DR.IIS [221] de 14.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13870-2013-3064882
+  date: '2013-11-14'
+- type: amended_by
+  target: pt:dre:67575971:por
+  label: Aprovada a alteração da delimitação da Reserva Ecológica Nacional do município de Anadia, aprovada pelo presente
+    diploma, com as alterações publicadas pelo AV 12704/2013 de 17-out e pelo AV 13870/2013 de 14-nov, pelo(a) Despacho n.º
+    6985/2015 - Diário da República n.º 121/2015, Série II de 2015-06-24, que republicou a respetiva carta na versão aprovada.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6985-2015-67575971
+  date: '2015-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -79,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:41Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +150,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 22 de Março de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/098b00/09710972.pdf))](https://files.diariodarepublica.pt/1s/1996/04/098b00/09710972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/098b00/09710972.pdf)

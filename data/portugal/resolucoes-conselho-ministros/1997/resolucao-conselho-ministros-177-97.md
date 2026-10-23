@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/177/1997/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/177-1997-673670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff41eceb30ddddc3c322b789d3421421b0ac5e75726768b314f6b7babb7b4cdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23f5ac721307f3fa1c533c516cf83035417a807d5c191a06bc9d999c5af02113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,82 @@ reuse:
 subjects:
 - Alcobaça
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:541825:por
+  label: "Ratificada suspensão parcial do Plano pela RES.34/2004.26.02.2004.PCM, DR.IS-B [68] de 20.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/34-2004-541825
+  date: '2004-02-26'
+- type: amended_by
+  target: pt:dre:1197454:por
+  label: "Tornado público o aditamento do art. 53º-A ao Regulamento do Plano Director Municipal de Alcobaça ratificado pela\
+    \ presente resolução, bem como a alteração e republicação da planta de ordenamento, pelo AV.24804/2011.28.12.2011.MALCOBAÇA,\
+    \ DR.IIS [248] de 28.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/24804-2011-1197454
+  date: '2011-12-28'
+- type: amended_by
+  target: pt:dre:1336324:por
+  label: "Tornado público ter sido aprovada, por deliberação da Assembleia Municipal de Alcobaça, em 20 de dezembro de 2011,\
+    \ a alteração, por adaptação, do limite do perímetro urbano da Pedra do Ouro nas plantas de Ordenamento e Condicionantes\
+    \ do Plano Diretor Municipal de Alcobaça, pelo AV.2112/2012.10.02.2012.MALCOBAÇA, DR.IIS [30] de 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2112-2012-1336324
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:2997218:por
+  label: "Alterado por adaptação e atualizado o Desenho n.º 13.2 - planta de ordenamento, o art. 39.º bem como o aditamento\
+    \ do art. 42.º-A ao Regulamento do PDM de Alcobaça, ratificado pela presente resolução, pelo AV.7447/2013.06.06.2013.MALCOBAÇA,\
+    \ DR.IIS [109] de 06.06.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7447-2013-2997218
+  date: '2013-06-06'
+- type: amended_by
+  target: pt:dre:2916043:por
+  label: "Atualizados os desenhos n.º 13.1 - Planta de Ordenamento e n.º 12.1 - Planta de Condicionantes e aditado um novo\
+    \ número ao artigo 63.º (Categoria H5) do Regulamento do PDM de Alcobaça ratificado pela presente Resolução, pelo AV.2013/2014.10.02.2014.MALCOBAÇA,\
+    \ DR.IIS [28] de 10.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2013-2014-2916043
+  date: '2014-02-10'
+- type: amended_by
+  target: pt:dre:75639550:por
+  label: Tornada pública a aprovação da suspensão parcial, respetivas medidas preventivas e planta de delimitação, do Plano
+    Diretor Municipal de Alcobaça ratificado pela presente resolução, pelo(a) Deliberação n.º 1679/2016 - Diário da República
+    n.º 210/2016, Série II de 2016-11-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/1679-2016-75639550
+  date: '2016-11-02'
+- type: amended_by
+  target: pt:dre:116396832:por
+  label: Tornada pública a aprovação de medidas preventivas e da suspensão parcial (para a zona dos Medros e das Colinas em
+    São Martinho do Porto) pelo prazo de dois anos do Plano Diretor Municipal de Alcobaça, ratificado pelo presente diploma,
+    pelo(a) Deliberação n.º 1019/2018 - Diário da República n.º 177/2018, Série II de 2018-09-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/1019-2018-116396832
+  date: '2018-09-13'
+- type: amended_by
+  target: pt:dre:122184126:por
+  label: Tornada pública a alteração ao Plano Diretor Municipal (PDM) de Alcobaça, que consiste na atualização da Planta de
+    Ordenamento - desenhos n.º 13.1 (na redação do Av 2013/2014 de 10-fev) e 13.2 (na redação do Av 7447/2013 de 06-jun) e
+    no aditamento do artigo 75.º-A ao regulmento do referido PDM, aprovado pelo presente diploma, pelo(a) Deliberação n.º
+    485/2019 - Diário da República n.º 82/2019, Série II de 2019-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/485-2019-122184126
+  date: '2019-04-29'
+- type: amended_by
+  target: pt:dre:134918062:por
+  label: Tornada pública a segunda alteração ao Plano Diretor Municipal (PDM) de Alcobaça pelo(a) Deliberação n.º 622/2020
+    - Diário da República n.º 107/2020, Série II de 2020-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/622-2020-134918062
+  date: '2020-06-02'
+- type: amended_by
+  target: pt:dre:142124778:por
+  label: Tornada pública a aprovação da alteração dos arts. 1.º, 5.º, 9.º e 38.º, a revogação do n.º 4 do art. 51.º, o aditamento
+    do cap. II, com a epígrafe «Regime de Proteção e Salvaguarda do Parque Natural das Serras de Aire e Candeeiros», que integra
+    os arts. 73.º-J a 73.º -Y, ao tit. IV - Regimes de Proteção e Salvaguarda, bem como o Plano de Ordenamento do PNSAC (Anexo
+    III), todos do Regulamento do Plano Diretor Municipal de Alcobaça, ratificado pelo presente diploma, pelo(a) Declaração
+    n.º 73/2020 - Diário da República n.º 174/2020, Série II de 2020-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/73-2020-142124778
+  date: '2020-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/1994/01/15/p/dre
   label: null
@@ -113,16 +183,323 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/1991/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/1991/08/08/p/dre
+- type: cites
+  target: pt:dre:140816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682209:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1761993:por
+  label: "Retificado o PDM pela DECL-RECT.334/2012.05.03.2012.MALCOBAÇA, DR.IIS [46] de 05.03.2012 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/334-2012-1761993
+  date: '2012-03-05'
+- type: corrected_by
+  target: pt:dre:1761994:por
+  label: "Tornada pública a retificação do PDM de Alcobaça pela DECL-RECT.335/2012.05.03.2012.MALCOBAÇA, DR.IIS [46] de 05.03.2012\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/335-2012-1761994
+  date: '2012-03-05'
 article_structure:
-  article_count: 77
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 76
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:12Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +534,7 @@ Presidência do Conselho de Ministros, 25 de Setembro de 1997. - O Primeiro-Mini
 
 REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DE ALCOBAÇA
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -263,7 +640,7 @@ Sótãos não habitáveis;
 
 24) «Frente de mar» - área abrangida pelo areal, falésias e arribas da faixa litoral.
 
-## TÍTULO II
+TÍTULO II
 
 Condicionantes
 
@@ -607,7 +984,7 @@ e) As distâncias mínimas de construção de edificação às estradas municipa
 
 [Lei n.º 2032](https://diariodarepublica.pt/dr/detalhe/lei/2032-1949-258368), de 11 de Junho de 1949;
 
-###### Artigo 123.º do Regulamento Geral dos Edificações Urbanas;
+Artigo 123.º do Regulamento Geral dos Edificações Urbanas;
 
 Lei de Bases do Património ([Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho);
 
@@ -837,7 +1214,7 @@ Quinta do Vimeiro - localização: Vimeiro.
 
 3 - O inventário municipal do património pode a todo o tempo ser actualizado, sob proposta da Câmara Municipal e aprovação da Assembleia Municipal.
 
-## TÍTULO III
+TÍTULO III
 
 Uso dos solos
 
@@ -1655,7 +2032,7 @@ UOPG 13 - Plano de Pormenor da Zona Industrial de Pataias.
 
 Para a elaboração deste Plano de Pormenor, a Câmara Municipal deverá providenciar a desafectação do regime florestal parcial de parte de Alva de Pataias.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposições finais e transitórias
 
@@ -1687,4 +2064,4 @@ b) 12 meses, se localizados em espaços urbanizáveis.
 
 O Plano entra em vigor no dia da sua publicação no Diário da República.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/248b00/57565770.pdf))](https://files.diariodarepublica.pt/1s/1997/10/248b00/57565770.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/248b00/57565770.pdf)

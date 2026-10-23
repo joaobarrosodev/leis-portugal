@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/19/1995/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-1995-366816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 185da30c95c42fac0f8110145ff9a028ffb59052643a92932744824f6dffcaed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0377c7f1c9230f21cd18b330626f476d33b3aa6804bb69694baf93d1326d9be1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/219/1993/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/219/1993/06/16/p/dre
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:39Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +104,9 @@ Manda o Governo, pelo Ministro do Emprego e da Segurança Social, que seja aprov
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 9 de Dezembro de 1994.**
+Assinada em 9 de Dezembro de 1994.
 
-**O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
 
 ## ANEXO — Regulamento do Conselho Geral do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 

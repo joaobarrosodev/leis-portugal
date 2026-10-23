@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/480/1994/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/480-1994-291450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b32d28d9b3a6e82f1a9be4b72227d2b9e7f76fb0e878e6289f66101ba2654f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0e605287a4108f1beae3fad33ce9589dd4fe6f28ea595805b9560cb3e96e79a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:40Z'
   warnings: []
   errors: []
 ---
@@ -107,8 +107,8 @@ b) Para os restantes funcionários - assinados pelo secretário-geral, com facul
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 23 de Maio de 1994.**
+Assinada em 23 de Maio de 1994.
 
-**O Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso.**
+O Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/151b00/35053506.pdf))](https://files.diariodarepublica.pt/1s/1994/07/151b00/35053506.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/151b00/35053506.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/894/1993/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/894-1993-654757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:12:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9f3309cb138582243d48b67abeaca05734cddda4a27bfb791fc2011651980a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4175ac0225a1259906d48107c19dbb850377059d4a21aa272a6bf36a55117ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:12:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Formação Militar e Técnica da Força Aérea
-- Formação Profissional
-- Força Aérea
-- Plano de Estudos
 - Curso de Formação de Sargentos
 - Equivalência de Habilitações Literárias
-- Qualificação Profissional
 - Estágio de Formação
+- Força Aérea
+- Formação Profissional
+- Plano de Estudos
 - Promoção Profissional
+- Qualificação Profissional
 - Sargento
 relationships:
 - type: amended_by
@@ -97,16 +97,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/1991/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/1991/07/17/p/dre
+- type: cites
+  target: pt:dre:275443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662958:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:284678:por
+  label: "Revogada, quando finalizarem os cursos iniciados nos anos lectivos de 1999-2000 e 2000-2001, pela PORT.145/2002.2002.02.15.MDN\
+    \ DR.IS-B [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/145-2002-284678
+  date: '2002-02-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:12:38Z'
   warnings: []
   errors: []
 ---
@@ -251,10 +273,10 @@ O disposto na presente portaria é aplicável aos cursos iniciados a partir do a
 
 Ministérios da Defesa Nacional e da Educação.
 
-**Assinada em 20 de Agosto de 1993.**
+Assinada em 20 de Agosto de 1993.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro da Educação, António Fernando Couto dos Santos.
 
 Do ANEXO I ao ANEXO XIX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/220b00/51125119.pdf))](https://files.diariodarepublica.pt/1s/1993/09/220b00/51125119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/220b00/51125119.pdf)

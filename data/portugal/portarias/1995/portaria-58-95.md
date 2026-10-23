@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/021b00/04600462.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/58/1995/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-1995-139747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74ff35e0b9f03ac229ccc547f61ddc88038d92be11b1b28deae2de584d8ab8b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 677d6306e97c2de4ccd0177cb775f10204248002744435e2263f9f1204562d5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,17 @@ reuse:
 subjects:
 - Benavente
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:172504:por
+  label: "Ratificada a alteração ao Plano de Pormenor ratificado pelo presente diploma, pela RES.106/2002.2002.07.24.PCM DR.IS-B\
+    \ [193] DE 22/AGO/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/106-2002-172504
+  date: '2002-07-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/1994/01/15/p/dre
   label: null
@@ -92,16 +98,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/63/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/63/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:117612200:por
+  label: Revogado pelo(a) Aviso n.º 222/2019 - Diário da República n.º 3/2019, Série II de 2019-01-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/222-2019-117612200
+  date: '2019-01-04'
 article_structure:
-  article_count: 13
+  article_count: 14
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:06Z'
   warnings: []
   errors: []
 ---
@@ -130,9 +173,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 21 de Dezembro de 1994.**
+Assinada em 21 de Dezembro de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano de Pormenor (PP) da Zona Industrial de Vale Tripeiro, Benavente
 
@@ -332,10 +375,12 @@ B) Outros edifícios
 
 2 - Os projectos de estruturas dos edifícios e infra-estruturas serão elaborados e subscritos por engenheiros civis, engenheiros técnicos e engenheiros electrotécnicos, consoante as respectivas especialidades, em conformidade com os artigos 4.º e 5.º do Decreto-Lei n.º 73/73 e do mesmo decreto-lei citado no artigo anterior.
 
-### CAPÍTULO III — Artigo 14.º
+### CAPÍTULO III
+
+###### Artigo 14.º
 
 Alterações
 
 Qualquer ajustamento às previsões do presente Regulamento está sujeito ao estabelecido no [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/021b00/04600462.pdf))](https://files.diariodarepublica.pt/1s/1995/01/021b00/04600462.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/021b00/04600462.pdf)

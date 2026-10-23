@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1411/1995/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1411-1995-692404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f37e2a337fcea826a4872d42c3118c416635c4d122be860f898e0a691789641
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5310b28e2aa7fd0ab8a679f51dbd98f313fdaa3a1d4586512fe184e6c93084fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Moeda Eletrónica
+- Cobrança de Dívidas
+- Contribuições e Impostos
 - Direcção Geral do Tesouro
 - Dívidas ao Estado
 - Documento de Cobrança
 - Fazenda Pública
-- Contribuições e Impostos
+- Moeda Eletrónica
 - Operações de Tesouraria
-- Tesouraria
 - Receita Pública
-- Cobrança de Dívidas
 - Regulamento
 - Regulamento do Documento de Cobrança
+- Tesouraria
 - Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:570112:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570112:por
+  label: "Alterado o num 4 do art 3º; aditado o num 5 ao art 4º e o num 3 ao art 7º; alterado o num 1.1 do anexo I, modelo\
+    \ A pela Port.79/97.1997.02.03.MF, DR.IS-B [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-1997-570112
+  date: '1997-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:24Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +127,9 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do n.º 2 do artigo 10.
 
 Ministério das Finanças.
 
-**Assinada em 12 de Outubro de 1995.**
+Assinada em 12 de Outubro de 1995.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga.**
+O Ministro das Finanças, Eduardo de Almeida Catroga.
 
 ## ANEXO — Regulamento do Documento de Cobrança
 
@@ -181,7 +191,7 @@ Pelo presente Regulamento são aprovados os modelos A, B, C e D do documento de 
 
 Conterá três componentes: o recibo, o talão de controlo e o talão de leitura óptica, com o posicionamento e a forma como se descrevem a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
 
 1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.
 
@@ -197,7 +207,7 @@ Identificação fiscal da entidade pagadora (terá espaço para dois números, a
 
 No topo do lado direito conterá o seguinte:
 
-## Título do documento de cobrança e indicação do modelo;
+Título do documento de cobrança e indicação do modelo;
 
 Área reservada para a janela (necessária para expedição sem envelope) ou identificação da entidade pagadora - nome(s).
 
@@ -265,7 +275,7 @@ Valor: (12) (posições);
 
 Dígito de controlo: (2) (posições).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
 
 ## ANEXO II — Modelo B
 
@@ -273,7 +283,7 @@ Dígito de controlo: (2) (posições).
 
 Conterá três componentes: o recibo, o talão de controlo e o talão de leitura óptica, com o posicionamento e a forma como se descrevem a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
 
 1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.
 
@@ -289,7 +299,7 @@ Identificação fiscal da entidade pagadora (terá espaço para dois números, a
 
 No topo do lado direito conterá o seguinte:
 
-## Título do documento de cobrança e indicação do modelo;
+Título do documento de cobrança e indicação do modelo;
 
 Área reservada para a janela (necessária para expedição sem envelope) ou identificação da entidade pagadora - nome(s).
 
@@ -353,13 +363,13 @@ Entidade controladora da cobrança: (4) (posições).
 
 1.4 - Os elementos assinalados com (*) serão preenchidos pelas entidades pagadoras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
 
 ## ANEXO III — Modelo C
 
 1 - Este modelo, que será preenchido pela entidade pagadora, é constituído por duas páginas. A primeira página conterá três componentes: o duplicado do recibo, o talão de controlo e o talão de leitura óptica, e a segunda página (duplicado, obtido por decalque) abrangerá apenas a parte do recibo, com o posicionamento e a forma como se descrevem a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
 
 1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.
 
@@ -375,7 +385,7 @@ Identificação fiscal da entidade pagadora (terá espaço para dois números, q
 
 No topo do lado direito conterá o seguinte:
 
-## Título do documento de cobrança e indicação do modelo (*);
+Título do documento de cobrança e indicação do modelo (*);
 
 Espaço para a inscrição dos elementos referentes à identificação da entidade pagadora - nome(s) e endereço.
 
@@ -439,7 +449,7 @@ Entidade controladora da cobrança: (4) (posições).
 
 3 - Poderão ser introduzidos na primeira página, no duplicado do recibo, elementos que viabilizem a respectiva leitura óptica integral, nomeadamente quadrículas e marcas ópticas, respeitando as características técnicas necessárias para o efeito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
 
 ## ANEXO IV — Modelo D
 
@@ -447,7 +457,7 @@ Entidade controladora da cobrança: (4) (posições).
 
 Conterá três componentes: o recibo, o talão de controlo e o talão de leitura óptica, com o posicionamento e a forma como se descrevem a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
 
 1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.
 
@@ -463,7 +473,7 @@ Identificação fiscal da entidade pagadora (terá espaço para dois números, q
 
 No topo do lado direito conterá o seguinte:
 
-## Título do documento de cobrança e indicação do modelo;
+Título do documento de cobrança e indicação do modelo;
 
 Área reservada para a janela (necessária para expedição sem envelope) ou identificação da entidade pagadora - nome(s).
 
@@ -527,4 +537,4 @@ Entidade controladora da cobrança: (4) (posições).
 
 1.4 - A linha óptica será pré-impressa, ressalvando os casos em que tal não seja possível.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)

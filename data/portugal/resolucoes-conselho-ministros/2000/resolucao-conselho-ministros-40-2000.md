@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/40/2000/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-2000-292944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47cf7ae671fa6e2eb4f44e0f6295b946913e9383ebf8954ba6130be6befd595a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70c8fc36a8944f4d2af82115dcb89699a5984cbfa448e75ed4124553e902d9f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
-- Cuba.alentejo
-- Proteção do Ambiente
-- Política de Solos
-- Plano de Pormenor
 - Alentejo
+- Cuba.alentejo
+- Ordenamento do Território
+- Plano de Pormenor
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Protecção do Património
 relationships:
 - type: cites
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/1993/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/1993/06/08/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:59Z'
   warnings: []
   errors: []
 ---
@@ -134,25 +150,25 @@ Os artigos 2.º, 4.º, 5.º, 7.º, 8.º e 14.º passam a ter a seguinte redacç�
 
 É proibido o aumento da área de construção para além do previsto no Plano.
 
-###### Artigo 4.º
+Artigo 4.º
 
 As cérceas e alturas das fachadas e muros serão obrigatoriamente respeitadas, conforme previsto no Plano.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Os lotes n.os 50 a 62 possuem projecto tipo fornecido pela Câmara Municipal, cuja adopção é facultativa.
 
 2 - No caso de não adopção do projecto tipo e nos restantes lotes, os projectos ficarão obrigatoriamente a cargo dos interessados e sujeitos a apreciação e enquadramento técnico por parte da Câmara Municipal de Cuba, com as condições impostas por este Regulamento e demais legislação em vigor.
 
-###### Artigo 7.º
+Artigo 7.º
 
 Os telhados poderão rematar por platibanda, beirado ou por soluções mistas, beirado/platibanda.
 
-###### Artigo 8.º
+Artigo 8.º
 
 Os ângulos de inclinação dos telhados deverão ser sempre iguais.
 
-###### Artigo 14.º
+Artigo 14.º
 
 Os edifícios a construir deverão ter um isolamento sonoro adequado aos fins a que se destinam, de modo a ser respeitado o Regulamento Geral do Ruído.»
 

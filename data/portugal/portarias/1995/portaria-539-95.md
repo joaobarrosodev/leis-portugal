@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/539/1995/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/539-1995-526060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e779adcbd763b7f7b5af9dcdb9a2fc078b0008d9be789c7ebc6ef5b49cd48d4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b243161062edcbfa3794b13eb2c01c79821830395b4f5d400d2ba8f2037aeae4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,43 @@ relationships:
   target: pt:dre:212808:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515219:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça associativa concessionada pela\
+    \ Port 722-H1/92, de 15-Jul, alterada pelo presente diploma, pela PORT.993/2004.05.08.2004.MADRP, DR.IS-B [183] de 05.08.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/993-2004-515219
+  date: '2004-08-05'
+- type: amended_by
+  target: pt:dre:212808:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça concessionada pela Port 722-H1/92, de 15-Jul, alterada\
+    \ pelo presente diploma, pela PORT.1459/2004.09.12.2004.MAPF, DR.IS-B [287] de 09.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1459-2004-212808
+  date: '2004-12-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/722-h1/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-h1/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:617554:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:211394:por
+  label: "Revogado o nº 1 da Port 722-H1/96 de 15-Jul, alterado pelo presente diploma pela PORT.107/98.1998.02.26.MADRP, DR.IS-B\
+    \ [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/107-1998-211394
+  date: '1998-02-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:08Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +132,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 722-H1/92
 
 Ministério da Agricultura.
 
-**Assinada em 22 de Maio de 1995.**
+Assinada em 22 de Maio de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/129b00/35663567.pdf))](https://files.diariodarepublica.pt/1s/1995/06/129b00/35663567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/129b00/35663567.pdf)

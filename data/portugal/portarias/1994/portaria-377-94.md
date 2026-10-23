@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/135b00/30613067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/377/1994/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-1994-303592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:26:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af89e4c4eb046d764d9898192f5e8ea5162bea68ff3221c5b255451cca3c3977
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c36abc771e9a74740da0fc2827878e78b49cc8fec093d0a40a88cc01ce576496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:26:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Concurso de Habilitação
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Quadro de Pessoal
+- Médico
 - Ministério da Saúde
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:224986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546600:por
+  label: "Alterado o artigo 8.º do Regulamento anexo ao presente diploma, pela PORT.1034/94.23.11.1994.MS, DR.IS-B [271] de\
+    \ 23.11.1994\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1034-1994-546600
+  date: '1994-11-23'
+- type: amended_by
+  target: pt:dre:444768:por
+  label: "Alterado o n.º 2 do artigo 7.º do Regulamento pela PORT.191/96.30.05.1996.MS, DR.IS-B [126] de 30.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/191-1996-444768
+  date: '1996-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/210/1991/06/12/p/dre
   label: null
@@ -91,16 +102,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/881/1991/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/881/1991/08/27/p/dre
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693842:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:224986:por
+  label: "Revogado o presente diploma, sem prejuízo da sua aplicação aos concursos e até ao termo do prazo da sua validade,\
+    \ pela PORT.47/98.1998.01.30.MS DR.IS-B [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-1998-224986
+  date: '1998-01-30'
 article_structure:
   article_count: 51
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:26:13Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +160,9 @@ Manda o Governo, pelo Ministro da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 19 de Abril de 1994.**
+Assinada em 19 de Abril de 1994.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Regulamento dos Concursos de Habilitação e de Provimento da Carreira Médica de Clínica Geral
 
@@ -669,8 +702,8 @@ O diploma de idoneidade profissional a que se refere o n.º 2 do artigo 1.º é 
 
 ###### Artigo 51.º — Júri dos concursos de habilitação ao grau de consultor de clínica geral
 
-**O presidente e os vogais efectivos e suplentes do júri do primeiro concurso de habilitação ao grau de consultor de clínica geral podem ser consultores que tenham obtido o grau por integração.**
+O presidente e os vogais efectivos e suplentes do júri do primeiro concurso de habilitação ao grau de consultor de clínica geral podem ser consultores que tenham obtido o grau por integração.
 
 Modelo anexo a que se refere o n.º 2 do artigo 1.º deste Regulamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/135b00/30613067.pdf))](https://files.diariodarepublica.pt/1s/1994/06/135b00/30613067.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/135b00/30613067.pdf)

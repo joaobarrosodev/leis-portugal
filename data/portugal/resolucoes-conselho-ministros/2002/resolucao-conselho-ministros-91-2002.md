@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/91/2002/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-2002-371032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aa11afe3d15630c91a222c9ed1928295025139f86d34979924019fe96fe0432
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b5ac1c98e270313d9b5b3a8e4cb5094dfb3246bff5722a39217e46a0b124aec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,6 +66,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agenda do Conselho de Ministros
+- Avaliação do Impacto Legislativo
 - Comunicado do Conselho de Ministros
 - Conselho de Ministros
 - Conselho de Ministros para os Assuntos Económicos
@@ -73,35 +74,50 @@ subjects:
 - Definição de Competências
 - Deliberação da Reunião de Secretários de Estado
 - Deliberação do Conselho de Ministros
-- Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
+- Governo XV
 - Ministro de Estado e das Finanças
+- Primeiro-ministro
+- Processo Legislativo
 - Regimento
 - Reunião de Secretários de Estado
 - Secretário de Estado
-- Governo XV
-- Avaliação do Impacto Legislativo
-- Processo Legislativo
+- Secretário de Estado da Presidência do Conselho de Ministros
 - Substituição de Funções
 relationships:
 - type: amended_by
   target: pt:dre:571672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571672:por
+  label: "Alterados os arts. 1º, 6º, 12º, 15º, 21º, 22º, 23º, 25º, 26º, 27º, 28º, 31º e 32º e aditados os arts. 17º-A, 17º-B\
+    \ e 20º-A, todos ao Regimento do Conselho de Ministros do XV Governo Constitucional, pela RES.66/2003.2003.04.10.PCM DR.IS-B\
+    \ [101] de 02/Mai/2003, que o republica em anexo com as alterações e aditamento introduzidos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/66-2003-571672
+  date: '2003-04-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:153115:por
+  label: "Rectificada pela DECL-RECT.21/2002.2002.05.17.PCM, DR.IS-B [123] de 28/Mai/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-2002-153115
+  date: '2002-05-17'
 article_structure:
   article_count: 35
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:57Z'
   warnings: []
   errors: []
 ---

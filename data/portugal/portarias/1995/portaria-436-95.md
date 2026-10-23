@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/436/1995/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/436-1995-510185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e1eae3e75fa1d7ae69de5fcb40a5d7143bdb9897f823a8964d848d7d21b30bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d81da86040a99b505d7635d8f21b7d91fcbfd52a5e4d08f41d3021753d9c1f5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,38 @@ relationships:
   target: pt:dre:545672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219942:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a exploração cinegética da zona de caça concessionada pela Port 321/90,\
+    \ de 24-Abr, alterada pelo presente diploma, pela PORT.482/96.10.09.1996.MADRP, DR.IS-B [210] de 10.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/482-1996-219942
+  date: '1996-09-10'
+- type: amended_by
+  target: pt:dre:391444:por
+  label: "Renovada, por 10 anos, a concessão da zona de caça atribuída pela Port 321/90, de 27-Abr, alterada pelo presente\
+    \ diploma, pela PORT.544-E/96.04.10.1996.MECO, DR.IS-B [231-Supl] de 04.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/544-e-1996-391444
+  date: '1996-10-04'
+- type: amended_by
+  target: pt:dre:545672:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pela Port 321/90 de 27-Abr, com a redacção conferida\
+    \ no presente diploma, pela PORT.1130/2006.25.10.2006.MAOTDR, DR.IS [206] de 25.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1130-2006-545672
+  date: '2006-10-25'
+- type: cites
+  target: pt:dre:332207:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:30Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +128,6 @@ Manda o Governo, pelo Ministro da Agricultura, que os n.os 2.º e 3.º da [Porta
 
 Ministério da Agricultura.
 
-**Assinada em 27 de Março de 1995.**
+Assinada em 27 de Março de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

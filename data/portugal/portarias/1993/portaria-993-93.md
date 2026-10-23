@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/993/1993/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/993-1993-669482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7e5c1c81664289c621067e45251444ddc0bd5343efc4fa78d975dbc6e7f4606
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96ece3526ea57014a3aecb66ed8c97a65d8c8141354c6ab0de168a8ec87af69f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ciências da Saúde
-- Plano de Estudos
 - Curso de Ciências da Alimentação e Nutrição
 - Curso de Medicina Dentária
 - Curso de Nutrição e Engenharia Alimentar
 - Ensino Particular
-- Lisboa
-- Instituto Superior de Ciências da Saúde-sul
 - Ensino Superior
+- Instituto Superior de Ciências da Saúde-sul
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:278749:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583825:por
+  label: "Alterado o plano de estudos do Curso de Nutrição e Engenharia Alimentar aprovado pela Port 830/91 de 14-Ago, com\
+    \ a redacção introduzida pelo presente diploma, pela PORT.1225/2001.2001.10.24.ME DR.IS-B [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1225-2001-583825
+  date: '2001-10-24'
+- type: amended_by
+  target: pt:dre:278749:por
+  label: "Alterado o plano de estudos do curso de Medicina Dentária ministrado pelo Instituto Superior de Ciências da Saúde\
+    \ - Sul, aprovado pelo Dec Lei 250/89, com a redacção conferida pelo presente diploma, pela PORT.148/2002.2002.02.18.ME,\
+    \ DR.IS-B [41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-2002-278749
+  date: '2002-02-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/830/1991/08/14/p/dre
   label: null
@@ -88,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/908/1993/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/908/1993/09/20/p/dre
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674213:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:14:58Z'
   warnings: []
   errors: []
 ---
@@ -122,18 +151,18 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 20 de Setembro de 1993.**
+Assinada em 20 de Setembro de 1993.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO I — Instituto Superior de Ciências da Saúde - Sul
 
 Curso de Medicina Dentária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/236b00/56525653.pdf))](https://files.diariodarepublica.pt/1s/1993/10/236b00/56525653.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/236b00/56525653.pdf)
 
 ## ANEXO II — Instituto Superior de Ciências da Saúde - Sul
 
 Curso de Nutrição e Engenharia Alimentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/236b00/56525653.pdf))](https://files.diariodarepublica.pt/1s/1993/10/236b00/56525653.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/236b00/56525653.pdf)

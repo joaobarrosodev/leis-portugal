@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1430/1995/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1430-1995-626871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f29da26ad3192ccf5297351eee23e33699996fe54fc2e09c999683c1fa592597
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ded697269b1b1ba85972a6d01c6ddbf21c6ff5fd4c62f69c32eb90ce0204e3ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:637436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669522:por
+  label: "Reonvada por doze anos a concessão de zona de caça pela PORT.619/2003.2003.07.23.MECO DR.IS-B [168]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/619-2003-669522
+  date: '2003-07-23'
+- type: amended_by
+  target: pt:dre:142151:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma e renovada pela Port 619/2003 de\
+    \ 23-Jul, pela PORT.803/2005.05.09.2005.MADRP, DR.IS-B [170] de 05.09.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/803-2005-142151
+  date: '2005-09-05'
+- type: amended_by
+  target: pt:dre:637436:por
+  label: "Alterada a denominação da entidade gestora e anexados vários prédios rústicos à zona de caça concessionada pelo\
+    \ presente diploma, alterada pela Portaria 619/2003, de 23 de Julho e pela Portaria 803/2005 de 05 de Setembro, pela PORT.892/2007.10.08.2007.MAOTDR,\
+    \ DR.IS [154] de 10.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/892-2007-637436
+  date: '2007-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -86,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744/1995/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744/1995/07/11/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:49Z'
   warnings: []
   errors: []
 ---
@@ -134,8 +176,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 18 de Outubro de 1995.**
+Assinada em 18 de Outubro de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/274b00/73577357.pdf))](https://files.diariodarepublica.pt/1s/1995/11/274b00/73577357.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/274b00/73577357.pdf)

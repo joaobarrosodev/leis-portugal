@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/114/2002/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/114-2002-173883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85cc5aad14fa7bc574e33fca5502edb534d0655129d89fb4929190ef80ea4c32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82366d48bb7af6b33cc00265f80c06bcecc01cf3a664bc7a39175cce20be8bc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada do Grande Porto
 - Contrato de Concessão
-- Auto-estrada
 - LUSOSCUT
 relationships:
 - type: amended_by
   target: pt:dre:69736235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167411:por
+  label: "Aprovada a minuta do contrato de alteração ao contrato de concessão, cuja minuta foi aprovada neste diploma, pela\
+    \ RES.39-G/2010.04.06.2010.PCM, DR.IS [108-Supl] de 04.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-g-2010-167411
+  date: '2010-06-04'
+- type: amended_by
+  target: pt:dre:69736235:por
+  label: Aprovada a minuta do contrato de alteração à minuta do contrato de concessão aprovada pelo presente diploma, na redação
+    da Res 39-G/2010 de 04-jun PCM, pelo(a) Resolução do Conselho de Ministros n.º 45-C/2015 - Diário da República n.º 130/2015,
+    1º Suplemento, Série I de 2015-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/45-c-2015-69736235
+  date: '2015-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/2002/08/28/p/dre
   label: null
@@ -85,16 +98,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/267/1997/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/267/1997/10/02/p/dre
+- type: cites
+  target: pt:dre:173758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661564:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:241194:por
+  label: "Rectificada pela DECL-RECT.27-A/2002.2002.08.01.PCM, DR.IS-B [198]Supl de 28/Ago/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/27-a-2002-241194
+  date: '2002-08-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:05Z'
   warnings: []
   errors: []
 ---

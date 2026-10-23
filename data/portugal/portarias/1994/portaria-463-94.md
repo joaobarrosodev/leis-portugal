@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/149b00/34633465.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/463/1994/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/463-1994-289810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 289e17119a5242945f5fe34a5515edaeb45dbb5f53fec32724ae2b686cb961c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0964f3692c88acd64df02c9fa441fbf2bd4055a48a143bc1b44e022c2092a5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Doença Animal
-- Gado Caprino
 - Controlo Sanitário
+- Doença Animal
+- Exportação
+- Gado Caprino
 - Gado Suíno
 - Política Agrícola Comum
-- Exportação
+- Produção Animal
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:471951:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144619:por
+  label: "Dada nova redacção ao nº 4 da Port 467/90 de 22-Jun, alterada pelo presente diploma, pela PORT.559/97.25.07.1997.MADRP,\
+    \ DR.IS-B [170] de 25.07.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/559-1997-144619
+  date: '1997-07-25'
 - type: cites
   target: celex:31964L0432
   label: null
@@ -92,16 +98,21 @@ relationships:
   target: celex:31991L0687
   label: null
   source: http://data.europa.eu/eli/dir/1991/687/oj
+- type: repealed_by
+  target: pt:dre:471951:por
+  label: "Revogada pelo DEC LEI.157/98.1998.06.09.MADRP, DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1998-471951
+  date: '1998-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:14Z'
   warnings: []
   errors: []
 ---
@@ -250,7 +261,7 @@ I - Número de animais: ...
 
 II - Identificação dos animais: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/149b00/34633465.pdf))](https://files.diariodarepublica.pt/1s/1994/06/149b00/34633465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/149b00/34633465.pdf)
 
 III - Proveniência dos animais:
 
@@ -342,6 +353,6 @@ Em Portugal: inspector veterinário.
 
 Ministério da Agricultura.
 
-**Assinada em 23 de Maio de 1994.**
+Assinada em 23 de Maio de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

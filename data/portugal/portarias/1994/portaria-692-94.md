@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/692/1994/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-1994-298219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1170947985f45e23818fdf3fffa414a57f14071e7bcfd9926cbc07e0725d0a74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d914d9681189e1bf8e3aa6966e19b991341d731125800ef03776362679cf437c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
 - CEE
-- Decisão CE
 - Controlo Sanitário
+- Decisão CE
+- Doença Animal
 - Gado Suíno
 - Política Agrícola Comum
 - Regulamento
@@ -122,16 +122,21 @@ relationships:
   target: celex:31993D0384
   label: null
   source: http://data.europa.eu/eli/dec/1993/384/oj
+- type: repealed_by
+  target: pt:dre:667119:por
+  label: "Revogada pelo DEC LEI.143/2003.2003.07.02.MADRP, DR.IS-A [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-2003-667119
+  date: '2003-07-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:49Z'
   warnings: []
   errors: []
 ---
@@ -150,17 +155,17 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 6 de Junho de 1994.**
+Assinada em 6 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 692/94
+Anexo a que se refere a Portaria n.º 692/94
 
 Regulamento das Medidas de Luta contra a Peste Suína Clássica
 
-###### Artigo 1.º O presente Regulamento estabelece, sem prejuízo das disposições que regem o comércio intracomunitário, as medidas de luta contra a peste suína clássica (PSC).
+Artigo 1.º O presente Regulamento estabelece, sem prejuízo das disposições que regem o comércio intracomunitário, as medidas de luta contra a peste suína clássica (PSC).
 
-###### Art. 2.º Para efeitos do presente Regulamento entende-se por:
+Art. 2.º Para efeitos do presente Regulamento entende-se por:
 
 a) Suíno: qualquer animal da família dos suídeos;
 
@@ -192,9 +197,9 @@ l) Extracção de gorduras: a transformação de materiais de alto risco em conf
 
 m) Lavadura: detritos de cozinhas, restaurantes e ou indústrias que utilizem carne e os seus derivados.
 
-###### Art. 3.º Qualquer suspeita ou existência de PSC deve ser notificada de imediato à respectiva direcção regional de agricultura, que a transmitirá ao IPPAA.
+Art. 3.º Qualquer suspeita ou existência de PSC deve ser notificada de imediato à respectiva direcção regional de agricultura, que a transmitirá ao IPPAA.
 
-###### Art. 4.º - 1 - Quando numa exploração se encontrem um ou vários porcos suspeitos de PSC, o veterinário oficial deve, utilizando os meios oficiais para confirmar ou infirmar a presença da referida doença, proceder, ou mandar proceder, às colheitas de amostras necessárias às análises laboratoriais.
+Art. 4.º - 1 - Quando numa exploração se encontrem um ou vários porcos suspeitos de PSC, o veterinário oficial deve, utilizando os meios oficiais para confirmar ou infirmar a presença da referida doença, proceder, ou mandar proceder, às colheitas de amostras necessárias às análises laboratoriais.
 
 2 - Após a notificação da suspeita, a autoridade competente deve colocar a exploração sob vigilância oficial e determinar que:
 
@@ -220,7 +225,7 @@ f) Seja efectuado um inquérito epizootiológico em conformidade com o artigo 8.
 
 3 - As medidas descritas no n.º 2 só são levantadas quando a suspeita de PSC for oficialmente infirmada.
 
-###### Art. 5.º - 1 - Quando a presença de PSC for oficialmente confirmada, a autoridade competente deve ordenar, em complemento das medidas enunciadas no n.º 2 do artigo anterior, a execução das seguintes medidas:
+Art. 5.º - 1 - Quando a presença de PSC for oficialmente confirmada, a autoridade competente deve ordenar, em complemento das medidas enunciadas no n.º 2 do artigo anterior, a execução das seguintes medidas:
 
 a) Abate imediato, no local, de todos os porcos existentes na exploração, devendo ser destruídos todos os porcos mortos e abatidos, de modo a evitar o risco de propagação da doença;
 
@@ -248,9 +253,9 @@ f) Um inquérito epizootiológico efectuado em conformidade com o artigo 8.º
 
 2 - A autoridade competente pode alargar as medidas previstas no número anterior a outras explorações caso a sua implantação, topografia ou contactos com a exploração em que a doença foi confirmada permitam a sua contaminação.
 
-###### Art. 6.º Para as explorações com duas ou mais unidades de produção distintas, a autoridade competente pode, com base em critérios a estabelecer, prever derrogações às exigências do artigo 5.º, no respeitante às unidades não infectadas, desde que o veterinário oficial confirme que as operações aí efectuadas asseguram a completa separação das unidades no que diz respeito ao alojamento, tratamento e alimentação, de tal modo que o vírus não possa propagar-se de uma unidade para a outra.
+Art. 6.º Para as explorações com duas ou mais unidades de produção distintas, a autoridade competente pode, com base em critérios a estabelecer, prever derrogações às exigências do artigo 5.º, no respeitante às unidades não infectadas, desde que o veterinário oficial confirme que as operações aí efectuadas asseguram a completa separação das unidades no que diz respeito ao alojamento, tratamento e alimentação, de tal modo que o vírus não possa propagar-se de uma unidade para a outra.
 
-###### Art. 7.º - 1 - Imediatamente após ter sido informada da suspeita de infecção em suínos selvagens, a autoridade competente deve tomar todas as medidas adequadas para confirmar a presença da doença, informando os proprietários ou os responsáveis pelos suínos e os caçadores e suas associações e efectuando investigações que incluam, nomeadamente, testes laboratoriais sobre todos os suínos selvagens abatidos ou encontrados mortos.
+Art. 7.º - 1 - Imediatamente após ter sido informada da suspeita de infecção em suínos selvagens, a autoridade competente deve tomar todas as medidas adequadas para confirmar a presença da doença, informando os proprietários ou os responsáveis pelos suínos e os caçadores e suas associações e efectuando investigações que incluam, nomeadamente, testes laboratoriais sobre todos os suínos selvagens abatidos ou encontrados mortos.
 
 2 - Logo que se confirme a infecção em suínos selvagens, a autoridade competente deve colocar de imediato sob vigilância oficial as explorações na zona infectada definida e exigir que:
 
@@ -320,7 +325,7 @@ h) Às medidas preventivas aplicáveis nas explorações situadas na zona infect
 
 i) Aos critérios a aplicar para a revogação das medidas adoptadas com vista à erradicação da doença na zona definida e às medidas aplicadas nas explorações da área.
 
-###### Art. 8.º - 1 - O inquérito epizootiológico deve abranger:
+Art. 8.º - 1 - O inquérito epizootiológico deve abranger:
 
 a) A duração do período durante o qual a PSC possa ter existido na exploração antes da notificação;
 
@@ -330,7 +335,7 @@ c) Os movimentos de pessoas, veículos, porcos, carcaças, carnes ou qualquer ou
 
 2 - Deve ser criada uma célula de crise, cujas regras de funcionamento sejam estabelecidas de acordo com o procedimento comunitariamente previsto, para efeitos de realização do inquérito epizootiológico e coordenação das medidas necessárias, de modo a assegurar, no mais breve prazo, a erradicação da PSC.
 
-###### Art. 9.º - 1 - Sempre que o veterinário oficial suspeitar que numa exploração existem porcos que podem ter sido contaminados devido à circulação de pessoas, animais ou veículos, ou por qualquer outro meio, essa exploração deve ser colocada sob controlo oficial.
+Art. 9.º - 1 - Sempre que o veterinário oficial suspeitar que numa exploração existem porcos que podem ter sido contaminados devido à circulação de pessoas, animais ou veículos, ou por qualquer outro meio, essa exploração deve ser colocada sob controlo oficial.
 
 2 - O controlo oficial, referido no número anterior, tem como objectivo detectar imediatamente qualquer suspeita de PSC, proceder ao recenseamento e ao controlo da circulação de porcos e, se for caso disso, aplicar, no todo ou em parte, as medidas previstas no artigo 4.º
 
@@ -340,7 +345,7 @@ c) Os movimentos de pessoas, veículos, porcos, carcaças, carnes ou qualquer ou
 
 5 - A autoridade competente pode limitar as medidas previstas no presente artigo a uma parte da exploração e aos porcos que aí se encontram, desde que esses porcos tenham sido alojados, tratados e alimentados de modo totalmente separado e por pessoal distinto.
 
-###### Art. 10.º - 1 - Logo que o diagnóstico de PSC tenha sido oficialmente confirmado em suínos de uma determinada exploração, a autoridade competente deve delimitar, em redor dessa exploração, uma zona de protecção com um raio mínimo de 3 km, que será incluída numa zona de vigilância com um raio de, pelo menos, 10 km, devendo ter em conta, nessa delimitação, factores de ordem geográfica, administrativa, ecológica e epizootiológica relacionados com a PSC e as estruturas de controlo.
+Art. 10.º - 1 - Logo que o diagnóstico de PSC tenha sido oficialmente confirmado em suínos de uma determinada exploração, a autoridade competente deve delimitar, em redor dessa exploração, uma zona de protecção com um raio mínimo de 3 km, que será incluída numa zona de vigilância com um raio de, pelo menos, 10 km, devendo ter em conta, nessa delimitação, factores de ordem geográfica, administrativa, ecológica e epizootiológica relacionados com a PSC e as estruturas de controlo.
 
 2 - As medidas aplicadas na zona de protecção devem incluir:
 
@@ -448,7 +453,7 @@ d) Os exames referidos nas anteriores alíneas b) e c) não devem ser realizados
 
 6 - Quando a zona ou zonas de protecção ou vigilância abranjam territórios de vários Estados membros, as respectivas autoridades competentes devem colaborar de modo a determinar as zonas referidas no n.º 1, devendo as mesmas ser delimitadas de acordo com o procedimento comunitário previsto.
 
-###### Art. 11.º - 1 - Os desinfectantes a utilizar, bem como as suas concentrações, devem ser aprovados pela autoridade competente.
+Art. 11.º - 1 - Os desinfectantes a utilizar, bem como as suas concentrações, devem ser aprovados pela autoridade competente.
 
 2 - As operações de limpeza e desinfecção devem ser efectuadas sob controlo oficial, em conformidade com:
 
@@ -456,7 +461,7 @@ a) As instruções do veterinário oficial;
 
 b) O processo de limpeza e desinfecção de explorações infectadas, previsto no anexo V deste Regulamento.
 
-###### Art. 12.º No caso de a PSC ser confirmada num matadouro:
+Art. 12.º No caso de a PSC ser confirmada num matadouro:
 
 a) Todos os suínos do matadouro devem ser abatidos de imediato;
 
@@ -468,15 +473,15 @@ d) Deve ser realizado um inquérito epizootiológico em conformidade com o artig
 
 e) Só decorridas, pelo menos, vinte e quatro horas sobre a realização das operações de limpeza e desinfecção efectuadas em conformidade com a alínea c), deve ser efectuada a reintrodução dos suínos para abate.
 
-###### Art. 13.º As colheitas de amostras e as análises laboratoriais destinadas a detectar a presença do vírus da PSC devem ser efectuadas em conformidade com o anexo I a este Regulamento.
+Art. 13.º As colheitas de amostras e as análises laboratoriais destinadas a detectar a presença do vírus da PSC devem ser efectuadas em conformidade com o anexo I a este Regulamento.
 
-###### Art. 14.º - 1 - Os laboratórios nacionais indicados no anexo II devem cooperar com o laboratório de referência comunitário.
+Art. 14.º - 1 - Os laboratórios nacionais indicados no anexo II devem cooperar com o laboratório de referência comunitário.
 
 2 - Aos laboratórios nacionais cabe assegurar a ligação com o laboratório comunitário de referência, de acordo com as condições definidas no anexo VI.
 
 3 - Sem prejuízo do disposto na Decisão n.º [90/424/CEE](http://data.europa.eu/eli/dec/1990/424/oj?locale=pt), as competências e funções do laboratório comunitário de referência são as definidas no anexo VI.
 
-###### Art. 15.º - 1 - Os porcos, quando transportados para fora das explorações nas quais se encontram, devem estar identificados de maneira a determinar rapidamente a exploração de origem ou proveniência e a sua movimentação.
+Art. 15.º - 1 - Os porcos, quando transportados para fora das explorações nas quais se encontram, devem estar identificados de maneira a determinar rapidamente a exploração de origem ou proveniência e a sua movimentação.
 
 2 - As modalidades da identificação dos animais ou de determinação da exploração de origem são fixadas pela autoridade competente.
 
@@ -484,7 +489,7 @@ e) Só decorridas, pelo menos, vinte e quatro horas sobre a realização das ope
 
 4 - O referido no número anterior é igualmente aplicável a todos os proprietários, no que diz respeito à entrada e saída de porcos da sua exploração.
 
-###### Art. 16.º - 1 - É proibida a utilização de vacina contra a PSC, conforme previsto na Portaria n.º 491-B/89, de 30 de Junho.
+Art. 16.º - 1 - É proibida a utilização de vacina contra a PSC, conforme previsto na Portaria n.º 491-B/89, de 30 de Junho.
 
 2 - A manipulação do vírus da PSC em investigação, diagnóstico e ou fabrico de vacinas só pode ser efectuada num laboratório aprovado.
 
@@ -526,9 +531,9 @@ ii) Para uma exploração, designada pela autoridade competente, de onde irão d
 
 iii) Para uma exploração, depois de terem apresentado resultados negativos num teste serológico para detecção de anticorpos do vírus CSF.
 
-###### Art. 17.º Os peritos da Comissão da Comunidade Europeia podem, em colaboração com a autoridade competente, efectuar controlos para verificação do cumprimento do disposto no presente Regulamento.
+Art. 17.º Os peritos da Comissão da Comunidade Europeia podem, em colaboração com a autoridade competente, efectuar controlos para verificação do cumprimento do disposto no presente Regulamento.
 
-###### Art. 18.º - 1 - É proibida a utilização para alimentação de porcos das lavaduras provenientes de meios de transporte internacionais, tais como navios, veículos terrestres e aéreos, devendo essas águas ser recolhidas e destruídas sob controlo oficial.
+Art. 18.º - 1 - É proibida a utilização para alimentação de porcos das lavaduras provenientes de meios de transporte internacionais, tais como navios, veículos terrestres e aéreos, devendo essas águas ser recolhidas e destruídas sob controlo oficial.
 
 2 - A utilização para alimentação de porcos de lavaduras que não as referidas no número anterior só pode ser autorizada após terem sido submetidas a um tratamento pelo calor em instalações que assegurem a não transmissão da doença e a destruição do vírus da PSC.
 
@@ -590,13 +595,13 @@ b) Só podem ser utilizados ou monoclones oficialmente recomendados pelo laborat
 
 c) Os monoclones devem ser reunidos em quatro grupos, de acordo com os seguintes critérios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf))](https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf)
 
 Cada grupo pode ser representado ou por um único monoclone ou por uma mistura de componentes de anticorpos monoclonais, desde que o espectro de reactividade corresponda ao acima indicado.
 
 d) A interpretação dos padrões de reacção é a seguir esquematizada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf))](https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf)
 
 C - Detecção dos anticorpos do vírus da peste suína clássica
 
@@ -792,7 +797,7 @@ Serão colhidas amostras de todos os grupos.
 
 Procedimento de colheita de amostras:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf))](https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/169b00/40824090.pdf)
 
 ## ANEXO V — Processo de limpeza e de desinfecção de uma exploração infectada
 

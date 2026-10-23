@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/402/1995/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/402-1995-512982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T13:01:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e4e12feba34c741a1451ca26e42f39ba46d37bb5d91c055a4cd7e6ffb2c57c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e235b16a75d33fba8437a04546c684fee2fa78cc46db0a7718807442e75f42ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:01:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Curso de Formação
 - Administração Pública
 - Carreira Profissional
+- Centro de Estudos e Formação Autárquica
+- Curso de Formação
+- Descrição de Funções
+- Formação Profissional
 - INA
 - Instituto de Informática
-- Centro de Estudos e Formação Autárquica
-- Descrição de Funções
 - Pessoal de Informática
 relationships:
 - type: amended_by
   target: pt:dre:469015:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572116:por
+  label: "Alterados os arts. 14º e 19º, pela PORT.1165/95.1995.09.23.PCM, DR.IS-B [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1165-1995-572116
+  date: '1995-09-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -96,16 +101,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/80/1994/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/80/1994/02/07/p/dre
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469015:por
+  label: "Revogada pela PORT.244/97.1997.04.11.PCM, DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-1997-469015
+  date: '1997-04-11'
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:01:44Z'
   warnings: []
   errors: []
 ---
@@ -572,9 +602,9 @@ Legislação revogada
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 28 de Março de 1995.**
+Assinada em 28 de Março de 1995.
 
-**A Secretária de Estado da Modernização Administrativa, Isabel Maria Freire dos Santos Corte Real. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.**
+A Secretária de Estado da Modernização Administrativa, Isabel Maria Freire dos Santos Corte Real. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.
 
 ## ANEXO — A - Acções de formação
 
@@ -584,175 +614,175 @@ C1 - Planeamento e análise de sistemas
 
 Objectivos: formação de técnicos capazes de apoiar e desenvolver as actividades de planeamento, gestão de projectos e análise de sistemas de informação numa perspectiva de organização por projectos suportada por uma política de administração de dados, usando adequadas metodologias e ferramentas de apoio automático.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C2 - Análise e desenvolvimento de sistemas
 
 Objectivos: formação de técnicos capazes de conceber e desenvolver sistemas informáticos, desde a especificação à implementação, usando adequadas metodologias e ferramentas de apoio automático.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C3 - Engenharia de infra-estruturas tecnológicas
 
 Objectivos: formação de técnicos capazes de conceber, planear, implementar e manter as infra-estruturas tecnológicas dos sistemas informáticos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C4 - Análise e concepção estruturadas de sistemas
 
 Objectivos: dar a conhecer os fundamentos, as etapas e as técnicas de uma metodologia estruturada de análise desde a especificação funcional à concepção técnica de sistemas informáticos e treinar no seu uso apoiado por tecnologia CASE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C5 - Análise de sistemas orientada para objectos
 
 Objectivos: dar a conhecer os fundamentos, as etapas da análise de sistemas orientada para objectos e treinar os participantes no uso desta tecnologia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C6 - Programação de sistemas
 
 Objectivos: formar especialistas capazes de realizar a manutenção dos sistemas operativos e a optimização dos recursos computacionais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C7 - Administração e programação de sistemas UNIX
 
 Objectivos: formar técnicos capazes de realizar a gestão operativa de sistemas computacionais com ambiente UNIX.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C8 - Bases de dados relacionais
 
 Objectivos: transmitir conhecimentos sobre a tecnologia das bases de dados relacionais como infra-estrutura dos sistemas informáticos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C9 - Sistemas informáticos distribuídos
 
 Objectivos: transmitir conhecimentos sobre as especificidades e potencialidades dos sistemas informáticos distribuídos, suportados por tecnologia cliente/servidor na perspectiva dos dados e dos processos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C10 - Bases de dados orientadas para objectos
 
 Objectivos: dar a conhecer as especificidades e potencialidades dos sistemas de gestão de bases de dados orientadas para objectos (SGBDOO).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C11 - Comunicação de dados e serviços telemáticos
 
 Objectivos: dar a conhecer as características dos sistemas informáticos apoiados em redes de comunicação de dados e os serviços telemáticos disponíveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C12 - Computação em rede: modelo e implementação
 
 Objectivos: formação de técnicos capazes de dinamizar o lançamento de projectos na área dos sistemas de comunicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C13 - O estudo de âmbito em planeamento de sistemas de informação
 
 Objectivos: fornecer os princípios e as técnicas de ajuda à delimitação do âmbito dos processos de planeamento dos sistemas de informação nas organizações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C14 - Prática de planeamento dos sistemas de informação
 
 Objectivos: treinar os participantes na utilização de uma metodologia para o planeamento dos sistemas de informação nas organizações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C15 - Gestão de projectos informáticos
 
 Objectivos: fornecer os conceitos, técnicas e ferramentas susceptíveis de habilitar os participantes para uma gestão mais eficaz de projectos informáticos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C16 - Segurança informática: concepção e implementação
 
 Objectivos: habilitar os participantes a considerar os aspectos de segurança em todas as fases do ciclo de vida dos sistemas informáticos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C17 - Optimização da performance de equipamentos complexos
 
 Objectivos: formar nas técnicas de análise da performance, planificação de configurações e optimização da exploração de equipamentos informáticos complexos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C18 - Administração de dados
 
 Objectivos: dar a conhecer as principais questões que se colocam à função de administração de dados e a sua integração nas organizações modernas, numa perspectiva prática.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C19 - A qualidade na produção de software
 
 Objectivos: dar a conhecer as normas, técnicas, ferramentas e procedimentos que visam aumentar a qualidade no desenvolvimento do software, tendo com referencial o quadro da certificação no contexto europeu.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C20 - Fundamentos de programação de computadores
 
 Objectivos: fornecer os conhecimentos necessários ao início de uma carreira profissional na área da programação de computadores. Este curso constitui pré-requisito para a frequência dos cursos C21, C22 e C23.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C21 - Programação de computadores
 
 Objectivos: formação profissional de programadores de computadores para ambientes com SQL.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C22 - Programação de computadores orientada para objectos
 
 Objectivos: formação profissional de programadores para ambientes com ferramentas orientadas para objectos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C23 - Programação em microcomputadores
 
 Objectivos: formação profissional de programadores de computadores para ambientes cliente/servidor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C24 - Técnicas avançadas de programação
 
 Objectivos: apetrechar os programadores de computadores com conhecimentos sogre os métodos e as técnicas que traduzem o estado da arte nesta matéria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C25 - Iniciação à operação de computadores
 
 Objectivos: transmitir os conhecimentos básicos necessários ao desempenho das funções de operação de sistemas computacionais de média e grande dimensão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C26 - O sistema de operação UNIX
 
 Objectivos: fornecer os conhecimentos básicos necessários à operação profissional de computadores em ambiente UNIX.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C27 - A operação de microcomputadores em ambiente multiposto
 
 Objectivos: fornecer os conhecimentos básicos necessários à operação profissional de microcomputadores em ambiente multiposto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C28 - Complementos de operação de computadores
 
 Objectivos: preparar os operadores de computadores para o desempenho de funções em ambiente de maior complexidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C29 - Administração de redes locais
 
 Objectivos: preparar os operadores de computadores para o desempenho de funções em ambientes de redes locais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 C30 - Chefia da operação de computadores
 
@@ -766,49 +796,49 @@ S1 - A gestão da informação nas organizações
 
 Objectivos: transmitir um modelo de gestão da informação nas organizações que sirva de base à atribuição de funções e distribuição de responsabilidades ligadas à informação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 S2 - O planeamento dos sistemas de informação
 
 Objectivos: habilitar os participantes a escolher as ferramentas de análise e planeamento estratégico mais adequadas à especificidade das suas organizações, em matéria de sistemas e tecnologias da informação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 S3 - A economia da informação nas organizações
 
 Objectivos: habilitar os participantes para a adopção de critérios de custo/benefício na implantação de soluções informáticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 S4 - A gestão da mudança e a informação
 
 Objectivos: habilitar os participantes a tirar melhor partido das potencialidades da informação na tomada de decisões em contexto de mudança.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 S5 - A gestão dos serviços de sistemas e tecnologias da informação
 
 Objectivos: equacionar a problemática da gestão dos serviços de informação nas suas vertentes organizacionais, tecnológicas, humanas e económico-financeiras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 S6 - A reengenharia de processos nas organizações
 
 Objectivos: equacionar a problemática da utilização das modernas tecnologias da informação na reconcepção dos sistemas de gestão das organizações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 S7 - Novas tecnologias na comunicação com o público
 
 Objectivos: equacionar a problemática da utilização das modernas tecnologias da informação na comunicação com o público.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 S8- Ponto de situação sobre sistemas e tecnologias da informação
 
 Objectivos: proporcionar a actualização sobre o «estado da arte» dos sistemas e tecnologias de informação no seu enquadramento organizacional e social.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 B - Valências dos cursos/seminários
 
@@ -816,40 +846,40 @@ B - Valências dos cursos/seminários
 
 1.1 - Ingresso na categoria de técnico superior de informática de 2.ª classe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 1.2 - Acesso à categoria de técnico superior de informática de 1.ª classe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 1.3 - Acesso à categoria de técnico superior de informática principal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 2 - Carreira de programador
 
 2.1 - Ingresso na categoria de programador-adjunto de 2.ª classe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 2.2 - Acesso à categoria de programador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 2.3 - Acesso à categoria de programador principal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 3 - Carreira de operador de sistema
 
 3.1 - Ingresso na categoria de operador de sistema de 2.ª classe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 3.2 - Acesso à categoria de operador de sistema de 1.ª classe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
 
 3.3 - Acesso à categoria de operador de sistema-chefe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf))](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/103b00/24932505.pdf)

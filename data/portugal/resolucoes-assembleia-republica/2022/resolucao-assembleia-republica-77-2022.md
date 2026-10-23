@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/22100/0000300018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/77/2022/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/77-2022-203457550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T12:15:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58c44c6df33cf642d53becfa27237b6ca6cd4e843878d9dc3cf10c205a00e29c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e84bf42e587518db73e2f53dae43faedf5bae7ec9348280ca0c80da24ab8192d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:15:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,29 @@ reuse:
 subjects:
 - Convenção
 - Cooperação
+- Cooperação Internacional
+- Espanha
 - Política de Cooperação
 - Portugal
-- Espanha
-- Cooperação Internacional
 - Tratado de Amizade e Cooperação entre Portugal e Espanha
 - Trujillo
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:203457549:por
+  label: Ratificado pelo(a) Decreto do Presidente da República n.º 160/2022 - Diário da República n.º 221/2022, Série I de
+    2022-11-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/160-2022-203457549
+  date: '2022-11-16'
 article_structure:
   article_count: 23
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:15:42Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de outubro de 2022.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 TRATADO DE AMIZADE E COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA
 
@@ -576,3 +582,5 @@ António Costa, Primer Ministro.
 Por El Reino de España:
 
 Pedro Sánchez Pérez-Castejón, Presidente del Gobierno.
+
+115851469

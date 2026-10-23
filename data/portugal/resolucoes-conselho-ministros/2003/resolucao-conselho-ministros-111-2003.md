@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/111/2003/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-2003-660949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:47:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 064d575df9779b2db02176e9116249adab0dfbac09336d54b46b5d19ffb396c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fa9f4c94842bee84d2828143dac155e76c1f71ca7b1b76c6ab9cd0e6371160d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:47:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aquisição de Bens e Serviços
-- Modernização Administrativa
-- Ministério da Defesa Nacional
-- Ministério da Segurança Social e do Trabalho
-- Direcção Geral do Património
 - Administração Pública
-- Setor Empresarial do Estado
-- Ministério das Finanças
-- Ministério da Justiça
-- Programa Nacional de Compras Electrónicas
-- Ministério das Obras Públicas Transportes e Habitação
-- Eeurope 2005
-- Programa de Acção
-- Governo Electrónico
-- UMIC
-- Emprego
-- Projeto
-- Presidência do Conselho de Ministros
-- Ministério da Saúde
-- Setor Empresarial
+- Aquisição de Bens e Serviços
 - Comércio Eletrónico
+- Direcção Geral do Património
+- Eeurope 2005
+- Emprego
+- Governo Electrónico
+- Ministério da Defesa Nacional
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério da Segurança Social e do Trabalho
+- Ministério das Finanças
+- Ministério das Obras Públicas Transportes e Habitação
+- Modernização Administrativa
+- Presidência do Conselho de Ministros
+- Programa de Acção
+- Programa Nacional de Compras Electrónicas
+- Projeto
+- Setor Empresarial
+- Setor Empresarial do Estado
+- UMIC
 relationships:
 - type: cites
   target: celex:31977L0388
@@ -98,13 +98,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:47:21Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +221,7 @@ TABELA N.º 1
 
 Metas para as compras públicas electrónicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -253,7 +253,7 @@ FIGURA 1
 
 Arquitectura Nacional de Compras Electrónicas
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Março de 2003.
 
@@ -261,7 +261,7 @@ TABELA N.º 2
 
 Sumário das acções e projectos do Programa Nacional de Compras Electrónicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -307,11 +307,11 @@ Principais barreiras ao comércio electrónico
 
 Principais barreiras à adopção de compras electrónicas
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Principais barreiras à adopção de vendas electrónicas
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: E-Commerce Database, Eurostat 2001 (Base: Empresas de Países da União Europeia) (http://europa.eu.int/ comm/ enterprise/ ict/ statistics/ e-commerce.htm).
 
@@ -323,7 +323,7 @@ FIGURA 3
 
 Plano de Acção eEurope 2005 - Objectivos do comércio electrónico
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -333,7 +333,7 @@ FIGURA 4
 
 Produtividade do trabalho na EU (PNB por hora de trabalho; PPC2000)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: EuroStat, 2002.
 
@@ -409,7 +409,7 @@ FIGURA 5
 
 Prioridades de actuação do Programa Nacional de Compras Electrónicas
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -423,7 +423,7 @@ TABELA N.º 3
 
 Objectivos contextuais, latos e específicos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -435,7 +435,7 @@ TABELA N.º 4
 
 Metas para as compras públicas electrónicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -459,7 +459,7 @@ Decisões estratégicas, que devem consistir num exercício regular de re-avalia
 
 Decisões operacionais, que permitam re-orientar as iniciativas, os processos, a organização e a tecnologia de modo a assegurar que efectivamente contribuem para a Estratégia e respectivos objectivos.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Desta forma, torna-se fundamental operacionalizar uma solução para monitorizar de forma integrada o impacte da Estratégia Nacional de Compras Electrónicas na Administração Pública.
 
@@ -473,7 +473,7 @@ TABELA N.º 5
 
 Acções referentes à definição da estratégia, objectivos e monitorização da evolução das compras electrónicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -493,13 +493,13 @@ Adopção tecnológica; e
 
 Gestão da mudança.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 TABELA N.º 6
 
 Linhas orientadoras para a promoção das compras públicas electrónicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -509,7 +509,7 @@ TABELA N.º 7
 
 Acções referentes à promoção das compras públicas electrónicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -517,7 +517,7 @@ Prioridade 3 - Compras electrónicas no tecido empresarial
 
 Os ganhos e poupanças associados à promoção das aquisições de bens e serviços por via electrónica no âmbito da economia nacional serão ainda de maior amplitude do que na Administração Pública. Mais relevante ainda é a criticidade de Portugal e as empresas portuguesas acompanharem a evolução europeia e não perderem a capacidade de competirem no mercado nacional e internacional.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 A alavancagem da capacidade de influência e mobilização do sector público é fundamental para assegurar o estímulo da direcção do mercado. O sucesso deste estímulo depende fortemente da capacidade de envolvimento e dinamização do sector privado através de parcerias público-privado necessárias ao sucesso das compras electrónicas.
 
@@ -531,7 +531,7 @@ TABELA N.º 8
 
 Linhas orientadoras para a promoção das compras electrónicas no tecido empresarial
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -541,7 +541,7 @@ TABELA N.º 9
 
 Acções referentes à promoção das compras electrónicas no tecido empresarial
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -549,7 +549,7 @@ Prioridade 4 - Condições de base para as compras electrónicas
 
 As particularidades do enquadramento legal necessário para as compras electrónicas e a fragilidade financeira do tecido empresarial português determinam que o Estado deverá actuar de forma estruturante nestas duas áreas.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Em termos de condições de base para a generalização das compras electrónicas, importa ter presente que, para realizar os benefícios das compras electrónicas, torna-se necessário reavaliar o enquadramento legal e regulamentar que tipicamente é aplicável aos processos não electrónicos de compras do Estado e das empresas privadas. Neste sentido, a contratualização electrónica e em tempo real de fornecimentos ao Estado levanta várias questões do ponto de vista legal, que têm de ser endereçadas de forma rápida mas cautelosa. Adicionalmente, todo o enquadramento que rodeia as transacções electrónicas entre empresas, como por exemplo a certificação electrónica e a factura digital, terá obrigatoriamente de ser equacionado.
 
@@ -561,7 +561,7 @@ TABELA N.º 10
 
 Linhas orientadoras para a criação das condições de base para as compras electrónicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -571,7 +571,7 @@ TABELA N.º 11
 
 Acções e projectos referentes à criação das condições de base para a generalização das compras electrónicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -771,7 +771,7 @@ FIGURA 6
 
 Modelo organizacional de alto nível
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.
 
@@ -779,6 +779,6 @@ Fonte: UMIC, Fevereiro de 2003.
 
 O grau de sucesso da implementação deste Programa depende fortemente de um conjunto de factores, diferentes para cada uma das prioridades acima apresentadas e que agora se apresentam de forma esquemática:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf))](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/08/185b00/49064919.pdf)
 
 Fonte: UMIC, Fevereiro de 2003.

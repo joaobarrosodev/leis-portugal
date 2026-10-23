@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/104/2006/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2006-540621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6487b38073fe3a57791118c78c2391055a4eebcc057996b308a7c1922b60449a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92d4146fee7c9aab2ab4bc0c0eb961fad3bef24a2a08a9a7f437c667dc3b841a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Dados Estatísticos
-- Proteção do Ambiente
-- Programa Nacional para as Alterações Climáticas
 - Alteração Climática
 - Clima
+- Dados Estatísticos
+- Financiamento
+- Programa Nacional para as Alterações Climáticas
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:343081:por
@@ -107,14 +107,14 @@ relationships:
   source: http://data.dre.pt/eli/resolconsmin/119/2004/07/31/p/dre
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:29Z'
   warnings: []
   errors: []
 ---
@@ -253,11 +253,11 @@ Importa ainda referir que os elementos que integram o PNAC 2006 suportam os rela
 
 O presente documento está organizado da seguinte forma:
 
-### Capítulo 1, «Âmbito e objectivo», onde se apresenta o propósito do documento;
+Capítulo 1, «Âmbito e objectivo», onde se apresenta o propósito do documento;
 
-### Capítulo 2, «Cenário de referência», com ênfase para a consideração do cenário macroeconómico, em particular até 2010, e o conjunto de políticas e medidas adoptadas até 1 de Janeiro de 2005, bem como a monitorização do seu grau de implementação em 31 de Dezembro de 2004;
+Capítulo 2, «Cenário de referência», com ênfase para a consideração do cenário macroeconómico, em particular até 2010, e o conjunto de políticas e medidas adoptadas até 1 de Janeiro de 2005, bem como a monitorização do seu grau de implementação em 31 de Dezembro de 2004;
 
-### Capítulo 3, «Análise do compromisso de cumprimento do PQ», de forma a assegurar a coerência entre os diversos instrumentos nacionais orientados para o cumprimento, em particular o PNALE. Inclui o balanço nacional líquido de emissões de GEE (incluindo as actividades de florestação, reflorestação e desflorestação nos termos do n.º 3 do artigo 3.º do PQ) e a configuração das medidas adicionais (incluindo as actividades de gestão florestal, de gestão agrícola e de gestão de pastagens, nos termos do n.º 4 do artigo 3.º do PQ).
+Capítulo 3, «Análise do compromisso de cumprimento do PQ», de forma a assegurar a coerência entre os diversos instrumentos nacionais orientados para o cumprimento, em particular o PNALE. Inclui o balanço nacional líquido de emissões de GEE (incluindo as actividades de florestação, reflorestação e desflorestação nos termos do n.º 3 do artigo 3.º do PQ) e a configuração das medidas adicionais (incluindo as actividades de gestão florestal, de gestão agrícola e de gestão de pastagens, nos termos do n.º 4 do artigo 3.º do PQ).
 
 2 - Cenário de referência
 
@@ -267,7 +267,7 @@ A contabilização das emissões de gases com efeito de estufa para efeitos de c
 
 i) Quantidade atribuída (QA), entendida como o montante de emissões de GEE de origem antropogénica, medido em unidades de CO2e, que Portugal não deverá ultrapassar no quadro do acordo da Comunidade Europeia de partilha de responsabilidades de cumprimento do PQ. Portugal reportou (IAa, 2006), ao abrigo do artigo 8.º da Decisão n.º [280/2004/CE](http://data.europa.eu/eli/dec/2004/280/oj?locale=pt), da Comissão, relativa ao mecanismo de monitorização de gases com efeito de estufa da União Europeia e à implementação do PQ, uma QA de 385970,45 Gg CO2e (ver nota 4). Este montante inclui as seguintes parcelas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 Portugal dispõe assim de 385970,45 unidades de QA no quadro europeu para o primeiro período de cumprimento do PQ. Para efeitos de avaliação, neste documento considerar-se-á um quinto da QA, ou seja, 77194 Gg CO2e/ano;
 
@@ -311,7 +311,7 @@ TABELA N.º 1
 
 Produto interno bruto a preços de mercado (PIBpm) na óptica do produto a preços constantes - Dados históricos 2000-2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 TABELA N.º 2
 
@@ -319,7 +319,7 @@ PIBpm na óptica do produto a preços constantes
 
 Cenário 2005-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 TABELA N.º 3
 
@@ -327,13 +327,13 @@ PIBpm na óptica do produto a preços constantes
 
 Cenários 2010-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 TABELA N.º 4
 
 Cenários sectoriais (VAB, taxas médias de crescimento anual em percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 2.3 - Políticas e medidas em vigor
 
@@ -359,13 +359,13 @@ TABELA N.º 5
 
 Variáveis de monitorização das políticas e medidas do cenário de referência (MR) - PNAC 2004
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 TABELA N.º 6
 
 Políticas e medidas do cenário de referência - PNAC 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 3 - Compromisso relativo ao primeiro período de cumprimento do PQ
 
@@ -375,7 +375,7 @@ Cenário de referência
 
 O balanço nacional líquido de emissões de GEE inclui as emissões de origem antropogénica, bem como a componente emissão/remoção de CO2e resultante das actividades de florestação, reflorestação e desflorestação, nos termos do n.º 3 do artigo 3.º do PQ. As metodologias para estimativa das emissões de GEE para o período de projecção são as constantes do relatório anual do inventário nacional (IAb, 2006), ficando assegurada a consistência metodológica entre os valores históricos, reportados por Portugal, em particular o ano de 1990, e os valores de projecção. A descrição, em termos de variáveis de actividade, da metodologia de projecção e de cálculo de emissões, é apresentada nos respectivos anexos sectoriais. A figura n.º 2 mostra o andamento de algumas variáveis, como o PIBpm, o consumo de energia primária e de electricidade e as emissões de GEE, no período de 1990-2010, para o cenário de referência. Fixando a atenção no ano 2010, constata-se que um aumento de 46% do PIBpm, face ao ano base de 1990, tem associado um aumento do consumo de energia primária de 68% e de emissões de GEE de 47%, facto que ilustra a baixa eficiência energética do produto nacional. O consumo de electricidade é uma das principais causas desta evolução, na medida em que mais que duplica neste período.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 Na tabela n.º 7 apresenta-se o quadro de emissões de GEE no período de 1990-2020, para o cenário de referência, destacando-se o ano de 2010. A componente emissão/remoção de CO2e resultante das actividades de florestação, reflorestação e desflorestação, nos termos do n.º 3 do artigo 3.º do PQ, de contabilização obrigatória (apresentada adiante na tabela n.º 8), totaliza um sequestro de 3355 Gg CO2e em 2010, valor que conduz a uma estimativa do balanço nacional líquido de emissões de GEE, em 2010, de 84608 Gg CO2e. Este valor, quando comparado com a QA (77194 Gg CO2e/ano), configura uma distância ao objectivo de cumprimento de cerca de 7414 Gg CO2e/ano.
 
@@ -383,11 +383,11 @@ TABELA N.º 7
 
 Balanço nacional de emissões de gases com efeito de estufa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 A figura n.º 3 ilustra a evolução esperada dos vários sectores de actividade no período de 1990-2010. É de salientar a evolução dos chamados sectores difusos, como os transportes, com um crescimento de mais de 100%, e o sector residencial e de serviços, com 75%. A gestão de resíduos regista um decréscimo de 14%, devido às práticas de gestão de resíduos sólidos urbanos (Directivas Aterros e Reciclagem de Embalagens) e de gestão de águas residuais domésticas e industriais. O peso de cada sector no balanço nacional de emissões de GEE evoluiu de 1990 para 2010, tendo o sector da energia aumentado a sua contribuição de 67% para 75% do total nacional de emissões, enquanto o peso dos processos industriais permaneceu em 8%. A agricultura reduziu a sua contribuição no balanço nacional de 13% para 10%, tal como o sector dos resíduos, que passou de 12%, em 1990, para 7%, em 2010. A figura n.º 4 mostra a estrutura sectorial desagregada para o sector da energia, para o cenário de referência.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 3.2 - Medidas adicionais
 
@@ -399,13 +399,13 @@ TABELA N.º 8
 
 Balanço nacional líquido de emissões de GEE, considerando as medidas adicionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 TABELA N.º 9
 
 Políticas e medidas adicionais - PNAC 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 3.3 - Análise do compromisso de cumprimento
 
@@ -421,7 +421,7 @@ iii) O défice de emissões de GEE para cumprimento da QA é avaliado em 3727 Gg
 
 Este défice vai ser suprido, em proporções a definir, por dois tipos de medidas: maiores reduções às instalações abrangidas pelo CELE através do PNALE 2008-2012 e uso dos mecanismos de flexibilidade do PQ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16200/60426056.pdf)
 
 (nota 1) O GT PNAC inclui: Instituto do Ambiente, Instituto dos Resíduos, Direcção-Geral de Geologia e Energia, Direcção-Geral da Empresa, Direcção-Geral dos Recursos Florestais, Auditoria Ambiental do MDRAP, Auditoria Ambiental do MOPTC, Instituto de Meteorologia, Gabinete do Secretário de Estado da Administração Interna, Direcção-Geral de Viação, Instituto Nacional de Estatística, Direcção-Geral dos Assuntos Multilaterais, Direcção Regional do Ambiente da Região Autónoma da Madeira e dos Açores.
 

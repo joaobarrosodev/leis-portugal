@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/91/2013/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-2013-483919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94ff4e2a9285f39630d08a4c5db9cf8f914b218110cdb34b1cd88f8cf1428e42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c831bf162eb25ecb15699843d440c0ca2ad7d01020c510c2f0b1e0389f674cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Formação Profissional
-- Ministro da Economia
+- Apoio ao Investimento
+- Criação de Emprego
 - Criação de Serviços
 - Definição de Competências
 - Delegação de Competências
-- Política Industrial
-- Apoio ao Investimento
-- Criação de Emprego
+- Financiamento
+- Formação Profissional
 - Governo XIX
+- Ministro da Economia
 - Política de Emprego
+- Política Industrial
 relationships:
 - type: cites
   target: celex:32011L0007
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:35Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +113,7 @@ Considerando que ao Estado compete facilitar e potenciar a ação privada nestes
 
 Neste contexto, a indústria é entendida em sentido lato, integrando toda a cadeia de valor da produção industrial, desde o acesso a matérias-primas até o serviço pós-venda, incluindo, nesta medida, atividades económicas dos setores primário, secundário e terciário.
 
-Definem-se, no âmbito da referida estratégia, nove eixos de atuação - consolidação e revitalização do tecido empresarial; estabilização da procura interna; qualificação: educação e formação; financiamento; promoção do investimento; competitividade fiscal; internacionalização; inovação, empreendedorismo e I&D; e infraestruturas logísticas - e as principais medidas concretas a implementar em seu desenvolvimento.
+Definem-se, no âmbito da referida estratégia, nove eixos de atuação - consolidação e revitalização do tecido empresarial; estabilização da procura interna; qualificação: educação e formação; financiamento; promoção do investimento; competitividade fiscal; internacionalização; inovação, empreendedorismo e I&D e infraestruturas logísticas - e as principais medidas concretas a implementar em seu desenvolvimento.
 
 Tendo como horizonte temporal o período 2014-2020 e reconhecida a importância e a necessidade de garantir, a todo o tempo, a adequação e a atualização da Estratégia de Fomento Industrial para o Crescimento e o Emprego, deve esta ser objeto de revisões periódicas, à luz da evolução da conjuntura económica, dos resultados das medidas implementadas e dos contributos dos vários agentes da economia, tendo em vista um crescimento verdadeiramente sustentável para Portugal.
 
@@ -143,7 +143,7 @@ f) Competitividade fiscal;
 
 g) Internacionalização;
 
-h) Inovação, empreendedorismo e I&D;
+h) Inovação, empreendedorismo e I&D
 
 i) Infraestruturas logísticas.
 
@@ -277,13 +277,13 @@ Ao Estado compete facilitar e potenciar a ação privada nestes domínios, pelo 
 
 Eixos de Atuação da Estratégia de Fomento Industrial para o Crescimento e o Emprego 2014-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Estes eixos de atuação materializam-se num conjunto de medidas concretas, das quais se destacam as seguintes:
 
 Principais Medidas da Estratégia de Fomento Industrial para o Crescimento e o Emprego 2014-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Estas medidas visam completar a mudança no paradigma da política económica em Portugal e a estratégia da utilização dos fundos públicos, nacionais e comunitários, privilegiando-se a dinamização do tecido empresarial nacional. No curto-médio prazo é particularmente importante a estabilização da procura interna incluindo o consumo privado, assumindo maior relevância em termos estruturais o reforço da vocação exportadora das empresas.
 
@@ -293,7 +293,7 @@ A Estratégia de Fomento Industrial para o Crescimento e o Emprego 2014-2020 ser
 
 Macro calendário das principais medidas da Estratégia de Fomento Industrial para o Crescimento e o Emprego 2014-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Contexto de partida e enquadramento da Estratégia
 
@@ -315,7 +315,7 @@ Descida das taxas de crescimento da produtividade do trabalho [Fig.1];
 
 Figura 1 | Produtividade do trabalho - Taxa de crescimento anual | Percentagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: The Conference Board Total Economy Database.
 
@@ -323,7 +323,7 @@ Aumento significativo do desemprego [Fig.2];
 
 Figura 2 | Taxa de desemprego | Percentagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: 1979-1981: Série Longa do Banco de Portugal; 1982-1991: Pordata; 1992-1997: INE, Inquérito ao Emprego, série 1992; 1998-2010: INE, Inquérito ao Emprego, série 1998; 2011 e seguintes: INE, Inquérito ao Emprego, Série 2011.
 
@@ -331,7 +331,7 @@ Os custos unitários do trabalho estão a baixar desde 2009 [Fig.3];
 
 Figura 3 | Índice dos custos unitários do trabalho | 2005 = 100
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Eurostat.
 
@@ -339,7 +339,7 @@ A dívida externa líquida de Portugal ao exterior cresceu de 15,1% do PIB para 
 
 Figura 4 | Dívida Externa Líquida | Percentagem do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Gabinete de Estratégia e Estudos (GEE), com base nos dados do Banco de Portugal.
 
@@ -347,7 +347,7 @@ Sobre-endividamento das famílias, das empresas e do Estado. O endividamento das
 
 Figura 5| Evolução do endividamento público e privado | Percentagem do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Nota: Dados até junho para famílias e empresas não financeiras. Dados até setembro para Estado.
 
@@ -357,7 +357,7 @@ Um desequilíbrio crescente das contas externas, traduzido pelo agravamento do d
 
 Figura 6 | Evolução da balança corrente e de capitais | Percentagem do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: GEE; Banco de Portugal.
 
@@ -365,7 +365,7 @@ Uma balança comercial historicamente deficitária, mesmo em períodos de forte 
 
 Figura 7 | Saldo da balança comercial | Percentagem do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Banco de Portugal.
 
@@ -377,7 +377,7 @@ Nos últimos dois anos, o ajustamento da economia portuguesa conduziu a um progr
 
 Figura 8 | Balança corrente e de Capital | Percentagem do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 As reformas implementadas contribuíram decisivamente para os resultados obtidos a nível de défice externo, superando as estimativas iniciais do PAEF. Estes resultados foram fundamentais para a recuperação da credibilidade externa de Portugal e para a redução do perfil de risco de crédito da dívida soberana, abrindo o caminho para o acesso da economia nacional aos mercados internacionais e para o desagravamento do custo de financiamento da economia portuguesa (o «yield» da dívida a 10 anos baixou de 17,4% a 30 de janeiro de 2012 para 5,82% a 7 de novembro 2013).
 
@@ -385,7 +385,7 @@ A evolução muito positiva da balança comercial, através do aumento das expor
 
 Figura 9 | Evolução das exportações e das importações | Percentagem do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: INE e Banco de Portugal.
 
@@ -395,7 +395,7 @@ Com o ajustamento externo em bom curso, e uma vez atingido o objetivo de alcanç
 
 Figura 10 | Exportações por país de destino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: GEE.
 
@@ -409,13 +409,13 @@ A recuperação da procura interna e a estabilização e crescimento moderado do
 
 Figura 11 | Contributo da procura interna e componentes para a variação do PIB | pontos percentuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: INE, dados encadeados em volume (Base 2006); P - dados preliminares; Dados trimestrais corrigidos de efeitos sazonais.
 
 Figura 12 | Evolução do PIB, da procura interna e das suas componentes | Percentagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: INE.
 
@@ -427,13 +427,13 @@ Por último, o elevado e insustentável grau de endividamento das famílias port
 
 Figura 13 | Taxa de poupança dos particulares | em % do rendimento disponível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: INE.
 
 Figura 14 | Excedente das famílias - Capacidade líquida de financiamento dos particulares | em % do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Banco de Portugal, valores acumulados dos quatro últimos trimestres.
 
@@ -445,7 +445,7 @@ Indicador de confiança dos consumidores em níveis significativamente baixos, e
 
 Figura 15 | Indicador de Confiança dos Consumidores | VE/M3M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: INE, valores do último mês do trimestre.
 
@@ -453,7 +453,7 @@ Decréscimo significativo do crédito para consumo, quebra de 10,6% em termos ho
 
 Figura 16 | Crédito para consumo | variação homóloga (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Banco de Portugal.
 
@@ -461,7 +461,7 @@ Em suma, Portugal teve um ajustamento externo assinalável nos últimos dois ano
 
 Figura 17 | Cenário macroeconómico constante da proposta do OE 2014 de acordo com a negociação com a Troika
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Ministério das Finanças, 30 de outubro
 
@@ -477,7 +477,7 @@ Independentemente do nível de desenvolvimento industrial de cada País, o conte
 
 Figura 18 | Alteração de contexto mundial no setor industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: «Manufacturing the future: The next era of global growth and innovation», McKinsey & Company (2012).
 
@@ -487,7 +487,7 @@ A indústria é uma realidade heterogénea composta por inúmeras atividades eco
 
 Figura 19 | Fatores de identidade dos grupos industriais | Intensidade de fatores produtivos em cada indústria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: «Manufacturing the future: The next era of global growth and innovation», McKinsey & Company (2012).
 
@@ -517,7 +517,7 @@ Figura 20 | Variação da contribuição dos setores de atividade para o PIB
 
 Portugal (1997-2007), UE27 (1997-2009) | pp
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Relatório «EU industrial structure 2011 - Trends and Performance», Comissão Europeia.
 
@@ -555,7 +555,7 @@ O tecido industrial português caracteriza-se por uma maior concentração de in
 
 Figura 21 | Contribuição para o valor acrescentado bruto da Indústria, por grupo industrial | 2010. Percentagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: «Manufacturing the future: The next era of global growth and innovation», McKinsey & Company (2012); GEE.
 
@@ -563,7 +563,7 @@ A contribuição dos diferentes setores para a economia portuguesa é marcadamen
 
 Figura 22 | Contribuição dos setores industriais para a geração de riqueza e emprego | 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: GEE.
 
@@ -575,7 +575,7 @@ Esta concentração regional de grupos industriais resulta da especialização r
 
 Figura 23 | Nível de especialização regional por grupo industrial | Peso regional no grupo industrial, %, 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Instituto Nacional Estatística (INE).
 
@@ -587,7 +587,7 @@ A maior fragmentação do tecido empresarial português acarreta diversos desafi
 
 a) capacidade da comercialização nos mercados internacionais;
 
-b) capacidade de investimento em inovação e I&D;
+b) capacidade de investimento em inovação e I&D
 
 c) capacidade de atração de talento;
 
@@ -599,7 +599,7 @@ Como resultado destes fatores, as empresas de menores dimensões apresentam indi
 
 Figura 24| Empresas com 10 ou mais trabalhadores | Peso no total de empresas (exclui empresas sem trabalhadores). Percentagem 2009
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Eurostat.
 
@@ -607,7 +607,7 @@ Figura 25| Valor acrescentado bruto por dimensão de empresa industrial | VAB po
 
 Milhares de euros por trabalhador. 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: GEE, com base em dados do Eurostat.
 
@@ -647,7 +647,7 @@ Taxa de emprego (da população entre os 20 e os 64 anos) de 75% (15), face a 66
 
 Figura 26 | Objetivos Estratégia de Fomento Industrial para o Crescimento e o Emprego 2014-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: GEE; Instituto Nacional Estatística; Doing Business Ranking.
 
@@ -683,7 +683,7 @@ O impulso das bases de crescimento referenciadas permitirá a Portugal corrigir,
 
 Figura 27 | Eixos de atuação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Tendo como horizonte temporal 2014-2020, a Estratégia de Fomento Industrial para o Crescimento e o Emprego 2014-2020 será alvo de revisões periódicas, à luz da evolução da conjuntura económica, dos resultados das medidas implementadas e dos contributos dos vários agentes da economia, em particular dos parceiros sociais, tendo em vista um crescimento verdadeiramente sustentável para Portugal.
 
@@ -733,7 +733,7 @@ Para conseguirem assegurar os volumes de produção e afirmar-se ao nível inter
 
 Figura 28| Comparação de indicadores de consolidação empresarial entre Portugal e a União Europeia | Situação de partida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Nota: Média simples para Espanha, Itália, França, Irlanda e Alemanha.
 
@@ -781,7 +781,7 @@ Neste âmbito, a desenvolver em paralelo com as iniciativas de apoio ao financia
 
 Em suma, com as medidas incluídas no presente eixo, o Governo pretende:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Eixo 2 - Estabilização da procura interna
 
@@ -793,7 +793,7 @@ A contração da procura interna portuguesa, que se verifica desde o final de 20
 
 Figura 29 | Procura Interna | Percentagem do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Eurostat.
 
@@ -839,7 +839,7 @@ Medidas
 
 Em suma com as medidas incluídas neste eixo, o Governo pretende:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Eixo 3 - Qualificação: Educação e formação
 
@@ -849,7 +849,7 @@ Apesar dos progressos registados nas últimas décadas, Portugal continua a ter 
 
 Figura 30 | Comparação de indicadores de qualificação entre Portugal e a União Europeia | Situação de partida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Eurostat; Instituto do Emprego e da Formação Profissional; GEE.
 
@@ -897,7 +897,7 @@ Será dada preferência aos protocolos com empresas ou outras organizações dos
 
 Figura 31 | Ensino profissionalizante e dual - formandos | Milhares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Instituto do Emprego e Formação Profissional; Ministério de Educação e Ciência.
 
@@ -915,7 +915,7 @@ A oferta será revista pelos operadores em função das necessidades manifestada
 
 Em suma, com as medidas incluídas no presente eixo, o Governo pretende:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Eixo 4 - Financiamento
 
@@ -925,7 +925,7 @@ O sobre-endividamento público e privado da economia portuguesa e a grave crise 
 
 Figura 32 | Indicadores de financiamento | Situação de partida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Banco de Portugal.
 
@@ -935,7 +935,7 @@ Neste âmbito, também não se pode ignorar que, para o êxito a prazo de um Pa�
 
 Figura 33 | Fontes de financiamento | Ilustrativo e Indicativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Ministério das Finanças.
 
@@ -1027,7 +1027,7 @@ O Governo irá, assim, aumentar a percentagem dos apoios comunitários canalizad
 
 Figura 34 | Medidas de apoio às empresas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: ME
 
@@ -1129,7 +1129,7 @@ O desenvolvimento e implementação do processo de União Bancária Europeia é 
 
 Em suma, com as medidas incluídas no presente eixo, o Governo pretende:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Eixo 5 - Promoção do investimento
 
@@ -1139,7 +1139,7 @@ Na última década, observou-se uma forte contração do nível global de invest
 
 Figura 35 | Comparação entre investimento em Portugal e a média da União Europeia | Situação de partida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: GEE, com base em dados do Eurostat.
 
@@ -1325,7 +1325,7 @@ O Governo irá também promover a abertura dos processos de privatização/conce
 
 Em suma, com as medidas incluídas no presente eixo, o Governo pretende:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Eixo 6 - Competitividade fiscal
 
@@ -1339,7 +1339,7 @@ No panorama europeu, Portugal é uma das economias fiscalmente menos competitiva
 
 Figura 36 | Impostos sobre rendimento coletivo em países da UE-27 I fevereiro de 2013
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Nota: Valores arredondados.
 
@@ -1499,7 +1499,7 @@ No sentido de apoiar o esforço de conquista de novos mercados internacionais po
 
 Em suma com as medidas incluídas no presente eixo, o Governo pretende:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Eixo 7 - Internacionalização
 
@@ -1509,7 +1509,7 @@ Apesar de ter ocorrido uma recente evolução positiva das exportações naciona
 
 Figura 37 | Comparação do nível de exportações entre Portugal e a média da União Europeia | Situação de partida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Nota: Utilizados dados de anos anteriores para países que não tinham dados disponíveis de 2012.
 
@@ -1517,7 +1517,7 @@ Fonte: GEE, com base em dados do Eurostat.
 
 Figura 38 | Potencial de crescimento nos mercados externos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: International Trade Center; Economist Intelligence Unit.
 
@@ -1525,7 +1525,7 @@ De facto, o potencial de crescimento externo de Portugal está patente na possib
 
 Figura 39 | Perfil das exportações portuguesas | 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: International Trade Center; Countries of the World.
 
@@ -1599,7 +1599,7 @@ Serão constituídos observatórios que visam agilizar a concretização recípr
 
 Em suma, com as medidas incluídas no presente eixo, o Governo pretende:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Eixo 8 - Inovação, empreendedorismo e I&D
 
@@ -1611,7 +1611,7 @@ Portugal apresenta uma margem de progressão assinalável no direcionamento do s
 
 Figura 40 | Comparação de indicadores de inovação e empreendedorismo de Portugal e da média da União Europeia | Situação de partida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Innovation Union Scoreboard 2011; Eurostat; Global Entrepreneuship Monitor.
 
@@ -1731,7 +1731,7 @@ O investimento público em I&D deve ter por base a sustentabilidade do SCTN, sen
 
 Em suma, com as medidas incluídas no presente eixo, o Governo pretende:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Eixo 9 - Infraestruturas logísticas
 
@@ -1741,7 +1741,7 @@ Apesar dos investimentos realizados, ao longo das últimas décadas, nas várias
 
 Figura 41 | Comparação de indicadores de infraestrutura de Portugal e da média da União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: Instituto Nacional de Estatística; Eurostat.
 
@@ -1811,7 +1811,7 @@ Pretende-se assim que os esforços de investimento a realizar sejam concentrados
 
 Em suma com as medidas incluídas neste eixo, o Governo pretende:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Dinamização de estruturas de cooperação intra (e inter) setorial
 
@@ -1855,7 +1855,7 @@ Em consonância com esse trabalho, foram definidos e estruturados por parte da A
 
 Esta lista, não sendo «exclusiva», está aberta a outros clusters, cuja dinâmica própria e contributo para a economia nacional, justifiquem a sua inclusão neste âmbito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Na verdade, as estruturas de cooperação setorial eficientes, desempenham um papel fundamental no processo de inovação, estimulando o desenvolvimento da indústria e das entidades que figuram nas cadeias de valor subjacentes e consequente promoção do crescimento regional e nacional, assumindo-se como veículos privilegiados para:
 
@@ -1953,14 +1953,14 @@ Apesar de o turismo dispor da sua visão estratégica e políticas setoriais esp
 
 ## ANEXO I — Indicadores de monitorização da estratégia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 Fonte: GEE.
 
 ## ANEXO II — Medidas implementadas por eixo de atuação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
 
 ## ANEXO III — Medidas por eixo de atuação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf))](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/24800/0686806913.pdf)

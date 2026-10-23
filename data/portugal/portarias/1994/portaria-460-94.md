@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/460/1994/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/460-1994-289799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 800b94f2d8ee43e020adad278f405300ccf740457558a810a42b085c4d519304
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2481942c1a002be04ded200b4690c209e189a2301e312e46f91a60dbc74dbcc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:603909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345105:por
+  label: "Renovado, por um período de 12 anos a concessão da zona de caça atribuída pelo presente diploma, pela PORT.572/2006.16.06.2006.MADRP,\
+    \ DR.IS-B [115] de 16.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/572-2006-345105
+  date: '2006-06-16'
+- type: amended_by
+  target: pt:dre:603909:por
+  label: "Transferida para a RUSTICAÇA, Lda., a zona de caça turística da Herdade da Pedra Alta atribuída pelo presente diploma,\
+    \ renovada pela Port 572/2006, de 16-Jun, pela PORT.409/2009.14.04.2009.MADRP, DR.IS [72] de 14.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/409-2009-603909
+  date: '2009-04-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:13Z'
   warnings: []
   errors: []
 ---
@@ -126,8 +158,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Junho de 1994.**
+Assinada em 7 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/149b00/34613461.pdf))](https://files.diariodarepublica.pt/1s/1994/06/149b00/34613461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/149b00/34613461.pdf)

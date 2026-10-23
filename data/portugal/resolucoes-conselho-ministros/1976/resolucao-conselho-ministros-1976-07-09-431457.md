@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1976-431457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6af708e093f94ab3e33c7cb6b293b6ff6e5bcbdab15c0d32f2432634c8b6984c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f5cce37c3b8433e08de55506598a134b1f0ab2366b3661d57eb081ccd4bc514
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amortização
+- Caixa Geral de Depósitos Crédito e Previdência
+- Empréstimo
+- Financiamento
+- Instituto de Reorganização Agrária
+- Orçamento Geral do Estado
+relationships:
+- type: corrected_by
+  target: pt:dre:430377:por
+  label: Rectificada pela DECL.DD10021.18.08.1976.PCM, DR.IS [193] de 18.08.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430377
+  date: '1976-08-18'
+- type: corrected_by
+  target: pt:dre:408129:por
+  label: Rectificada pela DECL.DD7963.06.12.1976.PCM, DR.IS [284] de 06.12.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408129
+  date: '1976-12-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:28:58Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +157,7 @@ Previsão para Abril/Dezembro ... 390592
 
 5. Os Ministérios da Agricultura e Pescas e das Finanças procuraram encontrar uma solução para a situação, tendo em vista, sobretudo, os numerosos processos, já aprovados ou estudados e aguardando aprovação, cuja situação, referente a 4 de Março de 1976, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/15900/15051506.pdf))](https://files.diariodarepublica.pt/1s/1976/07/15900/15051506.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/15900/15051506.pdf)
 
 6. Tendo em atenção a situação descrita, propõe-se como solução intercalar, até à definição dos mecanismos orgânicos e institucionais a implantar de acordo com as soluções a propor pelo grupo de trabalho para o financiamento do sector primário, que sejam estabelecidos entre a Caixa Geral de Depósitos e o Instituto de Reorganização Agrária os acordos de operações de crédito nas seguintes condições:
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/77/2005/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2005-578553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf30f247dc695766d987243acef31adf46910579a8c99ee6a62d3bc19f8bb93b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0db5694039a1915b831801a2d6ca2c2439bd60c55ef9e4d832799467b98d9dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Ordenamento do Território
 - Fiscalização
+- Ordenamento do Território
 - Parque Natural da Serra de São Mamede
-- Zona de Proteção
 - Regulamento
+- Turismo
+- Zona de Proteção
 relationships:
+- type: amended_by
+  target: pt:dre:1533958:por
+  label: "Determinada a revisão do Plano de Ordenamento do Parque Nacional da Serra de São Mamede, aprovado pelo presente\
+    \ diploma, pelo DESP.22008/2009.02.10.2009.SEAM-MAOTDR, DR.IIS [192] de 02.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/22008-2009-1533958
+  date: '2009-10-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
@@ -92,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/37/1998/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/37/1998/03/09/p/dre
+- type: cites
+  target: pt:dre:219344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615244:por
+  label: null
+  source: null
 article_structure:
   article_count: 48
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:10Z'
   warnings: []
   errors: []
 ---
@@ -416,7 +446,7 @@ c) Em situações de risco ou calamidade.
 
 ##### SUBSECÇÃO II — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo I
 
@@ -504,7 +534,7 @@ q) Realização de batidas às raposas e de montarias;
 
 r) Realização de acções de correcção de densidades populacionais.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo II
 
@@ -604,7 +634,7 @@ z) Instalação ou alteração de estabelecimentos industriais isolados dos tipo
 
 ##### SUBSECÇÃO III — Áreas de protecção complementar
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção complementar do tipo I
 
@@ -698,7 +728,7 @@ gg) Realização de acções de correcção de densidades populacionais.
 
 3 - No processo de apreciação das actividades a que se refere o número anterior aplica-se a legislação específica em vigor, sendo os respectivos projectos analisados sob o ponto de vista da salvaguarda dos valores associados aos ecossistemas em presença.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção complementar do tipo II
 
@@ -1282,14 +1312,14 @@ O POPNSSM entra em vigor no dia seguinte ao da sua publicação no Diário da Re
 
 ## ANEXO I — Parque Natural da Serra de São Mamede - Matriz de actividades, interditas ou admitidas/condicionadas, de acordo com o nível de protecção
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)
 
 ## ANEXO II — Áreas de intervenção específica para a conservação da natureza e da biodiversidade - Dezembro de 2004
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)
 
 ## ANEXO III — Áreas de intervenção para a valorização cultural e patrimonial - Dezembro de 2004
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)
 
 [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2005/03/056b00/24492470.pdf)

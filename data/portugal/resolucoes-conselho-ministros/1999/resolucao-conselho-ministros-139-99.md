@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/139/1999/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/139-1999-693860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f7a4575e24f8500e96235f754e0cf370e83b8a3220358be8778ebd18a5cc8e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7c395ee8869d42b4aef1a5238f01cd0a0bc02aee8dd05c5f0caae1620644e9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Albufeiras
 - Barragem do Castelo de BODE
-- Ordenamento do Território
 - Definição de Competências
 - Direcção Regional do Ambiente de Lisboa e VALE do TEJO
-- Albufeiras
 - EPAL
 - Medidas Preventivas
+- Ordenamento do Território
 - Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:583004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613431:por
+  label: "Alterado o nº 2 pela RES.152/2000.2000.10.19.PCM, DR.IS-B [261] de 11/Nov/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/152-2000-613431
+  date: '2000-10-19'
+- type: amended_by
+  target: pt:dre:608574:por
+  label: "Prorrogado por mais um ano do prazo de vigência previsto no nº 2, na redacção da Res 152/2000, de 11-Nov pela RES.160/2001.2001.10.31.PCM,\
+    \ DR.IS-B [262] de 12/Nov/2001 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/160-2001-608574
+  date: '2001-10-31'
+- type: amended_by
+  target: pt:dre:583004:por
+  label: "Alterado o nº 1 pela RES.7/2002.2001.12.19.PCM DR.IS-B [9] de 11/Jan/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/7-2002-583004
+  date: '2001-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:16Z'
   warnings: []
   errors: []
 ---

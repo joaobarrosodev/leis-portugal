@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/58/2005/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2005-588836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c8997ae4e5936abfbf8dcbdfcd5e7c48c2bad141e0af82a802577441d118fa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 947e85cfcd40e88b99bfa1200a04a1898e265b6273dc1505d368a523208cb3e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
 - Comando Operacional das Forças Armadas
-- Ministério da Agricultura Pescas e Florestas
-- Proteção da Floresta
+- Exploração Florestal
 - Fiscalização
 - GNR
-- Exploração Florestal
-- Sector Florestal
+- Incêndio
+- Ministério da Agricultura Pescas e Florestas
 - Ministro da Administração Interna
+- Prevenção de Incêndios
+- Proteção da Floresta
+- Sector Florestal
 relationships:
 - type: amended_by
   target: pt:dre:380961:por
@@ -88,16 +88,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2004/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2004/03/02/p/dre
+- type: cites
+  target: pt:dre:517473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551857:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380961:por
+  label: "Revogado o nº 2 e extintas a célula de apoio à decisão e a célula de oficiais de ligação pela RES.88-A/2005.28.04.2005.PCM,\
+    \ DR.IS-B [91-Supl] de 11.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/88-a-2005-380961
+  date: '2005-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:00Z'
   warnings: []
   errors: []
 ---

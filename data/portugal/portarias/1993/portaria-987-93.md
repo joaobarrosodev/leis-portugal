@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/987/1993/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/987-1993-644973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e971f71ddd89481880587a94df14788ccfd6dc2bf03b7f0e50d2f6ae57b318ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0bea11a28da94d674f81f97ef35297df5ca13f2376532b51dfcfc832df8cfbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:14:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CEE
+- Condições de Higiene e Segurança no Trabalho
 - Higiene do Trabalho
 - Segurança no Trabalho
-- Condições de Higiene e Segurança no Trabalho
 relationships:
 - type: cites
   target: celex:31989L0654
@@ -77,13 +77,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:14:48Z'
   warnings: []
   errors: []
 ---
@@ -324,6 +324,6 @@ b) Os n.os 4.º, 16.º, 19.º, 20.º e 21.º aplicam-se com as seguintes altera�
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 10 de Setembro de 1993.**
+Assinada em 10 de Setembro de 1993.
 
-**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

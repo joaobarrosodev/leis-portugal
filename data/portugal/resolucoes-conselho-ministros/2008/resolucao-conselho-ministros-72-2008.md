@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/72/2008/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-2008-249512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4ba25cc27db9e872f342490b6b109886a7da516ee27f9c940b475fd689c25e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b01c764aa88163a119e1ec1fdc12f240456007f22cfa8ab9f0b5a42d422ef14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Ajuda Comunitária
-- Financiamento
 - Comissão Directiva
 - Definição de Competências
 - Equipa de Missão
 - FEDER
+- Financiamento
+- FSE
 - Gestor
 - Instituto Financeiro para o Desenvolvimento Regional
-- FSE
 - Nomeação
 - Programa Operacional
+- QREN
 - Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:503034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:174869:por
+  label: "Dada nova redação aos anexos I a X da Res 25/2008 de 13-fev, alterada pelo presente diploma, pela RES.76/2012.06.09.2012.PCM,\
+    \ DR.IS [173] de 06.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/76-2012-174869
+  date: '2012-09-06'
+- type: amended_by
+  target: pt:dre:503034:por
+  label: "Extinta a estrutura de missão do Observatório do Quadro de Referência Estratégico Nacional, sucedendo-lhe a Agência\
+    \ para o Desenvolvimento e Coesão, I.P. integrada na Presidência do Conselho de Ministros, cuja orgânica consta do Dec\
+    \ Lei 126-A/2011, de 29-dez, e revogada a Res. 24/2008, de 13-fev, na redação do presente diploma, pelo DEC LEI.140/2013.18.10.2013.PCM,\
+    \ DR.IS [202] de 18.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2013-503034
+  date: '2013-10-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/312/2007/09/17/p/dre
   label: null
@@ -105,16 +119,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25/2008/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/2008/02/13/p/dre
+- type: cites
+  target: pt:dre:209598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640354:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:03Z'
   warnings: []
   errors: []
 ---

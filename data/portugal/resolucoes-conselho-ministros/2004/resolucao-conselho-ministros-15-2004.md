@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/051b00/10901093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/15/2004/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2004-545848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af24bc804752c4d5470fc40653afc26309847a76b3f580c2759ffecf8591d270
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4456cc81365ec8cb13fca4b02f836de07383fc2efc8959d660d88095488a1999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Gandra
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
 - Regulamento
 - Valença
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:452711:por
+  label: "Ratificada a suspensão parcial, na área delimitada na planta anexa e pelo prazo de dois anos, do Plano Director\
+    \ Minicipal de Valença, ratificado pela Res 78/94, de 07-Set, da PCM, com as alterações ao seu Regulamento pela Res 35/98,\
+    \ de 06-Mar, da PCM e pelo presente diploma e as alterações ao Plano pela Res 45/2004, de 05-Abr, da PCM, e publicadas\
+    \ as medidas preventivas para a mesma área e pelo mesmo período, pela RES.150/2008.14.10.2008.PCM, DR.IS [199] de 14.10.2008\0\
+    08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/150-2008-452711
+  date: '2008-10-14'
+- type: amended_by
+  target: pt:dre:3620853:por
+  label: Tornada pública a revisão do Plano Diretor Municipal de Valença (PDMV), ratificado pela Res 78/94 de 07-set da PCM,
+    com as alterações ratificadas pelo presente diploma, pelo(a) Aviso (extracto) n.º 12235/2010 - Diário da República n.º
+    117/2010, Série II de 2010-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extracto/12235-2010-3620853
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:66702081:por
+  label: Tornada pública a revogação, a partir de 11.03.2015, do Plano de Pormenor da Zona Industrial e de Armazenagem de
+    Gandra, nos termos do disposto no art. 64.º do Regulamento do PUAEV publicitado pelo(a) Aviso (extrato) n.º 2614/2015
+    - Diário da República n.º 48/2015, Série II de 2015-03-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/2614-2015-66702081
+  date: '2015-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
@@ -97,16 +120,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683047:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:26Z'
   warnings: []
   errors: []
 ---

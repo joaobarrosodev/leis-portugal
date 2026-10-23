@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1019/1994/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1019-1994-546255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T12:15:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fb1a16cf1a08a9e1d04e3795168c02023c07a5b356a14cf46193a2ffcd7a43d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 386af532021c69b6fe902680c8dcba375e3f4f9be0665968f633d596abb533b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:15:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Descrição de Funções
+- Hospital Geral de Santo António
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
-- Hospital Geral de Santo António
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546272:por
+  label: "Alterado o quadro de pessoal, no que se refere às carreiras médica hospitalar e dos técnicos de diagnóstico e terapêutica,\
+    \ pela PORT.1082/95.04.09.1995.MF, DR.IS-B [204] de 04.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1082-1995-546272
+  date: '1995-09-04'
+- type: amended_by
+  target: pt:dre:239456:por
+  label: "Alterado o quadro de pessoal pela PORT.32/98.1998.01.19.PCM, MF E MS DR.IS-B [15]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-1998-239456
+  date: '1998-01-19'
+- type: amended_by
+  target: pt:dre:437450:por
+  label: "Alterado o quadro de pessoal pela PORT.526/98.1998.08.17.PCM DR.IS-B [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-1998-437450
+  date: '1998-08-17'
+- type: amended_by
+  target: pt:dre:216316:por
+  label: "Alterado o quadro de pessoal pela PORT.982/98.1998.11.24.PCM DR.IS-B [272] DE 24/NOV/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/982-1998-216316
+  date: '1998-11-24'
+- type: amended_by
+  target: pt:dre:662116:por
+  label: "Alterado o quadro de pessoal pela PORT.906/99.1999.10.13.PCM,DR.IS-B [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-1999-662116
+  date: '1999-10-13'
+- type: amended_by
+  target: pt:dre:432183:por
+  label: "Alterado o quadro de pessoal do Hospital Geral de Santo António aprovado pelo presente diploma pela PORT.1374/2002.2002.10.22.MF,DR.IS-B\
+    \ [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-2002-432183
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1067/1992/11/18/p/dre
   label: null
@@ -94,16 +126,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/1991/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/1991/01/17/p/dre
+- type: cites
+  target: pt:dre:172149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656413:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:15:35Z'
   warnings: []
   errors: []
 ---
@@ -130,13 +226,13 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 12 de Outubro de 1994.**
+Assinada em 12 de Outubro de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 Quadro de pessoal do Hospital Geral de Santo António
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/270b00/69246931.pdf))](https://files.diariodarepublica.pt/1s/1994/11/270b00/69246931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/270b00/69246931.pdf)
 
 ## ANEXO I
 
@@ -146,47 +242,47 @@ Direccão de Serviços Farmacêuticos;
 
 Direcção de Serviços de Instalações e Equipamento:
 
-##### Divisão de Equipamento;
+Divisão de Equipamento;
 
-##### Divisão de Instalações e Redes Básicas.
+Divisão de Instalações e Redes Básicas.
 
 Unidades orgânicas de natureza administrativa:
 
 Repartição de Pessoal:
 
-#### Secção de Processos e Abonos;
+Secção de Processos e Abonos;
 
-#### Secção de Quadros e Carreiras;
+Secção de Quadros e Carreiras;
 
 Repartição dos Serviços Financeiros:
 
-#### Secção de Contabilidade Geral e Tesouraria;
+Secção de Contabilidade Geral e Tesouraria;
 
-#### Secção de Facturação, Contencioso e Custos;
+Secção de Facturação, Contencioso e Custos;
 
 Repartição de Aprovisionamento:
 
-#### Secção de Aquisição e Inventário;
+Secção de Aquisição e Inventário;
 
-#### Secção de Armazéns e Gestão de Stocks;
+Secção de Armazéns e Gestão de Stocks;
 
 Repartição de Admissão de Doentes e de Arquivo Clínico:
 
-#### Secção de Admissão da Consulta Externa e da Urgência;
+Secção de Admissão da Consulta Externa e da Urgência;
 
-#### Secção de Arquivo Clínico e de Expediente;
+Secção de Arquivo Clínico e de Expediente;
 
 Repartição de Internamento e dos Meios Complementares:
 
-#### Secção de Internamento;
+Secção de Internamento;
 
-#### Secção dos Meios Complementares de Diagnóstico e Tratamento;
+Secção dos Meios Complementares de Diagnóstico e Tratamento;
 
 Repartição de Apoio Administrativo:
 
-#### Secção de Secretaria-Geral;
+Secção de Secretaria-Geral;
 
-#### Secção de Estatística Hospitalar.
+Secção de Estatística Hospitalar.
 
 ## ANEXO II
 

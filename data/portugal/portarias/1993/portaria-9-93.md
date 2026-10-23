@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/9/1993/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-1993-283952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:12:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94368ae599eb19824f5876d619857887bbe4bcefc5ff5c05719ef32b99639efd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cc104bba3abf036eed390d19ffd2e752c3f3916746e0ddb37c292de0e393496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:12:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pessoal Dirigente
 - Ministério do MAR
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Gabinete
+- Pessoal Dirigente
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
 relationships:
@@ -78,16 +78,21 @@ relationships:
   target: pt:dre:367810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:367810:por
+  label: "ALTERADO O NUMERO 1 PELA PORT 9/95, DE 05-JAN, DR.IS-B [4].\0[4]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-1995-367810
+  date: '1995-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:12:43Z'
   warnings: []
   errors: []
 ---
@@ -120,18 +125,18 @@ Modelo 2 - para o restante pessoal dos organismos e serviços sob tutela do Mini
 
 Ministério do Mar.
 
-**Assinada em 30 de Novembro de 1992.**
+Assinada em 30 de Novembro de 1992.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
 ## ANEXO I — Modelo de cartão de identidade
 
 Pessoal dos gabinetes e pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/003b00/00210022.pdf))](https://files.diariodarepublica.pt/1s/1993/01/003b00/00210022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/003b00/00210022.pdf)
 
 ## ANEXO II — Modelo de cartão de identidade
 
 Restante pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/01/003b00/00210022.pdf))](https://files.diariodarepublica.pt/1s/1993/01/003b00/00210022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/003b00/00210022.pdf)

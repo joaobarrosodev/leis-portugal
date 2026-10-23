@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/181/2008/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/181-2008-439871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c39c84bad0ffe9449c4a71cdd7d8d2298caaaf6fec2669e600da875ab7655d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ea19a43acab2394750e92930b45165ab4cfe71fd9984c48924fb23e3f7e6055
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Castro Marim
-- Ordenamento do Território
 - Contra-ordenação
 - Fiscalização
-- Proteção do Ambiente
-- Zona de Proteção
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
 - Reserva Natural do Sapal de Castro Marim
 - Vila Real de Santo António
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -86,14 +86,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1992/43/oj
 article_structure:
   article_count: 56
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:17Z'
   warnings: []
   errors: []
 ---
@@ -546,7 +546,7 @@ d) Visitantes para realização de actividades de índole científica e em outro
 
 ##### SUBSECÇÃO II — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo i
 
@@ -578,7 +578,7 @@ e) A exploração de recursos hidrogeológicos, incluindo a abertura de novos po
 
 4 - Para além do disposto no artigo 9.º do presente Regulamento, nas áreas de protecção parcial do tipo i encontra-se ainda sujeito a autorização do ICNB, I. P., o corte ou remoção de qualquer tipo de vegetação arbustiva ou arbórea, excepto em situações de emergência para assegurar a segurança de pessoas.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo ii
 
@@ -602,7 +602,7 @@ e) A exploração de recursos hidrogeológicos, incluindo a abertura de novos po
 
 ##### SUBSECÇÃO III — Áreas de protecção complementar
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção complementar do tipo i
 
@@ -622,7 +622,7 @@ e) A exploração de recursos hidrogeológicos, incluindo a abertura de novos po
 
 3 - Nas áreas de protecção complementar do tipo i são igualmente permitidas obras de ampliação, conservação e alteração das construções existentes nos termos definidos no artigo 47.º do presente Regulamento.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção complementar do tipo ii
 
@@ -1180,4 +1180,4 @@ Nos termos do n.º 6 do artigo 23.º do Decreto-Lei n.º 142/2008, de 24 de Julh
 
 O PORNSCMVRSA entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22800/0841208428.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22800/0841208428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22800/0841208428.pdf)

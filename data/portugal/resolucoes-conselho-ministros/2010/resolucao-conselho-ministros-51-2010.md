@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/51/2010/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-2010-334136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 374bc95f8de8abc3dc83ef5750dbc9c0ad9ff372d78f61990897e20e902482e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cabbb426c2bc0dfaf297d6dce7345836faf37a47de4fc95837f3e08210411eba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- Contrato de Investimento
 - Apoio ao Investimento
-- Incentivos Fiscais
 - Benefícios Fiscais
+- Contrato de Investimento
 - IAPMEI
+- Incentivos Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:108231480:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70241305:por
+  label: Determinada, com produção de efeitos a 03.09.2015, a resolução dos contratos de investimento e respetivos anexos,
+    celebrados entre o Estado Português, representado pela AICEP, E.P.E., a SABERSAL - Promoção Turística e Imobiliária, S.A.
+    e a SOLAGO - Investimentos Turísticos, Lda., constantes, respetivamente das als. l) e m) da presente Resolução, pelo(a)
+    Resolução do Conselho de Ministros n.º 76/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/76-2015-70241305
+  date: '2015-09-10'
+- type: amended_by
+  target: pt:dre:108231480:por
+  label: Determinada a resolução do contrato fiscal de investimento celebrado em 30.12.2010, entre o Estado Português, representado
+    pelo IAPMEI e a Motomig Soldadura, Lda, constante da al. i) do n.º 2 da presente resolução, pelo(a) Resolução do Conselho
+    de Ministros n.º 145/2017 - Diário da República n.º 189/2017, Série I de 2017-09-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/145-2017-108231480
+  date: '2017-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/249/2009/09/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/249/2009/09/23/p/dre
+- type: cites
+  target: pt:dre:490420:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:54Z'
   warnings: []
   errors: []
 ---

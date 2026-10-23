@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/169/2007/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/169-2007-629128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c89eceb0205b334df23d2125324133da127f08203fb44398264ab702656c873
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6781234b31578c39088cf873739cef332b4cdcacfd0525082996063cd7af08ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,65 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- QREN
 - Comissão Coordenadora
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
 - Comissão de Coordenação e Desenvolvimento Regional do Algarve
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Comissão Directiva
 - Definição de Competências
 - Equipa de Missão
+- Estatuto Remuneratório
+- Intervenção Operacional Regional de Lisboa e VALE do TEJO
 - Intervenção Operacional Regional do Alentejo
+- Intervenção Operacional Regional do Algarve
 - Intervenção Operacional Regional do Centro
-- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Intervenção Operacional Regional do Norte
 - Nomeação
 - Presidente
 - Programa Operacional
-- Intervenção Operacional Regional de Lisboa e VALE do TEJO
-- Intervenção Operacional Regional do Algarve
-- Intervenção Operacional Regional do Norte
+- QREN
 - Regime de Exclusividade
-- Estatuto Remuneratório
 - Vogal
 relationships:
 - type: amended_by
   target: pt:dre:2443372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1369560:por
+  label: "Exonerado Alberto Alves Santos pela RES.5/2008.12.02.2008.PCM, DR.IIS [30] de 12.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/5-2008-1369560
+  date: '2008-02-12'
+- type: amended_by
+  target: pt:dre:1928888:por
+  label: "Exonerado Silvino Manuel Gomes Sequeira pela RES.21/2008.03.07.2008.PCM, DR.IIS [127] de 03.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/21-2008-1928888
+  date: '2008-07-03'
+- type: amended_by
+  target: pt:dre:3188722:por
+  label: "Exonerada a Dr.ª Teresa Cristina Costa Leite de Azevedo, pelo DESP.18520/2009.11.08.2009.MAOTDR, DR.IIS [154] de\
+    \ 11.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/18520-2009-3188722
+  date: '2009-08-11'
+- type: amended_by
+  target: pt:dre:2443372:por
+  label: "Exonerado João Vasco Ribeiro pela RES.5/2010.04.03.2010.PCM, DR.IIS [44] de 04.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/5-2010-2443372
+  date: '2010-03-04'
+- type: amended_by
+  target: pt:dre:552555:por
+  label: "Alterados, a partir de 17.04.2012, os nºs. 2, 4, 6, 8, 10 e 15, aditados os nºs. 25 e 26 e revogados os nºs. 12,\
+    \ 20 e 21 do presente diploma, pela RES.41/2012.12.04.2012.PCM, DR.IS [73] de 12.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/41-2012-552555
+  date: '2012-04-12'
+- type: amended_by
+  target: pt:dre:963075:por
+  label: "Exonerado Mário Rui Sousa Moreira da Silva, pelo AV.7652/2012.01.06.2012.CCDRN-MAMAOT, DR.IIS [107] de 01.06.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7652-2012-963075
+  date: '2012-06-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -121,16 +154,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25/2006/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/2006/03/10/p/dre
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667084:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:627836:por
+  label: "Rectificada pela DECL-RECT.113/2007.18.12.2007.PCM, DR.IS [243] de 18.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/113-2007-627836
+  date: '2007-12-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:48Z'
   warnings: []
   errors: []
 ---

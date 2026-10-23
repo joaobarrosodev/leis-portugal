@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1068/1995/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1068-1995-548004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43d8003165f890b1bd5c9d42b5d7b3cf91d6e84b446e9643ebcb1dba53d661a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3319b9c64ddc633cca9aac32a44bb04dcd6ab6dd095cdd20546112fb5b8b19e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
 - CEE
-- Leite
 - Controlo Sanitário
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Exploração Pecuária
 - Higiene Alimentar
 - Importação
 - Inspecção dos Alimentos
 - Lacticínios
-- Embalagem
+- Leite
 - Política Agrícola Comum
 - Produção Leiteira
+- Produto Alimentar
 - Proteção do Consumidor
 - Queijo
 - Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609373:por
+  label: "Alterados a subal. i) da al. b) do nº 1 do capítulo I do anexo A e os nºs 1 e 2 do capítulo II, parte A, do anexo\
+    \ C do regulamento aprovado pela Port 533/93, de 21-maio, na redação do presente diploma, pela PORT.56/96.22.02.1996.MECO,\
+    \ DR.IS-B [45] de 22.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-1996-609373
+  date: '1996-02-22'
 - type: cites
   target: celex:31991L0068
   label: null
@@ -106,16 +113,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533/1993/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533/1993/05/21/p/dre
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogada a Port 533/93, de 21-Mai, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 0
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:03Z'
   warnings: []
   errors: []
 ---
@@ -210,11 +223,11 @@ C - O leite cru de cabra, de ovelha e de búfala deve satisfazer as seguintes no
 
 1 - Caso se destine à elaboração de leite de consumo tratado termicamente ou ao fabrico de produtos à base de leite tratado pelo calor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf))](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf)
 
 2 - Caso se destine à elaboração de produtos à base de leite cru segundo um processo que não inclua qualquer tratamento pelo calor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf))](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf)
 
 D - ...
 
@@ -344,7 +357,9 @@ h) ...
 
 5 - ...
 
-## ANEXO C — CAPÍTULO I
+## ANEXO C
+
+### CAPÍTULO I
 
 [...]
 
@@ -426,7 +441,7 @@ A - ...
 
 1 - Critérios obrigatórios - germes patogénicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf))](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf)
 
 Além disso, os microrganismos patogénicos e as respectivas toxinas não devem estar presentes em quantidades susceptíveis de afectarem a saúde dos consumidores.
 
@@ -436,7 +451,7 @@ Os programadas de amostragem serão estabelecidos em função da natureza dos pr
 
 2 - Critérios analíticos - germes testemunhas de falta de higiene:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf))](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/200b00/54525458.pdf)
 
 Caso estas normas sejam ultrapassadas, deve ser efectuada uma revisão dos métodos de controlo dos pontos críticos aplicados no estabelecimento de transformação. A autoridade competente deve ser informada dos processos de rectificação introduzidos no sistema de controlo da produção.
 
@@ -540,6 +555,6 @@ B - ...
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 11 de Agosto de 1995.**
+Assinada em 11 de Agosto de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado do Comércio.

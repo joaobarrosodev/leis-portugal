@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 252/1994, 3º Suplemento, Série I-B de 1994-10-31
   number: '252'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6554-(16) a 6554-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/975-b/1994/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-b-1994-533218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c81cb2a54ff7d153be3b2caa254648cb736c5f0d08d0ecd3531cfde8f458f80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 121f9b92d1adec197a015cebea92652a9d2fa18141d8b0ba34df60a35e7c88f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Coeficiente de Actualização
 - Renda Apoiada
 - Renda Condicionada
 - Renda Livre
-- Arrendamento Urbano para Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/975-a/1994/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/975-a/1994/10/31/p/dre
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:50Z'
   warnings: []
   errors: []
 ---
@@ -105,24 +125,24 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 31 de Outubro de 1994.**
+Assinada em 31 de Outubro de 1994.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 TABELA I
 
 Tabela a que se refere o artigo 11.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro, actualizada, nos termos do n.º 1 do artigo 12.º, pela aplicação do coeficiente de 1,045 fixado na [Portaria n.º 975-A/94](https://diariodarepublica.pt/dr/detalhe/portaria/975-a-1994-533217), de 31 de Outubro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf)
 
 TABELA II
 
 Factores acumulados resultantes da correcção extraordinária nos 10 primeiros anos (1986 a 1995)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf)
 
 TABELA III
 
 Factores de correcção extraordinária a aplicar a partir de Janeiro de 1995, nos termos do n.º 4 do artigo 12.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), de 20 de Setembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf))](https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/252b03/00160017.pdf)

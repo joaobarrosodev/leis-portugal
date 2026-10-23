@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/18/1995/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18-1995-366812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:56:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50950497b4c51e452782de56e657de03bb1d57b82362584dc12c8daf1645c0ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6483a7c8100c1d0e56a05da53716d02aba0db3157a938840db21e337fe919c08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Curso de Estudos Superiores Especializados em Administração e Gestão Escolar
 - Ensino Cooperativo
+- Ensino Superior
 - Escola Superior de Educação de Almeida Garrett
 - Lisboa
 - Numerus Clausus
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/193/1993/02/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/193/1993/02/17/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655952:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:56:23Z'
   warnings: []
   errors: []
 ---
@@ -113,6 +125,6 @@ Manda o Governo, pela Ministra da Educação, que para o ano lectivo de 1994-199
 
 Ministério da Educação.
 
-**Assinada em 6 de Dezembro de 1994.**
+Assinada em 6 de Dezembro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.

@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-1986-226863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22753c5d06d76085c29404f91a0819a73c0f73459367d9a9f39ac382645429ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5a4a4b62a10caf8558eafc0bd670a865479dbdbb0132f960813f17bbeb3cf9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Desenvolvimento Regional
+- FEDER
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "E DECLARADA, INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA GERAL, DAS NORMAS DOS ARTIGOS 2, 3, 4, 5, 6, 7 E 21, NUMEROS\
+    \ 22, 23, 3, E 4, PUBLICADO EM ANEXO (DR.IS 147, DE 860630) PELO ACÓRDÃO DO TRIBUNAL CONSTITUCIONAL NUMERO 184/89, PUBLICADO\
+    \ NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 57, DE 890306.\057, DE 890306.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: corrected_by
+  target: pt:dre:518837:por
+  label: Rectificada pela DECL.DD4717.18.06.1986.PCM, DR.IS [147]2ºSupl de 30.06.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-518837
+  date: '1986-06-18'
 article_structure:
   article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:31:06Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +112,19 @@ Nestes termos, o Conselho de Ministros, reunido em 24 de Abril de 1986, resolveu
 
 Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere a Resolução do Conselho de Ministros n.º 44/86
+Anexo a que se refere a Resolução do Conselho de Ministros n.º 44/86
 
 Regulamento da Aplicação ao Território Nacional do Fundo Europeu de Desenvolvimento Regional (FEDER).
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Objecto)
 
 Pela presente regulamentação estabelecem-se as regras e os procedimentos a adoptar pelos diferentes níveis da Administração para a plena execução, em Portugal do Regulamento do FEDER (Regulamento do Conselho n.º [1787/84](https://data.europa.eu/eli/reg/1984/1787/oj?locale=pt), de 19 de Junho de 1984, relativo ao Fundo Europeu de Desenvolvimento Regional), publicado na edição especial do Jornal Oficial das Comunidades Europeias, 1985, e das demais normas comunitárias com o mesmo relacionadas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Orientações e normas aplicáveis)
 
@@ -130,13 +144,13 @@ f) As demais disposições legais aplicáveis.
 
 2 - Para efeitos da aplicação do Regulamento do FEDER, todo o território do continente e das Regiões Autónomas dos Açores e da Madeira é considerado como zona de auxílio elegível.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Repartição dos recursos)
 
 1 - Os recursos do FEDER serão repartidos, no que respeita a créditos de autorização, de acordo com os intervalos de variação entre os limites inferiores e superiores seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf))](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf)
 
 2 - O montante das candidaturas a apresentar anualmente por cada uma das entidades referidas no número anterior deverá enquadrar-se na repartição no mesmo indicada.
 
@@ -146,7 +160,7 @@ f) As demais disposições legais aplicáveis.
 
 5 - Caso se verifique a insuficiência de candidaturas por parte das entidades referidas no n.º 1 deste artigo, serão reajustados os limites aí mencionados.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Prioridades de política regional)
 
@@ -156,7 +170,7 @@ a) Os sectores prioritários de investimento público e as orientações de dist
 
 b) As prioridades inter-regionais e as prioridades intra-regionais para programas e para projectos de investimento em infra-estruturas públicas de iniciativa dos municípios do continente.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Sectores prioritários de investimento público)
 
@@ -164,13 +178,13 @@ b) As prioridades inter-regionais e as prioridades intra-regionais para programa
 
 2 - Nas Regiões Autónomas dos Açores e da Madeira compete aos respectivos Governos Regionais estabelecer os sectores prioritários de investimento público para efeitos de apresentação de candidaturas ao FEDER.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Prioridades inter-regionais)
 
 As prioridades inter-regionais para programas e projectos de investimento em infra-estruturas públicas de iniciativa de municípios do continente são estabelecidas com base na posição relativa dos municípios da área de actuação de cada comissão de coordenação regional, adiante designadas por CCR, na distribuição do Fundo de Equilíbrio Financeiro (FEF), anualmente fixada no Orçamento do Estado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Prioridades intra-regionais)
 
@@ -184,7 +198,7 @@ b) Os critérios de distribuição dos recursos dentro da área de actuação de
 
 ### CAPÍTULO II — Programas
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Programas comunitários)
 
@@ -192,7 +206,7 @@ b) Os critérios de distribuição dos recursos dentro da área de actuação de
 
 2 - As formas de contribuição e de intervenção da Administração em cada programa comunitário serão definidas por resolução do Conselho de Ministros, de acordo com as orientações comunitárias aplicáveis.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Programas nacionais de interesse comunitário)
 
@@ -210,7 +224,7 @@ b) Os critérios de distribuição dos recursos dentro da área de actuação de
 
 #### SECÇÃO I — Projectos de investimento em infra-estruturas públicas
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Propostas de candidatura)
 
@@ -224,7 +238,7 @@ c) Qualquer organismo responsável, ao mesmo título que uma autoridade pública
 
 d) Municípios e associações de municípios.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Requisitos dos processos)
 
@@ -240,7 +254,7 @@ d) Conter as demais informações convenientes para a correcta apreciação da c
 
 2 - As entidades que apresentarem processos de candidatura devem prestar todas as informações adicionais que lhes sejam solicitadas com vista à apreciação do seu conteúdo.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Apresentação)
 
@@ -258,7 +272,7 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 3 - Os processos a que se referem os números anteriores serão igualmente acompanhados de informação sobre a sua inscrição em plano.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Preenchimento de formulários e hierarquização dos projectos)
 
@@ -268,7 +282,7 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 3 - A hierarquia dos projectos de iniciativa municipal será estabelecida em relação a cada CCR, pelo respectivo conselho consultivo, nos termos dos artigos seguintes.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Hierarquização das candidaturas dos municípios)
 
@@ -282,7 +296,7 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 5 - Sempre que solicitados, competirá aos gabinetes de apoio técnico acompanhar o processo referido nos números anteriores.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Proposta regional de candidaturas)
 
@@ -290,7 +304,7 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 2 - Compete ao conselho consultivo das CCR aprovar a proposta regional de candidaturas.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Remessa dos processos)
 
@@ -302,13 +316,13 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 4 - Os processos de candidatura a remeter à DGDR serão sempre acompanhados dos respectivos formulários comunitários.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Articulação com o sistema de planeamento)
 
 A selecção de projectos de iniciativa de organismos da Administração Pública e de empresas públicas far-se-á no âmbito e de acordo com as regras que presidem ao sistema de planeamento.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Projectos de organismos da administração central e de empresas públicas)
 
@@ -316,7 +330,7 @@ As CCR poderão propor aos gabinetes de estudos e planeamento ou equiparados, ou
 
 #### SECÇÃO II — Projectos de investimento em actividades industriais, artesanais e de serviços
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Projectos de investimento em actividades industriais, artesanais e de serviços)
 
@@ -326,7 +340,7 @@ As CCR poderão propor aos gabinetes de estudos e planeamento ou equiparados, ou
 
 ### CAPÍTULO IV — Estudos
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Processo)
 
@@ -338,7 +352,7 @@ As CCR poderão propor aos gabinetes de estudos e planeamento ou equiparados, ou
 
 ### CAPÍTULO V — Operações integradas de desenvolvimento
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Operações integradas de desenvolvimento)
 
@@ -348,7 +362,7 @@ As CCR poderão propor aos gabinetes de estudos e planeamento ou equiparados, ou
 
 ### CAPÍTULO VI — Selecção de candidaturas
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Apreciação)
 
@@ -360,7 +374,7 @@ b) A adequação das fontes de financiamento a nível de cada projecto e a sua a
 
 c) O disposto no presente diploma.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Selecção)
 
@@ -372,7 +386,7 @@ c) O disposto no presente diploma.
 
 4 - As candidaturas ao FEDER serão submetidas a Conselho de Ministros, sob proposta do Ministro do Plano e da Administração do Território, após apreciação pela comissão ministerial referida no número anterior.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Remessa às comunidades europeias)
 
@@ -382,7 +396,7 @@ c) O disposto no presente diploma.
 
 ### CAPÍTULO VII — Do processamento dos pagamentos
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Pedidos de pagamento)
 
@@ -402,7 +416,7 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 4 - Os pedidos de pagamento dirigidos às CCR e aos gabinetes de estudos e planeamento ou equiparados deverão ser formalizados trimestralmente mediante o preenchimento do modelo anexo ao presente diploma.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Tipos de pagamento)
 
@@ -410,7 +424,7 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 2 - Compete às entidades responsáveis pelo preenchimento dos formulários avaliar e decidir da necessidade e interesse em efectuar o tipo de pagamento proposto.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Formulários de pedido de pagamento)
 
@@ -420,7 +434,7 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 3 - Para efeitos do presente diploma, entende-se por entidade executora a entidade pública ou privada a quem incumbe a execução ou a direcção do programa ou estudo ou o dono da obra, no caso dos projectos.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Processamento dos pagamentos)
 
@@ -432,7 +446,7 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 4 - Os processamentos relativos aos municípios do continente serão canalizados através das respectivas CCR.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Arquivo de documentos)
 
@@ -442,7 +456,7 @@ d) À DGDR, quando se tratar de organismos não incluídos nas alíneas anterior
 
 ### CAPÍTULO VIII — Competências das entidades intervenientes
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Competências do Ministro das Finanças)
 
@@ -454,19 +468,19 @@ b) Participar nas decisões sobre o volume e ritmo de apresentação de candidat
 
 c) Estabelecer os motivos financeiros necessários ao processo das transferências e à canalização dos recursos.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Competências do Ministro do Plano e da Administração do Território)
 
 Compete ao Ministro do Plano e da Administração do Território assegurar a coordenação nacional da preparação e selecção dos programas, projectos e estudos susceptíveis de candidutura ao FEDER, de acordo com os normativos financeiros definidos pelo Ministro das Finanças.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Competências do Ministro dos Negócios Estrangeiros)
 
 Compete ao Ministro dos Negócios Estrangeiros assegurar o acompanhamento do processo de negociação com as instâncias comunitárias e a gestão das informações necessárias à apreciação das candidaturas, bem como participar nas actividades de revisão e regulamentação do FEDER.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Competências dos Governos Regionais)
 
@@ -476,7 +490,7 @@ a) Assegurar, em colaboração com o Governo da República, a plena execução d
 
 b) Elaborar os programas de desenvolvimento regional relativos a cada uma das regiões autónomas a integrar no Programa de Desenvolvimento Regional de âmbito nacional.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Competências da DGDR)
 
@@ -506,7 +520,7 @@ j) Adoptar as medidas susceptíveis de facilitar os controles que a Comissão da
 
 l) Informar periodicamente a Associação Nacional de Municípios Portugueses acerca do andamento das candidaturas, bem como de outros assuntos pertinentes que com elas se prendam.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Competências dos departamentos técnicos das Regiões Autónomas dos Açores e da Madeira)
 
@@ -534,7 +548,7 @@ i) Organizar e manter em arquivo cópias dos documentos justificativos das despe
 
 j) Acompanhar e facilitar os controles que a Comissão das Comunidades julgar útil realizar no âmbito da gestão do FEDER, incluindo as verificações no próprio local.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Competências das CCR)
 
@@ -558,7 +572,7 @@ h) Emitir certificados de conclusão dos investimentos;
 
 i) Apresentar aos conselhos consultivos regionais as propostas de prioridade intra-regionais e a proposta regional de candidaturas a que se referem as artigos 7.º e 15.º, respectivamente.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Competências do Departamento Central de Planeamento)
 
@@ -568,7 +582,7 @@ a) Colaborar com a DGDR no estabelecimento de formas de articulação entre o Pr
 
 b) Estabelecer com a DGDR formas de colaboração tendo em vista a articulação entre o processo de planeamento nacional e a aplicação do FEDER.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Competências da Direcção-Geral do Tesouro)
 
@@ -582,7 +596,7 @@ c) Processar os pagamentos dos recursos recebidos das comunidades referentes aos
 
 d) Transmitir à DGDR e aos organismos coordenadores dos pedidos de pagamentos as informações relativas aos processamentos efectuados.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Competências da Direcção-Geral da Contabilidade Pública)
 
@@ -594,7 +608,7 @@ b) Verificar o cabimento e legalidade relativamente ao levantamento de verbas do
 
 c) Contabilizar os recursos provenientes do FEDER destinados ao financiamento de programas e acções na parte relativa à administração central.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Competências da Inspecção-Geral de Finanças)
 
@@ -604,7 +618,7 @@ a) Fiscalizar a contabilidade dos serviços e entidades públicas e privadas rel
 
 b) Acompanhar as missões comunitárias de fiscalização e controle a efectuar em Portugal.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Competências da comissão referida no n.º 5 da Resolução do Conselho de Ministros n.º 11/86, de 29 de Janeiro)
 
@@ -616,7 +630,7 @@ b) Proceder à apreciação prévia do conjunto de candidaturas ao FEDER a subme
 
 c) Assegurar a disponibilidade permanente da informação necessária ao exercício da competência do Ministro das Finanças, designadamente à articulação entre as transferências dos fundos estruturais e as necessidades globais de financiamento da economia.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Competências da Comissão Técnica Interministerial de Planeamento)
 
@@ -624,7 +638,7 @@ Compete à Comissão Técnica Interministerial de Planeamento, através da sua s
 
 ### CAPÍTULO IX — Disposições finais
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Representação nacional)
 
@@ -674,11 +688,11 @@ Telex: ...
 
 A) Pagamentos efectuados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf))](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf)
 
 B) Tipo de pagamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf))](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf)
 
 C) Pedido de pagamento:
 
@@ -688,7 +702,7 @@ Montante do pedido de pagamento: ... (milhares de escudos).
 
 D) Previsão de pedidos de pagamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf))](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/12800/13271334.pdf)
 
 4 - Pagamentos finais:
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/945/1994/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/945-1994-624619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3ce8644b1513ce9d5fbfc9d9401dfe149df35c03541376adc19f95cfbee826f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f47e9739214ff6bc84bf5025c160a067a45abb5e621ea3421da61457dbcb28ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartaxo
 - CAÇA
+- Cartaxo
 relationships:
 - type: amended_by
   target: pt:dre:545444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687788:por
+  label: "Alterado o nº 1º da Port 722-S5/92 de 15-Jun, com a redacção conferida no presente diploma, pela PORT.1146/97.10.11.1997.MADRP,\
+    \ DR.IS-B [260] de 10.11.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1146-1997-687788
+  date: '1997-11-10'
+- type: amended_by
+  target: pt:dre:448287:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pela Port 722-S5/92 de 15-Jul, alterada pelo presente\
+    \ diploma, pela PORT.635/98.1998.08.28.MADRP DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/635-1998-448287
+  date: '1998-08-28'
+- type: amended_by
+  target: pt:dre:545444:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 722-S5/92 de 15-Jul, com a redacção constante\
+    \ do presente diploma, pela PORT.1371/2006.05.12.2006.MADRP, DR.IS [233] de 05.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1371-2006-545444
+  date: '2006-12-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/722-s5/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-s5/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:617950:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:01Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +131,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 722-S5/92
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Outubro de 1994.**
+Assinada em 3 de Outubro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/247b00/64426443.pdf))](https://files.diariodarepublica.pt/1s/1994/10/247b00/64426443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/247b00/64426443.pdf)

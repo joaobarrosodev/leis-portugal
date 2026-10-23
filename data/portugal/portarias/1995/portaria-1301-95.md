@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1301/1995/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1301-1995-679579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79c3186fb44d52626e7aef34faab4d37bc901aa0186613a24dc9b0af1e5130e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a5d561482badf5d751125eb0fc7ddfc092bed0795680c1ca613d7e4b19911ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,26 @@ reuse:
 subjects:
 - Aveiro
 - Extinção de Serviços
-- Setúbal
 - Funchal
 - Ponta Delgada
 - Posto Fiscal
 - Reforma Aduaneira
-relationships: []
+- Setúbal
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:50:52Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +108,6 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 3 e 
 
 Ministério das Finanças.
 
-**Assinada em 29 de Setembro de 1995.**
+Assinada em 29 de Setembro de 1995.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.

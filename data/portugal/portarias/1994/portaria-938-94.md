@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/938/1994/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/938-1994-626258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29981d9f49720830f61f90505ed5a3dd48945f3217b0f757ff887536f3cda1c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f15382baaa637c315fc6eef4404e1b6f7f8cd33efb71ffaaa145fe3bca8183c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,44 @@ relationships:
   target: pt:dre:601561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687792:por
+  label: "Alterado o nº 1º da Port 361/94 de 08-Jun, com a redacção conferida no presente diploma, pela PORT.1142/97.10.11.1997.MADRP,\
+    \ DR.IS-B [260] de 10.11.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1142-1997-687792
+  date: '1997-11-10'
+- type: amended_by
+  target: pt:dre:537439:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça, efectuada pela Portaria 361/94, de 08 de Junho\
+    \ alterada pelo presente diploma e anexados vários prédios rústicos á referida zona de caça.pela PORT.705/2006.13.07.2006.MADRP,\
+    \ DR.IS [134] de 13.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/705-2006-537439
+  date: '2006-07-13'
+- type: amended_by
+  target: pt:dre:601561:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 361/94, de 08-Jun, alterada pelo presente diploma,\
+    \ pela Port 1142/97, de 10-Nov e pela Port 705/2006, de 13-Jul, pela PORT.145/2009.05.02.2009.MAOTDR, DR.IS [25] de 05.02.2009\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/145-2009-601561
+  date: '2009-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/361/1994/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/361/1994/06/08/p/dre
+- type: cites
+  target: pt:dre:302132:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:51Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +133,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 361/94](h
 
 Ministério da Agricultura.
 
-**Assinada em 3 de Outubro de 1994.**
+Assinada em 3 de Outubro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/246b00/64156415.pdf))](https://files.diariodarepublica.pt/1s/1994/10/246b00/64156415.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/246b00/64156415.pdf)

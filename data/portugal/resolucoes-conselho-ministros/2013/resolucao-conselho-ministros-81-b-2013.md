@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 232/2013, 1º Suplemento, Série I de 2013-11-29
   number: '232'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6624-(2) a 6624-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/23201/0000200012.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/81-b/2013/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/81-b-2013-647287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65b0c33445adf90b2a82a6cb5af98b9cdce3fd5d2a0e27a137f0cbda75d2c45b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdebf14c3c211c51955eb22ede54b714568e5fa369b80dea907516500cd43783
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Energia Elétrica
-- Gestão Financeira
 - Conselho de Ministros
 - Delegação de Competências
 - Despesas Públicas
+- Energia Elétrica
 - Gestão Administrativa
-- Ministério da Educação e Ciência
+- Gestão Financeira
 - Governo XIX
+- Ministério da Educação e Ciência
 - Ministro da Educação e Ciência
 relationships:
 - type: cites
@@ -107,16 +107,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:24Z'
   warnings: []
   errors: []
 ---
@@ -153,4 +181,4 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º d
 
 Presidência do Conselho de Ministros, 28 de novembro de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23201/0000200012.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23201/0000200012.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/23201/0000200012.pdf)

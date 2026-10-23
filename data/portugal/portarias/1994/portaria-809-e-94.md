@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 211/1994, 1º Suplemento, Série I-B de 1994-09-12
   number: '211'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5388-(24) a 5388-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/809-e/1994/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-e-1994-617289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 313ba040e34d1536e0a53da52c825824d063f351cd7ce977c41b615671842fc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ab36bcee6758d6d458ecff64be47f57493595508b094aa1709de7a226ba14b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Controlo Sanitário
+- Empresa
 - Investigação
 - Regulamento CE
 - Regulamento de Aplicação da Medida de Investigação Experimentação e Demonstração Formação Organização Divulgação e Estudos
@@ -77,6 +77,49 @@ relationships:
   target: pt:dre:621316:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PRORROGADO O PRAZO EXCEPCIONAL DE CANDIDATURA PREVISTO NO NUM 1 DO ART 89, PELA PORT 1044/94 DE 26-NOV DR.IS-B [274]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO, ATE FINAL DO MÊS DE FEVEREIRO, O PERIODO DE CANDIDATURA ESTABELECIDO NO NUM 1 DO ART 42 E NO NUM 1 DO\
+    \ ART 63 PELA PORT 54-A/95 DE 23-JAN DR.IS-B [19] SUPL. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-23'
+- type: amended_by
+  target: pt:dre:476113:por
+  label: "Alterados os art.s 17º, 26º, 29º, 30º, 32º, 38º, 43º, 45º, 52º, 60º, 66º, 74º, 75º, 80º bem como os anexos I e IV\
+    \ e aditados os art.s 74º-A e 87º-A ao Regulamento, pela PORT.662/95.26.06.1995.MA, DR.IS-B [145] de 26.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/662-1995-476113
+  date: '1995-06-26'
+- type: amended_by
+  target: pt:dre:534409:por
+  label: "Alterados os art.s 26º (na redacção da Port 662/95, de 26-Jun), 28º, 29º, 30º (os dois últimios na redacção da Port\
+    \ 662/95, de 26-Jun), 33º, 34º e 72º do Regulamento, pela PORT.569-A/96.1996.10.10.MADRP, DR.IS-B [235]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/569-a-1996-534409
+  date: '1996-10-10'
+- type: amended_by
+  target: pt:dre:144614:por
+  label: "Alterados os artºs 72º e 73º e o anexo IV do Regulamento, na redacção constante da Port 569-A/96 de 10-Out, pela\
+    \ PORT.560/97.1997.07.25.MADRP, DR.IS-B [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/560-1997-144614
+  date: '1997-07-25'
+- type: amended_by
+  target: pt:dre:197728:por
+  label: "Alterado o nº 2 do art. 4.º, os artºs 18.º a 22.º, os nºs 2 e 3 do art. 26.º, al c) do nº 1 e os nºs 3 e 4 do art.\
+    \ 30.º, o nº 1 do art. 31.º, o anexo I a que se referem os nºs 1 do art. 29.º e 2 do art. 30.º e o art. 80.º do Regulamento\
+    \ aprovado pelo presente diploma, na redacção dada pela Port 662/95 de 26-Jun e 569-A/96 de 10-Out; revogados os art.s\
+    \ 23.º e 24.º da citada Port, pela PORT.200/98.1998.03.25.MADRP DR.IS-B [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/200-1998-197728
+  date: '1998-03-25'
+- type: amended_by
+  target: pt:dre:621316:por
+  label: "Alterado o art. 28º do Regulamento aprovado pelo presente diploma, com a redacção conferida pelas Port 662/95 de\
+    \ 26-Jun, 569-A/96 de 10-Out e 200/98 de 25-Mar, pela PORT.1172/2001.2001.10.09.MADRP DR.IS-B [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1172-2001-621316
+  date: '2001-10-09'
 - type: cites
   target: celex:31972R1035
   label: null
@@ -97,16 +140,21 @@ relationships:
   target: celex:31990R0866
   label: null
   source: http://data.europa.eu/eli/reg/1990/866/oj
+- type: corrected_by
+  target: pt:dre:533201:por
+  label: "Rectificada pela DECL-RECT.200/94.31.10.1994.PCM, DR.IS-B [252] de 31.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/200-1994-533201
+  date: '1994-10-31'
 article_structure:
   article_count: 89
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:45Z'
   warnings: []
   errors: []
 ---
@@ -129,11 +177,11 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura
 
-**Assinada em 9 de Setembro de 1994.**
+Assinada em 9 de Setembro de 1994.
 
-**O Ministro da Agricultura, António Duarte Silva.**
+O Ministro da Agricultura, António Duarte Silva.
 
-## Anexo a que se refere a Portaria n.º 809-E/94
+Anexo a que se refere a Portaria n.º 809-E/94
 
 Regulamento de Aplicação da Medida de Investigação, Experimentação e Demonstração (IED), Formação, Organização, Divulgação e Estudos Estratégicos.
 
@@ -889,17 +937,17 @@ O pagamento das ajudas é efectuado pela IFADAP nos termos do contrato ou da con
 
 ## ANEXO I — (a que se referem o n.º 1 do artigo 29.º e o n.º 2 do artigo 30.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
 
 ## ANEXO II — (a que se refere o artigo 41.º, n.º 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
 
 ## ANEXO III — Sistemas de certificação da qualidade nas empresas agro-alimentares
 
 (artigo 52.º, n.º 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
 
 ## ANEXO IV — Agrupamento de Defesa Sanitária
 
@@ -907,4 +955,4 @@ O pagamento das ajudas é efectuado pela IFADAP nos termos do contrato ou da con
 
 Despesas de funcionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)

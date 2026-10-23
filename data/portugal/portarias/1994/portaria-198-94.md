@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/198/1994/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/198-1994-254236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T12:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2df8978edc8a0189f26ed872536301889f7d9fc4ecb1ad3b9c9ba13fb1161e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9c50b6775bfb6c90368d34775ee5de3502633efe36576abe83b2bf3db44d9dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,29 @@ relationships:
   target: pt:dre:616052:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS NUMEROS 2 E 3, PELA PORTARIA 362/94, DE 11 DE JUNHO, PUBLICADA NO DR.IS-B, 134.\0, 134."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-11'
+- type: amended_by
+  target: pt:dre:288427:por
+  label: "Suspensa a actividade cinegética (concedida pelo presente diploma, alterado pela Port 362/94 de 11-06), pela PORT.347/2000.2000.06.14.MADRP,\
+    \ DR.IS-B [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-2000-288427
+  date: '2000-06-14'
+- type: amended_by
+  target: pt:dre:552512:por
+  label: "Renovada, por um período de 15 anos, a concessão da presente zona de caça turística pela PORT.942/2000.2000.10.03.MECO,DR.IS-B\
+    \ [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/942-2000-552512
+  date: '2000-10-03'
+- type: amended_by
+  target: pt:dre:616052:por
+  label: "Anexados vários prédios rústicos à zona de caça turística criada no presente diploma, renovada na Port 942/2000,\
+    \ de 03-Out, pela PORT.1264-DH/2004.29.09.2004.MAPF, DR.IS-B [230]Supl de 29.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1264-dh-2004-616052
+  date: '2004-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -85,16 +108,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/667-u1/1993/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/667-u1/1993/07/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:21:46Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +180,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 10 de Março de 1994.**
+Assinada em 10 de Março de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/080b00/16221622.pdf))](https://files.diariodarepublica.pt/1s/1994/04/080b00/16221622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/080b00/16221622.pdf)

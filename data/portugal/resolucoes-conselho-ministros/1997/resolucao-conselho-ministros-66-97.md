@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/66/1997/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-1997-476955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd74a9d7f588aa8004b310ed8697d4e393dcacd31f7898d7b9899fb267c254db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdfb8065f323a058890a8736180cba43c3dab525ac30f304944d0e14817d1867
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 - VALE de Cambra
 - Zona Industrial
@@ -93,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/73/1993/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/73/1993/12/16/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:09Z'
   warnings: []
   errors: []
 ---
@@ -351,12 +375,12 @@ f) Rectificação do acesso à EN 227 - 2100 m2.
 
 Número de lugares de estacionamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/096b00/18521855.pdf))](https://files.diariodarepublica.pt/1s/1997/04/096b00/18521855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/096b00/18521855.pdf)
 
 ## ANEXO II — Quadro I - Áreas e tipologias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/096b00/18521855.pdf))](https://files.diariodarepublica.pt/1s/1997/04/096b00/18521855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/096b00/18521855.pdf)
 
 ## ANEXO III — Quadro I - Movimento de terras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/096b00/18521855.pdf))](https://files.diariodarepublica.pt/1s/1997/04/096b00/18521855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/096b00/18521855.pdf)

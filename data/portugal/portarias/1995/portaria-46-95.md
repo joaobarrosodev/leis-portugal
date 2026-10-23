@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/46/1995/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/46-1995-144865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 759fe1f4d2c49a73896d8011e14ffafbe75002f8d8da4faab5c7998094017da1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f542c2ae38583552ffac2a5722e15451486e0ca7b387fa4673a7e10b7706535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,47 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Palmela
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:225977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:10Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +130,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 8 de Dezembro de 1994.**
+Assinada em 8 de Dezembro de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento do Plano Geral de Urbanização de Aires
 
@@ -560,12 +584,12 @@ XII) O enquadramento de depósitos de armazenagem exteriores às edificações d
 
 Tabela de classificação de estabelecimentos industriais segundo as localizações compatíveis com áreas habitacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/017b00/03430351.pdf))](https://files.diariodarepublica.pt/1s/1995/01/017b00/03430351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/017b00/03430351.pdf)
 
 Tabela de classificação de estabelecimentos industriais segundo as localizações compatíveis com áreas industriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/017b00/03430351.pdf))](https://files.diariodarepublica.pt/1s/1995/01/017b00/03430351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/017b00/03430351.pdf)
 
 Tabela de classificação de estabelecimentos industriais segundo as localizações compatíveis com áreas habitacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/017b00/03430351.pdf))](https://files.diariodarepublica.pt/1s/1995/01/017b00/03430351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/017b00/03430351.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/100/2010/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2010-306432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:00:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ede5ebd68e8ef1b5ba611c0868d19b95b8e06512f6c4e6cda046ef088ac5dc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee05d077b05344239796a09b58458481a12bb66e3823def719435c0f2899645b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:00:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Combate à Violência
-- Mulher
-- Violência
-- Direitos do Homem
-- Igualdade de Tratamento
-- Definição de Competências
-- Luta contra a Discriminação
-- Igualdade de Oportunidades
-- Discriminação Sexual
-- Plano Nacional contra a Violência Doméstica
 - Comissão para a Cidadania e a Igualdade de Género
+- Crime
+- Definição de Competências
+- Direitos do Homem
+- Discriminação Sexual
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
+- Luta contra a Discriminação
+- Mulher
+- Plano Nacional contra a Violência Doméstica
+- Violência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/323/2000/12/19/p/dre
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:345129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656147:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:00:14Z'
   warnings: []
   errors: []
 ---
@@ -370,7 +386,7 @@ Objectivos estratégicos:
 
 4) Envolver vários sectores da sociedade - escolas, municípios, organizações da sociedade civil e empresas - na prevenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)
 
 Área estratégica de intervenção 2
 
@@ -400,7 +416,7 @@ Objectivos estratégicos:
 
 6) Promover intervenções específicas com vítimas particularmente vulneráveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)
 
 Área estratégica de intervenção 3
 
@@ -424,7 +440,7 @@ Objectivos estratégicos:
 
 5) Promover a eficácia dos mecanismos jurídico-penais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)
 
 Área estratégica de intervenção 4
 
@@ -442,7 +458,7 @@ Objectivos estratégicos:
 
 3) Criar ou actualizar módulos disciplinares sobre violência doméstica e violência de género nos curricula, nomeadamente nas áreas das ciências humanas, sociais, criminais e da saúde.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)
 
 Área estratégica de intervenção 5
 
@@ -460,4 +476,4 @@ Objectivos estratégicos:
 
 3) Analisar, acompanhar e emitir recomendações sobre procedimentos e respostas na área da violência doméstica e de género.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24300/0576305773.pdf)

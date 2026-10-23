@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1486/1995/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1486-1995-644893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a78f39916a32048fd43c24470ac12b84360d6df83a9b563460e3fe344d1602eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bface0a3e86a288e3360a020004b894d1c4970adc5c1d152825c849a1abada5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,40 @@ relationships:
   target: pt:dre:417033:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ACTUALIZADOS OS VALORES DAS AJUDAS DE CUSTO A ABONAR AOS MILITARES DA GNR EM MISSÃO OFICIAL AO ESTRANGEIRO E NO\
+    \ ESTRANGEIRO, PELA PORT 283/96 DE 23-JUL DR.IS-B [169]\0.IS-B [169]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-23'
+- type: amended_by
+  target: pt:dre:417033:por
+  label: "Actualizados os valores das ajudas de custo a abonar aos militares da GNR em missão oficial ao estrangeiro, constantes\
+    \ do presente diploma, pela PORT.283/96.23.07.1996.MF, DR.IS-B [169] de 23.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1996-417033
+  date: '1996-07-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1093-a/1994/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1093-a/1994/12/07/p/dre
+- type: cites
+  target: pt:dre:334626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667495:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:13Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +146,6 @@ Praças ... 15700$00
 
 Ministérios da Administração Interna e das Finanças.
 
-**Assinada em 19 de Outubro de 1995.**
+Assinada em 19 de Outubro de 1995.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.

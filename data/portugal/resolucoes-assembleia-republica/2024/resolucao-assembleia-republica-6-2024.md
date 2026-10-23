@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00700/0001500038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/6/2024/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-2024-836437682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:21:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72504a11946826b0ba8ba6ba3489cc0dc9c0378d97718092532b93db60abae99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2980ad0e0dc432f93a71f615a22c04fb4025d58d55efcf0c256be498d876fce0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
 - Convenção
-- Portugal
 - Lisboa
-- Transporte de Mercadorias
+- Portugal
 - Quénia
+- Transporte Aéreo
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:836437678:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 11/2024 - Diário da República n.º 7/2024, Série
+    I de 2024-01-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/11-2024-836437678
+  date: '2024-01-10'
 article_structure:
   article_count: 24
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:21:10Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de novembro de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 ACORDO SOBRE SERVIÇOS AÉREOS ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO QUÉNIA
 
@@ -443,16 +449,16 @@ A(s) empresa(s) de transporte aéreo designada(s), ao abrigo do presente Acordo,
 
 A) Rotas a serem operadas pela(s) empresa(s) de transporte aéreo designada(s) do Quénia:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Pontos no Quénia | Pontos intermédios | Pontos em Portugal | Pontos além |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Quaisquer pontos. | Quaisquer pontos. | Quaisquer pontos. | Quaisquer pontos. |
 
 B) Rotas a serem operadas, em ambas as direções, pela(s) empresa(s) de transporte aéreo designada(s) de Portugal:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Pontos em Portugal | Pontos intermédios | Pontos no Quénia | Pontos além |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Quaisquer pontos. | Quaisquer pontos. | Quaisquer pontos. | Quaisquer pontos. |
 
 #### Secção 2 — Notas
@@ -859,16 +865,16 @@ Airline(s) of each Party designated under this Agreement shall be entitled to pr
 
 A) Routes to be operated by the designated airline(s) of Kenya:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Points in Kenya | Intermediate points | Points in Portugal | Beyond points |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Any points. | Any points. | Any points. | Any points. |
 
 B) Routes to be operated in both directions by the designated airline(s) of Portugal:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Points in Portugal | Intermediate points | Points in Kenya | Beyond points |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Any points. | Any points. | Any points. | Any points. |
 
 Section 2
@@ -882,3 +888,5 @@ Notes
 3 - The designated airlines of each Party may select any intermediate and/or beyond points at its own choice and may change its selection in the next season on condition that no traffic rights are exercised between those points and the territory of the other Party.
 
 4 - The exercise of the fifth freedom traffic rights on specified intermediate and/or beyond points shall be subject to agreement between the aeronautical authorities of both Parties.
+
+117189516

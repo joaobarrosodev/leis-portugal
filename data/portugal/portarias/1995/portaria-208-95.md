@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/208/1995/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-1995-166793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47b4fef97048928b59b1db5fc41691e011a97ac96f0f0a9cfe276bc86439b2a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bad7f97fbbe064095cff84acf99927edc9707ee8a504c992bdba2fe9e9e3c32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Instituto Superior da MAIA
 - Curso de Segurança no Trabalho
 - Ensino Particular
-- Licenciatura
 - Ensino Superior
+- Instituto Superior da MAIA
+- Licenciatura
 - Maiêutica-Cooperativa de Ensino Superior
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:189761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167402:por
+  label: "Alterado o plano de estudos do curso de Segurança no Trabalho, pela PORT.230/98.1998.04.11.ME, DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-1998-167402
+  date: '1998-04-11'
+- type: amended_by
+  target: pt:dre:189761:por
+  label: "Determinada que o plano de estudos do curso de licenciatura em Segurança no Trabalho fixado pelo presente diploma,\
+    \ na redacção da Port 230/98, de 11-Abr, passe a ser o constante do anexo á PORT.178/2003.2003.02.20.MCES DR.IS-B [43]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-2003-189761
+  date: '2003-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -86,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1006/1991/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1006/1991/10/02/p/dre
+- type: cites
+  target: pt:dre:293924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:06Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +148,7 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 9 de Fevereiro de 1995.**
+Assinada em 9 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
@@ -132,4 +156,4 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 Curso de Segurança no Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/069b00/15791580.pdf))](https://files.diariodarepublica.pt/1s/1995/03/069b00/15791580.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/069b00/15791580.pdf)

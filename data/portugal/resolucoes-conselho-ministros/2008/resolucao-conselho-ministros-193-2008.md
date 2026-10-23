@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/193/2008/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/193-2008-444190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 450364942e31ff5036dc8bdb156160955942945e01d8182c55371937349dc535
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f800cb030ed293313a951312eb8eceb06c20c3c74305edaf16355643b1511131
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Desenvolvimento Regional
 - Ordenamento do Território
 - Plano Director Municipal
-- Desenvolvimento Regional
+- Plano Regional de Ordenamento do Território
 - Política de Solos
 - Prozom
-- Plano Regional de Ordenamento do Território
 - Regulamento
 - Vila Viçosa
 relationships:
@@ -78,6 +78,13 @@ relationships:
   target: pt:dre:333798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333798:por
+  label: "Determinada a revogação, a partir de 03.08.2010, do Plano Regional de Ordenamento do Território da Zona dos Mármores\
+    \ (PROZOM), aprovado pela Res 93/2002 de 08-Mai da PCM e cuja alteração foi aprovada no presente diploma, pela RES.53/2010.02.08.2010.PCM,\
+    \ DR.IS [148] de 02.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/53-2010-333798
+  date: '2010-08-02'
 - type: cites
   target: eli:http://data.
   label: null
@@ -118,16 +125,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/2006/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/2006/08/04/p/dre
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:24Z'
   warnings: []
   errors: []
 ---
@@ -318,13 +377,19 @@ r) «Unidade de execução» - área a sujeitar a intervenção urbanística com
 
 s) «Turismo em espaço rural (TER)» - conjunto de actividades, serviços de alojamento e animação a turistas, em empreendimentos de natureza familiar, realizados e prestados mediante remuneração, em zonas rurais. Os empreendimentos de turismo no espaço rural podem ser classificados numa das seguintes modalidades de hospedagem: turismo de habitação, turismo rural, agro-turismo, turismo de aldeia, casas de campo, hotéis rurais, parques de campismo rurais.
 
-###### Artigo 6.º — Vestígios arqueológicos
+Artigo 6.º
+
+Vestígios arqueológicos
 
 A descoberta de quaisquer vestígios arqueológicos na área do concelho obriga à suspensão imediata dos trabalhos no local e também à sua imediata comunicação aos organismos da tutela e respectiva autarquia, em conformidade com as disposições legais.
 
-### CAPÍTULO II — Servidões e restrições de utilidade pública
+CAPÍTULO II
 
-###### Artigo 7.º — Identificação
+Servidões e restrições de utilidade pública
+
+Artigo 7.º
+
+Identificação
 
 1 - Regem-se pelo disposto no presente capítulo e legislação aplicável as servidões administrativas e restrições de utilidade pública ao uso dos solos, identificadas na planta de condicionantes, seguidamente identificadas:
 
@@ -396,11 +461,17 @@ Marcos geodésicos.
 
 2 - As servidões administrativas e restrições de utilidade pública referidas no número anterior estão delimitadas na planta de condicionantes com grafismo e simbologia próprios, excepto aqueles que são susceptíveis de alterações, tais como as áreas percorridas por incêndios.
 
-### CAPÍTULO III — Uso do solo
+CAPÍTULO III
 
-#### SECÇÃO I — Classificação do solo rural e urbano
+Uso do solo
 
-###### Artigo 8.º — Identificação
+SECÇÃO I
+
+Classificação do solo rural e urbano
+
+Artigo 8.º
+
+Identificação
 
 1 - Para efeitos de ocupação, uso e transformação do solo o território municipal divide-se em classes e categorias de espaços de acordo com o seu uso e ou aptidão dominante, delimitadas na planta de ordenamento.
 
@@ -408,9 +479,13 @@ Marcos geodésicos.
 
 3 - A qualificação dos solos de acordo com a sua classificação encontra-se delimitada na planta de ordenamento à escala 1/25 000, e do solo urbano nas plantas dos aglomerados urbanos à escala 1/5000 e definida nos capítulos iv e v do presente Regulamento.
 
-#### SECÇÃO II — Sistema urbano
+SECÇÃO II
 
-###### Artigo 9.º — Identificação
+Sistema urbano
+
+Artigo 9.º
+
+Identificação
 
 1 - O sistema urbano municipal é composto por aglomerados urbanos e por núcleos rurais.
 
@@ -418,7 +493,9 @@ Marcos geodésicos.
 
 3 - Os núcleos rurais são lugares inseridos em solo rural e sem perímetro urbano, que pelas suas características e dimensão populacional requerem regras próprias de uso e ocupações, sendo os seguintes: Aldeia da Freira, Azenha Cimeira, Fonte Soeiro e Montes Claros.
 
-###### Artigo 10.º — Hierarquia dos aglomerados
+Artigo 10.º
+
+Hierarquia dos aglomerados
 
 1 - O PDMVV estabelece uma hierarquia para os aglomerados urbanos/núcleos rurais de acordo com a respectiva população, crescimento, acessibilidade e funções centrais que desempenham.
 
@@ -434,9 +511,13 @@ Nível IV - Núcleos Rurais - Aldeia da Freira, Azenha Cimeira, Fonte Soeiro e M
 
 3 - O regime de edificabilidade é o definido no capítulo iv para os núcleos rurais e no capítulo v para os aglomerados urbanos.
 
-#### SECÇÃO III — Estrutura ecológica municipal
+SECÇÃO III
 
-###### Artigo 11.º — Âmbito
+Estrutura ecológica municipal
+
+Artigo 11.º
+
+Âmbito
 
 1 - Os solos afectos à estrutura ecológica municipal têm como objectivo a manutenção das funções e equilíbrio ecológico do território.
 
@@ -456,9 +537,13 @@ c) Elemento singulares - elementos naturais ou edificados que pela sua singulari
 
 6 - Ao longo dos eixos viários deve ser promovida, sempre que possível, a sua arborização, sendo obrigatória nos eixos assinalados na planta da estrutura ecológica.
 
-### CAPÍTULO IV — Qualificação do solo rural
+CAPÍTULO IV
 
-###### Artigo 12.º — Caracterização
+Qualificação do solo rural
+
+Artigo 12.º
+
+Caracterização
 
 1 - O solo rural corresponde aos espaços com aptidão para as actividades agrícolas, pecuárias, florestais e minerais.
 
@@ -480,7 +565,9 @@ f) Espaço industrial.
 
 4 - Os espaços canais estão também incluídos em solo rural.
 
-###### Artigo 13.º — Núcleos rurais
+Artigo 13.º
+
+Núcleos rurais
 
 1 - Os núcleos rurais, classificados no nível iv da hierarquia urbana, caracterizam-se pela concentração de construção em espaço rural. Estão assinalados na planta de ordenamento do concelho à escala 1: 25 000.
 
@@ -506,7 +593,9 @@ Cércea máxima - 6,5 m.
 
 4 - As construções destinadas ao turismo sob a figura de TER regem-se pelo disposto no n.º 5 do artigo 15.º
 
-###### Artigo 14.º — Área com aptidão turística
+Artigo 14.º
+
+Área com aptidão turística
 
 1 - As áreas com aptidão turística são todas aquelas que apresentem condições ambientais e cénicas propícias à instalação de empreendimentos turísticos e regem-se pelo seu regime de solo.
 
@@ -522,9 +611,13 @@ d) Paraíso - hospedaria e actividades turísticas.
 
 3 - Outras áreas semelhantes poderão surgir durante a vigência do Plano desde que sejam compatíveis com o uso do solo em questão e não comprometam a estrutura ecológica municipal.
 
-#### SECÇÃO I — Espaço agrícola
+SECÇÃO I
 
-###### Artigo 15.º — Disposições comuns
+Espaço agrícola
+
+Artigo 15.º
+
+Disposições comuns
 
 1 - Os espaços agrícolas são constituídos por áreas destinadas a assegurar a produção agrícola, alimentar ou não, integrando solos incluídos na RAN e outros solos com interesse local, nomeadamente onde existem vinhas que dão ou possam vir a dar origem a vinhos VQPRD e pomares regados, subdividindo-se em área agrícola preferencial e área agrícola condicionada.
 
@@ -552,23 +645,31 @@ b) Outros: se a construção existente for maior ou igual a 350 m2, a sua amplia
 
 11 - É interdita a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata. São ainda interditas quaisquer acções que criem riscos de contaminação dos aquíferos.
 
-###### Artigo 16.º — Área agrícola preferencial
+Artigo 16.º
+
+Área agrícola preferencial
 
 1 - Esta área é constituída por solos incluídos na RAN, ou com benfeitorias e culturas de importância local e regional, conforme legislação aplicável.
 
 2 - Às situações previstas nos n.os 2 e 3 do artigo 15.º aplicam-se os seguintes parâmetros urbanísticos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
 
-###### Artigo 17.º — Área agrícola condicionada
+Artigo 17.º
+
+Área agrícola condicionada
 
 1 - A área agrícola condicionada é constituída por outros solos com importância local, mas onde ocorram condicionantes biofísicas, nomeadamente REN ou protecção natural.
 
 2 - Às situações previstas nos n.os 2 e 3 do artigo 15.º aplicam-se os parâmetros urbanísticos definidos no n.º 2 do artigo 16.º
 
-#### SECÇÃO II — Espaço silvo-pastoril
+SECÇÃO II
 
-###### Artigo 18.º — Definição e regime
+Espaço silvo-pastoril
+
+Artigo 18.º
+
+Definição e regime
 
 1 - Os espaços silvo-pastoris integram os solos que não possuem um elevado potencial agrícola, podendo no entanto estar em RAN ou REN, possuindo um uso actual agrícola, florestal ou estando incultos, nos quais se poderão instalar pastagens, sistemas silvo-pastoris ou mesmo floresta. Incluem-se ainda nesta classificação os montados, ecossistema florestal de azinheira ou sobreiro, com intervenção humana permanente, mais ou menos intensiva que permite a existência de pastoreio e de práticas agrícolas no seu subcoberto.
 
@@ -584,15 +685,21 @@ Cércea máxima - 6,5 m;
 
 Lugares de estacionamento - um lugar/duas camas.
 
-###### Artigo 19.º — Edificabilidade
+Artigo 19.º
+
+Edificabilidade
 
 Às situações previstas no n.º 2 do artigo anterior aplicam-se os seguintes parâmetros urbanísticos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
 
-#### SECÇÃO III — Espaço florestal
+SECÇÃO III
 
-###### Artigo 20.º — Designação e regime
+Espaço florestal
+
+Artigo 20.º
+
+Designação e regime
 
 1 - Os espaços florestais são constituídos por áreas onde se associa a componente de protecção à de produção florestal. Nela se incluem as florestas de uso múltiplo onde, para além da produção florestal, poderão coexistir outros usos ou actividades. Integra áreas identificadas no âmbito da REN como áreas com riscos de erosão.
 
@@ -600,19 +707,27 @@ Lugares de estacionamento - um lugar/duas camas.
 
 3 - Nos espaços florestais aplicam-se as disposições do n.º 2 e seguintes do artigo 15.º
 
-###### Artigo 21.º — Edificabilidade
+Artigo 21.º
+
+Edificabilidade
 
 Nas situações previstas no n.º 4 do artigo anterior aplicam-se os seguintes parâmetros urbanísticos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
 
-#### SECÇÃO IV — Espaço rural de usos múltiplos
+SECÇÃO IV
 
-###### Artigo 22.º — Designação
+Espaço rural de usos múltiplos
+
+Artigo 22.º
+
+Designação
 
 Os espaços rurais de usos múltiplos correspondem na generalidade a áreas de ocupação dominantemente agrícola ou silvo-pastoril, correspondem também, de um modo geral, a áreas afectas à área cativa do PROZOM, mas actualmente sem interesse económico.
 
-###### Artigo 23.º — Regime
+Artigo 23.º
+
+Regime
 
 1 - É autorizada a construção isolada em parcelas constituídas, sem prejuízo da legislação aplicável e no cumprimento das seguintes condições:
 
@@ -638,7 +753,9 @@ e) Equipamentos públicos ou privados demonstrando o seu interesse municipal que
 
 2 - As construções previstas nas alíneas a), b) e c) do número anterior só poderão ser permitidas caso não afectem negativamente as áreas envolventes, quer do ponto de vista paisagístico quer do ponto de vista da sua utilização agrícola ou silvo-pastoril.
 
-###### Artigo 24.º — Destaque de parcelas
+Artigo 24.º
+
+Destaque de parcelas
 
 O destaque de parcelas é permitido, desde que se verifiquem cumulativamente as seguintes condições:
 
@@ -646,7 +763,9 @@ a) Na parcela destacada apenas seja construído edifício habitacional, unifamil
 
 b) A parcela restante cumpra igualmente de acordo com as condições da envolvente, os requisitos da alínea a) ou b) do n.º 1 do artigo anterior aplicáveis à parcela destacada.
 
-###### Artigo 25.º — Vias e infra-estruturas
+Artigo 25.º
+
+Vias e infra-estruturas
 
 1 - Toda e qualquer cedência de terrenos para abertura de novas vias ou alargamento e rectificação das existentes não é constitutiva de direitos de construção.
 
@@ -654,15 +773,21 @@ b) A parcela restante cumpra igualmente de acordo com as condições da envolven
 
 3 - A impossibilidade ou a inconveniência da execução, neste espaço, de soluções individuais para as infra-estruturas poderá ser motivo de inviabilização da construção.
 
-#### SECÇÃO V — Espaço de indústria extractiva
+SECÇÃO V
 
-###### Artigo 26.º — Caracterização
+Espaço de indústria extractiva
+
+Artigo 26.º
+
+Caracterização
 
 1 - Os espaços afectos à indústria extractiva são espaços destinados à exploração mineira, a indústrias extractivas ou complementares. O seu objectivo é o da defesa e aproveitamento dos recursos minerais do subsolo com significativo valor económico para o concelho e incluem as áreas de exploração, as áreas de deposição comum e as áreas de potencial aproveitamento.
 
 2 - Os espaços afectos à indústria extractiva encontram-se delimitados na planta de ordenamento e incluem para além do disposto no n.º 1 a área afecta à UNOR 3 - Vigária, UNOR 4 - Lagoa, UNOR 5 - Pardais. A ocupação e a gestão destes espaços serão definidas em sede de plano de pormenor na modalidade de projecto de intervenção em espaço rural. A rede viária principal será composta por arruamentos que tenham 9 m de faixa de rodagem.
 
-###### Artigo 27.º — Identificação e regime
+Artigo 27.º
+
+Identificação e regime
 
 1 - Os espaços afectos à indústria extractiva dividem-se em:
 
@@ -676,21 +801,31 @@ c) Área de potencial aproveitamento (APA) - área de reconhecido potencial geol
 
 2 - Está incluído nesta categoria o limite da área potencial auracuprífera, delimitada na planta de ordenamento. Nesta área devem ser privilegiadas as acções de prospecção e pesquisa dos minérios de ouro e cobre.
 
-#### SECÇÃO VI — Espaço industrial
+SECÇÃO VI
 
-###### Artigo 28.º — Caracterização e regime
+Espaço industrial
+
+Artigo 28.º
+
+Caracterização e regime
 
 As áreas industriais que integram esta categoria correspondem às áreas industriais programadas da Portela e de Bencatel, com plano de pormenor, regendo-se pelas regras estabelecidas nos respectivos planos. Destinam-se especificamente à instalação de estabelecimentos industriais, bem como de estabelecimentos de apoio à actividade produtiva.
 
-#### SECÇÃO VII — Espaços-canais
+SECÇÃO VII
 
-###### Artigo 29.º — Definição
+Espaços-canais
+
+Artigo 29.º
+
+Definição
 
 1 - Os espaços-canais correspondem a corredores de infra-estruturas e estão representadas na planta de ordenamento do concelho à escala 1:25 000.
 
 2 - Nestes espaços aplicam-se as restrições e servidões definidas no capítulo ii do presente Regulamento, nomeadamente para as infra-estruturas rodoviárias e ferroviárias e para as redes de abastecimento de água e saneamento.
 
-###### Artigo 30.º — Rede rodoviária
+Artigo 30.º
+
+Rede rodoviária
 
 1 - O PDMVV estabelece uma hierarquia para a rede rodoviária do concelho, representada graficamente na planta de ordenamento e que é constituída pelos seguintes níveis de acordo com o plano rodoviário nacional em vigor:
 
@@ -714,17 +849,25 @@ d) Caminhos municipais.
 
 7 - Os perfis transversais tipo para as vias previstas no n.º 5 devem estar de acordo com o nível de serviço definido na legislação aplicável.
 
-###### Artigo 31.º — Rede ferroviária
+Artigo 31.º
+
+Rede ferroviária
 
 1 - A rede ferroviária é constituída pelo ramal de Estremoz-Vila Viçosa, actualmente desactivado. Esta linha poderá ser transformada em percurso de recreio e lazer, com equipamentos de apoio, no caso da linha se manter desactivada.
 
 2 - No corredor reservado à ligação ferroviária de alta velocidade entre Lisboa e Madrid são interditas quaisquer alterações ao uso do solo actual até que seja definido o traçado definitivo.
 
-### CAPÍTULO V — Qualificação do solo urbano
+CAPÍTULO V
 
-#### SECÇÃO I — Disposições gerais
+Qualificação do solo urbano
 
-###### Artigo 32.º — Definição
+SECÇÃO I
+
+Disposições gerais
+
+Artigo 32.º
+
+Definição
 
 1 - O solo urbano corresponde aos espaços vocacionados para a urbanização e edificação, infra-estruturados ou não.
 
@@ -746,7 +889,9 @@ e) Áreas de equipamentos;
 
 f) Estrutura ecológica urbana.
 
-###### Artigo 33.º — Regime
+Artigo 33.º
+
+Regime
 
 1 - Nas áreas com ocupação predominantemente habitacional podem existir equipamentos e edifícios industriais cuja actividade seja compatível com o uso habitacional, desde que providos de sistema de controlo da poluição, e instalados isoladamente de modo a evitar a degradação da qualidade de vida dos residentes e a causar incómodos para o meio ambiente envolvente.
 
@@ -764,13 +909,19 @@ b) Depósitos de produtos perigosos, entulhos e de sucata.
 
 6 - As áreas não impermeabilizadas dos lotes ou parcelas deverão ser objecto de tratamento paisagístico garantindo uma boa integração na estrutura ecológica urbana.
 
-###### Artigo 34.º — Habitação de custos controlados ou de promoção social
+Artigo 34.º
+
+Habitação de custos controlados ou de promoção social
 
 Quando se pretender promover a habitação cooperativa, de custos controlados ou de promoção social, os índices de construção, líquidos e brutos, são bonificados de 25 %, desde que a área de intervenção seja igual ou superior a 4000 m2.
 
-#### SECÇÃO II — Solo urbanizado
+SECÇÃO II
 
-###### Artigo 35.º — Caracterização
+Solo urbanizado
+
+Artigo 35.º
+
+Caracterização
 
 1 - O solo urbanizado corresponde ao solo cujas áreas estão consolidadas e que têm um tecido predominantemente consisten te onde é possível a edificação lote a lote ou através de loteamento urbano e que concentram as funções habitacionais, comerciais e de serviços mais significativos.
 
@@ -778,11 +929,13 @@ Quando se pretender promover a habitação cooperativa, de custos controlados ou
 
 3 - Sempre que se verifique a necessidade de garantir a continuidade do tecido urbano e uma adequada relação com o envolvente, o licenciamento de qualquer acção de transformação urbana deverá ser precedido de estudo de conjunto, conforme definido na alínea h) do artigo 5.º
 
-###### Artigo 36.º — Edificabilidade
+Artigo 36.º
+
+Edificabilidade
 
 1 - A edificabilidade nos solos urbanizados rege-se pelos seguintes parâmetros urbanísticos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
 
 2 - A construção de edifícios em terreno livre ou para substituição de edifícios existentes fica sujeita às seguintes prescrições:
 
@@ -796,9 +949,13 @@ d) A profundidade máxima das edificações será de 15 m, não podendo a nova c
 
 e) É permitida a construção de anexos não habitacionais, desde que não sejam ultrapassados os índices referido no n.º 1 deste artigo, e as construções não ocupem uma área superior a 10 % da área total do lote ou propriedade em que se implantem, não ultrapassem 40 m2, nem um pé-direito superior a 2,5 m.
 
-#### SECÇÃO III — Solo cuja urbanização é possível programar
+SECÇÃO III
 
-###### Artigo 37.º — Caracterização
+Solo cuja urbanização é possível programar
+
+Artigo 37.º
+
+Caracterização
 
 1 - O solo cuja urbanização é possível programar (SUP) corresponde às áreas de expansão dos aglomerados urbanos, a desenvolver através da criação de novos conjuntos habitacionais e respectivos equipamentos, bem como de todas as actividades compatíveis com o uso habitacional.
 
@@ -810,17 +967,23 @@ b) Tipo II (SUP2) - corresponde às áreas de expansão urbana. Estas só poder�
 
 3 - A execução destas áreas será feita mediante a elaboração de plano de pormenor, unidades de execução ou loteamento de iniciativa pública ou privada e da execução de infra-estruturas.
 
-###### Artigo 38.º — Edificabilidade
+Artigo 38.º
+
+Edificabilidade
 
 1 - Para enquadrar unidades de planeamento e gestão ou loteamentos, os parâmetros urbanísticos a utilizar são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
 
 2 - Poderão ser licenciadas ou autorizadas construções isoladas destinadas à habitação, unidades de comércio, estabelecimentos hoteleiros ou de restauração e bebidas, serviços e equipamentos, desde que o prédio ou parcela confine com arruamento e já se encontre fisicamente integrado numa estrutura ou ambiente urbano, dispondo de todas as infra-estruturas necessárias.
 
-#### SECÇÃO IV — Áreas urbanas de aptidão turística
+SECÇÃO IV
 
-###### Artigo 39.º — Definição e regime
+Áreas urbanas de aptidão turística
+
+Artigo 39.º
+
+Definição e regime
 
 1 - As áreas urbanas de aptidão turística correspondem a zonas que pelas actividades aí desenvolvidas se apresentam aptas para o desenvolvimento de empreendimentos turísticos e são as delimitadas na planta de ordenamento de Vila Viçosa à escala 1/25 000.
 
@@ -834,9 +997,13 @@ Cércea máxima - 6,5 m;
 
 Lugares de estacionamento - Um lugar/duas camas.
 
-#### SECÇÃO V — Áreas industriais
+SECÇÃO V
 
-###### Artigo 40.º — Regime
+Áreas industriais
+
+Artigo 40.º
+
+Regime
 
 1 - As áreas industriais inseridas nos perímetros urbanos destinam-se a actividades industriais, de comércio e serviços, não poluidoras, compatíveis com o uso habitacional devido à proximidade com os aglomerados urbanos, e são as identificadas na planta de ordenamento como espaços industriais existentes e programados e são constituídas pelas áreas de Pardais, de S. Romão e de Vila Viçosa.
 
@@ -854,17 +1021,25 @@ Cércea - 9 m;
 
 Índice construção máximo - 0,75 m2/m2.
 
-#### SECÇÃO VI — Área de equipamentos
+SECÇÃO VI
 
-###### Artigo 41.º — Princípios
+Área de equipamentos
+
+Artigo 41.º
+
+Princípios
 
 1 - São áreas destinadas predominantemente a equipamentos integrados: sociais, desportivos, de comércio e serviços, existentes, programados e outros, que poderão surgir durante a vigência do Plano.
 
 2 - Os equipamentos seguirão as normas previstas no manual de programação dos equipamentos da DGOTDU, e definidas com maior detalhe no presente Regulamento.
 
-#### SECÇÃO VII — Solo afecto à estrutura ecológica urbana
+SECÇÃO VII
 
-###### Artigo 42.º — Princípios
+Solo afecto à estrutura ecológica urbana
+
+Artigo 42.º
+
+Princípios
 
 1 - Nos aglomerados urbanos são definidas zonas verdes com funções de protecção e de lazer, constituídos por solo afecto à estrutura ecológica urbana, os quais se articulam com os restantes espaços de protecção ambiental pertencentes à estrutura ecológica municipal.
 
@@ -872,7 +1047,9 @@ Cércea - 9 m;
 
 3 - Estas áreas podem assumir funções recreativas, compatíveis com o seu fim de protecção, com preferência para circuitos de passeio pedonal, de bicicleta e equestres, circuito de manutenção ou para miradouros.
 
-###### Artigo 43.º — Interdições
+Artigo 43.º
+
+Interdições
 
 São proibidas as seguintes acções:
 
@@ -884,9 +1061,13 @@ c) Execução de construções, com excepção de equipamentos de apoio a activi
 
 d) Deposição de resíduos, nomeadamente entulhos.
 
-### CAPÍTULO VI — Zonamento acústico
+CAPÍTULO VI
 
-###### Artigo 44.º — Caracterização
+Zonamento acústico
+
+Artigo 44.º
+
+Caracterização
 
 1 - O zonamento acústico está definido no mapa de ruído e divide-se em zonas sensíveis e zonas mistas e tem por objectivo assegurar a qualidade do ambiente sonoro, através do cumprimento de valores limite do nível sonoro contínuo equivalente, ponderado A, LAeq, do ruído ambiente exterior diurno, entardecer e nocturno.
 
@@ -894,27 +1075,37 @@ d) Deposição de resíduos, nomeadamente entulhos.
 
 3 - As zonas mistas referidas no n.º 1 correspondem às áreas cuja ocupação seja afecta a outros usos, existentes ou previstos, para além dos referidos na definição de zona sensível.
 
-###### Artigo 45.º — Regime
+Artigo 45.º
+
+Regime
 
 1 - Nas zonas classificadas pelo zonamento acústico como zona sensível e zona mista deve-se garantir que a exposição a um nível sonoro contínuo equivalente ponderado A, LAeq, do ruído ambiente exterior não ultrapasse os valores seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
 
 2 - É interdito o licenciamento ou a autorização de novas construções para fins habitacionais e a construção de novas escolas ou hospitais ou similares em zonas classificadas como sensíveis ou mistas ou onde não vigore plano de urbanização ou de pormenor sempre que se verifiquem valores do nível sonoro equivalente ponderado A, do ruído ambiente no exterior, que violem o disposto no n.º 1.
 
 3 - Na falta de plano de urbanização ou de pormenor, poderá ser exigida aos interessados a recolha de dados acústicos da zona e o respectivo mapa acústico, observada a natureza do empreendimento, para efeitos da observação do presente regime.
 
-### CAPÍTULO VII — Programação e execução do PDM
+CAPÍTULO VII
 
-#### SECÇÃO I — Planeamento e gestão
+Programação e execução do PDM
 
-###### Artigo 46.º — Áreas de cedência e compensação nas operações de loteamento urbano
+SECÇÃO I
+
+Planeamento e gestão
+
+Artigo 46.º
+
+Áreas de cedência e compensação nas operações de loteamento urbano
 
 1 - O regime a aplicar para as áreas de cedência é o previsto na legislação aplicável.
 
 2 - O regime de compensação no licenciamento de operações de loteamento urbano, quando não haja cedência em espécie de terrenos para espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos que devam integrar o domínio público, é o constante no Regulamento Municipal de Edificação e Urbanização.
 
-###### Artigo 47.º — Mecanismos de perequação compensatória
+Artigo 47.º
+
+Mecanismos de perequação compensatória
 
 1 - O sistema de perequação compensatória é o previsto nas alíneas a) e b) do n.º 1 do artigo 138.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com a redacção dada pelo [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, e aplicam-se nas operações urbanísticas previstas no presente Plano, com excepção das identificadas nas alíneas c), d) e g) do artigo 48.º
 
@@ -942,9 +1133,13 @@ Espaços agrícolas, silvo-pastoris e florestais, rural de usos múltiplos e nú
 
 6 - Nos processos de loteamento que disponham de alvará ou de informação prévia em vigor à data de publicação do PDM, o índice médio de utilização só se aplica mediante acordo dos titulares dos direitos.
 
-#### SECÇÃO II — Unidades operativas de planeamento e gestão
+SECÇÃO II
 
-###### Artigo 48.º — Identificação
+Unidades operativas de planeamento e gestão
+
+Artigo 48.º
+
+Identificação
 
 1 - As unidades operativas de planeamento e gestão (UP) programadas são constituídas pelas áreas delimitadas na planta de ordenamento, identificadas da seguinte forma:
 
@@ -974,30 +1169,42 @@ UP 10 - Plano de Urbanização de Pardais e Núcleos Rurais.
 
 4 - Outras unidades operativas de planeamento e gestão poderão surgir na área do Plano desde que cumpram o disposto no presente Regulamento.
 
-### CAPÍTULO VIII — Disposições finais e complementares
+CAPÍTULO VIII
 
-###### Artigo 49.º — Margem de acerto e rectificação
+Disposições finais e complementares
+
+Artigo 49.º
+
+Margem de acerto e rectificação
 
 1 - Durante a vigência do PDMVV admite-se o acerto pontual dos limites das áreas de solo urbano apenas na contiguidade das respectivas categorias e por razões de natureza técnica prevista na legislação aplicável.
 
 2 - A área de solo urbano, a ampliar em cada acerto não poderá ser superior ao da propriedade a que respeita e que já estava contida nessa área.
 
-###### Artigo 50.º — Documentos legais que integram o PDM
+Artigo 50.º
+
+Documentos legais que integram o PDM
 
 1 - Faz parte integrante do presente Plano a carta educativa do concelho de Vila Viçosa.
 
 2 - Faz parte integrante do presente Plano o mapa de ruído do concelho de Vila Viçosa, aprovado em Assembleia Municipal, transposto na planta de zonamento acústico.
 
-###### Artigo 51.º — Normas revogatórias
+Artigo 51.º
+
+Normas revogatórias
 
 É revogado o anterior PDM aprovado pela [Resolução do Conselho de Ministros n.º 153/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1995-692234), de 25 de Novembro, e todas as normas que entrem em conflito com o presente Regulamento.
 
-###### Artigo 52.º — Vigência e condições de revisão
+Artigo 52.º
+
+Vigência e condições de revisão
 
 O presente Plano Director Municipal tem um período de vigência de 10 anos, devendo ser revisto ao fim desse período.
 
-###### Artigo 53.º — Entrada em vigor
+Artigo 53.º
+
+Entrada em vigor
 
 O presente Plano entra em vigor na data da sua publicação no Diário da República.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0875308769.pdf)

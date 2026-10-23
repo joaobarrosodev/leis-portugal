@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/440/1994/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/440-1994-289787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T12:27:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc736a8b7171f00040109f7d8b73fa11e254623b4863294f0e59daa3ded03b6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c3f3cc765523e907edd8b9a296fab370ec451eb47152d74b9e02a866bd21e4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:27:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério do Ambiente e Recursos Naturais
 - Descrição de Funções
+- Ministério do Ambiente e Recursos Naturais
 - Pessoal Técnico Adjunto
 - Pessoal Técnico Auxiliar
 - Pessoal Técnico Profissional
@@ -76,20 +76,63 @@ relationships:
   target: pt:dre:3118259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 709/95 DE 04-JUL DR.IS-B [152]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ANEXO I PELA PORT 174/96IIS DE 23-SET DA PCM E MAM DR.IIS [230] DE 03/OUT/1996
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-10-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA PORT 189/96IIS DE 10-SET DA PCM, MF E MAM DR.IIS [232] DE 07/OUT/1996 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-10-07'
+- type: amended_by
+  target: pt:dre:226582:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral do Ministério do Ambiente, criado pelo presente diploma, pela PORT.600/96.22.10.1996.PCM,\
+    \ DR.IS-B [245] de 22.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/600-1996-226582
+  date: '1996-10-22'
+- type: amended_by
+  target: pt:dre:2204626:por
+  label: "Alterado o quadro de pessoal pela PORT.466/2001(2ªSÉRIE).2000.06.05.MDN, DR.IIS [52] de 2/MAR/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/466-2001-2204626
+  date: '2000-06-05'
+- type: amended_by
+  target: pt:dre:785380:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo ao presente diploma, pela PORT.1354/2000(2ªSÉRIE).2000.08.14.MAOT\
+    \ DR.IIS [207] DE 07/SET/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1354-2000-785380
+  date: '2000-08-14'
+- type: amended_by
+  target: pt:dre:3118259:por
+  label: "Alterado o quadro de pessoal constante da Portaria 440/94, de 30-Jun, DR.IS-B [149] com as alterações introduzidas\
+    \ pelas Port. 709/95, de 4-Jul, 189/96, de 7-Out e 600/96, de 22-Out. pela PORT.794/2004(2ªSérie).25.05.2004.MF, DR.IIS\
+    \ [163] de 13.07.2004\004\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/794-2004-3118259
+  date: '2004-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/188/1993/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/188/1993/05/24/p/dre
+- type: cites
+  target: pt:dre:283520:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:27:39Z'
   warnings: []
   errors: []
 ---
@@ -112,11 +155,11 @@ Manda o Governo, pelos Ministros das Finanças e do Ambiente e Recursos Naturais
 
 Ministérios das Finanças e do Ambiente e Recursos Naturais.
 
-**Assinada em 8 de Junho de 1994.**
+Assinada em 8 de Junho de 1994.
 
 Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/149b00/34443446.pdf))](https://files.diariodarepublica.pt/1s/1994/06/149b00/34443446.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/149b00/34443446.pdf)
 
 ## ANEXO II — Conteúdos funcionais das carreiras de técnico-adjunto e técnico auxiliar do grupo de pessoal técnico-profissional
 

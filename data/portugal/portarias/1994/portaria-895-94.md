@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/895/1994/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/895-1994-600492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 804d86bf03eacce0652c6d71b163425d5cfc6528ec07dc93f6f418bf9dbdae3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcaf3b0796c159bbc58cc7b778ac85cc82fc2431e49519c79764c8eb49b7bbb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Águas Residuais
 - Atividade Industrial
-- Instituto da ÁGUA
 - Contrato Programa
 - Definição de Competências
 - Descarga de ÁGUA Residual
 - Direcção Regional do Ambiente
 - Direcção Regional do Ambiente e Recursos Naturais
-- Proteção do Ambiente
-- Águas Residuais
+- Instituto da ÁGUA
 - Poluição da água
+- Proteção do Ambiente
 - Tratamento de ÁGUA
 relationships:
 - type: amended_by
   target: pt:dre:667919:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430457:por
+  label: "Mantida em vigor pelo DEC LEI.236/98.1998.08.01.MAM DR.IS-A [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1998-430457
+  date: '1998-08-01'
 - type: cites
   target: celex:31976L0464
   label: null
@@ -102,16 +107,21 @@ relationships:
   target: celex:31990L0415
   label: null
   source: http://data.europa.eu/eli/dir/1990/415/oj
+- type: repealed_by
+  target: pt:dre:667919:por
+  label: "Revogada pelo DEC LEI.390/99.1999.09.30.MAM DR.IS-A [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/390-1999-667919
+  date: '1999-09-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:46Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +252,7 @@ b) Para as unidades já existentes em 1 de Janeiro de 1995.
 
 Ministérios da Indústria e Energia, da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 2 de Setembro de 1994.**
+Assinada em 2 de Setembro de 1994.
 
 Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
 
@@ -252,19 +262,19 @@ A) 1,2-dicloroetano
 
 N.º CAS 107-06-2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
 
 B) Tricloroetileno
 
 N.º CAS 79-01-6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
 
 C) Percloroetileno
 
 N.º CAS 127-18-14
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
 
 D) Triclorobenzeno
 
@@ -282,11 +292,11 @@ O TCB técnico é uma mistura dos três isómeros, com predominância do 1,2,4-T
 
 As presentes disposições aplicam-se ao TCB total (soma de três isómeros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
 
 ## ANEXO II — Objectivos de qualidade para os meios receptores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
 
 ## ANEXO III — Métodos de referência
 

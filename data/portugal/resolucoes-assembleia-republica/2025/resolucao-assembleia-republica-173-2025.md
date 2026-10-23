@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/173/2025/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/173-2025-944098800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T12:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39d5d66c11d26f19bc64dee495f7611fa26ccb38cac60077a82c3f48cc6a3a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13c749d5c413a128ae82c7ea581d91528440264909aa7f69652f1f15110fdeaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,30 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Transfronteira
-- Portugal
 - Espanha
 - Faro
 - Pesca
 - Pesca Desportiva
 - Pesca Profissional
+- Portugal
 - Rio Guadiana
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:944098798:por
+  label: Ratificado o Acordo pelo(a) Decreto do Presidente da República n.º 108/2025 - Diário da República n.º 213/2025, Série
+    I de 2025-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/108-2025-944098798
+  date: '2025-11-04'
 article_structure:
   article_count: 34
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:23:57Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 30 de setembro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA RELATIVO À PESCA NO TROÇO INTERNACIONAL DO RIO GUADIANA (TIRG)
 
@@ -458,14 +464,14 @@ José Manuel Albares Bueno, Ministro dos Assuntos Exteriores, União Europeia e 
 
 (a que se refere o artigo 10.º)
 
-| Português | Espanhol | Nome científico | Tamanho peso/mínimo |
+| Nome vulgar | Nome científico | Tamanho peso/mínimo |  |
 | --- | --- | --- | --- |
-| Nome vulgar | Nome vulgar | Nome científico | Tamanho peso/mínimo |
-| Peixes | Peixes | Peixes | Peixes |
+| Português | Espanhol |  |  |
+| Peixes |  |  |  |
 | Barbo | Barbo | Barbus spp. | 30 cm |
 | Dourada | Dorada | Sparus aurata | 19 cm |
 | Corvina | Corvina | Argyrosomus regius | 42 cm |
-| Enguia/meixão (*) (<sup>1</sup>) | Anguila | Anguilla anguilla | 22 cm |
+| Enguia/meixão (*) (1) | Anguila | Anguilla anguilla | 22 cm |
 | Lampreia (*) | Lamprea | Petromyzon marinus | 35 cm |
 | Linguado | Lenguado | Solea spp. | 24 cm |
 | Robalo | Lubina | Dicentrarchus labrax | 36 cm |
@@ -474,13 +480,13 @@ José Manuel Albares Bueno, Ministro dos Assuntos Exteriores, União Europeia e 
 | Sargos | Sargos | Diplodus spp. | 15 cm |
 | Sável e savelha ou saboga (*) | Sabalo | Alosa spp. | 30 cm |
 | Tainha | Lisas, Mugel | Mugilidae | 20 cm |
-| Moluscos | Moluscos | Moluscos | Moluscos |
+| Moluscos |  |  |  |
 | Choco vulgar | Choco | Sepia officinallis | 10 cm |
 | Polvo vulgar (*) | Pulpo | Octupus vulgaris | 1 kg |
 
 (*) Espécies de captura não autorizada na modalidade da pesca lúdica.
 
-(<sup>1</sup>) A captura de meixão é expressamente proibida. A captura de enguia maior que 22 cm só se poderá realizar com autorização emitida pela Parte Portuguesa. A enguia capturada na fase prateada deverá ser devolvida viva ao seu meio natural de forma imediata.
+(1) A captura de meixão é expressamente proibida. A captura de enguia maior que 22 cm só se poderá realizar com autorização emitida pela Parte Portuguesa. A enguia capturada na fase prateada deverá ser devolvida viva ao seu meio natural de forma imediata.
 
 ## ANEXO II — Descrição das artes profissionais autorizadas no Troço Internacional do Rio Guadiana
 
@@ -972,14 +978,14 @@ José Manuel Albares Bueno, Ministro de Asuntos Exteriores, Unión Europea y Coo
 
 (a que se refiere el artículo 10)
 
-| Portugués | Español | Nombre científico | Tamaño peso/mínimo |
+| Nombre vulgar | Nombre científico | Tamaño peso/mínimo |  |
 | --- | --- | --- | --- |
-| Nombre vulgar | Nombre vulgar | Nombre científico | Tamaño peso/mínimo |
-| Peces | Peces | Peces | Peces |
+| Portugués | Español |  |  |
+| Peces |  |  |  |
 | Barbo | Barbo | Barbus spp. | 30 cm |
 | Dourada | Dorada | Sparus aurata | 19 cm |
 | Corvina | Corvina | Argyrosomus regius | 42 cm |
-| Enguia (*) (<sup>1</sup>) | Anguila | Anguilla anguilla | 22 cm |
+| Enguia (*) (1) | Anguila | Anguilla anguilla | 22 cm |
 | Lampreia (*) | Lamprea | Petromyzon marinus | 35 cm |
 | Linguado | Lenguado | Solea spp. | 24 cm |
 | Robalo | Lubina | Dicentrarchus labrax | 36 cm |
@@ -988,13 +994,13 @@ José Manuel Albares Bueno, Ministro de Asuntos Exteriores, Unión Europea y Coo
 | Sargo | Sargo | Diplodus spp. | 15 cm |
 | Sável e savelha ou saboga (*) | Sábalo | Alosa spp. | 30 cm |
 | Tainha | Lisas, Mugel | Mugilidae | 20 cm |
-| Moluscos | Moluscos | Moluscos | Moluscos |
+| Moluscos |  |  |  |
 | Choco vulgar | Choco | Sepia officinallis | 10 cm |
 | Polvo vulgar (*) | Pulpo | Octopus vulgaris | 1 kg |
 
 (*) Especies de captura no autorizada en modalidad de pesca recreativa.
 
-(<sup>1</sup>) La captura de angula está expresamente prohibida. La captura de anguila mayor de 22 cm solo se podrá realizar con una autorización emitida por la Parte Portuguesa. Las capturas de anguila en fase plateada deberán ser devueltas vivas a su medio natural de manera inmediata.
+(1) La captura de angula está expresamente prohibida. La captura de anguila mayor de 22 cm solo se podrá realizar con una autorización emitida por la Parte Portuguesa. Las capturas de anguila en fase plateada deberán ser devueltas vivas a su medio natural de manera inmediata.
 
 ## ANEXO II — Descripción de las artes profesionales permitidas en el Tramo Internacional del Río Guadiana
 
@@ -1059,3 +1065,7 @@ b) Altura máxima de la red - 2,6 m;
 c) Dimensiones mínimas de la malla - 80 mm;
 
 d) Número máximo de redes por embarcación - 4.
+
+119664852
+
+.Tbl2 { min-height:17px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:26px; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl10 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl11 { min-height:20px; }

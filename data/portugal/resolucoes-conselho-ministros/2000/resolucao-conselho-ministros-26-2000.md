@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2000-274224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6556b59163b513df1172c40fe3d2ac51247df9ef0cf26a701e751175092532cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96d396a6f93d23c9cbad4eb2e2cf4151fe4fccd611b6280ec82d30ebadb9fe55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,55 +67,74 @@ reuse:
 subjects:
 - Administração Central
 - Angra do Heroísmo
-- Gestão de Resíduos
-- Financiamento
-- Empresa
-- Programa Polis
+- Autarquia Local
+- Câmara Municipal
 - Cidade
-- Realojamento
-- Renovação Urbana
-- FEDER
-- Grupo de Trabalho
-- FSE
-- Proteção do Ambiente
-- Património Mundial
 - Diversidade Biológica
+- Empresa
+- Estabelecimento de Ensino
+- Évora
+- FEDER
+- Financiamento
+- FSE
+- Gestão de Resíduos
 - Gestão do Ambiente
+- Grupo de Trabalho
+- Ministério do Ambiente e do Ordenamento do Território
+- Património Mundial
 - Plano de Pormenor
 - Plano de Urbanização
 - Política do Ambiente
-- Estabelecimento de Ensino
+- Porto
 - Programa de Requalificação Urbana
 - Programa Interreg
+- Programa Polis
+- Proteção do Ambiente
 - QCA III
 - Qualidade de VIDA
-- Câmara Municipal
-- Évora
-- Ministério do Ambiente e do Ordenamento do Território
+- Realojamento
+- Renovação Urbana
 - Sintra
 - Transporte
 - Tratamento de ÁGUA
-- Autarquia Local
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:259962:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Deteminada a reestruturação do Programa POLIS - Programa de Requalificação Urbana e Valorização Ambiental das Cidades\
+    \ , aprovado pelo presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de 17.01.2012, nos termos do disposto\
+    \ no nº 4 do seu art. 34º; passando a funcionar junto da Direcção-Geral do Território, criada naquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/354/1993/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/354/1993/10/09/p/dre
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669800:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:50Z'
   warnings: []
   errors: []
 ---
@@ -538,7 +557,7 @@ QUADRO N.º 1
 
 Síntese das principais características das componentes e linhas de intervenção do Programa Polis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 5 - Financiamento e modalidades de participação
 
@@ -568,19 +587,19 @@ QUADRO N.º 2
 
 Indicativo das necessidades de investimento do Programa Polis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 QUADRO N.º 3
 
 Indicativo das fontes de financiamento do Programa Polis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 QUADRO N.º 4
 
 Valores indicativos dos níveis de comparticipação para as componentes do Programa Polis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 Tal como foi referido, as principais fontes de financiamento do Programa Polis são a «Melhoria do ambiente urbano» (medida 2.1) da Intervenção Operacional Ambiente, a sua componente desconcentrada nas intervenções operacionais regionais (eixo prioritário 3), suportadas pelo FEDER, e as acções integradas de qualificação das cidades e de requalificação metropolitana das intervenções operacionais regionais (eixo prioritário 2), suportadas pelo FEDER e pelo FSE. Os valores indicativos das disponibilidades financeiras de cada uma destas fontes de financiamento são apresentados nos quadros n.os 5, 6 e 7. O quadro n.º 5 diz respeito às componentes nacional e desconcentrada da medida 2.1 (FEDER) da Intervenção Operacional Ambiente. Os quadros n.os 6 e 7 são relativos aos montantes do FEDER e do FSE, respectivamente, em cada uma das intervenções operacionais regionais.
 
@@ -592,25 +611,25 @@ QUADRO N.º 5
 
 Indicativo das disponibilidades financeiras (FEDER) na medida 2.1 da IO Ambiente para investimentos no âmbito do Programa Polis.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 QUADRO N.º 6
 
 Indicativo das disponibilidades financeiras (FEDER) no eixo prioritário 2 das intervenções operacionais regionais para investimentos no âmbito do Programa Polis.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 QUADRO N.º 7
 
 Indicativo das disponibilidades financeiras (FSE) no eixo prioritário 2 das intervenções operacionais regionais para investimentos no âmbito do Programa Polis.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 QUADRO N.º 8
 
 Indicativo das fontes de financiamento das componentes e linhas de intervenção do Programa Polis com base no QCA III
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 6 - Acesso, selecção e tipologia de projectos
 
@@ -1114,11 +1133,11 @@ Apoiar as intervenções operacionais incluídas no QCA III nas acções necess�
 
 Recolher e tratar a informação relativa aos indicadores e estatísticas de acompanhamento dos projectos enquadráveis no Programa Polis;
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 Fig. 1 - Articulação do Gabinete Coordenador do Programa Polis com as entidades responsáveis pela gestão das várias linhas de financiamento comunitário
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 Fig. 2 - Relacionamento do Gabinete Coordenador do Programa Polis com os promotores de projectos no âmbito da componente 1 do Programa
 
@@ -1884,9 +1903,9 @@ QUADRO N.º 31
 
 Análise dos projectos face ao reforço do sistema urbano nacional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 Fig. 3 - Dinâmicas urbanas territoriais
 
@@ -1918,7 +1937,7 @@ QUADRO N.º 32
 
 Análise dos projectos face à tipologia de intervenções
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 No quadro n.º 34 apresenta-se a forma como cada um dos casos analisados pode contribuir para a satisfação dos critérios estabelecidos e, desse modo, para a satisfação dos desígnios do Programa. Deve ser sublinhado que as questões relativas às Cidades Verdes e às Cidades Intergeracionais são mais fáceis de avaliar porque têm a ver com medidas concretas, frequentemente infra-estruturais, que os projectos se propõem realizar.
 
@@ -1978,13 +1997,13 @@ QUADRO N.º 34
 
 Análise dos projectos face aos desígnios do Programa
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 QUADRO N.º 35
 
 Viabilidade de execução imediata das intervenções
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
+[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)](https://files.diariodarepublica.pt/1s/2000/05/112b00/21062143.pdf)
 
 9 - Conclusões e recomendações
 

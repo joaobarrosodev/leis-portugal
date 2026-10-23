@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/192b00/43174322.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/138/1997/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/138-1997-196222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a238e8257388b1312253d8b5e2e7bd3048e8bba4a31dc8fb8a924e753dbad59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f45050c46d8e6dba18349b5b4301357b895e2b66d335bd0403e1c45ea67976f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Política de Solos
-- Plano de Urbanização
 - Figueira da Foz
+- Ordenamento do Território
+- Plano de Urbanização
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
@@ -98,16 +98,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/42/1994/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/42/1994/06/18/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620754:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108152286:por
+  label: Revogado, a partir de 18.09.2017, o Plano de Urbanização do Paião ratificado pela presente Resolução, pelo(a) Aviso
+    n.º 10633/2017 - Diário da República n.º 179/2017, Série II de 2017-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10633-2017-108152286
+  date: '2017-09-15'
 article_structure:
   article_count: 25
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:42Z'
   warnings: []
   errors: []
 ---
@@ -384,7 +426,7 @@ d) É interdito o estabelecimento de linhas aéreas sobre recintos escolares;
 
 e) Na proximidade de locais destinados ao armazenamento e manipulação de produtos explosivos, as linhas aéreas têm de ser estabelecidas a distâncias não inferiores às seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/192b00/43174322.pdf))](https://files.diariodarepublica.pt/1s/1997/08/192b00/43174322.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/192b00/43174322.pdf)
 
 f) Junto a instalações destinadas ao armazenamento e ao tratamento industrial de petróleos brutos, seus derivados e resíduos não será permitido o estabelecimento de linhas aéreas a distâncias, em projecção horizontal, inferiores às consideradas perigosas para aquelas instalações;
 
@@ -692,4 +734,4 @@ c) Estudo de bancas e respectivas protecções e cobertos.
 
 3 - Um ano após a entrada em vigor do Plano, os processos pendentes referidos no número anterior são obrigatoriamente apreciados e decididos de acordo com o presente Plano de Urbanização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/192b00/43174322.pdf))](https://files.diariodarepublica.pt/1s/1997/08/192b00/43174322.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/192b00/43174322.pdf)

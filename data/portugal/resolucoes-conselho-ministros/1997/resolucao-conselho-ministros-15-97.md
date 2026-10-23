@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/15/1997/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-1997-570305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:37:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e07feeb59b191354e60db7b3217f2b8bb594ee52793d5f15dc532bf05b6b3fbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e8bf6d73f5116ace9b7bcf6283a4a5ba97cb0d72e1377b765c04fa385f9da77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:37:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
 - Montijo
-- Proteção do Ambiente
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 relationships:
+- type: amended_by
+  target: pt:dre:66372595:por
+  label: Tornada pública a alteração dos arts. 31.º, 32.º e 36.º do Regulamento do Plano Diretor Municipal de Montijo pelo(a)
+    Aviso n.º 1076/2015 - Diário da República n.º 20/2015, Série II de 2015-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1076-2015-66372595
+  date: '2015-01-29'
 - type: cites
   target: celex:31991L0271
   label: null
@@ -82,14 +88,14 @@ relationships:
   source: http://data.europa.eu/eli/reg/1992/2078/oj
 article_structure:
   article_count: 93
-  section_count: 61
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 50
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:37:59Z'
   warnings: []
   errors: []
 ---
@@ -136,15 +142,15 @@ O referido Decreto-Lei n.º 69/90, de 2 de Março, actualizado pelo Decreto-Lei 
 
 O Regulamento do Plano Director Municipal do Montijo encontra-se organizado da seguinte maneira:
 
-## Título I, «Disposições gerais, constituição e definições»;
+Título I, «Disposições gerais, constituição e definições»;
 
-## Título II, «Classes e categorias de espaço»;
+Título II, «Classes e categorias de espaço»;
 
-## Título III, «Unidades operativas de planeamento e gestão»;
+Título III, «Unidades operativas de planeamento e gestão»;
 
-## Título IV, «Condicionantes/servidões e restrições de utilidade pública»;
+Título IV, «Condicionantes/servidões e restrições de utilidade pública»;
 
-## Título V, «Disposições complementares»;
+Título V, «Disposições complementares»;
 
 ## Título VI, «Disposições finais».
 
@@ -230,7 +236,7 @@ De acordo com estes princípios foi estabelecido o Regulamento, o qual define o 
 
 Finalmente, refere-se que o solo natural é objecto de protecção específica, pelo que estão sujeitas a licenciamento municipal, nos termos do Decreto-Lei n.º 139/89, de 28 de Abril, as acções de destruição do revestimento vegetal que não tenham fins agrícolas, bem como ainda as acções de aterro ou escavação que conduzam à alteração do relevo natural e das camadas do solo arável, aplicando-se às infracções o regime jurídico previsto no referido Decreto-Lei n.º 139/89.
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais, constituição e definições
 
@@ -354,7 +360,7 @@ k) Número de pisos máximo - número total de pavimentos sobrepostos, incluindo
 
 l) Lugar de estacionamento - área não edificada de domínio público afecta em exclusivo a estacionamento de veículo ligeiro e servida por arruamento ou área de domínio privado afecta em exclusivo a essa utilização - com as dimensões estabelecidas na Portaria n.º 1182/92, de 22 de Dezembro.
 
-## TÍTULO II
+TÍTULO II
 
 Classes e categorias de espaço
 
@@ -546,7 +552,7 @@ c) Zona a reabilitar (R) - correspondente a zona com estrutura urbana mal defini
 
 1 - Quadro de caracterização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf))](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
 
 a) A área bruta de pavimento construído acima do nível do terreno equivalente a um fogo, para referência do número de fogos quando não se encontrem caracterizados, é 150 m2 = 1 fogo.
 
@@ -722,7 +728,7 @@ b) Zona não programada (n/p) - correspondente à zona do espaço urbanizável n
 
 1 - Quadro de caracterização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf))](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
 
 a) A área bruta de pavimento construído acima do nível do terreno equivalente a um fogo, para referência do número de fogos quando não se encontrem caracterizados, é 150 m2 = 1 fogo.
 
@@ -796,7 +802,7 @@ b) Área industrial proposta - correspondente às áreas industriais propostas e
 
 2 - Quadro de caracterização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf))](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
 
 ###### Artigo 24.º — Normas gerais a observar
 
@@ -1372,7 +1378,7 @@ d) Área de ETAR - constituída pelas áreas de reserva para a instalação de E
 
 2 - No espaço afecto a instalação de interesse público dever-se-ão manter as actividades tradicionais instaladas compatíveis com a utilização a que está afecta.
 
-## TÍTULO III
+TÍTULO III
 
 Unidades operativas de planeamento e gestão
 
@@ -1420,7 +1426,7 @@ Zona a preservar de Canha (*).
 
 5 - Os PMOT assinalados com (*) nos n.os 2.º 3.º e 4.º constituem uma 1.ª prioridade de concretização no horizonte do PDMM.
 
-## TÍTULO IV
+TÍTULO IV
 
 Condicionantes/servidões e restrições de utilidade pública
 
@@ -1838,7 +1844,7 @@ Marco geodésico de Vale de Coelhos.
 
 Referência do local sujeito a servidão - toda a zona oeste do concelho abrangida pela zona de defesa e controlo urbano estabelecida no Decreto n.º 9/93, de 18 de Março, para a margem sul do rio Tejo sujeita ao impacte da amarração da nova ponte rodoviária.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições complementares
 
@@ -1862,7 +1868,7 @@ K2 é o parâmetro para fixação da área afecta a equipamentos;
 
 3 - Os valores referidos no n.º 2 de K1 e K2 são, consoante a área regulamentada a que se referem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf))](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
 
 ###### Artigo 85.º — Arruamentos e estacionamentos
 
@@ -1874,7 +1880,7 @@ K2 é o parâmetro para fixação da área afecta a equipamentos;
 
 4 - A repartição do número de lugares de estacionamento privado e público corresponde, respectivamente, consoante a utilização da edificação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf))](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
 
 5 - A aplicação dos n.os 1 a 4 incide no licenciamento de loteamento urbano.
 
@@ -1944,7 +1950,7 @@ c.4) O ajustamento dos limites referidos na alínea c.1) apenas poderá abranger
 
 Às situações não previstas no presente Regulamento aplica-se o disposto na legislação vigente.
 
-## TÍTULO VI
+TÍTULO VI
 
 Disposições finais
 
@@ -2990,11 +2996,11 @@ Nas EN que constituem o PRN, as zonas non aedificandi vigoram a partir da aprova
 
 Nas EN que não constituem o PRN, as zonas de servidão non aedificandi são fixadas genericamente pelo Decreto-Lei n.º 13/71, de 23 de Janeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf))](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
 
 Para os nós de ligação é considerada zona de servidão non aedificandi o solo situado num círculo de 1300 m de diâmetro centrado em cada nó de ligação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf))](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
 
 Nas zonas non aedificandi poderão ser autorizadas algumas construções sujeitas a condicionamentos. É ainda considerada a distância mínima de certas ocupações condicionadas ao limite da plataforma da estrada.
 
@@ -3172,7 +3178,7 @@ Decreto-Lei n.º 38382, de 7 de Agosto de 1951 - Regulamento Geral das Edificaç
 
 Decreto-Lei n.º 637/76, de 29 de Julho - licenciamento de objectos de publicidade nas áreas urbanas;
 
-## Anexo A ao Despacho conjunto MPAT e MOPT de 19 de Abril de 1991, publicado no Diário da República, 2.ª série, n.º 106, de 9 de Maio de 1991 - estabelece as normas técnicas para as EN a integrar na rede municipal.
+Anexo A ao Despacho conjunto MPAT e MOPT de 19 de Abril de 1991, publicado no Diário da República, 2.ª série, n.º 106, de 9 de Maio de 1991 - estabelece as normas técnicas para as EN a integrar na rede municipal.
 
 Entidade com jurisdição. - Câmara Municipal.
 
@@ -3634,7 +3640,9 @@ CCRLVT é a entidade com jurisdição definida no Decreto n.º 9/93.
 
 Regulamentação de uso no âmbito do PDMM. - A estabelecida pela servidão de zona de defesa e controlo urbano sob jurisdição da CCRLVT.
 
-## ANEXO II — Identificação das abreviaturas inseridas no texto do regulamento
+ANEXO II
+
+Identificação das abreviaturas inseridas no texto do regulamento
 
 AIA - avaliação de impacte ambiental.
 
@@ -3718,7 +3726,9 @@ SNB - Serviço Nacional de Bombeiros.
 
 UOPG - unidade operativa de planeamento e gestão.
 
-## ANEXO III — Manual de apoio à gestão
+ANEXO III
+
+Manual de apoio à gestão
 
 Preâmbulo
 
@@ -4154,7 +4164,9 @@ a) As formas e o regime de protecção do património cultural encontram-se defi
 
 b) Ainda segundo a referida Lei n.º 13/85, artigo 7.º, a protecção legal dos bens que integram o património cultural assenta na classificação dos mesmos, pelo que no artigo 69.º do presente Regulamento se enumeram os imóveis classificados no concelho, os imóveis propostos para classificação.
 
-## ANEXO IV — Regulamentação subsidiária
+ANEXO IV
+
+Regulamentação subsidiária
 
 A - Preâmbulo
 
@@ -4188,7 +4200,7 @@ I é o índice de revisão de preços referentes à base 1 considerada quando de
 
 Os valores de W1, W2, W3 e W4 são, consoante a localização e a utilização a que se referem, os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf))](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
 
 c) O pagamento da taxa referida na alínea a) poderá ser feito em dinheiro ou, em sua substituição, em terreno a integrar no domínio municipal e localizado no concelho, desde que esta modalidade seja requerida pelos interessados e aceites pela CMM.
 
@@ -4222,4 +4234,4 @@ e) Considera-se a habilitação profissional de arquitecto qualificada para a el
 
 f) A Câmara Municipal é a entidade competente para aprovar os projectos, estudos e regulamentos que se referem no presente articulado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf))](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/027b00/05440581.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/972/1994/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-1994-621159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T12:42:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fc51b9f798a0429d252d5ec485841fbea39fd4b0825ea37acb3bddfa6a11612
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49c96205708dafc8eb4d91b5fdf71bdf35b3d7f7dcd41852df2d121880457bdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:42:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Bragança
 - Curso de Informática de Gestão
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
-- Bragança
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:406699:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406699:por
+  label: "Aditado o n.º 1.º-A pela PORT.369/96.19.08.1996.ME, DR.IS-B [191] de 19.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-1996-406699
+  date: '1996-08-19'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575743:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:42:42Z'
   warnings: []
   errors: []
 ---
@@ -138,8 +163,8 @@ São revogados os quadros anexos à [Portaria n.º 862/90](https://diariodarepub
 
 Ministério da Educação.
 
-**Assinada em 3 de Outubro de 1994.**
+Assinada em 3 de Outubro de 1994.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/251b00/65356536.pdf))](https://files.diariodarepublica.pt/1s/1994/10/251b00/65356536.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/251b00/65356536.pdf)

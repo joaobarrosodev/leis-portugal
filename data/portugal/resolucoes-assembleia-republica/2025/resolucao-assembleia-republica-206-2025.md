@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/206/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/206-2025-992627240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e01630434b3b621dd9a6fce9b620ca9796aabdcff95add491ff4eda26a573f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6186e182993c951238392882063a0e288838ba6f5cea64e7ffee26af2fbf9472
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Definição de Competências
 - Orgânica
-- Assembleia da República
 - Quadro de Pessoal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:20/2004
+  label: Altera, a partir de 1 de janeiro de 2026, os artigos 11.º, 12.º, 14.º, 15.º, 17.º, 20.º, 21.º, 23.º, 24.º, 25.º,
+    26.º, 27.º, 28.º, 30.º, 31.º, 37.º, 38.º e 40.º e revoga a alínea l) do artigo 8.º, a alínea e) do n.º 1 do artigo 14.º
+    e a alínea c) do artigo 21.º da Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro, Diário da República
+    n.º 39/2004, Série I-A
+  source: null
+  date: '2004-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/125/2025/04/07/p/dre
   label: null
@@ -103,16 +111,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/82/2004/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/82/2004/12/27/p/dre
+- type: cites
+  target: pt:dre:114891061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67164531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913947256:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:24:43Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +169,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 ###### Artigo 1.º — Objeto
 
-A presente resolução procede à oitava alteração à [Resolução da Assembleia da República n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2004-579366), de 16 de fevereiro, que aprova a estrutura e competências dos serviços da Assembleia da República, alterada pelas Resoluções da Assembleia da República n.<sup>os</sup>[82/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/82-2004-353947), de 27 de dezembro, [53/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/53-2006-538625), de 7 de agosto, [57/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-2010-335231), de 23 de junho, [60/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2014-25345624), de 30 de junho, [48/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/48-2015-67164531), de 7 de maio, [74/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/74-2018-114891061), de 20 de março, e [125/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/125-2025-913947256), de 7 de abril.
+A presente resolução procede à oitava alteração à [Resolução da Assembleia da República n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2004-579366), de 16 de fevereiro, que aprova a estrutura e competências dos serviços da Assembleia da República, alterada pelas Resoluções da Assembleia da República n.os[82/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/82-2004-353947), de 27 de dezembro, [53/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/53-2006-538625), de 7 de agosto, [57/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-2010-335231), de 23 de junho, [60/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2014-25345624), de 30 de junho, [48/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/48-2015-67164531), de 7 de maio, [74/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/74-2018-114891061), de 20 de março, e [125/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/125-2025-913947256), de 7 de abril.
 
 ###### Artigo 2.º — Alteração à [Resolução da Assembleia da República n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2004-579366), de 16 de fevereiro
 
@@ -157,7 +201,9 @@ i) [Anterior alínea h).]
 
 j) [Anterior alínea i).]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 [...]
 
@@ -189,7 +235,9 @@ m) [...]
 
 n) [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -207,7 +255,9 @@ f) Garantir, em conjunto com os respetivos chefes de divisão, a preservação, 
 
 2 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 [...]
 
@@ -235,7 +285,9 @@ k) Promover e participar em projetos que contribuam para a visibilidade e usabil
 
 l) [Anterior alínea k).]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -269,7 +321,9 @@ n) [...]
 
 2 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 [...]
 
@@ -311,7 +365,9 @@ r) Desenvolver as ações de manutenção do património imobiliário afeto à A
 
 s) [Anterior alínea r).]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 [...]
 
@@ -357,7 +413,9 @@ t) Participar em projetos de investigação, encontros nacionais e internacionai
 
 u) [Anterior alínea j).]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -383,7 +441,9 @@ j) Assegurar o serviço de tradução e coordenar os pedidos de interpretação.
 
 2 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 [...]
 
@@ -409,7 +469,9 @@ j) Coordenar, na sua área de competência, a participação da Assembleia da Re
 
 k) [Anterior alínea j).]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 [...]
 
@@ -429,7 +491,9 @@ g) [...]
 
 h) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 [...]
 
@@ -451,7 +515,9 @@ h) Assegurar os serviços de interpretação nos atos da Assembleia da Repúblic
 
 i) [Anterior alínea d).]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -485,7 +551,9 @@ n) [Anterior alínea m).]
 
 2 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 [...]
 
@@ -509,7 +577,9 @@ i) [...]
 
 j) Acompanhar, em articulação com a DGC, a execução dos contratos da sua área de competência, nomeadamente os relativos aos serviços de reportagem fotográfica e de videografia de atos oficiais e de atividades da Assembleia da República.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 [...]
 
@@ -529,7 +599,9 @@ g) Conceção e organização de exposições inéditas, de iniciativa interna, 
 
 h) [Anterior alínea g).]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 [...]
 
@@ -547,7 +619,9 @@ f) Acolher e acompanhar a apresentação de exposições temáticas de iniciativ
 
 g) [...]
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 [...]
 
@@ -561,7 +635,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 [...]
 
@@ -585,7 +661,9 @@ i) Acompanhar a execução e proceder à gestão dos contratos relativos à rest
 
 j) [Anterior alínea i).]
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -611,4 +689,6 @@ A presente resolução entra em vigor no dia 1 de janeiro de 2026.
 
 Aprovada em 19 de dezembro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+119918406

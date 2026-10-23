@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1327/1995/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1327-1995-674463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3703ba71f3952497b8e402216558cdc849c5a4183920d51795fe731c554f947d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 988b2ecc287f5d7a493e7ddf87dfbede6d71c5abe893c79c9d44c5afd9676da1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Arbitragem
 - Braga
 - Centro de Arbitragem
-- Póvoa do Lanhoso
 - Comércio
+- Póvoa do Lanhoso
 - Terras de Bouro
 - Vieira do Minho
 - VILA Verde
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/639/1995/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/639/1995/06/22/p/dre
+- type: cites
+  target: pt:dre:210810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475675:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:26Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +115,6 @@ O centro tem a sua sede na Rua de D. Diogo de Sousa, 91, Braga.
 
 Ministério da Justiça.
 
-**Assinada em 28 de Setembro de 1995.**
+Assinada em 28 de Setembro de 1995.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/629/1994/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/629-1994-298838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:32:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d846ca19f5655115f4fef51c5c5342072331872c8d720e6730521fa3983e6e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35eb0a4049072456b7d3ad4030e7458107aaf42d9dc0fc14158e9c6b89f23fba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,26 @@ relationships:
   target: pt:dre:460180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551783:por
+  label: "Transferida para a Associação de Caçadores do Gradil a zona de caça associativa concessionada pelo presente diploma,\
+    \ pela PORT.210/2004.03.03.2004.MADRP, DR.IS-B [53] de 03.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/210-2004-551783
+  date: '2004-03-03'
+- type: amended_by
+  target: pt:dre:482155:por
+  label: "Renovada por doze anos, com efeitos a partir de 16.07.2009, a concessão da zona de caça atribuída pelo presente\
+    \ diploma, com as alterações constantes da Port 210/2004 de 03-Mar, pela PORT.1453/2009.29.12.2009.MADRP, DR.IS [250]\
+    \ de 29.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1453-2009-482155
+  date: '2009-12-29'
+- type: amended_by
+  target: pt:dre:460180:por
+  label: "Renovada pelo período de doze anos, com efeitos a partir de 16.07.2009, a concessão da zona de caça atribuída neste\
+    \ diploma, com as alterações constantes da Port 210/2004 de 03-Mar, pela PORT.11/2010.06.01.2010.MADRP, DR.IS [3] de 06.01.2010\
+    \ 2010 (a Decl-Rect 6/2010, de 16-Fev, declara sem efeito a Port 11/2010, de 06-Jan)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/11-2010-460180
+  date: '2010-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -82,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:32:10Z'
   warnings: []
   errors: []
 ---
@@ -126,8 +166,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 1 de Julho de 1994.**
+Assinada em 1 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/162b00/38413842.pdf))](https://files.diariodarepublica.pt/1s/1994/07/162b00/38413842.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b00/38413842.pdf)

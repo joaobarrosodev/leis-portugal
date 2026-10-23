@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/157/2005/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/157-2005-156182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90cf96213642d421ca854006c46a274083de8769fb4e397c67c3febccadc4618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81ec561ba6e3a6c075858b1e29025b47fb14050d38e116baa8285b0ae2bef9c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional de Saúde
 - ALTO Comissário da Saúde
 - Apoio Técnico
-- Direção Geral da Saúde
-- Ministro da Saúde
-- Coordenador
-- Administração Regional de Saúde
-- Equipa de Missão
-- Saúde Pública
-- Política de Saúde
-- Secretaria Geral
-- Instituto de Gestão Informática e Financeira da Saúde
 - Centro de Saúde
+- Coordenador
+- Direção Geral da Saúde
+- Equipa de Missão
+- Instituto de Gestão Informática e Financeira da Saúde
+- Ministro da Saúde
 - Nomeação
+- Política de Saúde
+- Saúde Pública
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:3552360:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520864:por
+  label: "Prorrogado, por mais dois anos, o mandato da estrutura de missão criada pelo presente diploma, bem como a nomeação\
+    \ do seu coordenador, pela RES.60/2007.05.04.2007.PCM, DR.IS [80] de 24.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/60-2007-520864
+  date: '2007-04-05'
+- type: amended_by
+  target: pt:dre:494179:por
+  label: "Prorrogado, por um ano, com efeitos a partir de 13.04.2009, o mandato da Missão para os Cuidados de Saúde Primários,\
+    \ criada pelo presente diploma, bem como a nomeação do seu coordenador, pela RES.45/2009.29.05.2009.PCM, DR.IS [104] de\
+    \ 29.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/45-2009-494179
+  date: '2009-05-29'
+- type: amended_by
+  target: pt:dre:2232375:por
+  label: "Renovada a comissão de serviço do licenciado Luís Augusto Coelho Pisco, pelo DESP.5986/2010.06.04.2010.PCM, DR.IIS\
+    \ [66] de 06.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5986-2010-2232375
+  date: '2010-04-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
@@ -95,16 +114,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/86/2005/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/86/2005/04/27/p/dre
+- type: cites
+  target: pt:dre:533211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:16Z'
   warnings: []
   errors: []
 ---

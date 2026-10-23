@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/52/1997/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/52-1997-525256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d180e83215d4d9f6140a69e5365bbc1bd565438c4431befcbe0f54d363d1ceac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 695d28f11b7555b72ee41794e029b3e331ddc92b1183b121c881bf03d0cd8952
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,31 @@ reuse:
 subjects:
 - Cantanhede
 - Ordenamento do Território
+- Plano de Pormenor
 - Plano Director Municipal
 - Política de Solos
-- Plano de Pormenor
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:2523173:por
+  label: "Tornada pública a alteração por adaptação do Plano de Pormenor da Zona Industrial de Febres, ratificado pelo presente\
+    \ diploma pelo AV.7598/2012.31.05.2012.MCANTANHEDE, DR.IIS [106] de 31.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7598-2012-2523173
+  date: '2012-05-31'
+- type: amended_by
+  target: pt:dre:72939420:por
+  label: Tornado público ter sido aprovada, em 25.06.2015 pela Assembleia Municipal de Cantanhede, a revisão do Plano Diretor
+    Municipal de Cantanhede, ratificado pela Res 118/94 de 29-nov da PCM, com as alterações ratificadas pelo presente diploma,
+    pelo(a) Aviso n.º 14904/2015 - Diário da República n.º 248/2015, Série II de 2015-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14904-2015-72939420
+  date: '2015-12-21'
+- type: amended_by
+  target: pt:dre:125933632:por
+  label: Tornada pública a aprovação da proposta final da 1.ª alteração ao Plano de Pormenor da Zona Industrial de Febres,
+    ratificado pela presente resolução, pelo(a) Aviso n.º 17672/2019 - Diário da República n.º 214/2019, Série II de 2019-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/17672-2019-125933632
+  date: '2019-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -101,16 +120,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/1994/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/1994/11/29/p/dre
+- type: cites
+  target: pt:dre:217119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690176:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:03Z'
   warnings: []
   errors: []
 ---
@@ -253,4 +336,4 @@ A cedência de lotes pela CMC aos interessados obedecerá às condições defini
 
 Quaisquer omissões ou dúvidas surgidas na aplicação do presente Regulamento serão resolvidas pela CMC.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/073b00/13741375.pdf))](https://files.diariodarepublica.pt/1s/1997/03/073b00/13741375.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/073b00/13741375.pdf)

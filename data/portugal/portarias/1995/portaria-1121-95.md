@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1121/1995/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1121-1995-563821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T12:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6b14897569ee0afd5acb24eff6b0abcbcff1dd71d2c00b05707a0b3ce77d690
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e496c76b77921894b5862a6bb73a0c7c47679ff83ddc77d8525ed86c9fc104a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA
-- Montemor-o-Velho
 - Figueira da Foz
+- Montemor-o-Velho
 relationships:
 - type: amended_by
   target: pt:dre:247767:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636057:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída no presente diploma e posteriormente renovada pela\
+    \ Port 966/2001 de 13-Ago pela PORT.786/2007.20.07.2007.MADRP, DR.IS [139] de 20.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-2007-636057
+  date: '2007-07-20'
+- type: amended_by
+  target: pt:dre:247767:por
+  label: "Alterado o nº 1 da Port nº 786/2007, de 20-Jul, que renovou a zona de caça concessionada pelo presente diploma,\
+    \ posteriormente renovada pela Port 966/2001 de 13-Ago, pela PORT.154/2008.15.02.2008.MADRP, DR.IS [33] de 15.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/154-2008-247767
+  date: '2008-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:337032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:524392:por
+  label: "Revogada a concessão da zona de caça criada pelo presente diploma, pela PORT.966/2001.2001.08.13.MADRP DR.IS-B [187]\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/966-2001-524392
+  date: '2001-08-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:46:18Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +142,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Agosto de 1995.**
+Assinada em 21 de Agosto de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/213b00/58205820.pdf))](https://files.diariodarepublica.pt/1s/1995/09/213b00/58205820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/213b00/58205820.pdf)

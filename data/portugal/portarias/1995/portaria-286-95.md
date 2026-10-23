@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/286/1995/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-1995-230770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a643fc873afab306dba43a757d22f083607b49d169e070dc10b16864d9e9511b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 706b61b792d60f000b7ac3605c524642f50cd945d1a5cf3494e9dac076a7e7fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,35 @@ relationships:
   target: pt:dre:248572:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248572:por
+  label: "Extinta a zona de caça associativa da Herdade de Vale do Nobre, atribuída pela Port 255/89, de 07-Abr, e renovada\
+    \ pelo presente diploma, e concessionada, pelo período de 12 anos, a zona de caça turística de Vale Nobre, pela PORT.92/2008.28.01.2008.MAOTDR,\
+    \ DR.IS [19] de 28.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-2008-248572
+  date: '2008-01-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615062:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:54Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +118,6 @@ Manda o Governo, pelo Ministro da Agricultura, que seja renovada, por um períod
 
 Ministério da Agricultura.
 
-**Assinada em 7 de Março de 1995.**
+Assinada em 7 de Março de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

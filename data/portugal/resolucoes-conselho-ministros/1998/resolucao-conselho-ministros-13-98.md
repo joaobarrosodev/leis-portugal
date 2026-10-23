@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/13/1998/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-1998-222987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T12:39:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1492f8493fb6b3fa6cdcd19c1c6993b9d6bb2405e1596d6f024455d0c9311439
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55e7aa478002ff196eb1e85f52f69e17691256d791a24651a9c7131d48f170ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,25 @@ reuse:
 subjects:
 - Almodôvar
 - Ordenamento do Território
-- Plano Director Municipal
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:218355:por
+  label: "Ratificada parcialmente, a alteração ao Plano de Pormenor da Entrada Norte de Santa Clara-a-Nova, ficando revogadas\
+    \ as disposições do Plano Director Municipal de Almodôvar, ratificado pelo presente diploma, na área de intervenção da\
+    \ referida alteração, pela RES.175/2004.16.11.2004.PCM, DR.IS-B [294] de 17.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/175-2004-218355
+  date: '2004-11-16'
+- type: amended_by
+  target: pt:dre:73320547:por
+  label: Tornada pública a aprovação da alteração simplificada ao Plano Diretor Municipal de Almodôvar, ratificado pelo presente
+    diploma, pelo(a) Aviso n.º 931/2016 - Diário da República n.º 18/2016, Série II de 2016-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/931-2016-73320547
+  date: '2016-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1997/01/14/p/dre
   label: null
@@ -113,16 +126,240 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1/1992/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1/1992/02/18/p/dre
+- type: cites
+  target: pt:dre:142504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:39:43Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +398,7 @@ Presidência do Conselho de Ministros, 30 de Dezembro de 1997. - O Primeiro-Mini
 
 REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DE ALMODÔVAR
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais e condicionamentos
 
@@ -609,7 +846,7 @@ Lei Quadro do Património ([Lei n.º 13/85](https://diariodarepublica.pt/dr/deta
 
 Os condicionamentos respeitantes ao corte de azinheiras e ao corte do montado de sobro são os que decorrem da legislação em vigor, nomeadamente os Decretos-Leis n.os [14/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1977-492721), de 6 de Janeiro, e [172/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1988-374809), de 16 de Maio.
 
-## TÍTULO II
+TÍTULO II
 
 Uso dos solos
 

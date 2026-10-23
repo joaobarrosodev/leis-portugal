@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 183/2007, 1º Suplemento, Série I de 2007-09-21
   number: '183'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6750-(2) a 6750-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/18301/0000200002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/138-a/2007/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/138-a-2007-323111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a97ef820b68b92b87d27e33d73315ae132a5774f926be0b57697f704ae56659d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ee1cb3cb44875194851d1aff82ab54ce22893535c8c158bff1668d90e28c154
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - MIRA
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:490260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:490260:por
+  label: "Alterada a delimitação da Reserva Ecológica Nacional do município de Mira, aprovada pela Res 131/95, de 09-Nov,\
+    \ da PCM, com as alterações constantes da Res 13/2004, de 18-Fev, da PCM e do presente diploma, pela PORT.1069/2009.18.09.2009.MAOTDR,\
+    \ DR.IS [182] de 18.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1069-2009-490260
+  date: '2009-09-18'
+- type: amended_by
+  target: pt:dre:73420614:por
+  label: Alterada a delimitação da Reserva Ecológica Nacional do município de Mira ratificada pela Res 131/95, de 09-nov,
+    na redação do presente diploma pelo(a) Despacho n.º 1822/2016 - Diário da República n.º 25/2016, Série II de 2016-02-05,
+    que a republica na versão aprovada
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1822-2016-73420614
+  date: '2016-02-05'
+- type: amended_by
+  target: pt:dre:108000335:por
+  label: Tornada pública a correção material da Carta da Reserva Ecológica Nacional do Município de Mira, ratificada pela
+    Res 131/95, de 09-nov, PCM, na redação do presente diploma, e republicada a carta da REN na versão aprovada pelo(a) Despacho
+    n.º 7079/2017 - Diário da República n.º 156/2017, Série II de 2017-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/7079-2017-108000335
+  date: '2017-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/180/2006/09/06/p/dre
   label: null
@@ -99,16 +120,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/131/1995/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/131/1995/11/09/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674462:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:33Z'
   warnings: []
   errors: []
 ---
@@ -135,4 +188,4 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 20 de Setembro de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18301/0000200002.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18301/0000200002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18301/0000200002.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1330/1995/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1330-1995-674466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46d9f4cefe2cbf1f6bad7850513f4e154c6ada0ef6070430fad38d29b987a636
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b042761d8ec25fe06bb2e601ff5a534ded494194a825c5419d14046b31d6e864
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,19 @@ subjects:
 - Bacharelato
 - Curso Superior de Técnicos de Higiene e Saúde Ambiental
 - Ensino Particular
-- Instituto Superior de Educação e Ciências
 - Ensino Superior
+- Instituto Superior de Educação e Ciências
 relationships:
 - type: amended_by
   target: pt:dre:320309:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:320309:por
+  label: "Alterado o plano de estudos do Curso de Técnico de Higiene e Saúde Ambiental pela PORT.438/2000.2000.07.17.ME DR.IS-B\
+    \ [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-2000-320309
+  date: '2000-07-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/794/1991/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/794/1991/08/09/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679847:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:31Z'
   warnings: []
   errors: []
 ---
@@ -124,10 +138,10 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 27 de Setembro de 1995.**
+Assinada em 27 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Curso superior de Técnicos de Higiene e Saúde Ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/259b00/68746875.pdf))](https://files.diariodarepublica.pt/1s/1995/11/259b00/68746875.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/259b00/68746875.pdf)

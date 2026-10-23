@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/696/1994/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/696-1994-230125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T12:35:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b5729b84d38a0eaca78d0675f2ed6a04a588b08683fa6c9db687826b6478dec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1adcec1a18565cb4eb97a1958c279acb361ee6a9029bd768014002b28ce7969
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Moura
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
 - Plano de Urbanização
+- Política de Solos
 - Regulamento
 - Zona Industrial
 relationships:
+- type: amended_by
+  target: pt:dre:1644191:por
+  label: "Alterado o Plano de Pormenor, ratificado pelo presente diploma, pela DECL.150/98(2ªSÉRIE).1998.04.15.DGOTDU-MEPAT\
+    \ DR.IIS [102] DE 04/MAI/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/150-1998-1644191
+  date: '1998-04-15'
+- type: amended_by
+  target: pt:dre:141597664:por
+  label: Tornada pública a suspensão parcial do Plano de Pormenor da Zona Industrial de Moura, com a adoção de Medidas Preventivas,
+    pelo(a) Aviso n.º 12793-D/2020 - Diário da República n.º 170/2020, 1º Suplemento, Série II de 2020-09-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12793-d-2020-141597664
+  date: '2020-09-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -89,16 +101,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:35:54Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +173,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 30 de Maio de 1994.**
+Assinada em 30 de Maio de 1994.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
 
 Regulamento
 
@@ -209,4 +257,4 @@ A zona de expansão prevista no Plano de Pormenor da Zona Industrial constitui u
 
 2 - Quando, por iniciativa da Câmara Municipal, se efectuar a abertura ou alargamento dos necessários arruamentos definidos no Plano de Pormenor da Zona, serão os terrenos necessários cedidos gratuitamente pelos proprietários ou expropriados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/171b00/41374139.pdf))](https://files.diariodarepublica.pt/1s/1994/07/171b00/41374139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/171b00/41374139.pdf)

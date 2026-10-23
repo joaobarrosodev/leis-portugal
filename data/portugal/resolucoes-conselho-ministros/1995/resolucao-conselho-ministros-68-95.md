@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/68/1995/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-1995-462387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:34:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 603dbc580aa4ae1fb659c7b127f1b78bfe9a1ad3188d0129e8fe641322ef9074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57efe9bd324f5938d415dd132334bcf6e263463340a040e31715a5c281707110
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:34:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,42 @@ relationships:
   target: pt:dre:454483:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2289458:por
+  label: "Alterados os arts. 13º, 21º, 32º, 41º e 42º do Regulamento do Plano Director Municipal de Castelo de Paiva, ratificado\
+    \ pelo presente diploma, pela DECL.34/99(2ªSÉRIE).1999.05.04.DGOTDU-MEPAT, DR.IIS [115] de 18/Mai/1999\0/1999\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/34-1999-2289458
+  date: '1999-05-04'
+- type: amended_by
+  target: pt:dre:538588:por
+  label: "Ratificada a revisão, nos termos dos n.ºs 2 e 3, do Plano de Urbanização de Castelo de Paiva e estabelecida a alteração\
+    \ do Plano Director Municipal ratificado pelo presente diploma, pela Res.100/2006.13.07.2006.PCM, DR.IS [154] de 10.08.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/100-2006-538588
+  date: '2006-07-13'
+- type: amended_by
+  target: pt:dre:454483:por
+  label: "Ratificada a suspensão parcial, na área delimitada na planta anexa e pelo prazo de dois anos, o Plano Director Municipal\
+    \ de Castelo de Paiva, ratificado pelo presente diploma, com as alterações ao seu Regulamento tornadas públicas pela Decl\
+    \ 34/99(2ªSérie), de 18-Maio, e as alterações ao Plano ratificadas pela Res 100/2006, de 10-Ago, da PCM, pela RES.118/2008.24.07.2008.PCM,\
+    \ DR.IS [142] de 24.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/118-2008-454483
+  date: '2008-07-24'
+- type: amended_by
+  target: pt:dre:73013266:por
+  label: Tornado público ter sido aprovada, pela Assembleia Municipal de Castelo de Paiva em 27.11.2015, a alteração do Plano
+    Diretor Municipal de Castelo de Paiva (incidente numa parcela inserida em classe de solo rural, classificada no PDM em
+    vigor como "área Florestal", passando a área da parcela referida a integrar a categoria de "área de expansão urbana")
+    pelo(a) Aviso n.º 52/2016 - Diário da República n.º 2/2016, Série II de 2016-01-05, conforme planta anexa àquele aviso.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/52-2016-73013266
+  date: '2016-01-05'
+- type: amended_by
+  target: pt:dre:106938223:por
+  label: Tornado público ter sido aprovada, pela Assembleia Municipal de Castelo de Paiva em 27.02.2017, a alteração (inclusão
+    do art. 45.º), do Regulamento do Plano Diretor Municipal de Castelo de Paiva, ratificado pelo presente diploma, pelo(a)
+    Aviso (extrato) n.º 4547/2017 - Diário da República n.º 82/2017, Série II de 2017-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/4547-2017-106938223
+  date: '2017-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -83,16 +119,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/60/1991/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/60/1991/11/21/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:34:17Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +235,9 @@ O território do concelho de Castelo de Paiva é delimitado em cinco tipos de es
 
 5) Espaços-canais.
 
-### CAPÍTULO II — SECÇÃO I
+### CAPÍTULO II
+
+#### SECÇÃO I
 
 Espaços urbanos e urbanizáveis
 
@@ -523,4 +573,4 @@ c) Ajustamento de pormenor nos limites entre espaços, desde que por razões de 
 
 2 - Qualquer ajustamento só terá eficácia depois de aprovado pela Câmara Municipal, após parecer técnico dos serviços municipais competentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/163b00/45444551.pdf))](https://files.diariodarepublica.pt/1s/1995/07/163b00/45444551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/163b00/45444551.pdf)

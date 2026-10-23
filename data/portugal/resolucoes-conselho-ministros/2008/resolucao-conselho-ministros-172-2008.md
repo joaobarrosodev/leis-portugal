@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/172/2008/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/172-2008-439808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 439c95586a084ca8373454c39e3b803ae7f7005c9fd0a35fd5f29e2d7a979cc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31bd6dfd5097e28a49040fc0746f67efe3c86a593c0cb1930032a54d283e8373
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Barragem do Sabugal
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Zona de Proteção
 - Regulamento
+- Reserva Ecológica Nacional
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:66921992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66921992:por
+  label: Alterado o art. 21.º do Regulamento pelo(a) Resolução do Conselho de Ministros n.º 17/2015 - Diário da República
+    n.º 66/2015, Série I de 2015-04-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/17-2015-66921992
+  date: '2015-04-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
   label: null
@@ -115,16 +121,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692220:por
+  label: null
+  source: null
 article_structure:
   article_count: 42
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:06Z'
   warnings: []
   errors: []
 ---
@@ -483,7 +545,7 @@ a) A navegação de embarcações, excepto as destinadas a actividades de socorr
 
 b) Instalação de embarcadouros e pontões flutuantes.
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -533,7 +595,7 @@ j) A prática de actividades ruidosas e o uso de buzinas ou outros equipamentos 
 
 ##### SUBSECÇÃO II — Zonamento e actividades na zona de protecção
 
-##### DIVISÃO I
+DIVISÃO I
 
 Zonamento
 
@@ -845,7 +907,7 @@ c) Comunicar às autoridades competentes qualquer alteração na qualidade do am
 
 d) Manter limpa a área.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Disposições gerais
 
@@ -1033,4 +1095,4 @@ O POAS deve ser revisto nos termos do disposto nos n.os 1 e 2 do artigo 98.º do
 
 O POAS entra em vigor no dia seguinte ao da sua publicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22700/0825608268.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22700/0825608268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22700/0825608268.pdf)

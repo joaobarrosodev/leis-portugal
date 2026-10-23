@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/6/2005/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-2005-456838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54fcf69db0717995c1c89a40c67a356e79a482bc5241505fe5f40a3921f765df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33ac7ac7814aa4204ed98399632140e4c896ac25411a77873f6e7b4d4fa4e958
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁREA de Paisagem Protegida da Albufeira do Azibo
+- ÁREA de Paisagem Protegida da Serra de Montejunto
 - ÁREA de Paisagem Protegida do Litoral de Esposende
-- Ordenamento do Território
 - Comissão Mista de Coordenação
 - Lagoa de Bertiandos
 - Lagoa de São Pedro de Arcos
+- Ordenamento do Território
 - Paredes de Coura
 - Parque Natural da Ria Formosa
 - Parque Natural do Alvão
 - Parque Natural do Sudoeste Alentejano e Costa Vicentina
 - Parque Natural do Tejo Internacional
-- Zona de Proteção
 - Reserva Natural das Berlengas
 - Reserva Natural das Lagoas de Santo Andre e da Sancha
 - Reserva Natural do Estuario do TEJO
 - Reserva Natural do Sapal de Castro Marim
 - Reserva Natural Parcial do PAUL de Boquilobo
-- ÁREA de Paisagem Protegida da Serra de Montejunto
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
@@ -120,16 +120,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90/2002/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90/2002/04/23/p/dre
+- type: cites
+  target: pt:dre:183842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:01Z'
   warnings: []
   errors: []
 ---

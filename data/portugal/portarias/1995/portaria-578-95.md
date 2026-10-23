@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/578/1995/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/578-1995-517388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T13:06:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f3106b6a919743b00112687d5551a55f9cc17f0624b1259fb9276e8776610ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ee866db3f695ea830ce908a6d8e94577665721cb622e9b407eaa78bb60d5b0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
+- Câmara Municipal
 - Construção Civil
 - Fiscalização
-- Licenciamento de Obras
 - Licença Municipal
-- Câmara Municipal
+- Licenciamento de Obras
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/83/1994/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1994/03/14/p/dre
+- type: cites
+  target: pt:dre:274032:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:06:03Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +129,6 @@ c) Activo fixo é o somatório do imobilizado líquido (imobilizações corpóre
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 29 de Maio de 1995.**
+Assinada em 29 de Maio de 1995.
 
-**O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.

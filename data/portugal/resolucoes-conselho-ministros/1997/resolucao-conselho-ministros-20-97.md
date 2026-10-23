@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/20/1997/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/20-1997-560240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cce322c182f75a112a12b0271fe2d8631981af5fdcedd0e240884b0cfe01745
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfd343ffe4b8d013d9ff3186a1a4b8d2cc9b2b950b85091acafa3abf84d1a198
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 - Tavira
 relationships:
 - type: amended_by
   target: pt:dre:248500:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635866:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional do município de Tavira, pela RES.84/2007.12.04.2007.PCM,\
+    \ DR.IS [120] de 25.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/84-2007-635866
+  date: '2007-04-12'
+- type: amended_by
+  target: pt:dre:248500:por
+  label: "Aprovada a alteração, nos termos da planta anexa, da delimitação da Reserva Ecológica Nacional do município de Tavira,\
+    \ alterada pela RES 84/2007, de 25-Jun, da PCM, pela RES.11/2008.21.01.2008.PCM, DR.IS [14] de 21.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/11-2008-248500
+  date: '2008-01-21'
+- type: amended_by
+  target: pt:dre:66463238:por
+  label: Alterada a delimitação da Reserva Ecológica Nacional de Tavira aprovada pelo presente diploma, na redação da Res
+    84/2007, de 25-jun e da Res 11/2008, de 21-jan. pelo(a) Aviso (extrato) n.º 1573/2015 - Diário da República n.º 29/2015,
+    Série II de 2015-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/1573-2015-66463238
+  date: '2015-02-11'
+- type: amended_by
+  target: pt:dre:126061044:por
+  label: Tornado público ter sido aprovada a alteração da delimitação da reserva ecológica nacional do município de Tavira
+    pelo(a) Aviso n.º 17924/2019 - Diário da República n.º 217/2019, Série II de 2019-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/17924-2019-126061044
+  date: '2019-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
   label: null
@@ -83,16 +108,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1995/04/20/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:38:38Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +158,4 @@ Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Minis
 
 Presidência do Conselho de Ministros, 16 de Janeiro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/033b00/06650667.pdf))](https://files.diariodarepublica.pt/1s/1997/02/033b00/06650667.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/033b00/06650667.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/59/2012/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2012-179556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:03:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f364b5fb39f9d5ac196902c147d8cb209a5ab31e245b6f92d4a9eb1084a3c13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2a7b60b841b3565a7fb305e5a2cc4422439b379bb11f1ecd72db0b4d9847be6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:03:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Aquisição de Bens e Serviços
-- Financiamento
-- Ministério da Defesa Nacional
 - Conselho de Ministros
 - Delegação de Competências
 - Direcção Geral de Armamento e Infra-estruturas de Defesa
 - Equipamento Militar
-- Política de Defesa
-- Indústria Aeronáutica
+- Financiamento
 - Governo XIX
-- Orçamento
+- Indústria Aeronáutica
+- Ministério da Defesa Nacional
 - Ministro da Defesa Nacional
+- NATO
+- Orçamento
+- Política de Defesa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/4/2006/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2006/08/29/p/dre
+- type: cites
+  target: pt:dre:540825:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:03:11Z'
   warnings: []
   errors: []
 ---

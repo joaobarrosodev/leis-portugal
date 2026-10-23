@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1456/1995/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1456-1995-632209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:54:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d69f497004bad9f719f7fa980c752920b6c301ff53fb6076069863a0221fb36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6729e4755fa6ffd5b962a202d9f1ddf2ab31754c75479256c92c85e4a2babe7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,7 +68,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Tradução e Secretariado
 - Curso de Tradução na Variante de Intérpretes
 - Curso de Tradução na Variante de Secretariado
@@ -76,6 +75,7 @@ subjects:
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
 - Leiria
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:532850:por
@@ -85,16 +85,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/894/1992/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/894/1992/09/16/p/dre
+- type: cites
+  target: pt:dre:239201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:532850:por
+  label: "Revogada, findo o processo fixado no art. 31º do Regulamento aprovado pela Port 413-A/98, de 17-Jul, pela PORT.772/99.1999.08.30.ME,\
+    \ DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/772-1999-532850
+  date: '1999-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:54:25Z'
   warnings: []
   errors: []
 ---
@@ -163,8 +181,8 @@ Estágio/seminário
 
 Ministério da Educação.
 
-**Assinada em 29 de Setembro de 1995.**
+Assinada em 29 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/284b00/77257726.pdf))](https://files.diariodarepublica.pt/1s/1995/12/284b00/77257726.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/284b00/77257726.pdf)

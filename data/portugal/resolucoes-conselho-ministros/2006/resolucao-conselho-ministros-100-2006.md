@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/100/2006/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2006-538588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:52:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e295db19c038c6156db4b2425cd87299a33a0218a405f136f025e91c1c196c2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d9c2e6a7449710eef44650bc29e77fc299c0018431b6388ce08cdee2d052d75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:52:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Castelo de Paiva
-- Reserva Ecológica Nacional
 - Ordenamento do Território
+- Plano de Urbanização
 - Plano Director Municipal
 - Política de Solos
-- Plano de Urbanização
-- Autarquia Local
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:454483:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627822:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional, do concelho de Castelo de Paiva, na área abrangida\
+    \ pelo POACL, aprovada pela Res 43/2001, de 09-Maio da PCM, com as alteracões aprovadas pelo presente diploma, pela RES.187/2007.21.12.2007.PCM,\
+    \ DR.IS [246] de 21.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/187-2007-627822
+  date: '2007-12-21'
+- type: amended_by
+  target: pt:dre:454483:por
+  label: "Ratificada a suspensão parcial, na área delimitada na planta anexa e pelo prazo de dois anos, o Plano Director Municipal\
+    \ de Castelo de Paiva, ratificado pela Res 68/95, de 17-Jul, da PCM, com as alterações ratificadas pelo presente diploma,\
+    \ RES.118/2008.24.07.2008.PCM, DR.IS [142] de 24.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/118-2008-454483
+  date: '2008-07-24'
+- type: amended_by
+  target: pt:dre:2804189:por
+  label: "Corrigida a folha 3 da carta da Reserva Ecológica Nacional do município de Castelo de Paiva, aprovada pela RES 43/2001\
+    \ de 09-Mai, com as alterações introduzidas pelo presente diploma, pelo AV.19364/2010.30.09.2010.CCDRN-MAOT, DR.IIS [191]\
+    \ de 30.09.2010, que a republicou na sua versão corrigida\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/19364-2010-2804189
+  date: '2010-09-30'
+- type: amended_by
+  target: pt:dre:1726798:por
+  label: "Alterados os arts, 5.º, 7.º, 12.º, 20.º, 21.º, 27.º, 28.º, 31.º, 32.º, 34.º, 35.º, 36.º, 37.º, 39.º, do anexo i,\
+    \ anexo ii e anexo iii, planta de zonamento e planta de condicionantes, da presente Resolução, pelo AV-EXT.11251/2013.09.09.2013.MCASTELO\
+    \ PAIVA, DR.IIS [173] de 09.09.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/11251-2013-1726798
+  date: '2013-09-09'
+- type: amended_by
+  target: pt:dre:114205270:por
+  label: Tornada pública a alteração do Plano de Urbanização da Vila de Castelo de Paiva, ratificado pela presente resolução,
+    pelo(a) Aviso n.º 13592/2017 - Diário da República n.º 220/2017, Série II de 2017-11-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13592-2017-114205270
+  date: '2017-11-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/203/2002/10/01/p/dre
   label: null
@@ -118,16 +152,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/1995/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/1995/07/17/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 46
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:52:26Z'
   warnings: []
   errors: []
 ---
@@ -822,4 +928,4 @@ v) «Unidades comerciais de dimensão relevante» - estabelecimentos, considerad
 
 Do ANEXO II ao ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/15400/57575772.pdf))](https://files.diariodarepublica.pt/1s/2006/08/15400/57575772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15400/57575772.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16900/0003900067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/105/2023/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/105-2023-221100278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:16:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a1e219fd8b187b93bbb927857ac198ca449dda00a76520e6a9cb73206057eb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b45a08bc3144bbb8418932d6acf8dad053bfbfdeb11bdc210434e910b5ecb1a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:16:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CE Países
+- Cinema
+- Conselho da Europa
 - Convenção
 - Portugal
 - Produção Cinematográfica
 - Roterdão
-- Conselho da Europa
-- Cinema
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:221067574:por
+  label: Ratificada a Convenção do Conselho da Europa sobre Coprodução Cinematográfica (revista), aprovada pelo presente diploma
+    pelo(a) Decreto do Presidente da República n.º 77/2023 - Diário da República n.º 169/2023, Série I de 2023-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/77-2023-221067574
+  date: '2023-08-31'
 article_structure:
   article_count: 24
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:16:17Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de julho de 2023.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
 COUNCIL OF EUROPE CONVENTION ON CINEMATOGRAPHIC CO-PRODUCTION (REVISED)
 
@@ -452,9 +458,9 @@ Definition of a qualifying cinematographic work
 
 2 - Having regard to the characteristics of the co-production, the competent authorities may, after consulting each other, grant co-production status to a work with a number of points that is less than the normally required 16 points.
 
-|  |  |
-| --- | --- |
 | Elements originating in States Parties to the Convention | Weighting points |
+| --- | --- |
+|  |  |
 | Director... | 4 |
 | Scriptwriter... | 3 |
 | Composer... | 1 |
@@ -469,15 +475,15 @@ Definition of a qualifying cinematographic work
 | Visual effects (VFX) or Computer-generated imagery (CGI) location... | 1 |
 | Post-production location... | 1 |
 |  | 21 |
-| N. B.: First, second and third roles are determined by number of days worked. | N. B.: First, second and third roles are determined by number of days worked. |
+| N. B.: First, second and third roles are determined by number of days worked. |  |
 
 3 - A cinematographic animation work qualifies as an official co-production in the sense of article 3, sub-paragraph c, if it obtains at least 15 points out of a possible total of 23, according to the list of elements set out below.
 
 4 - Having regard to the characteristics of the co-production, the competent authorities may, after consulting each other, grant co-production status to a work with a number of points that is less than the normally required 15 points.
 
-|  |  |
-| --- | --- |
 | Elements originating in States Parties to the Convention | Weighting points |
+| --- | --- |
+|  |  |
 | Conception... | 1 |
 | Script... | 2 |
 | Character design... | 2 |
@@ -498,9 +504,9 @@ Definition of a qualifying cinematographic work
 
 6 - Having regard to the characteristics of the co-production, the competent authorities may, after consulting each other, grant co-production status to the work with less than the normally required 50 % of the total applicable points.
 
-|  |  |
-| --- | --- |
 | Elements originating in States Parties to the Convention | Weighting points |
+| --- | --- |
+|  |  |
 | Director... | 4 |
 | Scriptwriter... | 1 |
 | Camera... | 2 |
@@ -867,9 +873,9 @@ Définition d'une oeuvre cinématographique admissible
 
 2 - Compte tenu des caractéristiques de la coproduction, les autorités compétentes peuvent, après concertation, admettre au régime de la coproduction une oeuvre réunissant un nombre de points inférieur aux 16 points normalement exigés.
 
-|  |  |
-| --- | --- |
 | Eléments issus des Etats parties à la Convention | Points d'évaluation |
+| --- | --- |
+|  |  |
 | Réalisateur... | 4 |
 | Scénariste... | 3 |
 | Compositeur... | 1 |
@@ -884,15 +890,15 @@ Définition d'une oeuvre cinématographique admissible
 | Lieu des effets visuels ou images de synthèse (CGI)... | 1 |
 | Lieu de la postproduction... | 1 |
 |  | 21 |
-| N. B.: Les premier, deuxièmes et troisièmes rôles sont évalués au prorata des jours de tournage. | N. B.: Les premier, deuxièmes et troisièmes rôles sont évalués au prorata des jours de tournage. |
+| N. B.: Les premier, deuxièmes et troisièmes rôles sont évalués au prorata des jours de tournage. |  |
 
 3 - Une oeuvre cinématographique d'animation est une oeuvre officiellement coproduite au sens de l'article 3, alinéa c, si elle réunit au moins 15 points sur un total de 23 selon les critères indiqués ci-dessous.
 
 4 - Compte tenu des caractéristiques de la coproduction, les autorités compétentes peuvent, après concertation, admettre au régime de la coproduction une oeuvre réunissant un nombre de points inférieur aux 15 normalement exigés.
 
-|  |  |
-| --- | --- |
 | Eléments issus des Etats parties à la Convention | Points d'évaluation |
+| --- | --- |
+|  |  |
 | Conception... | 1 |
 | Scénario... | 2 |
 | Conception des personnages... | 2 |
@@ -913,9 +919,9 @@ Définition d'une oeuvre cinématographique admissible
 
 6 - Compte tenu des caractéristiques de la coproduction, les autorités compétentes peuvent, après concertation, admettre au régime de la coproduction une oeuvre réunissant un nombre de points inférieur aux 50 % normalement exigés.
 
-|  |  |
-| --- | --- |
 | Eléments issus des Etats parties à la Convention | Points d'évaluation |
+| --- | --- |
+|  |  |
 | Réalisateur... | 4 |
 | Scénariste... | 1 |
 | Caméra... | 2 |
@@ -1160,7 +1166,7 @@ b) Assinatura sujeita a ratificação, aceitação ou aprovação, seguida de ra
 
 ###### Artigo 24.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados-Membros do Conselho da Europa, bem como a União Europeia e qualquer Estado que tenha aderido ou tenha sido convidado a aderir a esta Convenção:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados-Membros do Conselho da Europa, bem como a União Europeia e qualquer Estado que tenha aderido ou tenha sido convidado a aderir a esta Convenção:
 
 a) De qualquer assinatura;
 
@@ -1222,9 +1228,9 @@ As autoridades nacionais competentes deverão comunicar entre si o pedido e docu
 
 2 - Tendo em conta as características da coprodução, após consulta mútua as autoridades competentes podem admitir no regime de coprodução uma obra que atinja um número de pontos inferior aos 16 pontos normalmente exigidos.
 
-|  |  |
-| --- | --- |
 | Elementos provenientes dos Estados Partes na Convenção | Pontuação |
+| --- | --- |
+|  |  |
 | Realizador ... | 4 |
 | Argumentista... | 3 |
 | Compositor ... | 1 |
@@ -1239,15 +1245,15 @@ As autoridades nacionais competentes deverão comunicar entre si o pedido e docu
 | Local dos efeitos visuais (VFX) ou das imagens geradas por computador (IGC)... | 1 |
 | Local de pós-produção ... | 1 |
 |  | 21 |
-| Nota. - O papel principal e os papéis secundários são determinados em função do número de dias de filmagens. | Nota. - O papel principal e os papéis secundários são determinados em função do número de dias de filmagens. |
+| Nota. - O papel principal e os papéis secundários são determinados em função do número de dias de filmagens. |  |
 
 3 - Uma obra cinematográfica de animação obtém o reconhecimento enquanto coprodução oficial na aceção da alínea c) do artigo 3.º, se em relação aos elementos provenientes dos Estados Partes na Convenção atingir um mínimo de 15 pontos num total de 23, de acordo com os critérios indicados infra.
 
 4 - Tendo em conta as características da coprodução, após consulta mútua as autoridades competentes podem admitir no regime de coprodução uma obra que atinja um número de pontos inferior aos 15 normalmente exigidos.
 
-|  |  |
-| --- | --- |
 | Elementos provenientes dos Estados Partes na Convenção | Pontos de Avaliação |
+| --- | --- |
+|  |  |
 | Conceção ... | 1 |
 | Guião... | 2 |
 | Design de personagens... | 2 |
@@ -1268,9 +1274,9 @@ As autoridades nacionais competentes deverão comunicar entre si o pedido e docu
 
 6 - Tendo em conta as características da coprodução, após consulta mútua as autoridades competentes podem admitir no regime de coprodução uma obra que atinja menos do que o normalmente exigido, ou seja 50 % da totalidade dos pontos aplicáveis.
 
-|  |  |
-| --- | --- |
 | Elementos provenientes dos Estados Partes na Convenção | Pontuação |
+| --- | --- |
+|  |  |
 | Realizador... | 4 |
 | Argumentista... | 1 |
 | Câmara ... | 2 |
@@ -1282,3 +1288,5 @@ As autoridades nacionais competentes deverão comunicar entre si o pedido e docu
 | Local de pós-produção ... | 2 |
 | Local dos efeitos visuais (VFX) ou das imagens geradas por computador (IGC)... | 1 |
 |  | 16 |
+
+116761471

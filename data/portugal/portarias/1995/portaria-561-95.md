@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/561/1995/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/561-1995-518807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T13:05:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9526119eb03aa16a59cef261d89a21a21c8eccf2424edb33915c5f842e1d0aa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3af80cc9fbdb718411bbdc27b7f0c13e04332785b51eda46da5aeb791e669041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,43 @@ relationships:
   target: pt:dre:209853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:211231:por
+  label: "Alterada a redacção do nº 1 da Port 722-D1/92 de 15-Jul (alterado pelo presente diploma) pela PORT.102/98.1998.02.25.MADRP\
+    \ DR.IS-B [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-1998-211231
+  date: '1998-02-25'
+- type: amended_by
+  target: pt:dre:515402:por
+  label: "Suspenso, pelo prazo máximo de nove meses, o exercício da caça e de actividades de carácter venatório na zona de\
+    \ caça associativa atribuída pela Port 722-D1/92 de 15-Jul, na redacção do presente diploma, pela Port.1015/2004.09.08.2004.MADRP,\
+    \ DR.IS-B [186] de 09.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1015-2004-515402
+  date: '2004-08-09'
+- type: amended_by
+  target: pt:dre:209853:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça concessionada pela Port 722-D1/92, de 15-Jul alterada\
+    \ pelo presente diploma, pela PORT.1455/2004.30.11.2004.MAPF, DR.IS-B [281] de 30.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1455-2004-209853
+  date: '2004-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/722-d1/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-d1/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:617498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:05:40Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +132,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 722-D1/92
 
 Ministério da Agricultura.
 
-**Assinada em 22 de Maio de 1995.**
+Assinada em 22 de Maio de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/135b00/37893789.pdf))](https://files.diariodarepublica.pt/1s/1995/06/135b00/37893789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/135b00/37893789.pdf)

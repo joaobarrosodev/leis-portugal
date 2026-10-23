@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 126/2001, 1º Suplemento, Série I-B de 2001-05-31
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3278-(2) a 3278-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/126b01/00020009.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/64-a/2001/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-a-2001-587866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bb33e3095dc525ce59f94f0fe9c4b2a8fd33a92ed6934f2a2bcb222d3c9c04e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3576031fb255f800b7ace617c2ecc73f1220f4d9b90e55f8231f664ab57081ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Faro
-- Proteção do Ambiente
-- Política de Solos
+- Ordenamento do Território
 - Plano de Pormenor
+- Política de Solos
+- Proteção do Ambiente
 - Urbanismo
 relationships:
 - type: cites
@@ -100,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/1995/08/24/p/dre
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643893:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 29
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:25Z'
   warnings: []
   errors: []
 ---
@@ -268,7 +296,9 @@ b) Solo rural:
 
 ### CAPÍTULO III — Disposições gerais relativas ao uso do solo
 
-#### SECÇÃO I — Artigo 8.º
+#### SECÇÃO I
+
+###### Artigo 8.º
 
 Solo urbano
 
@@ -430,7 +460,9 @@ d) Não ocupar com edificações as áreas afectas à RAN que estão integradas 
 
 2 - Sem prejuízo do regime legal estabelecido para as servidões existentes, admitem-se acertos pontuais aos corredores verdes definidos na planta de implantação que resultem indispensáveis no âmbito dos projectos específicos a desenvolver, desde que respeitem os objectivos definidos no número anterior.
 
-#### SECÇÃO II — Artigo 18.º
+#### SECÇÃO II
+
+###### Artigo 18.º
 
 Solo rural
 
@@ -476,7 +508,9 @@ b) A manutenção e reconstituição da galeria ripícola ao longo da ribeira do
 
 3 - Não é permitida a construção de edificações para fins habitacionais ou outros, admitindo-se apenas a localização de pequenas estruturas de apoio à actividade agrícola, mediante parecer favorável da entidade que tutela a Reserva Agrícola Nacional.
 
-#### SECÇÃO III — Artigo 22.º
+#### SECÇÃO III
+
+###### Artigo 22.º
 
 Rede viária
 

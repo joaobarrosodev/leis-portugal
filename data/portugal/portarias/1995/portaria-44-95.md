@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/44/1995/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/44-1995-145017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77d4b89c9117812d36fff9c62686ded067136e574eff3b9355271f9be98fbb25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b22a351e906ec9738d53ac83ba96c300d0ae24c7d650a09e20041878a2200c27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,49 @@ relationships:
   target: pt:dre:370977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644500:por
+  label: "Alterado o nº 1 e aditado um nº 1-A, na redacção dada pelo presente diploma, pela PORT.865/97.1997.09.10.MADRP,\
+    \ DR.IS-B [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-1997-644500
+  date: '1997-09-10'
+- type: amended_by
+  target: pt:dre:167375:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 558/94 de 12-Jul, na redacção do presente\
+    \ diploma e da Port 865/97 de 10-Set, pela PORT.121/2003.2003.02.01.MADRP,DR.IS-B[27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/121-2003-167375
+  date: '2003-02-01'
+- type: amended_by
+  target: pt:dre:623577:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 558/94, de 12-Jul, alterada pelo presente diploma,\
+    \ pela PORT.82/2005.25.01.2005.MAPF, DR.IS-B [17] de 25.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/82-2005-623577
+  date: '2005-01-25'
+- type: amended_by
+  target: pt:dre:370977:por
+  label: "Renovada por um periodo de 12 anos, a concessão da zona de caça concessionada pela Port 558/94 de 12-Jul, alterada\
+    \ pelo presente diploma, e anexados vários prédios rústicos à referida zona de caça, pela PORT.595/2006.22.06.2006.MADRP,\
+    \ DR.IS-B [119] de 22.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/595-2006-370977
+  date: '2006-06-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/558/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/558/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:294690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:35Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +138,8 @@ A planta anexa ao presente diploma substitui a anexa à [Portaria n.º 558/94](h
 
 Ministério da Agricultura.
 
-**Assinada em 21 de Dezembro de 1994.**
+Assinada em 21 de Dezembro de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/015b00/02800280.pdf))](https://files.diariodarepublica.pt/1s/1995/01/015b00/02800280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/015b00/02800280.pdf)

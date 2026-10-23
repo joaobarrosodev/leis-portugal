@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 6/2004, 1º Suplemento, Série I-B de 2004-01-08
   number: '6'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 92-(2) a 92-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/006b01/00020021.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/1-a/2004/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1-a-2004-230771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T12:49:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9f3f79adc5a147e9392a4d09cb7643cd6f43b0edd5cd8af5477c6b8e43861d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e4beef3c1f76aa83002fae364d1bcfeaf168f188f7f612be42f3940dddcf1c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cascais
 - Ordenamento do Território
 - Parque Natural de Sintra-Cascais
-- Proteção do Ambiente
-- Zona de Proteção
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
-- Cascais
 - Sintra
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:402744:por
@@ -82,16 +82,21 @@ relationships:
   target: celex:31992L0043
   label: null
   source: http://data.europa.eu/eli/dir/1992/43/oj
+- type: corrected_by
+  target: pt:dre:402744:por
+  label: "Rectificada pela DECL-RECT.26-C/2004.09.03.2004.PCM, DR.IS-B [57]Supl de 08.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-c-2004-402744
+  date: '2004-03-09'
 article_structure:
   article_count: 45
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:49:01Z'
   warnings: []
   errors: []
 ---
@@ -632,7 +637,7 @@ c) Em situações de risco ou calamidade.
 
 ##### SUBSECÇÃO II — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo I
 
@@ -722,7 +727,7 @@ e) A superfície mínima da parcela de terreno para construção dos apoios é d
 
 f) Os apoios não podem, em qualquer caso, ultrapassar 250 m2 por exploração nem ultrapassar 4,5 m de cércea, em piso único.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo II
 
@@ -824,7 +829,7 @@ i) O somatório das zonas edificáveis da parcela é igual ou superior à superf
 
 ii) Pelo menos uma das zonas edificáveis da parcela é igual ou superior à superfície mínima para edificabilidade.
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção complementar do tipo I
 
@@ -860,7 +865,7 @@ c) Instalações ou construções de apoio às actividades florestais, agrícola
 
 3 - É proibida a implantação de novas construções para além do previsto nos números anteriores, com excepção das obras de interesse público, reconhecido por despacho conjunto dos membros do Governo competentes em função da matéria e do responsável pela área da conservação da natureza.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção complementar do tipo II
 
@@ -918,7 +923,7 @@ f) Número máximo de pisos abaixo do solo - um.
 
 7 - A área bruta de construção não poderá ser superior a 250 m2, salvo, quanto aos empreendimentos turísticos, o disposto no artigo 38.º
 
-##### DIVISÃO III
+DIVISÃO III
 
 Áreas de protecção complementar do tipo III
 
@@ -976,7 +981,7 @@ f) Número máximo de pisos abaixo do solo - um.
 
 ##### SUBSECÇÃO IV — Áreas de intervenção específica
 
-##### DIVISÃO I
+DIVISÃO I
 
 Âmbito, caracterização, objectivos e tipologias
 
@@ -1004,7 +1009,7 @@ a) Áreas de intervenção específica para a conservação da natureza e da bio
 
 b) Áreas de intervenção específica para a valorização cultural e patrimonial.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas identificadas
 

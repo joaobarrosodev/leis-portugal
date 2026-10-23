@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/138/2005/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/138-2005-243364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T12:51:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62c83824b9702da5bbaf472910881159f93aff213fa00ad13b9582a8a5138a4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f097492edd36a8fd5457e652cac3cfa6288c117db8249bbbf64039e4d27a119f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,44 +67,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Administrativo
-- Processo Penal
-- Direcção Geral dos Serviços Prisionais
 - Centro de Estudos Judiciários
-- Criação de Serviços
-- Equipa de Missão
-- Secretaria Geral
-- Gabinete de Política Legislativa e Planeamento
-- Ministro da Justiça
-- Ministério da Justiça
 - Conselho Consultivo
+- Criação de Serviços
+- Direcção Geral dos Serviços Prisionais
+- Direito Penal
+- Equipa de Missão
+- Gabinete de Política Legislativa e Planeamento
+- Gabinete para as Relações Internacionais Europeias e de Cooperação
 - Instituto de Medicina Legal
 - Instituto de Reinserção Social
-- Gabinete para as Relações Internacionais Europeias e de Cooperação
-- Unidade de Missão para a Reforma Penal
+- Ministério da Justiça
+- Ministro da Justiça
 - Nomeação
 - Orçamento
-- Direito Penal
 - Polícia Judiciária
+- Processo Penal
+- Secretaria Geral
 - Subsecretário de Estado
+- Unidade de Missão para a Reforma Penal
 relationships:
 - type: amended_by
   target: pt:dre:521243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521243:por
+  label: "Extinta a Unidade de Missão para a Reforma Penal com efeitos a partir de 12.03.2007 pela RES.64/2007.12.03.2007.PCM,\
+    \ DR.IS [86] de 04.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/64-2007-521243
+  date: '2007-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:51:05Z'
   warnings: []
   errors: []
 ---

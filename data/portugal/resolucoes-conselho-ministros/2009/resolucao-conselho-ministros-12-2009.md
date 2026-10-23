@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/12/2009/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-2009-603004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T12:58:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2305833665959a8d2ca22a659c7894933231394befef8469f84a79f6089fb4be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8da189f111747f0898165abb3d8d74893ad9c14c2fe75feaeb68b378b965fcfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,52 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alenquer
-- Vila Franca de Xira
+- Autarquia Local
 - Cartografia
-- Lisboa
 - Comissão de Coordenação e Desenvolvimento Regional
+- Lisboa
 - Medidas Preventivas
 - Oliveira do Bairro
 - Pombal
-- Refer
-- Autarquia Local
 - Porto
+- Refer
+- Vila Franca de Xira
 relationships:
 - type: amended_by
   target: pt:dre:278892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613680:por
+  label: "Prorrogado por um ano o prazo de vigência das medidas preventivas, definidos os traçados dos troços Lisboa-Vila\
+    \ Franca de Xira e Oliveira do Bairro-Porto e alteradas e substituídas as plantas identificadas com os números de ordem\
+    \ 01-004 a 04-004 (troço compreendido entre Lisboa e Vila Franca de Xira) bem como as identificadas com os números de\
+    \ ordem 01-009 a 09-009 (troço compreendido entre Oliveira do Bairro e o Porto) anexas ao Dec 7/2008, de 27-Mar, na redacção\
+    \ do presente diploma, pela RES.31/2010.15.04.2010.PCM, DR.IS [73] de 15.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/31-2010-613680
+  date: '2010-04-15'
+- type: amended_by
+  target: pt:dre:614147:por
+  label: "Determinado que as plantas identificadas com os números de ordem 01-004 a 04-004, publicadas em anexo à presente\
+    \ resolução, sejam alteradas e substituídas pelas plantas anexas à RES.32/2010.27.04.2010.PCM, DR.IS [81] de 27.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/32-2010-614147
+  date: '2010-04-27'
+- type: amended_by
+  target: pt:dre:278892:por
+  label: "Alteradas e substituidas as plantas identificadas com os números de ordem 01 de 008 a 08 de 008, constantes do anexo\
+    \ i da presente resolução, pelas identificadas com os números de ordem 01 de 008 a 08 de 008 e prorrogada por um ano,\
+    \ a contar de 28 de Janeiro de 2011, a vigência das medidas preventivas estabelecidas pela presente resolução, pela RES.16/2011.01.03.2011.PCM,\
+    \ DR.IS [42] de 01.03.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/16-2011-278892
+  date: '2011-03-01'
+- type: amends
+  target: pt:numero:decreto:7/2008
+  label: "Determina, que as plantas constantes do anexo I da presente resolução, identificadas com os números de ordem 03-004\
+    \ e 04-004, alteram e substituem as plantas identificadas com os números de ordem 01-014 e 02-014, publicadas em anexo\
+    \ ao Decreto n.º 7/2008, de 27 de Março, DR.IS [61]\0\0"
+  source: null
+  date: '2008-03-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre
   label: null
@@ -94,16 +125,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/7/2008/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/7/2008/03/27/p/dre
+- type: cites
+  target: pt:dre:246367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:58:48Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +193,7 @@ Presidência do Conselho de Ministros, 8 de Janeiro de 2009. - O Primeiro-Minist
 
 ## ANEXO I — Plantas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01800/0054200549.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01800/0054200549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01800/0054200549.pdf)
 
 ## ANEXO II — Medidas preventivas
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/923/1994/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/923-1994-611147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T12:41:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ee2614c551083c05337c4e8f9d3ffa25baf7afd8e43635d0d68b02bd4a01ffa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f640d62fc30e2a2f6bfc3c0a59874990cf737744f837215f510a422821c1b234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:41:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção de Formação
-- Formação Profissional
 - CRAF
+- Formação Profissional
 - Instituto Português de Investigação Marítima
 - Investigação
 - Regulamento
@@ -77,16 +77,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/219/1992/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/219/1992/10/15/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:41:30Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +105,7 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território e do Mar.
 
-**Assinada em 27 de Setembro de 1994.**
+Assinada em 27 de Setembro de 1994.
 
 Pelo Ministro do Planeamento e da Administração do Território, Manuel de Carvalho Fernandes Thomaz, Secretário de Estado da Ciência e Tecnologia. - Pelo Ministro do Mar, João Prates Bebiano, Secretário de Estado Adjunto e das Pescas.
 

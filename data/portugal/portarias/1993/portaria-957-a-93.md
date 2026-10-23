@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 230/1993, 1º Suplemento, Série I-B de 1993-09-30
   number: '230'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5540-(2) a 5540-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/230b01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/957-a/1993/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/957-a-1993-451202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T12:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45322fd9dcd8037936a6cdbf13933e8ba66b25bc68e43c8d92367ed98c87fa5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48a20dd481349dc6cc8652f160fc4e742f4467cd65a4a358341a706a31ccafa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ subjects:
 - Pessoal Administrativo
 - Pessoal Técnico Profissional
 - Reconversão Profissional
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:14:08Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +118,6 @@ c) Tempo mínimo de oito anos na carreira de fiscalização de tabacos.
 
 Ministério das Finanças.
 
-**Assinada em 20 de Setembro de 1993.**
+Assinada em 20 de Setembro de 1993.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.

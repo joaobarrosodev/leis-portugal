@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/86/2007/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2007-635817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T12:55:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13ce937fab0d251a058211bfe20636a92c8fdbb8d748ad1b2e9dc9a00993e564
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77dde5f4e9f07ebc29852003bbd99657d6ab349ff9d7ed6e443bb546eb53c26d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:55:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Financiamento
-- Modernização Administrativa
-- Igualdade de Tratamento
-- Desenvolvimento Social
-- Mudança Tecnológica
-- FEDER
-- Igualdade de Oportunidades
-- FSE
-- Planeamento Económico
 - Desenvolvimento Económico
+- Desenvolvimento Social
+- FEDER
+- Financiamento
+- FSE
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
+- Modernização Administrativa
+- Mudança Tecnológica
+- Planeamento Económico
+- Política de Educação
+- Política de Emprego
 - Política de Investigação e Desenvolvimento
 - Política do Ambiente
 - Política Económica
-- Política de Educação
 - Política Social
 - Programa Comunitário
-- Qualificação Profissional
-- Política de Emprego
+- QREN
 - Qualidade de VIDA
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:640354:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640354:por
+  label: "Extintas as autoridades de gestão dos PO sectoriais e regionais do continente do QCA III, previstas no presente\
+    \ diploma, pelo DEC LEI.312/2007.17.09.2007.MAOTDR, DR.IS [179] de 17.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-2007-640354
+  date: '2007-09-17'
 - type: cites
   target: celex:31999R1260
   label: null
@@ -101,13 +107,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:55:56Z'
   warnings: []
   errors: []
 ---
@@ -598,7 +604,7 @@ Neste quadro, em que é prioritária a prossecução de uma agenda para a modern
 
 Indicadores estruturais - União Europeia e Portugal - 1995-2000-2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 II.3 - Assimetrias regionais
 
@@ -606,7 +612,7 @@ A evolução das disparidades e a aferição da convergência entre as regiões 
 
 Variação da população e do PIB das regiões NUTS II e NUTS III no período 1991-2003
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Com o intuito de ilustrar sinteticamente o desempenho relativo das regiões nos últimos anos, apresenta-se no gráfico anterior um exercício simples de associação, para as NUTS II e NUTS III, entre a taxa de variação média anual do PIB e a taxa de variação média anual da população, ambas no período 1991-2003. Esta ilustração permite constatar que, sendo embora muito variadas as situações representadas, o efeito «dimensão da população» é determinante: como seria expectável, a região de Lisboa influencia significativamente o comportamento da média nacional, superando mesmo esta em ambas as variáveis. Neste quadrante insere-se também a região do Algarve, revelando a respectiva atractividade e o seu bom desempenho económico. Em contraste, a região Norte mostra um menor vigor no crescimento do PIB, sendo dispersa a localização relativa das respectivas NUTS III. O Alentejo revela, pelo seu lado, alguma homogeneidade no comportamento das sub-regiões, encontrando-se no quadrante menos favorável (com as taxas de crescimento em posições inferiores à média nacional). Com um desempenho favorável em termos de crescimento do PIB, mas apresentando redução em termos populacionais, encontram-se o Centro, os Açores (muito próximos da média nacional em ambas as variáveis) e a Madeira (que evidencia um forte crescimento do PIB e um decréscimo populacional ao longo do período).
 
@@ -624,11 +630,11 @@ As considerações mais imediatas, decorrentes dos exercícios apresentadas, sã
 
 Dispersão dos níveis do PIB per capita 1991-2003 nas NUTS III (Convergência sigma)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 PIB per capita 1991 e taxa média de crescimento anual 1991-2003 - NUTS III (convergência beta)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 A análise da evolução das regiões portuguesas nas duas últimas décadas demonstra de forma inequívoca, por outro lado, a constatação de progressos marcados no domínio da coesão social - claramente favorecidos face aos progressos em competitividade. A sensibilidade revelada pela sociedade portuguesa e pela expressão das políticas públicas em matéria de protecção social não terá sido assim acompanhada pela necessária aposta em matéria de competitividade, cuja insuficiente concretização coloca, por sua vez, uma ameaça significativa aos padrões de coesão social alcançados.
 
@@ -670,7 +676,7 @@ Sem prejuízo do reconhecimento de percursos distintos das economias dos Açores
 
 A tradução operacional do estatuto de regiões ultraperiféricas numa dotação específica propiciada pelo FEDER, com dimensão financeira relativamente reduzida e com exigências processuais complexas, vem contrariar essas expectativas - de forma aliás agravada pelas regras estabelecidas no quadro da aferição quantitativa do contributo dos Fundos Estruturais para a Estratégia de Lisboa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 II.4 - Desafios para a coesão e competitividade
 
@@ -702,7 +708,7 @@ Estas características estruturais adversas não manifestam todavia consequênci
 
 Taxa de emprego - Meta 2010 e situação em Portugal e na UE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 A evolução das taxas de desemprego e de emprego conhecem entretanto sinais de deterioração uma vez que, reflectindo a desaceleração da actividade económica, registam os valores de 7,6% (face a 4% em 2000) e de 67,5% (face a 68,4% em 2000), respectivamente, sendo que, relativamente ao emprego, existe uma diferença de 5,2% entre homens e mulheres. A taxa de desemprego das mulheres era no primeiro semestre de 2005, de 7,2%, sendo a taxa masculina homóloga de 5,6%.
 
@@ -754,13 +760,13 @@ Embora se tenham observado ajustamentos com algum significado na estrutura produ
 
 Estrutura do VAB e do emprego e crescimento da produtividade - 1995-2003
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 No domínio dos sectores transaccionáveis, que representavam no seu conjunto cerca de 20% do VAB e cerca de 32% do emprego (em 2003), 63% do VAB e quase 80% do emprego estavam concentrados nos segmentos intensivos em trabalho.
 
 Estrutura bens transaccionáveis e serviços internacionalizáveis - VAB, emprego e crescimento da produtividade 1995-2003
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Embora nestes segmentos sejam possíveis e desejáveis progressos nos modelos de negócio em presença - por exemplo, por via da concepção de modelos de negócio mais sofisticados que lhe confiram consideráveis vantagens competitivas face a outros fabricantes do mesmo tipo de produtos - as margens de evolução em termos de ganhos de produtividade são relativamente estreitas. Sendo certo que existem trajectórias históricas de acumulação de competências em certas indústrias tradicionais que podem ser exploradas no quadro das oportunidades oferecidas pela economia global, constitui factor relevante de ponderação a correlação significativa entre os níveis de intensidade tecnológica das estruturas produtivas dos países e os respectivos níveis de rendimento per capita.
 
@@ -964,11 +970,11 @@ A análise apresentada sobre as oportunidades e as ameaças com que se defronta 
 
 Oportunidades e ameaças - Factores exógenos condicionantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Forças e fraquezas - Dotações existentes ou dinâmicas em curso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 III - Lições para o próximo período de programação
 
@@ -1258,7 +1264,7 @@ Esse percurso será concretizado através de ganhos consistentes de produtividad
 
 É igualmente tributário de ganhos de eficiência colectiva, que afectam a produtividade total dos factores, designadamente no plano da relação do Estado e da Administração Pública com as empresas e da redução de custos públicos de contexto, nos planos da eficácia da justiça e da eficiência dos mecanismos de regulação que afectam o nível de dotação, a qualidade e o custo das utilities, bem como no plano da eficiência dos grandes sistemas de transportes de pessoas e bens.
 
-As respectivas subprioridades estratégicas, profundamente articuladas entre si, configuram grandes objectivos a alcançar no âmbito do reforço da competitividade das empresas, particularmente dirigido às que estão expostas à concorrência internacional e actuam no mercado global; da promoção da inovação empresarial, através da criação de novos produtos e de novas actividades produtivas qualificadas e competitivas, da introdução de processos produtivos que permitam uma utilização mais eficiente de recursos e da sua intensidade tecnológica; da atracção de investimentos qualificantes, tanto na óptica da melhoria do perfil de especialização ou das exportações, como na óptica do potencial de transferência tecnológica ou de outros efeitos estruturantes sobre o tecido empresarial envolvente; do fomento do empreendedorismo qualificado (nomeadamente o das mulheres); da eficiência do mercado de capitais e da promoção de sistemas de financiamento que estimulem a inovação; do reforço do sistema científico e tecnológico e da valorização económica e social do esforço nacional de I&D; do reforço da clusterização em domínios chave do tecido económico e das redes de interacção e cooperação empresarial; da densificação da intensidade cognitiva e tecnológica das empresas; do estímulo à valorização dos comportamentos empresariais atentos à gestão eficiente dos recursos naturais e à responsabilidade social.
+As respectivas subprioridades estratégicas, profundamente articuladas entre si, configuram grandes objectivos a alcançar no âmbito do reforço da competitividade das empresas, particularmente dirigido às que estão expostas à concorrência internacional e actuam no mercado global; da promoção da inovação empresarial, através da criação de novos produtos e de novas actividades produtivas qualificadas e competitivas, da introdução de processos produtivos que permitam uma utilização mais eficiente de recursos e da sua intensidade tecnológica; da atracção de investimentos qualificantes, tanto na óptica da melhoria do perfil de especialização ou das exportações, como na óptica do potencial de transferência tecnológica ou de outros efeitos estruturantes sobre o tecido empresarial envolvente; do fomento do empreendedorismo qualificado (nomeadamente o das mulheres); da eficiência do mercado de capitais e da promoção de sistemas de financiamento que estimulem a inovação; do reforço do sistema científico e tecnológico e da valorização económica e social do esforço nacional de I&D do reforço da clusterização em domínios chave do tecido económico e das redes de interacção e cooperação empresarial; da densificação da intensidade cognitiva e tecnológica das empresas; do estímulo à valorização dos comportamentos empresariais atentos à gestão eficiente dos recursos naturais e à responsabilidade social.
 
 Coesão social
 
@@ -1438,7 +1444,7 @@ Salientam-se, como objectivos específicos, a intensificação do esforço de I&
 
 Serão accionadas nesta vertente de actuação duas grandes tipologias de intervenção:
 
-Sistemas de incentivos à I&DT empresarial, através do desenvolvimento de projectos de I&DT por empresas de forma individual, colectiva ou em consórcio com outras entidades do Sistema Científico e Tecnológico Nacional, da criação de núcleos de I&DT nas empresas, de projectos e actividades de demonstração tecnológica e da participação em programas europeus de I&DT;
+Sistemas de incentivos à I&DT empresarial, através do desenvolvimento de projectos de I&DT por empresas de forma individual, colectiva ou em consórcio com outras entidades do Sistema Científico e Tecnológico Nacional, da criação de núcleos de I&DT nas empresas, de projectos e actividades de demonstração tecnológica e da participação em programas europeus de I&DT
 
 Apoios às entidades do Sistema Científico e Tecnológico Nacional através do desenvolvimento de projectos de I&DT por entidades do Ensino Superior, Estado e Instituições Privadas sem Fins Lucrativos em domínios prioritários para o desenvolvimento económico e competitivo do país, do estímulo à respectiva participação em programas europeus de I&DT e do apoio a projectos e actividades de disseminação e difusão de novos conhecimentos junto do tecido empresarial.
 
@@ -1748,15 +1754,15 @@ Importa salientar, finalmente, que as articulações ilustradas nos quadros segu
 
 Interacções entre a agenda operacional temática para o potencial humano e os programas operacionais temáticos e regionais do continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Interacções entre a agenda operacional temática para os factores de competitividade e os programas operacionais temáticos e regionais do continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Interacções entre a agenda operacional temática para a valorização do território e os programas operacionais temáticos e regionais do continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 V.4 - Coerência entre agendas operacionais temáticas do Qren e as orientações estratégicas comunitárias em matéria de coesão
 
@@ -1776,15 +1782,15 @@ A aferição da contribuição do QREN para as prioridades da União Europeia em
 
 Interacções entre a agenda operacional temática para o potencial humano e as orientações estratégicas comunitárias em matéria de coesão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Interacções entre a agenda operacional temática para os factores de competitividade e as orientações estratégicas comunitárias em matéria de coesão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Interacções entre a agenda operacional temática para a valorização do território e as orientações estratégicas comunitárias em matéria de coesão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 V.5 - Coerência entre agendas operacionais do Qren e o Programa Nacional de Acção para o Crescimento e o Emprego
 
@@ -1808,15 +1814,15 @@ Os cinco objectivos do PNACE materializam-se em três grandes áreas de interven
 
 Interacções entre a agenda operacional temática para o potencial humano e o Programa Nacional de Acção para o Crescimento e o Emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Interacções entre a agenda operacional temática para os factores de competitividade e o Programa Nacional de Acção para o Crescimento e o Emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Interacções entre a agenda operacional temática para a valorização do território e o Programa Nacional de Acção para o Crescimento e o Emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 V.6 - Determinações regulamentares comunitárias relevantes para a organização dos programas operacionais
 
@@ -1924,7 +1930,7 @@ A categoria 75 está referenciada na Medida 1 do PNACE, salientando-se ainda que
 
 As tabelas apresentadas nas páginas seguintes especificam as categorias de despesa relevantes para cada um dos Objectivos e Regimes Transitórios, no âmbito da execução dos Programas Operacionais do QREN.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 V.10 - Programação financeira
 
@@ -1960,31 +1966,31 @@ No quadro da boa articulação entre os financiamentos do QREN e do FEADER, foi 
 
 Atribuição financeira indicativa anual por fundo e programa operacional - Objectivo convergência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Atribuição financeira indicativa anual por fundo e programa operacional - Apoio transitório do objectivo convergência (Phasing Out)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Atribuição financeira indicativa anual por fundo e programa operacional - Objectivo competitividade regional e emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Atribuição financeira indicativa anual por fundo e programa operacional - Apoio transitório ao objectivo competitividade regional e emprego (Phasing In)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Atribuição financeira indicativa anual por fundo e programa operacional - Objectivo cooperação territorial europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Atribuição financeira indicativa anual por fundo e programa operacional - Assistência técnica ao QREN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Atribuição financeira indicativa anual por fundo e programa operacional - Total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 V.11 - Verificação ex-ante da adicionalidade
 
@@ -2004,7 +2010,7 @@ Tendo em conta as determinações regulamentares comunitárias referidas e, desi
 
 Tabela financeira com a previsão média anual para 2007-2013 e com o recapitulativo das despesas estruturais públicas ou equivalentes médias nas regiões do objectivo da convergência em 2000-2005 (euros a preços de 2006)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 V.12 - Repartição de responsabilidades entre os Fundos Estruturais, o FEADER e o FEP
 
@@ -2310,7 +2316,7 @@ O quadro seguinte sintetiza e ilustra a tipologia das funções dos órgãos de 
 
 Síntese do modelo de governação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 VII - Cooperação territorial europeia
 
@@ -2382,7 +2388,7 @@ Com o objectivo de consagrar a concentração temática na Cooperação Territor
 
 Neste contexto, os quadros seguintes sintetizam a concentração temática preconizada para a participação portuguesa no Objectivo Cooperação Territorial Europeia no período 2007-2013, em articulação com a vocação de cada vertente e espaço de cooperação e com as elegibilidades regionais do território português.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 VII.4 - Programas operacionais de cooperação territorial
 
@@ -2424,7 +2430,7 @@ A definição da composição e das competências dos órgãos dos PO de Coopera
 
 Os órgãos em que Portugal assumirá formalmente responsabilidades acrescidas ou que se localizem no país estão representadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Importa também salientar as seguintes orientações para a participação portuguesa nos Programas Operacionais de Cooperação:
 
@@ -2548,7 +2554,7 @@ Esta informação adicional é apresentada na tabela anexa - devendo salientar-s
 
 Metas de desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 ## ANEXO III — Parceria na elaboração do QREN
 
@@ -2568,7 +2574,7 @@ Importa referir, por outro lado, que não é também viável registar todas as a
 
 Tendo todavia registado, no quadro dessas acções de apresentação e debate no âmbito do QREN e dos Programas Operacionais, as que tiveram natureza mais relevante e ocorreram por iniciativa ou com o envolvimento dos Senhores Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e Secretário de Estado do Desenvolvimento Regional e do Coordenador do Grupo de Trabalho QREN, apresentamos na tabela anexa a respectiva sistematização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 ## ANEXO IV — Avaliação ex-ante do cumprimento do princípio da adicionalidade
 
@@ -2588,7 +2594,7 @@ Com efeito, tendo em conta o disposto no referido Documento de Trabalho da Comis
 
 Para o total do país chegou-se a um montante ajustado médio para o período 2000-2004 a preços constantes de 2006 de (euro) 5412814278, face a (euro) 6547252467 no Relatório de Avaliação Final 2000-2004.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 a) Alteração no montante de financiamento nacional devido a alterações do âmbito temático da despesa elegível e da redefinição do conjunto de empresas públicas («the size of increase/decrease of national elegible spending due to the changes in elegibility-exclusion of agricultural and fisheries expenditure»)
 
@@ -2604,7 +2610,7 @@ a1.) Por efeito da modificação do âmbito temático da despesa elegível, aos 
 
 A exclusão destes domínios e dos fundos estruturais referidos teve o seguinte impacto na despesa nacional total:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 Constata-se, assim, que a exclusão daquele tipo de despesa conduziu a uma redução do financiamento nacional total de - (euro) 401156454 em termos médios no período 2000-2004, a preços constantes de 2006. Note-se que este efeito não é adicionável ao efeito das empresas públicas de modo a não criar efeitos de duplicação contabilística.
 
@@ -2612,7 +2618,7 @@ a2.) Por outro lado, o conjunto de empresas públicas contempladas no relatório
 
 A alteração do conjunto das empresas públicas consideradas teve um impacto de - (euro) 834429935 na despesa nacional total em termos médios no período 2000-2004 a preços constantes de 2006, conforme quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 A diminuição do montante de financiamento nacional associada às empresas públicas reflecte:
 
@@ -2630,7 +2636,7 @@ Como já referido, o financiamento nacional apurado para o Relatório Final 2000
 
 A alteração de âmbito regional teve o seguinte impacto no exercício ex-ante: o montante de (euro) 5412814278 reduziu-se para (euro) 3882762815 em termos médios no período 2000-2004 quando consideradas apenas as regiões objectivo convergência. No período 2000-2005 este montante ascende a (euro) 3897676670, sendo, portanto, este o montante a considerar para efeitos de avaliação do cumprimento do princípio da adicionalidade (vidé pagina 25 do Relatório de Avaliação Ex-Ante do Cumprimento do Princípio da Adicionalidade 2007-2013).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 2 - Deflatores utilizados no exercício de avaliação ex ante 2007-2013 («the GDP deflators used»)
 
@@ -2638,7 +2644,7 @@ Conforme explicitado no anexo metodológico do relatório de avaliação ex-ante
 
 (nota 5) Os valores de execução estimados para 2014 e 2015 foram também deflacionados por 2%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
 
 O deflator utilizado no período 2007-2013 tem como fonte o Regulamento (CE) n.º [1083/2006](https://data.europa.eu/eli/reg/2006/1083/oj?locale=pt) do Conselho, de 11 de Julho, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão e que revoga o Regulamento (CE) n.º [1260/1999](https://data.europa.eu/eli/reg/1999/1260/oj?locale=pt), no seu capítulo v, artigo 18.º o qual determina que, para efeitos de programação e subsequente inclusão no Orçamento Geral da União Europeia, os recursos disponíveis para autorização a título dos fundos para o período de 2007-2013 são indexados à taxa anual de 2%.
 
@@ -2888,6 +2894,8 @@ No caso dos Eixos de Assistência Técnica dos Programas Operacionais Valorizaç
 
 No que respeita ao Programa Operacional Potencial Humano - cujo carácter pluriobjectivos implicou a desagregação da Assistência Técnica em três Eixos -, a imputação regional das despesas de Assistência Técnica é directamente proporcional às correspondentes dotações financeiras em cada um dos Eixos Prioritários pertinentes (Eixo 8 - Algarve, Eixo 9 - Lisboa e Eixo 10 - Assistência Técnica).
 
-## ANEXO — Tipologia Territoriais dos Estados-Membros
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)
+Tipologia Territoriais dos Estados-Membros
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12600/41824283.pdf)

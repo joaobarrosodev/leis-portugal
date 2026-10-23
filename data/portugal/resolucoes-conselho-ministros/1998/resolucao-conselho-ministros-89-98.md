@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/89/1998/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-1998-485033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T12:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2e12509c3a9b6476682cd39366cc74bc9b52c6ca7876b4c8fa2d14ec3bd24f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeab1a287c0044a4fa50feb1ab320a88269b6e899403c1738bcd71e64cf7a6a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigação Científica e Tecnológica
+- Açores
 - ANO Internacional dos Oceanos
-- Mar
-- Fundação para a Ciência e a Tecnologia
 - Comissão Intersectorial
-- Ministro da Ciência e da Tecnologia
-- Zona Económica Exclusiva
-- Equipa de Missão
-- Gestão dos Recursos
-- Instituto de Cooperação Científica e Tecnológica Internacional
 - Comissão Oceanográfica Intersectorial
 - Diversidade Biológica
-- Programa Dinamizador das Ciências e Tecnologias do MAR
+- Equipa de Missão
+- Fundação para a Ciência e a Tecnologia
+- Gestão dos Recursos
+- Instituto de Cooperação Científica e Tecnológica Internacional
+- Investigação Científica e Tecnológica
 - Madeira.região Autónoma
+- Mar
+- Ministro da Ciência e da Tecnologia
 - Observatório das Ciências e das Tecnologias
-- Açores
+- Programa Dinamizador das Ciências e Tecnologias do MAR
 - Sistema Global de Observação dos Oceanos
+- Zona Económica Exclusiva
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:40:45Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1414/1995/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1414-1995-692411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T12:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd6ff3cab43c465e08b87cedf6c53a0c726d00b0e28c72330859df026881cc7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3c72540af7f684e98166a703d162a3dcb7e3b59655aefacd50a86758f5452c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Enfermagem de Reabilitação
-- Escola Superior de Enfermagem de Bissaya Barreto
 - Ensino Superior
+- Escola Superior de Enfermagem de Bissaya Barreto
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:219679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219679:por
+  label: "Alterado o anexo I pela PORT.490/96.13.09.1996.ME, DR.IS-B [213] de 13.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/490-1996-219679
+  date: '1996-09-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/239/1994/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/239/1994/04/16/p/dre
+- type: cites
+  target: pt:dre:266642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:53:27Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +154,8 @@ e) Outros enfermeiros - 5%.
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 26 de Setembro de 1995.**
+Assinada em 26 de Setembro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/272b00/73087309.pdf))](https://files.diariodarepublica.pt/1s/1995/11/272b00/73087309.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/73087309.pdf)

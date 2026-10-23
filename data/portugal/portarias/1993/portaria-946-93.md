@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/946/1993/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/946-1993-652123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T12:13:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1aecf2420d92e6ba8ff875864348679123e1bf9e22dbc680378b41a9cdd56c4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c68ff9f7f3f6bed4c0c504239e189b12bcbff2802882ea13244655f0aef06bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Cálculo de Pensões
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:13:50Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +106,6 @@ Manda o Governo, pelo Secretário de Estado do Tesouro, ao abrigo do Despacho n.
 
 Ministério das Finanças.
 
-**Assinada em 6 de Setembro de 1993.**
+Assinada em 6 de Setembro de 1993.
 
-**O Secretário de Estado do Tesouro, José Monteiro Fernandes Braz.**
+O Secretário de Estado do Tesouro, José Monteiro Fernandes Braz.

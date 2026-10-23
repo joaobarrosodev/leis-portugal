@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/180/2008/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/180-2008-440079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T12:57:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba81f6c1eb4251b2217f2dc472e234ff1f07957fcef761e7ae8ee3419342e3bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70c6ee5cdb227363c43215d4be5b859b02af161683c73ed6af54647fe092ad72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Proteção do Ambiente
 - Peniche
-- Zona de Proteção
+- Proteção do Ambiente
 - Regulamento
 - Reserva Natural das Berlengas
+- Zona de Proteção
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:142/2008
+  label: "Determina, que nos termos do n.º 6 do artigo 23.º do Decreto-Lei n.º 142/2008, de 24 de Julho, com a publicação\
+    \ do PORNB, são revogados os artigos 10.º, 11.º, 12.º, 13.º, 15.º e 18.º do DR 30/98, de 23-Dez, DR.IS-B [295], alterado\
+    \ pelo DR 32/99, de 20-Dez\0\0"
+  source: null
+  date: '1998-12-23'
 - type: cites
   target: celex:31992L0043
   label: null
   source: http://data.europa.eu/eli/dir/1992/43/oj
 article_structure:
   article_count: 52
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:57:16Z'
   warnings: []
   errors: []
 ---
@@ -754,7 +761,7 @@ b) Áreas de protecção complementar.
 
 ##### SUBSECÇÃO I — Áreas de protecção parcial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Áreas de protecção parcial do tipo i
 
@@ -830,7 +837,7 @@ d) Turismo da natureza;
 
 e) Transporte de passageiros e mercadorias.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Áreas de protecção parcial do tipo ii
 
@@ -1022,4 +1029,4 @@ O PORNB entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — Património arqueológico conhecido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22800/0839708411.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22800/0839708411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22800/0839708411.pdf)

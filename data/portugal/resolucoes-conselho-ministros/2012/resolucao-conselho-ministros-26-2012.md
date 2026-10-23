@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05300/0114001142.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/26/2012/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2012-553453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a080873891a55a3b85baff955e86961c689f5db4c41d9bdf5ed6971542760be9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5fd57f50dd5da5f9cb18d8f862341879041bf3c86ccb5ec641fd08deabae47b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Ajuda Comunitária
-- Financiamento
 - Comissão de Acompanhamento
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - EEE
+- Financiamento
 - Fundo de Coesão
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- QREN
 - Secretaria Geral
 - Unidade de Gestão
 relationships:
@@ -80,6 +80,27 @@ relationships:
   target: pt:dre:106579659:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinada a transição para o Ministério do Ambiente, Ordenamento do Território e Energia da Unidade Nacional de\
+    \ Gestão do Mecanismo Financeiro do Espaço Económico Europeu, pelo DEC LEI.119/2013.21.08.2013.PCM, DR.IS [160] de 21.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:55021058:por
+  label: Dada nova redação aos n.ºs 2 a 6 e 11, aditado o n.º 12, e revogado os n.ºs 7 e 8 e a al. h) do n.º 11 do presente
+    diploma pelo(a) Resolução do Conselho de Ministros n.º 47-A/2014 - Diário da República n.º 142/2014, 1º Suplemento, Série
+    I de 2014-07-25, que o republicou em anexo, com a redação atual
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/47-a-2014-55021058
+  date: '2014-07-25'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a superintendência e tutela sobre a Unidade Nacional de Gestão do Mecanismo Financeiro do Espaço
+    Económico Europeu seja exercida pelo Ministro do Planeamento e das Infraestruturas pelo(a) Decreto-Lei n.º 251-A/2015
+    - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/7/2012/01/17/p/dre
   label: null
@@ -100,16 +121,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2011/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2011/11/28/p/dre
+- type: cites
+  target: pt:dre:146190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2224207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106579659:por
+  label: Revogada a presente Resolução, na redação da Res 47-A/2014 de 25-jul PCM, pelo(a) Resolução do Conselho de Ministros
+    n.º 39/2017 - Diário da República n.º 50/2017, Série I de 2017-03-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-2017-106579659
+  date: '2017-03-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:43Z'
   warnings: []
   errors: []
 ---

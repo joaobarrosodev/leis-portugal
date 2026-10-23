@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/600/1994/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-1994-300241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T12:31:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de18395713f43087c94e8fa30417b56209acb33421da3e0af3b9c87c424ff1ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49ef9b0f4ef48fb48ae2ba07a42eecaddc1c48bc20a5290370e257f05467a8ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:31:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,24 @@ relationships:
   target: pt:dre:546074:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241846:por
+  label: "Suspendida por 180 dias a exploração cinegética da zona de caça turística concessionada pelo presente diploma, pela\
+    \ PORT.464/96.09.09.1996.MADRP, DR.IS-B [209] de 09.09.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/464-1996-241846
+  date: '1996-09-09'
+- type: amended_by
+  target: pt:dre:391439:por
+  label: "Renovada, por um período de 10 anos, a concessão da zona de caça turística da Herdade de Vale de Carros, concessionada\
+    \ pelo presente diploma, pela PORT.544-A/96.04.10.1996.MECO, DR.IS-B [231]SUPL de 04.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/544-a-1996-391439
+  date: '1996-10-04'
+- type: amended_by
+  target: pt:dre:546074:por
+  label: "Renovada por nove anos a concessão de zona de caça atribuída no presente diploma, com a renovação efectuada pela\
+    \ Port 544-A/96 de 04-Out, pela PORT.1167/2006.02.11.2006.MADRP, DR.IS [211] de 02.11.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1167-2006-546074
+  date: '2006-11-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
@@ -87,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/316/1991/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/316/1991/04/10/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:31:31Z'
   warnings: []
   errors: []
 ---
@@ -139,8 +181,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 30 de Junho de 1994.**
+Assinada em 30 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/160b00/37773778.pdf))](https://files.diariodarepublica.pt/1s/1994/07/160b00/37773778.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/160b00/37773778.pdf)

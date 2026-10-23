@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 251/2012, 4º Suplemento, Série I de 2012-12-28
   number: '251'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7294-(31) a 7294-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25104/0003100032.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/111-d/2012/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-d-2012-400831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T13:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4966fc5e97a33f5014f40a9efad92a404942121acace6ce1c74a07f34b33ddc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85e13f93ae637e51e386cd84dbd9b95588e941fae4d3534532569572131ed48e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
-- Instituto da Segurança Social
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Direcção Geral da Segurança Social
+- CASA PIA de Lisboa
 - Conselho de Ministros
 - Contrato
 - Delegação de Competências
-- Secretaria Geral
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
-- Instituto de Gestão do Fundo Social Europeu
-- Inspecção Geral da Segurança Social
-- Instituto de Gestão Financeira da Segurança Social
-- Instituto de Informática
-- CASA PIA de Lisboa
-- Ministério da Solidariedade e da Segurança Social
+- Direcção Geral da Segurança Social
 - Entidade de Serviços Partilhados da Administração Pública
 - Governo XIX
+- Inspecção Geral da Segurança Social
+- Instituto da Segurança Social
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto de Gestão Financeira da Segurança Social
+- Instituto de Informática
 - Instituto Nacional para a Reabilitação
+- Ministério da Solidariedade e da Segurança Social
+- Secretaria Geral
 - Unidade Ministerial de Compras
 relationships:
 - type: cites
@@ -119,16 +119,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T13:02:28Z'
   warnings: []
   errors: []
 ---
@@ -173,4 +205,4 @@ Presidência do Conselho de Ministros, 27 de dezembro de 2012. - O Primeiro-Mini
 
 Repartição de encargos por entidades adjudicantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25104/0003100032.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25104/0003100032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25104/0003100032.pdf)

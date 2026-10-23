@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/734/1994/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/734-1994-225453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T12:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c8717973c92074e77e2c69ab48f2885a7c7ba64583208152ceb7ab8c48c3dfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a94b921138fe66e68b8448eac6ee7e5d36f3d8a7c2c17c403aedd2c328450dcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:36:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:219569:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549199:por
+  label: "Alterado o n.º 3.º da Portaria n.º 743/93, de 16 de Agosto, na redacção do presente diploma, pela PORT.1063/94.02.12.1994.MS,\
+    \ DR.IS-B [278] de 02.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1063-1994-549199
+  date: '1994-12-02'
+- type: amended_by
+  target: pt:dre:474725:por
+  label: "Alterado o escalão A do anexo I da Portaria n.º 743/93, de 16 de Agosto, na redacção do presente diploma, pela PORT.706/95.03.07.1995.MS,\
+    \ DR.IS-B [151] de 03.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/706-1995-474725
+  date: '1995-07-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/1992/06/25/p/dre
   label: null
@@ -82,16 +94,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/743/1993/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/743/1993/08/16/p/dre
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330252:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219569:por
+  label: "Revogada a Port 743/93 de 16-Ago, com a redacção do presente diploma, pela Port.1474/2004.21.12.2004.MS, DR.IS-B\
+    \ [297] de 21.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1474-2004-219569
+  date: '2004-12-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:36:49Z'
   warnings: []
   errors: []
 ---
@@ -138,6 +164,6 @@ Medicamentos específicos para hemodiálise.
 
 Ministério da Saúde.
 
-**Assinada em 12 de Julho de 1994.**
+Assinada em 12 de Julho de 1994.
 
-**O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.**
+O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.

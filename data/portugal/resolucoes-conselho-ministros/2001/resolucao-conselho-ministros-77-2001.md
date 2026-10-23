@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolconsmin/77/2001/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/77-2001-347930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T12:45:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2345847f306a27ca9a7e5b5dfd862e6f584d02f43e31bc7d8eeb2ff86fdb913
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 116802c03df4f68e51774a4211dd0fe40a9ad316219c721c0ee3fa2a9d8efd1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Cartão Comum do Cidadão
-- Ministério do Trabalho e da Solidariedade
-- Cidadão Nacional
-- Ministério da Administração Interna
-- Ministério da Reforma do Estado e da Administração Pública
-- Documentação
 - Administração Pública
-- Ministério das Finanças
-- Ministério da Justiça
-- Grupo de Trabalho
 - Base de Dados
-- Sociedade da Informação
-- Segurança da Informação
+- Cartão Comum do Cidadão
+- Cidadão Nacional
+- Documentação
+- Grupo de Trabalho
+- Ministério da Administração Interna
 - Ministério da Ciência e da Tecnologia
-- Programa de Acção
-- Sistema de Informação
-- Serviço Público
-- Presidência do Conselho de Ministros
+- Ministério da Justiça
+- Ministério da Reforma do Estado e da Administração Pública
 - Ministério da Saúde
+- Ministério das Finanças
+- Ministério do Trabalho e da Solidariedade
 - Ministro da Presidência
+- Modernização Administrativa
+- Presidência do Conselho de Ministros
+- Programa de Acção
 - Secretário de Estado
+- Segurança da Informação
+- Serviço Público
+- Sistema de Informação
+- Sociedade da Informação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T12:45:35Z'
   warnings: []
   errors: []
 ---
