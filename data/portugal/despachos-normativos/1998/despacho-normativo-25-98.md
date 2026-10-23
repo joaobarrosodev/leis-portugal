@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/25/1998/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-1998-208999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e95450585b4f66a159cb40c4f9712aca894373fdb541734c44d0e7363f6213c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cb0556552f45a88d3362cc1294b82b7248552c7dd7e06aa58691a1b7e08d2e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Desenvolvimento Industrial
-- Política Industrial
-- Projeto de Investimento
+- Financiamento
+- Gestão do Ambiente
 - Indústria
 - Modernização Industrial
-- Gestão do Ambiente
+- Pedip II
+- Política Industrial
+- Projeto de Investimento
 - Regime de Apoio
 - Regime de Apoio à Promoção da Qualidade Industrial
-- Pedip II
 - Sistema de Incentivos Pedip
 - Subsídio
 relationships:
@@ -92,15 +92,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/despnorm/550/1994/07/29/p/dre
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:11Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +129,9 @@ b) ...
 
 c) Acção C - Apoio à certificação no domínio do ambiente, ao registo no EMAS e à atribuição do rótulo ecológico a produtos.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 1 - ...
 
@@ -143,7 +145,9 @@ c) A certificação de sistemas de gestão ambiental segundo as normas NP EN ISS
 
 3 - ...
 
-###### Artigo 5.º — Condições de acesso do promotor
+Artigo 5.º
+
+Condições de acesso do promotor
 
 1 - ...
 
@@ -185,7 +189,9 @@ f) No caso de compromisso na obtenção da certificação no âmbito do SPQ, seg
 
 2 - ...
 
-###### Artigo 6.º — Condições de acesso do projecto
+Artigo 6.º
+
+Condições de acesso do projecto
 
 1 - ...
 
@@ -217,7 +223,9 @@ a) Envolver um montante mínimo de investimento de 600 contos;
 
 b) Contribuir claramente para o incremento da eficiência global da empresa e para a redução/eliminação significativa do impacte ambiental da sua actividade e dos seus produtos.
 
-###### Artigo 8.º — Aplicações relevantes
+Artigo 8.º
+
+Aplicações relevantes
 
 Consideram-se aplicações relevantes para efeitos de cálculo do incentivo as seguintes despesas necessárias à realização do projecto:
 
@@ -263,7 +271,9 @@ i) Acções de formação, desde que integradas no respectivo plano global.
 
 4 - Para efeitos do disposto nas alíneas d) do n.º 1, b) do n.º 2 e d) do n.º 3 deste artigo, entende-se por assistência técnica todo o trabalho desenvolvido na empresa por entidade externa a fim de implementar e executar as acções necessárias ao projecto em causa.
 
-###### Artigo 9.º — Incentivo
+Artigo 9.º
+
+Incentivo
 
 1 - O incentivo financeiro a conceder assumirá a forma de um subsídio financeiro a fundo perdido, determinado pela aplicação de uma percentagem sobre as aplicações relevantes do projecto e até aos limites previstos nos n.os 4, 5 e 6 do presente artigo.
 
@@ -295,7 +305,9 @@ e) 2000 contos para a aquisição de aplicações informáticas.
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 10.º — Apresentação de candidaturas
+Artigo 10.º
+
+Apresentação de candidaturas
 
 1 - A apresentação de candidaturas às acções A e C é contínua e independente, devendo ser formalizada de acordo com o disposto no artigo 9.º do Despacho Normativo n.º 545/94 (SINDEPEDIP) (IIDG01).
 
@@ -305,7 +317,9 @@ e) 2000 contos para a aquisição de aplicações informáticas.
 
 4 - ...
 
-###### Artigo 11.º — Competências e prazos de apreciação
+Artigo 11.º
+
+Competências e prazos de apreciação
 
 Compete ao IPQ a análise dos processos de candidatura, emitindo parecer fundamentado:
 
@@ -315,7 +329,9 @@ b) ...
 
 c) Para os casos da acção C, no prazo de 80 dias úteis contados a partir da data de apresentação da candidatura, recorrendo para o efeito a parecer técnico da Direcção-Geral do Ambiente, que deverá ser emitido no prazo de 20 dias úteis.
 
-###### Artigo 12.º — Condições para a realização do pagamento
+Artigo 12.º
+
+Condições para a realização do pagamento
 
 O último pagamento do incentivo fica condicionado ao cumprimento dos seguintes requisitos:
 
@@ -325,9 +341,11 @@ b) ...
 
 c) No caso de projectos candidatos à acção C, à certificação de sistemas de gestão ambiental, ou ao registo no EMAS, e ou à atribuição do rótulo ecológico, ou à comprovação de que requereu a adesão a algum destes sistemas.
 
-## ANEXO I — (Anterior anexo.)
+ANEXO I
 
-## ANEXO II
+(Anterior anexo.)
+
+ANEXO II
 
 Estrutura para apresentação das fases de consultoria para o implemento dos sistemas da qualidade, a certificar de acordo com os sistemas n.os 5 e 6 da Directiva n.º 5/94 do CNQ.
 

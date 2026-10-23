@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/29/1998/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1998-176018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36d9688532d70c64047f6c104c2af41d5fc0946864cb3fb051cca0ae86ce4a5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90c0944227aab9f7d9b8cbce56f5ead84207966a90ddf5436b5647e5f7c12759
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
 subjects:
 - Acção Financeira
 - Ajuda Comunitária
+- Aldeamento Turístico
 - Apartamento Turístico
-- Financiamento
-- Turismo
+- Apoio ao Investimento
 - Desenvolvimento Regional
 - Estabelecimento Hoteleiro
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria Hoteleira
+- Financiamento
 - Fundo de Turismo
-- Aldeamento Turístico
-- Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Indústria Hoteleira
 - Infraestrutura Turística
+- Projeto de Investimento
+- Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Turismo
 - Viabilidade Económica
 relationships:
 - type: cites
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/486/1994/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/486/1994/07/04/p/dre
+- type: cites
+  target: pt:dre:176019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419396:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:16Z'
   warnings: []
   errors: []
 ---

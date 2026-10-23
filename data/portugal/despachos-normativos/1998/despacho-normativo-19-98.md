@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/19/1998/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-1998-197334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeffca93cb861ae19bf8198d439bd5d2014ba6966398dbb0345be3a30e19d43d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa406aee4d54ccca2c79e643e48d4c2330fce7734505528a4e26ada9ad90e846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Energia não Poluente
-- Energia Elétrica
-- Ministro da Economia
+- Apoio ao Investimento
 - Definição de Competências
 - Direcção Geral de Energia
-- Política Energética
+- Energia
+- Energia Elétrica
+- Energia não Poluente
 - Equipamento Térmico
-- Apoio ao Investimento
-- Projeto de Investimento
+- Financiamento
+- IAPMEI
 - Indústria
 - Informação Económica e Financeira
-- QCA
-- Energia
+- Ministro da Economia
+- Política Energética
 - Poupança de Energia
 - Programa Energia
 - Projeto
+- Projeto de Investimento
+- QCA
 - Recursos Energéticos
 - Regime de Apoio
 - Regulamento
-- IAPMEI
 - Subsídio
 - Subsídio não Reembolsável
 - Taxa
@@ -100,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/11-a/1995/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/11-a/1995/03/06/p/dre
+- type: cites
+  target: pt:dre:198139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:04Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +162,9 @@ g) Projectos de investimento em instalações de produção combinada de energia
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - No presente domínio apenas serão consideradas operações a que correspondam montantes de investimentos em capital fixo superiores a 5000000$00.
 
@@ -168,7 +182,9 @@ b) ...
 
 6 - As operações candidatas deverão ter lugar durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -216,7 +232,9 @@ g) As despesas relativas a sinalização de compra de equipamentos em montante s
 
 h) As despesas relativas a sinalização de compra de equipamentos que tenham sido incorridas mais de 90 dias antes da apresentação da candidatura.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - No caso das operações enquadráveis nas alíneas a), b), c), d), e) e g) do n.º 1 do artigo 2.º cujo volume de investimento seja inferior ou igual a 100000000$00, o incentivo a conceder assumirá a forma de um subsídio a fundo perdido.
 
@@ -244,7 +262,9 @@ p - a percentagem do subsídio calculada de acordo com os n.os 4 e 5 deste artig
 
 8 - Os limites referidos nos n.os 5, 6 e 7 poderão ser excedidos pela aplicação do disposto no artigo 8.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 

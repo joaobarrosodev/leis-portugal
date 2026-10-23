@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/20/1998/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-1998-197331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1320be9610ae56a9c847a2696c8ff998d780ec72ce0a435c8184ebcdeea4c46a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb2cbba03e31e3a9700341e14b53cae822ef7401e97072d06811d58cfc416412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Energia não Poluente
-- Energia Elétrica
-- Ministro da Economia
+- Apoio ao Investimento
+- Climatização
 - Contrato de Concessão
 - Definição de Competências
 - Direcção Geral de Energia
-- Climatização
-- Energia Térmica
-- Política Energética
-- Fiscalização
-- Apoio ao Investimento
-- Projeto de Investimento
-- Informação Económica e Financeira
-- QCA
 - Energia
+- Energia Elétrica
+- Energia não Poluente
+- Energia Térmica
+- Financiamento
+- Fiscalização
+- IAPMEI
+- Informação Económica e Financeira
+- Ministro da Economia
+- Política Energética
 - Poupança de Energia
+- Prédio Urbano
 - Programa Energia
 - Projeto
+- Projeto de Investimento
+- QCA
 - Recursos Energéticos
 - Regime de Apoio
 - Regulamento
 - Sistema de Incentivos a Utilização Racional de Energia
-- IAPMEI
-- Prédio Urbano
 - Subsídio
 - Subsídio não Reembolsável
 - Taxa
@@ -104,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/11-c/1995/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/11-c/1995/03/06/p/dre
+- type: cites
+  target: pt:dre:198139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:06Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +202,9 @@ g) A qualidade térmica mínima de admissibilidade dos sistemas de aquecimento, 
 
 h) A qualidade térmica mínima de admissibilidade dos sistemas de arrefecimento, a aplicar nos termos do anexo n.º 2 ao presente despacho.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os promotores das operações candidatas aos incentivos previstos no presente domínio podem ser empresas ou entidades públicas ou privadas, com excepção dos consumidores domésticos, que estejam, sempre que aplicável, a cumprir o RGCE.
 
@@ -194,7 +212,9 @@ h) A qualidade térmica mínima de admissibilidade dos sistemas de arrefecimento
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O presente domínio abrange exclusivamente operações realizadas em edifícios não residenciais que tenham lugar durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.
 
@@ -232,7 +252,9 @@ b) Ter, no mínimo, uma área climatizada de 300 m2, quando se trate de edifíci
 
 8 - Para efeitos do disposto no n.º 2, entende-se por área útil recuperada equivalente de um edifício existente o produto da respectiva área útil pelo grau de intervenção física no edifício, sendo este um parâmetro calculado pelo método definido no n.º 3 do anexo n.º 1 ao presente despacho.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para operações enquadráveis nas alíneas a) e b) do n.º 1 do artigo 2.º, considera-se que as aplicações relevantes, para efeitos de cálculo do incentivo a atribuir, são equivalentes a um valor de referência A(índice re) proporcional à área útil do edifício e especificado no n.º 5 do anexo n.º 1 ao presente despacho.
 
@@ -288,7 +310,9 @@ g) As despesas relativas à sinalização da compra de equipamentos em montante 
 
 h) As despesas relativas à sinalização da compra de equipamentos que tenham sido incorridas mais de 90 dias antes da apresentação da candidatura.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Para operações enquadráveis nas alíneas a) e b) do n.º 1 do artigo 2.º, o incentivo assume a forma de um subsídio a fundo perdido de montante não superior a 150000000$00, determinado pela aplicação de uma percentagem sobre o montante das aplicações relevantes e calculado de acordo com o n.º 5 do anexo n.º 1 a este despacho.
 
@@ -304,7 +328,9 @@ h) As despesas relativas à sinalização da compra de equipamentos que tenham s
 
 7 - Os montantes máximos de incentivo previstos nos n.os 1 a 4 podem ser excedidos pela aplicação do disposto no artigo 8.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Para operações enquadráveis nas alíneas a), b), c) e f) do n.º 1 do artigo 2.º, o pagamento do incentivo é feito nos seguintes termos:
 
@@ -328,7 +354,9 @@ d) A parcela do incentivo correspondente às despesas com estudos e projectos de
 
 4 - O pagamento da parte do incentivo correspondente a bens sujeitos a registo de propriedade só pode ser efectuado após apresentação do mesmo ou de documento considerado equivalente.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A apresentação de candidaturas ao presente domínio é contínua, devendo ser formalizada em duplicado junto do organismo gestor.
 
@@ -346,7 +374,9 @@ b) Para candidaturas relativas à construção de edifícios novos ou à recuper
 
 6 - A decisão sobre o pedido de concessão de incentivos deverá ser comunicada ao promotor no prazo de 90 dias úteis consecutivos contados da data de recepção, pelo organismo gestor, de todos os dados necessários à completa instrução do processo.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -360,7 +390,9 @@ b) Apresentação do projecto completo de execução do edifício e dos respecti
 
 4 - Para operações enquadráveis na alínea f) do n.º 1 do artigo 2.º, para além dos elementos indicados no número anterior, é ainda necessário incluir no processo de candidatura as folhas de cálculo demonstrando o cumprimento do RCCTE e o cálculo dos parâmetros fi e ou fv no anexo n.º 2 a este despacho.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -378,7 +410,9 @@ b) Apresentação do projecto completo de execução do edifício e dos respecti
 
 8 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 No prazo de 15 dias úteis contados da data da publicação do presente diploma, será publicado o anúncio a que se refere o n.º 5 do artigo 2.º, para produzir efeitos no resto do ano civil em que for publicado este despacho.»
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/17/1998/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-1998-197484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e960dc14c41eb5fdacec363d75bac180e7c86c3f47cdd87e297d376805b60b6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26a2fe55ada83bed4ac9cf39862e93fe7382b9e121581ed69a1e5229db02aec8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Energia não Poluente
-- Ministro da Economia
+- Apoio ao Investimento
+- Autarquia Local
 - Conversão de Energia
 - Desenvolvimento Regional
-- Energia Solar
-- Política Energética
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria
-- QCA
 - Energia
+- Energia não Poluente
+- Energia Solar
+- Financiamento
+- Indústria
+- Ministro da Economia
+- Política Energética
 - Programa Energia
 - Projeto
+- Projeto de Investimento
+- QCA
 - Recursos Energéticos
 - Regime de Apoio
 - Regulamento
 - Sistema de Incentivos a Utilização Racional de Energia
 - Subsídio não Reembolsável
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/35/1995/02/11/p/dre
@@ -96,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/11-b/1995/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/11-b/1995/03/06/p/dre
+- type: cites
+  target: pt:dre:198139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:01Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +162,9 @@ j) Estudos de âmbito regional ou local que visem averiguar a viabilidade econó
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -170,7 +184,9 @@ e) ...
 
 4 - No caso de as operações candidatas se integrarem no âmbito da alínea j) do n.º 1 do artigo 2.º, os promotores devem ainda ser autarquias, associações de autarquias ou outras entidades associativas cujo objecto social inclua a promoção do desenvolvimento regional.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - No presente domínio apenas serão consideradas operações às quais correspondam montantes de investimentos superiores a 2000000$00.
 
@@ -184,7 +200,9 @@ e) ...
 
 6 - As operações candidatas deverão ter lugar durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - No caso de as operações candidatas se integrarem no âmbito das alíneas a) a i) do n.º 1 do artigo 2.º, consideram-se relevantes, para efeitos de cálculo do incentivo a atribuir, as aplicações em:
 
@@ -254,7 +272,9 @@ g) As despesas relativas a sinalização de compra de equipamentos em montante s
 
 h) As despesas relativas a sinalização de compra de equipamentos que tenham sido incorridas mais de 90 dias antes da apresentação da candidatura.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +286,9 @@ h) As despesas relativas a sinalização de compra de equipamentos que tenham si
 
 5 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - No caso de as operações candidatas se integrarem no âmbito das alíneas a) a i) do n.º 1 do artigo 2.º, o pagamento do incentivo será feito nos seguintes termos:
 

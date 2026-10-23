@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/42/1998/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aebb0db2c92b84b92bb3cbab0b194a00ff8f108662b1a81fa45c959bd4f282d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19019c4f6a5b4b8b1e9313426fac8b07103785cae808fa5eca8078226da610e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Industrial
 - Apoio ao Investimento
+- Desenvolvimento Industrial
+- Pedip II
 - QCA
 - Regime de Apoio à Consolidação das Infra-estruturas Tecnológicas
-- Pedip II
 - Sinfrapedip
 relationships:
 - type: cites
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/9-a/1995/02/16/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/9-a/1995/02/16/p/dre
+- type: cites
+  target: pt:dre:143719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:34Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +153,9 @@ b) ...
 
 c) ...
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 1 - ...
 
@@ -181,11 +203,15 @@ O apoio à permanência temporária de técnicos de empresas industriais em infr
 
 A cedência temporária à indústria de especialistas das infra-estruturas tecnológicas para fomento do processo de inovação tecnológica nas empresas.
 
-###### Artigo 3.º — Organismo gestor
+Artigo 3.º
+
+Organismo gestor
 
 O organismo responsável pela gestão deste Regime de Apoio é a Direcção-Geral da Indústria (DGI).
 
-###### Artigo 4.º — Entidades beneficiárias
+Artigo 4.º
+
+Entidades beneficiárias
 
 1 - Os beneficiários do presente Regime são as entidades de direito privado sem fins lucrativos que tenham como objecto social a realização de actividades de apoio técnico e I&DT industrialmente orientadas, bem como as que prossigam finalidades estatutárias no domínio do ensino e formação tecnologicamente direccionada nas áreas para as quais se encontram vocacionadas, nomeadamente as infra-estruturas tecnológicas e as escolas tecnológicas promovidas pelo PEDIP.
 
@@ -193,7 +219,9 @@ O organismo responsável pela gestão deste Regime de Apoio é a Direcção-Gera
 
 3 - ...
 
-###### Artigo 5.º — Condições de acesso do promotor
+Artigo 5.º
+
+Condições de acesso do promotor
 
 1 - ...
 
@@ -219,7 +247,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 6.º — Condições de acesso do projecto
+Artigo 6.º
+
+Condições de acesso do projecto
 
 1 - ...
 
@@ -249,7 +279,9 @@ c) Quando exista investimento em formação profissional, cumprir o disposto no 
 
 7 - ...
 
-###### Artigo 7.º — Critérios de selecção
+Artigo 7.º
+
+Critérios de selecção
 
 São critérios de selecção:
 
@@ -283,7 +315,9 @@ a) C(índice 1) ou C(índice 3) com pontuação igual ou inferior a 25;
 
 b) C(índice 2) ou C(índice 4) com pontuação igual a 0.
 
-###### Artigo 8.º — Aplicações relevantes
+Artigo 8.º
+
+Aplicações relevantes
 
 Consideram-se aplicações relevantes, para efeitos do cálculo dos incentivos, as despesas associadas ao projecto e relativas a:
 
@@ -321,7 +355,9 @@ l) Acções de formação, desde que integradas no plano de formação de médio
 
 6 - Os critérios para a determinação dos níveis, bem como os limites máximos a considerar nos custos associados às aplicações relevantes referidas nas alíneas a), b), c), e) e f) do n.º 2, a) e b) do n.º 3 e a), c) e d) do n.º 4, relativos a despesas com pessoal, são os definidos pelo [Despacho Normativo n.º 9-A/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-a-1995-143719), de 16 de Fevereiro.
 
-###### Artigo 9.º — Incentivos
+Artigo 9.º
+
+Incentivos
 
 O incentivo a conceder no âmbito deste Regime de Apoio assumirá a forma de um subsídio a fundo perdido, determinado pela aplicação de percentagens sobre os montantes das aplicações relevantes e até aos limites definidos nos números seguintes:
 
@@ -347,7 +383,9 @@ d) As percentagens referidas nas alíneas a) e b) não são aplicáveis às apli
 
 6 - ...
 
-###### Artigo 10.º — Projectos sucessivos de consolidação
+Artigo 10.º
+
+Projectos sucessivos de consolidação
 
 1 - O plano de consolidação pode ser dividido em projectos sucessivos, sendo que cada um deles terá também de apoiar-se, à semelhança do primeiro, num diagnóstico e análise estratégica.
 
@@ -357,7 +395,9 @@ d) As percentagens referidas nas alíneas a) e b) não são aplicáveis às apli
 
 4 - No âmbito do apoio a projectos sucessivos, o limite máximo de apresentação de diagnósticos pelos promotores é 31 de Dezembro de 1998.
 
-###### Artigo 11.º — Apresentação de candidaturas
+Artigo 11.º
+
+Apresentação de candidaturas
 
 1 - A apresentação de candidaturas ao presente Regime de Apoio é contínua, devendo ser formalizada de acordo com o disposto no artigo 9.º do [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882) (IIDG02), de 29 de Julho.
 
@@ -377,23 +417,31 @@ d) Sempre que se julgue imprescindível uma apreciação final conjunta, deve ta
 
 5 - No caso em que a infra-estrutura solicite apoio para promoção de formação profissional, esta componente da candidatura, entregue em conjunto na DGI, será remetida para apreciação do Gabinete de Dinamização e Acompanhamento de Formação Profissional (GDA-FP).
 
-###### Artigo 12.º — Competência e prazos de apreciação
+Artigo 12.º
+
+Competência e prazos de apreciação
 
 1 - Compete à DGI analisar as candidaturas, emitindo parecer fundamentado no prazo de 60 dias úteis, no que se refere a cada uma das fases da acção A, e de 30 dias úteis, no que se refere às acções B e C, contados a partir da data de recepção das candidaturas.
 
 2 - Quando a candidatura inclua investimento em formação profissional, a análise da componente de formação será assegurada pelo GDA-FP, nos termos definidos pelo despacho conjunto que regulamenta os apoios do FSE no quadro do PEDIP II, sendo precedida do parecer de enquadramento geral da competência da DGI.
 
-###### Artigo 13.º — Decisão
+Artigo 13.º
+
+Decisão
 
 1 - No caso da fase 2 da acção A, referida na alínea a) do n.º 2 do artigo 2.º, a decisão incidirá sobre a adequação das acções propostas no projecto de desenvolvimento e consolidação às opções estratégicas decorrentes do diagnóstico e análise estratégica, com cativação global do incentivo a atribuir, e sobre o conteúdo e custo do conjunto das acções específicas para o primeiro ano do processo de consolidação.
 
 2 - No final de cada ano, deverá o promotor das acções referidas no número anterior submeter à DGI o relatório de execução das acções inicialmente aprovadas, bem como o plano de desenvolvimento para o ano seguinte, quando aplicável, cabendo ainda àquele organismo a decisão sobre a continuação do apoio ou propor eventuais ajustamentos.
 
-###### Artigo 14.º — Candidaturas pendentes
+Artigo 14.º
+
+Candidaturas pendentes
 
 As candidaturas que não tiverem sido objecto de decisão à data de produção de efeitos do presente despacho poderão beneficiar do que nele se encontra previsto, se o promotor assim o pretender.
 
-###### Artigo 15.º — Produção de efeitos
+Artigo 15.º
+
+Produção de efeitos
 
 O presente diploma produz efeitos desde 1 de Janeiro de 1998.»
 

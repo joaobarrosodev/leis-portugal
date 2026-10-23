@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/21/1998/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-1998-197333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f87472cd4b6dea0692fe01a93ef3285791f69769e3109010a99aee6200b2be54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70739f39843580412d3a555df0a6d06a90697308d1b5466a6bbe4602e6b12be5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Energia não Poluente
-- Ministro da Economia
+- Apoio ao Investimento
 - Contrato de Concessão
 - Conversão de Energia
 - Definição de Competências
-- Política Energética
+- Energia
+- Energia não Poluente
+- Financiamento
 - Fiscalização
-- Apoio ao Investimento
-- Projeto de Investimento
+- IAPMEI
 - Ineti
 - Informação Económica e Financeira
-- QCA
-- Energia
+- Ministro da Economia
+- Política Energética
 - Programa Energia
 - Projeto
+- Projeto de Investimento
+- QCA
 - Regime de Apoio
 - Regulamento
 - Sistema de Incentivos a Utilização Racional de Energia
-- IAPMEI
 - Subsídio não Reembolsável
 - Taxa
 relationships:
@@ -98,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/11-e/1995/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/11-e/1995/03/06/p/dre
+- type: cites
+  target: pt:dre:198139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:06Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +150,9 @@ c) Participação no co-financiamento das operações tipificadas nas anteriores
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -160,7 +174,9 @@ f) Todos os promotores mencionados no n.º 1 e que não demonstrem possuir capac
 
 g) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -190,7 +206,9 @@ c) ...
 
 7 - Nas candidaturas em consórcio não são permitidas subcontratações entre co-promotores.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Consideram-se relevantes, para efeitos de cálculo do incentivo a atribuir, as aplicações, directamente ligadas à operação, em:
 
@@ -230,7 +248,9 @@ b) O disposto na alínea i) do mesmo número aplica-se apenas ao co-promotor res
 
 7 - (Antigo n.º 6.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +264,9 @@ b) O disposto na alínea i) do mesmo número aplica-se apenas ao co-promotor res
 
 6 - (Antigo n.º 4.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +278,9 @@ b) O disposto na alínea i) do mesmo número aplica-se apenas ao co-promotor res
 
 5 - O limite percentual da comparticipação nos custos associados à participação das entidades do SCTN como entidades subcontratadas do promotor poderá ser majorado até 15%, sem prejuízo do disposto nos números anteriores.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 

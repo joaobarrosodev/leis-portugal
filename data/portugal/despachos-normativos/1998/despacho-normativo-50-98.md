@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/160b00/33783379.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/50/1998/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-1998-423897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c6e82798a287f7cdba77155e997763bf10a97155e6df2edc6d605ae1a4754e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a24acf1eb3d12323fce31b05353b2b2155d5989d3a8a04a87568aa9cc3565ef4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:643075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235291:por
+  label: "Derrogado o previsto no nº 5 do presente diploma, tornando o disposto no nº 3 do mesmo despacho aplicável a partir\
+    \ da campanha de 1998-1999, pelo DN.72/98.1998.09.25.MADRP, DR.IS-B [239] de 16/Out/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/72-1998-235291
+  date: '1998-09-25'
 - type: cites
   target: celex:31992R1765
   label: null
@@ -99,16 +105,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/43-a/1996/10/28/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/43-a/1996/10/28/p/dre
+- type: repealed_by
+  target: pt:dre:643075:por
+  label: "Revogado pelo DN.64/99.1999.11.04.MADRP,DR.IS-B [274] de 24.11.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/64-1999-643075
+  date: '1999-11-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:46Z'
   warnings: []
   errors: []
 ---

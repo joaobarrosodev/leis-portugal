@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/714-1985-177073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cea4a4eb5c0cad25f8d6cfbf79ae4bdcc5667dc7baf79056b0fe8352ec4e9129
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 964d68ba0c96c3910643bbefc7638493743142b8a867ac322b2a3d654d5a5497
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Embarcação
+- Inscrição Marítima
+- Lotação
+- Marinha Mercante
+- Pesca
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:472933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:31Z'
   warnings: []
   errors: []
 ---
@@ -99,24 +113,24 @@ Manda o Governo da República Portuguesa, pelo Ministro do Mar, o seguinte:
 
 Os §§ únicos dos artigos 38.º, 46.º-A, 78.º e 113.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 38.º ...
+Art. 38.º ...
 
 § único. A categoria de piloto de 3.ª classe será atribuída ao praticante de piloto que prove ter, nesta categoria, 1 ano de embarque e 1500 horas de navegação em serviço de quartos.
 
-###### Art. 46.º-A ...
+Art. 46.º-A ...
 
 § único. A categoria de radiotécnico de 3.ª classe será atribuída ao praticante de radiotécnico que prove ter, nesta categoria, 1 ano de embarque e 1500 horas de navegação em serviço de quartos.
 
-###### Art. 78.º ...
+Art. 78.º ...
 
 § único. A categoria de maquinista de 3.ª classe será atribuída ao praticante de maquinista que prove ter, nesta categoria, 1 ano de embarque e 1500 horas de navegação em serviço de quartos.
 
-###### Art. 113.º ...
+Art. 113.º ...
 
 § único. A categoria de comissário de 3.ª classe será atribuída ao praticante de comissário que prove ter, nesta categoria, 1 ano de embarque e 1500 horas de navegação em serviço de quartos.
 
 Ministério do Mar.
 
-**Assinada em 2 de Setembro de 1985.**
+Assinada em 2 de Setembro de 1985.
 
-**O Ministro do Mar, José de Almeida Serra.**
+O Ministro do Mar, José de Almeida Serra.

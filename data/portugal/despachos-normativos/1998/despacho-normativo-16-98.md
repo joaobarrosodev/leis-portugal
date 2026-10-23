@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/061b00/09921009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/16/1998/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-1998-186087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:32:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a75c0956600194e4d40ba68771d9c6c51d68ccb8d39943411eb99912bb4720b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35e2394721ea73a8178338d36d543858f4a3511c84f60881d044f1976c816f72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:32:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Ensino Tecnológico
 - Exame
-- Avaliação de Conhecimentos
 - Regulamento
 relationships:
 - type: amended_by
@@ -94,16 +94,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/45/1996/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/45/1996/10/31/p/dre
+- type: cites
+  target: pt:dre:179543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145665:por
+  label: "Revogado pelo DN.15/99.1999.02.18.ME, DR.IS-B [67] de 20/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-1999-145665
+  date: '1999-02-18'
 article_structure:
   article_count: 0
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:32:59Z'
   warnings: []
   errors: []
 ---
@@ -786,7 +815,9 @@ g) Ao presidente do conselho directivo/director executivo/director pedagógico c
 
 48.1 - Aos alunos que o requeiram podem ser emitidas certidões do diploma do curso, com discriminação das classificações obtidas em cada uma das disciplinas que o constituem.
 
-### CAPÍTULO VIII — SECÇÃO I
+### CAPÍTULO VIII
+
+#### SECÇÃO I
 
 12.º ano da via de ensino
 

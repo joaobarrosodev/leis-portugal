@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/108b00/21642164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/32/1998/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1998-516732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03665ed9dabe49a8b53b1f272a643a9620ff0a5ea3212bc09e97e3e0273cff14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a073cbbc1525e3e10a0fe1813430e057424292c7748fb64668c268435fb49133
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/9/1998/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/9/1998/02/04/p/dre
+- type: cites
+  target: pt:dre:223993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406702:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165450:por
+  label: "Revogado pelo DN.7/99.1999.01.20.MADRP DR.IS-B [45] DE 23/FEV/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-1999-165450
+  date: '1999-01-20'
+- type: repealed_by
+  target: pt:dre:402094:por
+  label: "Revogado pelo DN.9/2000.1999.12.31.MADRP DR.IS-B [32] de 08/Fev/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2000-402094
+  date: '1999-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:20Z'
   warnings: []
   errors: []
 ---

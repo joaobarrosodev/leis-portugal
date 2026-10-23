@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:354500:por
+title: Decreto n.º 16633
+short_title: null
+summary: Concede durante o prazo de cinco anos, sob determinadas condições, o exclusivo de licença para pesquisas de petróleo,
+  óleos minerais e substâncias betuminosas na área dos distritos de Aveiro, Coimbra, Leiria, Santarém, Lisboa, Setúbal e Faro
+  em que não existam registos válidos das referidas substâncias feitos anteriormente à declaração da área cativa por portaria
+  de 22 de Janeiro de 1929
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Comércio e Comunicações - Direcção Geral de Minas e Serviços Geológicos - Repartição de Minas
+proposing_entity: null
+official_number: '16633'
+official_date: null
+publication_date: '1929-03-20'
+publication:
+  gazette: Diário do Govêrno
+  reference: Diário do Govêrno n.º 64/1929, Série I de 1929-03-20
+  number: '64'
+  series: I
+  supplement: null
+  pages: 675 - 676
+  pdf_url: https://files.diariodarepublica.pt/1s/1929/03/06400/06750676.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '354500'
+  dre_path: /dr/detalhe/decreto/16633-1929-354500
+  internal: pt:dre:354500:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/16633-1929-354500
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16633-1929-354500
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:08:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:08:09Z'
+  warnings:
+  - Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.
+  errors: []
+---
+
+# Decreto n.º 16633
+
+> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original](https://files.diariodarepublica.pt/1s/1929/03/06400/06750676.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/41/1998/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-1998-471157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 768728c373cf074a07a6c411c5847701b00383326a298c64290d028d743975e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0b52268bca35f3a2bbb06298c0d78a99df278fe24c3e07dec072b1fce74b981
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Industrial
-- Política Industrial
 - Apoio ao Investimento
+- Desenvolvimento Industrial
+- IAPMEI
+- Pedip II
+- Pequenas e Médias Empresas
+- PME
+- Política Industrial
 - QCA
 - Regime de Apoio
 - Regime de Apoio à PME de Menor Dimensão
-- Pequenas e Médias Empresas
-- PME
-- Pedip II
 - Sindepedip
-- IAPMEI
 - Sistema de Incentivos Pedip
 - Subsídio
 relationships:
@@ -83,6 +83,18 @@ relationships:
   target: pt:dre:150953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241453:por
+  label: "Alterado o art. 10º e o nº 2 do nº 1 do anexo B ao presente diploma, pelo DN.67/98.1998.08.28.MECO DR.IS-B [217]\
+    \ de 19/Set/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/67-1998-241453
+  date: '1998-08-28'
+- type: amended_by
+  target: pt:dre:150953:por
+  label: "Alterada a redacção do art. 10º e do nº 2 do nº 1 do anexo B pelo DN.8/99.1999.01.29.MECO, DR.IS-B [52] de 03/Mar/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-1999-150953
+  date: '1999-01-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
   label: null
@@ -119,16 +131,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/86/1995/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/86/1995/12/29/p/dre
+- type: cites
+  target: pt:dre:197918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644891:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:31Z'
   warnings: []
   errors: []
 ---
@@ -403,7 +451,7 @@ A atribuição do incentivo a que se refere o artigo 9.º, no caso de pequenos p
 
 2 - Em função do grau de realização das metas associadas ao subcritério B(índice 1), as percentagens de base dos incentivos referidas no n.º 3 do artigo 9.º poderão ser ajustadas de acordo com o seguinte.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)
 
 3 - A realização das metas em grau inferior a 70% poderá acarretar a anulação total do incentivo atribuído.
 
@@ -451,7 +499,7 @@ Critério B - Impacte do projecto na competitividade da empresa.
 
 Os critérios atrás referidos são quantificados num intervalo de valores compreendidos entre 0 e 100, nos termos dos números seguintes, sendo a valia industrial (VI) determinada pela soma ponderada das pontuações parcelares obtidas para cada um dos critérios:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)
 
 A VI de um projecto será obtida pela aplicação da fórmula:
 
@@ -525,7 +573,7 @@ Relação entre o valor do investimento em activo fixo e o imobilizado líquido 
 
 de acordo com o seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)
 
 O parâmetro B(índice 1.2) - Produtividade económica do projecto avalia o impacte do investimento no produto, tendo em consideração o grau de transformação da actividade desenvolvida.
 
@@ -537,7 +585,7 @@ Relação entre o acréscimo do VAB, como definido no indicador anterior, e o in
 
 de acordo com o seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26402647.pdf)
 
 O ano cruzeiro a considerar nos indicadores I(índice 3) e I(índice 4) não poderá ultrapassar o segundo exercício completo após a conclusão do investimento.
 

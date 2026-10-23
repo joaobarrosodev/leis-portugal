@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:430401:por
+title: Decreto n.º 42592
+short_title: null
+summary: Transfere verbas dentro dos orçamentos de encargos gerais da Nação e dos Ministérios das Finanças, das Obras Públicas
+  e da Educação Nacional e abre créditos destinados a reforçar verbas insuficientemente dotadas e a prover à realização de
+  despesas não previstas no Orçamento Geral do Estado - Introduz alterações em várias rubricas dos orçamentos dos Ministérios
+  das Obras Públicas, da Educação Nacional e da Economia
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '42592'
+official_date: null
+publication_date: '1959-10-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 239/1959, Série I de 1959-10-17
+  number: '239'
+  series: I
+  supplement: null
+  pages: 1331 - 1334
+  pdf_url: https://files.diariodarepublica.pt/1s/1959/10/23900/13311334.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '430401'
+  dre_path: /dr/detalhe/decreto/42592-1959-430401
+  internal: pt:dre:430401:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/42592-1959-430401
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42592-1959-430401
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:29:47Z'
+  warnings:
+  - Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.
+  errors: []
+---
+
+# Decreto n.º 42592
+
+> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original](https://files.diariodarepublica.pt/1s/1959/10/23900/13311334.pdf)

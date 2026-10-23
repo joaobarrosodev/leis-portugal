@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/09/22000/31473150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-1985-176760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4eb0e435d3e9ea8f8dbcae036287243f5bf42100f06ff448eecd58257a26b046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dfffb8aef87d2eecbf9ef1838a79a0f657ec9b922063c8a2c285baaa138e1a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Infracção Disciplinar
+- Mobilidade de Pessoal
+- Subsídio de Deslocação
+- Subsídio de Fixação
+- Subsídio de Residência
 relationships:
 - type: amended_by
   target: pt:dre:310381:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663359:por
+  label: "Alterada a al a) do num 5, os nums 18 a 24 e o num 26, revogado o num 25 e alterado o mapa a que se refere o num\
+    \ 35 pela PORT.56/87.1987.01.23.MF, DR.IS [19]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-1987-663359
+  date: '1987-01-23'
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310381:por
+  label: "Revogado o presente diploma, na redacção da Port 56/87, de 23-Jan, pelo DEC LEI.190/99.1999.06.05.PCM,DR.IS-A [130]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1999-310381
+  date: '1999-06-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:31Z'
   warnings: []
   errors: []
 ---
@@ -223,9 +269,9 @@ b) A inscrição se processar em estabelecimento de ensino situado no município
 
 Presidência do Conselho de Ministros e Ministérios da Administração Interna e das Finanças e do Plano.
 
-**Assinada em 13 de Setembro de 1985.**
+Assinada em 13 de Setembro de 1985.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 Mapa a que se refere o n.º 35.º
 

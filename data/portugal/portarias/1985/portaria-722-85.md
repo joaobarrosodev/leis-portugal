@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 221/1985, 1º Suplemento, Série I de 1985-09-25
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3200-(1) a 3200-(144)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1985-621946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:33:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b3bb111648d0706b42c0afad800e6618b0f6894e00afe007bdf302cc5a6aabe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8443cb2cdb0e6c7c18165716f7f189f865475e360e5f009d6f94016e8c9099f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- GNR
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:332676:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619923:por
+  label: "Declarada a inconstitucionalidade parcial, com força obrigatória geral, da norma do n.º 2 do artigo 81.º da parte\
+    \ III do Regulamento, pelo AC.452/89.28.06.1989.TCS, DR.IS [167] de 22.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/452-1989-619923
+  date: '1989-06-28'
+- type: amended_by
+  target: pt:dre:240657:por
+  label: "Alterados os artigos 14.º e 16.º da parte I e ao artigo 12.º da parte II, pela PORT.843/92.01.09.1992.MDN, DR.IS-B\
+    \ [201] de 01.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/843-1992-240657
+  date: '1992-09-01'
+- type: amended_by
+  target: pt:dre:601773:por
+  label: "Mantido em vigor o Regulamento Geral do Serviço da Guarda Nacional Republicana, aprovado pelo presente diploma,\
+    \ pela PORT.96/2009.29.01.2009.MAI, DR.IS [20] de 29.01.2009, em tudo o que não contrariar a actual lei que aprovou a\
+    \ orgânica da Guarda Nacional Republicana e até à aprovação de um novo Regulamento do Serviço Geral da Guarda Nacional\
+    \ Republicana (ver NOTA). \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-2009-601773
+  date: '2009-01-29'
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632376:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138124:por
+  label: Rectificada pela DECL.DD5116.18.11.1985.PCM, DR.IS [276]Supl de 30.11.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-138124
+  date: '1985-11-18'
 article_structure:
   article_count: 1
-  section_count: 109
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 117
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:33:42Z'
   warnings: []
   errors: []
 ---
@@ -90,27 +137,27 @@ de 25 de Setembro
 
 O presente diploma insere-se na linha integrada de renovação legislativa destinada a conferir à Guarda Nacional Republicana os instrumentos legais mínimos atinentes à eficácia da sua operacionalidade e racionalização funcional, em obediência ao disposto no artigo 86.º, alínea f), do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho.
 
-**Promulgada a lei orgânica e os estatutos reguladores do sector do pessoal da Guarda Nacional Republicana ([Decreto-Lei n.º 465/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1983-630668), de 31 de Dezembro), impõe-se agora publicar normas que definam e regulem o vasto universo do serviço da Guarda, sem o que se quedaria, por inacabado e inconsequente, todo o esforço legislativo acima referido.**
+Promulgada a lei orgânica e os estatutos reguladores do sector do pessoal da Guarda Nacional Republicana ([Decreto-Lei n.º 465/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1983-630668), de 31 de Dezembro), impõe-se agora publicar normas que definam e regulem o vasto universo do serviço da Guarda, sem o que se quedaria, por inacabado e inconsequente, todo o esforço legislativo acima referido.
 
 A vastidão e seccionamento de um tal universo, aliados à desactualização ou total ausência de regulamentação, aconselham o desdobramento do Regulamento Geral do Serviço da Guarda Nacional Republicana em nove partes, a saber:
 
-# Parte I - Missão, composição e articulação;
+Parte I - Missão, composição e articulação;
 
-# Parte II - Serviço interno das unidades e de guarnição;
+Parte II - Serviço interno das unidades e de guarnição;
 
-# Parte III - Serviço territorial;
+Parte III - Serviço territorial;
 
-# Parte IV - Serviço honorífico e de representação;
+Parte IV - Serviço honorífico e de representação;
 
-# Parte V - Secretarias e arquivos das unidades, subunidades e postos;
+Parte V - Secretarias e arquivos das unidades, subunidades e postos;
 
-# Parte VI - Uniformes;
+## Parte VI - Uniformes;
 
-# Parte VII - Gestão dos recursos financeiros;
+Parte VII - Gestão dos recursos financeiros;
 
-# Parte VIII - Aquartelamentos;
+Parte VIII - Aquartelamentos;
 
-# Parte IX - Pessoal civil.
+Parte IX - Pessoal civil.
 
 Dependendo a regulamentação das partes VII, VIII e IX da implementação de estruturas, da adequação e teste de sistemas e da reconversão de práticas, já em curso, optou-se pela publicação, desde já, das seis primeiras partes do Regulamento, sendo as três últimas publicadas conforme forem sendo concluídas.
 
@@ -118,27 +165,27 @@ Nestes termos, e ao abrigo do disposto na alínea f) do artigo 86.º do [Decreto
 
 Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e da Administração Interna, aprovar o Regulamento Geral do Serviço da Guarda Nacional Republicana (partes I a VI):
 
-# Parte I - Missão, composição e articulação;
+Parte I - Missão, composição e articulação;
 
-# Parte II - Serviço interno das unidades e de guarnição;
+Parte II - Serviço interno das unidades e de guarnição;
 
-# Parte III - Serviço territorial;
+Parte III - Serviço territorial;
 
-# Parte IV - Serviço honorífico e de representação;
+Parte IV - Serviço honorífico e de representação;
 
-# Parte V - Secretarias e arquivos das unidades, subunidades e postos;
+Parte V - Secretarias e arquivos das unidades, subunidades e postos;
 
-# Parte VI - Uniformes.
+## Parte VI - Uniformes.
 
 Ministérios da Defesa Nacional e da Administração Interna.
 
-**Assinada em 7 de Agosto de 1985.**
+Assinada em 7 de Agosto de 1985.
 
-**O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete. - O Ministro da Administração Interna, Eduardo Ribeiro Pereira.**
+O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete. - O Ministro da Administração Interna, Eduardo Ribeiro Pereira.
 
 Regulamento Geral do Serviço da Guarda Nacional Republicana
 
-# PARTE I — Missão, composição e articulação
+## PARTE I — Missão, composição e articulação
 
 ### CAPÍTULO I — Missão
 
@@ -578,7 +625,7 @@ b) Companhia de Comando e Serviços - idem;
 
 c) Agrupamento de instrução - idem.
 
-# PARTE II — Serviço interno das unidades e de guarnição
+## PARTE II — Serviço interno das unidades e de guarnição
 
 ### CAPÍTULO I — Generalidades
 
@@ -3416,7 +3463,7 @@ b) Se a cerimónia se realizar no interior de quartel, são prestadas honras mil
 
 2 - Com a antecedência mínima de 3 meses, o estado-maior do Comando-Geral apresenta a despacho do comandante-geral o projecto geral do programa das cerimónias a realizar, do qual devem constar horários, sequência dos diferentes assuntos que constituem o programa, entidades a convidar e outros pormenores de interesse.
 
-# PARTE III — Serviço territorial
+## PARTE III — Serviço territorial
 
 ### CAPÍTULO I — Generalidades
 
@@ -4722,7 +4769,7 @@ A doutrina para o comando e emprego das tropas da Guarda em acções de natureza
 
 Sempre que possível, a Guarda tomará parte em exercícios no âmbito das Forças Armadas, a fim de se avaliar das possibilidades e capacidades da actuação de forças suas em apoio de operações militares nos tipos de acções que esteja em condições de desenvolver e de sensibilizar as unidades da Guarda para o cumprimento deste tipo de missões, que se enquadram na sua missão geral.
 
-# PARTE IV — Serviço honorífico e de representação
+## PARTE IV — Serviço honorífico e de representação
 
 ### CAPÍTULO I — Simbologia
 
@@ -5070,11 +5117,11 @@ g) Colaborar noutras missões a designar.
 
 ESTANDARTE NACIONAL DA GUARDA NACIONAL REPUBLICANA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 ESTANDARTE NACIONAL DAS UNIDADES DA GUARDA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Descrição:
 
@@ -5110,7 +5157,7 @@ Distância da linha inferior do listel de inscrição à orla inferior do estand
 
 O Estandarte Nacional do Regimento de Cavalaria é idêntico ao das unidades, reduzido em relação às dimensões expressas, na proporção da sua altura da tralha e do seu comprimento, que são respectivamente de 0,8 m e 0,9 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas da Guarda Nacional Republicana
 
@@ -5148,7 +5195,7 @@ O vermelho: o ardor bélico e força;
 
 O verde: a esperança; constitui a cor simbólica e tradicional da Guarda Nacional Republicana.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Estandarte da Guarda Nacional Republicana
 
@@ -5164,7 +5211,7 @@ O estandarte é debruado por um cordão de verde e oiro. Os cordões fixam o est
 
 O estandarte é franjado de oiro e enfia na haste por meio de uma bainha com quatro dentículos, sendo o primeiro e o segundo de verde e o terceiro e o quarto de oiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas do Comando-Geral
 
@@ -5196,7 +5243,7 @@ A prata: a riqueza e a eloquência de quem pela lei faz por bem servir a grei;
 
 O negro: a firmeza, a prudência, a sabedoria e a honestidade que caracterizam os actos dos militares do Comando-Geral e da Guarda em geral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Estandarte do Comando-Geral
 
@@ -5212,7 +5259,7 @@ O estandarte é debruado por um cordão de negro e prata. Os cordões fixam o es
 
 O estandarte é franjado de prata e enfia na haste por meio de uma bainha com quatro dentículos, sendo o primeiro e o terceiro de negro e o segundo e o quarto de prata.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas do Centro de Instrução
 
@@ -5246,7 +5293,7 @@ O oiro: a constância de empenhamento na transmissão da sabedoria acumulada ao 
 
 O azul: o zelo posto no cumprimento do objectivo, a lealdade aos princípios orientadores da acção, a integridade e a justiça que presidem a todos os actos dos responsáveis pela formação daqueles que transitam por esta unidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Estandarte do Centro de Instrução
 
@@ -5260,7 +5307,7 @@ O estandarte é debruado por um cordão de azul e de oiro. Os cordões fixam o e
 
 O estandarte é franjado de oiro, enfia na haste por meio de uma bainha com quatro dentículos, sendo o primeiro e o segundo de azul e o terceiro e o quarto de oiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas do Regimento de Cavalaria
 
@@ -5298,7 +5345,7 @@ O verde: a posse de um passado ilustre, que há que defender;
 
 O negro: a prudência para evitar confrontos desnecessários ou injustos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Estandarte do Regimento de Cavalaria
 
@@ -5316,7 +5363,7 @@ O estandarte é franjado de oiro, enfia na haste por meio de quatro dentículos,
 
 Em cada canto da bordadura do estandarte inscrevem-se em letras de estilo cursivo, bordadas a oiro e verde, as iniciais da unidade «RC».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas do Batalhão n.º 1
 
@@ -5350,7 +5397,7 @@ A prata: a pureza e a humildade dos militares de infantaria;
 
 O vermelho: valor e audácia dos militares dA unidade e sua firmeza e generosidade em ir mais além.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Estandarte do Batalhão n.º 1
 
@@ -5366,7 +5413,7 @@ O estandarte é debruado por um cordão de vermelho e de oiro. Os cordões fixam
 
 O estandarte é franjado de oiro, enfia na haste por meio de uma bainha com quatro dentículos, sendo o primeiro e o quarto de oiro e o segundo e o terceiro de vermelho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas do Batalhão n.º 2 (LISBOA)
 
@@ -5400,7 +5447,7 @@ A prata: esperança e eloquência;
 
 O negro: prudência, senso, honestidade e humildade, predicados que devem caracterizar os militares da unidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)Estandarte do Batalhão n.º 2
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)Estandarte do Batalhão n.º 2
 
 Descrição heráldica:
 
@@ -5414,7 +5461,7 @@ O estandarte é debruado por um cordão de negro e prata. Os cordões fixam o es
 
 O estandarte é franjado de prata e enfia na haste por meio de uma bainha com quatro dentículos, sendo o primeiro e o segundo de negro e o terceiro e o quarto de prata.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas do Batalhão n.º 3 (ÉVORA)
 
@@ -5452,7 +5499,7 @@ O verde: a fé e a esperança;
 
 O preto: sabedoria, senso e honestidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Estandarte do Batalhão n.º 3
 
@@ -5468,7 +5515,7 @@ O estandarte é debruado por um cordão de verde e de oiro. Os cordões fixam o 
 
 O estandarte é franjado de oiro e enfia na haste por meio de uma bainha com quatro dentículos, sendo o primeiro de prata e oiro, o segundo de oiro, o terceiro de verde e o quarto de verde e prata.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas do Batalhão n.º 4 (PORTO)
 
@@ -5502,7 +5549,7 @@ A prata: a riqueza de alma e a eloquência do que procura compreender e persuadi
 
 O azul: a justiça e a lealdade; aquela que tem por escopo da sua acção e esta, por prática sagrada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Estandarte do Batalhão n.º 4 (PORTO)
 
@@ -5516,7 +5563,7 @@ O estandarte é debruado por um cordão de azul e de prata. Os cordões fixam o 
 
 O estandarte é franjado de prata, enfia na haste por meio de uma bainha com quatro dentículos, sendo o primeiro e o segundo de azul e o terceiro e quarto de prata.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas do Batalhão n.º 5 (COIMBRA)
 
@@ -5550,7 +5597,7 @@ A prata: eloquência de humildade;
 
 O verde: esperança, humanidade e alegria, predicados que caracterizam os militares da unidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Estandarte do Batalhão n.º 5
 
@@ -5566,7 +5613,7 @@ O estandarte é debruado por um cordão de verde e de oiro. Os cordões fixam o 
 
 O estandarte é franjado de oiro e enfia na haste por meio de uma bainha com quatro dentículos, sendo o primeiro e o segundo de verde e o terceiro e o quarto de oiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Brasão de Armas da Brigada de Trânsito
 
@@ -5596,7 +5643,7 @@ A prata: a pureza de intenção na actuação e a humildade no cumprir, bem como
 
 O vermelho: firmeza na intervenção, valor e audácia no desempenho da missão, servida com grandeza de alma.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Estandarte da Brigada de Trânsito
 
@@ -5616,7 +5663,7 @@ O estandarte é franjado de prata e enfia na haste por meio de uma bainha com qu
 
 GUIÃO DE MÉRITO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Descrição heráldica:
 
@@ -5630,7 +5677,7 @@ O tipo distral da vareta horizontal é ligado à haste por meio de um cordão de
 
 GALHARDETE DO COMANDANTE-GERAL DA GUARDA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
 Galhardete quadrado de 0,40 m de lado com bordadura dentelada e contradentelada de verde e oiro;
 
@@ -5638,9 +5685,9 @@ O galhardete é verde com uma espada antiga, lâmina de oiro guarnecida, empunha
 
 O galhardete para uso na viatura é idêntico mas reduzido para 0,30 m de lado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
-# PARTE V — Secretarias e arquivos das unidades, subunidades e postos
+## PARTE V — Secretarias e arquivos das unidades, subunidades e postos
 
 ### CAPÍTULO I — Generalidades
 
@@ -5720,7 +5767,7 @@ d) Simplificar os procedimentos o mais possível, sem prejuízo da eficiência d
 
 A ordem do articulado das subdivisões é a seguinte:
 
-# Parte, título, capítulo, secção, artigo, parágrafo e subparágrafo.
+Parte, título, capítulo, secção, artigo, parágrafo e subparágrafo.
 
 2 - O articulado que se adoptar deve obedecer à sequência indicada no n.º 1, mas pode omitir algumas das subdivisões.
 
@@ -7014,11 +7061,11 @@ Identificar e agrupar sistematicamente documentos semelhantes, com o objectivo d
 
 Fazem parte deste capítulo os seguintes anexos:
 
-## Anexo A - classificador de unidade, subunidade ou secção;
+Anexo A - classificador de unidade, subunidade ou secção;
 
-## Anexo B - classificador de posto.
+Anexo B - classificador de posto.
 
-## Anexo A ao capítulo V da parte V do Regulamento Geral do Serviço da Guarda Nacional Republicana
+Anexo A ao capítulo V da parte V do Regulamento Geral do Serviço da Guarda Nacional Republicana
 
 Classificador de unidade, subunidade ou secção
 
@@ -7186,7 +7233,7 @@ Justiça e disciplina, serviços de pessoal, assistência religiosa, ...).
 
 9 - Diversos.
 
-## Anexo B ao capítulo V da parte V do Regulamento Geral do Serviço de Guarda Nacional Republicana
+Anexo B ao capítulo V da parte V do Regulamento Geral do Serviço de Guarda Nacional Republicana
 
 Classificador de posto
 
@@ -7230,7 +7277,7 @@ Classificador de posto
 
 9 - Diversos.
 
-# PARTE VI — Uniformes
+## PARTE VI — Uniformes
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -9168,10 +9215,10 @@ Em serviço de gabinete e em salas de convívio, mas não na parada, nem em qual
 
 As figuras indicadas neste Regulamento constituem o anexo B.
 
-## Anexo A à parte VI (Uniformes) do Regulamento Geral do Serviço da Guarda Nacional Republicana
+Anexo A à parte VI (Uniformes) do Regulamento Geral do Serviço da Guarda Nacional Republicana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
 
-## ANEXO «B» À VI PARTE (UNIFORMES) DO REGULAMENTO GERAL DO SERVIÇO DA GUARDA NACIONAL REPUBLICANA
+ANEXO «B» À VI PARTE (UNIFORMES) DO REGULAMENTO GERAL DO SERVIÇO DA GUARDA NACIONAL REPUBLICANA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22101/00010144.pdf)

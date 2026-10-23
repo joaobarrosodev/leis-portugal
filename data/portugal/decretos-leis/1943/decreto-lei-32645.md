@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:598291:por
+title: Decreto-Lei n.º 32645
+short_title: null
+summary: Determina que para o ensino das disciplinas de educação física, música e canto coral e organização política e administrativa
+  da Nação nas escolas do magistério primário sejam nomeados professores que a seu cargo tiverem a regência das respectivas
+  disciplinas em liceus da sede da escola ou no Instituto Nacional de Educação Física, qualquer que seja a sua categoria e
+  a natureza do provimento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação Nacional - Direcção Geral do Ensino Primário
+proposing_entity: null
+official_number: '32645'
+official_date: null
+publication_date: '1943-01-26'
+publication:
+  gazette: Diário do Govêrno
+  reference: Diário do Govêrno n.º 20/1943, Série I de 1943-01-26
+  number: '20'
+  series: I
+  supplement: null
+  pages: 61 - 62
+  pdf_url: https://files.diariodarepublica.pt/1s/1943/01/02000/00610062.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '598291'
+  dre_path: /dr/detalhe/decreto-lei/32645-1943-598291
+  internal: pt:dre:598291:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32645-1943-598291
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32645-1943-598291
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:47:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Educação Física
+- Escola do Magistério Primário
+- Ministério da Educação Nacional
+- Música
+- Nomeação
+- Pessoal Docente
+relationships:
+- type: amended_by
+  target: pt:dre:298429:por
+  label: "Alterado o art 3.º, pelo DEC LEI.40797.12.10.1956.MEN, DG.IS [220] de 12.10.1956\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40797-1956-298429
+  date: '1956-10-12'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:47:05Z'
+  warnings:
+  - Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.
+  errors: []
+---
+
+# Decreto-Lei n.º 32645
+
+> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original](https://files.diariodarepublica.pt/1s/1943/01/02000/00610062.pdf)
