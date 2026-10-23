@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/02000/03120317.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1989-610898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92cc627755e4e68f045744fe02d93589e13f44bb17712bb117c4049295cafcaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd155249e5b25be0733727c8f7fde06d80896ccd4634b16bafa1f56b20bf0e99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipamento Social
+- Licenciamento
 relationships:
 - type: amended_by
   target: pt:dre:158178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476959:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante do artº 27º (na parte em que\
+    \ ela, ao cominar a coima da contra-ordenação que define, fixa o seu limite máximo em montante superior ao limite máximo\
+    \ estabelecido na respectiva lei quadro, na versão vigente à data da prática da correspondente infracção, e fixa o seu\
+    \ limite máximo, pelo AC.175/97.1997.03.04.TCS (Proc. nº 771/96) DR.IS-A [96] de 1997.04.24\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/175-1997-476959
+  date: '1997-03-04'
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566992:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348484:por
+  label: Rectificado pela DECL.DD1254.1989.03.03.PCM, DR.IS [75]Supl de 31/Mar/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348484
+  date: '1989-03-03'
+- type: repealed_by
+  target: pt:dre:158178:por
+  label: "Revogado pelo Dec Lei 133-A/97.1997.05.30.MSSS, DR.IS-A [124]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-a-1997-158178
+  date: '1997-05-30'
 article_structure:
   article_count: 46
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:58Z'
   warnings: []
   errors: []
 ---
@@ -508,12 +544,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 1988. - Aníbal António Cavaco Silva - José António da Silveira Godinho - Joaquim Fernando Nogueira - José Albino da Silva Peneda - António Fernando Couto dos Santos.
 
-**Promulgado em 9 de Janeiro de 1989.**
+Promulgado em 9 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Janeiro de 1989.**
+Referendado em 9 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

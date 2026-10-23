@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18112-1960-512793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5742bef4ce86ef9d7588804ed4f22f049ab82aa7e09469be29b7e3453fd9ac96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01a93bf77797b9da97e8647c32865c5d83db75bd0ecf2b6d56deffaebe1538c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:59Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +200,7 @@ Preços de compra de azeite ao produtor
 
 Mínimos por litro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/12/28400/27302732.pdf))](https://files.diariodarepublica.pt/1s/1960/12/28400/27302732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/12/28400/27302732.pdf)
 
 Notas. - O produtor pode vender o azeite com qualquer grau de acidez, tendo em atenção que a variação do preço do azeite com menos de 2º é de $70, de 2º a 5º é de $06, tudo por décimo de acidez, sendo livres os preços do azeite com graduação superior.
 
@@ -204,7 +212,7 @@ Preços de venda do retalhista ao público
 
 Máximos por litro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/12/28400/27302732.pdf))](https://files.diariodarepublica.pt/1s/1960/12/28400/27302732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/12/28400/27302732.pdf)
 
 Notas. - O armazenista pode vender o azeite extra, meio-extra e fino com a tolerância de 0,1º de acidez e o corrente com a tolerância de 0,2º de acidez. O retalhista não pode exceder a tolerância do armazenista no azeite extra e meio-extra; mas no fino e corrente beneficia da tolerância de 0,1º de acidez, além da concedida nestes tipos ao armazenista.
 

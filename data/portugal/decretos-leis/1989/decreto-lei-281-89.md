@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19300/35003503.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1989-618498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2585c0621f7c0c9bca5d25fe2fbce0f715625e8e3daa8216914d3296e9413d64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9445d68135085cd7f968b7ead4bf223b82cd74b2543d2cac8acd0b1592b8b562
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Almeirim
+- Cartaxo
+- Chamusca
+- Coruche
+- Estatuto
+- Santarém
+- Tomar
+- Vinha
+- ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:515387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225378:por
+  label: "Alterada a al. c) do nº 1 do art. 2º dos Estatutos anexos ao presente diploma pelo DEC LEI.19/98.1998.01.31.MADRP,\
+    \ DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1998-225378
+  date: '1998-01-31'
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355570:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515387:por
+  label: "Revogado pelo DEC LEI.45/2000.21.03.2000.MADRP, DR.IS-A [68] de 21.03.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2000-515387
+  date: '2000-03-21'
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:33Z'
   warnings: []
   errors: []
 ---
@@ -98,25 +126,25 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os estatutos das zonas vitivinícolas de Almeirim, Cartaxo, Chamusca, Coruche, Santarém e Tomar, anexos a este decreto-lei e que dele fazem parte integrante, com vista à produção e comercialização de vinhos a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas na nomenclatura comunitária, abreviadamente designados VQPRD.
+Artigo 1.º São aprovados os estatutos das zonas vitivinícolas de Almeirim, Cartaxo, Chamusca, Coruche, Santarém e Tomar, anexos a este decreto-lei e que dele fazem parte integrante, com vista à produção e comercialização de vinhos a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas na nomenclatura comunitária, abreviadamente designados VQPRD.
 
-###### Art. 2.º A entidade competente a que se alude nos estatutos aprovados pelo presente diploma, e à qual incumbe a defesa das denominações correspondentes as referidas zonas vitivinícolas a aplicação da respectiva regulamentação, a vigilância e o cumprimento da mesma, assim como o fomento e controlo dos seus vinhos, é a Comissão Vitivinícola Regional (CVR), cujos estatutos serão elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570), de 30 de Setembro.
+Art. 2.º A entidade competente a que se alude nos estatutos aprovados pelo presente diploma, e à qual incumbe a defesa das denominações correspondentes as referidas zonas vitivinícolas a aplicação da respectiva regulamentação, a vigilância e o cumprimento da mesma, assim como o fomento e controlo dos seus vinhos, é a Comissão Vitivinícola Regional (CVR), cujos estatutos serão elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570), de 30 de Setembro.
 
-###### Art. 3.º - 1 - Com a entrada em vigor do presente diploma inicia imediatamente funções, pelo período máximo de 180 dias, como comissão instaladora da CVR, a comissão de apoio.
+Art. 3.º - 1 - Com a entrada em vigor do presente diploma inicia imediatamente funções, pelo período máximo de 180 dias, como comissão instaladora da CVR, a comissão de apoio.
 
 2 - Incumbe à comissão instaladora elaborar e propor os estatutos da CVR.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1989. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 28 de Julho de 1989.**
+Promulgado em 28 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Agosto de 1989.**
+Referendado em 4 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTOS DAS REGIÕES VITIVINÍCOLAS DE ALMEIRIM, CARTAXO, CHAMUSCA, CORUCHE, SANTARÉM E TOMAR
 
@@ -400,4 +428,4 @@ Os vinhos de qualidade objecto dos presentes estatutos só podem ser postos em c
 
 2 - Os rótulos a utilizar deverão ser apresentados a apreciação prévia da entidade competente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19300/35003503.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19300/35003503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19300/35003503.pdf)

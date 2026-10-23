@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18020-1960-513831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3da85a54881d7c0510e3f659474fa9e121e504753e15c2f679941000aef2829e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5483926c5879591b4d3f64bb43c7a6b787292c200e95a1623b99cfb8e2af13f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356925:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:04Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +107,11 @@ b) Reforçar com a quantia de 20000$00 a verba do capítulo 10.º, artigo 1400.�
 
 ### CAPÍTULO 7.º — Serviços de geologia e minas
 
-###### Artigo 1170.º, n.º 1) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 81791$16
+Artigo 1170.º, n.º 1) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 81791$16
 
 Serviço de aeronáutica civil
 
-###### Artigo 1317.º, n.º 3), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado - Salários» ... 43000$00
+Artigo 1317.º, n.º 3), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado - Salários» ... 43000$00
 
 ... 124791$16
 
@@ -107,29 +119,29 @@ Serviço de aeronáutica civil
 
 ### CAPÍTULO 4.º — Serviços de saúde e higiene
 
-###### Artigo 444.º, n.º 1) «Direcção dos Serviços - Diversos encargos - Encargos administrativos - Prémios aos dadores de sangue» ... 110000$00
+Artigo 444.º, n.º 1) «Direcção dos Serviços - Diversos encargos - Encargos administrativos - Prémios aos dadores de sangue» ... 110000$00
 
-###### Artigo 448.º, n.º 1) «Hospitais de Luanda - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustíveis e utensílios de cozinha» ... 1000000$00
+Artigo 448.º, n.º 1) «Hospitais de Luanda - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustíveis e utensílios de cozinha» ... 1000000$00
 
-###### Artigo 455.º, n.º 1) «Círculo sanitário de Luanda - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 4000$00
+Artigo 455.º, n.º 1) «Círculo sanitário de Luanda - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 4000$00
 
-###### Artigo 465.º, n.º 1) «Distrito sanitário do Congo - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 40000$00
+Artigo 465.º, n.º 1) «Distrito sanitário do Congo - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 40000$00
 
-###### Artigo 470.º, n.º 1) «Distrito sanitário do Cuanza Norte - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 20000$00
+Artigo 470.º, n.º 1) «Distrito sanitário do Cuanza Norte - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 20000$00
 
-###### Artigo 475.º, n.º 1) «Distrito sanitário do Cuanza Sul - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 40000$00
+Artigo 475.º, n.º 1) «Distrito sanitário do Cuanza Sul - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 40000$00
 
-###### Artigo 490.º, n.º 1) «Círculo sanitário de Benguela - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 300000$00
+Artigo 490.º, n.º 1) «Círculo sanitário de Benguela - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 300000$00
 
-###### Artigo 495.º, n.º 1) «Distrito sanitário de Huambo - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 180000$00
+Artigo 495.º, n.º 1) «Distrito sanitário de Huambo - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 180000$00
 
-###### Artigo 500.º, n.º 1) «Círculo sanitário do Bié-Cuando Cubango - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 12000$00
+Artigo 500.º, n.º 1) «Círculo sanitário do Bié-Cuando Cubango - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 12000$00
 
-###### Artigo 505.º, n.º 1) «Distrito sanitário do Moxico - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 6000$00
+Artigo 505.º, n.º 1) «Distrito sanitário do Moxico - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 6000$00
 
-###### Artigo 510.º, n.º 1) «Distrito sanitário de Moçamedes - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 20000$00
+Artigo 510.º, n.º 1) «Distrito sanitário de Moçamedes - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 20000$00
 
-###### Artigo 516.º, n.º 1) «Círculo sanitário da Huíla - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 68000$00
+Artigo 516.º, n.º 1) «Círculo sanitário da Huíla - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 68000$00
 
 ... 1800000$00
 

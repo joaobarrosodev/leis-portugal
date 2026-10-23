@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/14800/25632570.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1989-620954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84a9050bba1ec153cd52d72732c347f4926d6cef762eb6f15d17040805479377
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88d94742eb89c39f3fb48b089900b63c056983627bedc68f9de301f5df46b35d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Custas Judiciais
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448110:por
+  label: "Alterado o art 1.º do Código de Processo Penal, aprovado pelo Dec Lei 78/87 de 17-Fev, na redacção do presente diploma,\
+    \ e republicado com a redacção actual pela LEI.59/98.25.08.1998.AR, DR.IS-A [195] de 25.08.1998\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-1998-448110
+  date: '1998-08-25'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 5º pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:656128:por
+  label: "Alterado o artigo 1.º do Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de Fevereiro, alterado\
+    \ pelo presente diploma, pela LEI.52/2003.22.08.2003.AR, DR.IS-A [193] de 22.08.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2003-656128
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:641082:por
+  label: "Alterado a partir de 15.09.2007, o art 1.º do Código de Processo Penal aprovado pelo Dec Lei 78/87 de 17-Fev, na\
+    \ redacção do presente diploma, pela LEI.48/2007.29.08.2007.AR, DR.IS [166] de 29.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-2007-641082
+  date: '2007-08-29'
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670074:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:639876:por
+  label: Rectificado pela DECL.DD3772.1989.07.24.PCM DR.IS [174] DE 30/JUL/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-639876
+  date: '1989-07-24'
+- type: repealed_by
+  target: pt:dre:658664:por
+  label: "Revogados os arts. 3º e 4º, pelo DEC LEI.211/91.1991.06.14.MJ, DR.IS-A [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1991-658664
+  date: '1991-06-14'
+- type: repealed_by
+  target: pt:dre:553668:por
+  label: "Revogado o art. 7º e mantidos em vigor o art. 5º e o nº 1 do art. 6º, pelo Dec-Lei.224-A/96.1996.11.26.MJ, DR.IS-A\
+    \ [274]2ºSupl \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogados, a partir de 20.04.2009, o art. 5º (mantido em vigor pelo Dec Lei 224-A/96, de 26-Nov e alterado pelo\
+    \ Dec Lei 323/2001, de 17-Dez) e o art. 6º (mantido em vigor pelo Dec Lei 224-A/96, de 26-Nov) do presente diploma, pelo\
+    \ DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 39
+  article_count: 38
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:52Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +202,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código das Custas Judiciais:
+Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código das Custas Judiciais:
 
 ###### Artigo 6.º — Algumas isenções processuais
 
@@ -482,31 +556,31 @@ c) As multas e coimas fixadas em juízo, incluindo as multas resultantes da conv
 
 Prescrevem a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao fim de dois meses, contados a partir do último dia do mês em que o cheque foi emitido.
 
-###### Art. 2.º A tabela anexa ao Código das Custas Judiciais, a que se refere o seu artigo 16.º, é substituída pela tabela anexa ao presente diploma.
+Art. 2.º A tabela anexa ao Código das Custas Judiciais, a que se refere o seu artigo 16.º, é substituída pela tabela anexa ao presente diploma.
 
-###### Art. 3.º - 1 - O processo simplificado a que se refere o artigo 464.º-A do Código de Processo Civil é considerado urgente e tem preferência sobre qualquer outro serviço não reputado urgente.
+Art. 3.º - 1 - O processo simplificado a que se refere o artigo 464.º-A do Código de Processo Civil é considerado urgente e tem preferência sobre qualquer outro serviço não reputado urgente.
 
 2 - O tribunal tomará as providências necessárias para que os processos simplificados sejam decididos, na 1.ª instância, no prazo máximo de quatro meses, descontados que sejam os períodos de férias.
 
-###### Art. 4.º - 1 - Nos processos simplificados, a fim de as diligências serem marcadas para dia e hora que o tribunal e os mandatários judiciais tenham disponíveis, o juiz deve acordar previamente com estes na marcação por qualquer forma, mesmo através da secretaria.
+Art. 4.º - 1 - Nos processos simplificados, a fim de as diligências serem marcadas para dia e hora que o tribunal e os mandatários judiciais tenham disponíveis, o juiz deve acordar previamente com estes na marcação por qualquer forma, mesmo através da secretaria.
 
 2 - Logo que verifiquem que alguma diligência não pode ter lugar no dia e hora designados, devem o juiz ou os mandatários judiciais fazer constar o facto dos autos, de modo que as pessoas já convocadas sejam prontamente notificadas do adiamento.
 
-###### Art. 5.º - 1 - Em substituição da unidade de conta processual penal (UC) e da unidade de conta de custas (UCC), é criada a unidade de conta processual (UC), à qual passa a reportar-se qualquer referência legal às primeiras.
+Art. 5.º - 1 - Em substituição da unidade de conta processual penal (UC) e da unidade de conta de custas (UCC), é criada a unidade de conta processual (UC), à qual passa a reportar-se qualquer referência legal às primeiras.
 
 2 - Entende-se por unidade de conta processual (UC) a quantia em dinheiro equivalente a um quarto da remuneração mínima mensal mais elevada, garantida, no momento da condenação, aos trabalhadores por conta de outrem, arrendondada, quando necessário, para o milhar de escudos mais próximo ou, se a proximidade for igual, para o milhar de escudos imediatamente inferior.
 
-###### Art. 6.º - 1 - Trienalmente, e com início em Janeiro de 1992, a UC considera-se automaticamente actualizada nos termos previstos no artigo anterior a partir de 1 de Janeiro de 1992, devendo, para o efeito, atender-se sempre à remuneração mínima que, sem arredondamento, tiver vigorado no dia 1 de Outubro do ano anterior.
+Art. 6.º - 1 - Trienalmente, e com início em Janeiro de 1992, a UC considera-se automaticamente actualizada nos termos previstos no artigo anterior a partir de 1 de Janeiro de 1992, devendo, para o efeito, atender-se sempre à remuneração mínima que, sem arredondamento, tiver vigorado no dia 1 de Outubro do ano anterior.
 
 2 - A partir da entrada em vigor do presente diploma, a UC no triénio de 1989 a 1991 será igual a 7000$00.
 
-###### Art. 7.º - 1 - Sempre que, no momento da detenção, o arguido pretenda pagar a multa alternativa da prisão, mas não possa, sem grave inconveniente para ele, efectuar o pagamento no tribunal, pode o mesmo ser realizado imediatamente ao agente policial captor, contra entrega de recibo, aposto, se for esse o caso, no triplicado do mandado de captura.
+Art. 7.º - 1 - Sempre que, no momento da detenção, o arguido pretenda pagar a multa alternativa da prisão, mas não possa, sem grave inconveniente para ele, efectuar o pagamento no tribunal, pode o mesmo ser realizado imediatamente ao agente policial captor, contra entrega de recibo, aposto, se for esse o caso, no triplicado do mandado de captura.
 
 2 - Nos quinze dias imediatos, a autoridade policial remeterá ao tribunal donde emanou a ordem de prisão a importância recebida, acompanhada do respectivo recibo.
 
 3 - Para os efeitos previstos nos números anteriores devem os mandados conter, além dos requisitos estabelecidos no artigo 258.º do Código de Processo Penal, o montante das multas e de quaisquer outras importâncias que por lei o arguido tenha de pagar a fim de evitar a sua detenção.
 
-###### Art. 8.º São revogadas as seguintes disposições:
+Art. 8.º São revogadas as seguintes disposições:
 
 a) Artigos 1.º, n.os 3 e 4, 15.º, 46.º, 51.º, 74.º, 97.º, n.º 4, e 207.º, todos do Código das Custas Judiciais;
 
@@ -516,20 +590,20 @@ c) N.º 1 do artigo 6.º do [Decreto-Lei n.º 696/73](https://diariodarepublica.
 
 d) Artigos 9.º, 30.º, 31.º, 32.º, 35.º e 44.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
 
-###### Art. 9.º Sem prejuízo do disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 387-D/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-d-1987-670074), de 29 de Dezembro, o presente diploma entra em vigor um mês após a sua publicação e aplica-se aos processos pendentes.
+Art. 9.º Sem prejuízo do disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 387-D/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-d-1987-670074), de 29 de Dezembro, o presente diploma entra em vigor um mês após a sua publicação e aplica-se aos processos pendentes.
 
 Visto e aprovado em Conselho de Ministros de 11 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 16 de Junho de 1989.**
+Promulgado em 16 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Junho de 1989.**
+Referendado em 20 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Tabela a que se refere o artigo 16.º do Código das Custas Judiciais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14800/25632570.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14800/25632570.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14800/25632570.pdf)

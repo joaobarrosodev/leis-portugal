@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18800/33323338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1989-619286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6b73570b252d95c295d25d06acc0b027f70ec900d0e35369b2d3f9a9ef61bbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b21f62919e2fb5406da43472031abb276b746c10c831a008c5b8edfe49ee6f82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquicultura
 relationships:
 - type: amended_by
   target: pt:dre:217326:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621949:por
+  label: "Alterado o artigo 29.º, pelo DEC LEI.132/91.02.04.1991.MAPA, DR.IS-A [76] de 02.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1991-621949
+  date: '1991-04-02'
+- type: amended_by
+  target: pt:dre:217326:por
+  label: "Determinada a revogação do presente diploma pelo DEC LEI.383/98.1998.11.27.MADRP DR.IS-A [275], aquando da publicação\
+    \ da legislação específica a que se refere o seu art. 12.º-A.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1998-217326
+  date: '1998-11-27'
+- type: cites
+  target: pt:dre:357533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686224:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:58Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +259,9 @@ h) Não alterar o prisma da maré nem impedir o transporte do caudal sólido.
 
 5 - A entidade competente para proceder ao licenciamento das obras deve pronunciar-se no prazo de 90 dia a contar da data de apresentação do pedido de licenciamento e do respectivo processo.
 
-###### Artigo 5.º — Título de autorização
+###### Artigo 5.º
+
+## Título de autorização
 
 1 - A autorização para instalação de estabelecimentos de culturas marinhas é titulada por documento próprio, de que constarão, nomeadamente, os seguintes elementos:
 
@@ -267,7 +329,9 @@ As condições de exploração dos estabelecimentos de culturas marinhas serão 
 
 A licença de exploração dos estabelecimentos é válida por quinze anos, podendo renovar-se por períodos de dez anos a pedido dos interessados, sem prejuízo do disposto nos artigos 18.º e 19.º
 
-###### Artigo 15.º — Título das licenças
+###### Artigo 15.º
+
+## Título das licenças
 
 A licença de exploração de estabelecimento de culturas marinhas será titulada por documento, de modelo a aprovar por despacho do Ministro da Agricultura, Pescas e Alimentação, a emitir pela DGP.
 
@@ -473,12 +537,12 @@ O presente diploma entra em vigor no prazo de 90 dias a contar da data da sua pu
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Agosto de 1989.**
+Referendado em 2 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

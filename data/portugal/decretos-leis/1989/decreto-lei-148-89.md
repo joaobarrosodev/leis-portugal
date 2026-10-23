@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1989-611726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f801370ca6dea6e4fa1bf653adc4582f104aff3fd8264cb0285cf730cf241fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 058966c85f4491cb4cadfbac04025d6a92705efa941aac21a3115a8bf1fb5080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- GNR
+- Gratificação
+- Presidência da República
+- Presidência do Conselho de Ministros
+- PSP
+- Segurança Pública
+relationships:
+- type: cites
+  target: pt:dre:397286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:17Z'
   warnings: []
   errors: []
 ---
@@ -95,26 +113,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Ao pessoal da Polícia de Segurança Pública e da Guarda Nacional Republicana que preste serviço de segurança na Presidência da República e na Presidência do Conselho de Ministros é atribuída uma gratificação, a fixar por despacho conjunto dos Ministros das Finanças e da Administração Interna, devendo ser tidos em consideração os condicionalismos próprios da atribuição de gratificações nos departamentos de origem.
+Artigo 1.º Ao pessoal da Polícia de Segurança Pública e da Guarda Nacional Republicana que preste serviço de segurança na Presidência da República e na Presidência do Conselho de Ministros é atribuída uma gratificação, a fixar por despacho conjunto dos Ministros das Finanças e da Administração Interna, devendo ser tidos em consideração os condicionalismos próprios da atribuição de gratificações nos departamentos de origem.
 
-###### Art. 2.º O pessoal da Polícia de Segurança Pública que desempenha funções de segurança pessoal junto de altas entidades nacionais ou estrangeiras tem direito à gratificação referida no artigo anterior acrescida de um montante compensatório das despesas adicionais que tenha de efectuar por motivo do exercício daquelas funções, a fixar nos mesmos termos.
+Art. 2.º O pessoal da Polícia de Segurança Pública que desempenha funções de segurança pessoal junto de altas entidades nacionais ou estrangeiras tem direito à gratificação referida no artigo anterior acrescida de um montante compensatório das despesas adicionais que tenha de efectuar por motivo do exercício daquelas funções, a fixar nos mesmos termos.
 
-###### Art. 3.º Para o desempenho de funções de segurança pessoal serão sempre designados elementos que tenham averbado o correspondente curso de formação.
+Art. 3.º Para o desempenho de funções de segurança pessoal serão sempre designados elementos que tenham averbado o correspondente curso de formação.
 
-###### Art. 4.º - 1 - Os encargos resultantes da aplicação do disposto no artigo 1.º serão suportados pelas dotações adequadas dos orçamentos das Secretarias-Gerais da Presidência da República e da Presidência do Conselho de Ministros, que transferirão mensalmente para os orçamentos da Guarda Nacional Republicana e da Polícia de Segurança Pública os correspondentes montantes.
+Art. 4.º - 1 - Os encargos resultantes da aplicação do disposto no artigo 1.º serão suportados pelas dotações adequadas dos orçamentos das Secretarias-Gerais da Presidência da República e da Presidência do Conselho de Ministros, que transferirão mensalmente para os orçamentos da Guarda Nacional Republicana e da Polícia de Segurança Pública os correspondentes montantes.
 
 2 - Os encargos resultantes da aplicação do disposto no artigo 2.º serão suportados pelo orçamento da Polícia de Segurança Pública, devendo as entidades requisitantes proceder mensalmente ao reembolso dos correspondentes montantes.
 
-###### Art. 5.º É revogado o [Decreto-Lei n.º 305/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1982-397286), de 2 de Agosto, passando a entender-se como feita para o artigo 1.º do presente diploma a remissão constante do n.º 3 do artigo 2.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio, na redacção que lhe foi dada pelo artigo 1.º da [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), de 27 de Julho.
+Art. 5.º É revogado o [Decreto-Lei n.º 305/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1982-397286), de 2 de Agosto, passando a entender-se como feita para o artigo 1.º do presente diploma a remissão constante do n.º 3 do artigo 2.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio, na redacção que lhe foi dada pelo artigo 1.º da [Lei n.º 5/83](https://diariodarepublica.pt/dr/detalhe/lei/5-1983-454305), de 27 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.
 
-**Promulgado em 20 de Abril de 1989.**
+Promulgado em 20 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Abril de 1989.**
+Referendado em 25 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

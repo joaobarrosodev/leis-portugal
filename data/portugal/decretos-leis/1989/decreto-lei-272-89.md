@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19000/34053408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1989-618547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c4ebe21c349eb01357c4b257053b39b76b3a3c15d2a832d10749289ae9ae0e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21f008de5d79669cad08461961e541c22df12e18fe7e0c288fcbd0aabdd18833
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo AETR
+- Condutor
+- Contra-ordenação
+- Convenção
+- Multa
+- Segurança Rodoviária
+- Transporte Internacional
 relationships:
 - type: amended_by
   target: pt:dre:343916:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:596890:por
+  label: "Alterado o art. 35.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção do presente\
+    \ diploma, pelo DEC LEI.270/92.30.11.1992.MAI, DR.IS-A [277] de 30.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1992-596890
+  date: '1992-11-30'
+- type: amended_by
+  target: pt:dre:345122:por
+  label: "Alterados os arts. 7.º e 8.º e revogado o art. 11.º pela LEI.114/99.1999.08.03.AR, DR.IS-A [179] de 03.08.1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-1999-345122
+  date: '1999-08-03'
+- type: cites
+  target: pt:dre:255580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663309:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:309361:por
+  label: Rectificado pela DECL.DD3655.1989.09.05.PCM DR.IS [226]Supl de 30.09.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-309361
+  date: '1989-09-05'
+- type: repealed_by
+  target: pt:dre:493056:por
+  label: "Revogados, a partir de 30.08.2009, a al. d) do art. 5º, os nºs. 1 e 3 e a al. a) do nº2 do art. 9º e o nº3 do art.\
+    \ 10º pelo DEC LEI.169/2009.31.07.2009.MOPTC, DR.IS [147] de 31.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-2009-493056
+  date: '2009-07-31'
+- type: repealed_by
+  target: pt:dre:343916:por
+  label: "Revogado o presente diploma, a partir de 04.09.2010, rectificado pela Decl DD3655, de 30-Set e na redacção da Lei\
+    \ 114/99, de 03-Ago e do Dec Lei 169/2009, de 31-Jul, pela LEI.27/2010.30.08.2010.AR, DR.IS [168] de 30.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2010-343916
+  date: '2010-08-30'
 article_structure:
   article_count: 17
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:16Z'
   warnings: []
   errors: []
 ---
@@ -261,12 +317,12 @@ São revogados o [Decreto Regulamentar n.º 96/82](https://diariodarepublica.pt/
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1989. - Aníbal António Cavaco Silva - José António da Silveira Godinho - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - José Albino da Silva Peneda.
 
-**Promulgado em 28 de Julho de 1989.**
+Promulgado em 28 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1989.**
+Referendado em 3 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

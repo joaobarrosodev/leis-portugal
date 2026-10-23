@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/12900/22202222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b95e3a45f4c0dee9d0f2535df8a12ca68f2fd0bb3e714719b51cab259320a25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 977f94c838e5cfa43739984b2db5bc649275b848c3022cdfa96a6a5d8c0130ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão de Coordenação Regional
+- Construção Civil
+- Direcção Geral do Comércio Interno
+- Estabelecimento Comercial
+- Fiscalização
 relationships:
 - type: amended_by
   target: pt:dre:584256:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181042:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:321967:por
+  label: Rectificado pela DECL.DD3875.1989.06.23.PCM DR.IS [148] DE 30/JUN/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-321967
+  date: '1989-06-23'
+- type: repealed_by
+  target: pt:dre:584256:por
+  label: "Revogado pelo DEC LEI.258/92.20.11.1992.MCT, DR.IS-A [269] de 20.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1992-584256
+  date: '1992-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:17Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +126,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Âmbito
 
-###### Artigo 1.º - 1 - Sem prejuízo de competências atribuídas a outras entidades nos termos da lei, a localização de grandes superfícies comerciais, quer tais superfícies envolvam edificações a construir de novo, quer edificações já existentes, carece de autorização prévia, a emitir nos termos do presente diploma.
+Artigo 1.º - 1 - Sem prejuízo de competências atribuídas a outras entidades nos termos da lei, a localização de grandes superfícies comerciais, quer tais superfícies envolvam edificações a construir de novo, quer edificações já existentes, carece de autorização prévia, a emitir nos termos do presente diploma.
 
 2 - A autorização prévia a que se refere o número anterior destina-se a:
 
@@ -116,7 +136,7 @@ b) Salvaguardar o correcto ordenamento do território, designadamente no que res
 
 c) Evitar uma sobrecarga excessiva nas infra-estruturas, designadamente as rodoviárias.
 
-###### Art. 2.º - 1 - Para efeitos do disposto no presente diploma, entende-se por:
+Art. 2.º - 1 - Para efeitos do disposto no presente diploma, entende-se por:
 
 a) Grandes superfícies comerciais - as infra-estruturas de comércio a retalho com uma superfície comercial útil superior a 3000 m2;
 
@@ -130,7 +150,7 @@ c) Superfície comercial útil - a superfície destinada à venda e acessível a
 
 ### CAPÍTULO II — Autorização prévia
 
-###### Art. 3.º - 1 - A autorização prévia a que se refere o artigo 1.º será solicitada pelo interessado em requerimento dirigido ao Ministro do Comércio e Turismo e entregue na Direcção-Geral do Comércio Interno (DGCI), instruído, em quadruplicado, com os seguintes elementos:
+Art. 3.º - 1 - A autorização prévia a que se refere o artigo 1.º será solicitada pelo interessado em requerimento dirigido ao Ministro do Comércio e Turismo e entregue na Direcção-Geral do Comércio Interno (DGCI), instruído, em quadruplicado, com os seguintes elementos:
 
 a) Memória descritiva e justificativa indicando: superfície total do terreno; área das construções e volumetria dos edifícios; implantação e destino dos edifícios; cércea e número de pisos, acima e abaixo da cota de soleira, para cada um dos edifícios; zonas devidamente dimensionadas destinadas a acessos e estacionamento dos veículos, incluindo, se for caso disso, áreas de estacionamento em edifícios; superfície de exposição e venda e outras superfícies anexas (escritórios, armazéns, outros serviços, etc.); áreas a afectar por grandes produtos; estrutura merceológica; ramos de actividade e produtos a comercializar por grandes grupos;
 
@@ -150,7 +170,7 @@ f) Calendarização da construção e da entrada em funcionamento do empreendime
 
 4 - No acto da entrega do requerimento, um dos exemplares será restituído ao requerente, com indicação da data de recepção.
 
-###### Art. 4.º - 1 - Nos dez dias seguintes à recepção do processo, a DGCI remetê-lo-á à comissão de coordenação regional da área (CCR), e, quando se trate de localização em área com impacte em estradas nacionais, à Junta Autónoma de Estradas (JAE).
+Art. 4.º - 1 - Nos dez dias seguintes à recepção do processo, a DGCI remetê-lo-á à comissão de coordenação regional da área (CCR), e, quando se trate de localização em área com impacte em estradas nacionais, à Junta Autónoma de Estradas (JAE).
 
 2 - As entidades consultadas deverão emitir os seus pareceres no prazo de 45 dias a contar da data de recepção do pedido.
 
@@ -158,7 +178,7 @@ f) Calendarização da construção e da entrada em funcionamento do empreendime
 
 4 - A falta de emissão de parecer nos prazos fixados no presente artigo é presumida pela DGCI como nada havendo a opor.
 
-###### Art. 5.º - 1 - No parecer a emitir pelas CCRs atender-se-á aos seguintes factores:
+Art. 5.º - 1 - No parecer a emitir pelas CCRs atender-se-á aos seguintes factores:
 
 a) O impacte na zona pela localização da grande superfície comercial;
 
@@ -166,7 +186,7 @@ b) Influência das previsíveis alterações do tráfego no equilíbrio zonal e 
 
 2 - O parecer negativo ou condicionado, desde que homologado pelo Ministro do Planeamento e da Administração do Território, tem carácter vinculativo.
 
-###### Art. 6.º - 1 - No parecer a emitir pela JAE atender-se-á aos seguintes factores:
+Art. 6.º - 1 - No parecer a emitir pela JAE atender-se-á aos seguintes factores:
 
 a) Impacte do previsível aumento de tráfego rodoviário na zona a localizar a grande superfície comercial;
 
@@ -176,7 +196,7 @@ c) Plano de construção dos acessos e suas ligações à rede rodoviária exist
 
 2 - O parecer negativo ou condicionado, desde que homologado pelo Ministro das Obras Públicas, Transportes e Comunicações, tem carácter vinculativo.
 
-###### Art. 7.º No parecer a emitir pela DGCI atender-se-á, entre outros elementos de relevo para a actividade comercial, aos seguintes factores:
+Art. 7.º No parecer a emitir pela DGCI atender-se-á, entre outros elementos de relevo para a actividade comercial, aos seguintes factores:
 
 a) O impacte em termos de abastecimento público, mormente em função dos interesses dos consumidores;
 
@@ -184,13 +204,13 @@ b) As consequências para o tecido comercial da zona, seja em relação às empr
 
 c) A contribuição para a reestruturação e a modernização da actividade comercial na zona, compreendendo a formação profissional e a adaptação a novas tecnologias, bem como para a racionalização dos circuitos de distribuição.
 
-###### Art. 8.º - 1 - Após recepção dos pareceres das entidades referidas no n.º 1 do artigo 4.º, ou verificando-se a situação prevista no n.º 4 do mesmo artigo, a DGCI submeterá todo o processo a decisão do Ministro do Comércio e Turismo, sendo a decisão final comunicada pela DGCI a todas as entidades intervenientes e ao requerente.
+Art. 8.º - 1 - Após recepção dos pareceres das entidades referidas no n.º 1 do artigo 4.º, ou verificando-se a situação prevista no n.º 4 do mesmo artigo, a DGCI submeterá todo o processo a decisão do Ministro do Comércio e Turismo, sendo a decisão final comunicada pela DGCI a todas as entidades intervenientes e ao requerente.
 
 2 - A decisão final deverá ser proferida no prazo de 90 dias contados após recepção do processo na DGCI.
 
-###### Art. 9.º A não emissão de decisão final mediante acto expresso, sobre o pedido de autorização, no prazo fixado no presente diploma será tida como deferimento do mesmo.
+Art. 9.º A não emissão de decisão final mediante acto expresso, sobre o pedido de autorização, no prazo fixado no presente diploma será tida como deferimento do mesmo.
 
-###### Art. 10.º - 1 - São proibidas todas as obras ou operações preparatórias de obras relativas aos empreendimentos abrangidos pelo presente diploma, incluindo a destruição de vegetação ou de elementos construídos, a simples preparação do terreno por meio de terraplenagens ou marcações de qualquer tipo, que não sejam efectuadas ao abrigo e de acordo com autorização prévia emitida nos termos do artigo 8.º, sem prejuízo do cumprimento de outras obrigações legalmente exigíveis.
+Art. 10.º - 1 - São proibidas todas as obras ou operações preparatórias de obras relativas aos empreendimentos abrangidos pelo presente diploma, incluindo a destruição de vegetação ou de elementos construídos, a simples preparação do terreno por meio de terraplenagens ou marcações de qualquer tipo, que não sejam efectuadas ao abrigo e de acordo com autorização prévia emitida nos termos do artigo 8.º, sem prejuízo do cumprimento de outras obrigações legalmente exigíveis.
 
 2 - A autorização prévia caduca ao fim de dois anos a contar da sua comunicação ao requerente, arquivando-se o respectivo processo se, dentro desse prazo, a construção do empreendimento não tiver sido licenciada pela câmara municipal por causa imputada ao particular.
 
@@ -198,19 +218,19 @@ c) A contribuição para a reestruturação e a modernização da actividade com
 
 ### CAPÍTULO III — Vistoria
 
-###### Art. 11.º - 1 - A CCR da área, a DGCI e, nos casos em que se verifique o pressuposto do n.º 1 do artigo 4.º, a JAE poderão participar na vistoria camarária que antecede a entrada em funcionamento dos estabelecimentos abrangidos pelo presente diploma.
+Art. 11.º - 1 - A CCR da área, a DGCI e, nos casos em que se verifique o pressuposto do n.º 1 do artigo 4.º, a JAE poderão participar na vistoria camarária que antecede a entrada em funcionamento dos estabelecimentos abrangidos pelo presente diploma.
 
 2 - A presença na vistoria das entidades referidas no número anterior tem por objectivo verificar se foram cumpridos os requisitos que presidiram à emissão de autorização prévia.
 
 3 - Para efeitos do disposto no n.º 1, a câmara municipal informará as entidades nele referidas, com a antecedência mínima de quinze dias, da realização da vistoria.
 
-###### Art. 12.º A verificação do não cumprimento dos requisitos que presidiram à emissão da autorização prévia deverá constar do auto de vistoria e é factor impeditivo da entrada em funcionamento do estabelecimento.
+Art. 12.º A verificação do não cumprimento dos requisitos que presidiram à emissão da autorização prévia deverá constar do auto de vistoria e é factor impeditivo da entrada em funcionamento do estabelecimento.
 
 ### CAPÍTULO IV — Cadastro
 
-###### Art. 13.º A DGCI organizará o cadastro das grandes superfícies comerciais definidas no artigo 2.º, de forma a caracterizar, em cada caso, a actividade, dimensionamento e instalação respectivos.
+Art. 13.º A DGCI organizará o cadastro das grandes superfícies comerciais definidas no artigo 2.º, de forma a caracterizar, em cada caso, a actividade, dimensionamento e instalação respectivos.
 
-###### Art. 14.º - 1 - Para efeitos do artigo anterior, é obrigatório o registo de todos os estabelecimentos abrangidos, tanto dos já existentes como dos que venham a ser criados.
+Art. 14.º - 1 - Para efeitos do artigo anterior, é obrigatório o registo de todos os estabelecimentos abrangidos, tanto dos já existentes como dos que venham a ser criados.
 
 2 - O registo será feito pela DGCI mediante a entrega, pelos interessados, em mão ou por correio registado, da informação necessária, em duplicado e através de impresso cujo modelo será aprovado por portaria do Ministro do Comércio e Turismo.
 
@@ -220,9 +240,9 @@ c) A contribuição para a reestruturação e a modernização da actividade com
 
 ### CAPÍTULO V — Fiscalização e sanções
 
-###### Art. 15.º A fiscalização do cumprimento do disposto no presente diploma compete à DGCI, às CCRs e, quando se verifique o pressuposto no n.º 1 do artigo 4.º, também à JAE.
+Art. 15.º A fiscalização do cumprimento do disposto no presente diploma compete à DGCI, às CCRs e, quando se verifique o pressuposto no n.º 1 do artigo 4.º, também à JAE.
 
-###### Art. 16.º - 1 - Constituem contra-ordenação, punível com coima:
+Art. 16.º - 1 - Constituem contra-ordenação, punível com coima:
 
 a) De 1500 contos a 3000 contos, a infracção ao disposto no n.º 1 do artigo 1.º;
 
@@ -240,7 +260,7 @@ b) Nos casos de inobservância do n.º 1 do artigo 10.º, o presidente da CCR da
 
 4 - A tentativa e a negligência são puníveis.
 
-###### Art. 17.º - 1 - Sem prejuízo do disposto no artigo anterior, a CCR ordenará, quando for caso disso, nos termos do presente diploma, a suspensão dos trabalhos ou actividades e ou a reposição, em prazo certo, do terreno nas condições em que se encontrava antes da prática da infracção.
+Art. 17.º - 1 - Sem prejuízo do disposto no artigo anterior, a CCR ordenará, quando for caso disso, nos termos do presente diploma, a suspensão dos trabalhos ou actividades e ou a reposição, em prazo certo, do terreno nas condições em que se encontrava antes da prática da infracção.
 
 2 - O cumprimento do disposto no número anterior no prazo fixado confere à CCR a competência para promover a reposição do terreno nas condições em que se encontrava antes da prática da infracção, sendo responsáveis pelas respectivas despesas os proprietárias ou outros titulares de direitos reais sobre o empreendimento.
 
@@ -250,18 +270,18 @@ b) Nos casos de inobservância do n.º 1 do artigo 10.º, o presidente da CCR da
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 18.º O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências dos órgãos de governo próprio.
+Art. 18.º O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências dos órgãos de governo próprio.
 
-###### Art. 19.º Os artigos 10.º e 11.º entram em vigor 120 dias após a data da entrada em vigor do presente diploma.
+Art. 19.º Os artigos 10.º e 11.º entram em vigor 120 dias após a data da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - José Manuel Alves Elias da Costa - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 23 de Maio de 1989.**
+Promulgado em 23 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Maio de 1989.**
+Referendado em 25 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

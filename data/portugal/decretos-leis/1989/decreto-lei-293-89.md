@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1989-546991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b59213c6e99df5373f6312aa505c8e23ba8c908182a7b696dbfa0abfcac547e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 631369ace28cecafdf08f3a5b8cde88d74e5c8838d8064b172c205f93b650f98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Berlengas
+- CAÇA Submarina
+- Contra-ordenação
+- Proteção do Ambiente
+- Reserva Natural da Berlenga
+relationships:
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565189:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:48Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +129,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 6.º-A, 9.º e 10.º do [Decreto-Lei n.º 264/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1981-565189), de 3 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º-A, 9.º e 10.º do [Decreto-Lei n.º 264/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1981-565189), de 3 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 6.º-A. Na área da reserva marinha são proibidas as seguintes actividades:
+Art. 6.º-A. Na área da reserva marinha são proibidas as seguintes actividades:
 
 a) Fazer caça submarina;
 
@@ -126,7 +147,7 @@ f) A utilização de amplificadores de som para o exterior, a partir das embarca
 
 g) A prática de motonáutica competitiva.
 
-###### Art. 9.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, as infracções ao disposto no presente diploma constituem contra-ordenação punível com coimas:
+Art. 9.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, as infracções ao disposto no presente diploma constituem contra-ordenação punível com coimas:
 
 a) Mínima de 5000$00 e máxima de 50000$00, a violação do disposto no n.º 1 do artigo 4.º;
 
@@ -150,7 +171,7 @@ f) Mínima de 50000$00 e máxima de 200000$00, a violação do disposto no artig
 
 6 - Sem prejuízo da informação devida a outras entidades nos termos da lei, a autoridade marítima dará também conhecimento das decisões ao director da Reserva.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - ...
 
@@ -160,11 +181,11 @@ f) Mínima de 50000$00 e máxima de 200000$00, a violação do disposto no artig
 
 5 - O disposto no número anterior não prejudica a competência em razão da matéria para aplicação de coimas pela autoridade marítima na sua área de jurisdição.
 
-###### Art. 2.º São aditados os artigos 6.º-B, 6.º-C e 6.º-D ao [Decreto-Lei n.º 264/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1981-565189), de 3 de Setembro, com a seguinte redacção:
+Art. 2.º São aditados os artigos 6.º-B, 6.º-C e 6.º-D ao [Decreto-Lei n.º 264/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1981-565189), de 3 de Setembro, com a seguinte redacção:
 
-###### Art. 6.º-B. As restrições ao exercício da pesca comercial na área da reserva marinha serão fixadas por portaria dos Ministros do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação, nos termos do [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de Julho.
+Art. 6.º-B. As restrições ao exercício da pesca comercial na área da reserva marinha serão fixadas por portaria dos Ministros do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação, nos termos do [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de Julho.
 
-###### Art. 6.º-C - 1 - Compete ao director da Reserva, ouvido o conselho geral:
+Art. 6.º-C - 1 - Compete ao director da Reserva, ouvido o conselho geral:
 
 a) Regulamentar anualmente o acesso por terra aos pesqueiros das ilhas e ilhéus em que a actividade humana possa fazer perigar a estabilidade das populações animais ou vegetais indígenas;
 
@@ -174,22 +195,22 @@ b) Interditar ou condicionar o acesso a áreas específicas da reserva parcial, 
 
 3 - São excluídos do cômputo da capacidade de carga todos os indivíduos que possuam residência habitual na área da Reserva.
 
-###### Art. 6.º-D. Em toda a área emersa da Reserva Natural da Berlenga é proibida a utilização de aparelhos de amplificação sonora e receptores de radiodifusão, excepto quando:
+Art. 6.º-D. Em toda a área emersa da Reserva Natural da Berlenga é proibida a utilização de aparelhos de amplificação sonora e receptores de radiodifusão, excepto quando:
 
 a) Usados no interior de edifícios, desde que não sejam audíveis do exterior;
 
 b) Usados com objectivos estritamente militares ou de sinalização sonora de auxílio à navegação.
 
-###### Art. 3.º É revogado o [Decreto-Lei n.º 219/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1987-421784), de 29 de Maio.
+Art. 3.º É revogado o [Decreto-Lei n.º 219/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1987-421784), de 29 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1989. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Jorge Manuel de Oliveira Godinho.
 
-**Promulgado em 17 de Agosto de 1989.**
+Promulgado em 17 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1989.**
+Referendado em 22 de Agosto de 1989.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo.

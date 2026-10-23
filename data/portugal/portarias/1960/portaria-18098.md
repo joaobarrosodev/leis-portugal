@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18098-1960-512865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 003cc67661c3a04f6c4f325ba7d486d1478584369212b1674b33a1253577967c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8064d264cc81ea83187459099b80cb5f9c7f217ca0378b0c568d9ce3b505cf54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:44Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +94,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO ÚNICO
 
-###### Artigo 6.º, n.º 3), alínea a) «Despesas com o material - Despesas de conservação e aproveitamento do material - De móveis - Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 30000$00
+Artigo 6.º, n.º 3), alínea a) «Despesas com o material - Despesas de conservação e aproveitamento do material - De móveis - Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 30000$00
 
-###### Artigo 8.º, n.º 4) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, utensílios de farmácia e aparelhos de laboratório, material clínico destinado aos serviços médicos especializado» ... 200000$00
+Artigo 8.º, n.º 4) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, utensílios de farmácia e aparelhos de laboratório, material clínico destinado aos serviços médicos especializado» ... 200000$00
 
 ... 230000$00
 
@@ -100,7 +104,7 @@ tomando como contrapartida as disponibilidades que se discriminam do mesmo orça
 
 ### CAPÍTULO ÚNICO
 
-###### Artigo 1.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
 

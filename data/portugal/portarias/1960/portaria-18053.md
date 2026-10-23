@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18053-1960-514261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb9c51ae0836d73d31f9a0cc6e86d4b65ebca1e3175d96e115f7e518ecac1c1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6936397a606c403dd720eef0f1b8a37df8a66147faf34488f1dcbbb853eac087
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,53 @@ relationships:
   target: pt:dre:126869983:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311068:por
+  label: Revisto o Estatuto da Liga dos Combatentes da Grande Guerra pelo(a) Portaria n.º 745/75 - Diário do Governo n.º 289/1975,
+    Série I de 1975-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-1975-311068
+  date: '1975-12-16'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a tutela sobre a Liga dos Combatentes, com os estatutos aprovados pela
+    presente Portaria, seja exercida pelo Ministro da Defesa Nacional, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República
+    n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: cites
+  target: pt:dre:305206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:44Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +147,9 @@ Estatuto da Liga dos Combatentes da Grande Guerra
 
 (Liga dos Combatentes)
 
-###### Artigo 1.º A Liga dos Combatentes da Grande Guerra, também designada abreviadamente por Liga dos Combatentes, é uma instituição de utilidade pública, patriótica e de assistência, de carácter perpétuo, com personalidade jurídica e utilidade administrativa. Tem a sua sede na cidade de Lisboa e é fundamentalmente constituída por indivíduos que foram ou ainda são militares, os quais não podem manifestar, dentro dela, qualquer credo político ou religioso.
+Artigo 1.º A Liga dos Combatentes da Grande Guerra, também designada abreviadamente por Liga dos Combatentes, é uma instituição de utilidade pública, patriótica e de assistência, de carácter perpétuo, com personalidade jurídica e utilidade administrativa. Tem a sua sede na cidade de Lisboa e é fundamentalmente constituída por indivíduos que foram ou ainda são militares, os quais não podem manifestar, dentro dela, qualquer credo político ou religioso.
 
-###### Art. 2.º Os seus fins são:
+Art. 2.º Os seus fins são:
 
 1.º De protecção e auxílio mútuos e de defesa dos legítimos interesses espirituais, morais e materiais, nos termos preceituados nestes estatutos e no seu regulamento, de todos quantos, no cumprimento de superiores deveres militares, ou de outros em correlação com eles, se sacrificaram ou vierem a sacrificar pela integridade e maior engrandecimento da Pátria.
 
@@ -124,7 +161,7 @@ Estatuto da Liga dos Combatentes da Grande Guerra
 
 § único. Poderá ainda a Liga dos Combatentes, por decisão da assembleia geral e sob proposta da comissão central administrativa, agregar quaisquer obras, existentes ou que venham a fundar-se, de assistência a indivíduos que reúnam as condições expressas no n.º 1.º deste artigo ou a quaisquer dos designados na primeira parte do artigo 4.º
 
-###### Art. 3.º Consideram-se nas condições do n.º 1.º do artigo 2.º, e podem ser admitidos como sócios, todos os portugueses, de origem ou naturalizados, que reúnem os requisitos indicados nos números e alíneas deste artigo e não estejam, abrangidos pelo disposto no artigo 5.º:
+Art. 3.º Consideram-se nas condições do n.º 1.º do artigo 2.º, e podem ser admitidos como sócios, todos os portugueses, de origem ou naturalizados, que reúnem os requisitos indicados nos números e alíneas deste artigo e não estejam, abrangidos pelo disposto no artigo 5.º:
 
 1.º Que tenham prestado serviço em campanha no Exército, na Armada ou na marinha mercante, nacionais ou das nações aliadas durante a Grande Guerra;
 
@@ -140,17 +177,17 @@ b) Para os militares ou equiparados das forças terrestres, navais e aéreas da 
 
 a) Para os militares ou equiparados, da metrópole ou do ultramar, que, a partir de 1 de Julho de 1954, fizeram parte da guarnição militar do Estado da índia ou das forças nele destacadas, as condições são reguladas pela [Portaria n.º 16669](https://diariodarepublica.pt/dr/detalhe/portaria/16669-1958-305206), de 19 de Abril de 1958, que lhes confere o direito ao uso da medalha comemorativa das expedições e campanhas das forças armadas portuguesas.
 
-###### Art. 4.º Poderão igualmente ser admitidos como sócios, em categorias diferentes a fixar, sem direito a voto nem ao exercício de qualquer cargo directivo, os filhos, viúvas, pais e irmãs solteiras dos indivíduos compreendidos nos n.os 1.º a 4.º e suas alíneas do artigo 3.º e ainda outros que mereçam fazer parte da prestimosa instituição pelo auxílio que lhe prestarem ou valimento que lhe derem.
+Art. 4.º Poderão igualmente ser admitidos como sócios, em categorias diferentes a fixar, sem direito a voto nem ao exercício de qualquer cargo directivo, os filhos, viúvas, pais e irmãs solteiras dos indivíduos compreendidos nos n.os 1.º a 4.º e suas alíneas do artigo 3.º e ainda outros que mereçam fazer parte da prestimosa instituição pelo auxílio que lhe prestarem ou valimento que lhe derem.
 
-###### Art. 5.º Não poderão ser admitidos como sócios, na Liga dos Combatentes, os indivíduos que hajam sido condenados a pena maior por deserção, cobardia ou crime infamante ou não possuam boas qualidades morais e cívicas.
+Art. 5.º Não poderão ser admitidos como sócios, na Liga dos Combatentes, os indivíduos que hajam sido condenados a pena maior por deserção, cobardia ou crime infamante ou não possuam boas qualidades morais e cívicas.
 
-###### Art. 6.º Os órgãos da Liga são: o conselho supremo, a assembleia geral e a comissão central administrativa.
+Art. 6.º Os órgãos da Liga são: o conselho supremo, a assembleia geral e a comissão central administrativa.
 
 § 1.º As agências-gerais, agências, subagências, delegações e subdelegações serão geridas por comissões administrativas, de três a cinco membros, de nomeação da comissão central a homologar pela assembleia geral.
 
 § 2.º Uma secção auxiliar feminina da Liga dos Combatentes, estabelecida e assim denominada pelo [Decreto n.º 25679](https://diariodarepublica.pt/dr/detalhe/decreto/25679-1935-581650), de 26 de Julho de 1935, exercerá a sua acção junto dos núcleos regionais.
 
-###### Art. 7.º O conselho supremo orienta as relações da Liga dos Combatentes com os poderes constituídos e com associações congéneres estrangeiras.
+Art. 7.º O conselho supremo orienta as relações da Liga dos Combatentes com os poderes constituídos e com associações congéneres estrangeiras.
 
 § 1.º Terá este conselho como presidente de honra o Presidente da República e como vogais honorários os Ministros da Defesa Nacional, do Exército e da Marinha e o Subsecretário de Estado da Aeronáutica.
 
@@ -158,7 +195,7 @@ a) Para os militares ou equiparados, da metrópole ou do ultramar, que, a partir
 
 § 3.º Quando o Presidente da República termine o seu mandato, deixará de ocupar o lugar designado no § 1.º deste artigo, que ficará pertencendo a quem lhe suceder, mas continuará a fazer parte do conselho supremo como membro efectivo.
 
-###### Art. 8.º A assembleia geral será constituída por um representante do conselho supremo, de sua livre escolha, pelos sócios de honra, portugueses de origem ou naturalizados que tenham a qualidade de combatente ou a de expedicionário, pelos membros das comissões administrativas das agências de Lisboa e do Porto e pelos presidentes das comissões administrativas, ou seus delegados devidamente credenciados, de todos os demais núcleos previstos no § 1.º do artigo 6.º
+Art. 8.º A assembleia geral será constituída por um representante do conselho supremo, de sua livre escolha, pelos sócios de honra, portugueses de origem ou naturalizados que tenham a qualidade de combatente ou a de expedicionário, pelos membros das comissões administrativas das agências de Lisboa e do Porto e pelos presidentes das comissões administrativas, ou seus delegados devidamente credenciados, de todos os demais núcleos previstos no § 1.º do artigo 6.º
 
 § 1.º A primeira assembleia geral será constituída apenas pelas entidades referidas no corpo do artigo que já tivessem essa qualidade à data da [Portaria n.º 7826](https://diariodarepublica.pt/dr/detalhe/portaria/7826-1934-463857).
 
@@ -182,17 +219,17 @@ a) Em primeira convocação, quando se verificar a presença da maioria dos seus
 
 b) Em segunda convocação, com qualquer número de membros presentes.
 
-###### Art. 9.º A comissão central administrativa será constituída por um presidente, um vice-presidente, um secretário-geral, dois tesoureiros, um secretário, um bibliotecário, dois vogais efectivos e três vogais adjuntos, três deles de nomeação oficial e os restantes nove eleitos conforme preceituam os parágrafos deste artigo.
+Art. 9.º A comissão central administrativa será constituída por um presidente, um vice-presidente, um secretário-geral, dois tesoureiros, um secretário, um bibliotecário, dois vogais efectivos e três vogais adjuntos, três deles de nomeação oficial e os restantes nove eleitos conforme preceituam os parágrafos deste artigo.
 
 § 1.º O presidente, um tesoureiro e um vogal efectivo são de nomeação do Ministro da Defesa Nacional, ouvidos os Ministros do Exército e da Marinha e o Subsecretário de Estado da Aeronáutica.
 
 § 2.º Os membros para os restantes cargos são eleitos pela assembleia geral, podendo fazer-se em cada triénio a substituição de três desses membros.
 
-###### Art. 10.º As receitas desta instituição provêm, principalmente, da venda da estampilha da Liga dos Combatentes da Grande Guerra, presentemente regulada pelos Decretos-Leis n.os 13670 e 41647 e [Decreto n.º 41648](https://diariodarepublica.pt/dr/detalhe/decreto/41648-1958-353883), de quotas dos seus associados, de subsídios de organismos do Estado e de corporações administrativas, de deixas, de doações, de legados, de donativos, de subscrições e da angariação que por outros meios se puder fazer em benefício dos seus cofres.
+Art. 10.º As receitas desta instituição provêm, principalmente, da venda da estampilha da Liga dos Combatentes da Grande Guerra, presentemente regulada pelos Decretos-Leis n.os 13670 e 41647 e [Decreto n.º 41648](https://diariodarepublica.pt/dr/detalhe/decreto/41648-1958-353883), de quotas dos seus associados, de subsídios de organismos do Estado e de corporações administrativas, de deixas, de doações, de legados, de donativos, de subscrições e da angariação que por outros meios se puder fazer em benefício dos seus cofres.
 
 § único. Estas receitas serão aplicadas directamente pela comissão central administrativa aos fins que servem a instituição ou, por delegação sua, pelas comissões administrativas dos núcleos indicados no § 1.º do artigo 6.º
 
-###### Art. 11.º A comissão central administrativa elaborará o regulamento necessário ao desenvolvimento e execução do presente estatuto e, ouvido o conselho supremo, submetê-lo-á à apreciação e homologação do Ministro da Defesa Nacional.
+Art. 11.º A comissão central administrativa elaborará o regulamento necessário ao desenvolvimento e execução do presente estatuto e, ouvido o conselho supremo, submetê-lo-á à apreciação e homologação do Ministro da Defesa Nacional.
 
 Presidência do Conselho e Ministérios do Exército e da Marinha, 11 de Novembro de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Subsecretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.
 
@@ -202,19 +239,19 @@ I
 
 Da designação e dos fins
 
-###### Artigo 1.º A Liga dos Combatentes da Grande Guerra, ou apenas Liga dos Combatentes, como também é designada, é constituída para os fins previstos no estatuto, aos quais se dará plena execução através deste regulamento.
+Artigo 1.º A Liga dos Combatentes da Grande Guerra, ou apenas Liga dos Combatentes, como também é designada, é constituída para os fins previstos no estatuto, aos quais se dará plena execução através deste regulamento.
 
 II
 
 Da orgânica
 
-###### Art. 2.º Poderão fazer parte da Liga dos Combatentes, com as categorias que lhes couberem em relação às respectivas condições de admissão, todos os indivíduos explícita ou implìcitamente designados no artigo 3.º, seus números e alíneas, e no artigo 4.º dos respectivos estatutos.
+Art. 2.º Poderão fazer parte da Liga dos Combatentes, com as categorias que lhes couberem em relação às respectivas condições de admissão, todos os indivíduos explícita ou implìcitamente designados no artigo 3.º, seus números e alíneas, e no artigo 4.º dos respectivos estatutos.
 
 § único. Exceptuam-se os que estiverem incursos no disposto no artigo 5.º dos mesmos estatutos ou que tenham sofrido a pena prevista no n.º 3.º do artigo 17.º deste regulamento.
 
-###### Art. 3.º Serão estabelecidas agências-gerais, agências, subagências, delegações e subdelegações, como dispõe o § 1.º do artigo 6.º dos estatutos, as quais ficarão directamente subordinadas à comissão central administrativa e, indirectamente, ao núcleo central director.
+Art. 3.º Serão estabelecidas agências-gerais, agências, subagências, delegações e subdelegações, como dispõe o § 1.º do artigo 6.º dos estatutos, as quais ficarão directamente subordinadas à comissão central administrativa e, indirectamente, ao núcleo central director.
 
-###### Art. 4.º O núcleo central director é constituído por um conselho supremo, pela assembleia geral e pela comissão central administrativa.
+Art. 4.º O núcleo central director é constituído por um conselho supremo, pela assembleia geral e pela comissão central administrativa.
 
 III
 
@@ -222,7 +259,7 @@ Dos sócios
 
 1) Categorias e admissões
 
-###### Art. 5.º Haverá seis categorias de sócios, a saber:
+Art. 5.º Haverá seis categorias de sócios, a saber:
 
 a) Combatentes;
 
@@ -252,13 +289,13 @@ a) Por analogia, terão igualmente a designação de sócios expedicionários os
 
 § 6.º Terão a designação de sócios auxiliares os indivíduos ou colectividades, nacionais ou estrangeiros, que prestem o seu auxílio através de quotização regular aos núcleos regionais a que pertencerem.
 
-###### Art. 6.º A admissão de sócios combatentes, expedicionários, extraordinários e auxiliares compete às comissões administrativas das agências-gerais, agências, subagências, delegações e subdelegações, depois de terem verificado que os elementos que certificam os respectivos boletins de inscrição satisfazem todas as condições exigidas no estatuto e neste regulamento.
+Art. 6.º A admissão de sócios combatentes, expedicionários, extraordinários e auxiliares compete às comissões administrativas das agências-gerais, agências, subagências, delegações e subdelegações, depois de terem verificado que os elementos que certificam os respectivos boletins de inscrição satisfazem todas as condições exigidas no estatuto e neste regulamento.
 
 § único. Após a conferência dos boletins referidos neste artigo serão imediatamente enviadas cópias dos mesmos à secretaria-geral.
 
-###### Art. 7.º A admissão de sócios de honra e beneméritos será feita, respectivamente, pela assembleia geral e peia comissão central administrativa, nos termos indicados nos §§ 4.º e 5.º do artigo 5.º
+Art. 7.º A admissão de sócios de honra e beneméritos será feita, respectivamente, pela assembleia geral e peia comissão central administrativa, nos termos indicados nos §§ 4.º e 5.º do artigo 5.º
 
-###### Art. 8.º A mudança na categoria de sócio em consequência das disposições regulamentares ou estatutárias será efectivada a solicitação do sócio respectivo ou por iniciativa do núcleo regional a que pertencer.
+Art. 8.º A mudança na categoria de sócio em consequência das disposições regulamentares ou estatutárias será efectivada a solicitação do sócio respectivo ou por iniciativa do núcleo regional a que pertencer.
 
 § 1.º Qualquer pedido de mudança de categoria deverá ser transmitido pelo núcleo regional respectivo à secretaria geral acompanhado de uma cópia do boletim existente no seu arquivo e das razões em que se fundamenta esse pedido.
 
@@ -266,7 +303,7 @@ a) Por analogia, terão igualmente a designação de sócios expedicionários os
 
 2) Deveres
 
-###### Art. 9.º A todos os sócios combatentes, expedicionários e extraordinários são comuns os seguintes deveres:
+Art. 9.º A todos os sócios combatentes, expedicionários e extraordinários são comuns os seguintes deveres:
 
 1.º Ser bom patriota.
 
@@ -280,7 +317,7 @@ a) Por analogia, terão igualmente a designação de sócios expedicionários os
 
 § único. Aos sócios combatentes e expedicionários incumbe mais o dever de desempenhar com zelo e gratuitamente todos os cargos para que forem nomeados ou eleitos dentro da Liga dos Combatentes, salvo em casos de reconhecido ou justificado interesse para a instituição em trabalhos de ordem directiva ou executiva, quer, intelectual, quer material, em que a comissão central poderá fixar remunerações.
 
-###### Art. 10.º Aos sócios de honra e beneméritos são comuns os deveres mencionados nos n.os 1.º a 3.º do artigo anterior.
+Art. 10.º Aos sócios de honra e beneméritos são comuns os deveres mencionados nos n.os 1.º a 3.º do artigo anterior.
 
 § 1.º Aos sócios a que se refere este artigo serão conferidos diplomas pela assembleia geral, quando se trate de sócios de honra, e pela comissão central administrativa, quando se trate de sócios beneméritos, devendo esta entregar, a uns e a outros, os distintivos correspondentes a cada uma das categorias de sócio.
 
@@ -288,13 +325,13 @@ a) Por analogia, terão igualmente a designação de sócios expedicionários os
 
 § 3.º Tanto aos sócios de honra como aos beneméritos poderão ser passados, gratuitamente, cartões de identidade, desde que sejam requisitados à comissão central administrativa.
 
-###### Art. 11.º Aos sócios auxiliares são comuns os deveres mencionados nos n.os 1.º a 5.º do artigo 9.º
+Art. 11.º Aos sócios auxiliares são comuns os deveres mencionados nos n.os 1.º a 5.º do artigo 9.º
 
-###### Art. 12.º Haverá tantos modelos de cartões de identidade e de distintivos quantas são as categorias de sócios indicadas no artigo 5.º, embora os primeiros diferentes na cor e os segundos no cunho, mas tendo sempre por base, uns e outros, a cruz da Liga dos Combatentes.
+Art. 12.º Haverá tantos modelos de cartões de identidade e de distintivos quantas são as categorias de sócios indicadas no artigo 5.º, embora os primeiros diferentes na cor e os segundos no cunho, mas tendo sempre por base, uns e outros, a cruz da Liga dos Combatentes.
 
 3) Direitos
 
-###### Art. 13.º Aos sócios combatentes, expedicionários e extraordinários são comuns os seguintes direitos:
+Art. 13.º Aos sócios combatentes, expedicionários e extraordinários são comuns os seguintes direitos:
 
 1.º Desfrutar de todos os benefícios e regalias que a instituição lhes possa proporcionar, seja por si mesma, seja por pessoa ou por entidade interposta, mormente dos que possam caber-lhes pelo conseguimento dos fins designados nos n.os 1.º, 2.º e 4.º do artigo 2.º do estatuto.
 
@@ -320,19 +357,19 @@ a) Eleger e ser eleito nas condições e para os cargos previstos nos estatutos 
 
 b) Examinar os livros e as contas do núcleo em que estiver filiado, nos dez dias anteriores à sua aprovação pela respectiva comissão administrativa.
 
-###### Art. 14.º Aos sócios de honra que não estiverem nas condições do artigo 8.º do estatuto é dada a faculdade de assistir, sem direito a voto ou a deliberação de qualquer espécie, às reuniões da assembleia geral.
+Art. 14.º Aos sócios de honra que não estiverem nas condições do artigo 8.º do estatuto é dada a faculdade de assistir, sem direito a voto ou a deliberação de qualquer espécie, às reuniões da assembleia geral.
 
 1.º A todos os sócios de honra são comuns os direitos consignados nos §§ 2.º e 3.º do artigo 10.º
 
 2.º As reclamações dós sócios de honra serão apresentadas directamente à assembleia geral.
 
-###### Art. 15.º Aos sócios beneméritos assiste ainda, além dos direitos consignados nos §§ 2.º e 3.º do artigo 10.º, o de apresentar as suas reclamações directamente à comissão central administrativa, podendo apelar das suas decisões para a assembleia geral.
+Art. 15.º Aos sócios beneméritos assiste ainda, além dos direitos consignados nos §§ 2.º e 3.º do artigo 10.º, o de apresentar as suas reclamações directamente à comissão central administrativa, podendo apelar das suas decisões para a assembleia geral.
 
-###### Art. 16.º Aos sócios auxiliares assistem os direitos designados nos n.os 3.º, 4.º e 6.º a 8.º do artigo 13.º
+Art. 16.º Aos sócios auxiliares assistem os direitos designados nos n.os 3.º, 4.º e 6.º a 8.º do artigo 13.º
 
 4) Disposições penais
 
-###### Art. 17.º São as seguintes as penas estabelecidas neste regulamento:
+Art. 17.º São as seguintes as penas estabelecidas neste regulamento:
 
 1.º Suspensão de um até seis meses.
 
@@ -342,15 +379,15 @@ b) Examinar os livros e as contas do núcleo em que estiver filiado, nos dez dia
 
 § único. As penas dos n.os 1.º e 2.º deste artigo implicam a perda de todos os direitos associativos até final do seu cumprimento.
 
-###### Art. 18.º A pena de suspensão de um até seis meses é da competência da comissão administrativa do núcleo regional a que pertencer o infractor, que, no uso do direito que lhe confere o n.º 4.º do artigo 13.º, poderá apelar para a comissão central administrativa.
+Art. 18.º A pena de suspensão de um até seis meses é da competência da comissão administrativa do núcleo regional a que pertencer o infractor, que, no uso do direito que lhe confere o n.º 4.º do artigo 13.º, poderá apelar para a comissão central administrativa.
 
-###### Art. 19.º A pena de suspensão por mais de seis meses é da competência da comissão central administrativa, e da sua aplicação deverá haver recurso para a assembleia geral, no uso do direito prescrito no n.º 5.º do artigo 13.º
+Art. 19.º A pena de suspensão por mais de seis meses é da competência da comissão central administrativa, e da sua aplicação deverá haver recurso para a assembleia geral, no uso do direito prescrito no n.º 5.º do artigo 13.º
 
-###### Art. 20.º A pena de expulsão é da exclusiva competência da assembleia geral, e da sua aplicação só haverá recurso para os tribunais competentes.
+Art. 20.º A pena de expulsão é da exclusiva competência da assembleia geral, e da sua aplicação só haverá recurso para os tribunais competentes.
 
 § único. A nenhum associado poderá ser aplicada a pena de expulsão sem prévia e meticulosa organização de processo pela mesa da própria assembleia geral, pela comissão administrativa do respectivo núcleo regional ou pela comissão central administrativa, consoante a origem e a natureza da falta cometida, sendo sempre obrigatória a audiência do arguido.
 
-###### Art. 21.º Será punido com a pena do n.º 1.º do artigo 17.º qualquer sócio combatente, expedicionário, extraordinário ou auxiliar:
+Art. 21.º Será punido com a pena do n.º 1.º do artigo 17.º qualquer sócio combatente, expedicionário, extraordinário ou auxiliar:
 
 a) Que seja pronunciado por crime previsto na legislação penal em vigor;
 
@@ -358,7 +395,7 @@ b) Que pratique falta leve demonstrativa de menos respeito pela instituição ou
 
 c) Que se recuse ao pagamento de três ou de duas quotas em débito, respectivamente, conforme esse pagamento for mensal ou trimestral.
 
-###### Art. 22.º Será punido com a pena do n.º 2.º do artigo 17.º qualquer sócio combatente, expedicionário, extraordinário ou auxiliar:
+Art. 22.º Será punido com a pena do n.º 2.º do artigo 17.º qualquer sócio combatente, expedicionário, extraordinário ou auxiliar:
 
 a) Que seja condenado a prisão ou prisão maior por crimes diferentes dos da alínea a) do artigo seguinte;
 
@@ -368,7 +405,7 @@ c) Que se negue, em geral, salvo se para isso se produzir motivo justificado, ao
 
 d) Que reincida na falta prevista na alínea c) do artigo anterior ou se recuse ao pagamento, estando em débito de uma quota, se esse pagamento for semestral ou anual.
 
-###### Art. 23.º A pena do n.º 3.º do artigo 17.º é aplicável aos sócios de qualquer categoria:
+Art. 23.º A pena do n.º 3.º do artigo 17.º é aplicável aos sócios de qualquer categoria:
 
 a) Que sejam condenados a pena maior por deserção, cobardia ou crime infamante;
 
@@ -388,7 +425,7 @@ f) Que sejam reincidentes nas faltas previstas nas alíneas b) a d) do artigo an
 
 § 3.º Os indivíduos expulsos apenas poderão ser reintegrados nos quadros associativos quando lhes aproveite uma amnistia concedida oficialmente ou pela assembleia geral.
 
-###### Art. 24.º As penas estabelecidas nos n.os 1.º a 3.º do artigo 17.º não são aplicáveis a infracções consideradas crimes políticos pelas leis vigentes, salvo se constituírem infracção ao dever consignado na parte final do artigo 1.º do estatuto.
+Art. 24.º As penas estabelecidas nos n.os 1.º a 3.º do artigo 17.º não são aplicáveis a infracções consideradas crimes políticos pelas leis vigentes, salvo se constituírem infracção ao dever consignado na parte final do artigo 1.º do estatuto.
 
 IV
 
@@ -396,7 +433,7 @@ Dos núcleos regionais
 
 1) Denominações e localização
 
-###### Art. 25.º Os núcleos regionais designados no artigo 3.º, todos com iguais direitos e deveres, ficam directamente subordinados à comissão central administrativa e serão assim localizados:
+Art. 25.º Os núcleos regionais designados no artigo 3.º, todos com iguais direitos e deveres, ficam directamente subordinados à comissão central administrativa e serão assim localizados:
 
 a) As agências-gerais, nas capitais de países estrangeiros em que o seu estabelecimento for permitido e a existência de suficiente colónia portuguesa o justifique;
 
@@ -416,7 +453,7 @@ e) As subdelegações, nas sedes de freguesia de qualquer ponto do território n
 
 2) Comissões administrativas
 
-###### Art. 26.º Os núcleos regionais serão geridos por comissões administrativas compostas de três a cinco membros que não façam parte do núcleo central director, salvo o disposto no § 1.º deste artigo, e a sua nomeação será da exclusiva competência da comissão central administrativa, como o preceitua o § 1.º do artigo 6.º do estatuto.
+Art. 26.º Os núcleos regionais serão geridos por comissões administrativas compostas de três a cinco membros que não façam parte do núcleo central director, salvo o disposto no § 1.º deste artigo, e a sua nomeação será da exclusiva competência da comissão central administrativa, como o preceitua o § 1.º do artigo 6.º do estatuto.
 
 1.º Exceptuam-se os presidentes de todas as comissões administrativas dos núcleos regionais e os restantes membros das comissões administrativas das agências de Lisboa e do Porto, os quais de direito próprio têm assento na assembleia geral, como dispõe o artigo 8.º do estatuto.
 
@@ -424,7 +461,7 @@ e) As subdelegações, nas sedes de freguesia de qualquer ponto do território n
 
 3.º Os membros das mesmas comissões administrativas, que poderão ser reconduzidos durante um número ilimitado de anos, serão individual e colectivamente responsáveis pelos seus actos perante a comissão central administrativa.
 
-###### Art. 27.º Compete às comissões administrativas dos núcleos regionais:
+Art. 27.º Compete às comissões administrativas dos núcleos regionais:
 
 1.º Zelar pelos interesses da Liga dos Combatentes e patrocinar todas as legítimas pretensões dos seus associados, designadamente no âmbito dos n.os 1.º e 2.º do artigo 2.º do estatuto.
 
@@ -544,29 +581,29 @@ Do núcleo central director
 
 1) Conselho supremo
 
-###### Art. 28.º O conselho supremo, parte integrante do núcleo central director, nos termos do artigo 6.º do estatuto, tem a sua missão definida e a sua constituição regulada pelo artigo 7.º e seus parágrafos do mesmo estatuto.
+Art. 28.º O conselho supremo, parte integrante do núcleo central director, nos termos do artigo 6.º do estatuto, tem a sua missão definida e a sua constituição regulada pelo artigo 7.º e seus parágrafos do mesmo estatuto.
 
-###### Art. 29.º No conselho supremo tomarão assento, além dos indivíduos que fizerem parte dele à data da publicação deste regulamento, aqueles que vierem a ser eleitos pela assembleia geral, nos termos estabelecidos.
+Art. 29.º No conselho supremo tomarão assento, além dos indivíduos que fizerem parte dele à data da publicação deste regulamento, aqueles que vierem a ser eleitos pela assembleia geral, nos termos estabelecidos.
 
-###### Art. 30.º Todos os indivíduos eleitos para este conselho serão implìcitamente considerados sócios de honra e, como tal, gozarão dos direitos prescritos a essa categoria de sócios.
+Art. 30.º Todos os indivíduos eleitos para este conselho serão implìcitamente considerados sócios de honra e, como tal, gozarão dos direitos prescritos a essa categoria de sócios.
 
 § único. A eleição de um membro do conselho supremo considera-se vitalícia, salvo, como é óbvio, se a assembleia geral tiver de usar da competência que lhe confere o artigo 20.º
 
-###### Art. 31.º O conselho supremo designará a sua própria mesa e o seu representante na assembleia geral, respectivamente nos termos do § 2.º do artigo 7.º e do artigo 8.º do estatuto.
+Art. 31.º O conselho supremo designará a sua própria mesa e o seu representante na assembleia geral, respectivamente nos termos do § 2.º do artigo 7.º e do artigo 8.º do estatuto.
 
 § único. O representante a que se refere este artigo será sempre, de direito, como estabelece o § 2.º do mesmo artigo 8.º do estatuto, o presidente da mesa da assembleia geral.
 
-###### Art. 32.º Os membros do conselho supremo que não tenham assento na assembleia geral poderão assistir às suas reuniões e tomar parte nas discussões, quando para isso forem convidados pela respectiva mesa.
+Art. 32.º Os membros do conselho supremo que não tenham assento na assembleia geral poderão assistir às suas reuniões e tomar parte nas discussões, quando para isso forem convidados pela respectiva mesa.
 
-###### Art. 33.º A todas as sessões do conselho supremo deverá assistir o presidente da comissão central, nos termos da alínea b) do artigo 45.º, ou um seu delegado munido da respectiva procuração.
+Art. 33.º A todas as sessões do conselho supremo deverá assistir o presidente da comissão central, nos termos da alínea b) do artigo 45.º, ou um seu delegado munido da respectiva procuração.
 
 § único. O delegado a que se refere este artigo deverá ser sempre um membro da comissão central administrativa.
 
 2) Assembleia geral
 
-###### Art. 34.º Os poderes do núcleo central director residem essencialmente na assembleia geral, a qual delega esses poderes, para efeitos jurídicos, administrativos, de representação e de expediente, na comissão central administrativa.
+Art. 34.º Os poderes do núcleo central director residem essencialmente na assembleia geral, a qual delega esses poderes, para efeitos jurídicos, administrativos, de representação e de expediente, na comissão central administrativa.
 
-###### Art. 35.º A assembleia geral é constituída e funciona nas condições e para os fins estabelecidos no artigo 8.º do estatuto, seus parágrafos e alíneas.
+Art. 35.º A assembleia geral é constituída e funciona nas condições e para os fins estabelecidos no artigo 8.º do estatuto, seus parágrafos e alíneas.
 
 § 1.º Os indivíduos que a constituem, de direito, terão a designação de representantes à assembleia geral.
 
@@ -574,7 +611,7 @@ Do núcleo central director
 
 § 3.º Cada delegado só poderá receber procuração de um único representante.
 
-###### Art. 36.º Compete mais à assembleia geral:
+Art. 36.º Compete mais à assembleia geral:
 
 1.º Discutir e aprovar, nas condições expressas no § 5.º do artigo 8.º do estatuto, as alterações que estes tiverem de sofrer.
 
@@ -598,13 +635,13 @@ Do núcleo central director
 
 § único. Para efeitos do prescrito no n.º 2.º deste artigo, a mesa da assembleia geral exercerá junto da comissão central administrativa as funções de conselho fiscal.
 
-###### Art. 37.º As votações nas sessões da assembleia geral serão feitas por escrutínio secreto.
+Art. 37.º As votações nas sessões da assembleia geral serão feitas por escrutínio secreto.
 
 § 1.º Quer os representantes, quer os delegados, terão apenas um voto nas deliberações da assembleia geral.
 
 § 2.º Sempre que numa sessão da assembleia geral tome assento um representante que nela tenha o seu delegado, este poderá assistir, mas perderá o direito de votar:
 
-###### Art. 38.º Compete ao presidente da mesa da assembleia geral:
+Art. 38.º Compete ao presidente da mesa da assembleia geral:
 
 a) Presidir, orientar e dirigir, os trabalhos;
 
@@ -612,7 +649,7 @@ b) Convocar as reuniões nos termos e para os efeitos estatuídos;
 
 c) Assinar todas as actas e o expediente das reuniões.
 
-###### Art. 39.º Compete ao 1.º secretário da mesa da assembleia geral:
+Art. 39.º Compete ao 1.º secretário da mesa da assembleia geral:
 
 a) Colaborar com o presidente;
 
@@ -624,7 +661,7 @@ d) Lavrar e assinar as actas;
 
 e) Assinar o expediente.
 
-###### Art. 40.º Compete ao 2.º secretário da mesa da assembleia geral:
+Art. 40.º Compete ao 2.º secretário da mesa da assembleia geral:
 
 a) Colaborar com os outros dois membros da mesa em tudo o que interesse ao desenvolvimento normal dos trabalhos;
 
@@ -632,17 +669,17 @@ b) Fazer a chamada dos membros presentes nas sessões;
 
 c) Mandar tirar cópias das actas das sessões e das modificações que tiverem no acto da sua aprovação, e promover a sua distribuição pelo conselho supremo, comissão central administrativa e comissões administrativas de todos os núcleos regionais.
 
-###### Art. 41.º No impedimento de um ou dos dois secretários da mesa, a assembleia geral decidirá por maioria de votos quanto à sua constituição.
+Art. 41.º No impedimento de um ou dos dois secretários da mesa, a assembleia geral decidirá por maioria de votos quanto à sua constituição.
 
 3) Comissão central administrativa.
 
-###### Art. 42.º À comissão central administrativa, constituída como dispõe o artigo 9.º do estatuto e seus parágrafos, incumbe, principalmente, exercer os poderes que nela delega a assembleia geral, conforme estabelece o artigo 34.º deste regulamento.
+Art. 42.º À comissão central administrativa, constituída como dispõe o artigo 9.º do estatuto e seus parágrafos, incumbe, principalmente, exercer os poderes que nela delega a assembleia geral, conforme estabelece o artigo 34.º deste regulamento.
 
 1.º Os membros da comissão central administrativa são individual e colectivamente responsáveis pelos seus actos perante a assembleia geral.
 
 2.º A votação dentro da comissão central administrativa é feita por voto expresso e nominal, devendo estar presentes às sessões sete dos seus membros, pelo menos.
 
-###### Art. 43.º À comissão central administrativa, que disporá da secretaria-geral como órgão informativo e coordenador das actividades gerais da Liga dos Combatentes, compete em conjunto:
+Art. 43.º À comissão central administrativa, que disporá da secretaria-geral como órgão informativo e coordenador das actividades gerais da Liga dos Combatentes, compete em conjunto:
 
 1.º Promover a criação das agências-gerais, agências, subagências, delegações e subdelegações e dissolvê-las quando para isso houver motivo.
 
@@ -702,9 +739,9 @@ c) Sócios extraordinários.
 
 Só a título excepcional e por imposição de serviço poderá ser admitido pessoal de entre os sócios auxiliares, mas, neste caso, sempre fora dos quadros e a título precário.
 
-###### Art. 44.º Cumpre a todos os membros da comissão central administrativa e a cada um em particular votar nas sessões e assinar as actas daquelas a que tiverem assistido.
+Art. 44.º Cumpre a todos os membros da comissão central administrativa e a cada um em particular votar nas sessões e assinar as actas daquelas a que tiverem assistido.
 
-###### Art. 45.º Ao presidente da comissão central administrativa compete:
+Art. 45.º Ao presidente da comissão central administrativa compete:
 
 a) Representar a Liga dos Combatentes junto dos Poderes Judicial, Executivo e Legislativo;
 
@@ -724,13 +761,13 @@ h) Representar a instituição nos actos oficiais;
 
 i) Assinar todo o expediente das actas das sessões a que tenha presidido e o que derivar de assuntos da sua competência directa.
 
-###### Art. 46.º Ao vice-presidente compete:
+Art. 46.º Ao vice-presidente compete:
 
 a) Auxiliar e assistir o presidente nas suas funções;
 
 b) Substituir o presidente nos seus impedimentos transitórios ou definitivo, usando então de todas as respectivas competências.
 
-###### Art. 47.º Ao secretário-geral compete:
+Art. 47.º Ao secretário-geral compete:
 
 a) Secretariar as sessões, verificar as presenças e proceder à contagem dos votos durante os escrutínios;
 
@@ -746,7 +783,7 @@ f) Corresponder-se directamente com todos os núcleos e serviços, com quaisquer
 
 g) Requisitar à tesouraria as verbas necessárias para as despesas da comissão central administrativa e da secretaria-geral;
 
-###### Art. 48.º Ao secretário compete:
+Art. 48.º Ao secretário compete:
 
 a) Auxiliar e assistir o secretário-geral no exercício das suas funções e substituí-lo nos seus impedimentos transitórios ou definitivo;
 
@@ -758,7 +795,7 @@ d) Fazer também escriturar o livro a que se refere o § 2.º do artigo 23.º, l
 
 e) Manter em dia e em ordem os documentos que forem enviados à secretaria-geral em cumprimento do disposto no n.º 15.º do artigo 27.º
 
-###### Art. 49.º Ao 1.º tesoureiro compete:
+Art. 49.º Ao 1.º tesoureiro compete:
 
 a) Usar das competências prescritas nos artigos 45.º e 46.º quando se verifique o impedimento simultâneo do presidente e vice-presidente;
 
@@ -774,7 +811,7 @@ f) Fomentar, por todas as formas ao seu alcance, o desenvolvimento financeiro da
 
 g) Fiscalizar os actos dos tesoureiros dos núcleos regionais.
 
-###### Art. 50.º Ao 2.º tesoureiro compete:
+Art. 50.º Ao 2.º tesoureiro compete:
 
 a) Auxiliar e assistir o 1.º tesoureiro no exercício das suas funções e substituí-lo nos casos previstos na alínea b) do artigo anterior;
 
@@ -784,7 +821,7 @@ c) Gerir, sob a direcção e fiscalização do 1.º tesoureiro e auxiliado pelo 
 
 d) Manter em dia e em ordem os documentos que forem enviados à tesouraria no cumprimento do disposto no n.º 15.º do artigo 27.º
 
-###### Art. 51.º Ao bibliotecário compete:
+Art. 51.º Ao bibliotecário compete:
 
 a) Organizar, fiscalizar e administrar a biblioteca da sede social, proporcionando a todos os filiados a sua utilização pela forma mais conveniente;
 
@@ -792,19 +829,19 @@ b) Manter contacto directo com os núcleos regionais em tudo o que possa interes
 
 c) Requisitar à tesouraria as verbas necessárias aos serviços que dirige.
 
-###### Art. 52.º Ao 1.º vogal efectivo compete:
+Art. 52.º Ao 1.º vogal efectivo compete:
 
 a) Auxiliar o 1.º e o 2.º tesoureiros no exercício das suas funções, ficando perante eles directamente responsável, sem prejuízo do disposto no § 1.º do artigo 42.º;
 
 b) Exercer, especialmente, as funções de subgerente da tesouraria.
 
-###### Art. 53.º Ao 2.º vogal efectivo compete:
+Art. 53.º Ao 2.º vogal efectivo compete:
 
 a) Auxiliar o secretário-geral e o secretário no exercício das suas funções;
 
 b) Substituir o bibliotecário nos seus impedimentos transitórios ou definitivo.
 
-###### Art. 54.º Aos três vogais adjuntos compete coadjuvar todos os restantes membros da comissão central administrativa e substituí-los, quando for necessário, no exercício das suas funções.
+Art. 54.º Aos três vogais adjuntos compete coadjuvar todos os restantes membros da comissão central administrativa e substituí-los, quando for necessário, no exercício das suas funções.
 
 § único. As substituições a que se refere este artigo serão feitas após designação expressa da comissão central administrativa e implicarão, para os substitutos, os deveres e direitos correspondentes ao exercício da função que forem desempenhar.
 
@@ -812,24 +849,24 @@ VI
 
 Disposições gerais
 
-###### Art. 55.º As múltiplas actividades da Liga dos Combatentes, previstas nos estatutos e neste regulamento, devem todas convergir à consecução dos fins para que a instituição foi criada.
+Art. 55.º As múltiplas actividades da Liga dos Combatentes, previstas nos estatutos e neste regulamento, devem todas convergir à consecução dos fins para que a instituição foi criada.
 
-###### Art. 56.º A acção assistencial da Liga dos Combatentes deverá ser pronta, isenta de exibicionismo e levada directamente aos lugares onde se torne necessária.
+Art. 56.º A acção assistencial da Liga dos Combatentes deverá ser pronta, isenta de exibicionismo e levada directamente aos lugares onde se torne necessária.
 
-###### Art. 57.º A Liga dos Combatentes poderá organizar e promover congressos nacionais em que comparticipem os elementos que a compõem, com o fim de discutir, aperfeiçoar e pôr em prática medidas de carácter geral associativo que julgue indispensáveis ao interesse da instituição e comum dos seus filiados.
+Art. 57.º A Liga dos Combatentes poderá organizar e promover congressos nacionais em que comparticipem os elementos que a compõem, com o fim de discutir, aperfeiçoar e pôr em prática medidas de carácter geral associativo que julgue indispensáveis ao interesse da instituição e comum dos seus filiados.
 
 § único. A realização dos congressos a que se refere este artigo será determinada pela assembleia geral, por iniciativa própria ou por deliberação sua que recaia sobre proposta da comissão central administrativa.
 
-###### Art. 58.º Poderá também a Liga dos Combatentes fazer-se representar em congressos, em assembleias ou em outras reuniões de carácter idêntico promovidas por federações ou associações congéneres estrangeiras e filiar-se em associações internacionais de combatentes.
+Art. 58.º Poderá também a Liga dos Combatentes fazer-se representar em congressos, em assembleias ou em outras reuniões de carácter idêntico promovidas por federações ou associações congéneres estrangeiras e filiar-se em associações internacionais de combatentes.
 
 § único. Para a efectivação dos casos previstos neste artigo torna-se absolutamente indispensável consulta prévia da assembleia geral ao conselho supremo e homologação do Ministro da Defesa Nacional ao parecer que for emitido pelo mesmo conselho.
 
-###### Art. 59.º Para uma necessária actualização do organismo auxiliar a que se refere o § 2.º do artigo 6.º do estatuto, deverá a comissão central administrativa elaborar um regulamento próprio, de acordo com os elementos que o compõem.
+Art. 59.º Para uma necessária actualização do organismo auxiliar a que se refere o § 2.º do artigo 6.º do estatuto, deverá a comissão central administrativa elaborar um regulamento próprio, de acordo com os elementos que o compõem.
 
 § único. Para o fim indicado neste artigo torna-se necessário parecer favorável do conselho supremo, homologado pelo Ministro da Defesa Nacional.
 
-###### Art. 60.º Este regulamento e os que forem elaborados farão parte integrante e terão o mesmo valor do estatuto.
+Art. 60.º Este regulamento e os que forem elaborados farão parte integrante e terão o mesmo valor do estatuto.
 
-###### Art. 61.º A ignorância de qualquer das disposições do estatuto ou dos regulamentos que lhe forem apensos não poderá ser invocada como desculpa da infracção ao que neles se determina.
+Art. 61.º A ignorância de qualquer das disposições do estatuto ou dos regulamentos que lhe forem apensos não poderá ser invocada como desculpa da infracção ao que neles se determina.
 
 Presidência do Conselho, 11 de Novembro de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.

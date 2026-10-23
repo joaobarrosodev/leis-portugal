@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/12300/20822083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1989-610020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1be1df161ee4c6a5ff3fb0f7f1217baf83cdc4e2bb936c0a9a844cacd52d2b4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abccb382662c36a1ea880fa350752dcf8db63584b7a01b0711f67d07b05be433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Florestal
+- Incêndio
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:118051705:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553442:por
+  label: Mantido em vigor o presente diploma pelo(a) Lei n.º 12/2012 - Diário da República n.º 52/2012, Série I de 2012-03-13,
+    nos termos do disposto no n.º 2 do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2012-553442
+  date: '2012-03-13'
+- type: cites
+  target: pt:dre:285306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado, a partir de 16.12.2011, sem prejuízo do disposto no n.º 1 do art. 2.º, pelo DEC LEI.254/2009.24.09.2009.MADRP,\
+    \ DR.IS [186] de 24.09.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
+- type: repealed_by
+  target: pt:dre:498122:por
+  label: "Revogado, a partir de 17.10.2013, pelo DEC LEI.96/2013.19.07.2013.MAMAOT, DR.IS [138] de 19.07.2013, sem prejuízo\
+    \ do disposto no n.º 3 do art. 19.º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2013-498122
+  date: '2013-07-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:02Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +131,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O proprietário de terrenos florestais percorridos por incêndios e sitos em áreas protegidas deverá proceder à sua reflorestação.
+Artigo 1.º - 1 - O proprietário de terrenos florestais percorridos por incêndios e sitos em áreas protegidas deverá proceder à sua reflorestação.
 
 2 - No caso de os terrenos referidos no número anterior serem objecto de arrendamento florestal, a reflorestação deverá ser efectuada pelo respectivo arrendatário, excepto se o prazo ou outras condições contratuais não permitirem fazê-la de uma forma economicamente vantajosa.
 
@@ -110,11 +139,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Nos termos e para os efeitos do n.º 1, constituem áreas protegidas as classificadas ao abrigo do [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, ou de legislação especial sobre conservação da natureza.
 
-###### Art. 2.º - 1 - A reflorestação de áreas protegidas deverá ser efectuada de acordo com os respectivos planos e zonamentos, planos regionais de ordenamento do território e planos directores municipais existentes na área.
+Art. 2.º - 1 - A reflorestação de áreas protegidas deverá ser efectuada de acordo com os respectivos planos e zonamentos, planos regionais de ordenamento do território e planos directores municipais existentes na área.
 
 2 - No caso de inexistência do plano de ordenamento para a área a reflorestar, as acções de reflorestação deverão ser efectuadas tendo em consideração as espécies ecologicamente mais adequadas para a zona em causa.
 
-###### Art. 3.º - 1 - A reflorestação de terrenos percorridos por incêndios e situados em áreas protegidas deverá ser precedida de apresentação de um projecto a submeter à aprovação do Serviço Nacional de Parques, Reservas e Conservação da Natureza, no prazo de um ano a contar da verificação do incêndio.
+Art. 3.º - 1 - A reflorestação de terrenos percorridos por incêndios e situados em áreas protegidas deverá ser precedida de apresentação de um projecto a submeter à aprovação do Serviço Nacional de Parques, Reservas e Conservação da Natureza, no prazo de um ano a contar da verificação do incêndio.
 
 2 - O projecto referido no número anterior deverá ter em consideração os princípios consignados no n.º 1 ou no n.º 2 do artigo 2.º, conforme os casos, e obedecer, nomeadamente, aos seguintes requisitos:
 
@@ -124,7 +153,7 @@ b) Devem ser devidamente assinalados os locais adequados à construção de pequ
 
 3 - Além dos requisitos mencionados no n.º 2, nos projectos de reflorestação à base de resinosas, em especial o pinheiro-bravo, ou de eucaliptos, as manchas por eles ocupadas não podem exceder 100 ha sem serem cantonadas por faixas de folhosas, mais resistentes ao fogo, nomeadamente ao longo das linhas de água e com uma largura não inferior a 25 m para um e outro lado da linha de talvegue.
 
-###### Art. 4.º - 1 - O projecto sujeito a aprovação deverá ser entregue ao director da área protegida em que se situe o terreno a reflorestar, que o enviará no prazo de cinco dias à câmara municipal local, para parecer, que deverá ser emitido no prazo de quinze dias contado da sua recepção, sob pena da sua dispensa.
+Art. 4.º - 1 - O projecto sujeito a aprovação deverá ser entregue ao director da área protegida em que se situe o terreno a reflorestar, que o enviará no prazo de cinco dias à câmara municipal local, para parecer, que deverá ser emitido no prazo de quinze dias contado da sua recepção, sob pena da sua dispensa.
 
 2 - O director da área protegida emitirá o respectivo parecer no prazo máximo de 30 dias contado a partir da data de recepção do projecto.
 
@@ -134,13 +163,13 @@ b) Devem ser devidamente assinalados os locais adequados à construção de pequ
 
 5 - Na ausência de resposta fundamentada no prazo referido no número anterior, consideram-se autorizadas as acções de reflorestação em causa.
 
-###### Art. 5.º - 1 - O projecto será sujeito a uma avaliação de impacte ambiental, quando a área a reflorestar for superior a 100 ha, devendo o SNPRCN prestar apoio técnico e orientações para a sua execução.
+Art. 5.º - 1 - O projecto será sujeito a uma avaliação de impacte ambiental, quando a área a reflorestar for superior a 100 ha, devendo o SNPRCN prestar apoio técnico e orientações para a sua execução.
 
 2 - É dispensado o procedimento consignado no n.º 1 quando o projecto de rearborização se inclua num plano já previamente sujeito a avaliação de impacte ambiental.
 
-###### Art. 6.º A reflorestação deve estar concluída no prazo de dois anos contado a partir da data de aprovação do respectivo projecto.
+Art. 6.º A reflorestação deve estar concluída no prazo de dois anos contado a partir da data de aprovação do respectivo projecto.
 
-###### Art. 7.º - 1 - Constitui contra-ordenação punível com coima:
+Art. 7.º - 1 - Constitui contra-ordenação punível com coima:
 
 a) De 100000$00 a 200000$00, a violação do disposto no n.º 1 do artigo 3.º e no artigo 6.º;
 
@@ -150,13 +179,13 @@ b) De 70000$00 a 150000$00, a violação do disposto no n.º 1 do artigo 5.º
 
 3 - A negligência é sempre punível.
 
-###### Art. 8.º - 1 - As acções de reflorestação efectuadas sem que tenha sido aprovado o respectivo projecto nos termos previstos no presente diploma implicam, para as entidades responsáveis, a obrigação de repor, a todo o tempo, a situação anterior à infracção.
+Art. 8.º - 1 - As acções de reflorestação efectuadas sem que tenha sido aprovado o respectivo projecto nos termos previstos no presente diploma implicam, para as entidades responsáveis, a obrigação de repor, a todo o tempo, a situação anterior à infracção.
 
 2 - Notificadas as entidades responsáveis para procederem à reposição, se não cumprirem a obrigação dentro do prazo que lhes for fixado na notificação, o presidente do Serviço Nacional de Parques, Reservas e Conservação da Natureza poderá mandar proceder aos trabalhos necessários, apresentando aos responsáveis a nota das despesas efectuadas, para cobrança.
 
 3 - Na falta de pagamento dentro do prazo fixado, será a cobrança efectuada nos termos do processo das execuções fiscais, constituindo a nota de despesas título executivo bastante, devendo dela constar o nome e o domicílio do devedor, a proveniência da dívida e a indicação, por extenso, do seu montante, bem como a data a partir da qual são devidos juros de mora.
 
-###### Art. 9.º - 1 - Compete ao Serviço Nacional de Parques, Reservas e Conservação da Natureza fiscalizar o cumprimento do disposto no presente diploma.
+Art. 9.º - 1 - Compete ao Serviço Nacional de Parques, Reservas e Conservação da Natureza fiscalizar o cumprimento do disposto no presente diploma.
 
 2 - A instrução dos processos pelas contra-ordenações previstas neste diploma é da competência dos serviços locais do SNPRCN.
 
@@ -170,12 +199,12 @@ b) De 70000$00 a 150000$00, a violação do disposto no n.º 1 do artigo 5.º
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 11 de Maio de 1989.**
+Promulgado em 11 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1989.**
+Referendado em 16 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

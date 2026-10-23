@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1989-609632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5aa47b4def7781bc313a92bad0388462a1e8136014cc720ad59401f7217bc853
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e13e921dff8299ed8dbf48a1fca5f1c15c744a0946ae0741d0d68af915499d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Comercial
+- Capital Social
+- Instituição Financeira
+- Seguro
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:448953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496332:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448953:por
+  label: Revogados os arts. 1.º e 3.º do presente diploma, pelo(a) Decreto-Lei n.º 298/92 - Diário da República n.º 301/1992,
+    6º Suplemento, Série I-A de 1992-12-31 nos termos do n.º 2 do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1992-448953
+  date: '1992-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:28Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +120,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os bancos comerciais ou de investimento, cuja constituição seja autorizada a partir de 1 de Janeiro de 1989, devem possuir um capital social de montante não inferior a 3500000 contos.
+Artigo 1.º Os bancos comerciais ou de investimento, cuja constituição seja autorizada a partir de 1 de Janeiro de 1989, devem possuir um capital social de montante não inferior a 3500000 contos.
 
-###### Art. 2.º As seguradoras cuja constituição seja autorizada a partir de 1 de Janeiro de 1989 devem possuir um capital social de montante não inferior aos que a seguir se indicam, consoante as circunstâncias:
+Art. 2.º As seguradoras cuja constituição seja autorizada a partir de 1 de Janeiro de 1989 devem possuir um capital social de montante não inferior aos que a seguir se indicam, consoante as circunstâncias:
 
 a) Sociedades anónimas que explorem apenas um dos seguintes ramos dos seguros «Não vida»: caução, protecção jurídica e assistência - 500000 contos;
 
@@ -113,7 +132,7 @@ c) Sociedades anónimas que explorem o ramo «Vida» - 1500000 contos;
 
 d) Mútuas de seguros - 750000 contos.
 
-###### Art. 3.º As instituições financeiras a seguir designadas, cuja constituição seja autorizada a partir de 1 de Janeiro de 1989, devem possuir um capital social de montante não inferior, respectivamente, aos seguintes:
+Art. 3.º As instituições financeiras a seguir designadas, cuja constituição seja autorizada a partir de 1 de Janeiro de 1989, devem possuir um capital social de montante não inferior, respectivamente, aos seguintes:
 
 a) Sociedades de desenvolvimento regional - 400000 contos;
 
@@ -123,20 +142,20 @@ c) Sociedades de factoring - 200000 contos;
 
 d) Sociedades gestoras de fundos de pensões - 200000 contos.
 
-###### Art. 4.º Consideram-se tacitamente indeferidos os pedidos de constituição de instituições financeiras e seguradoras a que se refere o presente diploma que se encontrem pendentes à data da sua entrada em vigor, se no prazo de 90 dias a contar desta data não reajustarem os correspondentes pedidos ao condicionalismo agora estabelecido.
+Art. 4.º Consideram-se tacitamente indeferidos os pedidos de constituição de instituições financeiras e seguradoras a que se refere o presente diploma que se encontrem pendentes à data da sua entrada em vigor, se no prazo de 90 dias a contar desta data não reajustarem os correspondentes pedidos ao condicionalismo agora estabelecido.
 
-###### Art. 5.º - 1 - As instituições financeiras e seguradoras referidas nos artigos anteriores, já constituídas ou que venham a constituir-se por já haverem sido autorizadas à data do presente diploma, nos casos em que o seu capital social seja inferior ao mínimo fixado no presente decreto-lei, devem, sem prejuízo do disposto no número seguinte, proceder ao correspondente aumento até 31 de Dezembro de 1991.
+Art. 5.º - 1 - As instituições financeiras e seguradoras referidas nos artigos anteriores, já constituídas ou que venham a constituir-se por já haverem sido autorizadas à data do presente diploma, nos casos em que o seu capital social seja inferior ao mínimo fixado no presente decreto-lei, devem, sem prejuízo do disposto no número seguinte, proceder ao correspondente aumento até 31 de Dezembro de 1991.
 
 2 - O prazo previsto no número anterior poderá, a título excepcional e mediante solicitação fundamentada das empresas, dirigida ao Primeiro-Ministro e ao Ministro das Finanças, ser alargado por um período certo, em qualquer caso não superior a dois anos.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 9 de Janeiro de 1989.**
+Promulgado em 9 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Janeiro de 1989.**
+Referendado em 9 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

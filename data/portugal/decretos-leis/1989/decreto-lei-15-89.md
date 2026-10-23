@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/00900/01090116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1989-234363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c8af250a8f06e138f1537ad256947fbc55e526c5266876f59df09e0fb65b27f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46bea5e954476a62c0638a173b987940f09a204259a6a41771c1b5a251b12ac7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Quadro de Pessoal
+- Secretariado Técnico dos Assuntos para o Processo Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:520432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522860:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo pelo presente diploma, pelo DEC LEI.29/94.1994.02.05.MAI\
+    \ DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1994-522860
+  date: '1994-02-05'
+- type: amended_by
+  target: pt:dre:263259:por
+  label: "Alterado o quadro de pessoal pelo DN.387/94.1994.04.26.MAI, DR.IS-B [117] de 20/Mai/1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/387-1994-263259
+  date: '1994-04-26'
+- type: amended_by
+  target: pt:dre:3081182:por
+  label: "Criado um lugar de assessor principal de informática no quadro de pessoal, pela PORT.190/96IIS.1996.08.01.PCM, DR.IIS\
+    \ [233] de 08/Out/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/190-1996-3081182
+  date: '1996-08-01'
+- type: amended_by
+  target: pt:dre:2320816:por
+  label: "Alterado o quadro de pessoal pela PORT.685/97(2ªSÉRIE).1997.08.05.PCM, MF e MAI DR.IIS [203] de 03/Set/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/685-1997-2320816
+  date: '1997-08-05'
+- type: amended_by
+  target: pt:dre:138780:por
+  label: "Alterado o art. 3º e o Mapa I anexo a que se refere o art. 25º pelo DEC LEI.103/99.1999.03.31.MAI, DR.IS-A [76]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1999-138780
+  date: '1999-03-31'
+- type: amended_by
+  target: pt:dre:545640:por
+  label: "Extinto o Secretariado Técnico dos Assuntos para o Processo Eleitoral (STAPE) - primeiramente criado como Secretariado\
+    \ Técnico dos Assuntos Políticos no art. 1º do Dec Lei 746/74 de 27-Dez e posteriormente redenominado pelo Dec Lei 342/77\
+    \ de 19-Ago, cuja orgânica consta do presente diploma - pelo DEC LEI.203/2006.27.10.2006.MAI, DR.IS [208] de 27.10.2006,\
+    \ nos termos do disposto no respectivo art. 16º, sendo as suas atribuições integradas na Direcção-Geral da Administração\
+    \ Interna \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2006-545640
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663315:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:442506:por
+  label: Rectificado pela DECL.DD3842.1989.01.25.PCM, DR.IS [26]3ºSupl de 31/Jan/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-442506
+  date: '1989-01-25'
+- type: repealed_by
+  target: pt:dre:520432:por
+  label: "Revogado e determinado que a Direcção-Geral da Administração Interna suceda nas atribuições do secretariado Técnico\
+    \ dos Assuntos para o Processo Eleitoral, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.78/2007.29.03.2007.MAI,\
+    \ DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2007-520432
+  date: '2007-03-29'
 article_structure:
   article_count: 36
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:22Z'
   warnings: []
   errors: []
 ---
@@ -518,27 +578,27 @@ Quando, nos termos do artigo 35.º, se verifique mudança de carreira, será con
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.
 
-**Promulgado em 30 de Dezembro de 1988.**
+Promulgado em 30 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1989.**
+Referendado em 2 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa I a que se refere o artigo 25.º
 
 Quadro do pessoal do STAPE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/00900/01090116.pdf))](https://files.diariodarepublica.pt/1s/1989/01/00900/01090116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/00900/01090116.pdf)
 
 Mapa II a que se refere o artigo 25.º, n.º 2
 
 Dotação de pessoal do quadro único do MAI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/00900/01090116.pdf))](https://files.diariodarepublica.pt/1s/1989/01/00900/01090116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/00900/01090116.pdf)
 
 ## ANEXO — Conteúdos funcionais
 

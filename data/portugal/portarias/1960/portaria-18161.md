@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18161-1960-479923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14bd60c4f4b22da8128ab4541576065d2cd50c9fac574b009579d737775c7a19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcf393b7200d2425100110ff981adfea1245bf1ff3996280b880a62e61c83498
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:05Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 250000$00
+Artigo 5.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 250000$00
 
-###### Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento do material - De imóveis» ... 250000$00
+Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento do material - De imóveis» ... 250000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 3) «Despesas de comunicações - Transportes» ... 102000$00
+Artigo 9.º, n.º 3) «Despesas de comunicações - Transportes» ... 102000$00
 
 ... 602000$00
 
@@ -103,9 +107,9 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 1) «Encargos administrativos - Rendas de prédios urbanos e rústicos» ... 250000$00
+Artigo 10.º, n.º 1) «Encargos administrativos - Rendas de prédios urbanos e rústicos» ... 250000$00
 
-###### Artigo 14.º, n.º 1) «Contribuição para as despesas das forças aéreas de outras províncias - Província de S. Tomé» ... 352000$00
+Artigo 14.º, n.º 1) «Contribuição para as despesas das forças aéreas de outras províncias - Província de S. Tomé» ... 352000$00
 
 ... 602000$00
 

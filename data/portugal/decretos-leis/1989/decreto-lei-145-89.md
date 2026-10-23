@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10300/18261832.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1989-611742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d82dfbf47e3bbda5569fdb4c5f2424f7aaa19cf1ac4253ee3df0c08712cd3bf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5430f3065980edd84638f2937dadd06d74742ebb269060024f26e5921e047cf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agrupamento de Explorações Agrícolas
+- Agrupamento de Produtores
+- Ajuda Comunitária
+- Direito de Associação
+- Exploração Agrícola
+- Ifadap
+- Pecuária
+- Política Agrícola Comum
+- Produção Agrícola
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:185721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:185721:por
+  label: "Revogado pelo DEC LEI.49/95.1995.03.15.MA, DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1995-185721
+  date: '1995-03-15'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:12Z'
   warnings: []
   errors: []
 ---
@@ -209,15 +224,15 @@ Os artigos 1.º a 9.º do presente diploma produzem efeitos a partir da entrada 
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 14 de Abril de 1989.**
+Promulgado em 14 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Abril de 1989.**
+Referendado em 14 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Agroprodutores
 
@@ -225,7 +240,7 @@ Agroprodutores
 
 Condições de reconhecimento dos agrupamentos de produtores e suas uniões - artigos 5.º e 6.º do Regulamento (CEE) n.º [1360/78](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt), do Conselho, de 19 de Junho [alterado o artigo 6.º pelas alíneas i) e ii) do n.º 1 do artigo 3.º do Regulamento (CEE) n.º [1760/87](https://data.europa.eu/eli/reg/1987/1760/oj?locale=pt), do Conselho, de 15 de Junho] - e prazos de reconhecimento - artigo 7.º do mesmo Regulamento.
 
-###### Art. 5.º - 1 - Os agrupamentos de produtores são:
+Art. 5.º - 1 - Os agrupamentos de produtores são:
 
 Constituídos com o fim de adaptar em comum às exigências do mercado a produção e a oferta dos produtores seus membros;
 
@@ -245,7 +260,7 @@ Que, sendo produtor de produtos base, produza os produtos transformados referido
 
 3 - As uniões são compostas por agrupamentos de produtores reconhecidos e prosseguem os mesmos objectivos destes a um nível mais amplo.
 
-###### Art. 6.º - 1 - Todo o agrupamento de produtores ou união deve responder, nos limites do sector do ou dos produtos para os quais é reconhecido, às seguintes condições gerais:
+Art. 6.º - 1 - Todo o agrupamento de produtores ou união deve responder, nos limites do sector do ou dos produtos para os quais é reconhecido, às seguintes condições gerais:
 
 a) Contribuir para as actividades para as quais solicita o reconhecimento, para a realização dos objectivos do artigo 39.º do Tratado;
 
@@ -299,7 +314,7 @@ Oferta aos compradores grossistas.
 
 3 - ...
 
-###### Art. 7.º Os Estados membros respectivos:
+Art. 7.º Os Estados membros respectivos:
 
 Decidem da concessão do reconhecimento no prazo de três meses a partir da entrega do pedido;
 
@@ -309,13 +324,13 @@ Comunicam no prazo de dois meses a sua decisão à Comissão.
 
 Modalidades de aplicação relativas à actividade económica dos agrupamentos de produtores e suas uniões em Portugal fixadas na parte IV do anexo do Regulamento (CEE) n.º [2777/88](https://data.europa.eu/eli/reg/1988/2777/oj?locale=pt), da Comissão, de 7 de Agosto de 1988 [que vem alterar o Regulamento (CEE) n.º [2083/80](https://data.europa.eu/eli/reg/1980/2083/oj?locale=pt), da Comissão, de 31 de Julho de 1980].
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/10300/18261832.pdf))](https://files.diariodarepublica.pt/1s/1989/05/10300/18261832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/10300/18261832.pdf)
 
 ## ANEXO III
 
 Ajudas concedidas aos agrupamentos de produtores e suas uniões - n.º 2-A do artigo 10.º do Regulamento (CEE) n.º [1360/78](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt), do Conselho, de 19 de Junho [introduzido pelo n.º 2 do artigo 3.º do Regulamento (CEE) n.º [1760/87](https://data.europa.eu/eli/reg/1987/1760/oj?locale=pt), do Conselho, de 15 de Junho], n.º 3 do mesmo artigo e n.º 1 do seu artigo 11.º
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2-A - [...], o montante das ajudas concedidas aos agrupamentos de produtores reconhecidos após 1 de Junho de 1985 em relação aos cinco anos posteriores à data do seu reconhecimento:
 
@@ -331,7 +346,7 @@ a) É igual, no máximo, respectivamente em relação ao 1.º, 2.º e 3.º anos,
 
 b) Não poderá, todavia, exceder o montante global de 50000 unidades de conta.
 
-###### Art. 11.º - 1 - As ajudas previstas no artigo 10.º não são estabelecidas senão:
+Art. 11.º - 1 - As ajudas previstas no artigo 10.º não são estabelecidas senão:
 
 Na medida em que um agrupamento ou união não tenha já beneficiado de tal a título de uma legislação nacional;
 
@@ -345,7 +360,7 @@ Procedentes de organizações preexistentes ou criadas por produtores que perten
 
 Despesas efectivas de constituição e de funcionamento administrativo - n.os 1 e 3 do artigo 1.º do Regulamento (CEE) n.º [2084/80](https://data.europa.eu/eli/reg/1980/2084/oj?locale=pt), da Comissão, de 31 de Julho, relativo à determinação das despesas efectivas de constituição e de funcionamento administrativo dos agrupamentos de produtores e suas uniões.
 
-###### Artigo 1.º - 1 - As despesas efectivas de constituição e de funcionamento administrativo para os efeitos das alíneas b) do n.º 2 e a) do n.º 3 do artigo 10.º do Regulamento (CEE) n.º [1360/78](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt) são as seguintes:
+Artigo 1.º - 1 - As despesas efectivas de constituição e de funcionamento administrativo para os efeitos das alíneas b) do n.º 2 e a) do n.º 3 do artigo 10.º do Regulamento (CEE) n.º [1360/78](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt) são as seguintes:
 
 a) Despesas relativas aos trabalhos preparatórios visando a constituição dos agrupamentos ou das uniões, bem como despesas relativas à elaboração da sua acta de constituição e estatuto ou às suas alterações de acordo com as condições previstas nos artigos 4.º, 5.º e 6.º do Regulamento (CEE) n.º [1360/78](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt);
 

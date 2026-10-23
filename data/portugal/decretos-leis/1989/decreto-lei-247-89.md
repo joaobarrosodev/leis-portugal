@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/17900/31433150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1989-618878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 049536c741cbdffbaaee9be0d7f5f951b20e93a0fb61c309740a6f56b30c66b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed7e594b1695103f326e63ad2fe527ce7d0b34f4af493472be1b85b498d87019
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Barreira Arquitectónica
+- Deficiente
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Política de Emprego
+- Reconversão Profissional
 relationships:
 - type: amended_by
   target: pt:dre:914891326:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606685:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:239596:por
+  label: "Revogado o art. 46º pelo DEC LEI.8/98.1998.01.15.MSSS DR.IS-A [12]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1998-239596
+  date: '1998-01-15'
+- type: repealed_by
+  target: pt:dre:491685:por
+  label: "Revogado a partir de 11.11.2009, na redacção do Dec Lei 8/98, de 15-Jan, pelo DEC LEI.290/2009.12.10.2009.MTSSO,\
+    \ DR.IS [197] de 12.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-2009-491685
+  date: '2009-10-12'
 article_structure:
-  article_count: 50
+  article_count: 51
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:37Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +209,9 @@ O controlo técnico e pedagógico das acções apoiadas nos termos do presente d
 
 ### CAPÍTULO III — Regime do apoio ao programa de formação profissional
 
-#### SECÇÃO I — Artigo 7.º
+#### SECÇÃO I
+
+###### Artigo 7.º
 
 Formação profissional
 
@@ -533,12 +573,12 @@ A aplicação do presente diploma às Regiões Autónomas dos Açores e da Madei
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - José Albino da Silva Peneda.
 
-**Promulgado em 19 de Julho de 1989.**
+Promulgado em 19 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Julho de 1989.**
+Referendado em 25 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 158/1989, 1º Suplemento, Série I de 1989-07-12
   number: '158'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2796-(2) a 2796-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15801/00020005.pdf
 entry_into_force_dates: []
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-a-1989-359877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4daa6b7a4130ec319fdc8adf47530033fa6c9fae8a226041561281841b16a0a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b576070c4330a447271c7366f542e3ee57e377784382f5ccdf6d99bf3df01168
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação
+- Companhia Nacional de Petroquímica
+- Contrato de Concessão
+- Licenciamento
+- Petroquímica
 relationships:
 - type: amended_by
   target: pt:dre:262842:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262842:por
+  label: "Substituídas por 'Borealis Holding A/S' as referências feitas a 'Neste Oy', constantes no diploma preambular e na\
+    \ base XXII das bases anexas, pelo DEC LEI.132/94.1994.05.19.MF, DR.IS-A [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1994-262842
+  date: '1994-05-19'
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:08Z'
   warnings: []
   errors: []
 ---
@@ -102,21 +117,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - É adjudicada à NESTE - Produtos Químicos, S. A., mediante ajuste directo, em resultado do processo de consulta, apreciação e selecção de propostas com vista à reestruturação do complexo petroquímico de Sines, a exploração, em regime de concessão, do complexo industrial de olefinas pertencente à CNP - Companhia Nacional de Petroquímica, E. P., nos termos das bases anexas ao presente diploma, de que fazem parte integrante.
+Artigo único. - 1 - É adjudicada à NESTE - Produtos Químicos, S. A., mediante ajuste directo, em resultado do processo de consulta, apreciação e selecção de propostas com vista à reestruturação do complexo petroquímico de Sines, a exploração, em regime de concessão, do complexo industrial de olefinas pertencente à CNP - Companhia Nacional de Petroquímica, E. P., nos termos das bases anexas ao presente diploma, de que fazem parte integrante.
 
 2 - A minuta do contrato de concessão previsto no número anterior será aprovada pelos Ministros das Finanças e da Indústria e Energia, a quem compete também outorgar, em representação do Estado, no mesmo contrato.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
 
-**Promulgado em 12 de Julho de 1989.**
+Promulgado em 12 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1989.**
+Referendado em 12 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Bases a que se refere o Decreto-Lei n.º 227-A/89
 

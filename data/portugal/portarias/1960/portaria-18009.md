@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18009-1960-513794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c270cfa200d8671815fdfd11d15be4e68fdb2bf4545d1a8151fe349d0c80724d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 712e20d5e2a4dec4ef2957492ca77db04728691ed089af97757dadecc75ba742
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:49Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 220.º «Deslocações do pessoal»:
+Artigo 220.º «Deslocações do pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 15000$00
 
@@ -103,7 +107,7 @@ tomando como contrapartida as disponibilidades que se discriminam da mesma tabel
 
 Despesas com o pessoal
 
-###### Artigo 115.º «Remunerações certas ao pessoal em exercício»:
+Artigo 115.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 12261$40
 
@@ -111,7 +115,7 @@ N.º 2) «Pessoal contratado» ... 43279$30
 
 N.º 3) «Pessoal assalariado» ... 3278$00
 
-###### Artigo 117.º, n.º 1) «Outra despesas com o pessoal dentro da província - Subsídio para fardamento, nos termos do Diploma Legislativo n.º 858, de 28 de Outubro de 1944» ... 6181$30
+Artigo 117.º, n.º 1) «Outra despesas com o pessoal dentro da província - Subsídio para fardamento, nos termos do Diploma Legislativo n.º 858, de 28 de Outubro de 1944» ... 6181$30
 
 ... 65000$00
 
@@ -119,11 +123,11 @@ N.º 3) «Pessoal assalariado» ... 3278$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 246.º, n.º 4), alínea a) «Despesas de comunicações fora da província - Transporte de material, fretes e seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 10000$00
+Artigo 246.º, n.º 4), alínea a) «Despesas de comunicações fora da província - Transporte de material, fretes e seguros, despachos e outras despesas conexas - A pagar na metrópole» ... 10000$00
 
-###### Artigo 247.º, n.º 2), alínea a) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 30000$00
+Artigo 247.º, n.º 2), alínea a) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 30000$00
 
-###### Artigo 248.º, n.º 1), alínea b) «Diversas despesas - Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de férias» ... 36000$00
+Artigo 248.º, n.º 1), alínea b) «Diversas despesas - Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de férias» ... 36000$00
 
 ... 76000$00
 
@@ -131,23 +135,23 @@ tomando como contrapartida as disponibilidades que se discriminam da mesma tabel
 
 ### CAPÍTULO 2.º — Serviço de transportes aéreos
 
-###### Artigo 25.º, n.º 1) «Despesas com o pessoal - Remunerações acidentais - Gratificações» ... 3000$00
+Artigo 25.º, n.º 1) «Despesas com o pessoal - Remunerações acidentais - Gratificações» ... 3000$00
 
 ### CAPÍTULO 4.º — Polícia Internacional e de Defesa do Estado
 
-###### Artigo 123.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 40000$00
+Artigo 123.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 40000$00
 
 Serviços de saúde e higiene
 
-###### Artigo 138.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 15000$00
+Artigo 138.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 15000$00
 
 ### CAPÍTULO 7.º — Serviços de economia
 
-###### Artigo 178.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 13000$00
+Artigo 178.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 13000$00
 
 ### CAPÍTULO 9.º — Serviços de marinha
 
-###### Artigo 227.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 5000$00
+Artigo 227.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 5000$00
 
 ... 76000$00
 

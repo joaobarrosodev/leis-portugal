@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17980-1960-514793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80ec6584ab7ed31eed18a7de7648c0b2bfa1e6ed8cb45ffe09fdf9b6074e7133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40c68b82f974607c4ce84d3b04416cc3c1ea57b2b6b388482ef4121660540927
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão Reguladora dos Produtos Químicos e Farmacêuticos
+- Embalagem
+- Importação
+- Mercado Interno
+- Pesticida
+- Política de Preços
+- Preço de Venda
+- Produto Químico
 relationships:
 - type: amended_by
   target: pt:dre:555000:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:399991:por
+  label: "Eliminada a indicação relativa ao preço de venda ao público de cada embalagem referida na 8ª linha do n.º 18 pela\
+    \ PORT.806/84.13.10.1984.MCT, DR.IS [238] de 13.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/806-1984-399991
+  date: '1984-10-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:14Z'
   warnings: []
   errors: []
 ---

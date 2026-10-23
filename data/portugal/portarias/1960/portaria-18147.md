@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18147-1960-513441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a033413e16ee2faaeee3379e435ec06ce93f642492b5e94b2c6b678487819d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54ad34d9496b124410fa6a14572e5bffe54e45688b7845253fc89d1edbc57fd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,27 @@ relationships:
   target: pt:dre:693425:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693425:por
+  label: "Mantidas em vigor as tarifas provisórias da Junta Autónoma dos Portos de Barlavento do Algarve, aprovadas pela Port.\
+    \ n.º 15497, de 09-Ago-Agosto-1955, na redacção do presente diploma, pela PORT.19989.02.08.1963.MCOMN, DG.IS [181] de\
+    \ 02.08.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19989-1963-693425
+  date: '1963-08-02'
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:50Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +102,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de h
 
 ...
 
-###### Art. 55.º A licença de ocupação de terraplenos, terrenos marginais e do leito dos rios é concedida, nos termos da lei, directamente, a requerimento dos interessados, ou em hasta pública, quando a Junta o entender.
+Art. 55.º A licença de ocupação de terraplenos, terrenos marginais e do leito dos rios é concedida, nos termos da lei, directamente, a requerimento dos interessados, ou em hasta pública, quando a Junta o entender.
 
 Para licitação serve de base a taxa correspondente da tarifa especificada nos artigos seguintes.
 
@@ -99,7 +110,7 @@ Para licitação serve de base a taxa correspondente da tarifa especificada nos 
 
 ...
 
-###### Art. 57.º Pela ocupação de terraplenos do porto com depósitos ou vedações para minérios, carvão, madeira, etc., cobra-se:
+Art. 57.º Pela ocupação de terraplenos do porto com depósitos ou vedações para minérios, carvão, madeira, etc., cobra-se:
 
 Por períodos de quinze dias e por metro quadrado ... $40
 
@@ -107,7 +118,7 @@ Por ano e por metro quadrado ... 6$00
 
 ...
 
-###### Art. 61.º Pela ocupação de terrenos marginais com edificações, vedações, depósitos de qualquer natureza, etc., cobra-se:
+Art. 61.º Pela ocupação de terrenos marginais com edificações, vedações, depósitos de qualquer natureza, etc., cobra-se:
 
 Por períodos de quinze dias e por metro quadrado ... $20
 
@@ -115,17 +126,17 @@ Por ano e por metro quadrado ... 3$00
 
 ...
 
-###### Art. 98.º Pela elevação e descida de embarcações na rampa de S. Francisco cobram-se as taxas seguintes:
+Art. 98.º Pela elevação e descida de embarcações na rampa de S. Francisco cobram-se as taxas seguintes:
 
 A) Subida e descida de embarcações com ocupação da rampa até 3 períodos de 24 horas ... 150$00
 
 B) Descida de embarcações passado este prazo ... 150$00
 
-###### Art. 99.º Os trabalhos preparatórios de adaptação dos carros do plano inclinado e o aluguer de material especial de que a Junta não disponha, incluindo material e mão-de-obra, são pagos pelos interessados.
+Art. 99.º Os trabalhos preparatórios de adaptação dos carros do plano inclinado e o aluguer de material especial de que a Junta não disponha, incluindo material e mão-de-obra, são pagos pelos interessados.
 
-###### Art. 100.º É obrigatória a utilização dos acessórios (macacos, escadas, cavaletes, calços de madeira, etc.) fornecidos pela Junta, conforme tabela elaborada pela comissão administrativa.
+Art. 100.º É obrigatória a utilização dos acessórios (macacos, escadas, cavaletes, calços de madeira, etc.) fornecidos pela Junta, conforme tabela elaborada pela comissão administrativa.
 
-###### Art. 101.º Pelo encalhe de embarcações para preparação ou limpeza cobra-se:
+Art. 101.º Pelo encalhe de embarcações para preparação ou limpeza cobra-se:
 
 a) Na rampa de S. Francisco, por dia e por embarcação:
 
@@ -145,11 +156,11 @@ c) A contagem dos dias far-se-á desde o início do encalhe, não sendo de desco
 
 ...
 
-###### Art. 112.º As instalações eléctricas efectuadas pela Junta em armazéns a utilizar por particulares, mediante arrendamento ou qualquer outra modalidade de ocupação, serão sujeitas a uma taxa mensal fixada pela comissão administrativa em função da amortização dessas instalações, sendo o consumo respectivo pago pelo ocupante.
+Art. 112.º As instalações eléctricas efectuadas pela Junta em armazéns a utilizar por particulares, mediante arrendamento ou qualquer outra modalidade de ocupação, serão sujeitas a uma taxa mensal fixada pela comissão administrativa em função da amortização dessas instalações, sendo o consumo respectivo pago pelo ocupante.
 
 ...
 
-###### Art. 117.º Para afixação de anúncios e reclames cobra-se:
+Art. 117.º Para afixação de anúncios e reclames cobra-se:
 
 a) Anúncios luminosos:
 
@@ -171,7 +182,7 @@ f) Afixação de cartazes ou anúncios, quando permitidos, por cada e por mês .
 
 ...
 
-###### Art. 134.º Para reconstrução geral ou parcial de edifícios, alpendres ou outras coberturas:
+Art. 134.º Para reconstrução geral ou parcial de edifícios, alpendres ou outras coberturas:
 
 a) Com alteração na disposição exterior:
 
@@ -187,19 +198,19 @@ Por metro corrente de beirado ou alpendre correspondentes à zona a beneficiar .
 
 ...
 
-###### Art. 137.º Para reconstrução geral ou parcial de vedações:
+Art. 137.º Para reconstrução geral ou parcial de vedações:
 
 Por metro corrente de vedação reconstruída ... 1$00
 
 ...
 
-###### Art. 140.º Para caiações, pinturas, etc., de edifícios:
+Art. 140.º Para caiações, pinturas, etc., de edifícios:
 
 Por metro corrente de fachada correspondente à zona a beneficiar ... 1$00
 
 ...
 
-###### Art. 142.º Para comércio ou divertimentos nos terrenos da Junta com instalações de carácter temporário, por períodos de quinze dias ou fracção e por metro quadrado ... 1$00
+Art. 142.º Para comércio ou divertimentos nos terrenos da Junta com instalações de carácter temporário, por períodos de quinze dias ou fracção e por metro quadrado ... 1$00
 
 ...
 

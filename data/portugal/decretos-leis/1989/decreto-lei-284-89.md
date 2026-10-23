@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1989-618480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07bfd65be43960ac26bf8ee0bb48dbf8f5dfe55f94504be21724152727d18bd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88ec7102e3b917e910523db0bba53595c14ae981e9d61b1e35b61f0ace7a43fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amianto
+- Aproximação das Legislações
+- Doença Profissional
+- Higiene do Trabalho
+- Saúde
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:636752:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:675225:por
+  label: "ALTERADOS OS ARTIGOS 1, 2, 9 E 11 PELO DECRETO LEI 389/93, DE 20 DE NOVEMBRO, PUBLICADO NO DR.IS-A, 272, DE 931120.\0\
+    1120.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1993-675225
+- type: amended_by
+  target: pt:dre:345124:por
+  label: "Alterado o art. 23.º pela LEI.113/99.1999.08.03.AR DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/113-1999-345124
+  date: '1999-08-03'
+- type: corrected_by
+  target: pt:dre:505269:por
+  label: Rectificado pela DECL.DD3509.1989.10.12.PCM, DR.IS [251]2ºSupl de 31/Out/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505269
+  date: '1989-10-12'
+- type: repealed_by
+  target: pt:dre:636752:por
+  label: "Revogado a partir de 24.08.2007 pelo DEC LEI.266/2007.24.07.2007.MTSSO, DR.IS [141] de 24.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-2007-636752
+  date: '2007-07-24'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:38Z'
   warnings: []
   errors: []
 ---
@@ -224,7 +250,7 @@ C(índice t) = concentração média ponderada para o turno de duração t.
 
 6 - Na colheita de várias amostras de diferentes durações, a concentração média ponderada no tempo deve ser calculada de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
 
 7 - A amostragem pode ser efectuada por grupo sempre que existam vários trabalhadores a desempenhar no mesmo local de trabalho tarefas idênticas ou similares, com um risco de exposição análogo e com hábitos de trabalho semelhantes.
 
@@ -468,15 +494,15 @@ g) De 250000$00 a 1000000$00, a violação do disposto nos n.os 1 e 2 do artigo 
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - António José de Castro Bagão Félix.
 
-**Promulgado em 28 de Julho de 1989.**
+Promulgado em 28 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Agosto de 1989.**
+Referendado em 4 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Método de referência indicado no n.º 1 do artigo 6.º para a medição da concentração de amianto na atmosfera no local de trabalho
 
@@ -494,7 +520,7 @@ Visto e aprovado em Conselho de Ministros de 1 de Junho de 1989. - Aníbal Antó
 
 Duração da amostra simples
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
 
 7 - O filtro no seu todo de preferência ou, então, um segmento do filtro, colocado numa lamina de microscópio, deve ser tornado transparente pelo método de acetona-triacetina e deve ser coberto com uma lamela de vidro.
 
@@ -510,7 +536,7 @@ d) Oculares de compensação com uma ampliação de 12,5 vezes; uma das oculares
 
 e) Um retículo de ocular de Walton-Beckett, com um diâmetro aparente, no plano do objecto, de 100 (mi)m(mais ou menos)2 (mi)m quando sejam usados a objectiva e a ocular especificadas, e verificado por meio de um micrómetro situado na platina.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
 
 9 - O microscópio deve ser instalado de acordo com as instruções do fabricante e o limite de detecção deve ser verificado por intermédio de uma lamina de fase. Se as instruções fornecidas pelo fabricante foram respeitadas, será visível uma parte, indo até ao código 5 nas laminas ALA ou até ao bloco 5 na lamina HSE/NPL Mark 2. Esta operação deve ser efectuada no início do dia da utilização.
 
@@ -530,19 +556,19 @@ e) Relativamente a qualquer outro aglomerado de fibras no qual se toquem ou cruz
 
 a) Fibras simples. - São as fibras mais simples de identificar e de contar e as mais comuns. As fibras de amosite e de crocidolite geralmente apresentam-se com forma de agulhas. As fibras de crisótilo, além da forma recta, apresentam-se frequentemente com a forma curva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
 
 b) Fibras divididas. - Deverão ser contadas como fibra somente, excepto nos casos Q e R.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
 
 c) Fibras agrupadas. - Formam-se quando as fibras se sobrepõem, se entrelaçam ou se reúnem. A forma mais simples é quando duas fibras se sobrepõem, cruzando-se. Neste caso consideram-se duas fibras para efeitos de contagem. Nas formas mais complexas formam feixes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
 
 d) Fibras ligadas a outras partículas. - Este grupo consiste em fibras ligadas e ou embebidas em outra substância (resinas, cimento, silicatos, etc.). Se a substância não tem mais de 3 (mi)m de largura, todas as fibras em conformidade com a definição devem ser contadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
 
 Se mais de um oitavo de uma superfície de retículo estiver coberto por um aglomerado de fibras e ou partículas, esta superfície de retículo deve ser rejeitada e contar-se outra.
 
@@ -572,4 +598,4 @@ t = duração de uma amostra simples (minutos).
 
 13 - O esquema de amostragem de fibras de amianto será o seguinte, por ordem de preferência quanto à confiança de avaliação da exposição, baseado no Reference Method for the Determination of Airborne Asbestos Fibre Concentration at Workplaces by Light Microscopy (Membrane Filter Method), editado pela Associação Internacional dos Asbestos, em 1982.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19400/35403548.pdf)

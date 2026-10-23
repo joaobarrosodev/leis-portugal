@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/11500/20192022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1989-610762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd2147fdc0dc2876d2c3bacc530f4741cdc1166862a2dbe0914ffe1744e8d874
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a55bd21496c26040a5e14dfe80bcfde2c9d8affe3d64392074019015b0e05eae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Embarcação
+- Estágio de Formação
+- Instituto Marítimo-portuário
+- Licença de Pilotagem
+- Navegação Marítima
+- Pessoal Navegante
+- Pilotagem
+- Portos
+- Qualificação Profissional
+- Regulamento Geral do Serviço de Pilotagem dos Portos e Barras
+- Segurança da Navegação
+- Serviço de Pilotagem dos Portos e Barras
 relationships:
 - type: amended_by
   target: pt:dre:251980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506016:por
+  label: "Suspensa a aplicação nos portos do continente da al. a) do art. 15º do Regulamento aprovado pelo presente diploma,\
+    \ pelo DEC LEI.234-A/98.1998.07.22.MEPAT DR.IS-A [167]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-a-1998-506016
+  date: '1998-07-22'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:251980:por
+  label: "Revogado pelo DEC LEI.48/2002.2002.03.02.MES DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2002-251980
+  date: '2002-03-02'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:42Z'
   warnings: []
   errors: []
 ---
@@ -110,21 +162,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento Geral do Serviço de Pilotagem dos Portos e Barras, publicado em anexo a este diploma, de que faz parte integrante.
+Artigo 1.º É aprovado o Regulamento Geral do Serviço de Pilotagem dos Portos e Barras, publicado em anexo a este diploma, de que faz parte integrante.
 
-###### Art. 2.º É revogado o [Decreto-Lei n.º 360/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1978-429269), de 27 de Novembro.
+Art. 2.º É revogado o [Decreto-Lei n.º 360/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1978-429269), de 27 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Gonzaga de Sousa Morais Cardoso - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 4 de Maio de 1989.**
+Promulgado em 4 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1989.**
+Referendado em 4 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento Geral do Serviço de Pilotagem dos Portos e Barras
 
@@ -132,7 +184,7 @@ Regulamento Geral do Serviço de Pilotagem dos Portos e Barras
 
 #### SECÇÃO I — Da pilotagem
 
-###### Artigo 1.º - 1 - A pilotagem é o serviço de assistência às embarcações para entrada e saída dos portos e barras e para navegação e manobras no interior e exterior dos mesmos, nas calas e radas, nas águas marítimas e fluviais dos rios e canais e em todas as instalações colocadas nas águas sob soberania e jurisdição nacionais.
+Artigo 1.º - 1 - A pilotagem é o serviço de assistência às embarcações para entrada e saída dos portos e barras e para navegação e manobras no interior e exterior dos mesmos, nas calas e radas, nas águas marítimas e fluviais dos rios e canais e em todas as instalações colocadas nas águas sob soberania e jurisdição nacionais.
 
 2 - A pilotagem, enquanto serviço público, será assegurada no continente por órgãos locais de pilotagem enquadrados no Instituto Nacional de Pilotagem dos Portos, na Região Autónoma da Madeira pelo organismo a que esse serviço estiver atribuído e na Região Autónoma dos Açores pela Marinha.
 
@@ -140,7 +192,7 @@ Regulamento Geral do Serviço de Pilotagem dos Portos e Barras
 
 #### SECÇÃO II — Dos movimentos e manobras
 
-###### Art. 2.º A pilotagem compreende a assistência às embarcações nos seguintes movimentos e manobras:
+Art. 2.º A pilotagem compreende a assistência às embarcações nos seguintes movimentos e manobras:
 
 a) Na navegação na entrada, saída, interior dos portos, barras, calas e canais;
 
@@ -168,7 +220,7 @@ m) Na manobra de espiar âncoras;
 
 n) Na navegação e manobras em serviços não especificados que impliquem a presença de piloto.
 
-###### Art. 3.º Para efeitos do disposto na alínea a) do artigo 2.º, entende-se por navegação na entrada, saída, interior de portos, barras, calas e canais:
+Art. 3.º Para efeitos do disposto na alínea a) do artigo 2.º, entende-se por navegação na entrada, saída, interior de portos, barras, calas e canais:
 
 a) Navegação na entrada de portos ou barras é o movimento efectuado desde a entrada da embarcação nos limites da área de pilotagem obrigatória até ao local de estacionamento no interior do porto;
 
@@ -176,23 +228,23 @@ b) Navegação na saída de portos ou barras é o movimento efectuado pela embar
 
 c) Navegação no interior de portos, calas e canais é o movimento efectuado pela embarcação dentro dos limites do porto, entre locais de estacionamento.
 
-###### Art. 4.º Para efeitos do disposto na alínea b) do artigo 2.º, entende-se por navegação dentro e fora dos portos para experiências de máquinas ou outros aparelhos e equipamentos, provas de velocidade, regulação e calibração, o movimento efectuado desde o momento em que a embarcação inicia uma ou mais daquelas operações até que as termina.
+Art. 4.º Para efeitos do disposto na alínea b) do artigo 2.º, entende-se por navegação dentro e fora dos portos para experiências de máquinas ou outros aparelhos e equipamentos, provas de velocidade, regulação e calibração, o movimento efectuado desde o momento em que a embarcação inicia uma ou mais daquelas operações até que as termina.
 
-###### Art. 5.º Para efeitos do disposto na alínea c) do artigo 2.º, entende-se por manobras de fundear ou suspender:
+Art. 5.º Para efeitos do disposto na alínea c) do artigo 2.º, entende-se por manobras de fundear ou suspender:
 
 a) Manobra de fundear é a que se inicia com a aproximação da embarcação ao local do fundeadouro para largar o ferro e termina logo que este tenha unhado e a amarra tenha o comprimento devido;
 
 b) Manobra de suspender é a que se inicia com o virar da amarra e termina logo que o ferro ou ferros estejam de novo prontos a largar.
 
-###### Art. 6.º Para efeitos do disposto na alínea d) do artigo 2.º, entende-se por manobra de atracar e de desatracar:
+Art. 6.º Para efeitos do disposto na alínea d) do artigo 2.º, entende-se por manobra de atracar e de desatracar:
 
 a) Manobra de atracar é a que se inicia com a aproximação da embarcação ao local da atracação, se passa o primeiro cabo ou se larga o primeiro ferro e termina logo que estejam com volta todos os cabos;
 
 b) Manobra de desatracar é a que se inicia com a largada do primeiro cabo e termina logo que se largue o último ou o ferro ou ferros fiquem prontos a largar.
 
-###### Art. 7.º Para efeitos do disposto na alínea e) do artigo 2.º, entende-se por manobra de rocegar amarras, ferros ou outros objectos a que se inicia com a aproximação da embarcação ao local da rocega e termina com a recolha do objecto a rocegar ou com a desistência do serviço.
+Art. 7.º Para efeitos do disposto na alínea e) do artigo 2.º, entende-se por manobra de rocegar amarras, ferros ou outros objectos a que se inicia com a aproximação da embarcação ao local da rocega e termina com a recolha do objecto a rocegar ou com a desistência do serviço.
 
-###### Art. 8.º Para efeitos do disposto na alínea f) do artigo 2.º, entende-se por manobra de amarrar a dois ferros, bóias e estacas e tirar voltas a amarras:
+Art. 8.º Para efeitos do disposto na alínea f) do artigo 2.º, entende-se por manobra de amarrar a dois ferros, bóias e estacas e tirar voltas a amarras:
 
 a) Manobra de amarrar a dois ferros é a que se inicia com a aproximação da embarcação ao local do fundeadouro, se larga o primeiro ferro e termina logo que o último tenha unhado e as amarras tenham o comprimento devido;
 
@@ -204,35 +256,35 @@ d) Manobra de desamarrar de bóias ou de estacas é a que se inicia com a largad
 
 e) Manobra de tirar voltas a amarras é a que se inicia com a clarificação das amarras e termina logo que a embarcação fique com os ferros e amarras prontos a largar.
 
-###### Art. 9.º Para efeitos do disposto na alínea g) do artigo 2.º, entende-se por manobra de entrada e de saída de docas secas, diques ou planos inclinados:
+Art. 9.º Para efeitos do disposto na alínea g) do artigo 2.º, entende-se por manobra de entrada e de saída de docas secas, diques ou planos inclinados:
 
 a) Manobra de entrada em doca seca, dique ou plano inclinado é a que se inicia com a aproximação da embarcação da entrada e termina logo que esteja em condições de segurança naquelas instalações;
 
 b) Manobra de saída de doca seca, dique ou plano inclinado é a que se inicia com o preparar do movimento de daída da embarcação e termina logo que esta tenha passado a boca da doca ou dique ou, no caso do plano inclinado, se encontre a flutuar em condições de segurança.
 
-###### Art. 10.º Para efeitos do disposto na alínea h) do artigo 2.º, entende-se por manobra de encalhar e de desencalhar em praia ou varadouro:
+Art. 10.º Para efeitos do disposto na alínea h) do artigo 2.º, entende-se por manobra de encalhar e de desencalhar em praia ou varadouro:
 
 a) Manobra de encalhar em praia ou varadouro é a que se inicia com a aproximação da embarcação ao local e termina logo que esta esteja encalhada ou varada;
 
 b) Manobra de desencalhar em praia ou varadouro é a que se inicia com a preparação do movimento da embarcação e termina logo que a mesma se encontre a flutuar em condições de segurança.
 
-###### Art. 11.º Para efeitos do disposto na alínea i) do artigo 2.º, entende-se por manobra de arrear e de rondar cabos a uma embarcação para manobra de outra que esteja por dentro ou por fora a que se inicia com o arrear ou largar do primeiro cabo e termina logo que a embarcação volte a estar devidamente atracada.
+Art. 11.º Para efeitos do disposto na alínea i) do artigo 2.º, entende-se por manobra de arrear e de rondar cabos a uma embarcação para manobra de outra que esteja por dentro ou por fora a que se inicia com o arrear ou largar do primeiro cabo e termina logo que a embarcação volte a estar devidamente atracada.
 
-###### Art. 12.º Para efeitos do disposto na alínea j) do artigo 2.º, entende-se por manobra de colocar ou de suspender amarrações fixas, com ou sem bóias, a que se inicia com a aproximação da embarcação ao local de amarração fixa e termina logo que estejam colocados ou recolhidos todos os seus componentes.
+Art. 12.º Para efeitos do disposto na alínea j) do artigo 2.º, entende-se por manobra de colocar ou de suspender amarrações fixas, com ou sem bóias, a que se inicia com a aproximação da embarcação ao local de amarração fixa e termina logo que estejam colocados ou recolhidos todos os seus componentes.
 
-###### Art. 13.º Para efeitos do disposto na alínea l) do artigo 2.º, entende-se por manobra de correr ao longo do cais ou de outras estruturas de amarração a que se inicia com a mudança do primeiro cabo do cabeço de amarração e termina logo que a amarração esteja com volta no local definitivo.
+Art. 13.º Para efeitos do disposto na alínea l) do artigo 2.º, entende-se por manobra de correr ao longo do cais ou de outras estruturas de amarração a que se inicia com a mudança do primeiro cabo do cabeço de amarração e termina logo que a amarração esteja com volta no local definitivo.
 
-###### Art. 14.º Para efeitos do disposto na alínea m) do artigo 2.º, entende-se por manobra de espiar âncoras a que se inicia com a colocação da âncora na embarcação que a vai transportar, se larga a âncora e termina logo que esta fique unhada.
+Art. 14.º Para efeitos do disposto na alínea m) do artigo 2.º, entende-se por manobra de espiar âncoras a que se inicia com a colocação da âncora na embarcação que a vai transportar, se larga a âncora e termina logo que esta fique unhada.
 
 ### CAPÍTULO II — Obrigatoriedade de pilotagem
 
-###### Art. 15.º Os portos e áreas em que a pilotagem é obrigatória serão definidos:
+Art. 15.º Os portos e áreas em que a pilotagem é obrigatória serão definidos:
 
 a) No continente, por portaria dos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações;
 
 b) Nas Regiões Autónomas dos Açores e da Madeira, por portaria dos respectivos Ministros da República e dos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 16.º - 1 - Estão dispensados da obrigatoriedade de recurso aos serviços de pilotagem:
+Art. 16.º - 1 - Estão dispensados da obrigatoriedade de recurso aos serviços de pilotagem:
 
 a) Os navios da Armada nacional e as unidades auxiliares de marinha;
 
@@ -252,7 +304,7 @@ f) Outras embarcações, movimentos e manobras constantes nos regulamentos locai
 
 #### SECÇÃO I — Das licenças de pilotagem
 
-###### Art. 17.º - 1 - Os organismos referidos no n.º 2 do artigo 1.º poderão conceder licenças de pilotagem a comandantes de embarcações para determinado porto ou parte dele, nos termos do regulamento a aprovar, no continente e na Região Autónoma dos Açores, pelos respectivos ministros da tutela e, na Região Autónoma da Madeira, pelos respectivos órgãos de governo próprio.
+Art. 17.º - 1 - Os organismos referidos no n.º 2 do artigo 1.º poderão conceder licenças de pilotagem a comandantes de embarcações para determinado porto ou parte dele, nos termos do regulamento a aprovar, no continente e na Região Autónoma dos Açores, pelos respectivos ministros da tutela e, na Região Autónoma da Madeira, pelos respectivos órgãos de governo próprio.
 
 2 - As licenças referidas no número anterior serão concedidas por um período de dois anos, renovável, a requerimento dos interessados que preencham os seguintes requisitos:
 
@@ -274,9 +326,9 @@ c) Desrespeite, de forma reiterada, as normas de segurança e as normas de funci
 
 #### SECÇÃO II — Das obrigações e responsabilidades da embarcação
 
-###### Art. 18.º A pilotagem é prestada mediante requisição, nos termos dos regulamentos locais de pilotagem, que conterá obrigatoriamente o nome da embarcação, o serviço pretendido e a data e hora para que o mesmo é requisitado.
+Art. 18.º A pilotagem é prestada mediante requisição, nos termos dos regulamentos locais de pilotagem, que conterá obrigatoriamente o nome da embarcação, o serviço pretendido e a data e hora para que o mesmo é requisitado.
 
-###### Art. 19.º São obrigações da embarcação a pilotar:
+Art. 19.º São obrigações da embarcação a pilotar:
 
 a) Dispor de meios adequados para entrada e saída do piloto, conforme estabelecido, designadamente, na Convenção para Salvaguarda da Vida Humana no Mar, aprovada pelo [Decreto do Governo n.º 78/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/78-1983-441485), de 14 de Outubro, sem o que o piloto não será obrigado a embarcar;
 
@@ -284,31 +336,31 @@ b) Seguir as indicações da embarcação utilizada para o transporte do piloto,
 
 c) Prestar todos os escalerecimentos sobre calados e condições de manobrabilidade da embarcação que possam interessar à prestação do serviço de pilotagem.
 
-###### Art. 20.º A responsabilidade pelos danos causados ao piloto e à embarcação que o transporte quando não cumpridas as regras estabelecidas no artigo anterior cabe à embarcação a que está a ser prestado o serviço.
+Art. 20.º A responsabilidade pelos danos causados ao piloto e à embarcação que o transporte quando não cumpridas as regras estabelecidas no artigo anterior cabe à embarcação a que está a ser prestado o serviço.
 
-###### Art. 21.º A responsabilidade pelos danos provenientes de quaisquer avarias ou acidentes cabe à embarcação que os causar, tenha ou não piloto a bordo e seja ou não a sua presença obrigatória.
+Art. 21.º A responsabilidade pelos danos provenientes de quaisquer avarias ou acidentes cabe à embarcação que os causar, tenha ou não piloto a bordo e seja ou não a sua presença obrigatória.
 
 #### SECÇÃO III — Do embarque e desembarque do piloto
 
-###### Art. 22.º A pilotagem faz-se com a presença de piloto a bordo, podendo, excepcionalmente, fazer-se por sinais ou outros meios de comunicação e orientação sempre que o embarque do piloto não seja possível ou nas circunstâncias previstas no n.º 2 do artigo seguinte.
+Art. 22.º A pilotagem faz-se com a presença de piloto a bordo, podendo, excepcionalmente, fazer-se por sinais ou outros meios de comunicação e orientação sempre que o embarque do piloto não seja possível ou nas circunstâncias previstas no n.º 2 do artigo seguinte.
 
-###### Art. 23.º - 1 - Nas entradas e nas saídas dos portos, o piloto embarcará e desembarcará nos limites das áreas de pilotagem obrigatória.
+Art. 23.º - 1 - Nas entradas e nas saídas dos portos, o piloto embarcará e desembarcará nos limites das áreas de pilotagem obrigatória.
 
 2 - Os regulamentos locais de pilotagem poderão incluir a definição das circunstâncias em que o piloto poderá embarcar ou desembarcar no interior da área de pilotagem obrigatória de cada porto.
 
-###### Art. 24.º - 1 - Excepcionalmente, a pilotagem pode compreender o embarque do piloto fora da área de jurisdição do órgão local de pilotagem do porto de destino da embarcação.
+Art. 24.º - 1 - Excepcionalmente, a pilotagem pode compreender o embarque do piloto fora da área de jurisdição do órgão local de pilotagem do porto de destino da embarcação.
 
 2 - A prestação do serviço previsto no número anterior depende da disponibilidade de piloto para o efeito.
 
 #### SECÇÃO IV — Das competências e obrigações do piloto
 
-###### Art. 25.º - 1 - No exercício das suas funções ao serviço da embarcação, ao piloto compete informar e aconselhar o comandante da embarcação sobre a navegação e todos os movimentos e manobras a efectuar.
+Art. 25.º - 1 - No exercício das suas funções ao serviço da embarcação, ao piloto compete informar e aconselhar o comandante da embarcação sobre a navegação e todos os movimentos e manobras a efectuar.
 
 2 - Sempre que o piloto, com o acordo expresso ou tácito do comandante, der ordens para a execução de manobras, deve entender-se que o faz em nome e sob a exclusiva responsabilidade do comandante.
 
 3 - O piloto tem o direito de recusar a pilotagem requerida quando a embarcação a pilotar constitua perigo para a segurança da navegação ou para o meio marinho.
 
-###### Art. 26.º São obrigações gerais do piloto:
+Art. 26.º São obrigações gerais do piloto:
 
 a) Aconselhar ao comandante da embarcação o pessoal e os meios necessários à execução das manobras em condições de segurança;
 
@@ -318,7 +370,7 @@ c) Obter do comandante da embarcação os esclarecimentos sobre calados e condi�
 
 d) Sugerir ao comandante da embarcação as medidas que julgue necessárias para suprir as faltas ou deficiências da embarcação de que tenha conhecimento.
 
-###### Art. 27.º São obrigações específicas do piloto:
+Art. 27.º São obrigações específicas do piloto:
 
 a) Indicar ao comandante da embarcação as zonas onde é proibido fundear, as zonas que se encontrem próximas de cabos ou condutas submarinas, bem como outras limitações impostas pela segurança marítima;
 
@@ -332,15 +384,15 @@ e) Participar imediatamente às autoridades marítima e portuária qualquer recu
 
 #### SECÇÃO V — Das embarcações de pilotagem e das comunicações
 
-###### Art. 28.º Os organismos referidos no n.º 2 do artigo 1.º devem dispor de embarcações adequadas e com meios de comunicação e outros equipamentos necessários ao desempenho das suas funções.
+Art. 28.º Os organismos referidos no n.º 2 do artigo 1.º devem dispor de embarcações adequadas e com meios de comunicação e outros equipamentos necessários ao desempenho das suas funções.
 
-###### Art. 29.º As embarcações devem ser de fácil identificação, com pintura, luzes e sinais, de acordo com a prática e as regras internacionais e segundo os regulamentos dos organismos referidos no n.º 2 do artigo 1.º
+Art. 29.º As embarcações devem ser de fácil identificação, com pintura, luzes e sinais, de acordo com a prática e as regras internacionais e segundo os regulamentos dos organismos referidos no n.º 2 do artigo 1.º
 
-###### Art. 30.º As indicações relativas à prática dos portos e seus acessos, às manobras a efectuar e ao embarque e desembarque de pilotos serão transmitidas pelos serviços de pilotagem por intermédio de equipamento rádio, ou por quaisquer meios de comunicação, nos termos legalmente autorizados.
+Art. 30.º As indicações relativas à prática dos portos e seus acessos, às manobras a efectuar e ao embarque e desembarque de pilotos serão transmitidas pelos serviços de pilotagem por intermédio de equipamento rádio, ou por quaisquer meios de comunicação, nos termos legalmente autorizados.
 
 #### SECÇÃO VI — Das taxas
 
-###### Art. 31.º - 1 - Os organismos referidos no n.º 2 do artigo 1.º cobrarão das embarcações, ou das entidades que as representam, as taxas previstas nos regulamentos de taxas de pilotagem a aprovar, para o continente e Região Autónoma dos Açores, pelos respectivos ministros da tutela e, para a Região Autónoma da Madeira, pelos respectivos órgãos de governo próprio.
+Art. 31.º - 1 - Os organismos referidos no n.º 2 do artigo 1.º cobrarão das embarcações, ou das entidades que as representam, as taxas previstas nos regulamentos de taxas de pilotagem a aprovar, para o continente e Região Autónoma dos Açores, pelos respectivos ministros da tutela e, para a Região Autónoma da Madeira, pelos respectivos órgãos de governo próprio.
 
 2 - Os organismos referidos no n.º 2 do artigo 1.º podem exigir, para assegurar o pagamento dos serviços requeridos, um depósito em dinheiro ou qualquer outra forma de garantia.
 
@@ -348,16 +400,16 @@ e) Participar imediatamente às autoridades marítima e portuária qualquer recu
 
 ### CAPÍTULO IV — Contra-ordenações
 
-###### Art. 32.º - 1 - Constitui contra-ordenação a execução de movimentos e manobras sem recurso à pilotagem, quando obrigatório.
+Art. 32.º - 1 - Constitui contra-ordenação a execução de movimentos e manobras sem recurso à pilotagem, quando obrigatório.
 
 2 - A negligência é punível.
 
 3 - A contra-ordenação prevista no n.º 1 será punida com coima de 100000$00 a 200000$00.
 
-###### Art. 33.º - 1 - O processamento das contra-ordenações e a aplicação das coimas será da competência do capitão do porto com jurisdição na área.
+Art. 33.º - 1 - O processamento das contra-ordenações e a aplicação das coimas será da competência do capitão do porto com jurisdição na área.
 
 2 - À contra-ordenação referida no artigo anterior é aplicável, subsidiariamente, o regime geral das contra-ordenações, previsto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-###### Art. 34.º A aplicação da coima prevista no n.º 3 do artigo 32.º não prejudica o pagamento das taxas de pilotagem, como se o serviço tivesse sido prestado.
+Art. 34.º A aplicação da coima prevista no n.º 3 do artigo 32.º não prejudica o pagamento das taxas de pilotagem, como se o serviço tivesse sido prestado.
 
-###### Art. 35.º O produto das coimas previstas no artigo 32.º constitui receita do Instituto Nacional de Pilotagem dos Portos, com excepção das cobradas nas Regiões Autónomas dos Açores e da Madeira, que costituem receita própria da respectiva região.
+Art. 35.º O produto das coimas previstas no artigo 32.º constitui receita do Instituto Nacional de Pilotagem dos Portos, com excepção das cobradas nas Regiões Autónomas dos Açores e da Madeira, que costituem receita própria da respectiva região.

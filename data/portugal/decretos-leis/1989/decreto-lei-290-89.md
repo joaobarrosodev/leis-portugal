@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1989-546984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46836da21b1d89ac7d3bf39795f658b5a809a7064ab5d6d072bd4441e357fb55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6d8bf741c9b8f83a3c3b61fccb41bbad080dc2a6f5ffcdccadd58a31277e564
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de Participações do Estado
+- Empresa Participada
+- Privatização
+- Setor Público
+relationships:
+- type: cites
+  target: pt:dre:355521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:43Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +108,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 5.º e 10.º do [Decreto-Lei n.º 328/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1988-355521), de 27 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 5.º e 10.º do [Decreto-Lei n.º 328/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1988-355521), de 27 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 5.º — [...]
 
@@ -114,12 +126,12 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 71/88](https:
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Jorge Manuel de Oliveira Godinho - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 15 de Agosto de 1989.**
+Promulgado em 15 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1989.**
+Referendado em 22 de Agosto de 1989.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo.

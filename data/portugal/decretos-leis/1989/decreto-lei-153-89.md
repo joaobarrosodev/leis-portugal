@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10700/18601866.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1989-611694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b348850dbd2d026a2014b33d232344392ac6de3bf54e5d6adf7be860abbb5f99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 848f21735b27e67a9208fe0fdc26320899307c6ba2e6fe897ca3ddb05867c9b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Radiocomunicações
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:508468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:272591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662331:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:321966:por
+  label: Rectificado [no referente aos art. 24º, 25º, 26º e 29º e à parte final] pela DECL.DD3874.1989.06.27.PCM DR.IS [148]Supl
+    30.06.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-321966
+  date: '1989-06-27'
+- type: repealed_by
+  target: pt:dre:508468:por
+  label: "Revogado pelo DEC LEI.47/2000.2000.03.24.MES DR.IS-A [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2000-508468
+  date: '2000-03-24'
 article_structure:
-  article_count: 38
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 37
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:22Z'
   warnings: []
   errors: []
 ---
@@ -104,27 +133,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Serviço Rádio Pessoal - Banda do Cidadão, o qual consta de anexo ao presente diploma e dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento do Serviço Rádio Pessoal - Banda do Cidadão, o qual consta de anexo ao presente diploma e dele faz parte integrante.
 
-###### Art. 2.º Continuam em vigor, até ao termo da sua validade, todas as autorizações de utilização de equipamentos radiotelefónicos de pequena potência, concedidas ao abrigo do disposto no Regulamento das Condições de Utilização de Equipamentos Radioeléctricos de Pequena Potência na faixa 26,960 MHz a 27,410 MHz, publicado por aviso (Correios e Telecomunicações de Portugal) no Diário da República, 3.ª série, n.º 157, de 7 de Julho de 1978, com as alterações publicadas no Diário da República, 3.ª série, n.os 99, de 30 de Abril de 1981, 162, de 14 de Julho de 1984, e 111, de 15 de Maio de 1986.
+Art. 2.º Continuam em vigor, até ao termo da sua validade, todas as autorizações de utilização de equipamentos radiotelefónicos de pequena potência, concedidas ao abrigo do disposto no Regulamento das Condições de Utilização de Equipamentos Radioeléctricos de Pequena Potência na faixa 26,960 MHz a 27,410 MHz, publicado por aviso (Correios e Telecomunicações de Portugal) no Diário da República, 3.ª série, n.º 157, de 7 de Julho de 1978, com as alterações publicadas no Diário da República, 3.ª série, n.os 99, de 30 de Abril de 1981, 162, de 14 de Julho de 1984, e 111, de 15 de Maio de 1986.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 1989. - Aníbal António Cavaco Silva - José António da Silveira Godinho - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 20 de Outubro de 1989.**
+Promulgado em 20 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Abril de 1989.**
+Referendado em 25 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Regulamento do Serviço Rádio Pessoal - Banda do Cidadão
 
-### CAPÍTULO I — Parte geral
+### CAPÍTULO I
+
+## Parte geral
 
 ###### Artigo 1.º — Conceitos
 
@@ -456,7 +487,7 @@ d) O número de homologação do equipamento.
 
 1 - Qualquer que seja a classe de emissão utilizada nas comunidações de CB, a frequência da onda de suporte deve ser escolhida entre as frequências indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/10700/18601866.pdf))](https://files.diariodarepublica.pt/1s/1989/05/10700/18601866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/10700/18601866.pdf)
 
 2 - As frequências indicadas no número anterior são partilhadas no tempo por um número ilimitado de utilizadores.
 

@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1989-547178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c8100a948f637fa617dcea402fb77c611a4a69b857a5ef1f4971fe157de9f52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fe312b89ff7f057fc6524d04024d7c5b170c3243d9e1dfd0c9947d77aa24501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inspecção Geral da Segurança Social
+- Pessoal de Inspecção
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Reestruturação de Carreiras
+relationships:
+- type: cites
+  target: pt:dre:285766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474131:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:03Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +108,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As carreiras de inspecção da Inspecção-Geral da Segurança Social integradas nos grupos de pessoal técnico superior e técnico passam a ter a estrutura dos mapas I e II anexos ao presente diploma, que dele fazem parte integrante, sendo-lhes aplicáveis, com as devidas adaptações, as disposições do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+Artigo 1.º As carreiras de inspecção da Inspecção-Geral da Segurança Social integradas nos grupos de pessoal técnico superior e técnico passam a ter a estrutura dos mapas I e II anexos ao presente diploma, que dele fazem parte integrante, sendo-lhes aplicáveis, com as devidas adaptações, as disposições do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
 
-###### Art. 2.º Para efeitos de aplicação do disposto no artigo anterior, o quadro de pessoal da Inspecção-Geral da Segurança Social a que se refere o artigo 17.º do [Decreto-Lei n.º 136/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1980-474131), de 20 de Maio, e constante do mapa anexo à [Portaria n.º 168/88](https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766), de 19 de Março, considera-se automaticamente alterado, de acordo com os mapas anexos ao presente diploma, com as seguintes especialidades:
+Art. 2.º Para efeitos de aplicação do disposto no artigo anterior, o quadro de pessoal da Inspecção-Geral da Segurança Social a que se refere o artigo 17.º do [Decreto-Lei n.º 136/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1980-474131), de 20 de Maio, e constante do mapa anexo à [Portaria n.º 168/88](https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766), de 19 de Março, considera-se automaticamente alterado, de acordo com os mapas anexos ao presente diploma, com as seguintes especialidades:
 
 a) A dotação da categoria de inspector assessor principal passa a ser a resultante do somatório das dotações anteriormente previstas para as categorias de assessor principal e primeiro-assessor;
 
@@ -101,17 +118,17 @@ b) A dotação prevista para a categoria de inspector-adjunto especialista princ
 
 c) A dotação para a categoria de inspector-adjunto especialista é a correspondente à dotação anteriormente prevista para a categoria de inspector-adjunto especialista de 2.ª classe.
 
-###### Art. 3.º O presente diploma produz efeitos nos termos do artigo 15.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+Art. 3.º O presente diploma produz efeitos nos termos do artigo 15.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 17 de Agosto de 1989.**
+Promulgado em 17 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1989.**
+Referendado em 22 de Agosto de 1989.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.
 
@@ -121,10 +138,10 @@ MAPA I
 
 Estrutura da carreira técnica superior de inspecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20300/37943794.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20300/37943794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20300/37943794.pdf)
 
 MAPA II
 
 Estrutura da carreira técnica de inspecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20300/37943794.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20300/37943794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20300/37943794.pdf)

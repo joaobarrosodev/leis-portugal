@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1989-610974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 346f4aa46c65b2a786d443e0fae6d76848e2164fc9db691dafce83a232cbedb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 820e6c3cbf35b5a3139acfeb4909bf89caed051f32b87809e21d6760639eedbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autonomia Administrativa
+- Conselho Administrativo
+- Conselho Nacional de Planeamento Civil de Emergência
+- Definição de Competências
+- Estado Maior General das Forças Armadas
+- Gestão Administrativa
+- Gestão Financeira
+- Ministério da Defesa Nacional
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:283165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:32Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +109,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É conferida autonomia administrativa à Secretaria-Geral do Ministério da Defesa Nacional, a cargo da qual fica também o processamento das verbas atribuídas ao Conselho Nacional de Planeamento Civil de Emergência.
+Artigo 1.º É conferida autonomia administrativa à Secretaria-Geral do Ministério da Defesa Nacional, a cargo da qual fica também o processamento das verbas atribuídas ao Conselho Nacional de Planeamento Civil de Emergência.
 
-###### Art. 2.º Enquanto não se encontrar instalada a Secretaria-Geral do Ministério da Defesa Nacional, caberá ao Conselho Administrativo do Estado-Maior-General das Forças Armadas a execução das acções cometidas àquela Secretaria-Geral por força do disposto no artigo anterior.
+Art. 2.º Enquanto não se encontrar instalada a Secretaria-Geral do Ministério da Defesa Nacional, caberá ao Conselho Administrativo do Estado-Maior-General das Forças Armadas a execução das acções cometidas àquela Secretaria-Geral por força do disposto no artigo anterior.
 
-###### Art. 3.º Este diploma produz efeitos desde a entrada em vigor do Orçamento do Estado para 1989.
+Art. 3.º Este diploma produz efeitos desde a entrada em vigor do Orçamento do Estado para 1989.
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 27 de Abril de 1989.**
+Promulgado em 27 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1989.**
+Referendado em 27 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

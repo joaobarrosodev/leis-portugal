@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1989-620949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cce63a80101e7f11609dbcf4a66a85ff2343eece3f7f0cf7967ff89cd989773a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 932bb3189b42dd0825e8c2df6e055d9f003f6ab63bb162cd3d371695cb24d3d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração do Ensino
+- Direcção Escolar
+- Pessoal Dirigente
+- Pessoal Docente
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:227192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:52Z'
   warnings: []
   errors: []
 ---
@@ -94,26 +111,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O cargo de director escolar é remunerado pela letra A da tabela do funcionalismo público.
+Artigo 1.º - 1 - O cargo de director escolar é remunerado pela letra A da tabela do funcionalismo público.
 
 2 - O cargo de subdirector escolar é remunerado pela letra B da tabela do funcionalismo público.
 
-###### Art. 2.º Os subdirectores escolares que, por força da entrada em vigor do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, tivessem direito, na respectiva carreira docente, a remuneração superior à que auferiam pelo referido cargo podem declarar, nos 30 dias seguintes ao início de vigência do presente diploma, que optam pelo vencimento da carreira de origem.
+Art. 2.º Os subdirectores escolares que, por força da entrada em vigor do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, tivessem direito, na respectiva carreira docente, a remuneração superior à que auferiam pelo referido cargo podem declarar, nos 30 dias seguintes ao início de vigência do presente diploma, que optam pelo vencimento da carreira de origem.
 
-###### Art. 3.º São revogados o n.º 4 do artigo 18.º e o artigo 20.º do [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164), de 13 de Julho.
+Art. 3.º São revogados o n.º 4 do artigo 18.º e o artigo 20.º do [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164), de 13 de Julho.
 
-###### Art. 4.º O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio.
+Art. 4.º O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio.
 
-###### Art. 5.º O presente diploma produz efeitos desde 1 de Janeiro de 1989.
+Art. 5.º O presente diploma produz efeitos desde 1 de Janeiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 16 de Junho de 1989.**
+Promulgado em 16 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Junho de 1989.**
+Referendado em 20 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

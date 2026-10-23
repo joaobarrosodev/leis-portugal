@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1989-547655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84e35ed4ddd51c15e5fc34126dc6a6502ba2b70a55b2b8e05ce5523683885368
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec870a68c2aa68abc9bb482fbef1cdd096f74f6fad7a40724161cce6bb4dd1ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Geral
+- Capital Social
+- Empresa Participada
+- Empresa Pública
+- Títulos de Participação
 relationships:
 - type: amended_by
   target: pt:dre:658897:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658897:por
+  label: "Alterado o art. 4º do Dec Lei 321/85, de 05-Ago, na redacção do presente diploma, pelo DEC LEI.213/91.17.06.1991.MF,\
+    \ DR.IS-A [136] de 17.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-1991-658897
+  date: '1991-06-17'
+- type: cites
+  target: pt:dre:180193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:13Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +113,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 321/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1985-180193), de 5 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 321/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1985-180193), de 5 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 ...
+Art. 4.º - 1 ...
 
 2 - ...
 
@@ -112,16 +127,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - A empresa procederá ao averbamento da conversão, considerando-se, para todos os efeitos legais, anulados os títulos convertidos.
 
-###### Art. 2.º O disposto no presente diploma reporta-se à data da publicação do [Decreto-Lei n.º 321/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1985-180193), de 5 de Agosto.
+Art. 2.º O disposto no presente diploma reporta-se à data da publicação do [Decreto-Lei n.º 321/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1985-180193), de 5 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 8 de Setembro de 1989.**
+Promulgado em 8 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1989.**
+Referendado em 12 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18800/33123332.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1989-619289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5653c3e16c5dede24ded4a7e6fd4f17f8ca7614e3b06ad1ab2fd34d7ff172c69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3cf583545f2a7667dfc17b5b6f77312b18168c97c8c4ec8606dea4ae2a55d10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Comissão de Coordenação da Região Centro
+- Comissão de Coordenação da Região de Lisboa e VALE do TEJO
+- Comissão de Coordenação da Região do Alentejo
+- Comissão de Coordenação da Região do Algarve
+- Comissão de Coordenação da Região Norte
+- Comissão de Coordenação Regional
+- Conselho Administrativo
+- Conselho Consultivo Regional
+- Conselho Coordenador
+- Conselho Coordenador Regional
+- Definição de Competências
+- Desenvolvimento Regional
+- Gabinete Técnico Local
+- Orgânica
+- Presidente
 relationships:
 - type: amended_by
   target: pt:dre:614361:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334670:por
+  label: Alterado o art. 1º pelo DEC LEI.50/90.10.02.1990.MPLAT, DR.IS [35] de 10.02.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1990-334670
+  date: '1990-02-10'
+- type: amended_by
+  target: pt:dre:283517:por
+  label: "Consideradas feitas às DRARN todas as referências feitas em lei ou em contrato às direcções regionais de ambiente\
+    \ e recursos naturais, criadas no âmbito das comissões de coordenação regional, pelo DEC LEI.190/93.24.05.1993.MARN, DR.IS-A\
+    \ [120] de 24.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1993-283517
+  date: '1993-05-24'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Transferidas para o Ministério do Planeamento, as Comissões de Coordenação das Regiões do Alentejo, do Algarve,\
+    \ do Centro, de Lisboa e Vale do Tejo e do Norte, cuja Lei Orgânica foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM\
+    \ DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567409:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521866:por
+  label: "Revogado pelo DEC LEI.224/2001.2001.08.09.MPLA DR.IS-A [184], sem prejuízo do disposto no n.º 1 do art. 68.º do\
+    \ mesmo diploma lega.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2001-521866
+  date: '2001-08-09'
+- type: repealed_by
+  target: pt:dre:614361:por
+  label: "Revogadas as als. b) e c) do n.º 1 e os n.ºs 3 e 4 do art. 3.º, pelo DEC LEI.265/2001.2001.09.28.MREAP DR.IS-A [226]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-2001-614361
+  date: '2001-09-28'
 article_structure:
   article_count: 62
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:58Z'
   warnings: []
   errors: []
 ---
@@ -502,7 +565,9 @@ c) Desenvolver, em colaboração com os serviços de âmbito nacional e regional
 
 d) Desenvolver instrumentos metodológicos adequados nos domínios da estatística da econometria e da investigação operacional e promover a sua correcta utilização.
 
-###### Artigo 16.º — Divisão de Organização e Recursos Humanos
+###### Artigo 16.º
+
+##### Divisão de Organização e Recursos Humanos
 
 À Divisão de Organização e Recursos Humanos compete:
 
@@ -516,7 +581,9 @@ d) Proceder à execução dos diplomas disciplinadores das relações de emprego
 
 e) Assegurar a satisfação das necessidades de formação de pessoal da Comissão e dos gabinetes de apoio técnico da sua área.
 
-###### Artigo 17.º — Divisão Financeira e de Controlo Orçamental
+###### Artigo 17.º
+
+##### Divisão Financeira e de Controlo Orçamental
 
 À Divisão Financeira e de Controlo Orçamental compete:
 
@@ -812,7 +879,9 @@ d) Colaborar na organização e sistematização da informação sócio-económi
 
 e) Colaborar com os serviços sectoriais competentes no levantamento dos recursos existentes na região.
 
-###### Artigo 28.º — Divisão de Emprego e Apoio ao Desenvolvimento Sócio-Económico
+###### Artigo 28.º
+
+##### Divisão de Emprego e Apoio ao Desenvolvimento Sócio-Económico
 
 À Divisão de Emprego e Apoio ao Desenvolvimento Sócio-Económico compete:
 
@@ -822,7 +891,9 @@ b) Colaborar com os serviços centrais competentes em matéria de emprego e form
 
 c) Organizar e sistematizar a informação sócio-económica de interesse regional e municipal.
 
-###### Artigo 29.º — Divisão de Organização e Recursos Humanos
+###### Artigo 29.º
+
+##### Divisão de Organização e Recursos Humanos
 
 À Divisão de Organização e Recursos Humanos compete:
 
@@ -836,7 +907,9 @@ d) Assegurar o diagnóstico das necessidades de formação do pessoal afecto à 
 
 e) Desenvolver as acções necessárias à organização e instrução de processos referentes à situação profissional do pessoal.
 
-###### Artigo 30.º — Divisão Financeira e de Controlo Orçamental
+###### Artigo 30.º
+
+##### Divisão Financeira e de Controlo Orçamental
 
 À Divisão Financeira e de Controlo Orçamental compete:
 
@@ -1566,16 +1639,16 @@ e) Tesouraria.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1989.**
+Referendado em 31 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Do ANEXO I ao ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18800/33123332.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18800/33123332.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18800/33123332.pdf)

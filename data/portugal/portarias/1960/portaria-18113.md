@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/12/28500/27342735.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18113-1960-512798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df48f2ea07cd839d72028f4870b2927e0e7b8804daeec025d22d6b5bdf61e365
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed05fe78d0f0a711609f113fce04ce9550a9fe6dde0a37220c8afe5a3c9a38ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comércio a Retalho
+- Comércio por Grosso
+- Lota
+- Lucro
+- Multa
+- Peixe
+- Preço de Venda
+- Serviço de Abastecimento de Peixe ao PAIS
 relationships:
 - type: amended_by
   target: pt:dre:667948:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412019:por
+  label: "Alterados os n.ºs 13.º e 19.º pela PORT.820/73.19.11.1973.MECO, DG.IS [270] de 19.11.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/820-1973-412019
+  date: '1973-11-19'
+- type: amended_by
+  target: pt:dre:382791:por
+  label: "Mantido em vigor, relativamente ao pescado transaccionado na lota, o disposto no n.º 13.º, pelo DEC LEI.147/79.24.05.1979.PCM,\
+    \ DR.IS [119] de 24.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1979-382791
+  date: '1979-05-24'
+- type: cites
+  target: pt:dre:156016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:446519:por
+  label: Revogado o n.º 17.º da presente portaria pelo(a) Portaria n.º 95/78 - Diário da República n.º 40/1978, Série I de
+    1978-02-17, nos termos dos seus n.ºs 1.º e 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-1978-446519
+  date: '1978-02-17'
+- type: repealed_by
+  target: pt:dre:667948:por
+  label: "Revogada pela PORT.311/80.30.05.1980.MAP, DR.IS [125]Supl de 30.05.1980, considerando-se todas as disposições remetidas\
+    \ para a citada portaria \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-1980-667948
+  date: '1980-05-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:59Z'
   warnings: []
   errors: []
 ---

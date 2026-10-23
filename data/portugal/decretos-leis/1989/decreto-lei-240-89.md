@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 170/1989, 2º Suplemento, Série I de 1989-07-26
   number: '170'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2934-(8) a 2934-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/17002/00080010.pdf
 entry_into_force_dates: []
@@ -47,36 +47,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1989-430196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 166101f58bd3383b118adba53e6ad11a1898a648ff450133d92ec61468d69d84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f5df432adbd78f7e8921451cdf209eb5a33977d1bebf9ec54fb16cc6b025534
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Estrada
+- Contra-ordenação
+- Contravenção
+- Crime
+- Multa
+- Regulamento
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:158969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687267:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:27Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +170,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os quantitativos mínimos das multas actualmente aplicáveis por infracção às disposições do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, são modificados nos termos seguintes:
+Artigo 1.º Os quantitativos mínimos das multas actualmente aplicáveis por infracção às disposições do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, são modificados nos termos seguintes:
 
 a) Os de 50$00 passam para 250$00;
 
@@ -127,7 +202,7 @@ n) Os de 30000$00 passam para 150000$00;
 
 o) Os de 50000$00 passam para 250000$00.
 
-###### Art. 2.º Exceptuam-se do disposto no artigo anterior os quantitativos previstos para as infracções às disposições do Código da Estrada a seguir mencionadas, cujos montantes são:
+Art. 2.º Exceptuam-se do disposto no artigo anterior os quantitativos previstos para as infracções às disposições do Código da Estrada a seguir mencionadas, cujos montantes são:
 
 a) De 4000$00 nas alíneas a), b), g), h) e j) do n.º 3 do artigo 14.º;
 
@@ -143,7 +218,7 @@ f) De 1500$00, 10000$00, 50000$00 e 30000$00, no primeiro e segundo parágrafos 
 
 g) De 100000$00, 200000$00 e 3000$00 no n.º 1 do artigo 46.º
 
-###### Art. 3.º - 1 - Os quantitativos mínimos das multas actualmente aplicáveis nas infracções às disposições dos Decretos-Leis n.os 45299, de 9 de Outubro de 1963, 49020, de 23 de Maio de 1969, 47123, de 30 de Julho de 1966, e da [Portaria n.º 20393](https://diariodarepublica.pt/dr/detalhe/portaria/20393-1964-469854), de 26 de Fevereiro de 1964, são alterados nos termos seguintes:
+Art. 3.º - 1 - Os quantitativos mínimos das multas actualmente aplicáveis nas infracções às disposições dos Decretos-Leis n.os 45299, de 9 de Outubro de 1963, 49020, de 23 de Maio de 1969, 47123, de 30 de Julho de 1966, e da [Portaria n.º 20393](https://diariodarepublica.pt/dr/detalhe/portaria/20393-1964-469854), de 26 de Fevereiro de 1964, são alterados nos termos seguintes:
 
 a) As multas previstas nas alíneas a) e c) do artigo 6.º do [Decreto-Lei n.º 45299](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45299-1963-687267), de 9 de Outubro de 1963, passam a regular-se pelo disposto no artigo 1.º do presente diploma e a prevista na alínea b) passa a ser de 30000$00;
 
@@ -155,27 +230,27 @@ d) As multas previstas nos §§ 1.º e 2.º do n.º 5.º da [Portaria n.º 20393
 
 2 - Os quantitativos mínimos das multas aplicáveis nas infracções às disposições das Portarias n.os [31/75](https://diariodarepublica.pt/dr/detalhe/portaria/31-1975-158969), de 18 de Janeiro, [126/75](https://diariodarepublica.pt/dr/detalhe/portaria/126-1975-160092), de 27 de Fevereiro, e [344/78](https://diariodarepublica.pt/dr/detalhe/portaria/344-1978-298393), de 29 de Junho, passam a regular-se pelo disposto no n.º 1 do presente diploma.
 
-###### Art. 4.º Os quantitativos mínimos das multas aplicáveis por infracção às disposições do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, são modificados nos termos previstos no artigo 1.º
+Art. 4.º Os quantitativos mínimos das multas aplicáveis por infracção às disposições do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, são modificados nos termos previstos no artigo 1.º
 
-###### Art. 5.º Exceptuam-se do disposto no artigo anterior os quantitativos previstos para as infracções às disposições do Regulamento do Código da Estrada a seguir mencionadas, cujos montantes passam a ser de 10000$00 para o sinal 53, de 4000$00 para os sinais 56 e B-17, de 2000$00 para os sinais 57 a 64, B-18, B-19 e B-21, todos do artigo 4.º, e de 3000$00 para o segundo parágrafo do n.º 16 do artigo 8.º
+Art. 5.º Exceptuam-se do disposto no artigo anterior os quantitativos previstos para as infracções às disposições do Regulamento do Código da Estrada a seguir mencionadas, cujos montantes passam a ser de 10000$00 para o sinal 53, de 4000$00 para os sinais 56 e B-17, de 2000$00 para os sinais 57 a 64, B-18, B-19 e B-21, todos do artigo 4.º, e de 3000$00 para o segundo parágrafo do n.º 16 do artigo 8.º
 
-###### Art. 6.º O montante da multa referido no n.º 2 da [Portaria n.º 758/77](https://diariodarepublica.pt/dr/detalhe/portaria/758-1977-279642), de 15 de Dezembro, passa a ser de 7500$00.
+Art. 6.º O montante da multa referido no n.º 2 da [Portaria n.º 758/77](https://diariodarepublica.pt/dr/detalhe/portaria/758-1977-279642), de 15 de Dezembro, passa a ser de 7500$00.
 
-###### Art. 7.º O artigo 2.º do [Decreto-Lei n.º 40995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40995-1957-653138), de 9 de Fevereiro de 1957, passa a ter a seguinte redacção:
+Art. 7.º O artigo 2.º do [Decreto-Lei n.º 40995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40995-1957-653138), de 9 de Fevereiro de 1957, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Os veículos automóveis despachados e saídos das alfândegas serão obrigatoriamente matriculados, nos termos do artigo 41.º do Código da Estrada, no prazo de 360 dias, contado da data do despacho alfandegário.
+Art. 2.º - 1 - Os veículos automóveis despachados e saídos das alfândegas serão obrigatoriamente matriculados, nos termos do artigo 41.º do Código da Estrada, no prazo de 360 dias, contado da data do despacho alfandegário.
 
 2 - O prazo referido no número anterior pode ser prorrogado por mais 180 dias, em casos excepcionais devidamente justificados pelo interessado em requerimento dirigido ao director-geral de Viação.
 
-###### Art. 8.º As multas previstas no artigo 10.º, n.os 1, 2 e 3, do [Decreto-Lei n.º 40995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40995-1957-653138), de 9 de Fevereiro de 1957, passam a ser de 225000$00, 22500$00 e 9000$00, respectivamente.
+Art. 8.º As multas previstas no artigo 10.º, n.os 1, 2 e 3, do [Decreto-Lei n.º 40995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40995-1957-653138), de 9 de Fevereiro de 1957, passam a ser de 225000$00, 22500$00 e 9000$00, respectivamente.
 
-###### Art. 9.º As multas previstas no Código da Estrada, Regulamento do Código da Estrada e na demais legislação complementar continuam a ser variáveis, graduadas entre um limite mínimo correspondente ao valor fixado pelo presente diploma e um limite máximo equivalente ao quíntuplo do limite mínimo.
+Art. 9.º As multas previstas no Código da Estrada, Regulamento do Código da Estrada e na demais legislação complementar continuam a ser variáveis, graduadas entre um limite mínimo correspondente ao valor fixado pelo presente diploma e um limite máximo equivalente ao quíntuplo do limite mínimo.
 
-###### Art. 10.º O pagamento voluntário das multas, nos termos do n.º 1 do artigo 70.º do Código da Estrada, deve ser efectuado sempre pelo mínimo.
+Art. 10.º O pagamento voluntário das multas, nos termos do n.º 1 do artigo 70.º do Código da Estrada, deve ser efectuado sempre pelo mínimo.
 
-###### Art. 11.º O n.º 10 e a parte final do n.º 11 do artigo 58.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, com a redacção que lhe foi dada respectivamente pelos Decretos-Leis n.os [207/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1976-501407), de 20 de Março, e [461/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-1982-380150), de 26 de Novembro, passam a ter a seguinte redacção:
+Art. 11.º O n.º 10 e a parte final do n.º 11 do artigo 58.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, com a redacção que lhe foi dada respectivamente pelos Decretos-Leis n.os [207/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1976-501407), de 20 de Março, e [461/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-1982-380150), de 26 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 58.º ...
+Art. 58.º ...
 
 10 - ...
 
@@ -189,18 +264,18 @@ c) Para efeitos do disposto na alínea anterior entende-se que se encontram nas 
 
 A falta de cumprimento do dever atrás referido é punida com multa igual ao dobro do limite máximo da aplicável à infracção praticada pelo condutor, salvo quando à infracção corresponda inibição de conduzir, caso em que o referido montante será igual ao quíntuplo daquele limite.
 
-###### Art. 12.º O presente diploma revoga o [Decreto-Lei n.º 187/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1982-392442), de 15 de Maio, as alíneas a), e), g), j), l), m) e o) do [Decreto-Lei n.º 186/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1982-392444), de 15 de Maio, e ainda as Portarias n.os [501/82](https://diariodarepublica.pt/dr/detalhe/portaria/501-1982-392446), de 15 de Maio, e [770/82](https://diariodarepublica.pt/dr/detalhe/portaria/770-1982-396899), de 7 de Agosto.
+Art. 12.º O presente diploma revoga o [Decreto-Lei n.º 187/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1982-392442), de 15 de Maio, as alíneas a), e), g), j), l), m) e o) do [Decreto-Lei n.º 186/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1982-392444), de 15 de Maio, e ainda as Portarias n.os [501/82](https://diariodarepublica.pt/dr/detalhe/portaria/501-1982-392446), de 15 de Maio, e [770/82](https://diariodarepublica.pt/dr/detalhe/portaria/770-1982-396899), de 7 de Agosto.
 
-###### Art. 13.º O disposto no presente diploma entra em vigor no dia 1 de Agosto de 1989.
+Art. 13.º O disposto no presente diploma entra em vigor no dia 1 de Agosto de 1989.
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1989. - Aníbal António Cavaco Silva - José António da Silveira Godinho - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Julho de 1989.**
+Referendado em 26 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

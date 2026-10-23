@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/00500/00560056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1989-234503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 185da10ec85d0809bff0884a5e84f8c406f08f30e32b7ba6c9b21135c785f09b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aca45476dd0aff9350864807a8c36b0cf44cb049634fe0aafc0c883c819996da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chiado
+- Incêndio
+- Subsídio de Desemprego
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158472:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:37Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +112,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O prazo de concessão da compensação estabelecida no n.º 2 do artigo 5.º do [Decreto-Lei n.º 309-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-1988-158472), de 3 de Setembro, é renovado por 90 dias.
+Artigo 1.º O prazo de concessão da compensação estabelecida no n.º 2 do artigo 5.º do [Decreto-Lei n.º 309-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-1988-158472), de 3 de Setembro, é renovado por 90 dias.
 
-###### Art. 2.º Nos termos do artigo 7.º do [Decreto-Lei n.º 309-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-1988-158472), de 3 de Setembro, deixa de haver lugar à atribuição do subsídio eventual de emergência quando, durante o período de renovação, os trabalhadores exercerem uma actividade remunerado fora da empresa.
+Art. 2.º Nos termos do artigo 7.º do [Decreto-Lei n.º 309-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-1988-158472), de 3 de Setembro, deixa de haver lugar à atribuição do subsídio eventual de emergência quando, durante o período de renovação, os trabalhadores exercerem uma actividade remunerado fora da empresa.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 1988. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
 
-**Promulgado em 22 de Dezembro de 1988.**
+Promulgado em 22 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1988.**
+Referendado em 27 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -6,7 +6,7 @@ import sys
 from datetime import date
 
 from leis_portugal.cli.output import acervo, progress, write_failures
-from leis_portugal.services.coverage import TypeCoverage, sitemap_coverage, write_coverage
+from leis_portugal.services.coverage import TypeCoverage, read_out_of_scope, record_out_of_scope, sitemap_coverage, write_coverage
 from leis_portugal.services.dre import DreIngestion, imported_references
 from leis_portugal.services.eu_versions import collect_eu_versions
 from leis_portugal.services.eurlex import EurLexIngestion
@@ -108,14 +108,15 @@ def collect_dre(args) -> int:
 
 
 def _coverage_table(coverage: list[TypeCoverage]) -> None:
-    print(f"{'Tipo':<48} {'No DRE':>9} {'No acervo':>10} {'Em falta':>9}")
+    print(f"{'Tipo':<48} {'No DRE':>9} {'No acervo':>10} {'Fora':>7} {'Em falta':>9}")
     for entry in coverage:
         label = f"{entry.label} *" if entry.optional else entry.label
-        print(f"{label:<48} {entry.listed:>9} {entry.present:>10} {len(entry.missing):>9}")
+        print(f"{label:<48} {entry.listed:>9} {entry.present:>10} {entry.out_of_scope:>7} {len(entry.missing):>9}")
     print(
         f"{'Total':<48} {sum(entry.listed for entry in coverage):>9} {sum(entry.present for entry in coverage):>10} "
-        f"{sum(len(entry.missing) for entry in coverage):>9}"
+        f"{sum(entry.out_of_scope for entry in coverage):>7} {sum(len(entry.missing) for entry in coverage):>9}"
     )
+    print("Fora: listados no sitemap mas fora do Diário da República (p. ex. Jornal Oficial dos Açores).")
     if any(entry.optional for entry in coverage):
         print("* sobretudo 2.ª Série: só recolhidos com --all ou --types.")
 
@@ -134,7 +135,10 @@ def _requested_types(args, repository) -> set[str] | None:
 def collect_missing(args, repository, service: DreIngestion) -> int:
     """Documentos que os sitemaps do DRE listam e o acervo não tem."""
     types = _requested_types(args, repository)
-    coverage = sitemap_coverage(repository, service.source.client, types=types, progress=progress)
+    out_of_scope_path = repository.root / "reports" / "dre_out_of_scope.jsonl"
+    coverage = sitemap_coverage(
+        repository, service.source.client, types=types, out_of_scope=read_out_of_scope(out_of_scope_path), progress=progress
+    )
     write_coverage(repository.root / "reports" / "dre_sitemap_coverage.json", coverage, checked=date.today().isoformat())
     _coverage_table(coverage)
     refs = [ref for entry in coverage if args.all or types is not None or not entry.optional for ref in entry.missing]
@@ -145,6 +149,7 @@ def collect_missing(args, repository, service: DreIngestion) -> int:
         return 0
     summary = service.ingest_many(refs, workers=args.workers, progress=progress)
     write_failures(repository.root / "reports" / "dre_missing_failures.jsonl", summary.failures)
+    record_out_of_scope(out_of_scope_path, summary.skipped_refs)
     changed = sum(1 for result in summary.documents if result.changed)
     print(f"Diplomas: {len(summary.documents)}; gravados: {changed}; ignorados: {len(summary.skipped)}; falhas: {len(summary.failures)}")
     return 1 if summary.failures and not summary.documents else 0

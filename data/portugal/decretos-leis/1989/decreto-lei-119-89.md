@@ -46,36 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1989-615247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4833eec4388e24e7cc6ad3a6db58bd6cf6fdf51b35646cd496d33150d0989189
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00f1ca33668ce4e86da38ec04aae77b4f92d77a00512923a820e071e3f18d301
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Gabinete da Área de Sines
+- Sines
+- Transferência de Competências
+- Transferência Patrimonial
+- Zona Industrial
+relationships:
+- type: cites
+  target: pt:dre:419057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:37Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +124,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É transmitida para o Município de Sines a propriedade dos seguintes imóveis e infra-estruturas do Gabinete da Área de Sines (GAS), sem prejuízo do disposto no n.º 1 do artigo 4.º:
+Artigo 1.º - 1 - É transmitida para o Município de Sines a propriedade dos seguintes imóveis e infra-estruturas do Gabinete da Área de Sines (GAS), sem prejuízo do disposto no n.º 1 do artigo 4.º:
 
 a) Arruamentos, caminhos públicos, rede de distribuição de energia eléctrica em baixa tensão e sistemas de iluminação pública executados pelo GAS na área do Município;
 
@@ -108,15 +134,15 @@ c) Terrenos, edifícios e infra-estruturas que constituem o Bairro da Provença.
 
 2 - É transmitida para o GAS a propriedade de terrenos do Município de Sines sobre os quais se encontram implantados edifícios e infra-estruturas construídos por aquele.
 
-###### Art. 2.º - 1 - Os bens transmitidos nos termos do artigo anterior consideram-se de valor equivalente para todos os efeitos legais, não dando origem à atribuição de receitas à Direcção-Geral do Tesouro, nos termos do n.º 2 do artigo 7.º do [Decreto-Lei n.º 242/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1987-419057), de 15 de Junho, e constarão de protocolos assinados pelos órgãos competentes do Município e pelo conselho de gestão do GAS, a homologar por portaria conjunta dos Ministros das Finanças e do Planeamento e da Administração do Território.
+Art. 2.º - 1 - Os bens transmitidos nos termos do artigo anterior consideram-se de valor equivalente para todos os efeitos legais, não dando origem à atribuição de receitas à Direcção-Geral do Tesouro, nos termos do n.º 2 do artigo 7.º do [Decreto-Lei n.º 242/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1987-419057), de 15 de Junho, e constarão de protocolos assinados pelos órgãos competentes do Município e pelo conselho de gestão do GAS, a homologar por portaria conjunta dos Ministros das Finanças e do Planeamento e da Administração do Território.
 
 2 - O presente diploma e os protocolos previstos no número anterior constituem, para todos os efeitos legais, incluindo os de registo predial, título bastante das transmissões dominiais referidas no artigo anterior.
 
-###### Art. 3.º - 1 - O Município de Sines assume, a contar do dia 1 de Janeiro de 1989, a posição jurídica do GAS em todas as relações contratuais referentes aos bens transferidos nos termos do n.º 1 do artigo 1.º
+Art. 3.º - 1 - O Município de Sines assume, a contar do dia 1 de Janeiro de 1989, a posição jurídica do GAS em todas as relações contratuais referentes aos bens transferidos nos termos do n.º 1 do artigo 1.º
 
 2 - A posição de fundeiro relativamente aos direitos de superfície constituídos sobre os terrenos a que se refere o n.º 1 do artigo 1.º transmite-se igualmente para o Município de Sines.
 
-###### Art. 4.º - 1 - É transmitida para o Estado a propriedade dos terrenos destinados à instalação da Zona de Indústria Ligeira de Sines (ZIL-2), descritos nos protocolos mencionados nos n.os 1 e 2 do artigo 2.º e com valor patrimonial actual de 1 milhão de contos.
+Art. 4.º - 1 - É transmitida para o Estado a propriedade dos terrenos destinados à instalação da Zona de Indústria Ligeira de Sines (ZIL-2), descritos nos protocolos mencionados nos n.os 1 e 2 do artigo 2.º e com valor patrimonial actual de 1 milhão de contos.
 
 2 - A gestão e administração da ZIL-2 é atribuída ao Município de Sines por um prazo de dez anos, renovável por iguais períodos, salvo declaração em sentido contrário por parte do Estado.
 
@@ -130,20 +156,20 @@ c) Constituir novos direitos de superfície, fixando os respectivos cânones e r
 
 d) Proceder à execução e manutenção das infra-estruturas que se mostrem necessárias ao exercício dos direitos dos superficiários.
 
-###### Art. 5.º - 1 - O Estado poderá celebrar acordos de colaboração e contratos-programa com o Município de Sines para a execução de infra-estruturas e equipamentos colectivos, cujo programa global constará de protocolo a celebrar entre o Ministério do Planeamento e da Administração do Território e o Município de Sines.
+Art. 5.º - 1 - O Estado poderá celebrar acordos de colaboração e contratos-programa com o Município de Sines para a execução de infra-estruturas e equipamentos colectivos, cujo programa global constará de protocolo a celebrar entre o Ministério do Planeamento e da Administração do Território e o Município de Sines.
 
 2 - O financiamento dos investimentos previstos no número anterior e que, de acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 487/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1980-462587), de 17 de Outubro, eram da competência do GAS será feito nos termos do n.º 5 do artigo 6.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro.
 
-###### Art. 6.º Os arranjos de exteriores a efectuar no Bairro de Soeiro Pereira Gomes e na Quinta dos Passarinhos e a recuperação do pavimento da Avenida de Vasco da Gama são cometidos ao Município de Sines, sendo, para o efeito, transferida para o respectivo orçamento a verba de 150 milhões de escudos da conta de saldos disponíveis do orçamento privativo do GAS.
+Art. 6.º Os arranjos de exteriores a efectuar no Bairro de Soeiro Pereira Gomes e na Quinta dos Passarinhos e a recuperação do pavimento da Avenida de Vasco da Gama são cometidos ao Município de Sines, sendo, para o efeito, transferida para o respectivo orçamento a verba de 150 milhões de escudos da conta de saldos disponíveis do orçamento privativo do GAS.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 19 de Janeiro de 1989.**
+Promulgado em 19 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Janeiro de 1989.**
+Referendado em 20 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

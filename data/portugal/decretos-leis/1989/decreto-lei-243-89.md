@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/17900/31383138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1989-618877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c091842f80bb3b6f88d89abfa8c2ac894977795fcc7ac688ab7e8ed5c3a7fe51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d6b1fc98c3f0fffdac34e75f6025eca0c8dc96b20094f655c945b07ea13eaec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Banco de Portugal
+- Sociedade Anónima
+- Sociedade em Comandita
+- Sociedade por Quotas
 relationships:
 - type: amended_by
   target: pt:dre:682983:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:294728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:682983:por
+  label: "Revogado, com a entrada em vigor do Código do Código dos Valores Mobiliários (aprovado pelo Dec Lei 486/99, de 13-Nov),\
+    \ e na parte em que altera o Dec Lei 408/82, de 29-Set, pelo DEC LEI.486/99.1999.11.13.MF DR.IS-A [265]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1999-682983
+  date: '1999-11-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:33Z'
   warnings: []
   errors: []
 ---
@@ -101,24 +120,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 17.º e 20.º do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 17.º e 20.º do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 17.º As instituições de crédito depositárias deverão informar o Banco de Portugal, pela forma que este vier a estabelecer, da existência e movimentação de depósitos de títulos abrangidos pelos artigos 2.º e 32.º, n.º 1.
+Art. 17.º As instituições de crédito depositárias deverão informar o Banco de Portugal, pela forma que este vier a estabelecer, da existência e movimentação de depósitos de títulos abrangidos pelos artigos 2.º e 32.º, n.º 1.
 
-###### Art. 20.º - 1 - O levantamento de títulos abrangidos pelo artigo 2.º e pelo n.º 1 do artigo 32.º só poderá ser efectuado para efeitos de transferência de depósito ou de exportação dos mesmos, a realizar nos termos do número seguinte.
+Art. 20.º - 1 - O levantamento de títulos abrangidos pelo artigo 2.º e pelo n.º 1 do artigo 32.º só poderá ser efectuado para efeitos de transferência de depósito ou de exportação dos mesmos, a realizar nos termos do número seguinte.
 
 2 - A transferência de depósito ou a exportação dos títulos referidos no número anterior devem ser realizadas através da instituição de crédito depositária e por esta comunicadas ao Banco de Portugal, pela forma que este vier a estabelecer.
 
-###### Art. 2.º É revogado o artigo 2.º do [Decreto-Lei n.º 124/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1978-294728), de 3 de Junho.
+Art. 2.º É revogado o artigo 2.º do [Decreto-Lei n.º 124/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1978-294728), de 3 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 19 de Julho de 1989.**
+Promulgado em 19 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1989.**
+Referendado em 21 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

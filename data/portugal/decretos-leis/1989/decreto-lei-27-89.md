@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1989-609608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77b88997a6c3a451f777e8c8ee079be01097624bb03694ae120fbd642c09ca06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afc72cd81227f79d88d6f97bde7742f850ebbb7ce31c19f3aad277ecc7e90b0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Direcção Geral de Inspecção Económica
+- Pessoal de Inspecção
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:586839:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670555:por
+  label: Rectificado pela DECL.DD3921.1989.05.18.PCM DR.IS [124]SUPL DE 31/MAI/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670555
+  date: '1989-05-18'
+- type: repealed_by
+  target: pt:dre:586839:por
+  label: Revogado, a partir de 01.02.1993, pelo(a) Decreto-Lei n.º 14/93 - Diário da República n.º 14/1993, Série I-A de 1993-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1993-586839
+  date: '1993-01-18'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:08Z'
   warnings: []
   errors: []
 ---
@@ -194,20 +224,20 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 9 de Janeiro de 1989.**
+Promulgado em 9 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Janeiro de 1989.**
+Referendado em 9 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa I a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf)
 
 Mapa II a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf)

@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1989-611551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c56731e9c8ed2bc30c7db8b5e3acf2b84be7f47bc941e4a79dc128937ffdbb17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e0195b536ea90069a1da965cdff5e589f55ebc4e209219b4ddc9810b247802f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Escolar do Senhor da Serra
+- Criação de Serviços
+- Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
+- Gestão Administrativa
+- Miranda do Corvo
+- Orgânica
+- Regime de Instalação
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:27Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +121,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criado na localidade do Senhor da Serra, Município de Miranda do Corvo, distrito de Coimbra, o Centro Escolar do Senhor da Serra, adiante designado por CESS, o qual sucede ao Conjunto Experimental do Senhor da Serra.
+Artigo 1.º - 1 - É criado na localidade do Senhor da Serra, Município de Miranda do Corvo, distrito de Coimbra, o Centro Escolar do Senhor da Serra, adiante designado por CESS, o qual sucede ao Conjunto Experimental do Senhor da Serra.
 
 2 - O CESS funcionará em regime experimental durante um período de cinco anos.
 
-###### Art. 2.º - 1 - O CESS ministrará, em regime integrado, a educação pré-escolar e os três ciclos do ensino básico.
+Art. 2.º - 1 - O CESS ministrará, em regime integrado, a educação pré-escolar e os três ciclos do ensino básico.
 
 2 - Os planos de estudo e os programas para os três ciclos de escolaridade básica serão os oficialmente estabelecidos.
 
 3 - As normas respeitantes à admissão e matrícula dos alunos são as oficialmente estabelecidas.
 
-###### Art. 3.º O CESS funcionará em regime de instalação pelo prazo de cinco anos, a contar do início do ano escolar de 1989-1990.
+Art. 3.º O CESS funcionará em regime de instalação pelo prazo de cinco anos, a contar do início do ano escolar de 1989-1990.
 
-###### Art. 4.º O CESS terá os seguintes órgãos de gestão:
+Art. 4.º O CESS terá os seguintes órgãos de gestão:
 
 a) Comissão instaladora;
 
@@ -116,26 +141,26 @@ b) Conselho pedagógico;
 
 c) Conselho administrativo.
 
-###### Art. 5.º - 1 - A comissão instaladora, a nomear por despacho do Ministro da Educação, exercerá as suas funções pelo período de cinco anos.
+Art. 5.º - 1 - A comissão instaladora, a nomear por despacho do Ministro da Educação, exercerá as suas funções pelo período de cinco anos.
 
 2 - As competências da comissão instaladora, do conselho pedagógico e do conselho administrativo serão definidas em decreto regulamentar.
 
-###### Art. 6.º - 1 - O pessoal docente, administrativo e auxiliar será assegurado pelo Ministério da Educação.
+Art. 6.º - 1 - O pessoal docente, administrativo e auxiliar será assegurado pelo Ministério da Educação.
 
 2 - O pessoal docente, administrativo e auxiliar será garantido através de destacamento, nos termos do estabelecido no [Decreto-Lei n.º 377/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1977-286362), de 5 de Setembro, conjugado com o [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, sob proposta da comissão instaladora.
 
-###### Art. 7.º - 1 - O funcionamento do CESS, designadamente no aspecto pedagógico, será acompanhado pela Direcção Regional de Educação do Centro, sem prejuízo das competências próprias dos serviços centrais do Ministério da Educação.
+Art. 7.º - 1 - O funcionamento do CESS, designadamente no aspecto pedagógico, será acompanhado pela Direcção Regional de Educação do Centro, sem prejuízo das competências próprias dos serviços centrais do Ministério da Educação.
 
 2 - A comissão instaladora do CESS apresentará, até 31 de Julho de cada ano, à Direcção-Geral do Ensino Básico e Secundário e à Direcção Regional de Educação do Centro relatório caracterizador da actividade e das circunstâncias de funcionamento do Centro em ordem ao progressivo aperfeiçoamento dos normativos.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 27 de Abril de 1989.**
+Promulgado em 27 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Maio de 1989.**
+Referendado em 2 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

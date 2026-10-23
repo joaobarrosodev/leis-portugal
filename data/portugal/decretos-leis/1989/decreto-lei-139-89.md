@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 072702cd701267eadb06ac041d7671555ec247b14d6e16378c40926be8c4ba37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75b3e7ad62fd0a65041cb14cca55820a644061e90951e89c6b2a16717e1a8962
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arborização
+- Câmara Municipal
+- Contra-ordenação
+- Exploração Florestal
+- Fiscalização
+- Licença Municipal
+- Multa
+- Política de Solos
+- Política Florestal
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:136990467:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553442:por
+  label: Mantido em vigor pelo(a) Lei n.º 12/2012 - Diário da República n.º 52/2012, Série I de 2012-03-13, nos termos do
+    disposto no n.º 2 do artigo 3.º da referida lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2012-553442
+  date: '2012-03-13'
+- type: cites
+  target: pt:dre:336768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado, a partir de 16.12.2011, sem prejuízo do disposto no n.º 1 do art. 2.º, pelo DEC LEI.254/2009.24.09.2009.MADRP,\
+    \ DR.IS [186] de 24.09.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:02Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +147,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Carecem de licença das câmaras municipais:
+Artigo 1.º - 1 - Carecem de licença das câmaras municipais:
 
 a) As acções de destruição do revestimento vegetal que não tenham fins agrícolas;
 
@@ -125,7 +155,7 @@ b) As acções de aterro ou escavação que conduzam à alteração do relevo na
 
 2 - As câmaras municipais, sempre que não disponham de serviços técnicos qualificados para se pronunciarem sobre as licenças a conceder para as acções referidas no número anterior, solicitarão, para o efeito, parecer aos serviços centrais, regionais ou locais dos ministérios competentes ou, nas regiões autónomas, aos órgãos regionais competentes.
 
-###### Art. 2.º - 1 - Exceptuam-se do disposto no artigo anterior:
+Art. 2.º - 1 - Exceptuam-se do disposto no artigo anterior:
 
 a) As acções que, estando sujeitas a regime legal específico, já se encontrem devidamente autorizadas, licenciadas ou aprovadas pelos órgãos competentes;
 
@@ -135,34 +165,34 @@ b) As acções preparatórias de outras que se encontrem na situação descrita 
 
 3 - As câmaras municipais devem emitir o parecer solicitado no prazo de 30 dias, sob pena da sua não exigibilidade.
 
-###### Art. 3.º - 1 - A infracção ao disposto no n.º 1 do artigo 1.º constitui contra-ordenação punível com coima de 100000$00 a 200000$00.
+Art. 3.º - 1 - A infracção ao disposto no n.º 1 do artigo 1.º constitui contra-ordenação punível com coima de 100000$00 a 200000$00.
 
 2 - No caso de a responsabilidade pela contra-ordenação pertencer a pessoa colectiva, o valor máximo da coima é de 3000000$00.
 
 3 - A negligência é punível.
 
-###### Art. 4.º - 1 - A fiscalização do disposto no presente diploma compete, em especial, aos municípios.
+Art. 4.º - 1 - A fiscalização do disposto no presente diploma compete, em especial, aos municípios.
 
 2 - A instrução dos processos por contra-ordenações e a aplicação das coimas é da competência das câmaras municipais.
 
 3 - O produto das coimas reverte para a respectiva autarquia local como receita própria.
 
-###### Art. 5.º - 1 - Independentemente do processo das contra-ordenações e da aplicação das coimas, as câmaras municipais podem ordenar a cessação imediata das acções desenvolvidas em violação do disposto no presente diploma.
+Art. 5.º - 1 - Independentemente do processo das contra-ordenações e da aplicação das coimas, as câmaras municipais podem ordenar a cessação imediata das acções desenvolvidas em violação do disposto no presente diploma.
 
 2 - O incumprimento da ordem referida no número anterior constitui crime de desobediência punível nos termos do artigo 388.º do Código Penal.
 
-###### Art. 6.º O presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que lhe possam ser introduzidas por diploma das respectivas assembleias regionais.
+Art. 6.º O presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que lhe possam ser introduzidas por diploma das respectivas assembleias regionais.
 
-###### Art. 7.º É revogado o [Decreto-Lei n.º 357/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1975-336768), de 8 de Julho.
+Art. 7.º É revogado o [Decreto-Lei n.º 357/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1975-336768), de 8 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 9 de Março de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 14 de Abril de 1989.**
+Promulgado em 14 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Abril de 1989.**
+Referendado em 14 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

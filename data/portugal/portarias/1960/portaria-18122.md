@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18122-1960-512814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a440c9368dca382f05d647fca7f7fff943c154496fedacc66e79863bb4c81f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c46bea106f950366032a1474477bf0b127da257b53efca9edebc7a7a76f3980
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,29 @@ relationships:
   target: pt:dre:196491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196491:por
+  label: "Substituídas as al.s a) e b) do nº 3º, pela PORT.19818.22.04.1963.MOP, DG.IS [95] de 22.04.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19818-1963-196491
+  date: '1963-04-22'
+- type: cites
+  target: pt:dre:281620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432216:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:19Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +148,7 @@ a) Divisão do Planeamento:
 
 4 desenhadores.
 
-#### Secção de Cartogrametria:
+Secção de Cartogrametria:
 
 1 engenheiro civil de 2.ª classe (chefe da secção);
 

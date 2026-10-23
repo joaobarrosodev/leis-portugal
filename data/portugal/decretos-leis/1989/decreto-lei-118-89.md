@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1989-615238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f76d5e1d84a0fc37cb163d9aa965ce5a707e0c1cbac88f19764a1a73a38a567b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcdfe2896031a228062f4fd901cc98d21905ef60a9337b120492ebe16033ce5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Protocolar de Formação Profissional para o Sector Agro-pecuário
+- Gabinete da Área de Sines
+- Instalação de Serviços
+- Instituto do Emprego e Formação Profissional
+- Integração de Trabalhadores
+- Transferência de Pessoal
+- Transferência Patrimonial
+- Transmissão da Propriedade
+relationships:
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495086:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:37Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +114,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É transmitida para o Estado a propriedade dos prédios rústicos e urbanos identificados nos anexos I e II, cujo valor patrimonial actual é de 175000000$00.
+Artigo 1.º É transmitida para o Estado a propriedade dos prédios rústicos e urbanos identificados nos anexos I e II, cujo valor patrimonial actual é de 175000000$00.
 
-###### Art. 2.º OS prédios transmitidos para o Estado nos termos do artigo anterior são afectos ao Instituto do Emprego e Formação Profissional (IEFP), designadamente para instalação do CENTAGRO - Centro Protocolar de Formação Profissional para o Sector Agro-Pecuário, constituído por protocolo homologado pela [Portaria n.º 780/87](https://diariodarepublica.pt/dr/detalhe/portaria/780-1987-495086), de 8 de Setembro.
+Art. 2.º OS prédios transmitidos para o Estado nos termos do artigo anterior são afectos ao Instituto do Emprego e Formação Profissional (IEFP), designadamente para instalação do CENTAGRO - Centro Protocolar de Formação Profissional para o Sector Agro-Pecuário, constituído por protocolo homologado pela [Portaria n.º 780/87](https://diariodarepublica.pt/dr/detalhe/portaria/780-1987-495086), de 8 de Setembro.
 
-###### Art. 3.º - 1 - Os funcionários e agentes do Gabinete da Área de Sines (GAS) que se encontram requisitados no CENTAGRO serão integrados no quadro de pessoal do IEFP, sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro:
+Art. 3.º - 1 - Os funcionários e agentes do Gabinete da Área de Sines (GAS) que se encontram requisitados no CENTAGRO serão integrados no quadro de pessoal do IEFP, sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro:
 
 a) Em categoria idêntica à que o funcionário já possui;
 
@@ -106,21 +126,21 @@ b) Sem prejuízo das habilitações legais, na categoria que integra as funçõe
 
 2 - Para efeitos do disposto no número anterior, os Ministros das Finanças e do Emprego e da Segurança Social poderão criar no IEFP, mediante portaria, os lugares necessários, extinguindo-se os lugares correspondentes no quadro de pessoal do GAS.
 
-###### Art. 4.º O presente decreto-lei constitui título bastante das transmissões de propriedade que estatui, para todos os efeitos legais, incluindo os de registo.
+Art. 4.º O presente decreto-lei constitui título bastante das transmissões de propriedade que estatui, para todos os efeitos legais, incluindo os de registo.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José Albino da Silva Peneda.
 
-**Promulgado em 19 de Janeiro de 1989.**
+Promulgado em 19 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Janeiro de 1989.**
+Referendado em 20 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08700/16221623.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08700/16221623.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08700/16221623.pdf)
 
 ## ANEXO II
 

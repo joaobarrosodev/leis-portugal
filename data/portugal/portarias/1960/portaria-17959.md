@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17959-1960-514828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8c975bcccb436f7ce671f810f827d0cbf129b2e74fbd974413b4ce185899dc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c7e1b63ec0671e011819874eb7ab72f72387d609aa86fbde872344272e95eb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:281456:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:49Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +101,6 @@ Ministério das Corporações e Previdência Social, 23 de Setembro de 1960. - O
 
 Da Figura n.º 1 à Figura n.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/09/22200/20612062.pdf))](https://files.diariodarepublica.pt/1s/1960/09/22200/20612062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/09/22200/20612062.pdf)
 
 Ministério das Corporações e Previdência Social, 23 de Setembro de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.

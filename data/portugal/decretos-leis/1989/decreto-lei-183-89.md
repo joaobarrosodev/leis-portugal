@@ -46,36 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92488c51edb47250dcf3394031cd86c477e7a00e825d4f957b2c453ec2c04c0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d3d9ad0893f4891e114dfed3900ac60fa0f7d493771c5af11416e5dbeba3fee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Gabinete da Área de Sines
+- Integração de Trabalhadores
+- Santiago do Cacém
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:175372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:639773:por
+  label: Rectificado pela DECL.DD3769.1989.07.24.PCM DR.IS [174] DE 31/JUL/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-639773
+  date: '1989-07-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:07Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +158,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São integrados no património do Município de Santiago do Cacém (MSC) os equipamentos e infra-estruturas construídos no respectivo território pelo Gabinete da Área de Sines (GAS) ao abrigo das competências previstas nas alíneas c) e f) do artigo 4.º do [Decreto-Lei n.º 487/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1980-462587), de 17 de Outubro, e legislação antecedente, na parte em que se sobrepõem às atribuições e competências das autarquias locais.
+Artigo 1.º - 1 - São integrados no património do Município de Santiago do Cacém (MSC) os equipamentos e infra-estruturas construídos no respectivo território pelo Gabinete da Área de Sines (GAS) ao abrigo das competências previstas nas alíneas c) e f) do artigo 4.º do [Decreto-Lei n.º 487/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1980-462587), de 17 de Outubro, e legislação antecedente, na parte em que se sobrepõem às atribuições e competências das autarquias locais.
 
 2 - Consideram-se desde já abrangidos pelo disposto no número anterior:
 
@@ -120,7 +170,7 @@ c) Os equipamentos colectivos e todos os terrenos destinados à sua construção
 
 d) A rede de drenagem de águas residuais, domésticas e pluviais do Centro Urbano de Santo André.
 
-###### Art. 2.º É transmitida para o MSC a propriedade dos seguintes imóveis:
+Art. 2.º É transmitida para o MSC a propriedade dos seguintes imóveis:
 
 a) Todos os terrenos e edifícios sitos nos perímetros urbanos da vila de Santiago do Cacém e das aldeias de Azinhal, Brescos, Deixa-o-Resto, Foros da Quinta, Relvas Verdes, Santa Cruz e Santo André;
 
@@ -128,15 +178,15 @@ b) Os terrenos destinados a reconversão urbanística da Costa de Santo André d
 
 c) Todos os terrenos destinados a autoconstrução em Santo André, atribuídos ou a atribuir, integrados em loteamentos aprovados para esse fim.
 
-###### Art. 3.º - 1 - É atribuído o valor patrimonial de 137 milhões de escudos aos bens cuja propriedade é transmitida nos termos do artigo anterior.
+Art. 3.º - 1 - É atribuído o valor patrimonial de 137 milhões de escudos aos bens cuja propriedade é transmitida nos termos do artigo anterior.
 
 2 - É nulo o valor patrimonial dos restantes equipamentos e infra-estruturas por se encontrar tecnicamente incorporado nos valores dos imóveis urbanos existentes.
 
-###### Art. 4.º - 1 - O MSC assume, a contar do dia 1 de Janeiro de 1989, a posição jurídica do GAS em todas as relações contratuais referentes aos bens transmitidos nos termos dos artigos precedentes.
+Art. 4.º - 1 - O MSC assume, a contar do dia 1 de Janeiro de 1989, a posição jurídica do GAS em todas as relações contratuais referentes aos bens transmitidos nos termos dos artigos precedentes.
 
 2 - A posição de fundeiro, relativamente aos terrenos referidos no artigo 2.º, é transmitida para o MSC.
 
-###### Art. 5.º - 1 - É transmitida para o Estado a propriedade dos terrenos destinados à instalação da Zona de Indústria Ligeira de Santo André (ZIL-1), com o valor patrimonial de 900 milhões de escudos, os quais serão identificados nos termos do artigo 10.º
+Art. 5.º - 1 - É transmitida para o Estado a propriedade dos terrenos destinados à instalação da Zona de Indústria Ligeira de Santo André (ZIL-1), com o valor patrimonial de 900 milhões de escudos, os quais serão identificados nos termos do artigo 10.º
 
 2 - A gestão e administração da ZIL-1 é atribuída, por um prazo de dez anos, renovável por iguais períodos, salvo declaração em sentido contrário por parte do Estado, ao MSC, o qual, através dos órgãos para o efeito competentes, poderá:
 
@@ -146,15 +196,15 @@ b) Exercer, em nome próprio, todos os direitos correspondentes aos de propriet�
 
 c) Executar e manter as infra-estruturas necessárias.
 
-###### Art. 6.º - 1 - Pelas transmissões referidas nos artigos precedentes não é devida qualquer contrapartida financeira a prestar pelo MSC.
+Art. 6.º - 1 - Pelas transmissões referidas nos artigos precedentes não é devida qualquer contrapartida financeira a prestar pelo MSC.
 
 2 - Nos termos do artigo 7.º do [Decreto-Lei n.º 242/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1987-419057), de 15 de Junho, transitará para o orçamento da Direcção-Geral do Tesouro (DGT) uma verba no montante de 137 milhões de escudos, correspondente à dívida do GAS para com a DGT e referente aos bens indicados no artigo 2.º do presente diploma.
 
-###### Art. 7.º - 1 - As atribuições cometidas ao GAS no âmbito da gestão, manutenção e funcionamento das infra-estruturas e equipamentos referidos no artigo 1.º, bem como a recolha de resíduos sólidos urbanos, serão exercidas pelo MSC a partir de 1 de Janeiro de 1989.
+Art. 7.º - 1 - As atribuições cometidas ao GAS no âmbito da gestão, manutenção e funcionamento das infra-estruturas e equipamentos referidos no artigo 1.º, bem como a recolha de resíduos sólidos urbanos, serão exercidas pelo MSC a partir de 1 de Janeiro de 1989.
 
 2 - Como contrapartida das novas responsabilidades assumidas, a administração central pagará em 1989 ao MSC, nos termos da Lei das Finanças Locais, a quantia de 41 milhões de escudos, correspondente ao valor das despesas com os serviços mencionados no número anterior e com exclusão das despesas com pessoal, às quais se aplica o disposto no artigo seguinte.
 
-###### Art. 8.º - 1 - Os funcionários do quadro do GAS que transitarem para o quadro único do Ministério do Planeamento e da Administração do Território (MPAT), nos termos do [Decreto-Lei n.º 332/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1988-355524), e que estejam afectos aos serviços transferidos são destacados, com efeitos a partir de 1 de Janeiro de 1989, para o MSC, por um ano, sendo os respectivos encargos suportados pela Secretaria-Geral do MPAT.
+Art. 8.º - 1 - Os funcionários do quadro do GAS que transitarem para o quadro único do Ministério do Planeamento e da Administração do Território (MPAT), nos termos do [Decreto-Lei n.º 332/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1988-355524), e que estejam afectos aos serviços transferidos são destacados, com efeitos a partir de 1 de Janeiro de 1989, para o MSC, por um ano, sendo os respectivos encargos suportados pela Secretaria-Geral do MPAT.
 
 2 - Findo o prazo referido no número anterior, o pessoal em causa será integrado no quadro daquela autarquia ou adquirirá a qualidade de excedente, nos termos e para os efeitos do disposto no [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
 
@@ -162,26 +212,26 @@ c) Executar e manter as infra-estruturas necessárias.
 
 4 - Os acréscimos de despesas com pessoal realizadas pelo MSC em cumprimento do disposto no presente diploma não são considerados, no ano em que ocorram, para efeitos do disposto no artigo 10.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, com as alterações decorrentes da [Lei n.º 44/85](https://diariodarepublica.pt/dr/detalhe/lei/44-1985-177394), de 13 de Setembro.
 
-###### Art. 9.º - 1 - O Estado poderá celebrar contratos-programa e acordos de colaboração com o MSC para execução de infra-estruturas e equipamentos colectivos na área de intervenção do GAS, cujo programa global constará do protocolo ou protocolos a que se refere o artigo seguinte.
+Art. 9.º - 1 - O Estado poderá celebrar contratos-programa e acordos de colaboração com o MSC para execução de infra-estruturas e equipamentos colectivos na área de intervenção do GAS, cujo programa global constará do protocolo ou protocolos a que se refere o artigo seguinte.
 
 2 - O financiamento dos investimentos previstos no número anterior e que, de acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 487/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1980-462587), de 17 de Outubro, eram da competência do GAS será feito nos termos do n.º 5 do artigo 6.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro.
 
-###### Art. 10.º - 1 - As afectações e transferências patrimoniais previstas no presente diploma efectivam-se por protocolo, nos termos do artigo 13.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março.
+Art. 10.º - 1 - As afectações e transferências patrimoniais previstas no presente diploma efectivam-se por protocolo, nos termos do artigo 13.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março.
 
 2 - Os protocolos a celebrar nos termos do número anterior serão assinados pelo conselho de gestão do GAS e homologados por portaria do Ministro do Planeamento e da Administração do Território.
 
 3 - O presente decreto-lei e os protocolos a que se referem os números anteriores, depois de homologados e publicados, constituem título bastante das transmissões dominiais respectivas para todos os efeitos legais, incluindo os de registo.
 
-###### Art. 11.º A execução da 2.ª fase da obra do mercado municipal e a conclusão das obras de arranjos exteriores e instalação de equipamentos do Complexo Desportivo da Cidade de Santo André são cometidas ao MSC, sendo para o efeito transferida para o respectivo orçamento a verba de 100 milhões de escudos da conta de saldos disponíveis do orçamento privativo do GAS.
+Art. 11.º A execução da 2.ª fase da obra do mercado municipal e a conclusão das obras de arranjos exteriores e instalação de equipamentos do Complexo Desportivo da Cidade de Santo André são cometidas ao MSC, sendo para o efeito transferida para o respectivo orçamento a verba de 100 milhões de escudos da conta de saldos disponíveis do orçamento privativo do GAS.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 11 de Maio de 1989.**
+Promulgado em 11 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1989.**
+Referendado em 16 de Maio de 1989.
 
 O Primeiro Ministro, Aníbal António Cavaco Silva.

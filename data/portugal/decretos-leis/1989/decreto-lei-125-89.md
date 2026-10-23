@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/08700/16471647.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1989-615243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abe109bab67512e9e5777d91bad36dcc6e79cd6b60545afa6476bca785348a0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66ca8d8e762462a44e1f396ec67e21705a0fb29a2457d7a11a62b08629dd6746
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Nacional de Pensões
+- Prorrogação de Prazo
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574924:por
+  label: "Prorrogado até 31.12.1990 o prazo do regime de instalação do Centro Nacional de Pensões, previsto no art. 1º do\
+    \ presente diploma, pelo DEC LEI.185/90.06.06.1990.MESS, DR.IS [130] de 06.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1990-574924
+  date: '1990-06-06'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421474:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:47Z'
   warnings: []
   errors: []
 ---
@@ -104,18 +130,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É prorrogado até 31 de Dezembro de 1989 o prazo do regime de instalação do Centro Nacional de Pensões (CNP), estabelecido no artigo 1.º do [Decreto-Lei n.º 209/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1987-421474), de 19 de Maio.
+Artigo 1.º É prorrogado até 31 de Dezembro de 1989 o prazo do regime de instalação do Centro Nacional de Pensões (CNP), estabelecido no artigo 1.º do [Decreto-Lei n.º 209/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1987-421474), de 19 de Maio.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1989.
+Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 4 de Abril de 1989.**
+Promulgado em 4 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Abril de 1989.**
+Referendado em 7 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

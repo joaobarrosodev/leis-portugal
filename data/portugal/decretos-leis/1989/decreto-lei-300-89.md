@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/20300/37893790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1989-547180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8862906c469d47fc9af1e883f935c4fcf1c97f4f1829f7064b4a4f2b8f340ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a81b1854524ee18a266dd28e5cd46c908ce0fbbe58d51bc8c3bb8e79d7c0797
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atleta Profissional
+- Contribuições da Segurança Social
+- Desporto
+- Desporto Profissional
+- Futebol
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452480:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º 119/2009, de 30 de\
+    \ Dezembro), pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação\
+    \ [prevista no art. 4.º] se manter transitoriamente em vigor as disposições procedimentais do presente diploma que não\
+    \ contrariem o disposto no Código aprovado pela citada Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:58Z'
   warnings: []
   errors: []
 ---
@@ -157,12 +179,12 @@ O presente diploma entra em vigor no dia 1 de Setembro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1989. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
 
-**Promulgado em 15 de Agosto de 1989.**
+Promulgado em 15 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1989.**
+Referendado em 22 de Agosto de 1989.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.

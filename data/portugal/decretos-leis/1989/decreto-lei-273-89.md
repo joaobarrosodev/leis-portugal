@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19100/34283433.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1989-618543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 789c944dd09638d47b0ff2aa54373531e94751bde3e0c85e9b8439901bdf9e3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f25fdf871ede91156f45e41091820c8830a2a1e5e41330fcf3de0bc9969e8d71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Contra-ordenação
+- Doença Profissional
+- Fiscalização
+- Higiene do Trabalho
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:137703603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345124:por
+  label: "Alterado o art. 20.º pela LEI.113/99.1999.08.03.AR DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/113-1999-345124
+  date: '1999-08-03'
+- type: corrected_by
+  target: pt:dre:192868:por
+  label: Rectificado pela DECL.DD3552.1989.11.22.PCM DR.IS [276]SUPL DE 30/NOV/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-192868
+  date: '1989-11-22'
+- type: corrected_by
+  target: pt:dre:150302:por
+  label: Rectificado o n.º 6 do artigo 5.º e o n.º 3 do artigo 12.º, pela DECL.DD3283.31.01.1990.PCM, DR.IS [26]2ºSupl de
+    31.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-150302
+  date: '1990-01-12'
+- type: repealed_by
+  target: pt:dre:616576:por
+  label: "Revogado, com efeitos a partir de 29 de Abril de 2003, pelo DEC LEI.301/2000.2000.11.18.MTS DR.IS-A [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-2000-616576
+  date: '2000-11-18'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:16Z'
   warnings: []
   errors: []
 ---
@@ -325,15 +352,15 @@ c) De 100000$00 a 500000$00, a violação do disposto no artigo 15.º
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda.
 
-**Promulgado em 28 de Julho de 1989.**
+Promulgado em 28 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Agosto de 1989.**
+Referendado em 4 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Justificação estatística do valor técnico de longa duração
 
@@ -357,7 +384,7 @@ Esta relação pode, de forma aproximada, exprimir-se através da seguinte funç
 
 3 - Admitindo estas hipóteses, obtém-se em média uma relação entre os valores limite para períodos de referência mais curtos e o valor limite técnico de longa duração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19100/34283433.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19100/34283433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19100/34283433.pdf)
 
 4 - A probabilidade de serem excedidos os valores limite acima indicados relativamente a períodos de referência inferiores a um ano é, no máximo, de 5% quando a média aritmética anual das concentrações do cloreto vinilo monómero na atmosfera for igual a três partes por milhão.
 

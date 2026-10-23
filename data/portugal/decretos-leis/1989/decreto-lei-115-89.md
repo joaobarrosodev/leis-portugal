@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1989-615242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 195db13944520e1e75753a0920dc3381a29f50ec20dcfe1e4b96dfb05cdb524b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c67d7d1df2213d1bb7a35a324cb18c48b5b5d69b774b423f44bc58120cca97b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Definição de Competências
+- Direcção Geral dos Recursos Naturais
+- Gabinete da Área de Sines
+- Gestão de Recursos Humanos
+- Santiago do Cacém
+- Sines
+- Transferência de Competências
+- Transferência de Serviços
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:1051282290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383440:por
+  label: Acrescentado um art 18.º-A ao Dec Lei 191/93 de 24-Maio, que determinou a transição para o Insituto da Água (INAG)
+    da delegação da Direção-Geral de Recursos Naturais -DGRN, em Santo André e do Centro de Estudos de Geologia e Geotecnia
+    de Santo André, criados pelo presente diploma, mantendo respectiva a estrutura e funcionamento, pelo(a) Decreto-Lei n.º
+    110/97 - Diário da República n.º 106/1997, Série I-A de 1997-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-1997-383440
+  date: '1997-05-08'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662297:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:32Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +154,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É transmitida para o Estado a propriedade dos imóveis, infra-estruturas e equipamentos que constituem os sistemas de saneamento básico e o Centro de Estudos de Geologia e Geotecnia de Santo André (CEGSA), do Gabinete da Área de Sines (GAS), com o valor patrimonial actual de 36 milhões de contos.
+Artigo 1.º - 1 - É transmitida para o Estado a propriedade dos imóveis, infra-estruturas e equipamentos que constituem os sistemas de saneamento básico e o Centro de Estudos de Geologia e Geotecnia de Santo André (CEGSA), do Gabinete da Área de Sines (GAS), com o valor patrimonial actual de 36 milhões de contos.
 
 2 - Exceptuam-se do disposto no número anterior:
 
@@ -114,7 +164,7 @@ b) As redes de drenagem de águas residuais domésticas e de águas pluviais do 
 
 3 - A lista discriminativa dos bens transmitidos para o Estado nos termos do n.º 1 será publicada mediante portaria conjunta dos Ministros das Finanças e do Planeamento e da Administração do Território.
 
-###### Art. 2.º - 1 - O património transmitido para o Estado nos termos do artigo anterior é afecto à Direcção - Geral dos Recursos Naturais (DGRN), a qual assume todas as atribuições, competências, direitos e obrigações de que o GAS é titular, nos termos legais e contratuais, relativos àqueles bens, nomeadamente:
+Art. 2.º - 1 - O património transmitido para o Estado nos termos do artigo anterior é afecto à Direcção - Geral dos Recursos Naturais (DGRN), a qual assume todas as atribuições, competências, direitos e obrigações de que o GAS é titular, nos termos legais e contratuais, relativos àqueles bens, nomeadamente:
 
 a) A competência para cobrar receitas pelos serviços prestados, nos termos dos Decretos-Leis n.os [444/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1979-363279), de 9 de Novembro, [122/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1987-662297), de 16 de Março, e [18/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1987-599571), de 10 de Janeiro, a aplicar em despesas de funcionamento e de investimento de acordo com orçamento próprio;
 
@@ -122,11 +172,11 @@ b) A competência para cobrar taxas pelos serviços de tratamento e eliminação
 
 2 - As taxas referidas na alínea b) do número anterior, a fixar por portaria do Ministro do Planeamento e da Administração do Território, são devidas por todos os utentes do sistema, incluindo municípios.
 
-###### Art. 3.º - 1 - Para administração dos sistemas de saneamento básico a que se refere o presente diploma, é criada uma delegação da DGRN em Santo André, a nível de direcção de serviços, integrando as Divisões de Exploração e Manutenção Geral, de Planeamento e Obras, de Acções de Formação e de Gestão Administrativa.
+Art. 3.º - 1 - Para administração dos sistemas de saneamento básico a que se refere o presente diploma, é criada uma delegação da DGRN em Santo André, a nível de direcção de serviços, integrando as Divisões de Exploração e Manutenção Geral, de Planeamento e Obras, de Acções de Formação e de Gestão Administrativa.
 
 2 - Para execução do disposto no número anterior, são desde já criados um lugar de director de serviços e quatro lugares de chefe de divisão, aumentados aos quadros I e II anexos ao [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, extinguindo-se os lugares correspondentes no quadro anexo ao [Decreto-Lei n.º 120/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1989-615239), de 14 de Abril.
 
-###### Art. 4.º - 1 - Os funcionários e agentes do GAS, bem como os concursados nos termos do artigo 4.º do [Decreto-Lei n.º 120/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1989-615239), de 14 de Abril, considerados indispensáveis ao funcionamento dos bens a que se referem os artigos anteriores, serão afectos à DGRN, sob proposta do conselho de gestão do GAS, ou de quem o substituir para o efeito, nos termos do disposto na alínea a) do n.º 1 do artigo 6.º do referido decreto-lei.
+Art. 4.º - 1 - Os funcionários e agentes do GAS, bem como os concursados nos termos do artigo 4.º do [Decreto-Lei n.º 120/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1989-615239), de 14 de Abril, considerados indispensáveis ao funcionamento dos bens a que se referem os artigos anteriores, serão afectos à DGRN, sob proposta do conselho de gestão do GAS, ou de quem o substituir para o efeito, nos termos do disposto na alínea a) do n.º 1 do artigo 6.º do referido decreto-lei.
 
 2 - Nos termos da alínea a) do n.º 1 do artigo 2.º e para execução do disposto no número anterior, será autonomizada na dotação global atribuída à DGRN uma dotação destinada à integração de pessoal oriundo do GAS afecto à exploração dos sistemas de saneamento básico da sua área de actuação directa.
 
@@ -136,11 +186,11 @@ b) A competência para cobrar taxas pelos serviços de tratamento e eliminação
 
 5 - Mantêm-se em vigor os regimes de trabalho por turnos e de prevenção aprovados pelo [Decreto-Lei n.º 88/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1983-310858), de 12 de Fevereiro, para o pessoal afecto à exploração dos sistemas de saneamento básico transferidos para a DGRN.
 
-###### Art. 5.º - 1 - O GAS promoverá as alterações do seu orçamento privativo com vista à transferência das dotações indispensáveis à execução do disposto nos artigos anteriores para a DGRN, que elaborará orçamento privativo para o efeito.
+Art. 5.º - 1 - O GAS promoverá as alterações do seu orçamento privativo com vista à transferência das dotações indispensáveis à execução do disposto nos artigos anteriores para a DGRN, que elaborará orçamento privativo para o efeito.
 
 2 - Enquanto não vigorarem as alterações orçamentais previstas no número anterior, as despesas de funcionamento relativas aos bens, funções e pessoal transferidos pelo presente decreto-lei serão suportadas pelas dotações adequadas do orçamento do GAS ou de quem lhe suceder.
 
-###### Art. 6.º - 1 - É criado na DGRN o Centro de Estudos de Geologia e Geotecnia de Santo André (CEGSA), ao qual são afectos as funções, o pessoal e o património do CEGSA do GAS.
+Art. 6.º - 1 - É criado na DGRN o Centro de Estudos de Geologia e Geotecnia de Santo André (CEGSA), ao qual são afectos as funções, o pessoal e o património do CEGSA do GAS.
 
 2 - O CEGSA apoiará a DGRN nos aspectos técnico e científico no domínio da geotecnia.
 
@@ -154,13 +204,13 @@ c) Desenvolver estudos ou projectos de investigação próprios, subsidiados ou 
 
 4 - As quantias cobradas pela DGRN provenientes de serviços prestados pelo CEGSA a entidades públicas ou privadas, bem como quaisquer quantias que lhe sejam atribuídas, designadamente subsídios, comparticipações e doações, e ainda o produto de contratos referentes a estudos, projectos de investigação ou qualquer forma de prestação de serviços, constituem receitas próprias da DGRN, a integrar, como orçamento parcelar, afecto ao CEGSA, no orçamento privativo da DGRN.
 
-###### Art. 7.º - 1 - Para execução do disposto no n.º 1 do artigo 4.º, será autonomizada na dotação global atribuída à DGRN uma dotação destinada a integrar o pessoal actualmente afecto ao CEGSA.
+Art. 7.º - 1 - Para execução do disposto no n.º 1 do artigo 4.º, será autonomizada na dotação global atribuída à DGRN uma dotação destinada a integrar o pessoal actualmente afecto ao CEGSA.
 
 2 - O pessoal a que se refere o número anterior é afecto ao CEGSA por um período experimental de dois anos, findo o qual será revista a dotação privativa do CEGSA.
 
 3 - O CEGSA poderá propor à DGRN a aquisição de serviços de especialistas de reconhecido mérito para execução de trabalhos específicos, nos termos das disposições legais aplicáveis, cujos encargos serão suportados pelo orçamento parcelar referido no n.º 4 do artigo 6.º
 
-###### Art. 8.º - 1 - O CEGSA é dirigido por um especialista de reconhecido mérito da área da geotecnia, equiparado a director de serviços, nomeado por despacho do Ministro do Planeamento e da Administração do Território, sob proposta do director-geral dos Recursos Naturais.
+Art. 8.º - 1 - O CEGSA é dirigido por um especialista de reconhecido mérito da área da geotecnia, equiparado a director de serviços, nomeado por despacho do Ministro do Planeamento e da Administração do Território, sob proposta do director-geral dos Recursos Naturais.
 
 2 - São criadas no CEGSA a Divisão de Geologia e Prospecção, a Divisão de Mecânica dos Solos, das Rochas e Laboratório, bem como a Secção Administrativa.
 
@@ -168,16 +218,16 @@ c) Desenvolver estudos ou projectos de investigação próprios, subsidiados ou 
 
 4 - Para além do disposto nos números anteriores, a estrutura e o funcionamento do CEGSA serão definidos mediante portaria do Ministro do Planeamento e da Administração do Território.
 
-###### Art. 9.º O presente diploma constitui título bastante das transmissões de propriedade que estatui, para todos os efeitos legais, incluindo os de registo.
+Art. 9.º O presente diploma constitui título bastante das transmissões de propriedade que estatui, para todos os efeitos legais, incluindo os de registo.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 27 de Janeiro de 1989.**
+Promulgado em 27 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1989.**
+Referendado em 30 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

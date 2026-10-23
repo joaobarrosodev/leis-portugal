@@ -47,40 +47,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1989-620292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c369f50561cdc28914f9f7eb8fa6942a0db6e6e1e0203e09ba8988a965527c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a62508d3edfc52e82b262278bcf86135e95b3f9f3bc6dfe8d37fdb57674c7c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aditivo Alimentar
+- Comissão de Análise
+- Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:225196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678398:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:639877:por
+  label: Rectificado o artigo 9.º pela DECL.DD797.31.07.1989.PCM, DR.IS [174]Supl de 31.07.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-639877
+  date: '1989-07-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:22Z'
   warnings: []
   errors: []
 ---
@@ -109,11 +198,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma fixa os princípios gerais orientadores da utilização dos aditivos alimentares nos géneros alimentícios, define as regras a que deve obedecer a sua aplicação e estabelece disposições relativas à sua avaliação toxicológica.
+Artigo 1.º - 1 - O presente diploma fixa os princípios gerais orientadores da utilização dos aditivos alimentares nos géneros alimentícios, define as regras a que deve obedecer a sua aplicação e estabelece disposições relativas à sua avaliação toxicológica.
 
 2 - Para efeitos deste diploma, não são considerados aditivos alimentares os auxiliares tecnológicos, bem como as vitaminas, sais minerais e outros nutrientes, vulgarmente adicionados aos géneros alimentícios com a finalidade de lhes melhorar as propriedades nutritivas.
 
-###### Art. 2.º Para efeitos deste diploma entende-se por:
+Art. 2.º Para efeitos deste diploma entende-se por:
 
 a) Género alimentício - toda a substância, seja ou não tratada, destinada à alimentação humana, englobando as bebidas e os produtos do tipo das pastilhas elásticas, com todos os ingredientes utilizados no seu fabrico, preparação e tratamento;
 
@@ -121,7 +210,7 @@ b) Aditivo alimentar - toda a substância, tenha ou não valor nutritivo, que po
 
 c) Auxiliar tecnológico - toda a substância utilizada intencionalmente para desempenhar uma dada função tecnológica durante a obtenção, tratamento ou transformação de matérias-primas, géneros alimentícios ou seus ingredientes e que pode ocasionar a presença involuntária, mas inevitável, de resíduos ou de seus derivados no produto acabado.
 
-###### Art. 3.º - 1 - A utilização dos aditivos alimentares nos géneros alimentícios deve obedecer aos seguintes princípios:
+Art. 3.º - 1 - A utilização dos aditivos alimentares nos géneros alimentícios deve obedecer aos seguintes princípios:
 
 a) Não acarretar perigo para a saúde do consumidor, na dose ministrada;
 
@@ -145,7 +234,7 @@ d) Aumentar a apetência do consumidor;
 
 e) Fornecer os ingredientes necessários a géneros alimentícios destinados a grupos de consumidores que tenham necessidades nutritivas especiais.
 
-###### Art. 4.º - 1 - Os aditivos alimentares admissíveis nos géneros alimentícios, os respectivos critérios de pureza e as condições da sua utilização constarão de portaria conjunta dos Ministros do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e da Saúde, sob proposta do Instituto de Qualidade Alimentar (IQA).
+Art. 4.º - 1 - Os aditivos alimentares admissíveis nos géneros alimentícios, os respectivos critérios de pureza e as condições da sua utilização constarão de portaria conjunta dos Ministros do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e da Saúde, sob proposta do Instituto de Qualidade Alimentar (IQA).
 
 2 - A admissão de outros aditivos alimentares ou a alteração das condições de utilização fixadas nos termos do número anterior será requerida ao IQA pela entidade interessada.
 
@@ -153,7 +242,7 @@ e) Fornecer os ingredientes necessários a géneros alimentícios destinados a g
 
 4 - Exceptuam-se do disposto no n.º 1 os aditivos alimentares utilizados nos géneros alimentícios destinados à exportação, desde que estes satisfaçam as exigências dos países a que se destinam.
 
-###### Art. 5.º - 1 - É criada a Comissão de Avaliação Toxicológica dos Aditivos Alimentares (CATA), a qual tem competência consultiva e é constituída pelos seguintes membros, a designar por despacho dos respectivos ministros da tutela:
+Art. 5.º - 1 - É criada a Comissão de Avaliação Toxicológica dos Aditivos Alimentares (CATA), a qual tem competência consultiva e é constituída pelos seguintes membros, a designar por despacho dos respectivos ministros da tutela:
 
 a) O representante de Portugal no Comité Científico de Alimentação Humana, da Comissão das Comunidades Europeias;
 
@@ -175,7 +264,7 @@ i) Um especialista na matéria de reconhecida competência, sob proposta do IQA.
 
 2 - A CATA é presidida pelo representante de Portugal no Comité Científico de Alimentação Humana, da Comissão das Comunidades Europeias, e funcionará junto do IQA, que assegurará o respectivo secretariado e o apoio técnico e administrativo.
 
-###### Art. 6.º São competências da CATA:
+Art. 6.º São competências da CATA:
 
 a) Proceder à avaliação toxicológica dos aditivos, incluindo o estabelecimento das respectivas doses diárias admissíveis;
 
@@ -185,15 +274,15 @@ c) Pronunciar-se, a pedido de qualquer dos seus membros ou do Instituto Nacional
 
 d) Propor ao IQA a exclusão de aditivos alimentares já admitidos, sempre que a evolução dos conhecimentos técnicos e científicos o justifique.
 
-###### Art. 7.º - 1 - A CATA elaborará o seu regulamento interno no prazo de 60 dias após a sua constituição.
+Art. 7.º - 1 - A CATA elaborará o seu regulamento interno no prazo de 60 dias após a sua constituição.
 
 2 - Os membros da CATA são obrigados, mesmo após a cessação das funções, a não divulgar as informações que, pela sua natureza, estejam abrangidas pelo segredo profissional.
 
 3 - No regulamento referido no n.º 1 deverão ser estabelecidas as matérias abrangidas pelo segredo profissional.
 
-###### Art. 8.º São aplicáveis as disposições dos artigos 24.º, 58.º e 64.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+Art. 8.º São aplicáveis as disposições dos artigos 24.º, 58.º e 64.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
-###### Art. 9.º São revogáveis os seguintes diplomas:
+Art. 9.º São revogáveis os seguintes diplomas:
 
 a) [Decreto n.º 35815](https://diariodarepublica.pt/dr/detalhe/decreto/35815-1946-156042), de 19 de Agosto de 1946;
 
@@ -237,18 +326,18 @@ u) [Portaria n.º 651/85](https://diariodarepublica.pt/dr/detalhe/portaria/651-1
 
 v) [Portaria n.º 83/86](https://diariodarepublica.pt/dr/detalhe/portaria/83-1986-193600), de 12 de Março.
 
-###### Art. 10.º - 1 - O presente diploma entra em vigor 60 dias após a data da sua publicação.
+Art. 10.º - 1 - O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 2 - A partir da data da entrada em vigor, e até ao limite máximo de doze meses, podem continuar à venda os géneros alimentícios que não satisfaçam as disposições do presente diploma, desde que cumpram as exigências legais que lhe são aplicáveis à data da publicação deste decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 19 de Maio de 1989.**
+Promulgado em 19 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Maio de 1989.**
+Referendado em 25 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

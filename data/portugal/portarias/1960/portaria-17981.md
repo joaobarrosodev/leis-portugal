@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17981-1960-513864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d31b0b6909388d85bd3583486b2e41c7a45dc7bed6261717a36564a64d049c79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adeea93e1a65d46aed10932787044397c6210cb8f86ab4c22e6b3f9597525513
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:14Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +93,11 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 5000$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 5000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes de pessoal a pagar na metrópole» ... 45000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes de pessoal a pagar na metrópole» ... 45000$00
 
 ... 50000$00
 
@@ -101,6 +105,6 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 4), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado - Eventual» ... 50000$00
+Artigo 1.º, n.º 4), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado - Eventual» ... 50000$00
 
 Presidência do Conselho, 3 de Outubro de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.

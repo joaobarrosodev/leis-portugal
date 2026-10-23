@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/20200/37703772.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1989-546986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70c06983c9c523b42a9135b24ce3ad457b920f3b70463161ac4813e3ece61cf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f16a7395bfad46b1e8929332053afbde87f508840fcd60fc9896972a0ffa2748
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Poluição Sonora
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:448316:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:615046:por
+  label: "Revogado pelo DEC LEI.292/2000.2000.11.14.MAOT DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2000-615046
+  date: '2000-11-14'
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:48Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +107,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 20.º, 21.º, 22.º, 33.º, 35.º, 36.º e 37.º do Regulamento Geral sobre o Ruído, aprovado pelo Decreto-Lei n.º 251/87, de 24 de Junho, adiante designado por Regulamento, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 20.º, 21.º, 22.º, 33.º, 35.º, 36.º e 37.º do Regulamento Geral sobre o Ruído, aprovado pelo Decreto-Lei n.º 251/87, de 24 de Junho, adiante designado por Regulamento, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — [...]
 
@@ -186,7 +193,7 @@ Os aparelhos técnicos destinados a realizar determinações acústicas, no âmb
 
 4 - No caso referido no n.º 2, 50% da importância cobrada constituirá receita da comissão de coordenação regional da área, consignada a programas nos domínios do ambiente e da saúde.
 
-###### Art. 2.º É aditado ao Regulamento o capítulo X, composto pelo artigo 40.º, com a seguinte redacção:
+Art. 2.º É aditado ao Regulamento o capítulo X, composto pelo artigo 40.º, com a seguinte redacção:
 
 ### CAPÍTULO X — Disposição final
 
@@ -194,21 +201,21 @@ Os aparelhos técnicos destinados a realizar determinações acústicas, no âmb
 
 A tabela de honorários por prestação de serviços, na determinação de níveis de ruído, solicitados por entidades alheias ao Ministério do Planeamento e da Administração do Território, será submetida a homologação do respectivo ministro.
 
-###### Art. 3.º Os quadros n.os 9 e 10 do anexo II do Regulamento Geral sobre o Ruído são substituídos pelos quadros anexos ao presente diploma, que dele fazem parte integrante.
+Art. 3.º Os quadros n.os 9 e 10 do anexo II do Regulamento Geral sobre o Ruído são substituídos pelos quadros anexos ao presente diploma, que dele fazem parte integrante.
 
-###### Art. 4.º - 1 - As alterações ao Regulamento introduzidas pelo presente diploma aplicam-se aos processos de autorização ou licenciamento iniciados após a data da sua entrada em vigor, não afectando a validade das licenças e autorizações respeitantes a pedidos que tenham dado entrada nos serviços competentes até à mesma data, ainda que as mesmas sejam concedidas ou prorrogadas em data posterior.
+Art. 4.º - 1 - As alterações ao Regulamento introduzidas pelo presente diploma aplicam-se aos processos de autorização ou licenciamento iniciados após a data da sua entrada em vigor, não afectando a validade das licenças e autorizações respeitantes a pedidos que tenham dado entrada nos serviços competentes até à mesma data, ainda que as mesmas sejam concedidas ou prorrogadas em data posterior.
 
 2 - A classificação referida no artigo 4.º do Regulamento, na redacção dada pelo artigo 1.º do presente diploma, será realizada no prazo de um ano a contar da data da sua entrada em vigor pelas comissões de coordenação regional na respectiva área de jurisdição e submetida, para homologação, ao Ministro do Planeamento e da Administração do Território.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 15 de Agosto de 1989.**
+Promulgado em 15 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1989.**
+Referendado em 22 de Agosto de 1989.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo.
 
@@ -216,7 +223,7 @@ QUADRO N.º 9
 
 Valores limites dos níveis sonoros do ruído produzido por veículos automóveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20200/37703772.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20200/37703772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20200/37703772.pdf)
 
 QUADRO N.º 10
 
@@ -224,4 +231,4 @@ Valores limite dos níveis sonoros dos motociclos
 
 (Directiva n.º [87/56/CEE](http://data.europa.eu/eli/dir/1987/56/oj?locale=pt), do Conselho, de 18 de Dezembro de 1986)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20200/37703772.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20200/37703772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20200/37703772.pdf)

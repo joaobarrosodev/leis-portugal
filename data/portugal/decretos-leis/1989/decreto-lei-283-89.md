@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1989-618499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90e9f55a122b8e4aed5338d09bd38c19f0b1a5262a5c2f4e7dd778a29ab02b50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afaea53767f80886130dc2b807b3864230ffceb4331c0d73db356a94127bd279
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Estatuto
+- Instituto das Comunicações de Portugal
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:66761449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:565255:por
+  label: "Alterado o art. 24º pelo DEC LEI.379/90.07.12.1990.MOPTC, DR.IS [282] de 07.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/379-1990-565255
+  date: '1990-12-07'
+- type: amended_by
+  target: pt:dre:413411:por
+  label: "Alterados os arts. 14º e 15º pelo DEC LEI.95/96.1996.07.17.MEPAT, DR.IS-A [164]\064]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1996-413411
+  date: '1996-07-17'
+- type: amended_by
+  target: pt:dre:175780:por
+  label: "Alterada a redacção dos arts. 1º, 2º e 20º do presente diploma, pelo DEC LEI.100/98.1998.04.21.MEPAT DR.IS-A [93]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1998-175780
+  date: '1998-04-21'
+- type: cites
+  target: pt:dre:371790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662331:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:371790:por
+  label: "Revogado pelo DR.25/88.17.06.1988.MOPTC, DR.IS [138] de 17.06.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1988-371790
+  date: '1988-06-17'
+- type: repealed_by
+  target: pt:dre:576886:por
+  label: "Revogado, com excepção do nº 3 do art. 28º ,pelo DEC LEI.309/2001.2001.12.07.MES, DR.IS-A [283]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-2001-576886
+  date: '2001-12-07'
+- type: repealed_by
+  target: pt:dre:66761449:por
+  label: Revogado a partir de 01.04.2015, o Dec Lei 309/2001 de 07-dez, com exceção dos seus arts. 3.º e 5.º, este último
+    na parte em que manteve em vigor o n.º 3 do art. 28.º do presente diploma, pelo(a) Decreto-Lei n.º 39/2015 - Diário da
+    República n.º 52/2015, Série I de 2015-03-16, sem prejuízo do disposto no n.º 3 do seu art. 5.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2015-66761449
+  date: '2015-03-16'
 article_structure:
   article_count: 33
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:33Z'
   warnings: []
   errors: []
 ---
@@ -481,12 +538,12 @@ São revogados, com efeitos a partir de 30 de Setembro, os Decretos Regulamentar
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Agosto de 1989.**
+Referendado em 8 de Agosto de 1989.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo.

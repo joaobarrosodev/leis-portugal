@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1989-611537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 648b1d337a059543936b7aca4364cd82f8cb3310017e1bd9e5a405f674258a6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3413708fbfd491a3e6a3437d451c7711a1ae045dd6af68c0c55fe4e13da03385
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Científica
+- Autonomia Pedagógica
+- Autonomia Universitária
+- Ensino Superior
+- Gestão Escolar
+- Plano de Estudos
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:301611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:27Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +111,11 @@ Assim:
 
 No desenvolvimento do regime jurídico contido na [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A criação, suspensão, extinção e alteração de cursos nas universidades são da competência do respectivo senado universitário.
+Artigo 1.º - 1 - A criação, suspensão, extinção e alteração de cursos nas universidades são da competência do respectivo senado universitário.
 
 2 - A competência para propor a criação, suspensão, extinção e alteração de cursos, bem como o respectivo procedimento, são definidos nos estatutos da universidade.
 
-###### Art. 2.º - 1 - O projecto de criação, suspensão, extinção ou alteração de qualquer curso deve constar do plano de actividades a submeter à apreciação do Ministério da Educação, para efeitos do disposto na alínea e) do artigo 28.º da [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro, referente ao ano lectivo imediatamente anterior ao da respectiva concretização.
+Art. 2.º - 1 - O projecto de criação, suspensão, extinção ou alteração de qualquer curso deve constar do plano de actividades a submeter à apreciação do Ministério da Educação, para efeitos do disposto na alínea e) do artigo 28.º da [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro, referente ao ano lectivo imediatamente anterior ao da respectiva concretização.
 
 2 - Quando o projecto se refira à criação, suspensão, extinção ou alteração de cursos pós-graduados, poderá constar do plano de actividades referente ao ano lectivo da respectiva concretização.
 
@@ -112,7 +123,7 @@ No desenvolvimento do regime jurídico contido na [Lei n.º 108/88](https://diar
 
 4 - Quando o Estado opte por não financiar os novos cursos, por não se adequarem às prioridades nacionais de desenvolvimento da formação de quadros superiores, a universidade poderá, apesar disso, aprovar o projecto constante do plano de actividades, desde que assegure o necessário financiamento e não prejudique o financiamento dos restantes cursos ministrados.
 
-###### Art. 3.º - 1 - Da deliberação de criação ou alteração de cursos devem constar:
+Art. 3.º - 1 - Da deliberação de criação ou alteração de cursos devem constar:
 
 a) Os ramos ou áreas de especialização em que eventualmente se estruturem os respectivos cursos;
 
@@ -130,7 +141,7 @@ g) Outras comparticipações financeiras de entidades interessadas.
 
 2 - Quando os cursos se organizarem no sistema de unidades de crédito, da deliberação a que se refere o número anterior deve ainda constar o número total de unidades de crédito necessárias à concessão do grau e, bem assim, a atribuição de unidades de crédito às áreas científicas obrigatórias.
 
-###### Art. 4.º - 1 - A deliberação do senado universitário deve dar entrada na Direcção-Geral do Ensino Superior, para efeitos de registo e publicação, até 30 dias após a comunicação da decisão proferida sobre o projecto a que se refere o artigo 2.º
+Art. 4.º - 1 - A deliberação do senado universitário deve dar entrada na Direcção-Geral do Ensino Superior, para efeitos de registo e publicação, até 30 dias após a comunicação da decisão proferida sobre o projecto a que se refere o artigo 2.º
 
 2 - A Direcção-Geral do Ensino Superior apenas pode recusar o registo quando exista manifesta violação da legislação aplicável.
 
@@ -140,22 +151,22 @@ g) Outras comparticipações financeiras de entidades interessadas.
 
 5 - Devolvido o processo, a entidade proponente tem quinze dias para promover de novo o registo.
 
-###### Art. 5.º A deliberação do senado universitário só adquire eficácia com o registo na Direcção-Geral do Ensino Superior.
+Art. 5.º A deliberação do senado universitário só adquire eficácia com o registo na Direcção-Geral do Ensino Superior.
 
-###### Art. 6.º - 1 - A Direcção-Geral do Ensino Superior editará e manterá actualizado um ficheiro referente a todos os cursos de ensino superior em leccionação ou a leccionar nos estabelecimentos de ensino superior universitário.
+Art. 6.º - 1 - A Direcção-Geral do Ensino Superior editará e manterá actualizado um ficheiro referente a todos os cursos de ensino superior em leccionação ou a leccionar nos estabelecimentos de ensino superior universitário.
 
 2 - As actualizações anuais do ficheiro deverão estar concluídas até 30 de Junho.
 
-###### Art. 7.º Até à entrada em funções do senado universitário, constituído nos termos dos estatutos da universidade, a criação, a alteração, extinção ou suspensão de cursos far-se-ão por portaria do Ministro da Educação, sob proposta da universidade.
+Art. 7.º Até à entrada em funções do senado universitário, constituído nos termos dos estatutos da universidade, a criação, a alteração, extinção ou suspensão de cursos far-se-ão por portaria do Ministro da Educação, sob proposta da universidade.
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 1989. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 27 de Abril de 1989.**
+Promulgado em 27 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Maio de 1989.**
+Referendado em 2 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

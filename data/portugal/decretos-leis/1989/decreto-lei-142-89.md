@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66651075b893dcd2043585415612c2436690c16a74710bef781a0c544582409f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73733357fc102c076b6643216eb44a5e3b58f18c9617e9f0fa5290550599f57d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Menção Honrosa
+- Prémio Nacional de Turismo Ramalho Ortigao
+- Regime Jurídico
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:397904:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:07Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +107,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 6.º e 7.º do [Decreto-Lei n.º 316/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1982-397904), de 11 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 6.º e 7.º do [Decreto-Lei n.º 316/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1982-397904), de 11 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - Poderá também ser concedida a medalha de ouro a pessoas singulares, nacionais ou estrangeiras, que ao turismo nacional hajam prestado serviços extraordinários e de excepcional relevo e mérito.
 
-###### Art. 6.º A medalha de bronze destina-se a galardoar as pessoas colectivas, nacionais ou estrangeiras, que tenham contribuído para a dignificação e valorização do turismo nacional e, bem assim, os profissionais de turismo que demonstrem especial competência no exercício das suas funções ou hajam sido distinguidos em quaisquer manifestações internacionais como resultado da capacidade que lhes foi reconhecida.
+Art. 6.º A medalha de bronze destina-se a galardoar as pessoas colectivas, nacionais ou estrangeiras, que tenham contribuído para a dignificação e valorização do turismo nacional e, bem assim, os profissionais de turismo que demonstrem especial competência no exercício das suas funções ou hajam sido distinguidos em quaisquer manifestações internacionais como resultado da capacidade que lhes foi reconhecida.
 
-###### Art. 7.º - 1 - A menção honrosa é concedida para distinguir iniciativas e realizações de interesse para o turismo nacional quando a relevância da mesma possa ser apresentada como exemplo a seguir.
+Art. 7.º - 1 - A menção honrosa é concedida para distinguir iniciativas e realizações de interesse para o turismo nacional quando a relevância da mesma possa ser apresentada como exemplo a seguir.
 
 2 - A menção honrosa atribuída à entidade organizadora de acontecimentos que revistam especial importância como atractivo turístico e, com carácter de regularidade, sirvam a defesa e promoção de valores tradicionais, culturais ou etnológicos, confere a faculdade de aqueles eventos usarem a designação de acontecimento de «interesse turístico internacional» ou «interesse turístico nacional».
 
@@ -115,7 +123,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A menção honrosa concedida a pessoa ou entidade que tenha realizado um trabalho especialmente relevante na valorização da gastronomia e dos vinhos portugueses confere o direito a designarem como de «interesse turístico» as obras ou iniciativas em atenção às quais haja sido atribuída.
 
-###### Art. 2.º - 1 - É criado o Prémio Nacional de Turismo Ramalho Ortigão, destinado a distinguir anualmente, por um júri constituído para o efeito, uma pessoa ou entidade galardoada no ano anterior com menção honrosa relativamente a livro ou obra impressa, filme ou outro suporte áudio-visual de comunicação.
+Art. 2.º - 1 - É criado o Prémio Nacional de Turismo Ramalho Ortigão, destinado a distinguir anualmente, por um júri constituído para o efeito, uma pessoa ou entidade galardoada no ano anterior com menção honrosa relativamente a livro ou obra impressa, filme ou outro suporte áudio-visual de comunicação.
 
 2 - Podem ainda concorrer ao Prémio os autores de obras a que se refere o número anterior propostos pelo júri.
 
@@ -123,12 +131,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1989. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 14 de Abril de 1989.**
+Promulgado em 14 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Abril de 1989.**
+Referendado em 14 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

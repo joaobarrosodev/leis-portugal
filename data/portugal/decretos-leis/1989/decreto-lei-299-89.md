@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/20300/37883789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1989-547184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 932444ace28aca8d5a18f35dd4d543592d3ac945882dd2e488a7e06c489d30ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e29cca682fb46241d2cca2f97cf44f43b4997a144cadc84236e7772f2720345
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- GNR
+- INEM
+- Número Nacional de Socorro
+- Proteção Civil
+- PSP
+- Serviço Nacional de Bombeiros
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:526779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:526779:por
+  label: "Revogado pelo Dec Lei 73/97.1997.04.03.MAI, DR.IS-A [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1997-526779
+  date: '1997-04-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:58Z'
   warnings: []
   errors: []
 ---
@@ -102,30 +114,30 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É institucionalizado o número 115 da rede telefónica como número nacional de socorro.
+Artigo 1.º - 1 - É institucionalizado o número 115 da rede telefónica como número nacional de socorro.
 
 2 - Este número 115 é de utilização gratuita por parte do público e constitui acesso preferencial aos vários sistemas de emergência, tendo em atenção as especificidades de cada um deles.
 
-###### Art. 2.º Para efeitos do presente diploma, consideram-se sistemas de emergência os instalados no território continental e coordenados pela Guarda Nacional Republicana (GNR), Polícia de Seguraça Pública (PSP), Instituto Nacional de Emergência Médica (INEM), Serviço Nacional de Bombeiros (SNB) e Serviço Nacional de Protecção Civil (SNPC).
+Art. 2.º Para efeitos do presente diploma, consideram-se sistemas de emergência os instalados no território continental e coordenados pela Guarda Nacional Republicana (GNR), Polícia de Seguraça Pública (PSP), Instituto Nacional de Emergência Médica (INEM), Serviço Nacional de Bombeiros (SNB) e Serviço Nacional de Protecção Civil (SNPC).
 
-###### Art. 3.º - 1 - A rede de telecomunicações do número nacional de socorro à disposição do público tem como suporte a rede telefónica da responsabilidade dos Correios e Telecomunicações de Portugal e funciona com base em centrais de emergência, às quais compete atender as chamadas e, ainda, através dos meios adequados, accionar os sistemas de emergência.
+Art. 3.º - 1 - A rede de telecomunicações do número nacional de socorro à disposição do público tem como suporte a rede telefónica da responsabilidade dos Correios e Telecomunicações de Portugal e funciona com base em centrais de emergência, às quais compete atender as chamadas e, ainda, através dos meios adequados, accionar os sistemas de emergência.
 
 2 - Nesta rede podem existir estruturas especiais, designadamente avisadores de estrada ou outras, igualmente colocadas à disposição do público para a sua segurança pessoal ou colectiva.
 
 3 - A exploração das centrais de emergência referidas no n.º 1 cabe, em exclusivo, à GNR e PSP.
 
-###### Art. 4.º No prazo de 90 dias a contar da entrada em vigor do presente diploma serão regulamentados o sistema de funcionamento da rede de telecomunicações do número nacional de socorro e a participação das entidades referidas no artigo 2.º nos encargos decorrentes da sua exploração, mediante decreto regulamentar.
+Art. 4.º No prazo de 90 dias a contar da entrada em vigor do presente diploma serão regulamentados o sistema de funcionamento da rede de telecomunicações do número nacional de socorro e a participação das entidades referidas no artigo 2.º nos encargos decorrentes da sua exploração, mediante decreto regulamentar.
 
-###### Art. 5.º A aplicação do disposto no presente diploma às Regiões Autónomas dos Açores e da Madeira far-se-á por decreto legislativo regional que lhe introduza as necessárias adaptações.
+Art. 5.º A aplicação do disposto no presente diploma às Regiões Autónomas dos Açores e da Madeira far-se-á por decreto legislativo regional que lhe introduza as necessárias adaptações.
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 11 de Agosto de 1989.**
+Promulgado em 11 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1989.**
+Referendado em 22 de Agosto de 1989.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.

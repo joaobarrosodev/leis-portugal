@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/11800/20362042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a23f8a50681ff967bc023cd5f68bce594d7cb94def63f9271102b34ded7a221
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e1f59f679d4eea7021f6d8041da43caf0b84110d8bfb5dacfbe213f36030d7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo
+- Centro de Formação Permanente de Oficiais de Justiça
+- Definição de Competências
+- Documentação
+- Estatuto dos Funcionários de Justiça
+- Função Pública
+- Gestão de Recursos Humanos
+- Informatização
+- Ministério Público
+- Oficial de Justiça
+- Orgânica
+- Organização Judiciária
+- Pessoal de Justiça
+- Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:428653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:304095:por
+  label: "Alterado o art. 3º do Dec Lei 376/87, de 11-dez, na redação do presente diploma, pelo DEC LEI.167/94.1994.06.15.MJ,\
+    \ DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1994-304095
+  date: '1994-06-15'
+- type: amended_by
+  target: pt:dre:241228:por
+  label: "Alterada a redacção dada pelo presente diploma aos arts. 3º e 82º do Dec Lei 376/87 de 11-Dez, pela LEI.44/96.1996.09.03.AR,\
+    \ DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1996-241228
+  date: '1996-09-03'
+- type: cites
+  target: pt:dre:180190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADOS OS ARTIGOS 82, NUMEROS 2 E 3 E 183, NUMERO 5, NA REDACÇÃO DADA AO DECRETO LEI 376/87, DE 11 DE DEZEMBRO,\
+    \ PELO DECRETO LEI 270/90, DE 3 DE SETEMBRO, PUBLICADO NO DR.IS, 203, DE 900903. REVOGADO AINDA O ARTIGO 83 PELO DECRETO\
+    \ LEI 270/90, DE 3 DE SETEMBRO. ALTERADOS OS ARTIGOS 3, 39 E 44, NA REDACÇÃO DADA AO DECRETO LEI 376/87 DE 11 DE DEZEMBRO,\
+    \ PELO DECRETO LEI 378/91, DE 9 DE OUTUBRO, PUBLICADO NO DR.IS-A, 232, DE 911009. SUBSTITUÍDO O MAPA I ANEXO PELO DECRETO\
+    \ LEI 364/93, DE 22 DE OUTUBRO, PUBLICADO NO DR.IS-A, 248, DE 931022. CONFERIDA NOVA REDACÇÃO AOS ARTIGOS 6, 12, 24, 50,\
+    \ 82 E 96, PELO DECRETO LEI 364/93, DE 22 DE OUTUBRO, PUBLICADO NO DR.IS-A, 248, DE 931022. CONFERIDA NOVA REDACÇÃO AOS\
+    \ ARTIGOS 3 E 39, NA REDACÇÃO QUE LHE FOI DADA PELO PRESENTE DECRETO LEI E PELO DECRETO LEI 378/91, DE 9 DE OUTUBRO, PELO\
+    \ DECRETO LEI 364/93, DE 22 DE OUTUBRO, PUBLICADO NO DR.IS-A 248, DE 931022. CONFERIDA NOVA REDACÇÃO AOS ARTIGOS 3, 6,\
+    \ 7, 8, 9, 10, 11, 12, 13, 14, 15, 21, 23, 24, 33, 34, 35, 36, 39, 40, 43, 46, 48, 50, 55, 56, 57, 58, 59, 60, 62, 66,\
+    \ 68, 69, 71, 73, 74, 75, 78, 82, 84, 85, 86, 91, 96, 97, 99, 100, 105, 107, 108, 109, 130, 179, 181 E 182-A, NA ALTERAÇÃO\
+    \ INTRODUZIDA NO DECRETO 376/87, DE 11 DE DEZEMBRO, PUBLICADO NO DR.IS, 284 SUPL, DE 871211, PELO DECRETO LEI 364/93,\
+    \ DE 22 DE OUTUBRO, PUBLICADO NO DR.IS-A, 248, DE 931022. I\0ECRETO LEI 364/93, DE 22 DE OUTUBRO, PUBLICADO NO DR.IS-A,\
+    \ 248, DE 931022. I\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:428653:por
+  label: "Revogado pelo DEC LEI.343/99.1999.08.26.MJ,DR.IS-A [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1999-428653
+  date: '1999-08-26'
 article_structure:
-  article_count: 24
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:42Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +166,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 6.º, 12.º, 22.º, 24.º, 39.º, 44.º, 50.º, 77.º, 82.º, 96.º, 106.º, 183.º, 187.º, 193.º, 194.º, 196.º e 199.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 6.º, 12.º, 22.º, 24.º, 39.º, 44.º, 50.º, 77.º, 82.º, 96.º, 106.º, 183.º, 187.º, 193.º, 194.º, 196.º e 199.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -307,7 +378,7 @@ Nos 30 dias posteriores ao início de funções do Conselho dos Oficiais de Just
 
 3 - ...
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, os artigos 65.º-A, 184.º-A, 195.º-A e 206.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, os artigos 65.º-A, 184.º-A, 195.º-A e 206.º-A, com a seguinte redacção:
 
 ###### Artigo 65.º-A — Destacamentos excepcionais
 
@@ -333,23 +404,23 @@ Ao primeiro movimento de oficiais de justiça a realizar após a entrada em vigo
 
 Consideram-se extensivas a secretários técnicos e técnicos de justiça principais, com as necessárias adaptações, todas as referências feitas a secretários judiciais e escrivãos de direito nos artigos 55.º, 58.º, 59.º e 60.º
 
-###### Art. 3.º São revogados os artigos 26.º e 27.º, o n.º 3 do artigo 83.º e o n.º 3 artigo 184.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
+Art. 3.º São revogados os artigos 26.º e 27.º, o n.º 3 do artigo 83.º e o n.º 3 artigo 184.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
 
-###### Art. 4.º O disposto nos n.os 1 e 2 do artigo 184.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, não prejudica as renúncias às promoções efectuadas ao abrigo do n.º 2 do artigo 110.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 320/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1985-180190), de 5 de Agosto, tendo os funcionários que dela beneficiaram o vencimento correspondente ao de escrivão-adjunto, salvo se, no prazo de 30 dias a contar da entrada em vigor do presente diploma, declararem expressamente que renunciam a esse vencimento, caso em que serão admitidos aos cursos referidos nos artigos 52.º e 54.º do mesmo [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
+Art. 4.º O disposto nos n.os 1 e 2 do artigo 184.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, não prejudica as renúncias às promoções efectuadas ao abrigo do n.º 2 do artigo 110.º do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 320/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1985-180190), de 5 de Agosto, tendo os funcionários que dela beneficiaram o vencimento correspondente ao de escrivão-adjunto, salvo se, no prazo de 30 dias a contar da entrada em vigor do presente diploma, declararem expressamente que renunciam a esse vencimento, caso em que serão admitidos aos cursos referidos nos artigos 52.º e 54.º do mesmo [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
 
-###### Art. 5.º O mapa I anexo ao [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, bem como as tabelas anexas ao mesmo diploma são substituídos pelo mapa I e pelas tabelas anexas ao presente diploma.
+Art. 5.º O mapa I anexo ao [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, bem como as tabelas anexas ao mesmo diploma são substituídos pelo mapa I e pelas tabelas anexas ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 16 de Maio de 1989.**
+Promulgado em 16 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Maio de 1989.**
+Referendado em 17 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -541,4 +612,4 @@ Orientar, fiscalizando e colaborando, a limpeza das instalações e pequenas ser
 
 Desempenhar as demais funções conferidas por lei ou determinação superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/11800/20362042.pdf))](https://files.diariodarepublica.pt/1s/1989/05/11800/20362042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/11800/20362042.pdf)

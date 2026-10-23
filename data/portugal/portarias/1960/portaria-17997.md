@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17997-1960-514013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8806ddbaba8fb159cb802cd8c25df2d2e4e6a944d2d09ef669f7f31d01996df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d01fbc263e9a53331ddbb99bfa96a97583e25497fb7a5d5edcb091e4512c6a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:429987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429987:por
+  label: Extinta a Estação Radionaval de Luanda, pelo(a) Portaria n.º 491/76 - Diário da República n.º 183/1976, Série I de
+    1976-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/491-1976-429987
+  date: '1976-08-06'
+- type: cites
+  target: pt:dre:303856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341204:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:34Z'
   warnings: []
   errors: []
 ---

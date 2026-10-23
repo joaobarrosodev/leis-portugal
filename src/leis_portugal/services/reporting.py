@@ -200,13 +200,15 @@ def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any], 
             "## Cobertura face aos sitemaps do DRE",
             "",
             f"Verificado em {sitemap['checked']} com `leis-portugal collect dre --missing`: documentos que o DRE lista"
-            f" nos sitemaps públicos ({sitemap['listed']}), dos quais {sitemap['present']} estão no acervo"
-            f" e {sitemap['missing']} não. Tipos marcados com * são sobretudo da 2.ª Série.",
+            f" nos sitemaps públicos ({sitemap['listed']}), dos quais {sitemap['present']} estão no acervo,"
+            f" {sitemap.get('out_of_scope', 0)} estão fora do Diário da República (p. ex. catálogo do Jornal Oficial"
+            f" dos Açores) e {sitemap['missing']} faltam. Tipos marcados com * são sobretudo da 2.ª Série.",
             "",
-            "| Tipo | No DRE | No acervo | Em falta |",
-            "|---|---:|---:|---:|",
+            "| Tipo | No DRE | No acervo | Fora do DR | Em falta |",
+            "|---|---:|---:|---:|---:|",
             *(
-                f"| {entry['label']}{' *' if entry['optional'] else ''} | {entry['listed']} | {entry['present']} | {entry['missing']} |"
+                f"| {entry['label']}{' *' if entry['optional'] else ''} | {entry['listed']} | {entry['present']}"
+                f" | {entry.get('out_of_scope', 0)} | {entry['missing']} |"
                 for entry in sitemap["types"]
             ),
         ])

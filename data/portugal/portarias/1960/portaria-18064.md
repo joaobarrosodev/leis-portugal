@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18064-1960-514191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08c8d87db5824001e880c0352565ecfeecf3baf3535141a76ca4044b9892bff0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d47391762d1f8f2f091c534c40174bc327725c05974fbfd7afd5e07faf3d80a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,22 @@ relationships:
   target: pt:dre:225841:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225841:por
+  label: "Transformada em Grupo de Artilharia de Guarnição nº 2, a Bateria de Artilharia de Guarnição n.º 2, a que se refere\
+    \ o nº 2º e alterado o quadro II anexo ao presente diploma pela PORT.183/70.09.04.1970.MX, DG.IS [83] de 09.04.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-1970-225841
+  date: '1970-04-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:59Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +118,7 @@ Bateria de artilharia de guarnição n.º 1
 
 Quadro orgânico em tempo de paz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/26500/24482451.pdf))](https://files.diariodarepublica.pt/1s/1960/11/26500/24482451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/26500/24482451.pdf)
 
 Ministério do Exército, 15 de Novembro de 1960. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes.
 
@@ -122,6 +128,6 @@ Bateria de artilharia de guarnição n.º 2
 
 Quadro orgânico em tempo de paz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/26500/24482451.pdf))](https://files.diariodarepublica.pt/1s/1960/11/26500/24482451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/26500/24482451.pdf)
 
 Ministério do Exército, 15 de Novembro de 1960. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes.

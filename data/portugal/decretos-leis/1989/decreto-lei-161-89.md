@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/11000/19261927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1989-611075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe623edcc1a4e89b110385129e33b25f4cc0d37f028173f2e2eb7a9031fdb3c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe7fda544671da42fb4fe3ca4307431694e8c76c8c78f703f12fe6e4393bd2ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador Liquidatário
+- Comissão Liquidatária
+- Comissão Reguladora do Comércio do Bacalhau
+- Companhia Portuguesa de Pesca
+- Empresa Frigorífica do Algarve
+- Gelmar
+- Liquidação de Sociedades
+- Ministro das Finanças
+- Sociedade Nacional dos Armadores da Pesca do Arrasto
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:218920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399251:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:37Z'
   warnings: []
   errors: []
 ---
@@ -105,24 +148,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A liquidação das ex-empresas CPP - Companhia Portuguesa de Pesca, S. A. R. L., SNAPA - Sociedade Nacional dos Armadores da Pesca de Arrasto, S. A. R. L., GELMAR - Empresa Distribuidora de Produtos Alimentares, Lda., e FRIGARVE - Empresa Frigorífica do Algarve, Lda., e da Comissão Reguladora do Comércio do Bacalhau passa a ser conduzida por um administrador liquidatário nomeado por despacho do Ministro das Finanças.
+Artigo 1.º - 1 - A liquidação das ex-empresas CPP - Companhia Portuguesa de Pesca, S. A. R. L., SNAPA - Sociedade Nacional dos Armadores da Pesca de Arrasto, S. A. R. L., GELMAR - Empresa Distribuidora de Produtos Alimentares, Lda., e FRIGARVE - Empresa Frigorífica do Algarve, Lda., e da Comissão Reguladora do Comércio do Bacalhau passa a ser conduzida por um administrador liquidatário nomeado por despacho do Ministro das Finanças.
 
 2 - O despacho previsto no número anterior fixará também a remuneração do administrador liquidatário.
 
-###### Art. 2.º São revogados o artigo 2.º do [Decreto-Lei n.º 161/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1982-392777), de 7 de Maio, o n.º 1 do artigo 2.º do Decreto-Lei n.º 57-D/84, de 20 de Fevereiro, o artigo 2.º do [Decreto-Lei n.º 139/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1984-385043), de 7 de Maio, o n.º 1 do artigo 2.º do [Decreto-Lei n.º 307/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1984-399247), de 19 de Setembro, e os n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 224/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1986-218920), de 12 de Agosto.
+Art. 2.º São revogados o artigo 2.º do [Decreto-Lei n.º 161/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1982-392777), de 7 de Maio, o n.º 1 do artigo 2.º do Decreto-Lei n.º 57-D/84, de 20 de Fevereiro, o artigo 2.º do [Decreto-Lei n.º 139/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1984-385043), de 7 de Maio, o n.º 1 do artigo 2.º do [Decreto-Lei n.º 307/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1984-399247), de 19 de Setembro, e os n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 224/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1986-218920), de 12 de Agosto.
 
-###### Art. 3.º As referências feitas nas Portarias n.os [653/82](https://diariodarepublica.pt/dr/detalhe/portaria/653-1982-395497), de 30 de Junho, 110-A/84, de 20 de Fevereiro, [277/84](https://diariodarepublica.pt/dr/detalhe/portaria/277-1984-385036), de 7 de Maio, e [730/84](https://diariodarepublica.pt/dr/detalhe/portaria/730-1984-399251), de 19 de Setembro, e n.º 3 do artigo 2.º, artigo 3.º e n.os 2 e 5 do artigo 5.º do [Decreto-Lei n.º 224/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1986-218920), de 12 de Agosto, às comissões liquidatárias nomeadas ao abrigo das disposições revogadas pelo artigo anterior entendem-se feitas ao administrador liquidatário a nomear nos termos do artigo 1.º
+Art. 3.º As referências feitas nas Portarias n.os [653/82](https://diariodarepublica.pt/dr/detalhe/portaria/653-1982-395497), de 30 de Junho, 110-A/84, de 20 de Fevereiro, [277/84](https://diariodarepublica.pt/dr/detalhe/portaria/277-1984-385036), de 7 de Maio, e [730/84](https://diariodarepublica.pt/dr/detalhe/portaria/730-1984-399251), de 19 de Setembro, e n.º 3 do artigo 2.º, artigo 3.º e n.os 2 e 5 do artigo 5.º do [Decreto-Lei n.º 224/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1986-218920), de 12 de Agosto, às comissões liquidatárias nomeadas ao abrigo das disposições revogadas pelo artigo anterior entendem-se feitas ao administrador liquidatário a nomear nos termos do artigo 1.º
 
-###### Art. 4.º A superintendência para a prática dos actos de liquidação prevista nas Portarias n.os [653/82](https://diariodarepublica.pt/dr/detalhe/portaria/653-1982-395497), de 30 de Junho, 110-A/84, de 20 de Fevereiro, [277/84](https://diariodarepublica.pt/dr/detalhe/portaria/277-1984-385036), de 7 de Maio, e [730/84](https://diariodarepublica.pt/dr/detalhe/portaria/730-1984-399251), de 19 de Setembro, e no [Decreto-Lei n.º 224/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1986-218920), de 12 de Agosto, compete exclusivamente ao Ministro das Finanças a partir da data da entrada em vigor do presente diploma.
+Art. 4.º A superintendência para a prática dos actos de liquidação prevista nas Portarias n.os [653/82](https://diariodarepublica.pt/dr/detalhe/portaria/653-1982-395497), de 30 de Junho, 110-A/84, de 20 de Fevereiro, [277/84](https://diariodarepublica.pt/dr/detalhe/portaria/277-1984-385036), de 7 de Maio, e [730/84](https://diariodarepublica.pt/dr/detalhe/portaria/730-1984-399251), de 19 de Setembro, e no [Decreto-Lei n.º 224/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1986-218920), de 12 de Agosto, compete exclusivamente ao Ministro das Finanças a partir da data da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 27 de Abril de 1989.**
+Promulgado em 27 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1989.**
+Referendado em 27 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

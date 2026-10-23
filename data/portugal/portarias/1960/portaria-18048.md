@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18048-1960-514245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 959cdc23b46a7e789121aaa1ec45d12da9bdd846ff05cad92fc8989563ea9099
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0eaf950ad6f1911615207611aa7225442047f31a326dd8e3a25b5a012fff7a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:39Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Reforçar com a quantia de 18500000$00 a verba do capítulo 12.º, artigo 1640.º, n.º 4), alínea a) «Plano de Fomento - Programa de execução da 2.ª fase, 1960 - Comunicações e transportes - Execução do plano rodoviário», da tabela de despesa extraordinária do orçamento geral em vigor de Moçambique, por transferência das importâncias que se indicam, a sair da seguintes verbas da mesma tabela de despesa:
 
-###### Artigo 1640.º «Plano de Fomento - Programa de execução da 2.ª fase, 1960»:
+Artigo 1640.º «Plano de Fomento - Programa de execução da 2.ª fase, 1960»:
 
 N.º 3, alínea c) «Povoamento - Povoamento baseado na cultura do chá - Do saldo das contas de exercícios findos» ... 6000000$00
 

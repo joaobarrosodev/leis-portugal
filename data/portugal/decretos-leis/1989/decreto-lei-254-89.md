@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1989-619338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d99414aaa80c6bb0ca0d16eba415d5f86080db2f09fd03af89ec21513ad4cf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ef6ffd2a8abe5b221a9ce0901ea4c91dc4d25c33370408e78d5f502d9f79ce0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orientação Agrícola
+- Política Agrícola Comum
+- Prémio de Abandono Definitivo da Cultura da Vinha
+- Vinha
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:48Z'
   warnings: []
   errors: []
 ---
@@ -93,28 +97,28 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 10.º e 13.º do Decreto-Lei n.º 259-A/87, de 26 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 8.º, 10.º e 13.º do Decreto-Lei n.º 259-A/87, de 26 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 8.º Sempre que o viticultor a quem o prémio é atribuído for associado de adega cooperativa ou de associação de viticultores à data da entrada em vigor deste diploma, ao montante do prémio será deduzida a quantia correspondente a 7%, no primeiro caso, e a 2%, no segundo, ou a 5% e 2%, respectivamente, sempre que houver lugar a acumulação, mediante requerimento a dirigir ao IVV por aquelas entidades, sendo o montante correspondente a essa dedução pago à adega ou associação em causa.
+Art. 8.º Sempre que o viticultor a quem o prémio é atribuído for associado de adega cooperativa ou de associação de viticultores à data da entrada em vigor deste diploma, ao montante do prémio será deduzida a quantia correspondente a 7%, no primeiro caso, e a 2%, no segundo, ou a 5% e 2%, respectivamente, sempre que houver lugar a acumulação, mediante requerimento a dirigir ao IVV por aquelas entidades, sendo o montante correspondente a essa dedução pago à adega ou associação em causa.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - Os valores monetários dos prémios são convertidos anualmente para escudos, de acordo com o Regulamento CEE n.º [129/78](http://data.europa.eu/eli/reg/1978/129/oj?locale=pt), de 24 de Janeiro, mediante a aplicação da taxa de câmbio representativa que estiver em vigor à data da decisão da concessão do prémio de abandono definitivo.
 
 3 - ...
 
-###### Art. 13.º Por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o IVV e o IFADAP poderão ser autorizados a cobrar uma comissão pelos serviços prestados, não deduzível ao prémio a conceder, nos termos e condições a fixar pelo mesmo despacho.
+Art. 13.º Por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o IVV e o IFADAP poderão ser autorizados a cobrar uma comissão pelos serviços prestados, não deduzível ao prémio a conceder, nos termos e condições a fixar pelo mesmo despacho.
 
-###### Art. 2.º São revogados o artigo 5.º e as alíneas d) e e) do artigo 6.º do Decreto-Lei n.º 259-A/87, de 26 de Junho.
+Art. 2.º São revogados o artigo 5.º e as alíneas d) e e) do artigo 6.º do Decreto-Lei n.º 259-A/87, de 26 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1989.**
+Referendado em 31 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/12700/21682169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1989-609830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 993327f1cbbc3c0929f58213961cf1dc7e90d3cc5dc335a614a12e001d58638b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7c864f42373c53bc839b6b17a2c4eb172efb2b2170f67c394dd0d9a7a0533de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Mútua
+- Cobrança de Dívidas
+- Feoga
+- Imposto Compensatório
+- IVA
 relationships:
 - type: amended_by
   target: pt:dre:438041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:438041:por
+  label: "Revogado pelo DEC LEI.296/2003.21.11.2003.MF, DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-2003-438041
+  date: '2003-11-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:12Z'
   warnings: []
   errors: []
 ---
@@ -97,24 +107,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 29.º do Decreto-Lei n.º 504-N/85, de 30 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 29.º do Decreto-Lei n.º 504-N/85, de 30 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 29.º - 1 - ...
+Art. 29.º - 1 - ...
 
 2 - A Comissão não poderá, todavia, formular pedidos de assistência quando o montante do ou dos créditos a cobrar for inferior a 1500 ecus.
 
 3 - ...
 
-###### Art. 2.º O presente decreto-lei produz efeitos desde 1 de Janeiro de 1989.
+Art. 2.º O presente decreto-lei produz efeitos desde 1 de Janeiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 19 de Maio de 1989.**
+Promulgado em 19 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Maio de 1989.**
+Referendado em 24 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

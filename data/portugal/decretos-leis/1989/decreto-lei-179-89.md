@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/12100/20712074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1989-609870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb93b537a262370d6ac749f1f26c010a48da5f0c135b7951f19b31edb9d3cfca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fe6f05cad614eca3454188002a5421ab46746667501c6080add18462fe3603b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CE Países
+- Formação Profissional
+- Instituto Nacional de Formação Turística
+- Livre Prestação de Serviços
+- Profissional de Turismo
+- Promoção Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150332:por
+  label: "Aditado o art. 6º-A pelo DEC LEI.93/99.1999.03.23.MECO, DR.IS-A [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1999-150332
+  date: '1999-03-23'
+- type: cites
+  target: pt:dre:510047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: Revogado o presente diploma, a partir de 01.08.2011, na redacção do Dec Lei 93/99, de 23-Mar, pelo DEC LEI.92/2011.27.07.2011.MTSSO,
+    DR.IIS [143] de 27.07.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:57Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +128,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O presente decreto-lei aplica-se a todo o nacional de um Estado membro das Comunidades Europeias que queira exercer em Portugal, em regime de trabalho subordinado ou de prestação de serviços, as actividades profissionais de guia-intérprete nacional ou de correio de turismo.
+Artigo 1.º O presente decreto-lei aplica-se a todo o nacional de um Estado membro das Comunidades Europeias que queira exercer em Portugal, em regime de trabalho subordinado ou de prestação de serviços, as actividades profissionais de guia-intérprete nacional ou de correio de turismo.
 
-###### Art. 2.º Para efeitos deste diploma entende-se por:
+Art. 2.º Para efeitos deste diploma entende-se por:
 
 a) Diploma de ensino superior - o diploma, certificado ou outro título que seja conferido por uma universidade ou outro estabelecimento de ensino superior após um ciclo de estudos com a duração mínima de três anos e que ateste a aprovação em todas as matérias nele incluídas;
 
@@ -116,9 +138,9 @@ b) Experiência profissional - os conhecimentos adquiridos no exercício efectiv
 
 c) Correio de turismo - o profissional que acompanha turistas em viagem no País e ao estrangeiro, como representante dos respectivos organizadores, velando pelo bem-estar dos turistas e pelo cumprimento do programa das viagens e prestando informações turísticas de carácter geral relativas ao itinerário da viagem.
 
-###### Art. 3.º Ao nacional de um Estado membro das Comunidades Europeias que reúna os requisitos de acesso às actividades profissionais referidas no presente diploma ou ao respectivo exercício é reconhecido o direito de usar o seu título de formação e, bem assim, o direito de usar o mesmo título profissional dos nacionais portugueses.
+Art. 3.º Ao nacional de um Estado membro das Comunidades Europeias que reúna os requisitos de acesso às actividades profissionais referidas no presente diploma ou ao respectivo exercício é reconhecido o direito de usar o seu título de formação e, bem assim, o direito de usar o mesmo título profissional dos nacionais portugueses.
 
-###### Art. 4.º - 1 - Incumbe ao Instituto Nacional de Formação Turística receber os requerimentos e tomar as decisões previstas no presente diploma.
+Art. 4.º - 1 - Incumbe ao Instituto Nacional de Formação Turística receber os requerimentos e tomar as decisões previstas no presente diploma.
 
 2 - Os requerimentos referidos no número anterior serão objecto de decisão fundamentada no prazo máximo de 60 dias a contar da respectiva apresentação.
 
@@ -126,13 +148,13 @@ c) Correio de turismo - o profissional que acompanha turistas em viagem no País
 
 ### CAPÍTULO II — Condições comuns para o exercício das actividades profissionais de guia-intérprete nacional e de correio de turismo
 
-###### Art. 5.º - 1 - Todo o nacional de um Estado membro das Comunidades Europeias pode ter acesso ao exercício, em Portugal, das actividades profissionais de guia-intérprete nacional ou de correio de turismo, nas mesmas condições que os cidadãos portugueses, desde que se verifique o disposto no número seguinte.
+Art. 5.º - 1 - Todo o nacional de um Estado membro das Comunidades Europeias pode ter acesso ao exercício, em Portugal, das actividades profissionais de guia-intérprete nacional ou de correio de turismo, nas mesmas condições que os cidadãos portugueses, desde que se verifique o disposto no número seguinte.
 
 2 - Para os efeitos do n.º 1 deve o interessado possuir diploma de ensino superior exigido por outro Estado membro das Comunidades Europeias para ter acesso a essas actividades no respectivo território ou para aí as exercer, obtido num Estado membro das Comunidades Europeias, ou em país terceiro, desde que, neste caso, tal título tenha sido reconhecido num Estado membro, e ter exercido a tempo inteiro, durante o mínimo de dois anos, algumas das actividades profissionais a que o presente decreto-lei se refere.
 
-###### Art. 6.º Sem prejuízo do disposto no artigo anterior e no n.º 3 do artigo 7.º do [Decreto-Lei n.º 519-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f-1979-510047), de 28 de Dezembro, o exercício em território nacional das actividades profissionais de guia-intérprete nacional ou de correio de turismo por nacionais de Estados membros das Comunidades Europeias é condicionado à experiência profissional por um tempo máximo correspondente ao dobro da diferença entre o período de tempo da respectiva formação exigida pelo direito interno português e o período de tempo de formação de que o interessado é detentor, mas nunca inferior a dois anos nem superior a quatro anos.
+Art. 6.º Sem prejuízo do disposto no artigo anterior e no n.º 3 do artigo 7.º do [Decreto-Lei n.º 519-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f-1979-510047), de 28 de Dezembro, o exercício em território nacional das actividades profissionais de guia-intérprete nacional ou de correio de turismo por nacionais de Estados membros das Comunidades Europeias é condicionado à experiência profissional por um tempo máximo correspondente ao dobro da diferença entre o período de tempo da respectiva formação exigida pelo direito interno português e o período de tempo de formação de que o interessado é detentor, mas nunca inferior a dois anos nem superior a quatro anos.
 
-###### Art. 7.º - 1 - Sem prejuízo do disposto no n.º 3 do artigo 7.º do [Decreto-Lei n.º 519-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f-1979-510047), de 28 de Dezembro, e no artigo seguinte, o exercício em território português das actividades profissionais de guia-intérprete nacional ou de correio de turismo é condicionado, conforme a opção do candidato, à realização de um estágio de adaptação acompanhado de formação complementar ou à aprovação numa prova de aptidão.
+Art. 7.º - 1 - Sem prejuízo do disposto no n.º 3 do artigo 7.º do [Decreto-Lei n.º 519-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f-1979-510047), de 28 de Dezembro, e no artigo seguinte, o exercício em território português das actividades profissionais de guia-intérprete nacional ou de correio de turismo é condicionado, conforme a opção do candidato, à realização de um estágio de adaptação acompanhado de formação complementar ou à aprovação numa prova de aptidão.
 
 2 - Entende-se por estágio de adaptação o exercício da actividade profissional própria de guia-intérprete nacional ou de correio de turismo, sob a supervisão de um profissional português qualificado nos termos do presente diploma, e por formação complementar a aquisição de conhecimentos nos termos dos artigos 10.º e 14.º do presente diploma.
 
@@ -152,17 +174,17 @@ b) Ter o interessado exercido, nas condições do n.º 2 do artigo 5.º, activid
 
 8 - Os cursos que, nos termos dos artigos 10.º e 14.º, integram a formação complementar a que este preceito se refere são organizados pelo Instituto Nacional de Formação Turística e decorrem sob a sua responsabilidade.
 
-###### Art. 8.º Não são cumuláveis, em caso algum, as exigências de experiência profissional e de estágio de adaptação com formação complementar.
+Art. 8.º Não são cumuláveis, em caso algum, as exigências de experiência profissional e de estágio de adaptação com formação complementar.
 
 ### CAPÍTULO III — Do exercício da actividade profissional de guia-intérprete nacional
 
-###### Art. 9.º O estágio de adaptação acompanhado de formação complementar para o exercício da actividade profissional de guia-intérprete nacional inclui:
+Art. 9.º O estágio de adaptação acompanhado de formação complementar para o exercício da actividade profissional de guia-intérprete nacional inclui:
 
 a) Um curso próprio com a duração de dois anos lectivos;
 
 b) O acompanhamento de circuitos turísticos pelo candidato, como mero assistente, visando a aquisição de prática bastante para o exercício da actividade correspondente em Portugal.
 
-###### Art. 10.º - 1 - O curso referido na alínea a) do artigo anterior é ministrado em língua portuguesa, durante cinco dias por semana.
+Art. 10.º - 1 - O curso referido na alínea a) do artigo anterior é ministrado em língua portuguesa, durante cinco dias por semana.
 
 2 - As disciplinas do 1.º ano e os seus tempos lectivos semanais são os seguintes:
 
@@ -224,19 +246,19 @@ f) Deontologia profissional;
 
 g) Animação.
 
-###### Art. 11.º O acompanhamento de circuitos turísticos pelo candidato, referido na alínea b) do artigo 9.º, realizar-se-á preferencialmente na época alta, em número e local a definir para cada curso.
+Art. 11.º O acompanhamento de circuitos turísticos pelo candidato, referido na alínea b) do artigo 9.º, realizar-se-á preferencialmente na época alta, em número e local a definir para cada curso.
 
-###### Art. 12.º A avaliação final do estágio de adaptação acompanhado de formação complementar resulta do aproveitamento nas seguintes provas:
+Art. 12.º A avaliação final do estágio de adaptação acompanhado de formação complementar resulta do aproveitamento nas seguintes provas:
 
 a) Exame global final, escrito e oral, que poderá ser repetido em 2.ª época num prazo não inferior a 90 dias, sobre o conteúdo das disciplinas indicadas nos n.os 2 e 3 do artigo 10.º, perante um júri composto por um representante do Instituto Nacional de Formação Turística, que presidirá, dispondo de voto de qualidade, um representante da entidade organizadora do curso, um representante das associações de empregadores e ou empresariais do sector e um representante das associações sindicais do sector;
 
 b) Acompanhamento efectivo de circuito turístico dos mais correntes perante júri constituído por um representante do Instituto Nacional de Formação Turística e pelo profissional qualificado que acompanhou o estágio, a ter lugar após aprovação do candidato no exame global final referido na alínea anterior, num prazo não inferior a 90 dias.
 
-###### Art. 13.º A prova de aptidão prevista nos n.os 1 e 3 do artigo 7.º para o exercício de actividade profissional de guia-intérprete consiste num exame escrito e oral sobre o conteúdo da lista de matérias indicadas nos n.os 2 e 3 do artigo 10.º, feita por um júri composto por um representante do Instituto Nacional de Formação Turística, que presidirá, dispondo de voto de qualidade, um profissional português qualificado, nomeado nos termos do n.º 6 do artigo 7.º, um representante das associações de empregadores e ou empresariais do sector e um representante das associações sindicais do sector.
+Art. 13.º A prova de aptidão prevista nos n.os 1 e 3 do artigo 7.º para o exercício de actividade profissional de guia-intérprete consiste num exame escrito e oral sobre o conteúdo da lista de matérias indicadas nos n.os 2 e 3 do artigo 10.º, feita por um júri composto por um representante do Instituto Nacional de Formação Turística, que presidirá, dispondo de voto de qualidade, um profissional português qualificado, nomeado nos termos do n.º 6 do artigo 7.º, um representante das associações de empregadores e ou empresariais do sector e um representante das associações sindicais do sector.
 
 ### CAPÍTULO IV — Do exercício da actividade profissional de correio de turismo
 
-###### Art. 14.º - 1 - O estágio de adaptação, acompanhado de formação complementar para o exercício da actividade profissional de correio de turismo, consiste na aprovação em curso próprio com a duração de um ano lectivo.
+Art. 14.º - 1 - O estágio de adaptação, acompanhado de formação complementar para o exercício da actividade profissional de correio de turismo, consiste na aprovação em curso próprio com a duração de um ano lectivo.
 
 2 - O curso é ministrado em língua portuguesa, durante cinco dias por semana.
 
@@ -278,11 +300,11 @@ g) Animação.
 
 6 - A avaliação de conhecimentos a que se refere o número anterior será feita por um júri composto por um representante do Instituto Nacional de Formação Turística, que presidirá, dispondo de voto de qualidade, um representante da entidade organizadora do curso, um representante das associações de empregadores e ou empresariais do sector e um representante das associações sindicais do sector.
 
-###### Art. 15.º A prova de aptidão prevista nos n.os 1 e 3 do artigo 7.º para o exercício da actividade profissional de correio de turismo consiste num exame escrito e oral sobre o conteúdo da lista de matérias indicadas no n.º 3 do artigo anterior, feita por um júri composto por um representante do Instituto Nacional de Formação Turística, que presidirá, dispondo de voto de qualidade, um profissional português qualificado, nomeado nos termos do n.º 6 do artigo 7.º, um representante das associações de empregadores e ou empresariais do sector e um representante das associações sindicais do sector.
+Art. 15.º A prova de aptidão prevista nos n.os 1 e 3 do artigo 7.º para o exercício da actividade profissional de correio de turismo consiste num exame escrito e oral sobre o conteúdo da lista de matérias indicadas no n.º 3 do artigo anterior, feita por um júri composto por um representante do Instituto Nacional de Formação Turística, que presidirá, dispondo de voto de qualidade, um profissional português qualificado, nomeado nos termos do n.º 6 do artigo 7.º, um representante das associações de empregadores e ou empresariais do sector e um representante das associações sindicais do sector.
 
 ### CAPÍTULO V — Do processo
 
-###### Art. 16.º Os requisitos exigidos pelo presente decreto-lei para o exercício das actividades a que se refere são provados através dos seguintes documentos:
+Art. 16.º Os requisitos exigidos pelo presente decreto-lei para o exercício das actividades a que se refere são provados através dos seguintes documentos:
 
 a) Diploma do ensino superior a que se refere o n.º 2 do artigo 5.º ou fotocópia autenticada do mesmo;
 
@@ -294,16 +316,16 @@ d) Certificado do estágio de adaptação com formação complementar a que se r
 
 e) Certificado da prova de aptidão a que se referem os artigos 13.º e 15.º, a emitir pelo Instituto Nacional de Formação Turística.
 
-###### Art. 17.º Sem prejuízo do disposto no artigo anterior, o exercício em Portugal das actividades profissionais a que o presente diploma se refere é condicionado à declaração, sob compromisso de honra, de que o requerente não é administrador, gestor ou director de agência de viagens, estabelecimentos hoteleiros ou similares dos hoteleiros ou de quaisquer outras empresas de carácter turístico, enquanto durarem essas funções, seja ou não simultaneamente proprietário dos mesmos.
+Art. 17.º Sem prejuízo do disposto no artigo anterior, o exercício em Portugal das actividades profissionais a que o presente diploma se refere é condicionado à declaração, sob compromisso de honra, de que o requerente não é administrador, gestor ou director de agência de viagens, estabelecimentos hoteleiros ou similares dos hoteleiros ou de quaisquer outras empresas de carácter turístico, enquanto durarem essas funções, seja ou não simultaneamente proprietário dos mesmos.
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 11 de Maio de 1989.**
+Promulgado em 11 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1989.**
+Referendado em 16 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

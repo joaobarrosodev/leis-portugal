@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1989-620729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7697a6ad99432ae5a7f7582aab0d484bee78f57a762a7244df83a30a31513bdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 934ff6d5b1fb3e0ba8791e1f9f8930f3edeeaa3044eda6adc391ca621ec18a3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Direito de Importação
+- Equipamento Eléctrico
+- Importação
+- Mercadoria
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
+- Produto Químico
+relationships:
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401902:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:639875:por
+  label: Rectificado pela DECL.DD3771.1989.07.24.PCM DR.IS [174]SUPL DE 31/JUL/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-639875
+  date: '1989-07-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:32Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +113,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 32.º da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 30 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os direitos consignados na Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 486/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1988-401902), de 30 de Dezembro, são temporariamente reduzidos para os níveis abaixo indicados, relativamente à seguintes mercadorias:
+Artigo 1.º Os direitos consignados na Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 486/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1988-401902), de 30 de Dezembro, são temporariamente reduzidos para os níveis abaixo indicados, relativamente à seguintes mercadorias:
 
 ex 3209 90 10 - soluções de poliuretanos para tinta e vernizes - 10%;
 
@@ -100,20 +121,20 @@ ex 3909 50 00 - para tintas e vernizes - 8,4%;
 
 ex 8501 40 90 - de colector, com rotor bobinado, de potência inferior a 1000 W e velocidade de rotação inferior a 6000 rotações por minuto - 5%.
 
-###### Art. 2.º - 1 - É suspensa, por tempo indeterminado, a cobrança dos direitos de importação aplicáveis às mercadorias referidas no artigo anterior, quando estejam nas condições previstas nos artigos 9.º e 10.º do Tratado que institui a Comunidade Económica Europeia.
+Art. 2.º - 1 - É suspensa, por tempo indeterminado, a cobrança dos direitos de importação aplicáveis às mercadorias referidas no artigo anterior, quando estejam nas condições previstas nos artigos 9.º e 10.º do Tratado que institui a Comunidade Económica Europeia.
 
 2 - Aos produtos originários dos países com os quais a Comunidade Económica Europeia concluiu acordos preferenciais é igualmente aplicável o disposto no número anterior, nos termos dos referidos acordos e dos respectivos protocolos de adaptação.
 
-###### Art. 3.º O presente diploma produz efeitos desde 1 de Janeiro de 1989.
+Art. 3.º O presente diploma produz efeitos desde 1 de Janeiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 4 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em Angra do Heroísmo em 5 de Junho de 1989.**
+Promulgado em Angra do Heroísmo em 5 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Junho de 1989.**
+Referendado em 5 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

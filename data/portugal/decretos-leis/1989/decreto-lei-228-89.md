@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1989-619948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a4c13874c6bad233fd809db379cf25ee098eff1af32ba759ac037266ce79769
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8fee31a589151570f9b42fca697a2e2463be63a9e3759ff1c3228df35718d04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Extinção de Serviços
+- Gabinete da Área de Sines
+relationships:
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:12Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +112,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É extinto o Gabinete da Área de Sines, adiante designado por GAS.
+Artigo 1.º - 1 - É extinto o Gabinete da Área de Sines, adiante designado por GAS.
 
 2 - O GAS mantém a sua natureza jurídica, para efeitos de liquidação, até à aprovação final das contas.
 
 3 - Salvo revogação expressa pelo administrador liquidatário, mantêm-se plenamente eficazes as procurações outorgadas pelo GAS para a prática de actos em processos e acções em que seja parte.
 
-###### Art. 2.º - 1 - Por despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território, será nomeado o administrador liquidatário, que terá todos os poderes necessários e adequados à liquidação do GAS, nos limites da lei e das directrizes que lhe forem fixadas.
+Art. 2.º - 1 - Por despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território, será nomeado o administrador liquidatário, que terá todos os poderes necessários e adequados à liquidação do GAS, nos limites da lei e das directrizes que lhe forem fixadas.
 
 2 - O despacho referido no número anterior estabelecerá a remuneração e demais regalias e deveres do administrador liquidatário.
 
@@ -124,9 +138,9 @@ f) Realizar o activo, alienando os bens móveis e imóveis, e cobrar os crédito
 
 g) Pagar aos credores por negociação, caso a caso, e em função das receitas da liquidação e outros recursos.
 
-###### Art. 3.º Com o início da liquidação, reportada à data da nomeação do administrador liquidatário, é conferido aos credores do GAS o direito de reclamar os seus créditos perante o administrador liquidatário durante o prazo de 60 dias.
+Art. 3.º Com o início da liquidação, reportada à data da nomeação do administrador liquidatário, é conferido aos credores do GAS o direito de reclamar os seus créditos perante o administrador liquidatário durante o prazo de 60 dias.
 
-###### Art. 4.º - 1 - É transmitida para o Estado a propriedade dos imóveis ainda integrados no património autónomo do GAS, os quais estão descritos no anexo ao presente diploma, de que faz parte integrante.
+Art. 4.º - 1 - É transmitida para o Estado a propriedade dos imóveis ainda integrados no património autónomo do GAS, os quais estão descritos no anexo ao presente diploma, de que faz parte integrante.
 
 2 - Os terrenos e edifícios descritos nos n.os 1 a 5 do anexo serão afectados por despacho do Ministros das Finanças, que fixará a renda anual a atribuir à Direcção-Geral do Tesouro, nos termos do artigo 7.º do [Decreto-Lei n.º 242/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1987-419057), de 15 de Junho.
 
@@ -134,7 +148,7 @@ g) Pagar aos credores por negociação, caso a caso, e em função das receitas 
 
 4 - O presente diploma constitui título bastante das transmissões de propriedade nele estatuídas, para todos os efeitos legais, incluindo os de registo.
 
-###### Art. 5.º - 1 - Para assegurar as tarefas inerentes à liquidação do património, o administrador liquidatário pode manter ao seu serviço funcionários destacados ou requisitados nos termos do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, cessando as requisições e destacamentos logo que concluídas as operações de liquidação ou, antes daquela data, assim que deixe de ser indispensável a colaboração de cada funcionário.
+Art. 5.º - 1 - Para assegurar as tarefas inerentes à liquidação do património, o administrador liquidatário pode manter ao seu serviço funcionários destacados ou requisitados nos termos do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, cessando as requisições e destacamentos logo que concluídas as operações de liquidação ou, antes daquela data, assim que deixe de ser indispensável a colaboração de cada funcionário.
 
 2 - O GAS pode ainda manter ao seu serviço o pessoal contratado nos termos da lei do contrato individual de trabalho e que se revele indispensável à conclusão das operações de liquidação, cessando os respectivos contratos logo que concluída a conta da liquidação.
 
@@ -142,23 +156,23 @@ g) Pagar aos credores por negociação, caso a caso, e em função das receitas 
 
 4 - Os contratos de trabalho celebrados nos termos da lei do contrato individual de trabalho e referentes a trabalhadores que não integram a lista a que se refere o número anterior caducam no 30.º dia posterior à entrada em vigor do presente diploma, nos termos da alínea b) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 372-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-a-1975-151932), de 16 de Julho.
 
-###### Art. 6.º - 1 - O administrador liquidatário apresentará mensalmente contas aos Ministros das Finanças e do Planeamento e da Administração do território.
+Art. 6.º - 1 - O administrador liquidatário apresentará mensalmente contas aos Ministros das Finanças e do Planeamento e da Administração do território.
 
 2 - O relatório e a conta final de liquidação deverão ser apresentados até 30 dias após o respectivo termo, acompanhados dos documentos comprovativos, aos Ministros das Finanças do Planeamento e da Administração do Território para aprovação final.
 
-###### Art. 7.º Até à nomeação do administrador liquidatário, o actual conselho de gestão do GAS mantém-se em funções, com as limitações decorrentes da extinção ora decretada.
+Art. 7.º Até à nomeação do administrador liquidatário, o actual conselho de gestão do GAS mantém-se em funções, com as limitações decorrentes da extinção ora decretada.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 9 de Fevereiro de 1989.**
+Promulgado em 9 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Fevereiro de 1989.**
+Referendado em 9 de Fevereiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Relação dos prédios a que se refere o artigo 4.º do decreto-lei de extinção do GAS
 
@@ -206,27 +220,27 @@ II - Prédios referidos no n.º 3 do artigo 4.º
 
 7) Zonas de indústria pesada, com a área total de 1292 ha, descritas sob os artigos ou parte dos artigos:
 
-#### Secção B, artigos 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10;
+Secção B, artigos 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10;
 
 #### Secção E, artigo 1;
 
-#### Secção F, artigos 1, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 22, 23, 24, 36, 37, 38, 39, 44, 45, 50, 51, 55, 56, 57, 63, 64, 65, 66 e 67;
+Secção F, artigos 1, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 22, 23, 24, 36, 37, 38, 39, 44, 45, 50, 51, 55, 56, 57, 63, 64, 65, 66 e 67;
 
 #### Secção G, artigo 1;
 
-#### Secção H, artigos 35, 37, 38, 42, 43, 45, 47, 48, 67, 70, 75, 76, 78, 79, 80, 90, 92, 218, 224 e 225;
+Secção H, artigos 35, 37, 38, 42, 43, 45, 47, 48, 67, 70, 75, 76, 78, 79, 80, 90, 92, 218, 224 e 225;
 
-#### Secção I, artigos 44, 45, 47, 48, 62, 64, 113, 114, 115, 116, 118, 129, 130, 131, 135, 137, 159, 228, 251, 252 e 257;
+Secção I, artigos 44, 45, 47, 48, 62, 64, 113, 114, 115, 116, 118, 129, 130, 131, 135, 137, 159, 228, 251, 252 e 257;
 
-#### Secção K, artigos 11, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 42, 43, 44, 46, 52, 56, 57, 63, 64, 65, 66, 67, 68, 69 e 70;
+Secção K, artigos 11, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 42, 43, 44, 46, 52, 56, 57, 63, 64, 65, 66, 67, 68, 69 e 70;
 
-#### Secção L, artigos 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 e 25;
+Secção L, artigos 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 e 25;
 
-#### Secção M, artigos 11, 12, 21, 34, 35 e 36;
+Secção M, artigos 11, 12, 21, 34, 35 e 36;
 
-#### Secção U, artigos 1 e 9;
+Secção U, artigos 1 e 9;
 
-#### Secção V, artigos 1, 2, 3, 4, 12 e 13;
+Secção V, artigos 1, 2, 3, 4, 12 e 13;
 
 #### Secção GGI, artigo 2;
 
@@ -234,4 +248,4 @@ todos da freguesia e concelho de Sines (os terrenos supra-identificados, com o v
 
 8) Prédio urbano sito na Rua de Artilharia Um, 33, em Lisboa, inscrito na respectiva matriz da freguesia de São Mamede sob o artigo 972 e descrito na 6.ª Conservatória do Registo Predial de Lisboa sob o n.º 11472, a fl. 171 v.º do livro B-35.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/16200/28252826.pdf))](https://files.diariodarepublica.pt/1s/1989/07/16200/28252826.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/16200/28252826.pdf)

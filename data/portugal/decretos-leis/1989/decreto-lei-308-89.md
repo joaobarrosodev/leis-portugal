@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21200/40854086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1989-547591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9cd452d657be50f7b26654ee40bb51366733f65cc52da81e27bb5e2f5c28fef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac39130ad663cd7f01a5f5cf17b4c3bbb8b0bfd41fdb9e78e87ac739a942f432
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Mercados de Obras Públicas e Particulares
+- Construção Civil
+- Definição de Competências
+- Fiscalização
+- Higiene do Trabalho
+- Obras Públicas
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:08Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +131,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É atribuída ao Conselho de Mercados de Obras Públicas e Particulares - CMOPP, criado pelo [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, competência para fiscalizar a protecção, organização, segurança e sinalização de estaleiros de obras, a ocupação de vias públicas com entulhos, equipamento, materiais e execução de trabalhos para além da área delimitada do estaleiro, atento, ainda, o cumprimento do disposto nos Decretos n.os 41821, de 11 de Agosto de 1958, e 46427, de 10 de Julho de 1965, e no [Decreto Regulamentar n.º 33/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1988-356081), de 12 de Setembro, respeitantes, respectivamente, à segurança no trabalho da construção civil e das instalações provisórias destinadas ao pessoal empregado nas obras e à sinalização de trabalhos nas vias públicas, em qualquer área do País, sempre e quando o julgar oportuno, e independentemente da competência atribuída por lei a outras entidades.
+Artigo 1.º É atribuída ao Conselho de Mercados de Obras Públicas e Particulares - CMOPP, criado pelo [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, competência para fiscalizar a protecção, organização, segurança e sinalização de estaleiros de obras, a ocupação de vias públicas com entulhos, equipamento, materiais e execução de trabalhos para além da área delimitada do estaleiro, atento, ainda, o cumprimento do disposto nos Decretos n.os 41821, de 11 de Agosto de 1958, e 46427, de 10 de Julho de 1965, e no [Decreto Regulamentar n.º 33/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1988-356081), de 12 de Setembro, respeitantes, respectivamente, à segurança no trabalho da construção civil e das instalações provisórias destinadas ao pessoal empregado nas obras e à sinalização de trabalhos nas vias públicas, em qualquer área do País, sempre e quando o julgar oportuno, e independentemente da competência atribuída por lei a outras entidades.
 
-###### Art. 2.º - 1 - A competência referida no artigo anterior é exercida por pessoas singulares ou colectivas a contratar em regime de prestação de serviço.
+Art. 2.º - 1 - A competência referida no artigo anterior é exercida por pessoas singulares ou colectivas a contratar em regime de prestação de serviço.
 
 2 - O CMOPP determina qual o âmbito da acção a desenvolver e as entidades ou situações a fiscalizar.
 
@@ -109,7 +141,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Sempre que a fiscalização abranja as condições de higiene e segurança no trabalho, a Inspecção-Geral do Trabalho deve integrar as equipas de inspecção, ficando-lhe cometida a instrução dos autos levantados e a aplicação das coimas relativamente às infracções verificadas.
 
-###### Art. 3.º - 1 - O pessoal referido no artigo anterior, quando devidamente credenciado, tem poderes para:
+Art. 3.º - 1 - O pessoal referido no artigo anterior, quando devidamente credenciado, tem poderes para:
 
 a) Ter acesso às obras ou a qualquer local de trabalho, sempre que o julgar necessário;
 
@@ -119,15 +151,15 @@ c) Notificar os infractores, no livro de obra ou através de documento próprio,
 
 2 - Os termos das notificações feitas e a situação existente após o decurso do prazo referido no número anterior devem constar dos relatórios finais a apresentar ao CMOPP, de acordo com o artigo 5.º
 
-###### Art. 4.º A Direcção-Geral do Turismo pode solicitar ao CMOPP a fiscalização das situções previstas neste diploma que envolvam ou afectem empreendimentos turísticos.
+Art. 4.º A Direcção-Geral do Turismo pode solicitar ao CMOPP a fiscalização das situções previstas neste diploma que envolvam ou afectem empreendimentos turísticos.
 
-###### Art. 5.º - 1 - As entidades contratadas enviarão ao secretário-geral do CMOPP os relatórios finais sobre a acção desenvolvida, deles devendo constar todos os elementos possíveis e necessários a uma apreciação imparcial e fundamentada de cada caso.
+Art. 5.º - 1 - As entidades contratadas enviarão ao secretário-geral do CMOPP os relatórios finais sobre a acção desenvolvida, deles devendo constar todos os elementos possíveis e necessários a uma apreciação imparcial e fundamentada de cada caso.
 
 2 - Se da apreciação dos relatórios resultar a possibilidade de existência de infracção, o secretário-geral do CMOPP deve enviar o processo para a Comissão de Alvarás de Empresas de Obras Públicas e Particulares - CAEOPP.
 
 3 - Quando entenda que a situação pode resultar do recurso a novas tecnologias, a CAEOPP deve enviar o respectivo processo ao Laboratório Nacional de Engenharia Civil (LNEC), para que este se pronuncie, no prazo de 30 dias, quanto ao seu enquadramento nos objectivos, nomeadamente de segurança, contidos nos regulamentos referidos no artigo 1.º do presente diploma.
 
-###### Art. 6.º Sempre que conclua pela falta de cumprimento das normas constantes do presente diploma, a CAEOPP deve, nos termos do disposto no [Decreto-Lei n.º 100/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1988-285742), de 23 de Março, proceder e aplicar as seguintes sanções:
+Art. 6.º Sempre que conclua pela falta de cumprimento das normas constantes do presente diploma, a CAEOPP deve, nos termos do disposto no [Decreto-Lei n.º 100/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1988-285742), de 23 de Março, proceder e aplicar as seguintes sanções:
 
 a) Cassar os alvarás sempre que, em virtude do incumprimento, tenha ocorrido acidente de que tenha resultado incapacidade física permanente ou morte de pessoa estranha à obra ou de trabalhador da mesma;
 
@@ -137,18 +169,18 @@ c) Suspender a autorização ao abrigo da qual está a ser executada a obra ou t
 
 d) Comunicar a existência e natureza da infracção, a identificação do infractor e a sanção aplicada ou a aplicar pela Comissão à entidade ou entidades que, por lei, tenham poderes de fiscalização sobre o mesmo caso.
 
-###### Art. 7.º - 1 - Das decisões tomadas pelas pessoas referidas no n.º 1 do artigo 2.º, na sua acção de fiscalização ao serviço do CMOPP, pode reclamar-se para o próprio CMOPP, no prazo de quinze dias após a sua verificação.
+Art. 7.º - 1 - Das decisões tomadas pelas pessoas referidas no n.º 1 do artigo 2.º, na sua acção de fiscalização ao serviço do CMOPP, pode reclamar-se para o próprio CMOPP, no prazo de quinze dias após a sua verificação.
 
 2 - Das deliberações da CAEOPP pode reclamar-se nos termos do disposto no artigo 14.º do [Decreto-Lei n.º 100/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1988-285742), de 23 de Março.
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 3 de Setembro de 1989.**
+Promulgado em 3 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Setembro de 1989.**
+Referendado em 6 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

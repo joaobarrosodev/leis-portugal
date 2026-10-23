@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17967-1960-514836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c195ef5add1791da46e71b20ce3ec926ad2fbc879b271dbb0c63dc5e68c20e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1143e9babcf3e5fa7b409f35d5a34b345e17b8ed2c2317ebb0f20d2de70dd2f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,36 @@ relationships:
   target: pt:dre:155428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:272204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659711:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:59Z'
   warnings: []
   errors: []
 ---
@@ -159,13 +179,13 @@ Ministério das Corporações e Previdência Social, 23 de Setembro de 1960. - O
 
 ESTATUTOS DA FEDERAÇÃO DE CAIXAS DE PREVIDÊNCIA - OBRAS SOCIAIS
 
-###### Artigo 1.º Nos termos do artigo 11.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946, e de harmonia com a portaria publicada no Diário do Governo desta data, é instituída, com sede em Lisboa, a Federação de Caixas de Previdência - Obras Sociais.
+Artigo 1.º Nos termos do artigo 11.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946, e de harmonia com a portaria publicada no Diário do Governo desta data, é instituída, com sede em Lisboa, a Federação de Caixas de Previdência - Obras Sociais.
 
-###### Art. 2.º Constituem a Federação todas as instituições de previdência da 1.ª e 2.ª categorias previstas no artigo 1.º da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 10 de Março de 1935.
+Art. 2.º Constituem a Federação todas as instituições de previdência da 1.ª e 2.ª categorias previstas no artigo 1.º da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 10 de Março de 1935.
 
-###### Art. 3.º A Federação tem por objectivo promover a organização, orientação, coordenação de obras e serviços de carácter social que, pela sua natureza e finalidades, devam considerar-se acessórios ou complementares dos esquemas da previdência e do abono de família não abrangidos pelas federações já existentes.
+Art. 3.º A Federação tem por objectivo promover a organização, orientação, coordenação de obras e serviços de carácter social que, pela sua natureza e finalidades, devam considerar-se acessórios ou complementares dos esquemas da previdência e do abono de família não abrangidos pelas federações já existentes.
 
-###### Art. 4.º Compete de modo especial à Federação:
+Art. 4.º Compete de modo especial à Federação:
 
 a) Instalar e manter casas de repouso para reformados por invalidez ou velhice das caixas federadas;
 
@@ -181,31 +201,31 @@ f) Contribuir, mediante outras iniciativas de carácter social ou formativo, par
 
 § único. Os programas de acção elaborados ao abrigo deste preceito serão anualmente submetidos à aprovação do Ministro das Corporações e Previdência Social, que fixará a dotação que, para o efeito, deverá ser atribuída pelo Fundo Comum das Casas do Povo.
 
-###### Art. 6.º Na prestação dos serviços próprios das suas funções a Federação deverá adoptar o princípio da comparticipação financeira do beneficiário, nos termos que vierem a ser definidos para cada modalidade de acção a prosseguir.
+Art. 6.º Na prestação dos serviços próprios das suas funções a Federação deverá adoptar o princípio da comparticipação financeira do beneficiário, nos termos que vierem a ser definidos para cada modalidade de acção a prosseguir.
 
-###### Art. 7.º A Federação promoverá que a realização das suas finalidades se faça de maneira progressiva, tendo em conta as suas disponibilidades financeiras e a importância ou urgência dos objectivos a alcançar.
+Art. 7.º A Federação promoverá que a realização das suas finalidades se faça de maneira progressiva, tendo em conta as suas disponibilidades financeiras e a importância ou urgência dos objectivos a alcançar.
 
-###### Art. 8.º As normas regulamentares dos serviços a instituir e os acordos de cooperação com as restantes federações, com a Fundação Nacional para a Alegria no Trabalho ou com quaisquer entidades públicas ou particulares serão sempre submetidos à aprovação do Ministro das Corporações e Previdência Social.
+Art. 8.º As normas regulamentares dos serviços a instituir e os acordos de cooperação com as restantes federações, com a Fundação Nacional para a Alegria no Trabalho ou com quaisquer entidades públicas ou particulares serão sempre submetidos à aprovação do Ministro das Corporações e Previdência Social.
 
 § 1.º Nos acordos a estabelecer com a Fundação Nacional para a Alegria no Trabalho diligenciar-se-á aproveitar, durante o maior número possível de meses em cada ano, as instalações das colónias, as quais, sempre que se torne viável, poderão ser utilizadas para outros fins sociais fora dos períodos de férias.
 
 § 2.º Nos acordos a estabelecer com os Serviços Médico-Sociais - Federação de Caixas de Previdência prever-se-á, de modo especial, a prestação da assistência médica e medicamentosa aos pensionistas beneficiários de casas de repouso.
 
-###### Art. 9.º As caixas federadas contribuirão para a Federação com as quotas julgadas necessárias para assegurar o seu normal funcionamento.
+Art. 9.º As caixas federadas contribuirão para a Federação com as quotas julgadas necessárias para assegurar o seu normal funcionamento.
 
 § 1.º As quotas, a estabelecer pelo Ministro das Corporações e Previdência Social, serão retiradas das receitas e fundos das caixas destinados a fins idênticos aos da Federação, nomeadamente dos fundos de abono de família, sempre que se trate dos benefícios previstos no artigo 1.º do [Decreto-Lei n.º 33512](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33512-1944-272204), de 29 de Janeiro de 1944.
 
 § 2.º As quotas referidas no parágrafo anterior serão acrescidas da percentagem julgada indispensável para cobrir as despesas administrativas da Federação.
 
-###### Art. 10.º As caixas depositarão, até ao dia 15 de cada mês, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Federação, nos termos do [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945, as suas quotas de comparticipação.
+Art. 10.º As caixas depositarão, até ao dia 15 de cada mês, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Federação, nos termos do [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945, as suas quotas de comparticipação.
 
-###### Art. 11.º A Federação terá, pelo menos, tantas contas quantos os serviços que mantiver, discriminando nomeadamente as despesas com:
+Art. 11.º A Federação terá, pelo menos, tantas contas quantos os serviços que mantiver, discriminando nomeadamente as despesas com:
 
 a) Administração;
 
 b) Instalação.
 
-###### Art. 12.º Constituem receitas da Federação, além das previstas no artigo 9.º, mais as seguintes:
+Art. 12.º Constituem receitas da Federação, além das previstas no artigo 9.º, mais as seguintes:
 
 a) Subsídios e comparticipações dos grémios e sindicatos e outros organismos;
 
@@ -217,13 +237,13 @@ d) Juros e outros rendimentos eventuais;
 
 e) Subsídios, legados, heranças e donativos.
 
-###### Art. 13.º Será constituído um fundo de reserva destinado a garantir a Federação contra qualquer eventualidade imprevisível ou aumento brusco e anormal de encargos.
+Art. 13.º Será constituído um fundo de reserva destinado a garantir a Federação contra qualquer eventualidade imprevisível ou aumento brusco e anormal de encargos.
 
-###### Art. 14.º O saldo anual da gerência transitará para o exercício seguinte e terá a aplicação que lhe for consignada no orçamento do ano.
+Art. 14.º O saldo anual da gerência transitará para o exercício seguinte e terá a aplicação que lhe for consignada no orçamento do ano.
 
-###### Art. 15.º Na administração, contabilização, emprego e guarda dos fundos, bem como na organização da direcção e do conselho geral e respectivas atribuições, observar-se-á o disposto no artigo 15.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946, com as especialidades constantes dos presentes estatutos.
+Art. 15.º Na administração, contabilização, emprego e guarda dos fundos, bem como na organização da direcção e do conselho geral e respectivas atribuições, observar-se-á o disposto no artigo 15.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946, com as especialidades constantes dos presentes estatutos.
 
-###### Art. 16.º A direcção da Federação será composta por um presidente, um vice-presidente e três vogais, desempenhando um deles a função de tesoureiro e outro a de secretário.
+Art. 16.º A direcção da Federação será composta por um presidente, um vice-presidente e três vogais, desempenhando um deles a função de tesoureiro e outro a de secretário.
 
 § 1.º O presidente e o vice-presidente, que o coadjuva e o substitui na sua falta e impedimentos, são de livre nomeação do Ministro das Corporações e Previdência Social.
 
@@ -231,10 +251,10 @@ e) Subsídios, legados, heranças e donativos.
 
 § 3.º O tesoureiro não poderá ter em caixa quantia superior a 10000$00.
 
-###### Art. 17.º O conselho geral será composto por um presidente, cuja nomeação é da competência do Ministro das Corporações e Previdência Social, e por um representante de cada uma das caixas federadas.
+Art. 17.º O conselho geral será composto por um presidente, cuja nomeação é da competência do Ministro das Corporações e Previdência Social, e por um representante de cada uma das caixas federadas.
 
 § único. Os representantes das caixas federadas serão eleitos pelos respectivos conselhos gerais de entre os seus membros.
 
-###### Art. 18.º Os casos omissos serão resolvidos pelo Ministro das Corporações e Previdência Social.
+Art. 18.º Os casos omissos serão resolvidos pelo Ministro das Corporações e Previdência Social.
 
 Ministério das Corporações e Previdência Social, 23 de Setembro de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.

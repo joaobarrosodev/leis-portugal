@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17968-1960-514850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d66815ed2ee85ea84251bfb9d5a31a90a5f3f1f7cb76eb385101cc470a95d9d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd40219cc27c0dd3e66969882ed33753dffaf22319ed1958571545803f27559a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:59Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +110,9 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 2) É dada aos artigos 49.º e 50.º do regulamento a seguinte redacção:
 
-###### Art. 49.º Aos beneficiários que se invalidem antes de decorrido o respectivo período de garantia pode a Caixa conceder pensões extraordinárias de montante não superior a 20 por cento do seu salário médio, calculado nos termos do § único do artigo 33.º deste regulamento.
+Art. 49.º Aos beneficiários que se invalidem antes de decorrido o respectivo período de garantia pode a Caixa conceder pensões extraordinárias de montante não superior a 20 por cento do seu salário médio, calculado nos termos do § único do artigo 33.º deste regulamento.
 
-###### Art. 50.º Aos beneficiários considerados como tais em 31 de Dezembro de 1943 e que ao aposentarem-se tenham o mínimo de vinte anos de trabalho efectivo e ininterrupto ao serviço da indústria vidreira serão concedidas as seguintes melhorias de pensões:
+Art. 50.º Aos beneficiários considerados como tais em 31 de Dezembro de 1943 e que ao aposentarem-se tenham o mínimo de vinte anos de trabalho efectivo e ininterrupto ao serviço da indústria vidreira serão concedidas as seguintes melhorias de pensões:
 
 a) No caso de atingirem os 65 anos de idade, a diferença entre a pensão regulamentar e 50 por cento do salário médio, calculado nos termos do § único do artigo 33.º deste regulamento;
 

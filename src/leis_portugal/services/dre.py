@@ -20,6 +20,8 @@ from leis_portugal.sources.dre.source import DreSource
 class DreRunSummary:
     documents: list[WriteResult] = field(default_factory=list)
     skipped: list[str] = field(default_factory=list)
+    # (caminho DRE, motivo) dos documentos ignorados por estarem fora do Diário da República.
+    skipped_refs: list[tuple[str, str]] = field(default_factory=list)
     failures: list[dict[str, str]] = field(default_factory=list)
 
 
@@ -74,6 +76,7 @@ class DreIngestion:
                 result = self.ingest(ref, source)
             except SkipDocument as exc:
                 summary.skipped.append(str(exc))
+                summary.skipped_refs.append((ref, str(exc)))
                 return f"ignorado: {ref}"
             except NoSourceText as exc:
                 note_source_gap(self.acervo, exc, NO_TEXT_NOTE)

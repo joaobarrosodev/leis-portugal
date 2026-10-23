@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17969-1960-514851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53099413e551b3c08468a7f3f49318ab6736df027718badc6686798b8a93aa08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0943630505d2fa35d8db3576167c8a1599d721c9b64bef0f7fad8fc4f9255f2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:187697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596513:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:59Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +109,9 @@ I
 
 Do exercício da actividade
 
-###### Artigo 1.º O exercício da actividade profissional dos empregados de banca nos casinos reger-se-á pelas disposições do presente regulamento da carteira profissional.
+Artigo 1.º O exercício da actividade profissional dos empregados de banca nos casinos reger-se-á pelas disposições do presente regulamento da carteira profissional.
 
-###### Art. 2.º São as seguintes as categorias profissionais, e as correspondentes atribuições, dos empregados de banca:
+Art. 2.º São as seguintes as categorias profissionais, e as correspondentes atribuições, dos empregados de banca:
 
 Chefe de partida - direcção e fiscalização das salas de jogo, em representação directa das empresas.
 
@@ -129,17 +137,17 @@ II
 
 Do ingresso e do acesso na profissão
 
-###### Art. 3.º O ingresso na profissão só é permitido a indivíduos do sexo masculino, com idades compreendidas entre os 25 e 35 anos, que tenham bom comportamento moral e civil e não hajam sido condenados em pena de prisão por furto, roubo, abuso de confiança, quebra fraudulenta, falsidade ou fogo posto, nem declarados delinquentes de difícil correcção.
+Art. 3.º O ingresso na profissão só é permitido a indivíduos do sexo masculino, com idades compreendidas entre os 25 e 35 anos, que tenham bom comportamento moral e civil e não hajam sido condenados em pena de prisão por furto, roubo, abuso de confiança, quebra fraudulenta, falsidade ou fogo posto, nem declarados delinquentes de difícil correcção.
 
 § único. Tratando-se de indivíduos que exerçam a profissão de caixa, o ingresso na categoria de pagador poderá ser feito até aos 40 anos.
 
-###### Art. 4.º O ingresso na profissão far-se-á pelas categorias indicadas neste artigo, que serão atribuídas nas condições seguintes:
+Art. 4.º O ingresso na profissão far-se-á pelas categorias indicadas neste artigo, que serão atribuídas nas condições seguintes:
 
 1) De pagador, aos indivíduos que obtenham aprovação no exame realizado nos termos deste regulamento;
 
 2) De caixa, aos indivíduos que possuam a habilitação mínima do exame da 4.ª classe do ensino primário.
 
-###### Art. 5.º As categorias de chefe de banca e de fiscal de banca serão atribuídas aos pagadores de banca com mais de dez anos na profissão de pagador, salvo se o seu estado de saúde for considerado incompatível com o exercício das suas funções, hipótese em que o ingresso em qualquer das referidas categorias poderá ser autorizado aos pagadores com mais de cinco anos na mesma profissão.
+Art. 5.º As categorias de chefe de banca e de fiscal de banca serão atribuídas aos pagadores de banca com mais de dez anos na profissão de pagador, salvo se o seu estado de saúde for considerado incompatível com o exercício das suas funções, hipótese em que o ingresso em qualquer das referidas categorias poderá ser autorizado aos pagadores com mais de cinco anos na mesma profissão.
 
 § 1.º A autorização prevista na parte final do corpo deste artigo é da competência do Instituto Nacional do Trabalho e Previdência.
 
@@ -147,59 +155,59 @@ Do ingresso e do acesso na profissão
 
 § 3.º O recrutamento dos fiscais de banca poderá fazer-se de modo diverso do estabelecido neste artigo, mediante prévia autorização do Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 6.º O acesso às categorias de chefe de banca e fiscal de banca depende de declaração das empresas concessionárias assumindo o compromisso de colocar no desempenho das correspondentes funções os candidatos respectivos.
+Art. 6.º O acesso às categorias de chefe de banca e fiscal de banca depende de declaração das empresas concessionárias assumindo o compromisso de colocar no desempenho das correspondentes funções os candidatos respectivos.
 
 III
 
 Dos exames
 
-###### Art. 7.º Aos exames para pagador só podem ser admitidos os candidatos que satisfaçam as condições referidas no artigo 3.º e possuam a habilitação mínima do 1.º ciclo do curso dos liceus ou equivalente.
+Art. 7.º Aos exames para pagador só podem ser admitidos os candidatos que satisfaçam as condições referidas no artigo 3.º e possuam a habilitação mínima do 1.º ciclo do curso dos liceus ou equivalente.
 
-###### Art. 8.º Os exames para pagador realizar-se-ão de dois em dois anos, no Sindicato ou, quando este não disponha do material indispensável à prestação das provas, no casino de uma das zonas autorizadas.
+Art. 8.º Os exames para pagador realizar-se-ão de dois em dois anos, no Sindicato ou, quando este não disponha do material indispensável à prestação das provas, no casino de uma das zonas autorizadas.
 
 § único. Quando circunstâncias excepcionais o justifiquem, o Instituto Nacional do Trabalho e Previdência, ouvidos o Conselho da Inspecção de Jogos e o Sindicato, poderá determinar a antecipação dos exames.
 
-###### Art. 9.º A realização dos exames será determinada pelo Instituto Nacional do Trabalho e Previdência, ouvido o Sindicato, e tornada pública por meio de aviso afixado no Sindicato e nas instalações reservadas ao pessoal de banca nos casinos de todas as zonas de jogo.
+Art. 9.º A realização dos exames será determinada pelo Instituto Nacional do Trabalho e Previdência, ouvido o Sindicato, e tornada pública por meio de aviso afixado no Sindicato e nas instalações reservadas ao pessoal de banca nos casinos de todas as zonas de jogo.
 
 § 1.º Os elementos que deverão constar do requerimento solicitando a admissão aos exames, os documentos que hão-de instruí-lo e o prazo para a sua entrega, que não poderá ser inferior a 30 dias, contados da data da publicação do aviso, estarão patentes ao público no Sindicato.
 
 § 2.º Os exames deverão realizar-se entre os 60 e os 90 dias seguintes à afixação, no Sindicato, da lista dos concorrentes, o que será tornado público nas condições referidas no corpo deste artigo.
 
-###### Art. 10.º Os requerimentos, dirigidos ao presidente do júri, serão acompanhados de certidão de idade, certificado comprovativo das habilitações literárias, atestado de bom comportamento moral e civil, certificado do registo criminal e da importância de 200$00.
+Art. 10.º Os requerimentos, dirigidos ao presidente do júri, serão acompanhados de certidão de idade, certificado comprovativo das habilitações literárias, atestado de bom comportamento moral e civil, certificado do registo criminal e da importância de 200$00.
 
 § único. Os requerimentos terão a assinatura reconhecida por notário e indicarão o nome completo do candidato, nacionalidade, filiação, data do nascimento, estado civil, domicílio, habitações literárias e número e data do bilhete de identidade.
 
-###### Art. 11.º Os requerimentos deverão dar entrada no Sindicato até às 17 horas do último dia do prazo estabelecido, devendo, porém, ser aceites aqueles que se prove terem sido entregues, sob registo, em qualquer estação dos correios do continente, até à vespera do dia do encerramento do concurso.
+Art. 11.º Os requerimentos deverão dar entrada no Sindicato até às 17 horas do último dia do prazo estabelecido, devendo, porém, ser aceites aqueles que se prove terem sido entregues, sob registo, em qualquer estação dos correios do continente, até à vespera do dia do encerramento do concurso.
 
 § 1.º Tratando-se de candidatos residentes nas ilhas adjacentes, podem os requerimentos ser entregues nas delegações do Instituto Nacional do Trabalho e Previdência, observando-se, quanto ao mais, o disposto no corpo deste artigo.
 
 § 2.º Ao delegado do Instituto Nacional do Trabalho e Previdência compete comunicar telegràficamente, dentro das 48 horas seguintes à do último dia do prazo, todos os elementos de identificação dos concorrentes, bem como enviar, no mesmo espaço de tempo, as importâncias e documentos recebidos.
 
-###### Art. 12.º Os concorrentes cuja documentação não esteja em condições serão notificados a fim de, no prazo de dez dias, suprirem as deficiências que lhes forem indicadas, sendo afixada, em seguida, a lista dos candidatos admitidos ao exame.
+Art. 12.º Os concorrentes cuja documentação não esteja em condições serão notificados a fim de, no prazo de dez dias, suprirem as deficiências que lhes forem indicadas, sendo afixada, em seguida, a lista dos candidatos admitidos ao exame.
 
 § único. Quanto aos concorrentes residentes nas ilhas adjacentes aplicar-se-á o disposto nos §§ 1.º e 2.º do artigo anterior.
 
-###### Art. 13.º As provas consistirão no pagamento dos jogos de roleta e banca francesa, para o que é exigido perfeito conhecimento de todos os pormenores técnicos respeitantes a esses jogos e das disposições legais que regulam a sua exploração, e especialmente na parte que interessa ao exercício da actividade de pagador.
+Art. 13.º As provas consistirão no pagamento dos jogos de roleta e banca francesa, para o que é exigido perfeito conhecimento de todos os pormenores técnicos respeitantes a esses jogos e das disposições legais que regulam a sua exploração, e especialmente na parte que interessa ao exercício da actividade de pagador.
 
-###### Art. 14.º Na apreciação das provas, o júri terá em consideração:
+Art. 14.º Na apreciação das provas, o júri terá em consideração:
 
 1) A apresentação dos candidatos e o nível de educação que hajam revelado no decurso dos exames;
 
 2) Para os candidatos que tenham frequentado o curso de preparação do Sindicato, havendo-o, a informação dos respectivos instrutores sobre o seu aproveitamento.
 
-###### Art. 15.º O júri dos exames será presidido por pessoa designada por despacho do Ministro das Corporações e Previdência Social e terá por vogais um funcionário da Inspecção dos Jogos e o presidente da direcção do Sindicato Nacional dos Empregados de Banca nos Casinos e será assistido pelos profissionais que, para o efeito, forem indicados pelo Instituto Nacional do Trabalho e Previdência.
+Art. 15.º O júri dos exames será presidido por pessoa designada por despacho do Ministro das Corporações e Previdência Social e terá por vogais um funcionário da Inspecção dos Jogos e o presidente da direcção do Sindicato Nacional dos Empregados de Banca nos Casinos e será assistido pelos profissionais que, para o efeito, forem indicados pelo Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 16.º Os candidatos serão simplesmente aprovados ou excluídos, devendo as deliberações do júri, tomadas ou não com declaração de voto, ser consignadas em acta assinada por todos os membros.
+Art. 16.º Os candidatos serão simplesmente aprovados ou excluídos, devendo as deliberações do júri, tomadas ou não com declaração de voto, ser consignadas em acta assinada por todos os membros.
 
 § único. Os candidatos não aprovados poderão requerer a restituição dos documentos juntos aos respectivos requerimentos.
 
-###### Art. 17.º Os resultados dos exames serão afixados no Sindicato, à medida que forem sendo realizadas as provas.
+Art. 17.º Os resultados dos exames serão afixados no Sindicato, à medida que forem sendo realizadas as provas.
 
-###### Art. 18.º Os candidatos excluídos em dois exames não poderão ser admitidos de novo a exame.
+Art. 18.º Os candidatos excluídos em dois exames não poderão ser admitidos de novo a exame.
 
 § único. A desistência durante o exame equivale a exclusão, excepto quando for motivada por doença comprovada.
 
-###### Art. 19.º Os concorrentes que faltarem a qualquer prova poderão justificar a sua falta em requerimento dirigido ao presidente do júri, apresentado nas 24 horas seguintes.
+Art. 19.º Os concorrentes que faltarem a qualquer prova poderão justificar a sua falta em requerimento dirigido ao presidente do júri, apresentado nas 24 horas seguintes.
 
 § 1.º Aceite a justificação, será designado novo dia para a prestação de provas, dentro dos oito dias seguintes.
 
@@ -209,9 +217,9 @@ IV
 
 Da carteira profissional
 
-###### Art. 20.º A carteira profissional constitui título indispensável para o exercício da profissão de empregado de banca.
+Art. 20.º A carteira profissional constitui título indispensável para o exercício da profissão de empregado de banca.
 
-###### Art. 21.º A carteira profissional, do modelo a aprovar pelo Instituto Nacional do Trabalho e Previdência, será passada pelo Sindicato Nacional dos Empregados de Banca nos Casinos:
+Art. 21.º A carteira profissional, do modelo a aprovar pelo Instituto Nacional do Trabalho e Previdência, será passada pelo Sindicato Nacional dos Empregados de Banca nos Casinos:
 
 1) Aos empregados de banca que, à data da publicação deste regulamento, estejam legalmente habilitados a exercer a profissão;
 
@@ -219,64 +227,64 @@ Da carteira profissional
 
 § único. O serviço efectivo a que se refere o n.º 2) deste artigo só poderá ser realizado ao abrigo de títulos provisórios passados pelo Sindicato.
 
-###### Art. 22.º As carteiras profissionais serão passadas mediante requerimento dos interessados, em impresso especial fornecido pelo Sindicadto, acompanhado de duas fotografias e da importância a que se refere o § único deste artigo.
+Art. 22.º As carteiras profissionais serão passadas mediante requerimento dos interessados, em impresso especial fornecido pelo Sindicadto, acompanhado de duas fotografias e da importância a que se refere o § único deste artigo.
 
 § único. O Sindicato cobrará pela passagem das carteiras profisisonais a importância de 50$00, contra recibo.
 
-###### Art. 23.º A carteira profissional conterá, além do nome, filiação, data do nascimento, número do bilhete de identidade e fotografia do titular, a data e o número de ordem da sua emissão e os espaços destinados a revalidações e a averbamentos.
+Art. 23.º A carteira profissional conterá, além do nome, filiação, data do nascimento, número do bilhete de identidade e fotografia do titular, a data e o número de ordem da sua emissão e os espaços destinados a revalidações e a averbamentos.
 
 § único. As carteiras deverão ser assinadas pelos titulares respectivos e pelo presidente da direcção do Sindicato e só serão válidas depois de visadas pelo Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 24.º Os empregados de banca são obrigados a apresentar a sua carteira profissional, sempre que para tanto forem solicitados, aos funcionários da Inspecção do Trabalho e da Inspecção de Jogos.
+Art. 24.º Os empregados de banca são obrigados a apresentar a sua carteira profissional, sempre que para tanto forem solicitados, aos funcionários da Inspecção do Trabalho e da Inspecção de Jogos.
 
-###### Art. 25.º Os empregados de banca aos quais forem aplicadas penas que impliquem a interdição do exercício da sua actividade profissional ou de suspensão por período superior a 30 dias devem entregar, imediatamente, as suas carteiras profissionais no Sindicato.
+Art. 25.º Os empregados de banca aos quais forem aplicadas penas que impliquem a interdição do exercício da sua actividade profissional ou de suspensão por período superior a 30 dias devem entregar, imediatamente, as suas carteiras profissionais no Sindicato.
 
-###### Art. 26.º As carteiras profissionais deverão ser revalidadas anualmente pelo Sindicato, no mês de Janeiro para o pessoal das zonas permanentes e no mês de Junho para o restante pessoal, mediante o pagamento da importância de 10$00.
+Art. 26.º As carteiras profissionais deverão ser revalidadas anualmente pelo Sindicato, no mês de Janeiro para o pessoal das zonas permanentes e no mês de Junho para o restante pessoal, mediante o pagamento da importância de 10$00.
 
 § 1.º A falta de revalidação das carteiras profissionais implicará a impossibilidade de os seus titulares continuarem a exercer a profissão.
 
 § 2.º Pela revalidação de cada carteira fora do prazo referido neste artigo o Sindicato cobrará a importância de 50$00.
 
-###### Art. 27.º Haverá recurso, a todo tempo, para o Instituto Nacional do Trabalho e Previdência:
+Art. 27.º Haverá recurso, a todo tempo, para o Instituto Nacional do Trabalho e Previdência:
 
 1) Da denegação da passagem de carteiras profissionais e dos títulos provisórios a que se refere o § único do artigo 21.º;
 
 2) De qualquer decisão do Sindicato relativa a carteiras profissionais, considerada injustificada pelos seus titulares.
 
-###### Art. 28.º Para efeitos de recurso, considera-se indeferido o pedido quando o interessado não for notificado, no prazo de quinze dias, a contar da data da entrega do requerimento referido no artigo 23.º, de que pode levantar a carteira profissional ou o título provisório.
+Art. 28.º Para efeitos de recurso, considera-se indeferido o pedido quando o interessado não for notificado, no prazo de quinze dias, a contar da data da entrega do requerimento referido no artigo 23.º, de que pode levantar a carteira profissional ou o título provisório.
 
-###### Art. 29.º Quando os recursos obtiverem provimento, a direcção do Sindicato deverá entregar as carteiras profissionais e os títulos provisórios ou revogará a sua decisão no prazo de oito dias, a contar da data do recebimento da notificação dos despachos respectivos.
+Art. 29.º Quando os recursos obtiverem provimento, a direcção do Sindicato deverá entregar as carteiras profissionais e os títulos provisórios ou revogará a sua decisão no prazo de oito dias, a contar da data do recebimento da notificação dos despachos respectivos.
 
 § único. Se o não fizer, poderá o Instituto Nacional do Trabalho e Previdência emitir, a favor dos empregados de banca um causa, documentos que substituirão, para todos os efeitos, as carteiras profissionais e os títulos provisórios, sendo aplicadas à direcção do Sindicato, em qualquer dos casos, as sanções previstas na lei.
 
-###### Art. 30.º Em casos de deterioração ou de extravio de carteiras profissionais ou de títulos provisórios, o Sindicato passará aos respectivos titulares, mediante requerimento e no prazo de 30 dias, segunda via, entregando desde logo aos interessados documento que, para todos os efeitos, substitua a carteira ou o título em falta.
+Art. 30.º Em casos de deterioração ou de extravio de carteiras profissionais ou de títulos provisórios, o Sindicato passará aos respectivos titulares, mediante requerimento e no prazo de 30 dias, segunda via, entregando desde logo aos interessados documento que, para todos os efeitos, substitua a carteira ou o título em falta.
 
-###### Art. 31.º O exercício das funções de fiscal de banca e chefe de banca depende do averbamento das correspondentes categorias nas carteiras profissionais dos titulares respectivos.
+Art. 31.º O exercício das funções de fiscal de banca e chefe de banca depende do averbamento das correspondentes categorias nas carteiras profissionais dos titulares respectivos.
 
 § único. O averbamento das categorias referidas neste artigo só poderá ser feito a requerimento dos interessados, acompanhado da declaração exigida no artigo 6.º
 
-###### Art. 32.º O Sindicato cobrará pela passagem de segundas vias das carteiras e títulos provisórios e pelos averbamentos referidos no artigo anterior, respectivamente, as importâncias de 50$00 e de 10$00.
+Art. 32.º O Sindicato cobrará pela passagem de segundas vias das carteiras e títulos provisórios e pelos averbamentos referidos no artigo anterior, respectivamente, as importâncias de 50$00 e de 10$00.
 
-###### Art. 33.º Estão sujeitos a visto do Instituto Nacional do Trabalho e Previdência os averbamentos nas carteiras profissionais das categorias de fiscal de banca e de chefe de banca.
+Art. 33.º Estão sujeitos a visto do Instituto Nacional do Trabalho e Previdência os averbamentos nas carteiras profissionais das categorias de fiscal de banca e de chefe de banca.
 
-###### Art. 34.º As carteiras profissionais só poderão ser visadas pelo Instituto Nacional do Trabalho e Previdência quando acompanhadas dos respectivos processos.
+Art. 34.º As carteiras profissionais só poderão ser visadas pelo Instituto Nacional do Trabalho e Previdência quando acompanhadas dos respectivos processos.
 
 V
 
 Disposições gerais e transitórias
 
-###### Art. 35.º Aos indivíduos que, até seis meses antes da aprovação deste regulamento, requereram a admissão na profissão de empregados de banca pela categoria de pagador é permitida a prestação das provas do exame a que se refere o artigo 4.º sem dependência da satisfação das condições exigidas neste regulamento quanto a idade e a habilitações.
+Art. 35.º Aos indivíduos que, até seis meses antes da aprovação deste regulamento, requereram a admissão na profissão de empregados de banca pela categoria de pagador é permitida a prestação das provas do exame a que se refere o artigo 4.º sem dependência da satisfação das condições exigidas neste regulamento quanto a idade e a habilitações.
 
-###### Art. 36.º Os fiscais de banca habilitados legalmente a exercerem a profissão à data da publicação deste regulamento poderão ser admitidos aos exames para pagador, mediante a apresentação de, apenas, o requerimento de admissão referido no § 1.º do artigo 9.º
+Art. 36.º Os fiscais de banca habilitados legalmente a exercerem a profissão à data da publicação deste regulamento poderão ser admitidos aos exames para pagador, mediante a apresentação de, apenas, o requerimento de admissão referido no § 1.º do artigo 9.º
 
-###### Art. 37.º As infracções ao presente regulamento serão punidas nos termos do [Decreto-Lei n.º 29931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29931-1939-187697), de 15 de Setembro de 1939, e mais legislação aplicável.
+Art. 37.º As infracções ao presente regulamento serão punidas nos termos do [Decreto-Lei n.º 29931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29931-1939-187697), de 15 de Setembro de 1939, e mais legislação aplicável.
 
-###### Art. 38.º As dúvidas suscitadas na interpretação deste regulamento, assim como os casos no mesmo omissos, serão, respectivamente, esclarecidas e regulados pelo Ministério das Corporações e Previdência Social, ouvido o Sindicato.
+Art. 38.º As dúvidas suscitadas na interpretação deste regulamento, assim como os casos no mesmo omissos, serão, respectivamente, esclarecidas e regulados pelo Ministério das Corporações e Previdência Social, ouvido o Sindicato.
 
 VI
 
 Disposição revogatória
 
-###### Art. 39.º É revogado o Regulamento da Carteira Profissional dos Empregados de Banca nos Casinos aprovado por despacho de 1 de Outubro de 1942.
+Art. 39.º É revogado o Regulamento da Carteira Profissional dos Empregados de Banca nos Casinos aprovado por despacho de 1 de Outubro de 1942.
 
 Ministério das Corporações e Previdência Social, 23 de Setembro de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.

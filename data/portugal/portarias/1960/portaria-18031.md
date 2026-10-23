@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18031-1960-514453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a75658f03f0d55912f4f63940b7a840253bd478267ac6c6ee390ff3a047dd2dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11a1f80da73d499155d0f712bb053567f0fcdd0e033cab50745935165066fd13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:583859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627251:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:19Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,7 @@ Tendo em vista a proposta apresentada pelo Conselho Nacional dos Serviços de In
 
 Manda o Governo da República Portuguesa, pelo Ministro do Interior, nos termos do artigo único do [Decreto n.º 42797](https://diariodarepublica.pt/dr/detalhe/decreto/42797-1960-627251), de 4 de Janeiro do ano corrente, que aos artigos 58.º, 59.º, 60.º, 61.º, 62.º e 63.º do [Decreto n.º 38439](https://diariodarepublica.pt/dr/detalhe/decreto/38439-1951-583859), de 27 de Setembro de 1951, seja dada a seguinte redacção:
 
-###### Art. 58.º O pessoal dos corpos de bombeiros voluntários poderá ter os seguintes uniformes:
+Art. 58.º O pessoal dos corpos de bombeiros voluntários poderá ter os seguintes uniformes:
 
 a) De trabalho;
 
@@ -96,7 +104,7 @@ b) De passeio;
 
 c) De gala.
 
-###### Art. 59.º O uniforme de trabalho é de dois tipos:
+Art. 59.º O uniforme de trabalho é de dois tipos:
 
 Tipo n.º 1:
 
@@ -108,7 +116,7 @@ Tipo n.º 2:
 
 § único. Ao pessoal em instrução e àquele que constitui as brigadas rurais é permitido o uso de fato de zuarte e barrete de bivaque, de serviço interno. (Figs. 5 e 16).
 
-###### Art. 60.º O uniforme de passeio é de três tipos:
+Art. 60.º O uniforme de passeio é de três tipos:
 
 Tipo n.º 1:
 
@@ -124,7 +132,7 @@ Tipo n.º 3:
 
 § único. O uniforme tipo n.º 3, com cinturão com argolas, machado e capacete, pode também ser usado durante os serviços de prevenção em casas de espectáculos.
 
-###### Art. 61.º O uniforme de gala é de dois tipos:
+Art. 61.º O uniforme de gala é de dois tipos:
 
 Tipo n.º 1:
 
@@ -134,12 +142,12 @@ Tipo n.º 2:
 
 A usar fora de formaturas. É idêntico ao anterior (sem machado), substituindo-se o capacete por quépi, podendo o cinturão ser substituído por faixa de seda de cor azul. Como agasalho usar-se-á o capote ou capa de fazenda azul. (Figs. 7, 8, 11 ou 13, 15, 9 ou 10).
 
-###### Art. 62.º Os cadetes terão como uniforme único o fato de zuarte com listas, canhões e platinas de tecido preto, cinto do mesmo tecido com fivela, e para cobertura da cabeça será usado o barrete de bivaque. (Figs. 5 e 16).
+Art. 62.º Os cadetes terão como uniforme único o fato de zuarte com listas, canhões e platinas de tecido preto, cinto do mesmo tecido com fivela, e para cobertura da cabeça será usado o barrete de bivaque. (Figs. 5 e 16).
 
-###### Art. 63.º Com qualquer dos tipos de uniformes é permitido o uso de sapato preto com peúga da mesma cor. Os botões a adoptar deverão ser dos dois tamanhos dos modelos das figs. 17 e 18, metálicos (fig. 17) para quépi, dólman, capote e capa e de massa plástica (fig. 18), azul-escura, para os blusões.
+Art. 63.º Com qualquer dos tipos de uniformes é permitido o uso de sapato preto com peúga da mesma cor. Os botões a adoptar deverão ser dos dois tamanhos dos modelos das figs. 17 e 18, metálicos (fig. 17) para quépi, dólman, capote e capa e de massa plástica (fig. 18), azul-escura, para os blusões.
 
 Ministério do Interior, 31 de Outubro de 1960. - O Ministro do Interior, Arnaldo Schulz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/10/25300/23712378.pdf))](https://files.diariodarepublica.pt/1s/1960/10/25300/23712378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/10/25300/23712378.pdf)
 
 Ministério do Interior, 31 de Outubro de 1960. - O Ministro do Interior, Arnaldo Schulz.

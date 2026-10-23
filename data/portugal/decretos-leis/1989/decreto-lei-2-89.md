@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/00500/00420042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1989-234496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 066b64658741d0395d955f7e793cf7c006f9069d3511668820c6d0a818167b74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06b180dcb4d476d40c3bc9f9a35100be2fd3d78b4e77b9ced300e1663ff07e71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- RDP
+- TAXA de Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 2 DO DEC LEI 389/76 DE 24-MAI, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DEC LEI 411/90 DE\
+    \ 31-DEZ DR.IS [300]SUPL.\000]SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-12-31'
+- type: amended_by
+  target: pt:dre:247046:por
+  label: Alterado o art. 2.º do Dec Lei 389/76, de 24-Mai, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    411/90 - Diário da República n.º 300/1990, 1º Suplemento, Série I de 1990-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1990-247046
+  date: '1990-12-31'
+- type: cites
+  target: pt:dre:307778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661320:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:32Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +136,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 389/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1976-426921), de 24 de Maio, já alterado pelos Decretos-Leis n.os [203/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1982-392420), de 22 de Maio, [33/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1983-307778), de 24 de Janeiro, e [59/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1984-661320), de 23 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 389/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1976-426921), de 24 de Maio, já alterado pelos Decretos-Leis n.os [203/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1982-392420), de 22 de Maio, [33/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1983-307778), de 24 de Janeiro, e [59/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1984-661320), de 23 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
@@ -111,16 +146,16 @@ a) Consumo anual até 270 kWh - isento de taxa;
 
 b) Consumo anual superior a 270 kWh - taxa mensal a estabelecer por portaria conjunta dos Ministros das Finanças, do Comércio e Turismo e Adjunto e da Juventude.
 
-###### Art. 2.º Os direitos à liquidação e cobrança da taxa de radiodifusão prescrevem no prazo de cinco anos, sendo o mesmo imediatamente aplicável às dívidas das taxas em atraso, independentemente de estar ou não em curso o respectivo processo de execução fiscal.
+Art. 2.º Os direitos à liquidação e cobrança da taxa de radiodifusão prescrevem no prazo de cinco anos, sendo o mesmo imediatamente aplicável às dívidas das taxas em atraso, independentemente de estar ou não em curso o respectivo processo de execução fiscal.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Jorge Manuel Mendes Antas - António Fernando Couto dos Santos.
 
-**Promulgado em 22 de Dezembro de 1988.**
+Promulgado em 22 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1988.**
+Referendado em 27 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

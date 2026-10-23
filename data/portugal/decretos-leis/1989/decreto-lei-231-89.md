@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/16800/29002901.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1989-619928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3caea31ebafd1bd8cdbbecdcd79da9098cbc0540b305c8f959a938b2cb5aec3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ba19b46fc5bad7a5ae9937c2545185f08ca49e06e9a0f60a60975d1b7cc171a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Serviços Tutelares de Menores
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:174313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575102:por
+  label: "Alterado, na parte referente ao pessoal técnico auxiliar de educação e auxiliar técnico de educação, o quadro de\
+    \ pessoal da Direcção-Geral dos Serviços Tutelares de Menores, constante do mapa a que se refere o art. 1º pela PORT.444/90.16.06.1990.MF,\
+    \ DR.IS [137] de 16.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/444-1990-575102
+  date: '1990-06-16'
+- type: repealed_by
+  target: pt:dre:174313:por
+  label: "Revogado pelo DEC LEI.58/95.1995.03.31.MJ, DR.IS-A [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1995-174313
+  date: '1995-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:17Z'
   warnings: []
   errors: []
 ---
@@ -103,23 +118,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O quadro de pessoal dos serviços externos da Direcção-Geral dos Serviços Tutelares de Menores (DGSTM) é alterado na parte respeitante ao pessoal técnico auxiliar de educação e auxiliar técnico de educação, nos termos do mapa anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º O quadro de pessoal dos serviços externos da Direcção-Geral dos Serviços Tutelares de Menores (DGSTM) é alterado na parte respeitante ao pessoal técnico auxiliar de educação e auxiliar técnico de educação, nos termos do mapa anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º Os técnicos de educação de 2.ª classe podem ser recrutados de entre indivíduos habilitados com o curso das escolas superiores de educação ou equiparados, com o curso superior de Serviço Social ou com o bacharelato em Educação Física.
+Art. 2.º Os técnicos de educação de 2.ª classe podem ser recrutados de entre indivíduos habilitados com o curso das escolas superiores de educação ou equiparados, com o curso superior de Serviço Social ou com o bacharelato em Educação Física.
 
-###### Art. 3.º - 1 - É criada a carreira de monitor de educação.
+Art. 3.º - 1 - É criada a carreira de monitor de educação.
 
 2 - Os monitores de educação de 2.ª classe são recrutados de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
 3 - Ao acesso na carreira de monitor de educação aplicam-se as regras previstas na lei geral para o acesso nas carreiras de nível 3 do grupo de pessoal técnico-profissional.
 
-###### Art. 4.º - 1 - É requisito especial de ingresso na carreira de monitor de educação a frequência, com aproveitamento, de um curso de formação e de um estágio, de duração não inferior a dois anos.
+Art. 4.º - 1 - É requisito especial de ingresso na carreira de monitor de educação a frequência, com aproveitamento, de um curso de formação e de um estágio, de duração não inferior a dois anos.
 
 2 - Os objectivos, conteúdo programático e sistemas de funcionamento e de avaliação do curso de formação e do estágio são fixados em despacho conjunto do Ministro da Justiça e do membro do Governo que tenha a seu cargo a função pública.
 
 3 - Durante a frequência do curso de formação e do estágio a que se referem os números anteriores, os formandos são requisitados, nomeados em comissão de serviço ou contratados além do quadro, consoante se encontrem ou não vinculados à função pública, e auferem uma remuneração equivalente à da letra N da tabela geral de vencimentos da função pública, podendo optar pelo vencimento correspondente ao lugar de origem.
 
-###### Art. 5.º - 1 - Concluído o curso e estágio a que se refere o artigo anterior, o formando:
+Art. 5.º - 1 - Concluído o curso e estágio a que se refere o artigo anterior, o formando:
 
 a) É provido definitivamente, se tiver concluído com aproveitamento o curso de formação e o estágio;
 
@@ -131,21 +146,21 @@ a) No lugar de origem, quando à requisição ou comissão se não seguir provim
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a requisição, comissão ou o contrato.
 
-###### Art. 6.º Os auxiliares técnicos de educação que não reúnam os requisitos para o ingresso na carreira de monitor de educação transitam para idêntica categoria remunerada pela letra M, extinguindo-se os respectivos lugares à medida que vagarem.
+Art. 6.º Os auxiliares técnicos de educação que não reúnam os requisitos para o ingresso na carreira de monitor de educação transitam para idêntica categoria remunerada pela letra M, extinguindo-se os respectivos lugares à medida que vagarem.
 
-###### Art. 7.º Enquanto não for inscrita no Orçamento do Estado a verba indispensável ao suporte dos encargos resultantes da aplicação do presente diploma, serão estes suportados por verbas do Gabinete de Gestão Financeira do Ministério da Justiça.
+Art. 7.º Enquanto não for inscrita no Orçamento do Estado a verba indispensável ao suporte dos encargos resultantes da aplicação do presente diploma, serão estes suportados por verbas do Gabinete de Gestão Financeira do Ministério da Justiça.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 10 de Julho de 1989.**
+Promulgado em 10 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1989.**
+Referendado em 12 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Conteúdo funcional
 
@@ -165,4 +180,4 @@ Susbstitui o técnico de educação quando este não exista ou esteja impedido.
 
 Mapa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/16800/29002901.pdf))](https://files.diariodarepublica.pt/1s/1989/07/16800/29002901.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/16800/29002901.pdf)

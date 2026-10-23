@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/00500/00550055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1989-234495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fa17bb58c6720221e48bb5e8a6b331e5275c948d40f9f07791863e543d89294
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cf0affd73c26dee5a8f760023fae9e96a1e9b2bdcc00bf0c83213757c163bf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Coordenador do Ensino Particular e Cooperativo
+- Estaleiros Navais de Viana do Castelo
+- Junta Autónoma dos Portos do Norte
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:245286:por
+  label: "Alterado o parágrafo único do art. 2º e aditados os arts. 4º a 10º ao Dec Lei 35570 de 01-Abr 1946, na redacção\
+    \ do presente diploma, pelo DEC LEI.145/2005.26.08.2005.MOPTC, DR.IS-A [164] de 26.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2005-245286
+  date: '2005-08-26'
+- type: cites
+  target: pt:dre:151692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407681:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:27Z'
   warnings: []
   errors: []
 ---
@@ -113,22 +147,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica autorizada a Junta Autónoma dos Portos do Norte (JAPN) a contratar com os Estaleiros Navais de Viana do Castelo, E. P., a revisão do prazo da concessão de uso privativo, autorizada pelo [Decreto-Lei n.º 654/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/654-1974-151692), de 22 de Novembro, passando o mesmo de 25 anos para 50 anos, com início reportado a 1 de Abril de 1981.
+Artigo 1.º Fica autorizada a Junta Autónoma dos Portos do Norte (JAPN) a contratar com os Estaleiros Navais de Viana do Castelo, E. P., a revisão do prazo da concessão de uso privativo, autorizada pelo [Decreto-Lei n.º 654/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/654-1974-151692), de 22 de Novembro, passando o mesmo de 25 anos para 50 anos, com início reportado a 1 de Abril de 1981.
 
-###### Art. 2.º Fica autorizada também a JAPN a contratar com a concessionária a integração na área da concessão de mais 221000 m2, conforme descrição na planta anexa.
+Art. 2.º Fica autorizada também a JAPN a contratar com a concessionária a integração na área da concessão de mais 221000 m2, conforme descrição na planta anexa.
 
-###### Art. 3.º No termo do prazo fixado no artigo 1.º, reverterão gratuitamente para o Estado todas as obras e equipamentos fixos constantes do estabelecimento objecto desta concessão.
+Art. 3.º No termo do prazo fixado no artigo 1.º, reverterão gratuitamente para o Estado todas as obras e equipamentos fixos constantes do estabelecimento objecto desta concessão.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1988. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 22 de Dezembro de 1988.**
+Promulgado em 22 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1988.**
+Referendado em 27 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/00500/00550055.pdf))](https://files.diariodarepublica.pt/1s/1989/01/00500/00550055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/00500/00550055.pdf)

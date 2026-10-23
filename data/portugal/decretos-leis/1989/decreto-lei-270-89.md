@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18900/33873391.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1989-619283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fcb8ad11acae0659c9389e2a12d25637e813d7a76b00cc996372f0065364678
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 825730fa5e46dc24879d0b437cc0667dd76c4ec47fde650e0c1d15f85db119c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Desporto
+- Multa
+- Violência
 relationships:
 - type: amended_by
   target: pt:dre:431225:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301415:por
+  label: "Prorrogado, até ao início da época desportiva de 1995, o prazo referido no nº 5 do art. 8º, pelo DEC LEI.164/94.1994.06.04.ME,\
+    \ DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-1994-301415
+  date: '1994-06-04'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497578:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:505263:por
+  label: Rectificado pela DECL.DD3504.1989.10.09.PCM, DR.IS [251]2ºSupl de 31/Out/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505263
+  date: '1989-10-09'
+- type: repealed_by
+  target: pt:dre:431225:por
+  label: "Revogado pela LEI.38/98.1998.08.04.AR DR.IS-A [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/38-1998-431225
+  date: '1998-08-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:16Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +132,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Com o objectivo de prevenir e controlar as manifestações de violência associada ao desporto, estabelecem-se pelo presente diploma normas de disciplina e ordenamento dentro dos complexos, recintos desportivos e áreas de competição.
+Artigo 1.º Com o objectivo de prevenir e controlar as manifestações de violência associada ao desporto, estabelecem-se pelo presente diploma normas de disciplina e ordenamento dentro dos complexos, recintos desportivos e áreas de competição.
 
-###### Art. 2.º - 1 - Por complexo desportivo entende-se o conjunto de terrenos, construções e instalações destinado à prática desportiva de uma ou mais modalidades, pertencente ou explorado por uma só entidade, compreendendo os espaços reservados ao público e ao parqueamento de viaturas, bem como arruamentos e dependências anexas necessários ao bom funcionamento do conjunto.
+Art. 2.º - 1 - Por complexo desportivo entende-se o conjunto de terrenos, construções e instalações destinado à prática desportiva de uma ou mais modalidades, pertencente ou explorado por uma só entidade, compreendendo os espaços reservados ao público e ao parqueamento de viaturas, bem como arruamentos e dependências anexas necessários ao bom funcionamento do conjunto.
 
 2 - Consideram-se limites exteriores do complexo desportivo as vias públicas onde vão dar os seus acessos, de acordo com o estabelecido na alínea e) do n.º 1 do artigo 10.º do presente diploma.
 
@@ -114,7 +142,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Por área de competição entende-se a superfície onde se desenrola a competição, incluindo as zonas de protecção definidas de acordo com os regulamentos internacionais da respectiva modalidade.
 
-###### Art. 3.º - 1 - A interdição dos recintos desportivos consiste na proibição temporária de o clube desportivo a que sejam imputadas as faltas referidas no número seguinte realizar no recinto desportivo que lhe estiver afecto jogos oficiais na modalidade, escalão etário e categoria iguais àquele em que as faltas tenham ocorrido.
+Art. 3.º - 1 - A interdição dos recintos desportivos consiste na proibição temporária de o clube desportivo a que sejam imputadas as faltas referidas no número seguinte realizar no recinto desportivo que lhe estiver afecto jogos oficiais na modalidade, escalão etário e categoria iguais àquele em que as faltas tenham ocorrido.
 
 2 - A medida de interdição é aplicável:
 
@@ -132,19 +160,19 @@ b) Quando os actos referidos na alínea anterior criem dificuldades ao início o
 
 7 - A aplicação da medida de interdição do recinto desportivo com fundamento na verificação de distúrbios implica ainda a imposição, ao clube responsável, da obrigação de suportar a totalidade das despesas de policiamento do jogo em que se verificaram, podendo esta obrigação ser estendida, em casos de especial gravidade, a outros jogos da mesma modalidade, escalão etário e categoria, a realizar pelo mesmo clube.
 
-###### Art. 4.º - 1 - A medida de interdição só pode ser aplicada mediante a instauração de processo disciplinar a efectuar pela federação ou associação desportiva competente.
+Art. 4.º - 1 - A medida de interdição só pode ser aplicada mediante a instauração de processo disciplinar a efectuar pela federação ou associação desportiva competente.
 
 2 - Instaurado o processo disciplinar referido no número anterior, e desde que o relatório da força policial, da equipa de arbitragem ou da entidade investida no mesmo poder forneça indícios seguros do cometimento da infracção, serão os recintos desportivos interditos preventivamente, sendo esta medida sempre levada em conta na sanção que for aplicada ao clube desportivo.
 
-###### Art. 5.º - 1 - Ao clube desportivo que, possuindo vedação e túnel de acesso aos balneários com as características definidas no regulamento referido no artigo 8.º, sofra a medida de interdição, poderá ser aplicada, pela respectiva federação ou associação, uma sanção pecuniária de carácter disciplinar, cujo montante variará entre 20000$00 e 1000000$00, conforme as circunstâncias, a qual reverterá em partes iguais para um fundo da federação ou associação para obras e acções de fomento da ética desportiva e para reforço das verbas afectas ao Ministério da Administração Interna destinadas a fazer face aos encargos com o policiamento dos espectáculos desportivos e à formação especializada dos elementos das forças de segurança na prevenção e controlo das manifestações de violência associada ao desporto.
+Art. 5.º - 1 - Ao clube desportivo que, possuindo vedação e túnel de acesso aos balneários com as características definidas no regulamento referido no artigo 8.º, sofra a medida de interdição, poderá ser aplicada, pela respectiva federação ou associação, uma sanção pecuniária de carácter disciplinar, cujo montante variará entre 20000$00 e 1000000$00, conforme as circunstâncias, a qual reverterá em partes iguais para um fundo da federação ou associação para obras e acções de fomento da ética desportiva e para reforço das verbas afectas ao Ministério da Administração Interna destinadas a fazer face aos encargos com o policiamento dos espectáculos desportivos e à formação especializada dos elementos das forças de segurança na prevenção e controlo das manifestações de violência associada ao desporto.
 
 2 - A aplicação da medida de interdição ao clube desportivo que possua vedação e túnel de acesso aos balneários sem as características definidas no regulamento a que se refere o artigo 8.º obriga-o a proceder às adaptações necessárias ao cumprimento desse regulamento, cujo custo será suportado pelo clube desportivo sancionado, sem prejuízo da sanção pecuniária prevista no número anterior, na proporção nele mencionada.
 
-###### Art. 6.º - 1 - Em caso de reincidência, ao clube responsável é aplicável, para além das sanções disciplinares previstas nos regulamentos da respectiva federação ou associação, a sanção pecuniária de carácter disciplinar referida no artigo 5.º, n.º 1, no montante mínimo de 500000$00, a qual reverterá para as entidades referidas no n.º 1 do artigo anterior na proporção e com as finalidades nele mencionadas.
+Art. 6.º - 1 - Em caso de reincidência, ao clube responsável é aplicável, para além das sanções disciplinares previstas nos regulamentos da respectiva federação ou associação, a sanção pecuniária de carácter disciplinar referida no artigo 5.º, n.º 1, no montante mínimo de 500000$00, a qual reverterá para as entidades referidas no n.º 1 do artigo anterior na proporção e com as finalidades nele mencionadas.
 
 2 - Existe reincidência quando na mesma época o clube desportivo seja considerado responsável por factos idênticos àqueles que determinaram a aplicação da sanção prevista no artigo 3.º do presente diploma, após decisão definitiva sobre a mesma.
 
-###### Art. 7.º - 1 - As competições que ao clube desportivo interditado caberia realizar como visitado efectuar-se-ão em recinto com vedação e túnel de acesso aos balneários, de acordo com os regulamentos, que fique a uma distância não inferior às seguintes:
+Art. 7.º - 1 - As competições que ao clube desportivo interditado caberia realizar como visitado efectuar-se-ão em recinto com vedação e túnel de acesso aos balneários, de acordo com os regulamentos, que fique a uma distância não inferior às seguintes:
 
 a) 100 km, em relação a encontros de futebol da I Divisão Nacional;
 
@@ -160,7 +188,7 @@ e) 50 km, em encontros de outros escalões etários de qualquer modalidade.
 
 3 - As despesas com o policiamento das competições mencionadas no n.º 1 serão integralmente suportadas pelo clube desportivo sancionado.
 
-###### Art. 8.º - 1 - As características a que deverão obedecer a vedação e o túnel de acesso aos balneários, bem como outras medidas de protecção dos recintos desportivos, serão definidas por portaria conjunta dos membros do Governo que tenham a seu cargo a segurança interna, as obras públicas e o desporto, na qual se levarão em linha de conta as dimensões e as distâncias definidas pelos regulamentos internacionais para cada modalidade.
+Art. 8.º - 1 - As características a que deverão obedecer a vedação e o túnel de acesso aos balneários, bem como outras medidas de protecção dos recintos desportivos, serão definidas por portaria conjunta dos membros do Governo que tenham a seu cargo a segurança interna, as obras públicas e o desporto, na qual se levarão em linha de conta as dimensões e as distâncias definidas pelos regulamentos internacionais para cada modalidade.
 
 2 - Na edificação de novos recintos desportivos, as respectivas áreas de competição terão obrigatoriamente de possuir vedação e túnel de acesso aos balneários com as características constantes da portaria referida no número anterior.
 
@@ -170,7 +198,7 @@ e) 50 km, em encontros de outros escalões etários de qualquer modalidade.
 
 5 - No prazo máximo de três anos todos os recintos desportivos onde se realizem competições oficiais deverão dispor dos requisitos mínimos de segurança previstos no presente diploma.
 
-###### Art. 9.º - 1 - Com o objectivo de promover e coordenar as medidas destinadas a combater a violência nos espectáculos desportivos, bem como de fiscalizar a sua execução, é criada a Comissão Nacional de Coordenação e Fiscalização, que funcionará na dependência dos Ministros da Administração Interna e da Educação.
+Art. 9.º - 1 - Com o objectivo de promover e coordenar as medidas destinadas a combater a violência nos espectáculos desportivos, bem como de fiscalizar a sua execução, é criada a Comissão Nacional de Coordenação e Fiscalização, que funcionará na dependência dos Ministros da Administração Interna e da Educação.
 
 2 - A Comissão Nacional de Coordenação e Fiscalização é constituída pelos seguintes elementos:
 
@@ -202,7 +230,7 @@ j) Um representante dos órgãos da comunicação social, a indicar por estes.
 
 6 - Por despacho conjunto dos membros do Governo referidos no n.º 1 poderão ser criadas subcomissões de âmbito regional ou distrital.
 
-###### Art. 10.º - 1 - Compete à Comissão Nacional de Coordenação e Fiscalização, nomeadamente:
+Art. 10.º - 1 - Compete à Comissão Nacional de Coordenação e Fiscalização, nomeadamente:
 
 a) Dar parecer sobre todos os projectos de construção ou obras em instalações desportivas abertas ao público, sem prejuízo de demais legislação aplicável;
 
@@ -224,9 +252,9 @@ i) Tomar conhecimento da verificação das ocorrências mencionadas nos n.os 2 e
 
 2 - As deliberações, verificações e conclusões da Comissão deverão ser obrigatoriamente comunicadas à federação da modalidade a que digam respeito, para os efeitos que houver por convenientes ou os que decorram da lei ou regulamento.
 
-###### Art. 11.º Após a conclusão das obras de instalação dos dispositivos de protecção previstos neste diploma ficam as respectivas federações ou associações desportivas obrigadas a solicitar vistoria à Comissão Nacional de Coordenação e Fiscalização, devendo esta efectuá-la no prazo máximo de oito dias a contar da data de recepção do pedido.
+Art. 11.º Após a conclusão das obras de instalação dos dispositivos de protecção previstos neste diploma ficam as respectivas federações ou associações desportivas obrigadas a solicitar vistoria à Comissão Nacional de Coordenação e Fiscalização, devendo esta efectuá-la no prazo máximo de oito dias a contar da data de recepção do pedido.
 
-###### Art. 12 - 1 - Quando se verifiquem indícios da provável ocorrência de distúrbios em determinados jogos, deverá a federação respectiva classificá-los como «jogos de risco» ou «de alto risco», impondo aos clubes intervenientes medidas especiais de segurança adequadas à situação concreta, designadamente:
+Art. 12 - 1 - Quando se verifiquem indícios da provável ocorrência de distúrbios em determinados jogos, deverá a federação respectiva classificá-los como «jogos de risco» ou «de alto risco», impondo aos clubes intervenientes medidas especiais de segurança adequadas à situação concreta, designadamente:
 
 a) O reforço do policiamento, quer em número de efectivos quer pela adopção de planos de actuação a concertar com as forças de segurança;
 
@@ -242,13 +270,13 @@ f) O acompanhamento e vigilância de grupos de adeptos, nomeadamente nas desloca
 
 2 - O incumprimento de qualquer das medidas determinadas pela federação será punido por esta com as sanções a estabelecer nos seus regulamentos, ainda que não ocorram distúrbios.
 
-###### Art. 13.º - 1 - Os indivíduos suspeitos de estarem sob a influência do álcool poderão ser sujeitos pelos elementos das forças de segurança a testes de alcoolemia, devendo ser vedado o acesso a recintos desportivos àqueles cujos testes se revelem positivos e a todos os que recusem submeter-se aos mesmos.
+Art. 13.º - 1 - Os indivíduos suspeitos de estarem sob a influência do álcool poderão ser sujeitos pelos elementos das forças de segurança a testes de alcoolemia, devendo ser vedado o acesso a recintos desportivos àqueles cujos testes se revelem positivos e a todos os que recusem submeter-se aos mesmos.
 
 2 - Os indivíduos que, dentro do recinto desportivo, estiverem nas condições referidas no número anterior, bem como os que praticarem ou incitarem à prática de distúrbios, serão expulsos pelos elementos das forças de segurança, sem prejuízo da aplicação das sanções previstas no artigo 16.º
 
 3 - Os níveis de alcoolemia para efeitos do presente artigo são definidos por portaria.
 
-###### Art. 14.º - 1 - Sem prejuízo das obrigações impostas aos clubes nos termos do artigo 12.º ou por força de outras disposições legais ou regulamentos federativos, os clubes desportivos estão especialmente sujeitos aos seguintes deveres:
+Art. 14.º - 1 - Sem prejuízo das obrigações impostas aos clubes nos termos do artigo 12.º ou por força de outras disposições legais ou regulamentos federativos, os clubes desportivos estão especialmente sujeitos aos seguintes deveres:
 
 a) Incentivar o espírito ético e desportivo dos seus adeptos, especialmente dos grupos organizados de apoiantes;
 
@@ -258,7 +286,7 @@ c) Proteger os indivíduos alvo de ameaças, nomeadamente facilitando-lhes a sa�
 
 2 - A atitude assumida pelos clubes em relação aos deveres estabelecidos no número anterior deverá ser ponderada na fixação da medida das sanções que lhes são aplicáveis nos termos deste diploma.
 
-###### Art. 15.º Constitui contra-ordenação para os efeitos do disposto no presente diploma:
+Art. 15.º Constitui contra-ordenação para os efeitos do disposto no presente diploma:
 
 a) A introdução, venda e consumo de bebidas alcoólicas nos recintos desportivos, bem como dentro dos limites do complexo desportivo a estabelecer nos termos da alínea e) do n.º 1 do artigo 10.º deste diploma;
 
@@ -276,7 +304,7 @@ g) A introdução e utilização de buzinas de ar ou de outros utensílios estri
 
 h) A introdução ou utilização de material produtor de fogo-de-artifício ou objectos similares.
 
-###### Art. 16.º - 1 - Às contra-ordenações previstas nas alíneas a), b) e c) do artigo anterior correspondem coimas de 5000$00 a 15000$00, quando praticadas por espectadores, e de 25000$00 a 100000$00, quando praticadas por proprietários ou concessionários.
+Art. 16.º - 1 - Às contra-ordenações previstas nas alíneas a), b) e c) do artigo anterior correspondem coimas de 5000$00 a 15000$00, quando praticadas por espectadores, e de 25000$00 a 100000$00, quando praticadas por proprietários ou concessionários.
 
 2 - Às contra-ordenações previstas nas alíneas d), e), f), g) e h) correspondem coimas de 10000$00 a 50000$00.
 
@@ -286,22 +314,22 @@ h) A introdução ou utilização de material produtor de fogo-de-artifício ou 
 
 5 - Qualquer indivíduo a que seja aplicada coima por infracção prevista no presente diploma poderá ser sujeito a inibição de entrada em recintos desportivos pelo período máximo de dois anos.
 
-###### Art. 17.º - 1 - O produto das coimas previstas no artigo anterior acresce às verbas afectas, nos termos da lei, ao Ministério da Administração Interna para suporte dos encargos com o policiamento dos espectáculos desportivos e da formação especializada dos elementos das forças de segurança na prevenção e controlo das manifestações de violência associada ao desporto.
+Art. 17.º - 1 - O produto das coimas previstas no artigo anterior acresce às verbas afectas, nos termos da lei, ao Ministério da Administração Interna para suporte dos encargos com o policiamento dos espectáculos desportivos e da formação especializada dos elementos das forças de segurança na prevenção e controlo das manifestações de violência associada ao desporto.
 
 2 - O processamento das contra-ordenações e a aplicação das correspondentes sanções previstas no presente diploma estão sujeitos ao regime geral do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
 3 - A instrução dos processos por contra-ordenação cabe à autoridade policial que levantar o auto, competindo a aplicação da coima ao director-geral dos Desportos e, nas regiões autónomas, à entidade regional competente.
 
-###### Art. 18.º O disposto no presente diploma aplica-se a todas as provas desportivas que se realizem em recintos desportivos.
+Art. 18.º O disposto no presente diploma aplica-se a todas as provas desportivas que se realizem em recintos desportivos.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Joaquim Fernando Nogueira - José António da Silveira Godinho - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 28 de de Julho de 1989.**
+Promulgado em 28 de de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Agosto de 1989.**
+Referendado em 2 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1989-234502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31d2d034b4a10f0381bb0163776288d61111374c07c1f9f1d52d3fed1de89404
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2d774fe823fa731bce0e4e883630f036d5e3153a29b5be0a036cc54993974e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Português do Património Cultural
+- Museu
+- Receita Própria
+relationships:
+- type: cites
+  target: pt:dre:311648:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:58Z'
   warnings: []
   errors: []
 ---
@@ -98,24 +105,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Nos imóveis dependentes do Instituto Português do Património Cultural (IPPC), nomeadamente museus, palácios, castelos e estações arqueológicas, as entradas deverão ser pagas durante todo o horário de abertura, com excepção das efectuadas aos domingos e feriados até às 14 horas.
+Artigo 1.º - 1 - Nos imóveis dependentes do Instituto Português do Património Cultural (IPPC), nomeadamente museus, palácios, castelos e estações arqueológicas, as entradas deverão ser pagas durante todo o horário de abertura, com excepção das efectuadas aos domingos e feriados até às 14 horas.
 
 2 - Nos imóveis referidos no número anterior não devem ser pagas as entradas nas zonas afectas ao culto.
 
-###### Art. 2.º Os horários de abertura ao público, os preços das entradas e as isenções ou reduções nestes preços, bem como as condições em que podem ser cedidos espaços e direitos sobre a utilização do património à guarda do IPPC, serão fixados por despacho do membro do Governo responsável pela área da cultura.
+Art. 2.º Os horários de abertura ao público, os preços das entradas e as isenções ou reduções nestes preços, bem como as condições em que podem ser cedidos espaços e direitos sobre a utilização do património à guarda do IPPC, serão fixados por despacho do membro do Governo responsável pela área da cultura.
 
-###### Art. 3.º Mediante autorização do membro do Governo responsável pela área da cultura, pode o IPPC estabelecer contratos com outras entidades, públicas ou privadas, tendo em vista a rentabilização dos espaços incluídos no património à sua guarda.
+Art. 3.º Mediante autorização do membro do Governo responsável pela área da cultura, pode o IPPC estabelecer contratos com outras entidades, públicas ou privadas, tendo em vista a rentabilização dos espaços incluídos no património à sua guarda.
 
-###### Art. 4.º É revogado o [Decreto-Lei n.º 158/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1983-311648), de 19 de Abril.
+Art. 4.º É revogado o [Decreto-Lei n.º 158/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1983-311648), de 19 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 22 de Dezembro de 1988.**
+Promulgado em 22 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1988.**
+Referendado em 27 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

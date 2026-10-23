@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/11400/19831989.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1989-611117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7def6a54ae3e7af85b59c7e623e577fa64457632f590abcfdd9e56eb487a7352
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c52a710053ec5bf025fd8f48cb38530c0f220ffeddab080855d2ec58bf6684bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Definição de Competências
+- Integração de Trabalhadores
+- Orgânica
+- Pessoal Docente
+- Pessoal não Docente
+- Quadro de Pessoal
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575155:por
+  label: "Alterado, no referente ao pessoal técnico superior, o quadro de pessoal do Instituto de Ciências Biomédicas de Abel\
+    \ Salazar pela PORT.465/90.21.06.1990.SEO-MF, DR.IS [141] de 21.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/465-1990-575155
+  date: '1990-06-21'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661877:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:42Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +153,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto, adiante designado por ICBAS, é uma pessoa colectiva de direito público, dotada de autonomia administrativa, financeira, pedagógica e científica, sem prejuízo das orientações estabelecidas pelo Governo e pelos órgãos próprios de governo da Universidade, no âmbito das respectivas competências.
+Artigo 1.º O Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto, adiante designado por ICBAS, é uma pessoa colectiva de direito público, dotada de autonomia administrativa, financeira, pedagógica e científica, sem prejuízo das orientações estabelecidas pelo Governo e pelos órgãos próprios de governo da Universidade, no âmbito das respectivas competências.
 
-###### Art. 2.º - 1 - O ICBAS tem por fim o ensino, a investigação científica e a prestação de serviços à comunidade.
+Art. 2.º - 1 - O ICBAS tem por fim o ensino, a investigação científica e a prestação de serviços à comunidade.
 
 2 - Na prossecução dos seus fins compete ao ICBAS:
 
@@ -112,13 +167,13 @@ c) Fomentar e desenvolver a investigação científica;
 
 d) Colaborar com as instituições, organizações e serviços que requeiram o seu apoio técnico, científico e pedagógico.
 
-###### Art. 3.º O ICBAS poderá, nos termos da lei, celebrar convénios, acordos e contratos com instituições públicas ou privadas, nacionais ou estrangeiras, tendo em vista a promoção do intercâmbio científico e o desenvolvimento de actividades relevantes para o ensino e investigação nos domínios da sua competência.
+Art. 3.º O ICBAS poderá, nos termos da lei, celebrar convénios, acordos e contratos com instituições públicas ou privadas, nacionais ou estrangeiras, tendo em vista a promoção do intercâmbio científico e o desenvolvimento de actividades relevantes para o ensino e investigação nos domínios da sua competência.
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 
-###### Art. 4.º O ICBAS disporá dos órgãos de gestão, serviços e cargos consagrados nos artigos 23.º a 32.º do [Decreto-Lei n.º 148/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1988-285366), de 27 de Abril, cujas competências, funcionamento e demais regime são os estabelecidos nos mesmos artigos.
+Art. 4.º O ICBAS disporá dos órgãos de gestão, serviços e cargos consagrados nos artigos 23.º a 32.º do [Decreto-Lei n.º 148/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1988-285366), de 27 de Abril, cujas competências, funcionamento e demais regime são os estabelecidos nos mesmos artigos.
 
-###### Art. 5.º - 1 - O conselho administrativo do ICBAS é constituído pelo presidente do conselho directivo, que preside, pelo secretário e pelo técnico superior de gestão.
+Art. 5.º - 1 - O conselho administrativo do ICBAS é constituído pelo presidente do conselho directivo, que preside, pelo secretário e pelo técnico superior de gestão.
 
 2 - Nas faltas ou impedimentos de qualquer membro do conselho administrativo será chamado:
 
@@ -128,7 +183,7 @@ b) Para substituir o secretário, o técnico superior de gestão;
 
 c) Para substituir o técnico superior de gestão, o chefe de repartição ou seu substituto legal.
 
-###### Art. 6.º Compete ao conselho administrativo:
+Art. 6.º Compete ao conselho administrativo:
 
 a) Promover a elaboração dos projectos de orçamento, de acordo com as disposições legais aplicáveis;
 
@@ -160,7 +215,7 @@ o) Atribuir as moradias afectas ao ICBAS;
 
 p) Pronunciar-se sobre qualquer assunto no âmbito da sua competência que lhe seja apresentado pelo presidente.
 
-###### Art. 7.º - 1 - O conselho administrativo reunirá uma vez por quinzena, em dia e hora certos, e ainda sempre que o seu presidente o convocar.
+Art. 7.º - 1 - O conselho administrativo reunirá uma vez por quinzena, em dia e hora certos, e ainda sempre que o seu presidente o convocar.
 
 2 - Poderá participar nas reuniões do conselho, sem direito a voto, qualquer docente, discente ou funcionário do ICBAS, desde que para tal seja convocado pelo presidente.
 
@@ -170,7 +225,7 @@ p) Pronunciar-se sobre qualquer assunto no âmbito da sua competência que lhe s
 
 5 - Os membros do conselho administrativo são solidariamente responsáveis pelos levantamentos de fundos e dos pagamentos, desde que tenham estado presentes à reunião em que esses actos tenham sido aprovados e não tenham feito exarar em acta declaração expressa de discordância.
 
-###### Art. 8.º - 1 - Para apoio específico ao ensino, a investigação científica e à extensão, o ICBAS disporá ainda dos serviços gerais, que exercem a sua actividade nos domínios da iconografia, do desenho e da conservação e manutenção das instalações e equipamento.
+Art. 8.º - 1 - Para apoio específico ao ensino, a investigação científica e à extensão, o ICBAS disporá ainda dos serviços gerais, que exercem a sua actividade nos domínios da iconografia, do desenho e da conservação e manutenção das instalações e equipamento.
 
 2 - Compete aos serviços gerais:
 
@@ -190,13 +245,13 @@ f) A construção de aparelhos simples utilizados nos laboratórios.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 9.º - 1 - O ICBAS dispõe do pessoal docente constante do quadro criado pela [Portaria n.º 167/84](https://diariodarepublica.pt/dr/detalhe/portaria/167-1984-661877), de 27 de Março.
+Art. 9.º - 1 - O ICBAS dispõe do pessoal docente constante do quadro criado pela [Portaria n.º 167/84](https://diariodarepublica.pt/dr/detalhe/portaria/167-1984-661877), de 27 de Março.
 
 2 - O ICBAS disporá do pessoal não docente constante do mapa anexo a este diploma, que dele faz parte integrante.
 
 3 - Os quadros do pessoal não docente do ICBAS consideram-se aditados aos quadros do pessoal fixados para a Universidade do Porto.
 
-###### Art. 10.º - 1 - O provimento do pessoal não docente a que se refere o presente diploma é feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
+Art. 10.º - 1 - O provimento do pessoal não docente a que se refere o presente diploma é feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -214,9 +269,9 @@ a) No lugar de origem, quando à comissão não se seguir o provimento definitiv
 
 b) No lugar do quadro do ICBAS em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 11.º Ao pessoal docente do ICBAS é aplicável o disposto no Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado com alterações pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e na respectiva legislação complementar.
+Art. 11.º Ao pessoal docente do ICBAS é aplicável o disposto no Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado com alterações pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e na respectiva legislação complementar.
 
-###### Art. 12.º - 1 - Ao recrutamento e provimento do pessoal não docente do ICBAS é aplicável a lei geral ou especial sobre carreiras, salvo o disposto nos números seguintes.
+Art. 12.º - 1 - Ao recrutamento e provimento do pessoal não docente do ICBAS é aplicável a lei geral ou especial sobre carreiras, salvo o disposto nos números seguintes.
 
 2 - O lugar de secretário será provido por despacho do reitor, sob proposta do conselho directivo da escola, de entre licenciados com curso superior adequado, nos termos fixados nos diplomas aplicáveis ao pessoal dirigente.
 
@@ -226,7 +281,7 @@ b) No lugar do quadro do ICBAS em que vier a ser provido definitivamente, finda 
 
 ### CAPÍTULO IV — Disposições transitórias e finais
 
-###### Art. 13.º - 1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal que à data da entrada em vigor do presente diploma presta serviço no Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto, transita para os lugares do quadro constantes do mapa anexo ao presente diploma, de acordo com as seguintes regras:
+Art. 13.º - 1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal que à data da entrada em vigor do presente diploma presta serviço no Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto, transita para os lugares do quadro constantes do mapa anexo ao presente diploma, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -240,21 +295,21 @@ b) Sem prejuízo das habilitações legais, para categoria que integre as funç�
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 5 de Maio de 1989.**
+Promulgado em 5 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1989.**
+Referendado em 5 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa
 
 Instituto de Ciências Biomédicas de Abel Salazar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/11400/19831989.pdf))](https://files.diariodarepublica.pt/1s/1989/05/11400/19831989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/11400/19831989.pdf)
 
 Conteúdo funcional
 

@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1989-619960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3344f17242011b6924f43d1fec9b2bf90c7188bfb1b54b3caec69c2d769a7bb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1dbc35e9b693b11c8e58aad317aef663cf5fa920248b1acfa95a0403a2c8d1e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arroz
+- CEE
+- Cereal
+- Importação
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Mercado Agrícola
+- Organização Comum de Mercado
+- Política Agrícola Comum
+- Regulamento CE
+relationships:
+- type: cites
+  target: pt:dre:274265:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:12Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +103,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 12.º do [Decreto-Lei n.º 483-F/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-f-1988-274265), de 28 de Dezembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 12.º do [Decreto-Lei n.º 483-F/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-f-1988-274265), de 28 de Dezembro, passa a ter a seguinte redacção:
 
 1 - ...
 
@@ -132,12 +145,12 @@ h) ...
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 10 de Julho de 1989.**
+Promulgado em 10 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1989.**
+Referendado em 12 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

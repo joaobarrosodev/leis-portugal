@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/17900/31383138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1989-618875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3b79dd6ee00129e0ef20f75e37771c89ce493045f999cd377b7579784c343bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edc37c1b3895baeb4cc183beb73125bf4d8208a678fffe435df748c130b5c2dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Tempo de Serviço
+- Transferência de Pessoal
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:468663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419013:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:32Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +131,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O tempo de serviço prestado na administração pública central, regional e local releva, do ponto de vista de antiguidade na categoria e na carreira, para efeitos de promoção e progressão quando o pessoal afecto aos respectivos serviços e organismos transite de uma para outra das pessoas colectivas que integram a Administração.
+Artigo 1.º - 1 - O tempo de serviço prestado na administração pública central, regional e local releva, do ponto de vista de antiguidade na categoria e na carreira, para efeitos de promoção e progressão quando o pessoal afecto aos respectivos serviços e organismos transite de uma para outra das pessoas colectivas que integram a Administração.
 
 2 - O disposto no número anterior não prejudica a legislação actualmente em vigor sobre restrições à admissão de pessoal na administração central.
 
-###### Art. 2.º Releva para todos os efeitos legais, nas novas categorias e carreiras, o tempo de serviço prestado:
+Art. 2.º Releva para todos os efeitos legais, nas novas categorias e carreiras, o tempo de serviço prestado:
 
 a) Pelo pessoal abrangido pelo disposto nos artigos 27.º, 37.º e 39.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e no anexo III ao [Decreto-Lei n.º 247/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), de 17 de Junho;
 
@@ -114,12 +143,12 @@ b) Pelos funcionários objecto de permuta ou transferência, nos termos dos arti
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 19 de Julho de 1989.**
+Promulgado em 19 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1989.**
+Referendado em 21 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

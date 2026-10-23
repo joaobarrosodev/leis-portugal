@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18800/33383342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1989-619287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9723de9fe8fed5eba58a6b9142a0487f5f2c6264cb6bcb587370189972a08e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e29c91be9490a8266ae46b15a56fee4efcd4ec0873583c5140a6691e0f298af5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Delegação Regional
+- Direcção Geral de Energia
+- Fiscalização
+- Instalação de GÁS
+- Ministério da Indústria e Energia
+- Prédio Urbano
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:1725650:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658906:por
+  label: "Aditado o anexo A, pelo DEC LEI.219/91.17.06.1991.MIE, DR.IS-A [136] de 17.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1991-658906
+  date: '1991-06-17'
+- type: amended_by
+  target: pt:dre:283346:por
+  label: Alterados os arts. 6.º, 7.º, 9.º e 11.º, bem como os anexos A, B e C do presente diploma pelo DEC LEI.178/92.14.08.1992.MIE,
+    DR.IS-A [187] de 14.08.1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1992-283346
+  date: '1992-08-14'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560207:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632393:por
+  label: "Revogado pelo DEC LEI.521/99.1999.12.10.MECO, DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/521-1999-632393
+  date: '1999-12-10'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:58Z'
   warnings: []
   errors: []
 ---
@@ -273,15 +305,15 @@ O presente diploma entra em vigor no dia 1 de Março de 1990.
 
 Visto e aprovado em Conselho de Ministros de 11 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - António José de Castro Bagão Félix.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1989.**
+Referendado em 3 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO A
 

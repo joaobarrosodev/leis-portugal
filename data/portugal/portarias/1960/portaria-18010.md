@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18010-1960-513781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e4e86f74217648f3be6039c50293f7d0d38f27d9604f5a386d7fab1a218964c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c04a48c44e8da88e48d381397efe273389715af95bf509e78c6d1a2320a93ad5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:49:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:49:54Z'
   warnings: []
   errors: []
 ---
@@ -89,21 +93,21 @@ Nos os termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepubli
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 200000$00
+Artigo 4.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 200000$00
 
-###### Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 100000$00
+Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 100000$00
 
-###### Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - Semoventes - Com motor» ... 500000$00
+Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - Semoventes - Com motor» ... 500000$00
 
-###### Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 300000$00
+Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 300000$00
 
-###### Artigo 6.º, n.º 2), alínea a) «Material de consumo corrente - Artigos de expediente e diverso material não especificado - Para serviço geral» ... 300000$00
+Artigo 6.º, n.º 2), alínea a) «Material de consumo corrente - Artigos de expediente e diverso material não especificado - Para serviço geral» ... 300000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 300000$00
+Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 300000$00
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesa de comunicações - Transportes - De pessoal a pagar na metrópole». ... 1000000$00
+Artigo 8.º, n.º 3), alínea b) «Despesa de comunicações - Transportes - De pessoal a pagar na metrópole». ... 1000000$00
 
 ... 2700000$00
 
@@ -111,9 +115,9 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 1800000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 1800000$00
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 900000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 900000$00
 
 ... 2700000$00
 

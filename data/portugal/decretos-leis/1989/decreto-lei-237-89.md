@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 170/1989, 1º Suplemento, Série I de 1989-07-26
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2934-(2) a 2934-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/17001/00020003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1989-430059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6cc8d50eb4a7e874dae606f4e4458d692e23697021b592b0480b037c138609f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ac3d10acd63f91236fbb6016659dfd40a8c9df08c0c3bbc66fd1bf6050cf242
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assunção de Dívidas
+- Empresa de Polímeros de Sines
+relationships:
+- type: cites
+  target: pt:dre:468863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:22Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +104,7 @@ Assim:
 
 No uso da autorização concedida pelo artigo 2.º da [Lei n.º 18/89](https://diariodarepublica.pt/dr/detalhe/lei/18-1989-468863), de 20 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica o Ministro das Finanças autorizado, com a faculdade de delegar, a assumir em nome do Estado, com efeitos reportados à data da assinatura do contrato de compra e venda de acções da EPSI - Empresa de Polímeros de Sines, S. A., uma parcela do passivo daquela empresa, constituída por:
+Artigo 1.º Fica o Ministro das Finanças autorizado, com a faculdade de delegar, a assumir em nome do Estado, com efeitos reportados à data da assinatura do contrato de compra e venda de acções da EPSI - Empresa de Polímeros de Sines, S. A., uma parcela do passivo daquela empresa, constituída por:
 
 a) Crédito externo:
 
@@ -104,34 +114,34 @@ Empréstimo na modalidade de difer sales agreement, constituído pelo master sal
 
 b) Crédito interno - o restante para 35 milhões de contos, incluindo os créditos da Direcção-Geral do Tesouro.
 
-###### Art. 2.º As condições contratuais da dívida externa a que se refere o artigo anterior poderão ser renegociadas ou objecto de pagamento antecipado.
+Art. 2.º As condições contratuais da dívida externa a que se refere o artigo anterior poderão ser renegociadas ou objecto de pagamento antecipado.
 
-###### Art. 3.º Com vista ao financiamento das operações referidas no artigo 1.º fica o Ministro das Finanças autorizado, com a faculdade de delegar, a contrair empréstimos internos amortizáveis, nas condições previstas nos artigos seguintes.
+Art. 3.º Com vista ao financiamento das operações referidas no artigo 1.º fica o Ministro das Finanças autorizado, com a faculdade de delegar, a contrair empréstimos internos amortizáveis, nas condições previstas nos artigos seguintes.
 
-###### Art. 4.º Os empréstimos internos amortizáveis a que se refere o artigo anterior serão contraídos junto das instituições financeiras e outras entidades, representados por certificados de dívida inscrita, correspondentes a qualquer quantidade de obrigações do valor nominal de 100 contos cada uma, a emitir pela Junta do Crédito Público, ou outra modalidade de dívida pública.
+Art. 4.º Os empréstimos internos amortizáveis a que se refere o artigo anterior serão contraídos junto das instituições financeiras e outras entidades, representados por certificados de dívida inscrita, correspondentes a qualquer quantidade de obrigações do valor nominal de 100 contos cada uma, a emitir pela Junta do Crédito Público, ou outra modalidade de dívida pública.
 
-###### Art. 5.º O serviço da dívida destes empréstimos ficará a cargo da Junta do Crédito Público.
+Art. 5.º O serviço da dívida destes empréstimos ficará a cargo da Junta do Crédito Público.
 
-###### Art. 6.º As condições de cada empréstimo, nomeadamente mobilização de fundos, taxa de juro, contagem e amortização, serão acordadas com as entidades referidas no artigo 4.º e constarão de despacho do Ministro das Finanças, com a faculdade de delegar.
+Art. 6.º As condições de cada empréstimo, nomeadamente mobilização de fundos, taxa de juro, contagem e amortização, serão acordadas com as entidades referidas no artigo 4.º e constarão de despacho do Ministro das Finanças, com a faculdade de delegar.
 
-###### Art. 7.º Os certificados de dívida inscrita representativos das obrigações emitidas gozam da garantia integral dos juros e reembolso a partir do vencimento ou amortização, por força das receitas gerais do Estado e das isenções fiscais legalmente conferidas.
+Art. 7.º Os certificados de dívida inscrita representativos das obrigações emitidas gozam da garantia integral dos juros e reembolso a partir do vencimento ou amortização, por força das receitas gerais do Estado e das isenções fiscais legalmente conferidas.
 
-###### Art. 8.º Os certificados de dívida inscrita levarão as assinaturas de chancela do Ministro das Finanças, do vogal presidente e de um dos vogais da Junta do Crédito Público, bem como o selo branco da mesma Junta.
+Art. 8.º Os certificados de dívida inscrita levarão as assinaturas de chancela do Ministro das Finanças, do vogal presidente e de um dos vogais da Junta do Crédito Público, bem como o selo branco da mesma Junta.
 
-###### Art. 9.º Para a emissão destes empréstimos são dispensadas as formalidades previstas no artigo 20.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936.
+Art. 9.º Para a emissão destes empréstimos são dispensadas as formalidades previstas no artigo 20.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936.
 
-###### Art. 10.º No Orçamento do Estado serão inscritas anualmente as verbas indispensáveis para ocorrer aos encargos deste empréstimo, a partir de 1990.
+Art. 10.º No Orçamento do Estado serão inscritas anualmente as verbas indispensáveis para ocorrer aos encargos deste empréstimo, a partir de 1990.
 
-###### Art. 11.º O presente diploma produz todos os seus efeitos a partir da data da entrada em vigor da [Lei n.º 18/89](https://diariodarepublica.pt/dr/detalhe/lei/18-1989-468863), de 20 de Julho.
+Art. 11.º O presente diploma produz todos os seus efeitos a partir da data da entrada em vigor da [Lei n.º 18/89](https://diariodarepublica.pt/dr/detalhe/lei/18-1989-468863), de 20 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Julho de 1989.**
+Referendado em 26 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1989-615246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3c3632a5174383d26b8421cf6289dddfa0d54bc043ffc6509481de0c5813efe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71df9910ba4aedc6f9688d0da80b6d93e05c8b7b104fc34ff6a62d8021369e98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Gabinete da Área de Sines
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Integração de Trabalhadores
+- Orgânica
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:260586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:419057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:37Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +114,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É integrada no património próprio do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) a propriedade de prédios rústicos e urbanos do Gabinete da Área de Sines (GAS), sitos no Centro Urbano de Santo André e na vila de Sines.
+Artigo 1.º - 1 - É integrada no património próprio do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) a propriedade de prédios rústicos e urbanos do Gabinete da Área de Sines (GAS), sitos no Centro Urbano de Santo André e na vila de Sines.
 
 2 - O património imobiliário referido no número anterior é constituído pelos edifícios constituídos pelo GAS, habitados ou não, e por terrenos dotados de infra-estruturas urbanísticas, cujo valor é estimado em 10500000 contos.
 
@@ -111,13 +122,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A alienação do património transferido pelo presente diploma far-se-á mediante despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, mediante proposta do conselho directivo do IGAPHE.
 
-###### Art. 2.º - 1 - São transferidos para o IGAPHE todos os direitos e obrigações de que o GAS é titular, nos termos legais e contratuais, relativamente ao património transmitido.
+Art. 2.º - 1 - São transferidos para o IGAPHE todos os direitos e obrigações de que o GAS é titular, nos termos legais e contratuais, relativamente ao património transmitido.
 
 2 - Nos processos judiciais em curso que tenham por objecto os bens transferidos ou direitos a eles referentes, e salvo revogação expressa dos respectivos mandatos, o IGAPHE será representado pelos mandatários constituídos pelo GAS.
 
-###### Art. 3.º Nos termos do artigo 7.º do [Decreto-Lei n.º 242/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1987-419057), de 15 de Junho, o IGAPHE transferirá para a Direcção-Geral do Tesouro (DGT) todo o produto resultante da alienação dos bens e direitos mencionados, depois de descontadas as inerentes despesas.
+Art. 3.º Nos termos do artigo 7.º do [Decreto-Lei n.º 242/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1987-419057), de 15 de Junho, o IGAPHE transferirá para a Direcção-Geral do Tesouro (DGT) todo o produto resultante da alienação dos bens e direitos mencionados, depois de descontadas as inerentes despesas.
 
-###### Art. 4.º - 1 - Os funcionários e agentes do GAS afectos à gestão do património transferido pelo presente diploma, considerados necessários à execução das tarefas inerentes à mesma, transitam para o IGAPHE, sem prejuízo dos direitos adquiridos, e serão integrados na mesma situação jurídico-funcional, mediante lista nominativa a aprovar por despacho conjunto dos Ministros das Obras Públicas, Transportes e Comunicações e do Planeamento e da Administração do Território, em lugares de quadro a criar para o efeito.
+Art. 4.º - 1 - Os funcionários e agentes do GAS afectos à gestão do património transferido pelo presente diploma, considerados necessários à execução das tarefas inerentes à mesma, transitam para o IGAPHE, sem prejuízo dos direitos adquiridos, e serão integrados na mesma situação jurídico-funcional, mediante lista nominativa a aprovar por despacho conjunto dos Ministros das Obras Públicas, Transportes e Comunicações e do Planeamento e da Administração do Território, em lugares de quadro a criar para o efeito.
 
 2 - Nos termos do número anterior, a Direcção de Gestão Habitacional de Santo André (DGHSA) disporá de um quadro de pessoal próprio, a aprovar por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
@@ -125,11 +136,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os contratos de trabalho em vigor, celebrados pelo GAS ao abrigo do Regime Jurídico do Contrato Individual de Trabalho, relativos a pessoal afecto à administração urbana, caducam automaticamente na data da entrada em vigor do presente diploma.
 
-###### Art. 5.º - 1 - O GAS promoverá as alterações do seu orçamento privativo com vista à transferência das dotações indispensáveis à execução do disposto nos artigos anteriores para o IGAPHE, que elaborará orçamento suplementar para o efeito.
+Art. 5.º - 1 - O GAS promoverá as alterações do seu orçamento privativo com vista à transferência das dotações indispensáveis à execução do disposto nos artigos anteriores para o IGAPHE, que elaborará orçamento suplementar para o efeito.
 
 2 - Enquanto não vigorarem as alterações orçamentais previstas no número anterior, as despesas de funcionamento relativas aos bens, funções e pessoal transferidos pelo presente diploma serão suportadas pelas dotações adequadas do orçamento do GAS ou da sua comissão liquidatária.
 
-###### Art. 6.º - 1 - É criada, no âmbito do IGAPHE, a Direcção de Gestão Habitacional de Santo André, abreviadamente designada por DGHSA, com o nível de direcção de serviços, dirigida por um director regional, equiparado a director de serviços, o qual será coadjuvado por um adjunto, equiparado a chefe de divisão.
+Art. 6.º - 1 - É criada, no âmbito do IGAPHE, a Direcção de Gestão Habitacional de Santo André, abreviadamente designada por DGHSA, com o nível de direcção de serviços, dirigida por um director regional, equiparado a director de serviços, o qual será coadjuvado por um adjunto, equiparado a chefe de divisão.
 
 2 - A DGHSA dispõe de uma repartição administrativa.
 
@@ -137,16 +148,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A estrutura, as atribuições e competências e a área geográfica de actuação da DGHSA, bem como a localização da respectiva sede, serão definidas por portaria do Ministro das Obras Públicas, Transportes e Comunicações, mediante proposta do conselho directivo do IGAPHE.
 
-###### Art. 7.º O disposto no presente diploma constitui título bastante de transmissão da propriedade, para todos os efeitos legais, incluindo os de registo.
+Art. 7.º O disposto no presente diploma constitui título bastante de transmissão da propriedade, para todos os efeitos legais, incluindo os de registo.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 27 de Janeiro de 1989.**
+Promulgado em 27 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1989.**
+Referendado em 30 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

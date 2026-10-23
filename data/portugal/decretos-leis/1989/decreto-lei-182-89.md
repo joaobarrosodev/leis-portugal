@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1989-610010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 874d599bc091aec98c1b63b9c2e97845d2eb47263497743b08a6128376066ecc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0724dd3baec220ff05066a240e69015ab4f88799c109ad5b33794fcdedc8509
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia das Lezírias
+- Empresa Pública
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que, a competência relativa à definição das orientações estratégicas da Companhia (transformada em pessoa\
+    \ colectiva de direito privado), e cujos estatutos foram aprovados no presente diploma, bem como o acompanhamento da sua\
+    \ execução, seja exercida, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros, pelo Ministro da Agricultura,\
+    \ do Desenvolvimento Rural e das Pescas em articulação com o Ministro de Estado e das Finanças, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Agricultura e Mar, sem prejuízo
+    dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, a superintendência
+    e tutela sobre a Companhia das Lezírias, S. A. pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento,
+    Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
+- type: cites
+  target: pt:dre:294727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:07Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +122,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Companhia das Lezírias, E. P., abreviadamente designada por CL, E. P., criada pelo [Decreto-Lei n.º 123/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1978-294727), de 15 de Novembro, é transformada pelo presente diploma em pessoa colectiva de direito privado sob a forma de sociedade anónima de capitais maioritariamente públicos, passando a denominar-se Companhia das Lezírias, S. A., abreviadamente designada por CL, S. A.
+Artigo 1.º - 1 - A Companhia das Lezírias, E. P., abreviadamente designada por CL, E. P., criada pelo [Decreto-Lei n.º 123/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1978-294727), de 15 de Novembro, é transformada pelo presente diploma em pessoa colectiva de direito privado sob a forma de sociedade anónima de capitais maioritariamente públicos, passando a denominar-se Companhia das Lezírias, S. A., abreviadamente designada por CL, S. A.
 
 2 - A CL, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas de direito privado que regulam as sociedades anónimas.
 
-###### Art. 2.º - 1 - A CL, S. A., sucede automática e globalmente à empresa pública CL, E. P., e continua a respectiva personalidade jurídica conservando a universalidade dos direitos e obrigações integrantes do seu património no momento da transformação.
+Art. 2.º - 1 - A CL, S. A., sucede automática e globalmente à empresa pública CL, E. P., e continua a respectiva personalidade jurídica conservando a universalidade dos direitos e obrigações integrantes do seu património no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do estabelecido no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação da empresa ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da CL, S. A.
 
-###### Art. 3.º - 1 - A CL, S. A., tem inicialmente um capital social de 1000000000$00, que se encontra integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
+Art. 3.º - 1 - A CL, S. A., tem inicialmente um capital social de 1000000000$00, que se encontra integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 
 2 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
 
@@ -114,7 +142,7 @@ b) As acções do tipo B são nominativas ou ao portador em regime de registo, p
 
 4 - Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 4.º - 1 - O Estado e outras entidades pertencentes ao sector público podem alienar as acções do tipo B de que sejam titulares, devendo ser observadas as seguintes regras:
+Art. 4.º - 1 - O Estado e outras entidades pertencentes ao sector público podem alienar as acções do tipo B de que sejam titulares, devendo ser observadas as seguintes regras:
 
 a) Pelo menos 20% das acções a alienar serão reservadas a pequenos subscritores, a trabalhadores da CL, S. A., e àqueles que o tenham sido da CL, E. P., durante mais de três anos;
 
@@ -134,21 +162,21 @@ e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b
 
 5 - Caso não seja subscrita a totalidade das acções reservadas nos termos das alíneas a) e b) do n.º 1, poderão as acções remanescentes ser alienadas nos termos gerais.
 
-###### Art. 5.º - 1 - Para efeitos do disposto nos artigos anteriores, compete ao conselho de administração da CL, S. A., comunicar aos Ministros das Finanças e da Agricultura, Pescas e Alimentação o valor da empresa, calculado com base em avaliação especialmente efectuada por duas das entidades pré-qualificadas para o efeito nos termos legais.
+Art. 5.º - 1 - Para efeitos do disposto nos artigos anteriores, compete ao conselho de administração da CL, S. A., comunicar aos Ministros das Finanças e da Agricultura, Pescas e Alimentação o valor da empresa, calculado com base em avaliação especialmente efectuada por duas das entidades pré-qualificadas para o efeito nos termos legais.
 
 2 - O valor da empresa, bem como o preço, o montante, as formas e as condições de alienação de parte do capital social detido pelo sector público, será fixado por resolução do Conselho de Ministros, sob proposta conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 6.º A participação no capital social da CL, S. A., fica sujeita ao disposto no n.º 5 do artigo 5.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
+Art. 6.º A participação no capital social da CL, S. A., fica sujeita ao disposto no n.º 5 do artigo 5.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
-###### Art. 7.º - 1 - A maioria absoluta dos votos emergentes das acções emitidas deve sempre pertencer aos titulares das acções do tipo A.
+Art. 7.º - 1 - A maioria absoluta dos votos emergentes das acções emitidas deve sempre pertencer aos titulares das acções do tipo A.
 
 2 - A eleição dos titulares dos órgãos sociais cabe sempre à maioria dos votos expressos em assembleia geral, consignando os estatutos a possibilidade de a designação de alguns desses titulares recair sobre os possuidores de acções do tipo B, sem prejuízo do disposto na alínea c) do n.º 1 do artigo 2.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 3 - Para efeitos da eleição dos titulares dos órgãos sociais, as assembleias gerais só podem reunir estando presentes accionistas que representem, pelo menos, 51% do capital social.
 
-###### Art. 8.º A CL, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 8.º A CL, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 9.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e da Agricultura, Pescas e Alimentação, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 9.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e da Agricultura, Pescas e Alimentação, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -156,17 +184,17 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministérios das Finanças e da Agricultura, Pescas e Alimentação um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 10.º - 1 - Os trabalhadores ao serviço e os pensionistas da CL, E. P., mantêm perante a CL, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+Art. 10.º - 1 - Os trabalhadores ao serviço e os pensionistas da CL, E. P., mantêm perante a CL, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 2 - Os funcionários do Estado, das autarquias locais, de institutos públicos, de empresas públicas ou de sociedades anónimas de capitais públicos podem ser autorizados a exercer funções na CL, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao respectivo quadro de origem.
 
 3 - A situação dos trabalhadores da CL, S. A., que sejam chamados a ocupar cargos nos órgãos sociais da empresa, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
 
-###### Art. 11.º - 1 - São aprovados os estatutos da CL, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que sejam publicados.
+Art. 11.º - 1 - São aprovados os estatutos da CL, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que sejam publicados.
 
 2 - As eventuais alterações aos presentes estatutos produzirão todos os seus efeitos desde que deliberadas nos termos estatutários e com observância do disposto na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, na lei comercial e no presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.
 
-###### Art. 12.º - Fica desde já convocada a assembleia geral da CL, S. A., a qual reunirá no 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 12.º - Fica desde já convocada a assembleia geral da CL, S. A., a qual reunirá no 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de gestão e da comissão de fiscalização da CL, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da CL, S. A., com as competências fixadas nos estatutos para o conselho de administração e conselho fiscal, respectivamente.
 
@@ -174,27 +202,27 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 11 de Maio de 1989.**
+Promulgado em 11 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Maio de 1989.**
+Referendado em 17 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTOS DA COMPANHIA DAS LEZÍRIAS, S. A.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Companhia das Lezírias, S. A., abreviadamente CL, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Companhia das Lezírias, S. A., abreviadamente CL, S. A.
 
-###### Art. 2.º - 1 - A sociedade tem sede em Samora Correia, concelho de Benavente, e a sua duração é por tempo indeterminado.
+Art. 2.º - 1 - A sociedade tem sede em Samora Correia, concelho de Benavente, e a sua duração é por tempo indeterminado.
 
 2 - Por deliberação do conselho de administração, pode a sociedade mudar a sua sede e criar em qualquer ponto do território nacional agências, delegações ou qualquer outra forma de representação.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto principal a exploração agrícola, pecuária e florestal do seu património, bem como a industrialização e comercialização dos respectivos produtos.
+Art. 3.º - 1 - A sociedade tem por objecto principal a exploração agrícola, pecuária e florestal do seu património, bem como a industrialização e comercialização dos respectivos produtos.
 
 2 - A CL, S. A., pode exercer ainda outras actividades relacionadas com o seu objecto principal, nomeadamente na área do agro-turismo, aproveitamento de património não afecto à exploração agrícola, pecuária e florestal e industrialização e comercialização de produtos.
 
@@ -202,7 +230,7 @@ ESTATUTOS DA COMPANHIA DAS LEZÍRIAS, S. A.
 
 ### CAPÍTULO II — Capital social, património, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social será, em qualquer momento, representado por acções do tipo A e do tipo B, com as seguintes características:
+Art. 4.º - 1 - O capital social será, em qualquer momento, representado por acções do tipo A e do tipo B, com as seguintes características:
 
 a) As acções do tipo A serão nominativas e só podem ser detidas pelo Estado, por pessoas colectivas de direito público ou por outras entidades que, por imposição legal, devem pertencer ao sector público, sendo obrigatoriamente deste tipo as acções correspondentes à soma do capital social nacionalizado que deu origem à Companhia das Lezírias, E. P., e as acções adicionais necessárias para que 51% do capital social existente em cada momento seja detido pelas entidades acima referidas;
 
@@ -210,7 +238,7 @@ b) As acções do tipo B serão nominativas ou ao portador em regime de registo,
 
 2 - No caso de transmissão para entidades privadas, nos termos da lei, das acções detidas pelo Estado, os outros accionistas poderão gozar, com respeito a tal transmissão, de direito de preferência na proporção do número de acções de cada um, sem prejuízo das disposições legais que reservem para certas categorias de adquirentes uma percentagem de acções a alienar.
 
-###### Art. 5.º - 1 - O capital social é de 1000000000$00 e está inteiramente subscrito e realizado pelo Estado à data da entrada em vigor dos presentes estatutos.
+Art. 5.º - 1 - O capital social é de 1000000000$00 e está inteiramente subscrito e realizado pelo Estado à data da entrada em vigor dos presentes estatutos.
 
 2 - Por simples deliberação do conselho de administração, o capital social poderá ser elevado até 2000000000$00 através de incorporação de reservas.
 
@@ -224,15 +252,15 @@ b) As acções do tipo B serão nominativas ou ao portador em regime de registo,
 
 7 - O custo das operações de registo das transmissões, conversões ou outras relativas aos títulos referidos no número anterior é suportado pelos interessados, segundo critério a fixar pela assembleia geral.
 
-###### Art. 6.º A sociedade pode emitir, interna ou externamente, obrigações e outros títulos de dívida, nos termos da legislação aplicável.
+Art. 6.º A sociedade pode emitir, interna ou externamente, obrigações e outros títulos de dívida, nos termos da legislação aplicável.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os accionistas detentores de acções do tipo B poderão ter um representante na mesa da assembleia geral e no conselho fiscal e até dois representantes no conselho de administração, a eleger pela assembleia geral.
 
-###### Art. 8.º - 1 - O mandato dos membros dos órgãos sociais tem a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.
+Art. 8.º - 1 - O mandato dos membros dos órgãos sociais tem a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.
 
 2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à posse de quem deva substituí-los.
 
@@ -240,7 +268,7 @@ b) As acções do tipo B serão nominativas ou ao portador em regime de registo,
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 9.º - 1 - A assembleia é formada por todos os accionistas com direito a voto.
+Art. 9.º - 1 - A assembleia é formada por todos os accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde um voto na assembleia geral.
 
@@ -256,7 +284,7 @@ b) As acções do tipo B serão nominativas ou ao portador em regime de registo,
 
 8 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 10.º - 1 - Compete à assembleia geral:
+Art. 10.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -274,19 +302,19 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número.
 
-###### Art. 11.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda constituída por um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei comercial.
+Art. 11.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda constituída por um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com uma antecedência mínima de 30 dias, com indicação expressa dos assuntos a tratar.
 
-###### Art. 12.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o entenderem necessário ou quando a reunião seja requerida por accionistas que possuam, pelo menos, acções correspondentes ao valor mínimo imposto por lei imperativa ou, na falta deste, correspondentes a 5% do capital social e que o requeiram em carta, com assinatura reconhecida pelo notário ou autenticada por instituição de crédito, em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
+Art. 12.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o entenderem necessário ou quando a reunião seja requerida por accionistas que possuam, pelo menos, acções correspondentes ao valor mínimo imposto por lei imperativa ou, na falta deste, correspondentes a 5% do capital social e que o requeiram em carta, com assinatura reconhecida pelo notário ou autenticada por instituição de crédito, em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
 
 2 - Para efeitos de eleição de titulares dos órgãos sociais, a assembleia geral só pode reunir encontrando-se presentes accionistas que representem, pelo menos, 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 13.º O conselho de administração é constituído por um presidente e quatro vogais.
+Art. 13.º O conselho de administração é constituído por um presidente e quatro vogais.
 
-###### Art. 14.º - 1 - Ao conselho de administração compete, especialmente:
+Art. 14.º - 1 - Ao conselho de administração compete, especialmente:
 
 a) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -302,7 +330,7 @@ f) Exercer as demais competências que lhe sejam atribuídas pela lei ou pela as
 
 2 - O conselho de administração poderá delegar numa comissão executiva constituída por três administradores, sendo dois deles obrigatoriamente representantes da parte pública, algum ou alguns dos poderes que lhe são conferidos pelo número anterior, definindo em acta os limites e condições de tal delegação
 
-###### Art. 15.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 15.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -314,13 +342,13 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 16.º - 1 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal reconhecido pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
+Art. 16.º - 1 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal reconhecido pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
 
 2 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido, e serão tomadas por maioria dos votos expressos, tendo o presidente, ou quem legalmente o substitua, voto de qualidade.
 
 3 - O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a requerimento da maioria dos administradores ou do conselho fiscal.
 
-###### Art. 17.º - 1 - A sociedade obriga-se:
+Art. 17.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -334,11 +362,11 @@ c) Pela assinatura de um administrador que para tanto tenha recebido em acta del
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 18.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
+Art. 18.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
-###### Art. 19.º - 1 - Além das atribuições constantes da lei geral, compete, especialmente, ao conselho fiscal:
+Art. 19.º - 1 - Além das atribuições constantes da lei geral, compete, especialmente, ao conselho fiscal:
 
 a) Assistir às reuniões do conselho de administração, sempre que o entenda conveniente;
 
@@ -348,11 +376,11 @@ c) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 20.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício.
+Art. 20.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 21.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
+Art. 21.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
 
 a) Um mínimo de 10% para constituição de reserva legal até atingir o montante exigido por lei;
 
@@ -364,14 +392,14 @@ d) O restante para os fins que a assembleia geral delibere de interesse para a s
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 22.º - 1 - Os titulares de acções que não pertençam ao sector público têm o direito de subscrever listas para a eleição de até dois administradores e de as propor à assembleia geral reunida para o efeito.
+Art. 22.º - 1 - Os titulares de acções que não pertençam ao sector público têm o direito de subscrever listas para a eleição de até dois administradores e de as propor à assembleia geral reunida para o efeito.
 
 2 - Durante o 1.º triénio de actividade da sociedade, se as listas propostas pelos titulares das acções que não pertençam ao sector público não obtiverem o número mínimo de votos exigido no Código das Sociedades Comerciais para eleição de administradores, mas se a sua votação ultrapassar os 5% do capital da sociedade, a assembleia geral poderá, em votação posteriormente tomada, considerar eleitos os administradores propostos nas listas mais votadas.
 
 3 - O exercício dos direitos consagrados no número anterior só se verificará se na composição das listas a submeter à assembleia geral pelo Estado e por outras entidades públicas que detenham acções do tipo A não estiverem integrados um ou dois representantes do sector privado.
 
-###### Art. 23.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+Art. 23.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

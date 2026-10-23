@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19000/33943405.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 154e7ccbd1fac77b1e6e852d167ccfd578eddbb3a873ba4f1d18d6f4884a103f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c21357136141439c66c86db50e2837aa28760ebacd3e49fb71ce4f4af3f70f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Cooperativo
+- Ensino Particular
+- Ensino Superior
+- Estatuto do Ensino Superior Particular e Cooperativo
 relationships:
 - type: amended_by
   target: pt:dre:469031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:585415:por
+  label: Portaria n.º 60/93 - Diário da República n.º 11/1993, Série I-B de 1993-01-14 (N.ºs 1 e 3 do art. 26.º)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/60-1993-585415
+  date: '1993-01-14'
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507618:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:309357:por
+  label: Rectificado pela DECL.DD3854.1989.10.09.PCM DR.IS [226]Supl de 30.09.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-309357
+  date: '1989-10-09'
+- type: repealed_by
+  target: pt:dre:512030:por
+  label: "Revogado pelo DEC LEI.16/94.1994.01.22.ME DR.IS-A [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1994-512030
+  date: '1994-01-22'
 article_structure:
   article_count: 56
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:16Z'
   warnings: []
   errors: []
 ---
@@ -742,12 +789,12 @@ O presente diploma será publicado no Boletim Oficial do Território de Macau, n
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Manuel Nunes Liberato - José António da Silveira Godinho - José Augusto Perestrello de Alarcão Troni.
 
-**Promulgado em 28 de Julho de 1989.**
+Promulgado em 28 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Agosto de 1989.**
+Referendado em 2 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

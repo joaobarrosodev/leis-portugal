@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/08700/16311635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1989-615244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b600d49e6a6664df1dca14df4830b7a88413640f90e1230f540f69fb95f44dad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7d3e649a00b4783e888ff97d42430c386e1c9d1ed3bc6c22d117ee57d47b6c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Científica
+- Conselho Geral
+- Definição de Competências
+- Diretor
+- Orgânica
+- Parque Natural da Serra de São Mamede
+- Proteção do Ambiente
+- Sanção
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:270413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:270413:por
+  label: "Considerado revogado, a partir de 25.05.2004, pelo DR.20/2004.20.05.2004.MCOTA, DR.IS-B [118] de 20.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/20-2004-270413
+  date: '2004-05-20'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670556:por
+  label: Rectificado [no referente aos mapas] pela DECL.DD3944.1989.05.29.PCM DR.IS [124] de 31.05.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670556
+  date: '1989-05-29'
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:42Z'
   warnings: []
   errors: []
 ---
@@ -348,17 +375,17 @@ d) Mínima de 5000$00 e máxima de 50000$00, a infracção ao disposto na alíne
 
 Visto e aprovado em Conselho de Ministros de 9 de Março de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Arlindo Marques Cunha - Roberto Artur da Luz Carneiro - Jorge Manuel Mendes Antas.
 
-**Promulgado em Portalegre em 16 de Março de 1989.**
+Promulgado em Portalegre em 16 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1989.**
+Referendado em 16 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08700/16311635.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08700/16311635.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08700/16311635.pdf)
 
 MAPA II
 
@@ -368,4 +395,4 @@ A área do Parque é definida pelos seguintes limites, constantes do mapa I anex
 
 Acompanhando a curva de nível dos 400 m, contorna a serra de Mouros, com direcção W. N. W./E. S. E., atravessa a ribeira de Ouguela, contorna a serra de Monte Novo, inflecte para S. W., acompanhando a curva de nível dos 350 m, contornando a serra da Cabaça e a Serrinha até à Horta do Neves. Com direcção S. E., pelo Monte de Louções, retomando a direcção W./E. (aproximadamente), atravessando o ribeiro de Manguéns e contornando a serra da Pedra Torta, pela curva de nível dos 290 m, até à fronteira Portugal/Espanha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08700/16311635.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08700/16311635.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08700/16311635.pdf)

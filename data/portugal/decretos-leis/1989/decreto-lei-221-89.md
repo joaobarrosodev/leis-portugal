@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15200/26742674.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1989-619727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6df71c07e8696db917392d3676477d5c21d7c0d7a0e0b6f43200919f8178c41b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daf4259523431b448267aa8bfa5fe97a4c0a11e6b4ec843c5901bf7d62debd2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Trabalho
+- Subsídio de Desemprego
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516050:por
+  label: "Alterado o art. 12º da Lei 17/8 de 14-Jun, alterada pelo presente diploma, pela LEI.96/2001.2001.08.20.AR, DR.IS-A\
+    \ [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/96-2001-516050
+  date: '2001-08-20'
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:02Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +121,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 16.º da [Lei n.º 17/86](https://diariodarepublica.pt/dr/detalhe/lei/17-1986-228837), de 14 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 16.º da [Lei n.º 17/86](https://diariodarepublica.pt/dr/detalhe/lei/17-1986-228837), de 14 de Junho, passa a ter a seguinte redacção:
 
 1 - ...
 
@@ -121,16 +139,16 @@ f) As repercussões na vida da comunidade em que a empresa se insere resultantes
 
 2 - ...
 
-###### Art. 2.º São revogados os artigos 19.º, 20.º e 21.º da [Lei n.º 17/86](https://diariodarepublica.pt/dr/detalhe/lei/17-1986-228837), de 14 de Junho.
+Art. 2.º São revogados os artigos 19.º, 20.º e 21.º da [Lei n.º 17/86](https://diariodarepublica.pt/dr/detalhe/lei/17-1986-228837), de 14 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 21 de Junho de 1989.**
+Promulgado em 21 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1989.**
+Referendado em 23 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

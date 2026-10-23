@@ -110,7 +110,7 @@ def test_coverage_limited_to_types(repo_root: Path):
 def _fake_service(monkeypatch) -> None:
     monkeypatch.setattr(
         "leis_portugal.cli.collect.DreIngestion",
-        lambda acervo, **options: DreIngestion(acervo, DreSource(acervo.types, SitemapClient()), **options),
+        lambda acervo, **options: DreIngestion(acervo, source_factory=lambda: DreSource(acervo.types, SitemapClient()), **options),
     )
 
 
@@ -148,3 +148,30 @@ def test_cli_missing_rejects_unknown_types(repo_root: Path, monkeypatch, capsys)
 def test_optional_types_come_from_the_vocabulary(repo_root: Path, slug: str, expected: bool):
     types = Acervo(repo_root).types
     assert (types.resolve(slug).slug in types.sitemap_optional) is expected
+
+
+class AzoresClient(SitemapClient):
+    """O DL 31838/1942 do sitemap é, neste cenário, uma entrada do catálogo do JO dos Açores."""
+
+    def published_detail(self, ref: str) -> dict:
+        if ref.endswith("-138871"):
+            return {"TipoConteudo": "DiplomaLegacor", "LinkSitemap": ref}
+        return super().published_detail(ref)
+
+
+def test_entries_outside_the_gazette_are_recorded_and_no_longer_missing(repo_root: Path, monkeypatch, capsys):
+    monkeypatch.setattr(
+        "leis_portugal.cli.collect.DreIngestion",
+        lambda acervo, **options: DreIngestion(acervo, source_factory=lambda: DreSource(acervo.types, AzoresClient()), **options),
+    )
+    arguments = ["--root", str(repo_root), "collect", "dre", "--missing", "--types", "decreto-lei", "--no-subjects"]
+    assert main([*arguments, "--limit", "2"]) == 0
+    assert "gravados: 1; ignorados: 1" in capsys.readouterr().out
+    recorded = [json.loads(line) for line in (repo_root / "reports" / "dre_out_of_scope.jsonl").read_text(encoding="utf-8").splitlines()]
+    assert [(entry["dre_id"], entry["ref"]) for entry in recorded] == [("138871", "/dr/detalhe/decreto-lei/31838-1942-138871")]
+    assert "Jornal Oficial dos Açores" in recorded[0]["reason"]
+
+    assert main([*arguments, "--dry-run"]) == 0
+    assert "A recolher: 2" in capsys.readouterr().out  # 4 listados: 1 no acervo, 1 fora do DR
+    report = json.loads((repo_root / "reports" / "dre_sitemap_coverage.json").read_text(encoding="utf-8"))
+    assert (report["present"], report["out_of_scope"], report["missing"]) == (1, 1, 2)

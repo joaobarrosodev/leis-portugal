@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/08700/16421647.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1989-615240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:48:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0351515c6bfaa57e9cf864d12313517585ad0b050e4331de06feb23683aafc91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 686c3137c2d9e4db581909188d6f7beebc560dec72fb59ddfe926900dd2c71d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:48:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agência de Emprego
+- Cidadão Estrangeiro
+- Definição de Competências
+- Emprego
+- Garantia
+- Inspecção Geral do Trabalho
+- Instituto do Emprego e Formação Profissional
+- Licenciamento
+- Madeira.região Autónoma
+- Mercado do Trabalho
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Setor Privado
 relationships:
 - type: amended_by
   target: pt:dre:490469:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:400179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461627:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670549:por
+  label: "Rectificado [no referente aos nºs 2 e 3 do art. 8º e ao art. 19º] pela DECL.DD3923.1989.05.10.PCM DR.IS [124]Supl\
+    \ de 31.05.1989\09"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670549
+  date: '1989-05-10'
+- type: repealed_by
+  target: pt:dre:490469:por
+  label: "Revogado, a partir de 25.10.2009, pelo DEC LEI.260/2009.25.09.2009.MTSSO, DR.IS [187] de 25.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-2009-490469
+  date: '2009-09-25'
 article_structure:
   article_count: 20
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:48:42Z'
   warnings: []
   errors: []
 ---
@@ -374,12 +407,12 @@ A aplicação do presente diploma das Regiões Autónomas dos Açores e da Madei
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1989. - Aníbal António Cavaco Silva - José António da Silveira Godinho - João de Deus Rogado Salvador Pinheiro - José Albino da Silva Peneda.
 
-**Promulgado em 30 de Março de 1989.**
+Promulgado em 30 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Março de 1989.**
+Referendado em 30 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

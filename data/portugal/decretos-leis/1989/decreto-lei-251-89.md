@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18100/31783179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1989-619298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3af9db708a000683ede9f2238a7fc091ed9ac3ee3ab5c7a0b3b44383466d52bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0792c7924bcb8d8d1e03d1017bd40365c3f0432875dfb7110cfa5aba1e2c6fec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Turismo
+- Estabelecimento Hoteleiro
+- Indústria Hoteleira
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:250607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613380:por
+  label: "Repristinado, por recusa de ratificação do Dec Lei 327/95 de 05-Dez, pela RES.10/96.17.02.1996.AR, DR.IS-A [41]\
+    \ de 17.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1996-613380
+  date: '1996-02-17'
+- type: cites
+  target: pt:dre:221694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613898:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:291580:por
+  label: Rectificado pela DECL.DD3732.1989.08.23.PCM DR.IS [200]SUPL DE 31/AGO/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-291580
+  date: '1989-08-23'
+- type: repealed_by
+  target: pt:dre:633726:por
+  label: "Revogado pelo DEC LEI.327/95.1995.12.05.MCT, DR.IS-A [280], sem preju&#237;zo do disposto no n&#186; 2 do art. 2&#186;\
+    \ do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1995-633726
+  date: '1995-12-05'
+- type: repealed_by
+  target: pt:dre:156001:por
+  label: "Revogado pelo DEC LEI.167/97.1997.07.04.MECO, DR.IS-A [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1997-156001
+  date: '1997-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:43Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +133,16 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Decorridos que sejam 90 dias sobre o último dia do prazo de envio pela Direcção-Geral do Turismo às entidades e serviços a que se refere o n.º 1 do artigo 10.º do Regulamento dos Empreendimentos Turísticos, aprovado pelo [Decreto Regulamentar n.º 8/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1989-613898), de 21 de Março, dos processos de aprovação de empreendimentos turísticos sem que os mesmos estejam conclusos para aprovação, poderá o membro do Governo responsável pelo sector do turismo, mediante proposta fundamentada da Direcção-Geral do Turismo, proceder à respectiva aprovação, independentemente de quaisquer outras formalidades.
+Artigo único. Decorridos que sejam 90 dias sobre o último dia do prazo de envio pela Direcção-Geral do Turismo às entidades e serviços a que se refere o n.º 1 do artigo 10.º do Regulamento dos Empreendimentos Turísticos, aprovado pelo [Decreto Regulamentar n.º 8/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1989-613898), de 21 de Março, dos processos de aprovação de empreendimentos turísticos sem que os mesmos estejam conclusos para aprovação, poderá o membro do Governo responsável pelo sector do turismo, mediante proposta fundamentada da Direcção-Geral do Turismo, proceder à respectiva aprovação, independentemente de quaisquer outras formalidades.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1989.**
+Referendado em 31 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

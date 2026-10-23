@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21600/41794180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1989-547826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e15a4f3dca31a9e0dca59061cf718d8a4b57e8d1eaa9d41f9dedb9392f8bd732
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c744ce1787b64605593eedfcfbb7ebf849fbb768726e7ecd317db0a2430fdd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- BENS Imóveis do Estado
+- Hasta Pública
 relationships:
 - type: amended_by
   target: pt:dre:637402:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:452682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:637402:por
+  label: "Revogado, a partir de 07.09.2007, pelo DEC LEI.280/2007.07.08.2007.MFAP, DR.IS [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-2007-637402
+  date: '2007-08-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:13Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +115,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Ficam os ministros autorizados a promover a alienação, em hasta pública, dos imóveis do Estado afectos aos seus ministérios ou que se integrem na esfera jurídica de fundos, serviços autónomos ou institutos públicos sob a sua tutela que se encontrem numa das seguintes situações:
+Artigo 1.º - 1 - Ficam os ministros autorizados a promover a alienação, em hasta pública, dos imóveis do Estado afectos aos seus ministérios ou que se integrem na esfera jurídica de fundos, serviços autónomos ou institutos públicos sob a sua tutela que se encontrem numa das seguintes situações:
 
 a) Não estejam a ser utilizados;
 
@@ -113,28 +125,28 @@ c) Não correspondam, pelas suas características ou localização ou pela evolu
 
 2 - A alienação referida no número anterior processar-se-á através da Direcção-Geral do Património do Estado, nos termos da lei.
 
-###### Art. 2.º - 1 - O produto da alienação dos imóveis referidos no artigo anterior constituirá, na sua totalidade, receita do Estado, servindo 80% de contrapartida à inscrição de verbas no capítulo 60 do orçamento do Ministério das Finanças destinadas a investimentos dos respectivos ministérios em realizações de interesse público, reconhecidas como tal por resolução do Conselho de Ministros.
+Art. 2.º - 1 - O produto da alienação dos imóveis referidos no artigo anterior constituirá, na sua totalidade, receita do Estado, servindo 80% de contrapartida à inscrição de verbas no capítulo 60 do orçamento do Ministério das Finanças destinadas a investimentos dos respectivos ministérios em realizações de interesse público, reconhecidas como tal por resolução do Conselho de Ministros.
 
 2 - O disposto no número anterior não prejudica a aplicação do regime específico que a lei possa estabelecer para a alienação do património imobiliário do Estado afecto às forças armadas e às forças de segurança.
 
-###### Art. 3.º - 1 - Em casos especiais, quando o interesse público o exigir e assim for reconhecido por resolução do Conselho de Ministros, pode o pagamento, no todo ou em parte, ser realizado em espécie, sob a forma de terrenos, obras, equipamentos ou edifícios.
+Art. 3.º - 1 - Em casos especiais, quando o interesse público o exigir e assim for reconhecido por resolução do Conselho de Ministros, pode o pagamento, no todo ou em parte, ser realizado em espécie, sob a forma de terrenos, obras, equipamentos ou edifícios.
 
 2 - Quando se verifique a situação prevista no número anterior, observar-se-ão os procedimentos a definir, caso a caso, também por resolução do Conselho de Ministros, sem prejuízo da realização obrigatória de concurso público, de acordo com as condições gerais e especiais estabelecidas quanto à referida forma de pagamento.
 
 3 - No processo correspondente à situação prevista no presente artigo a Direcção-Geral do Património do Estado terá a colaboração dos serviços de obras públicas do respectivo ministério ou, na sua falta, da Direcção-Geral dos Edifícios e Monumentos Nacionais.
 
-###### Art. 4.º O disposto no presente diploma não se aplica ao património imobiliário das instituições da Segurança Social.
+Art. 4.º O disposto no presente diploma não se aplica ao património imobiliário das instituições da Segurança Social.
 
-###### Art. 5.º É revogado o [Decreto-Lei n.º 309/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1983-452682), de 1 de Julho.
+Art. 5.º É revogado o [Decreto-Lei n.º 309/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1983-452682), de 1 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Eugénio Manuel dos Santos Ramos - Manuel Joaquim Dias Loureiro - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Nuno Manuel Franco Ribeiro da Silva - Alberto José Nunes Correia Ralha - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Arlindo Gomes de Carvalho - Jorge Manuel Mendes Antas - Albino Azevedo Soares.
 
-**Promulgado em 17 de Agosto de 1989.**
+Promulgado em 17 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1989.**
+Referendado em 8 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

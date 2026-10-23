@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/01600/02140214.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8c68cedd00a722b89ecab3c5bc8011848131835a7e17de0c25a743c8e40e538
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 168a34b20ef859d4c470912e70a30a575a44d1f8873d85556e0a540cc090901f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Funcionário Público
+- Incentivo Profissional
+- Sistema de Sugestões
 relationships:
 - type: amended_by
   target: pt:dre:534640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534640:por
+  label: "Revogado pelo DEC LEI.135/99.1999.04.22.PCM, DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1999-534640
+  date: '1999-04-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:17Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +115,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Para uma maior motivação e empenhamento dos seus funcionários e agentes, os serviços e organismos da administração central, bem como os institutos públicos que revistam a natureza de serviços personalizados ou de fundos autónomos, podem atribuir, a título experimental, àqueles que apresentarem sugestões aplicáveis pelos respectivos serviços e organismos susceptíveis de melhorarem o seu funcionamento e a qualidade dos serviços por eles prestados incentivos pecuniários, licença para frequência de cursos de especialização ou aperfeiçoamento profissionais, com ou sem bolsas de estudo, e ou louvores públicos.
+Artigo 1.º - 1 - Para uma maior motivação e empenhamento dos seus funcionários e agentes, os serviços e organismos da administração central, bem como os institutos públicos que revistam a natureza de serviços personalizados ou de fundos autónomos, podem atribuir, a título experimental, àqueles que apresentarem sugestões aplicáveis pelos respectivos serviços e organismos susceptíveis de melhorarem o seu funcionamento e a qualidade dos serviços por eles prestados incentivos pecuniários, licença para frequência de cursos de especialização ou aperfeiçoamento profissionais, com ou sem bolsas de estudo, e ou louvores públicos.
 
 2 - O sistema de sugestões será implantado nos serviços onde tal se mostre viável e conveniente, mediante portaria conjunta do Primeiro-Ministro, do Ministro das Finanças e do membro do Governo competente, a qual definirá a entidade responsável pela atribuição dos prémios e respectivas normas de processamento, observados os seguintes princípios:
 
@@ -120,16 +133,16 @@ f) Inexistência de aumentos globais de encargos nos orçamentos dos serviços e
 
 3 - O pessoal dirigente e os chefes de repartição ficam excluídos do âmbito de aplicação do sistema.
 
-###### Art. 2.º São revogados os artigos 16.º, 17.º e 18.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 2.º São revogados os artigos 16.º, 17.º e 18.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 Visto e aprovado em Conselho de Ministros de 10 de Novembro de 1988. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eurico Silva Teixeira de Melo - António d'Orey Capucho - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 4 de Janeiro de 1989.**
+Promulgado em 4 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Janeiro de 1989.**
+Referendado em 9 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

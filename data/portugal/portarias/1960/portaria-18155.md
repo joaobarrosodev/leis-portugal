@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18155-1960-479952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:53:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c904f56931817bad3943ef1ed8809b7b456bcae47a910fc553bf4a88c4955641
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f68efb34b4342ebb9cd57ecc86aec8d647c3cdfa70d04ada5f9a3f21710c7e1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:53:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:53:00Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com motor» ... 25000$00
+Artigo 5.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com motor» ... 25000$00
 
-###### Artigo 6.º «Material de consumo corrente»:
+Artigo 6.º «Material de consumo corrente»:
 
 N.º 2) «Diversos, não especificados, incluindo artigos de expediente, assinaturas do Diário do Governo e outras publicações, compra de livros indispensáveis ao serviço, pequenas reparações eventuais, etc.» ... 40000$00
 
@@ -101,7 +105,7 @@ N.º 3) «Combustível, lubrificantes e sobresselentes» ... 40000$00
 
 Pagamento de serviços:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, água, aquecimento, lavagem, limpeza e outras despesas» ... 15000000
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, água, aquecimento, lavagem, limpeza e outras despesas» ... 15000000
 
 ... 120000$00
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18800/33423344.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1989-619284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5edae5e8e9781ed889846ee7766e62ad32ad501d43d18e18d4c4bb0d409b8cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa980431b1324eb1b38f38a5b0a0d524720208498fda2bc905f3d674030573a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Delegação Regional
+- Direcção Geral de Energia
+- Fiscalização
+- Licenciamento
+- Ministério da Indústria e Energia
 relationships:
 - type: amended_by
   target: pt:dre:107987278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575770:por
+  label: "Alterado o art. 8º do estatuto apelo DEC LEI.232/90.16.07.1990.MIE, DR.IS [162] de 16.07.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1990-575770
+  date: '1990-07-16'
+- type: cites
+  target: pt:dre:619287:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66528824:por
+  label: Revogado a partir de 2015-03-18 o art. 5.º do Anexo I pelo(a) Lei n.º 15/2015 - Diário da República n.º 32/2015,
+    Série I de 2015-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2015-66528824
+  date: '2015-02-16'
+- type: repealed_by
+  target: pt:dre:107987278:por
+  label: Revogado a partir de 01.01.2018 pelo(a) Decreto-Lei n.º 97/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2017-107987278
+  date: '2017-08-10'
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:58Z'
   warnings: []
   errors: []
 ---
@@ -99,21 +125,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. 1 - É aprovado o Estatuto das Entidades Instaladoras e Montadoras de Redes de Gás e definidos os grupos profissionais relativos à actividade da construção das instalações de redes de gás, que constitui o anexo I ao presente diploma e que dele faz parte integrante.
+Artigo único. 1 - É aprovado o Estatuto das Entidades Instaladoras e Montadoras de Redes de Gás e definidos os grupos profissionais relativos à actividade da construção das instalações de redes de gás, que constitui o anexo I ao presente diploma e que dele faz parte integrante.
 
 2 - É aprovado o modelo de termo de responsabilidade constante do anexo II ao presente diploma, do qual faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 4 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Agosto de 1989.**
+Referendado em 3 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 

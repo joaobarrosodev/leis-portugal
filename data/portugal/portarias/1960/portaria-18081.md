@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18081-1960-513043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63334e93dd49cd654e4bbf14ba35d452ad16c38488a9dec2abf8ac002884f3cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15ad637e3fa40b372378e47279b7293d5404d664b924710d94a05cddde657d72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:250980:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:19Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Ministério da Educação Nacional, 26 de Novembro de 1960. - Pelo Ministro da E
 
 Regulamento do Curso de Instrutores de Educação Física
 
-###### Artigo 1.º O curso de instrutores de educação física, anexo ao Instituto Nacional de Educação Física, terá a duração de um ano, seguido de um ano de estágio, e nele serão professadas as diciplinas e cursos práticos seguintes:
+Artigo 1.º O curso de instrutores de educação física, anexo ao Instituto Nacional de Educação Física, terá a duração de um ano, seguido de um ano de estágio, e nele serão professadas as diciplinas e cursos práticos seguintes:
 
 A) Disciplinas:
 
@@ -122,9 +126,9 @@ B) Cursos práticos:
 
 As aulas práticas de andebol e futebol e os jogos de ataque e defesa serão exclusivos do curso masculino; os jogos educativos serão exclusivos do curso feminino.
 
-###### Art. 2.º O estágio efectuar-se-á, em princípio, nos estabelecimentos de ensino liceal ou técnico da cidade de Lisboa onde exista um professor diplomado pelo Instituto Nacional de Educação Física que possa servir de metodólogo, cabendo a sua orientação e fiscalização ao Instituto Nacional de Educação Física.
+Art. 2.º O estágio efectuar-se-á, em princípio, nos estabelecimentos de ensino liceal ou técnico da cidade de Lisboa onde exista um professor diplomado pelo Instituto Nacional de Educação Física que possa servir de metodólogo, cabendo a sua orientação e fiscalização ao Instituto Nacional de Educação Física.
 
-###### Art. 3.º Só podem ser admitidos os candidatos que reúnam as seguintes condições:
+Art. 3.º Só podem ser admitidos os candidatos que reúnam as seguintes condições:
 
 a) Possuir o 5.º ano dos liceus ou habilitações equivalentes;
 
@@ -138,11 +142,11 @@ e) Ser aprovado em exame de aptidão.
 
 § único. O exame de aptidão constará de provas físicas (ginástica, provas atléticas e natação) e de uma prova de redacção sobre um tema da história de Portugal.
 
-###### Art. 4.º O equipamento necessário ao curso, bem como o regime disciplinar, corresponderão aos requisitos exigidos aos alunos do curso de professores de educação física.
+Art. 4.º O equipamento necessário ao curso, bem como o regime disciplinar, corresponderão aos requisitos exigidos aos alunos do curso de professores de educação física.
 
-###### Art. 5.º Fica dependente de despacho ministerial a possibilidade de criação de cursos de instrutores em diversas modalidades desportivas e em acumulação com o ano de estágio, bem como a administração de aulas práticas durante este mesmo período.
+Art. 5.º Fica dependente de despacho ministerial a possibilidade de criação de cursos de instrutores em diversas modalidades desportivas e em acumulação com o ano de estágio, bem como a administração de aulas práticas durante este mesmo período.
 
-###### Art. 6.º No corrente ano lectivo as datas de início e final do curso serão fixadas por despacho ministerial.
+Art. 6.º No corrente ano lectivo as datas de início e final do curso serão fixadas por despacho ministerial.
 
 Direcção-Geral da Educação Física, Desportos e Saúde Escolar, 26 de Novembro de 1960. - O Director-Geral, Orlando Valadão Chagas.
 
@@ -150,6 +154,6 @@ Curso de instrutores
 
 Aulas semanais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27500/26112612.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27500/26112612.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27500/26112612.pdf)
 
 Direcção-Geral da Educação Física, Desportos e Saúde Escolar, 26 de Novembro de 1960. - O Director-Geral, Orlando Valadão Chagas.

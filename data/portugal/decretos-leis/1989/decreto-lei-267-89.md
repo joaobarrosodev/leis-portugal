@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18900/33793380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1989-619173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6dfcaff585c21665f8262c7eb61ee3839bca0e9ad5ad4685cda7c3573a12bc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79820ce08cbc07563d58ae4eda29bfbe9975fc060d58e60aaf7e00f6140561b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Passaporte
 relationships:
 - type: amended_by
   target: pt:dre:114857711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:326893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357279:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275430:por
+  label: "Revogado o Dec Lei 438/88 de 29-Nov, na redacção dada pelo presente diploma, pelo DEC LEI.83/2000.2000.05.11.MAI,DR.IS-A\
+    \ [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2000-275430
+  date: '2000-05-11'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:08Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +113,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 14.º, 15.º, 34.º, 35.º e 51.º do [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), de 29 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 14.º, 15.º, 34.º, 35.º e 51.º do [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), de 29 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 14.º — Titulares
 
@@ -192,22 +207,22 @@ c) No território de Macau, aos Serviços de Identificação de Macau.
 
 9 - ...
 
-###### Art. 2.º O Governador de Macau fará publicar no respectivo Boletim Oficial o regulamento de aplicação do [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), de 29 de Novembro, no território de Macau.
+Art. 2.º O Governador de Macau fará publicar no respectivo Boletim Oficial o regulamento de aplicação do [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), de 29 de Novembro, no território de Macau.
 
-###### Art. 3.º O [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), de 29 de Novembro, na redacção que lhe é dada pelo presente diploma, será publicado no Boletim Oficial de Macau.
+Art. 3.º O [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), de 29 de Novembro, na redacção que lhe é dada pelo presente diploma, será publicado no Boletim Oficial de Macau.
 
-###### Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Para publicação no Boletim Oficial de Macau.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos.
 
-**Promulgado em 28 de Julho de 1989.**
+Promulgado em 28 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Agosto de 1989.**
+Referendado em 4 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

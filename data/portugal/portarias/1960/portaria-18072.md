@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18072-1960-514380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8646c0de4948e36dd7b50bba208046f1174d0c9606af8532088e040f40d95a32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c4dcdc2e92c24581d6158d9390c24f00b4d1fc9cbf51c894b8d3dfbdba65448
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:09Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +101,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 258.º, n.º 5), alínea a) «Deslocações do pessoal - Subsídios de viagem e de demora - A pagar na metrópole» ... 2000$00
+Artigo 258.º, n.º 5), alínea a) «Deslocações do pessoal - Subsídios de viagem e de demora - A pagar na metrópole» ... 2000$00
 
-###### Artigo 259.º, n.º 4), alínea c) «Diversas despesas - Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de regresso» ... 13000$00
+Artigo 259.º, n.º 4), alínea c) «Diversas despesas - Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de regresso» ... 13000$00
 
 ... 15000$00
 
@@ -101,15 +113,15 @@ tomando como contrapartida as disponibilidades existentes na verba do mesmo cap�
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1625.º, n.º 13) «Outros encargos - Quota-parte da província para fazer face aos encargos resultantes de conferências internacionais, organismos delas derivados e outras despesas correlativas» ... 600000$00
+Artigo 1625.º, n.º 13) «Outros encargos - Quota-parte da província para fazer face aos encargos resultantes de conferências internacionais, organismos delas derivados e outras despesas correlativas» ... 600000$00
 
-###### Artigo 1629.º, n.º 4) «Deslocações de pessoal - Passagens de ou para o exterior»:
+Artigo 1629.º, n.º 4) «Deslocações de pessoal - Passagens de ou para o exterior»:
 
 a) «Por motivo de licença graciosa - A pagar na metrópole» ... 2500000$00
 
 b) «Por quaisquer outros motivos - A pagar na metrópole» ... 2700000$00
 
-###### Artigo 1630.º, n.º 1), alínea c) «Diversas despesas - Passagens a conceder aos estudantes, nos termos dos Decretos n.º 39297 e 30362, de 29 de Julho de 1953 e 16 de Setembro de 1953» ... 50000$00
+Artigo 1630.º, n.º 1), alínea c) «Diversas despesas - Passagens a conceder aos estudantes, nos termos dos Decretos n.º 39297 e 30362, de 29 de Julho de 1953 e 16 de Setembro de 1953» ... 50000$00
 
 ... 5850000$00
 
@@ -117,11 +129,11 @@ tomando como contrapartida o excesso de cobrança sobre a previsão das verbas a
 
 ### CAPÍTULO 1.º — Impostos directos gerais
 
-###### Artigo 2.º, alínea a) «Contribuição predial urbana» ... 1100000$00
+Artigo 2.º, alínea a) «Contribuição predial urbana» ... 1100000$00
 
 ### CAPÍTULO 7.º — Reembolsos e reposições
 
-###### Artigo 107.º «Reembolsos, reposições e indemnizações à Fazenda Nacional, não especificados» ... 4750000$00
+Artigo 107.º «Reembolsos, reposições e indemnizações à Fazenda Nacional, não especificados» ... 4750000$00
 
 ... 5850000$00
 

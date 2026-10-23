@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 142/1989, 1º Suplemento, Série I de 1989-06-23
   number: '142'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2428-(2) a 2428-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/14201/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1989-430637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf3e787f59da1779d8d2f0a54dcda1a797ff4217d4af792311b275393c797caf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 975f4bf128c8d96a6ce4e83f9c8849c2a94acf137dca8c0f4765cd72d5ce6637
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Conselho Superior de Polícia
+- Descrição de Funções
+- Pessoal Militarizado
+- Promoção Profissional
+- PSP
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:322095:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:369427:por
+  label: "Alterado o artigo 14.º pelo DEC LEI.268/93.04.08.1993.MAI, DR.IS-A [181] de 04.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1993-369427
+  date: '1993-08-04'
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354089:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322095:por
+  label: "Revogado pelo DEC LEI.321/94.1994.12.29.MAI, DR.IS-A [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1994-322095
+  date: '1994-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:42Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +122,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O quadro do pessoal com funções policiais da Polícia de Segurança Pública (PSP) compreende a carreira de oficiais de polícia e as categorias de subchefes e guardas, constituindo estas duas últimas a carreira policial de base.
+Artigo 1.º - 1 - O quadro do pessoal com funções policiais da Polícia de Segurança Pública (PSP) compreende a carreira de oficiais de polícia e as categorias de subchefes e guardas, constituindo estas duas últimas a carreira policial de base.
 
 2 - Na carreira de oficiais de polícia integram-se os oficiais provenientes:
 
@@ -116,33 +142,33 @@ b) A categoria de guardas, que integra os postos de guarda de 2.ª classe, guard
 
 6 - As funções a desempenhar pelos oficiais de polícia e pelos subchefes e guardas são as constantes do quadro anexo ao presente diploma, sem prejuízo de lhes poderem ser atribuídas outras funções que resultem necessárias por imperativo da missão cometida à Polícia de Segurança Pública.
 
-###### Art. 2.º - 1 - O ingresso e a promoção aos diversos postos da carreira de oficiais de polícia, bem como da carreira policial de base, regem-se pelas disposições constantes do estatuto aprovado pelo [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio, e pelas normas aprovadas pelo presente diploma.
+Art. 2.º - 1 - O ingresso e a promoção aos diversos postos da carreira de oficiais de polícia, bem como da carreira policial de base, regem-se pelas disposições constantes do estatuto aprovado pelo [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio, e pelas normas aprovadas pelo presente diploma.
 
 2 - Salvo disposição legal em contrário, os efeitos das promoções contam-se a partir da data fixada no respectivo despacho.
 
-###### Art. 3.º - 1 - As promoções a comissário principal são feitas por escolha, para as vagas existentes, ouvido o Conselho Superior de Polícia, exclusivamente de entre comissários oriundos da carreira policial de base, com o mínimo de oito anos de efectivo serviço no posto.
+Art. 3.º - 1 - As promoções a comissário principal são feitas por escolha, para as vagas existentes, ouvido o Conselho Superior de Polícia, exclusivamente de entre comissários oriundos da carreira policial de base, com o mínimo de oito anos de efectivo serviço no posto.
 
 2 - A promoção dos comissários principais ao posto de subintendente apenas poderá efectuar-se nos termos do artigo 10.º, estando-lhes vedado o acesso aos postos superiores.
 
-###### Art. 4.º As promoções a comissário são feitas, para as vagas existentes, de entre os subcomissários com pelo menos cinco anos de efectivo serviço no posto, após a frequência, com aproveitamento, de tirocínio ou curso de formação, nos termos do regulamento interno a que se refere o artigo 11.º
+Art. 4.º As promoções a comissário são feitas, para as vagas existentes, de entre os subcomissários com pelo menos cinco anos de efectivo serviço no posto, após a frequência, com aproveitamento, de tirocínio ou curso de formação, nos termos do regulamento interno a que se refere o artigo 11.º
 
-###### Art. 5.º As promoções a subcomissário são feitas de entre os chefes de esquadra, independentemente de vaga, após um ano de efectivo serviço no posto.
+Art. 5.º As promoções a subcomissário são feitas de entre os chefes de esquadra, independentemente de vaga, após um ano de efectivo serviço no posto.
 
-###### Art. 6.º Na promoção a chefe de esquadra observar-se-á o seguinte:
+Art. 6.º Na promoção a chefe de esquadra observar-se-á o seguinte:
 
 a) Os aspirantes a oficial de polícia serão promovidos com efeitos reportados ao dia 1 de Julho do ano em que concluírem com aproveitamento o respectivo estágio, independentemente da existência de vagas;
 
 b) Os subchefes que concluírem com aproveitamento o curso de promoção a chefe de esquadra serão promovidos, de acordo com as vagas existentes, pela ordem das classificações obtidas.
 
-###### Art. 7.º - 1 - As promoções a subchefe principal são feitas por antiguidade, para as vagas existentes, de entre os subchefes-ajudantes com o mínimo de quatro anos de efectivo serviço no posto.
+Art. 7.º - 1 - As promoções a subchefe principal são feitas por antiguidade, para as vagas existentes, de entre os subchefes-ajudantes com o mínimo de quatro anos de efectivo serviço no posto.
 
 2 - Os actuais subchefes-ajudantes serão promovidos a subchefe principal nos termos previstos no n.º 1 do artigo 2.º do [Decreto-Lei n.º 375/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1988-354089), de 21 de Outubro.
 
-###### Art. 8.º As promoções a subchefe-ajudante serão feitas, de acordo com as vagas existentes e as classificações obtidas, de entre os primeiros-subchefes habilitados com o respectivo curso, ao qual serão chamados um terço por escolha, sob parecer do Conselho Superior de Polícia, e dois terços por antiguidade.
+Art. 8.º As promoções a subchefe-ajudante serão feitas, de acordo com as vagas existentes e as classificações obtidas, de entre os primeiros-subchefes habilitados com o respectivo curso, ao qual serão chamados um terço por escolha, sob parecer do Conselho Superior de Polícia, e dois terços por antiguidade.
 
-###### Art. 9.º As promoções ao posto de primeiro-subchefe são feitas, independentemente de vaga, de entre os segundos-subchcfes com três anos de efectivo serviço no posto.
+Art. 9.º As promoções ao posto de primeiro-subchefe são feitas, independentemente de vaga, de entre os segundos-subchcfes com três anos de efectivo serviço no posto.
 
-###### Art. 10.º - 1 - Para todos os postos poderá haver, a título excepcional, promoções por distinção ao posto imediato, destinadas a premiar:
+Art. 10.º - 1 - Para todos os postos poderá haver, a título excepcional, promoções por distinção ao posto imediato, destinadas a premiar:
 
 a) Elementos que tenham demonstrado, ao longo da carreira, elevada competência técnica e profissional, demonstrativa de altos dotes de comando ou de chefia, bem como da prestação de serviços relevantes e de reconhecido mérito;
 
@@ -150,13 +176,13 @@ b) Elementos que tenham cometido feitos de extraordinária valentia ou de excepc
 
 2 - As promoções referidas no número anterior são da competência do Ministro da Administração Interna, mediante proposta do comandante-geral, ouvido o Conselho Superior de Justiça e Disciplina.
 
-###### Art. 11.º Os critérios de selecção para admissão aos cursos, tirocínios e estágios, o conteúdo das provas e as regras processuais a observar para cada caso constarão de portaria do Ministro da Administração Interna.
+Art. 11.º Os critérios de selecção para admissão aos cursos, tirocínios e estágios, o conteúdo das provas e as regras processuais a observar para cada caso constarão de portaria do Ministro da Administração Interna.
 
-###### Art. 12.º - 1 - Os comissários principais passam obrigatoriamente à situação de aposentação quando atinjam os 62 anos de idade.
+Art. 12.º - 1 - Os comissários principais passam obrigatoriamente à situação de aposentação quando atinjam os 62 anos de idade.
 
 2 - O limite de idade para aposentação no posto de chefe de esquadra é o que estatutariamente se encontra definido para os subcomissários.
 
-###### Art. 13.º Para os efeitos de antiguidade observar-se-ão os seguintes princípios gerais:
+Art. 13.º Para os efeitos de antiguidade observar-se-ão os seguintes princípios gerais:
 
 a) A antiguidade em todos os postos será sempre reportada à data fixada no respectivo despacho de promoção;
 
@@ -166,15 +192,15 @@ c) O ordenamento relativo nos vários postos, para os elementos com a mesma anti
 
 d) São descontadas na antiguidade as faltas injustificadas, bem como as licenças que determinem perda de remuneração.
 
-###### Art. 14.º - 1 - Os actuais primeiros-comissários passam a designar-se por comissários.
+Art. 14.º - 1 - Os actuais primeiros-comissários passam a designar-se por comissários.
 
 2 - É extinto o posto de segundo-comissário, sendo os correspondentes lugares acrescidos gradualmente aos do posto de comissário à medida que se efectuarem as promoções referidas no número seguinte.
 
 3 - Os actuais segundos-comissários são promovidos a comissário, precedendo parecer favorável do Conselho Superior de Polícia, à medida que perfizerem cinco anos de serviço efectivo no posto.
 
-###### Art. 15.º Enquanto se verificar a impossibilidade de preencher os lugares dos postos superiores da categoria de oficiais de polícia, por inexistência de candidatos que reúnam os requisitos de promoção, poderá ser preenchida, no posto de ingresso ou nos postos intermédios, uma percentagem de lugares que corresponda, no máximo, a metade das vagas existentes naqueles postos.
+Art. 15.º Enquanto se verificar a impossibilidade de preencher os lugares dos postos superiores da categoria de oficiais de polícia, por inexistência de candidatos que reúnam os requisitos de promoção, poderá ser preenchida, no posto de ingresso ou nos postos intermédios, uma percentagem de lugares que corresponda, no máximo, a metade das vagas existentes naqueles postos.
 
-###### Art. 16.º - 1 - Os subcomissários vencem pela tabela actualmente aplicável aos segundos-comissários.
+Art. 16.º - 1 - Os subcomissários vencem pela tabela actualmente aplicável aos segundos-comissários.
 
 2 - A indexação estabelecida para os cadetes da Escola Superior de Polícia passa a entender-se reportada ao posto de chefe de esquadra.
 
@@ -184,26 +210,26 @@ d) São descontadas na antiguidade as faltas injustificadas, bem como as licenç
 
 5 - Os lugares de subchefe principal serão progressivamente aumentados, até um limite a fixar anualmente por despacho do Ministro da Administração Interna, à medida que forem promovidos àquele posto os subchefes-ajudantes com aproveitamento no respectivo curso de promoção.
 
-###### Art. 17.º Os distintivos dos novos postos criados pelo presente diploma serão aprovados por portaria do Ministro da Administração Interna.
+Art. 17.º Os distintivos dos novos postos criados pelo presente diploma serão aprovados por portaria do Ministro da Administração Interna.
 
-###### Art. 18.º Aos membros natos do Conselho Superior de Polícia, referidos na alínea a) do n.º 2 do artigo 16.º do Estatuto da PSP, aprovado em anexo ao [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio, é acrescentado o inspector superior da PSP imediatamente a seguir ao superintendente-geral.
+Art. 18.º Aos membros natos do Conselho Superior de Polícia, referidos na alínea a) do n.º 2 do artigo 16.º do Estatuto da PSP, aprovado em anexo ao [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio, é acrescentado o inspector superior da PSP imediatamente a seguir ao superintendente-geral.
 
-###### Art. 19.º São revogados o artigo 61.º, o artigo 65.º, os n.os 1 e 2 do artigo 81.º, os n.os 2 e 3 do artigo 82.º, o n.º 3 do artigo 85.º, o artigo 86.º, o n.º 2 do artigo 117.º e os artigos 118.º, 119.º, 120.º, 121.º, 122.º e 123.º do Estatuto aprovado pelo [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio.
+Art. 19.º São revogados o artigo 61.º, o artigo 65.º, os n.os 1 e 2 do artigo 81.º, os n.os 2 e 3 do artigo 82.º, o n.º 3 do artigo 85.º, o artigo 86.º, o n.º 2 do artigo 117.º e os artigos 118.º, 119.º, 120.º, 121.º, 122.º e 123.º do Estatuto aprovado pelo [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.
 
-**Promulgado em 21 de Junho de 1989.**
+Promulgado em 21 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1989.**
+Referendado em 22 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro anexo a que se refere o n.º 6 do artigo 1.º
 
 Principais funções que poderão ser atribuídas aos diferentes postos da carreira policial, com funções policiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14201/00020004.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14201/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14201/00020004.pdf)

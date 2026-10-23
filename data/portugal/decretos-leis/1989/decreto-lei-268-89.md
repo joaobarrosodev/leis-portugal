@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1989-619172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72acbee0caebfef7a2ac00a377fd5c50891d21a61db62376c501f0be1572cf74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4885028537e23d304e462d868fa5d82ae705fd52bbf4a1a47b2f7f81e3f0691d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Trabalho a Prazo
+- Ministério da Agricultura Pescas e Alimentação
+relationships:
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374591:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:08Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +112,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A título excepcional e até 31 de Dezembro de 1989, pode o Ministro da Agricultura, Pescas e Alimentação, por despacho e com vista a assegurar o cumprimento dos compromissos do Ministério, no âmbito das Comunidades Europeias e de acordos de cooperação internacional, autorizar a celebração de contratos de trabalho a termo certo.
+Artigo 1.º - 1 - A título excepcional e até 31 de Dezembro de 1989, pode o Ministro da Agricultura, Pescas e Alimentação, por despacho e com vista a assegurar o cumprimento dos compromissos do Ministério, no âmbito das Comunidades Europeias e de acordos de cooperação internacional, autorizar a celebração de contratos de trabalho a termo certo.
 
 2 - O despacho referido no número anterior especificará o número de pessoas a admitir, as funções a exercer, os serviços beneficiários, o prazo do contrato, que em caso algum pode ser superior a três anos, e a existência de cobertura orçamental.
 
-###### Art. 2.º - O contrato de trabalho a termo certo previsto no presente diploma, qualquer que seja a duração nele estabelecida, nunca se converterá em contrato sem termo.
+Art. 2.º - O contrato de trabalho a termo certo previsto no presente diploma, qualquer que seja a duração nele estabelecida, nunca se converterá em contrato sem termo.
 
 2 - O contrato referido no número anterior caduca tácita e automaticamente no termo do prazo estabelecido.
 
@@ -112,7 +126,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - O contrato de trabalho a termo certo não confere ao particular outorgante a qualidade de agente.
 
-###### Art. 3.º - 1 - O contrato previsto no presente diploma revestirá a forma escrita e conterá obrigatoriamente as seguintes indicações:
+Art. 3.º - 1 - O contrato previsto no presente diploma revestirá a forma escrita e conterá obrigatoriamente as seguintes indicações:
 
 a) A identificação dos outorgantes;
 
@@ -126,20 +140,20 @@ d) A data do início e termo do contrato.
 
 3 - O contrato a que se refere o presente diploma pode ser celebrado por urgente conveniência de serviço, de harmonia com o disposto nos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, sendo-lhe igualmente aplicável o disposto no artigo 15.º do mesmo diploma.
 
-###### Art. 4.º A inobservância de qualquer das disposições prescritas nos artigos 1.º e 3.º do presente diploma tem como consequência a inexistência jurídica do contrato.
+Art. 4.º A inobservância de qualquer das disposições prescritas nos artigos 1.º e 3.º do presente diploma tem como consequência a inexistência jurídica do contrato.
 
-###### Art. 5.º Os funcionários ou agentes que celebrarem contratos a termo certo sem observância das disposições legais, designadamente por omissão dos requisitos exigíveis em virtude do presente diploma, são responsáveis pela reposição das quantias indevidamente abonadas, para além da responsabilidade criminal, civil e disciplinar que ao caso couber.
+Art. 5.º Os funcionários ou agentes que celebrarem contratos a termo certo sem observância das disposições legais, designadamente por omissão dos requisitos exigíveis em virtude do presente diploma, são responsáveis pela reposição das quantias indevidamente abonadas, para além da responsabilidade criminal, civil e disciplinar que ao caso couber.
 
-###### Art. 6.º Ao contrato trabalho a termo certo aplicar-se-á subsidiariamente, em tudo o que não contrarie o presente diploma, a legislação geral do trabalho.
+Art. 6.º Ao contrato trabalho a termo certo aplicar-se-á subsidiariamente, em tudo o que não contrarie o presente diploma, a legislação geral do trabalho.
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 2 de Agosto de 1989.**
+Promulgado em 2 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Agosto de 1989.**
+Referendado em 4 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

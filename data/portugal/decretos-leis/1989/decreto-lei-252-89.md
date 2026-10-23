@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18200/31823187.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1989-619336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f9a3898952332c8ca5f57e33b0ab654918a0aab87f812c822477b2c975ef54d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e43f10b37a5ed0389de92968b865130f4858a549bbe90536d1ab2eed562c1c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Imposto sobre Sucessões e Doações
 relationships:
 - type: amended_by
   target: pt:dre:595337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterados os art.s 113º, 149º e 155º do Código do Imposto Municipal da Sisa e do Imposto sobre as Sucessões e Doações,\
+    \ aprovado pelo Dec Lei 41969, de 24-nov de 1958, na redação do presente diploma, pelo DEC LEI.7/96.07.02.1996.MF, DR.IS-A\
+    \ [32] de 07.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
+- type: cites
+  target: pt:dre:156579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610718:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:309344:por
+  label: Rectificado pela DECL.DD3667.1989.11.26.PCM DR.IS [226]SUPL DE 30/SET/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-309344
+  date: '1989-11-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:43Z'
   warnings: []
   errors: []
 ---
@@ -110,19 +152,19 @@ Assim:
 
 No uso da autorização legislativa concedida pelas alíneas f), g), h), i), j), l) e m) do n.º 2 do artigo 26.º e pelo artigo 39.º da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 30 de Dezembro, bem como pelo n.º 1 do artigo 8.º da [Lei n.º 8/89](https://diariodarepublica.pt/dr/detalhe/lei/8-1989-246135), de 22 de Abril, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São elevados para 1000$00 e 500$00 os quantitativos mínimos de liquidação adicional, respectivamente para sisa e imposto sobre as sucessões e doações, previstos no § 1.º do artigo 111.º do respectivo Código.
+Artigo 1.º - 1 - São elevados para 1000$00 e 500$00 os quantitativos mínimos de liquidação adicional, respectivamente para sisa e imposto sobre as sucessões e doações, previstos no § 1.º do artigo 111.º do respectivo Código.
 
 2 - São elevados para 100000$00, 250000$00, 500000$00 e 1500000$00 os limites fixados no § 1.º do artigo 120.º do Código da Sisa e do Imposto sobre as Sucessões e Doações e para 5000$00 o limite fixado no § 3.º do mesmo artigo.
 
 3 - É elevado para 500$00 o limite fixado na parte final do n.º 1.º do artigo 123.º do mesmo Código.
 
-###### Art. 2.º É alterada a redacção do § 1.º do artigo 8.º, dos n.os 3.º e 8.º do artigo 11.º, dos n.os 1.º, 2.º e 3.º do artigo 12.º, do corpo do artigo 14.º, do artigo 15.º e seu § 1.º, do n.º 2.º do artigo 16.º, do § 2.º e das regras 3.ª, 8.ª, 9.ª, 13.ª, 14.ª, 17.ª e 18.ª do § 3.º do artigo 19.º, do § 2.º e das regras 1.ª, 6.ª e 8.ª do § 3.º do artigo 20.º, do artigo 26.º, do artigo 30.º, das regras 2.ª, 3.ª, 12.ª, 13.ª, 14.ª e 17.ª do artigo 31.º, dos artigos 40.º e 41.º, dos §§ 1.º, 2.º e 3.º do artigo 46.º, dos n.os 1.º, 2.º e §§ 2.º e 3.º do artigo 49.º, dos artigos 52.º, 53.º, 54.º, 56.º, do § 1.º do artigo 59.º, do corpo do artigo 68.º e seu § 1.º, das alíneas c) e d) do artigo 69.º, do artigo 78.º, dos n.os 2.º, 3.º e 6.º do artigo 79.º, do corpo do artigo 93.º, do artigo 113.º, do n.º 5 do artigo 115.º, do § único do artigo 149.º, do § 1.º do artigo 155.º, da alínea c) do artigo 182.º e do artigo 186.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, pela forma seguinte:
+Art. 2.º É alterada a redacção do § 1.º do artigo 8.º, dos n.os 3.º e 8.º do artigo 11.º, dos n.os 1.º, 2.º e 3.º do artigo 12.º, do corpo do artigo 14.º, do artigo 15.º e seu § 1.º, do n.º 2.º do artigo 16.º, do § 2.º e das regras 3.ª, 8.ª, 9.ª, 13.ª, 14.ª, 17.ª e 18.ª do § 3.º do artigo 19.º, do § 2.º e das regras 1.ª, 6.ª e 8.ª do § 3.º do artigo 20.º, do artigo 26.º, do artigo 30.º, das regras 2.ª, 3.ª, 12.ª, 13.ª, 14.ª e 17.ª do artigo 31.º, dos artigos 40.º e 41.º, dos §§ 1.º, 2.º e 3.º do artigo 46.º, dos n.os 1.º, 2.º e §§ 2.º e 3.º do artigo 49.º, dos artigos 52.º, 53.º, 54.º, 56.º, do § 1.º do artigo 59.º, do corpo do artigo 68.º e seu § 1.º, das alíneas c) e d) do artigo 69.º, do artigo 78.º, dos n.os 2.º, 3.º e 6.º do artigo 79.º, do corpo do artigo 93.º, do artigo 113.º, do n.º 5 do artigo 115.º, do § único do artigo 149.º, do § 1.º do artigo 155.º, da alínea c) do artigo 182.º e do artigo 186.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, pela forma seguinte:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § 1.º Para efeitos de sisa, entender-se-á de troca ou permuta o contrato em que as prestações de ambos os permutantes compreendam bens imóveis, ainda que uma dessas prestações compreenda bens futuros, salvo tratando-se de promessa de troca com tradição dos bens apenas para um dos contratantes, a qual será havida por compra e venda.
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 ...
 
@@ -134,7 +176,7 @@ No uso da autorização legislativa concedida pelas alíneas f), g), h), i), j),
 
 ...
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 1.º As transmissões de bens de valor igual ou inferior a 50000$00 para cada adquirente;
 
@@ -144,13 +186,13 @@ No uso da autorização legislativa concedida pelas alíneas f), g), h), i), j),
 
 ...
 
-###### Art. 14.º As isenções previstas nos n.os 8.º e 9.º do artigo 11.º não prejudicam a liquidação e pagamento da sisa, nos termos gerais, salvo se o terreno se destinar à construção de casas de renda económica ou para alojamentos de famílias carecidas de recursos, respectivamente nos termos da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945, e do [Decreto-Lei n.º 44645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44645-1962-156579), de 25 de Outubro de 1962, bem como se o adquirente for instituição de previdência social, casa do povo, casa dos pescadores, e suas federações, a Junta Central das Csas dos Pescadores, ou cooperativa de construção com estatutos aprovados pelo Ministro das Finanças.
+Art. 14.º As isenções previstas nos n.os 8.º e 9.º do artigo 11.º não prejudicam a liquidação e pagamento da sisa, nos termos gerais, salvo se o terreno se destinar à construção de casas de renda económica ou para alojamentos de famílias carecidas de recursos, respectivamente nos termos da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945, e do [Decreto-Lei n.º 44645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44645-1962-156579), de 25 de Outubro de 1962, bem como se o adquirente for instituição de previdência social, casa do povo, casa dos pescadores, e suas federações, a Junta Central das Csas dos Pescadores, ou cooperativa de construção com estatutos aprovados pelo Ministro das Finanças.
 
 Com excepção das habitações construídas ao abrigo da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, do [Decreto-Lei n.º 44645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44645-1962-156579), de 25 de Outubro de 1962, e das destinadas a pescadores, a isenção só será reconhecida se o prédio estiver concluído e considerado apto para habitação dentro de dois anos a contar da aquisição do terreno, ou da constituição do direito de superfícies, e se o valor patrimonial do prédio da parte destinada a habitação ficar temporariamente isento de contribuição autárquica.
 
 ...
 
-###### Art. 15.º Para efeitos de isenção ou redução de sisa e do imposto sobre sucessões e doações, deverão os requerimentos ser apresentados nos seguintes prazos:
+Art. 15.º Para efeitos de isenção ou redução de sisa e do imposto sobre sucessões e doações, deverão os requerimentos ser apresentados nos seguintes prazos:
 
 1.º Antes do acto ou facto translativo referido no artigo 47.º, mas sempre antes da liquidação que porventura seja efectuada nos termos deste preceito legal, ou nos prazos estabelecidos nos termos deste preceito legal, ou nos prazos estabelecidos no artigo 115.º, conforme os casos;
 
@@ -160,7 +202,7 @@ Com excepção das habitações construídas ao abrigo da [Lei n.º 2092](https:
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 ...
 
@@ -168,7 +210,7 @@ Com excepção das habitações construídas ao abrigo da [Lei n.º 2092](https:
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 ...
 
@@ -224,7 +266,7 @@ Se o arrendatário vier a comprar o prédio, a sisa incidirá sobre a diferença
 
 ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 ...
 
@@ -242,7 +284,7 @@ Se o arrendatário vier a comprar o prédio, a sisa incidirá sobre a diferença
 
 8.ª O valor dos certificados de participação em fundos de investimento mobiliários ou imobiliários será o do reembolso, à data da transmissão, determinado nos termos da legislação aplicável.
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 Até 500 contos ... 3
 
@@ -254,13 +296,13 @@ Mais de 5000 contos a 10000 contos ... 12
 
 Mais de 10000 contos ... 15
 
-###### Art. 30.º Para efeitos de sisa e do imposto sobre as sucessões e doações, o valor dos bens imóveis será o valor patrimonial constante das matrizes.
+Art. 30.º Para efeitos de sisa e do imposto sobre as sucessões e doações, o valor dos bens imóveis será o valor patrimonial constante das matrizes.
 
 § 1.º Tratando-se de transmissões a título oneroso, considerar-se-á o valor patrimonial inscrito na matriz à data da liquidação.
 
 § 2.º No caso de transmissões a título gratuito, considerar-se-á o valor patrimonial inscrito na matriz à data da respectiva transmissão.
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 ...
 
@@ -284,15 +326,15 @@ Para o efeito, deverão os interessados apresentar, junto da repartição de fin
 
 17.ª O valor do terreno de prédio rústico sujeito a direito de superfície é o correspondente a 20% do valor patrimonial.
 
-###### Art. 40.º As taxas do imposto sobre as sucessões e doações são as seguintes:
+Art. 40.º As taxas do imposto sobre as sucessões e doações são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18200/31823187.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18200/31823187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18200/31823187.pdf)
 
 § único. ...
 
-###### Art. 41.º No apuramento do valor das transmissões para a determinação das taxas aplicáveis, incluir-se-ão todos os bens recebidos, embora em épocas diferentes, do autor da herança ou do doador, com excepção dos sujeitos ao regime de pagamento por avença. Na aplicação das taxas assim determinadas, o valor dos bens isentos do imposto será deduzido ao primeiro dos escalões em que tiver de se subdividir o valor total da transmissão, computando-se o excesso, se o houver, no imediato.
+Art. 41.º No apuramento do valor das transmissões para a determinação das taxas aplicáveis, incluir-se-ão todos os bens recebidos, embora em épocas diferentes, do autor da herança ou do doador, com excepção dos sujeitos ao regime de pagamento por avença. Na aplicação das taxas assim determinadas, o valor dos bens isentos do imposto será deduzido ao primeiro dos escalões em que tiver de se subdividir o valor total da transmissão, computando-se o excesso, se o houver, no imediato.
 
-###### Art. 46.º ...
+Art. 46.º ...
 
 § 1.º Nas permutas de bens situados em diversos municípios, será competente a repartição de finanças do município ou bairro fiscal onde estiver situada a maior parte desses bens, calculada pelo valor patrimonial inscrito nas matrizes. Se o valor for igual, ou não houver valor patrimonial, poderá fazer-se a liquidação em qualquer dos concelhos ou bairros à escolha dos permutantes.
 
@@ -304,7 +346,7 @@ Os interessados terão de apresentar na repartição de finanças competente as 
 
 No caso contrário, a sisa será liquidada no município ou bairro onde estiverem situados os bens e, se estes ficarem em mais de um concelho ou bairro, naquele a cuja área pertencer o maior valor patrimonial.
 
-###### Art. 49.º ...
+Art. 49.º ...
 
 1.º A designação dos imóveis, respectivas identificações matriciais, valores patrimoniais ou a indicação de estarem omissos nas matrizes;
 
@@ -318,21 +360,21 @@ No caso contrário, a sisa será liquidada no município ou bairro onde estivere
 
 Consideram-se terrenos para construção os situados dentro ou fora de um aglomerado urbano, para os quais tenha sido concedido alvará de loteamento, aprovado projecto ou concedida licença de construção e ainda aqueles que assim tenham sido declarados no título aquisitivo.
 
-###### Art. 52.º Quando não se conheça, nas alienações de quinhão hereditário, a quota do co-herdeiro alheador, a sisa será calculada sobre o preço convencionado em relação aos bens imóveis, devendo proceder-se a liquidação adicional logo que se determine a quota-parte dos bens respeitantes ao co-herdeiro, se o valor patrimonial deles for superior ao estipulado.
+Art. 52.º Quando não se conheça, nas alienações de quinhão hereditário, a quota do co-herdeiro alheador, a sisa será calculada sobre o preço convencionado em relação aos bens imóveis, devendo proceder-se a liquidação adicional logo que se determine a quota-parte dos bens respeitantes ao co-herdeiro, se o valor patrimonial deles for superior ao estipulado.
 
 A partilha não poderá efectuar-se sem que, sendo caso disso, a liquidação esteja corrigida; e, enquanto não estiver determinada a quota do alheador, o adquirente é obrigado a apresentar na repartição de finanças onde se liquidou a sisa, durante o mês de Janeiro de cada ano, uma declaração da qual conste o número e data do conhecimento respectivo e causas que obstem àquela determinação. A declaração far-se-á em papel comum, de formato legal, e em duplicado, para um dos exemplares ser devolvido ao contribuinte com recibo da entrega.
 
-###### Art. 53.º Tratando-se de prédio ou de terreno para construção omissos na matriz ou nela inscritos sem valor patrimonial, a sisa será liquidada pelo preço convencionado, promovendo-se em seguida a sua avaliação, nos termos dos artigos 109.º ou 110.º, a fim de se fazer liquidação adicional se o valor apurado for superior.
+Art. 53.º Tratando-se de prédio ou de terreno para construção omissos na matriz ou nela inscritos sem valor patrimonial, a sisa será liquidada pelo preço convencionado, promovendo-se em seguida a sua avaliação, nos termos dos artigos 109.º ou 110.º, a fim de se fazer liquidação adicional se o valor apurado for superior.
 
-###### Art. 54.º Se se transmitir a fracção de um prédio, ou a fracção de uma parcela cadastral, a sisa será liquidada pelo preço, devendo seguidamente, sempre que for necessário para se apurar o valor correspondente à fracção transmitida, proceder-se à discriminação do valor patrimonial de todo o prédio ou de toda a parcela, e fazer-se a liquidação adicional, quando o valor assim determinado exceder o preço.
-
-§ único. ...
-
-###### Art. 56.º Se os contribuintes julgarem excessivo o valor patrimonial inscrito na matriz, ou o valor determinado pela importância das dívidas, nos termos das regras 9.ª e 15.ª do § 3.º do artigo 19.º e da regra 3.ª do artigo 31.º, poderão requerer a avaliação da totalidade ou parte dos prédios que pretendam adquirir, ainda que seja por acto de divisão e partilha extrajudicial.
+Art. 54.º Se se transmitir a fracção de um prédio, ou a fracção de uma parcela cadastral, a sisa será liquidada pelo preço, devendo seguidamente, sempre que for necessário para se apurar o valor correspondente à fracção transmitida, proceder-se à discriminação do valor patrimonial de todo o prédio ou de toda a parcela, e fazer-se a liquidação adicional, quando o valor assim determinado exceder o preço.
 
 § único. ...
 
-###### Art. 59.º ...
+Art. 56.º Se os contribuintes julgarem excessivo o valor patrimonial inscrito na matriz, ou o valor determinado pela importância das dívidas, nos termos das regras 9.ª e 15.ª do § 3.º do artigo 19.º e da regra 3.ª do artigo 31.º, poderão requerer a avaliação da totalidade ou parte dos prédios que pretendam adquirir, ainda que seja por acto de divisão e partilha extrajudicial.
+
+§ único. ...
+
+Art. 59.º ...
 
 § 1.º Na falta de domicílio no continente e ilhas adjacentes, far-se-á a liquidação no concelho ou bairro onde estiverem situados os bens imóveis.
 
@@ -340,13 +382,13 @@ Havendo bens imóveis em diversos concelhos ou bairros, proceder-se-á à liquid
 
 ...
 
-###### Art. 68.º A relação dos bens conterá a indicação dos valores que o apresentante lhes atribuir, salvo tratando-se de prédios com valor patrimonial inscrito na matriz ou de estabelecimentos comerciais e industriais e de quotas e partes sociais, quando haja balanço, partilha ou liquidação, ou dos bens referidos nas regras 1.ª, 5.ª e 5.ª-A do § 3.º do artigo 20.º e na regra 12.ª do artigo 31.º
+Art. 68.º A relação dos bens conterá a indicação dos valores que o apresentante lhes atribuir, salvo tratando-se de prédios com valor patrimonial inscrito na matriz ou de estabelecimentos comerciais e industriais e de quotas e partes sociais, quando haja balanço, partilha ou liquidação, ou dos bens referidos nas regras 1.ª, 5.ª e 5.ª-A do § 3.º do artigo 20.º e na regra 12.ª do artigo 31.º
 
 § 1.º Se dos bens fizerem parte terrenos para construção, nos termos do § 3.º do artigo 49.º, omissos na matriz, terá de mencionar-se essa circunstância.
 
 ...
 
-###### Art. 69.º ...
+Art. 69.º ...
 
 ...
 
@@ -362,11 +404,11 @@ Não havendo avaliador oficial, o chefe da repartição de finanças solicitará
 
 ...
 
-###### Art. 78.º O chefe da repartição de finanças juntará sempre ao processo a certidão do valor patrimonial dos prédios. Havendo prédios omissos ou inscritos sem valor patrimonial, ou terrenos considerados para construção, proceder-se-á, quanto a eles, nos termos do artigo 109.º
+Art. 78.º O chefe da repartição de finanças juntará sempre ao processo a certidão do valor patrimonial dos prédios. Havendo prédios omissos ou inscritos sem valor patrimonial, ou terrenos considerados para construção, proceder-se-á, quanto a eles, nos termos do artigo 109.º
 
 § único. Sempre que se verifique qualquer das hipóteses previstas no artigo 54.º, proceder-se-á à discriminação do valor patrimonial de todo o prédio ou de toda a parcela, com observância do disposto no § único daquele artigo.
 
-###### Art. 79.º ...
+Art. 79.º ...
 
 ...
 
@@ -380,31 +422,31 @@ Não havendo avaliador oficial, o chefe da repartição de finanças solicitará
 
 ...
 
-###### Art. 93.º Quando houver de proceder-se à avaliação de bens, e estes não sejam prédios omissos na matriz, nela inscritos sem valor patrimonial ou terrenos considerados para construção, o chefe da repartição de finanças notificará o contribuinte para comparecer perante ele dentro de oito dias, a fim de nomear louvado, sob pena de este ser nomeado à revelia.
+Art. 93.º Quando houver de proceder-se à avaliação de bens, e estes não sejam prédios omissos na matriz, nela inscritos sem valor patrimonial ou terrenos considerados para construção, o chefe da repartição de finanças notificará o contribuinte para comparecer perante ele dentro de oito dias, a fim de nomear louvado, sob pena de este ser nomeado à revelia.
 
 ...
 
-###### Art. 113.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da sisa ou do imposto devidos, a estes acrescerão juros compensatórios correspondentes à taxa básica de desconto do Banco de Portugal em vigor na data em que se tiver iniciado o retardamento da liquidação, acrescida de cinco pontos percentuais, sem prejuízo da pena cominada ao infractor.
+Art. 113.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da sisa ou do imposto devidos, a estes acrescerão juros compensatórios correspondentes à taxa básica de desconto do Banco de Portugal em vigor na data em que se tiver iniciado o retardamento da liquidação, acrescida de cinco pontos percentuais, sem prejuízo da pena cominada ao infractor.
 
 § único. ...
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 ...
 
 5.º Se caducar qualquer isenção nos termos dos artigos 16.º, § 1.º, 16.º-A, 17.º, 18.º-A e 18.º-B, a sisa deverá ser paga dentro do mesmo prazo de 30 dias a contar da data em que a isenção ficar sem efeito, salvo quando for de observar o § 2.º do artigo 16.º-A, em que o pagamento será efectuado antes da nova aquisição.
 
-###### Art. 149.º ...
+Art. 149.º ...
 
 § único. Não se procederá a anulação quando o seu quantitativo seja inferior a 1000$00, no caso da sisa, ou a 500$00 por cada conhecimento que for de processar, tratando-se de imposto sobre as sucessões e doações.
 
-###### Art. 155.º ...
+Art. 155.º ...
 
 § 1.º Contar-se-ão juros correspondentes à taxa básica de desconto do Banco de Portugal em vigor na data do pagamento, acrescida de cinco pontos percentuais, a favor do contribuinte, sempre que, estando paga a sisa ou o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro imputável aos serviços.
 
 ...
 
-###### Art. 182.º ...
+Art. 182.º ...
 
 ...
 
@@ -412,50 +454,50 @@ c) Das acções de sociedades com sede em território português.
 
 ...
 
-###### Art. 186.º As entidades a que competir o pagamento de rendimento de títulos que não sejam da dívida pública deverão entregar na tesouraria da Fazenda Pública da área da sua sede ou representação permanente no território nacional, durante o mês seguinte ao do vencimento ou da colocação à disposição dos seus titulares, as importâncias do correspondente desconto.
+Art. 186.º As entidades a que competir o pagamento de rendimento de títulos que não sejam da dívida pública deverão entregar na tesouraria da Fazenda Pública da área da sua sede ou representação permanente no território nacional, durante o mês seguinte ao do vencimento ou da colocação à disposição dos seus titulares, as importâncias do correspondente desconto.
 
 § único. ...
 
-###### Art. 3.º São aditados ao Código da Sisa e do Imposto sobre as Sucessões e Doações o n.º 15.º do artigo 13.º, o § 3.º do artigo 15.º, o artigo 18.º-B, o § 5.º do artigo 49.º, n.º 5.º do artigo 109.º, com a seguinte redacção:
+Art. 3.º São aditados ao Código da Sisa e do Imposto sobre as Sucessões e Doações o n.º 15.º do artigo 13.º, o § 3.º do artigo 15.º, o artigo 18.º-B, o § 5.º do artigo 49.º, n.º 5.º do artigo 109.º, com a seguinte redacção:
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 ...
 
 15.º As aquisições de bens classificados como património cultural ao abrigo da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho.
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 ...
 
 § 3.º Para efeitos da isenção prevista no n.º 15.º do artigo 13.º deverá ser ouvido o departamento governamental que superintende na respectiva área.
 
-###### Art. 18.º-B As isenções concedidas ao abrigo do artigo 13.º, n.º 15.º, ficarão sem efeito se os bens forem desclassificados do património cultural, devendo o organismo competente comunicar tais factos à Direcção-Geral das Contribuições e Impostos, no prazo de 30 dias.
+Art. 18.º-B As isenções concedidas ao abrigo do artigo 13.º, n.º 15.º, ficarão sem efeito se os bens forem desclassificados do património cultural, devendo o organismo competente comunicar tais factos à Direcção-Geral das Contribuições e Impostos, no prazo de 30 dias.
 
 § único. Nos casos de perda de isenção do imposto sobre sucessões e doações e para efeitos de reforma da liquidação inicial, deverão os interessados, no prazo acima referido, participá-la à repartição de finanças onde foi instaurado o processo.
 
-###### Art. 49.º ...
+Art. 49.º ...
 
 ...
 
 § 5.º Tratando-se de contratos a que alude o n.º 5.º do artigo 109.º, os documentos ali referidos serão apresentados no acto da prestação de declarações.
 
-###### Art. 109.º ...
+Art. 109.º ...
 
 ...
 
 5.º No caso de contratos de permuta de bens presentes por bens futuros, a avaliação do bem futuro será feita com base na cópia do projecto de construção aprovado e seus anexos, devidamente autenticada pela competente câmara municipal.
 
-###### Art. 4.º A nova redacção dada ao artigo 30.º do Código da Sisa e do Imposto sobre as Sucessões e Doações aplica-se apenas às transmissões a título gratuito ou oneroso operadas a partir da data da entrada em vigor do presente diploma.
+Art. 4.º A nova redacção dada ao artigo 30.º do Código da Sisa e do Imposto sobre as Sucessões e Doações aplica-se apenas às transmissões a título gratuito ou oneroso operadas a partir da data da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1989.**
+Referendado em 31 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

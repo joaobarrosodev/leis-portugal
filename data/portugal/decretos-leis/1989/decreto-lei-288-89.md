@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/20100/37463756.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1989-546994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30c9acc728ae3cb6d26dc0409f56e51e88302a5c4c1b84dc78757d21b12823dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae734f302ec610ec630ee071fc20b32a0aa2dd22099ca5fa50b84f52fed22fc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casa do Douro
+- Conselho de Direção
+- Conselho Interprofissional
+- Conselho Regional de Vitivinicultores
+- Conselho Vitivinícola Interprofissional
+- Definição de Competências
+- Eleição
+- Estatuto
+- Integração de Trabalhadores
+- PESO da Régua
+- Pessoal Dirigente
+- Região Demarcada do Douro
+- Regulamento Eleitoral
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: MANTIDO EM FUNCIONAMENTO O CONSELHO INTERPROFISSIONAL A QUE SE REFERE O ESTATUTO ANEXO, PELO DEC LEI 74/95 DE 19-ABR
+    DR.IS-A [92], DURANTE A SITUAÇÃO PREVISTA NO NUM 1 DO ART 2 DAQUELE DIPLOMA, PASSANDO A REPRESENTAÇÃO DE PRODUÇÃO E DO
+    COMERCIO A SER TODAVIA A REFERIDA NO NUM 4 DO ART 6 DO ESTATUTO DA COMISSAO INTERPROFISSIONAL DA REGIÃO DEMARCADA DO DOURO
+    (CIRDD), APROVADO PELO DEC LEI ATRAS REFERIDO. MANTIDAS AS COMPETENCIAS DA CASA DO DOURO (CD) PELO JÁ REFERIDO DEC LEI
+    74/95 DE 19-ABR (ENQUANTO NAO FOR CONSTITUIDO O CONSELHO GERAL DA CIRDD, O QUE DEVE OCORRER NO PRAZO PREVISTO NAQUELE
+    DIPLOMA).
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-04-19'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612872:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:505246:por
+  label: Rectificado pela DECL.DD3515.1989.10.03.PCM, DR.IS [251]2ºSupl de 31/Out/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505246
+  date: '1989-10-03'
 article_structure:
-  article_count: 60
+  article_count: 59
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:43Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +157,17 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 3/89](https://diariodarepublica.pt/dr/detalhe/lei/3-1989-612872), de 2 de Março, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os estatutos e o regulamento eleitoral da Casa do Douro, anexos ao presente diploma e que dele fazem parte integrante.
+Artigo 1.º São aprovados os estatutos e o regulamento eleitoral da Casa do Douro, anexos ao presente diploma e que dele fazem parte integrante.
 
-###### Art. 2.º Os titulares dos órgãos da Casa do Douro que foram eleitos em conformidade com o despacho do Ministro da Agricultura, Pescas e Alimentação de 12 de Fevereiro de 1987, publicado no Diário da República, 2.ª série, de 24 de Fevereiro de 1987, exercerão as suas funções nos termos dos estatutos anexos, por um período de quatro anos a contar da data em que tomaram posse.
+Art. 2.º Os titulares dos órgãos da Casa do Douro que foram eleitos em conformidade com o despacho do Ministro da Agricultura, Pescas e Alimentação de 12 de Fevereiro de 1987, publicado no Diário da República, 2.ª série, de 24 de Fevereiro de 1987, exercerão as suas funções nos termos dos estatutos anexos, por um período de quatro anos a contar da data em que tomaram posse.
 
-###### Art. 3.º - 1 - No prazo máximo de 30 dias a contar da data da entrada em vigor do presente diploma, o conselho regional de vitivinicultores reunirá para designar os cinco vogais do conselho vitivinícola interprofissional referidos na alínea a) do n.º 3 do artigo 28.º dos Estatutos.
+Art. 3.º - 1 - No prazo máximo de 30 dias a contar da data da entrada em vigor do presente diploma, o conselho regional de vitivinicultores reunirá para designar os cinco vogais do conselho vitivinícola interprofissional referidos na alínea a) do n.º 3 do artigo 28.º dos Estatutos.
 
 2 - A direcção da Casa do Douro oficiará às entidades respectivas para que, até à véspera da reunião a que se refere o número anterior, dêem conhecimento dos nomes a considerar para efeitos do disposto no artigo 28.º dos estatutos.
 
 3 - Os vogais do conselho vitivinícola interprofissional tomarão posse na reunião marcada para o efeito previsto no n.º 1 e o seu mandato terminará com a cessação, por força do disposto no artigo anterior, do mandato dos actuais titulares dos demais órgãos da Casa do Douro.
 
-###### Art. 4.º - 1 - A integração dos funcionários da Casa do Douro no novo quadro de pessoal depende de opção individual prévia, constante de documento particular autenticado, e implica a sujeição ao regime previsto no artigo 37.º e consequente cessação do vínculo à função pública, sem prejuízo do disposto no n.º 2 do artigo 39.º, ambos dos estatutos, e de ser contada para efeitos de antiguidade a totalidade do tempo de serviço prestado à função pública.
+Art. 4.º - 1 - A integração dos funcionários da Casa do Douro no novo quadro de pessoal depende de opção individual prévia, constante de documento particular autenticado, e implica a sujeição ao regime previsto no artigo 37.º e consequente cessação do vínculo à função pública, sem prejuízo do disposto no n.º 2 do artigo 39.º, ambos dos estatutos, e de ser contada para efeitos de antiguidade a totalidade do tempo de serviço prestado à função pública.
 
 2 - A integração do pessoal prevista nos termos anteriores deverá estar concretizada no prazo de um ano após a publicação do novo quadro de pessoal e será feita por lista nominativa proposta pela direcção e aprovada pelo ministro da tutela.
 
@@ -124,7 +179,7 @@ b) A transferência para qualquer outro serviço nos termos do [Decreto-Lei n.º
 
 c) O ingresso no quadro de efectivos interdepartamentais do Ministério da Agricultura, Pescas e Alimentação nos termos e para os efeitos do disposto no [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
 
-###### Art. 5.º - 1 - A actividade da Casa do Douro será acompanhada por um auditor, nomeado pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, ao qual compete:
+Art. 5.º - 1 - A actividade da Casa do Douro será acompanhada por um auditor, nomeado pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, ao qual compete:
 
 a) Acompanhar e fiscalizar o cumprimento pela Casa do Douro das leis e regulamentos que lhe são aplicáveis;
 
@@ -138,13 +193,13 @@ d) Emitir parecer sobre a contracção de empréstimos pela Casa do Douro.
 
 Visto e aprovado em Conselho de Ministros de 27 de Abril de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 25 de Agosto de 1989.**
+Promulgado em 25 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1989.**
+Referendado em 28 de Agosto de 1989.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo.
 
@@ -762,7 +817,7 @@ Até ao 5.º dia posterior ao apuramento dos resultados da eleição para o cons
 
 Os membros da direcção e do conselho vitivinícola interprofissional serão empossados pelo Ministro da tutela ou seu representante, perante o conselho regional de vitivinicultores.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
 Mapa anexo a que se refere a artigo 4.º do presente regulamento
 

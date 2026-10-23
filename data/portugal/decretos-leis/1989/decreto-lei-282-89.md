@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1989-618509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dceb490e888d727f8393c27d15f5f2200f4c5b08a908dd18385fec66681b6d79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0948adfdf5a0ffb966d87cc9b20e476dc31fad7a08025e9d4f10f182d61626d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Estudos
+- Bolseiro
+- Cidadão Estrangeiro
+- Equiparação a Bolseiro
+- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:72909748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:307782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378095:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:33Z'
   warnings: []
   errors: []
 ---
@@ -96,26 +109,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Aos funcionários e agentes do Estado e das demais pessoas colectivas de direito público poderá ser concedida a equiparação a bolseiro fora do País, quando se proponham realizar programas de trabalho e estudo ou frequentar cursos ou estágios, desde que tais iniciativas se revistam de reconhecido interesse público.
+Artigo 1.º Aos funcionários e agentes do Estado e das demais pessoas colectivas de direito público poderá ser concedida a equiparação a bolseiro fora do País, quando se proponham realizar programas de trabalho e estudo ou frequentar cursos ou estágios, desde que tais iniciativas se revistam de reconhecido interesse público.
 
-###### Art. 2.º - 1 - O regime aplicável à duração e situação de equiparação a bolseiro, bem como a competência para a respectiva autorização, regulam-se pelo disposto no n.º 2 do artigo 1.º e nos artigos 2.º e 3.º do [Decreto-Lei n.º 272/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1988-378095), de 3 de Agosto.
+Art. 2.º - 1 - O regime aplicável à duração e situação de equiparação a bolseiro, bem como a competência para a respectiva autorização, regulam-se pelo disposto no n.º 2 do artigo 1.º e nos artigos 2.º e 3.º do [Decreto-Lei n.º 272/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1988-378095), de 3 de Agosto.
 
 2 - Para a participação em congressos, seminários ou reuniões de carácter análogo, de reconhecido interesse público, pode ser concedida a equiparação a bolseiro prevista no artigo anterior, ainda que de duração inferior a três meses.
 
 3 - A cada requerente só pode ser concedida a equiparação a bolseiro referida no número anterior uma vez em cada ano civil.
 
-###### Art. 3.º A equiparação a bolseiro só será concedida desde que não origine acréscimo de encargos com pessoal, salvo o disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 272/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1988-378095), de 3 de Agosto.
+Art. 3.º A equiparação a bolseiro só será concedida desde que não origine acréscimo de encargos com pessoal, salvo o disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 272/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1988-378095), de 3 de Agosto.
 
-###### Art. 4.º O disposto no presente diploma não prejudica o regime constante do [Decreto-Lei n.º 29/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1983-307782), de 22 de Janeiro.
+Art. 4.º O disposto no presente diploma não prejudica o regime constante do [Decreto-Lei n.º 29/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1983-307782), de 22 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 2 de Agosto de 1989.**
+Promulgado em 2 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Agosto de 1989.**
+Referendado em 4 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

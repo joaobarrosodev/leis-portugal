@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19300/34943500.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1989-618497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c8ab2a61d79bf20d584796bce4fbea0b65ce753eac1ec4a688ab4f8ad8670fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cd35e68286edffd8e8b39f8554bc6faa8c29adeadfeef959cba2468830020c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Conselho de Gestão
+- Definição de Competências
+- Estatuto
+- Gestão do Património
+- Instituto Nacional de Estatística
+- Instituto Público
+- Ministro do Planeamento e da Administração do Território
+- Personalidade Jurídica
+- Regime de Pessoal
+- Regime Jurídico
+- Tutela Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:521259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250376:por
+  label: "Alterado o art. 4º pelo DEC LEI.118/94.1994.05.05.MPLAT, DR.IS-A [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1994-250376
+  date: '1994-05-05'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Transferido para o Ministério do Planeamento, o Instituto Nacional de Estatística, cujos Estatutos foram aprovados\
+    \ pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:683186:por
+  label: "Alterado o art. 31º pelo DEC LEI.479/99.1999.11.09.MEPAT, DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/479-1999-683186
+  date: '1999-11-09'
+- type: cites
+  target: pt:dre:157016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615214:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521259:por
+  label: "Revogado o presente diploma, a partir de 01.06.2007, sem prejuízo das situações constituídas ao abrigo do disposto\
+    \ nos seus nºs 2 a 5 do art. 31º e nº 5 do art. 33º, na redacção do Dec Lei 479/99 de 09-Nov, pelo DEC LEI.166/2007.03.05.2007.PCM,\
+    \ DR.IS [85] de 03.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2007-521259
+  date: '2007-05-03'
 article_structure:
   article_count: 34
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:28Z'
   warnings: []
   errors: []
 ---
@@ -464,12 +528,12 @@ Os actuais titulares dos cargos de direcção e chefia mantêm-se em exercício 
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - José Augusto Perestrello de Alarcão Troni.
 
-**Promulgado em 2 de Agosto de 1989.**
+Promulgado em 2 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Agosto de 1989.**
+Referendado em 4 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

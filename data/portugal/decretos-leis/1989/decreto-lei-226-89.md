@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1989-619705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T00:51:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 428613f56d3d086f502f0e4fca30d75418fd78d041c95228c076b1e74c0b4687
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6a818c5930c9494394732b5f4d5830738aabfc2fe5563c78d40342b3e9dc50f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa Privada
+- Empresa Pública
+- Estatuto
+- Privatização
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:505245:por
+  label: Rectificado pela DECL.DD3514.1989.10.16.PCM, DR.IS [251]2ºSupl de 31/Out/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505245
+  date: '1989-10-16'
 article_structure:
-  article_count: 21
+  article_count: 20
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:51:07Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +116,15 @@ Tendo sido ouvida a comissão de trabalhadores da Petroquímica e Gás de Portug
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública Petroquímica e Gás de Portugal, E. P., criada pelo [Decreto-Lei n.º 244/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1979-381293), de 25 de Julho, é transformada, pelo presente diploma, em pessoa colectiva de direito privado, sob a forma de sociedade anónima, com maioria de capitais públicos, e passa a denominar-se GDP - Gás de Portugal, S. A.
+Artigo 1.º - 1 - A empresa pública Petroquímica e Gás de Portugal, E. P., criada pelo [Decreto-Lei n.º 244/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1979-381293), de 25 de Julho, é transformada, pelo presente diploma, em pessoa colectiva de direito privado, sob a forma de sociedade anónima, com maioria de capitais públicos, e passa a denominar-se GDP - Gás de Portugal, S. A.
 
 2 - A GDP - Gás de Portugal, S. A., rege-se pela [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, pelo presente diploma, pelos seus estatutos e pelas normas de direito privado aplicáveis às sociedades anónimas.
 
-###### Art. 2.º - 1 - A GDP - Gás de Portugal, S. A., sucede automática e globalmente à Petroquímica e Gás de Portugal, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
+Art. 2.º - 1 - A GDP - Gás de Portugal, S. A., sucede automática e globalmente à Petroquímica e Gás de Portugal, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação do previsto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da GDP - Gás de Portugal, S. A.
 
-###### Art. 3.º - 1 - A GDP - Gás de Portugal, S. A., tem inicialmente um capital social de 6000000000$00, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
+Art. 3.º - 1 - A GDP - Gás de Portugal, S. A., tem inicialmente um capital social de 6000000000$00, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
 
 2 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
 
@@ -118,9 +140,9 @@ b) As acções do tipo B são nominativas ou ao portador em regime de registo, p
 
 6 - Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia, salvo quando a gestão das acções tenha sido cometida a outra entidade, nos termos do n.º 3 do presente artigo.
 
-###### Art. 4.º A GDP - Gás de Portugal, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 4.º A GDP - Gás de Portugal, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -128,33 +150,33 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e da Indústria e Energia um relatório sucinto que refira os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 6.º - 1 - Os trabalhadores e pensionistas da Petroquímica e Gás de Portugal, E. P., mantêm perante a GDP - Gás de Portugal, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
+Art. 6.º - 1 - Os trabalhadores e pensionistas da Petroquímica e Gás de Portugal, E. P., mantêm perante a GDP - Gás de Portugal, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer quaisquer cargos ou funções na sociedade, em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outras regalias.
 
 3 - A situação dos trabalhadores da GDP - Gás de Portugal, S. A., que sejam chamados a ocupar cargos nos órgãos da empresa, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou o tempo de requisição.
 
-###### Art. 7.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Petroquímica e Gás de Portugal, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+Art. 7.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Petroquímica e Gás de Portugal, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 8.º - 1 - São aprovados os estatutos da GDP - Gás de Portugal, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+Art. 8.º - 1 - São aprovados os estatutos da GDP - Gás de Portugal, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
 2 - As eventuais alterações aos estatutos, que em caso algum poderão contrariar o disposto na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, produzirão todos os seus efeitos desde que deliberadas segundo o próprio regime estatutário vigente e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.
 
-###### Art. 9.º - 1 - É, por esta forma, convocada a assembleia geral da GDP - Gás de Portugal, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 9.º - 1 - É, por esta forma, convocada a assembleia geral da GDP - Gás de Portugal, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de gerência e da comissão de fiscalização da Petroquímica e Gás de Portugal, E. P., mantêm-se em funções, e até à data da posse dos titulares dos órgãos sociais da GDP - Gás de Portugal, S. A., com as competências fixadas nos estatutos para o conselho de administração e o conselho fiscal, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral.
 
-**Promulgado em 22 de Junho de 1989.**
+Promulgado em 22 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Junho de 1989.**
+Referendado em 27 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — ESTATUTOS DA GDP - GÁS DE PORTUGAL, S. A.
 
@@ -384,4 +406,4 @@ d) O restante conforme for deliberado pela assembleia geral.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/14700/25382538.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1989-620888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:50:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 303a15797ae842ecc5b0a55b021c3311dfffb987d0a1c14e6bbee295f174a91f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67e5f66814a87e305c81e04cbf20724a6382c9114f4d34a8da290d58899db972
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:50:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Conselho de Mercados de Obras Públicas e Particulares
+- Pessoal Auxiliar
 relationships:
 - type: amended_by
   target: pt:dre:152530:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373584:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152530:por
+  label: "Revogado pelo DEC LEI.60/99.1999.03.02.MEPAT DR.IS-A [51], sem prejuízo da aplicação das disposições de natureza\
+    \ transitória \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1999-152530
+  date: '1999-03-02'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:50:47Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +124,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º No Conselho de Mercados de Obras Públicas e Particulares (CMOPP) é criado o conselho administrativo, órgão deliberativo em matéria de gestão financeira, com a seguinte composição:
+Artigo 1.º No Conselho de Mercados de Obras Públicas e Particulares (CMOPP) é criado o conselho administrativo, órgão deliberativo em matéria de gestão financeira, com a seguinte composição:
 
 a) O secretário-geral, que preside;
 
@@ -109,7 +134,7 @@ c) O chefe de divisão de gestão e administração;
 
 d) Um representante da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 2.º - 1 - Compete ao conselho administrativo:
+Art. 2.º - 1 - Compete ao conselho administrativo:
 
 a) Superintender na gestão financeira;
 
@@ -137,17 +162,17 @@ g) Aprovar as contas de gerência e enviá-las ao Tribunal de Contas.
 
 7 - O conselho administrativo será secretariado pelo chefe da Secção de Orçamentos, sem direito a voto, e, nas suas faltas e impedimentos, pelo chefe da Secção de Contabilidade.
 
-###### Art. 3.º O representante da Direcção-Geral da Contabilidade Pública tem direito ao abono de uma gratificação mensal de montante a fixar por despacho conjunto do Ministro das Finanças e do ministro da tutela.
+Art. 3.º O representante da Direcção-Geral da Contabilidade Pública tem direito ao abono de uma gratificação mensal de montante a fixar por despacho conjunto do Ministro das Finanças e do ministro da tutela.
 
-###### Art. 4.º Os levantamentos de fundos e os pagamentos integrados na gestão financeira do CMOPP são feitos, em regra, por meio de cheque ou transferência bancária, sendo aqueles entregues em troca dos competentes recibos, devidamente legalizados.
+Art. 4.º Os levantamentos de fundos e os pagamentos integrados na gestão financeira do CMOPP são feitos, em regra, por meio de cheque ou transferência bancária, sendo aqueles entregues em troca dos competentes recibos, devidamente legalizados.
 
-###### Art. 5.º - 1 - A carreira de operador de reprografia, prevista no quadro de pessoal do CMOPP, aprovado pela [Portaria n.º 266/88](https://diariodarepublica.pt/dr/detalhe/portaria/266-1988-373584), de 3 de Maio, insere-se no nível 1 do grupo de pessoal auxiliar, é horizontal e desenvolve-se pelas categorias de operador de reprografia de 1.ª, 2.ª e 3.ª classes, a que correspondem as letras de vencimento O, Q e S, respectivamente.
+Art. 5.º - 1 - A carreira de operador de reprografia, prevista no quadro de pessoal do CMOPP, aprovado pela [Portaria n.º 266/88](https://diariodarepublica.pt/dr/detalhe/portaria/266-1988-373584), de 3 de Maio, insere-se no nível 1 do grupo de pessoal auxiliar, é horizontal e desenvolve-se pelas categorias de operador de reprografia de 1.ª, 2.ª e 3.ª classes, a que correspondem as letras de vencimento O, Q e S, respectivamente.
 
 2 - O recrutamento para ingresso na carreira de operador de reprografia faz-se de entre indivíduos habilitados com a escolaridade obrigatória, nos termos da lei geral.
 
 3 - O recrutamento para as categorias de 1.ª e de 2.ª classes faz-se, respectivamente, de entre operadores de reprografia de 2.ª e de 3.ª classes, de acordo com as regras de progressão definidas no artigo 15.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, para as carreiras horizontais.
 
-###### Art. 6.º O artigo 23.º do [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, passa a ter a seguinte redacção:
+Art. 6.º O artigo 23.º do [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, passa a ter a seguinte redacção:
 
 ###### Artigo 23.º — Receitas do CMOPP
 
@@ -159,18 +184,18 @@ a) As taxas e coimas cobradas nos termos do [Decreto-Lei n.º 100/88](https://di
 
 b) Outras que lhe sejam atribuídas ou resultem de sua actividade.
 
-###### Art. 7.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 2 - Os actos decorrentes da gestão normal praticados entre 1 de Janeiro de 1989 e a data da entrada em vigor do presente diploma são considerados eficazes, devendo, porém, ser submetidos à ratificação do conselho administrativo.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 16 de Junho de 1989.**
+Promulgado em 16 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Junho de 1989.**
+Referendado em 20 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/01900/03020303.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1989-609631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:52:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c115163e0ac73784ba422afd01787e89a92a0c16281f3548c47e18dd37a494f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56c674ea4ea90c8cec3e559b7f3cf48f40f838b0928ac4dca1bf032c9deacaa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente
+- Segurança Social
+- Subsídio por Assistência de Terceira Pessoa
 relationships:
 - type: amended_by
   target: pt:dre:158179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:564801:por
+  label: Alterados os arts. 4.º, 6.º, 7.º e 8.º pelo DEC LEI.374/90.27.11.1990.MESS, DR.IS [274] de 27.11.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1990-564801
+  date: '1990-11-27'
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:158179:por
+  label: "Revogado pelo DEC LEI.133-B/97.1997.05.30.MSSS DR.IS-A [124]Supl, mantendo-se, contudo, transitoriamente em vigor\
+    \ as normas reguladoras da atribuição dos subsídios de casamento, nascimento e funeral de beneficiário, relativas aos\
+    \ eventos ocorridos no âmbito do presente diploma e requeridos na vigência da lei novaL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-b-1997-158179
+  date: '1997-05-30'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:52:43Z'
   warnings: []
   errors: []
 ---
@@ -168,12 +195,12 @@ O presente diploma entra em vigor no dia 1 de Fevereiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 1988. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
 
-**Promulgado em 9 de Janeiro de 1989.**
+Promulgado em 9 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Janeiro de 1989.**
+Referendado em 9 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
