@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 304/2004, 1º Suplemento, Série II de 2004-12-30
   number: '304'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 19398-(13) a 19398-(13)
   pdf_url: https://files.diariodarepublica.pt/2s/2004/12/304000001/0001300013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1348-cs-2004-3440982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T16:45:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4a604ed6416fe0966ea073f22a50891df74be16b6b5b9a945146f207f85846a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4dd42061d7478d4a2e14e08b238399270247605df4d01a0976e5134577d702d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:45:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:267036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:45:15Z'
   warnings: []
   errors: []
 ---

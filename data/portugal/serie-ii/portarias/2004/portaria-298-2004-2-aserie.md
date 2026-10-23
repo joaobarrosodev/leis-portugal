@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:3703117:por
-title: Portaria n.º 298/2004(2.ªsérie)
+title: Portaria n.º 298/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/298-2004-3703117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T16:45:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e1bbd51b2891b0e074b15795118dc828e4d80159f7ae6d4d49ab7d673bf09cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec67b6a63c8e0ccd0aa00376617065600ecc216c5099e1965354fb50aa44d0ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:45:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Contrato
+- Homologação
+- Instituto de Gestão Informática e Financeira da Saúde
+- Medicamento
+- Sector Público Administrativo
+- Serviço Nacional de Saúde
+- Setor Empresarial do Estado
+- Setor Público
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347964:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:45:59Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 298/2004(2.ªsérie)
+# Portaria n.º 298/2004 (2.ª série)
 
 Portaria n.º 298/2004 (2.ª série). - Na sequência da [Portaria n.º 1176-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1176-a-2000-347964) (1.ª série-B), de 14 de Dezembro, o Instituto de Gestão Informática e Financeira da Saúde levou a efeito o concurso público n.º 2003/11 para a celebração de contratos públicos de aprovisionamento com vista ao fornecimento de medicamentos antianémicos estimulantes da eritropoiese às instituições e serviços do sector público administrativo e do sector público empresarial do Serviço Nacional de Saúde.
 
@@ -142,4 +163,4 @@ Assim, manda o Governo, pelo Ministro da Saúde, ao abrigo do disposto na alíne
 
 ## ANEXO — Contrato público n.º 2003/11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/03/061000000/0402504026.pdf))](https://files.diariodarepublica.pt/2s/2004/03/061000000/0402504026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/03/061000000/0402504026.pdf)

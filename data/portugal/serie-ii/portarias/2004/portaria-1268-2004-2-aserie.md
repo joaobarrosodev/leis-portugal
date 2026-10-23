@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2492251:por
-title: Portaria n.º 1268/2004(2.ªsérie)
+title: Portaria n.º 1268/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1268-2004-2492251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T16:44:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc0c98d3c437cadff056fdeaaa2a3e16f194cfc735350cd05fca7b0454c90983
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6254e556aab05bd867f47a5baa7138157ac3364f37417e06411242b6b4f52922
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:44:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Contrato
+- Direcção Geral dos Impostos
+- Empreitada de Obras Públicas
+- Ministério das Finanças e da Administração Pública
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:44:28Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1268/2004(2.ªsérie)
+# Portaria n.º 1268/2004 (2.ª série)
 
 Portaria n.º 1268/2004 (2.ª série). - A necessidade de promover a execução de empreitada de remodelação e instalação de infra-estruturas de rede de energia, dados e voz nos serviços de finanças exige a celebração de um contrato que dará origem a encargos orçamentais em mais de um ano económico.
 

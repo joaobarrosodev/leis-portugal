@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2005/11/229000000/1664616646.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1192-2005-2963800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T16:50:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbfdc9c1a6c2f020ebb87704e502b255fb4dea109ca71bb2ae93779abcbdfa5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00ce862068a54dd7d2c4a86f75c67bc9d648e6cb7fd4731fcbaa4b290f2eb0c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:50:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:424686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622997:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:50:49Z'
   warnings: []
   errors: []
 ---

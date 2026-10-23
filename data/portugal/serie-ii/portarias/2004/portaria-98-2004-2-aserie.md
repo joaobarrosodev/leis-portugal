@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2156403:por
-title: Portaria n.º 98/2004(2.ªsérie)
+title: Portaria n.º 98/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-2004-2156403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:49:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a5a8ae3abf254ba20708796023e1628b0450156e83f5562670cb966372c4ef0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c38bf5ab91c616da9d29715cc97831513da04bb66c438a856358e7608e83e987
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:49:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicações
+- Segurança dos Edifícios
+- Segurança Privada
+- Segurança Pública
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:426748:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:49:37Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 98/2004(2.ªsérie)
+# Portaria n.º 98/2004 (2.ª série)
 
 Portaria n.º 98/2004 (2.ª série). - O [Decreto-Lei n.º 297/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1999-426748), de 4 de Agosto, prevê que a instalação de dispositivos de alarme que possuam sirene fica sujeita a comunicação ao governador civil do respectivo distrito e ao pagamento de uma taxa a fixar, anualmente, por portaria conjunta dos Ministros da Administração Interna e das Finanças.
 

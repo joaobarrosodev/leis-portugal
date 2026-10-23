@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/730-2005-1837348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T16:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1e1e392ac855f44d21feaf97d4a4a5f4394bff6c7219e58c568ff11aaa7c71b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 783d6177bf35f4aa35d42693d26f4654197b3955bdd9f3aa7c061473fd97277c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:54:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,26 @@ relationships:
   target: pt:dre:2778009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2778009:por
+  label: "Revogada a Port.795/2001, de 03-Mai,na redacção da presente portaria, pela PORT.976/2009.16.10.2009.GCEMA-MDN, DR.IIS\
+    \ [201] de 16.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/976-2009-2778009
+  date: '2009-10-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:54:30Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2006/01/013000000/0081300813.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-2006-1915888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T17:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 932661ac9bed322c0eaa59d712d2e128ce0aff3f46e67ee2a316308a1b5777bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67878f03caa6bf51816c5c2bd3667f46004118790d4d918f93310dc252d7dcd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:01:42Z'
   warnings: []
   errors: []
 ---

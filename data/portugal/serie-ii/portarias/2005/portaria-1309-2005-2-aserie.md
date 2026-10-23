@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1213382:por
-title: Portaria n.º 1309/2005(2.ªsérie)
+title: Portaria n.º 1309/2005 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2005/12/248000000/1803018030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1309-2005-1213382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T16:51:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63474dc2ebc6a121de3167fa77f80c54371bc4f0607cdcae90915a6a65b99361
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 596743906ac5240c138ea8a5fd0907dc8b74fc136f71242dfa344d842c9f7047
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:51:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Gado Bovino
+- Ifadap
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- REDE Nacional de Recolha de GADO
 relationships:
 - type: amended_by
   target: pt:dre:2513924:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:239616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2513924:por
+  label: "Revogada pela PORT.1085/2006.22.06.2006.MFAP, MADRP, DR.IIS [132] de 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1085-2006-2513924
+  date: '2006-06-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:51:29Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 1309/2005(2.ªsérie)
+# Portaria n.º 1309/2005 (2.ª série)
 
 Portaria n.º 1309/2005 (2.ª série). - Considerando as atribuições e competências do Instituto Nacional de Intervenção e Garantia Agrícola - INGA enunciadas no n.º 1 do artigo 5.º do [Decreto-Lei n.º 76/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2003-239616), que adopta as medidas complementares de luta contra a encefalopatia espongiforme bovina no domínio da alimentação animal, nomeadamente as competências para contratar e custear as operações de recolha e transporte de cadáveres de animais mortos nas explorações (SIRCA - bovinos e equídeos);
 

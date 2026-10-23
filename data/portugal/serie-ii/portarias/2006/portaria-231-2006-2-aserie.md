@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1915876:por
-title: Portaria n.º 231/2006(2.ªsérie)
+title: Portaria n.º 231/2006 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/231-2006-1915876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T17:01:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4a512de35c51a243cdb92240e8364283a3262be883e0d33bfab3c5dc935257b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4feca66b03b696115b251fbf4f39f25eaf6674a5b84afd3f7ac0c7d653976c15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:01:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estabelecimento de Ensino
+- Estudante
+- Financiamento
+- Gestão Orçamental
+- Política de Educação
+- Propinas
 relationships:
 - type: amended_by
   target: pt:dre:855215460:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:855215460:por
+  label: Revogada, com efeitos a partir de 1 de janeiro de 2024, pelo(a) Portaria n.º 101/2024/1 - Diário da República n.º
+    52/2024, Série I de 2024-03-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-2024-855215460
+  date: '2024-03-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:01:40Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 231/2006(2.ªsérie)
+# Portaria n.º 231/2006 (2.ª série)
 
 Portaria n.º 231/2006 (2.ª série). - Considerando que a [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de Agosto, estabelece as bases do financiamento do ensino superior;
 
@@ -116,7 +133,7 @@ d) Apuramento de uma dotação base nacional por aluno (D).
 
 2.º O orçamento de referência de 2006 é o resultado da aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 3 - Para efeitos da fórmula prevista no número anterior:
 
@@ -152,7 +169,7 @@ CPODij= 15/85 * CPij
 
 b) A dotação base nacional por aluno (D) calcula-se dividindo o orçamento global a transferir pelo somatório (por todas as áreas de formação de todas as instituições) do número de alunos em cada área de formação de cada instituição, ponderado pelo factor de custo, factor de eficiência e factor de qualificação associados a essa área de formação dessa instituição:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 c) A eficiência de cada instituição (Ej) em termos do número de diplomados determina-se de forma diferenciada para alunos de formação inicial e avançada, tendo por base a seguinte equação:
 
@@ -246,11 +263,11 @@ Os factores de coesão (limites máximo e mínimo efectivos de variação face a
 
 o que passa por determinar os valores e que minimizam a função:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 sujeito às restrições:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 (nota 1) Sendo t o ano lectivo em curso (2005-2006).
 
@@ -298,7 +315,7 @@ Quando os monitores ou os encarregados de trabalhos estejam contratados em regim
 
 Nestes termos, o pessoal docente de um estabelecimento de ensino i cujo vencimento se situa no índice remuneratório j (Dij) é o resultado do cálculo da seguinte expressão para cada ij:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 Pessoal não docente
 
@@ -326,11 +343,11 @@ Remuneração média anual do pessoal docente
 
 A remuneração média anual unitária do pessoal docente de um estabelecimento de ensino superior i (RPDi) é o resultado do cálculo da seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 Remuneração média anual do pessoal não docenteA remuneração média anual unitária do pessoal não docente de um estabelecimento de ensino superior i (RPNDi) é o resultado do cálculo da seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 O custo médio anual unitário do pessoal docente de um estabelecimento de ensino i (CDi) é o resultado do cálculo da seguinte expressão:
 
@@ -368,19 +385,19 @@ Estes valores são objecto de um procedimento de validação técnica realizado 
 
 Áreas de formação inicial do ensino superior universitário para 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 Tabela n.º 1 b)
 
 Áreas de formação inicial do ensino superior politécnico para 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 Tabela n.º 2 a)
 
 Áreas de formação avançada do ensino superior universitário para 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf))](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/013000000/0080300807.pdf)
 
 Tabela n.º 2 b)
 

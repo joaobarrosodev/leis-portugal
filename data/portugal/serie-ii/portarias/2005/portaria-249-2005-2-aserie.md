@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:3376860:por
-title: Portaria n.º 249/2005(2.ªsérie)
+title: Portaria n.º 249/2005 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-2005-3376860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T16:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f8b5192325197585a8cc92ba612fc484af28dab9d5e18675f37f50b9bae8403
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4d924bdec5e714b534883d51273e70c28b27052adc151aa4702a8398b9d12ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inspeção Geral da Defesa Nacional
+- Ministério da Defesa Nacional
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:146722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668155:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:52:00Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 249/2005(2.ªsérie)
+# Portaria n.º 249/2005 (2.ª série)
 
 Portaria n.º 249/2005 (2.ª série). - O [Decreto-Lei n.º 72/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2001-385028), de 26 de Fevereiro, que aprova a estrutura orgânica da Inspecção-Geral da Defesa Nacional, estabelece no n.º 2 do artigo 30.º que o respectivo quadro de pessoal seja aprovado por portaria conjunta dos Ministros de Estado, da Defesa Nacional e dos Assuntos do Mar e das Finanças e da Administração Pública. Importa, assim, para além de dar cumprimento àquele preceito legal, adequar os efectivos de pessoal às actuais necessidades deste organismo, de acordo com as novas missões que lhe estão atribuídas.
 
@@ -96,4 +115,4 @@ Manda o Governo, pelos Ministros de Estado, da Defesa Nacional e dos Assuntos do
 
 25 de Janeiro de 2005. - O Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar, Paulo Sacadura Cabral Portas. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2005/03/042000000/0304403045.pdf))](https://files.diariodarepublica.pt/2s/2005/03/042000000/0304403045.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2005/03/042000000/0304403045.pdf)

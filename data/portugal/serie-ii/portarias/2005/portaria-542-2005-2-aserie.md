@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2642192:por
-title: Portaria n.º 542/2005(2.ªsérie)
+title: Portaria n.º 542/2005 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/542-2005-2642192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T16:53:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bd3b5a2ee6f112eb667dc7e79b8c3c80c650251d62a05f355eb9b70bf12fa61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7912a73afecb6533d1b684e8a6a2a9a587e753782399cf48a9a5486f66a58ea4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:53:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de Imóveis
+- BENS Imóveis do Estado
+- Centro de Apoio Social
+- Centro Social
+- Figueira da Foz
+relationships:
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:53:35Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 542/2005(2.ªsérie)
+# Portaria n.º 542/2005 (2.ª série)
 
 Portaria n.º 542/2005 (2.ª série). - A portaria n.º 223/2005 (2.ª série), publicada no Diário da República, 2.ª série, n.º 36, de 21 de Fevereiro de 2005, que alterou a portaria n.º 891/2004 (2.ª série), publicada no Diário da República, 2.ª série, n.º 192, de 16 de Agosto de 2004, que autorizou a cessão, a título definitivo, nos termos do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, ao Centro Social da Cova e Gala de uma parcela de terreno, com a área de 15 000 m2, integrada na Mata do Cabedelo, freguesia de Lavos, concelho da Figueira da Foz, carece de ser alterada em virtude de fazer menção no seu n.º 1.º ao artigo matricial 5562, quando deve referir o artigo matricial 5250, em virtude de uma renumeração entretanto ocorrida, pelo que se torna necessário proceder à sua rectificação, bem como, consequentemente, alterar o prazo para a assinatura do auto de cessão a que se refere o seu n.º 2.º
 

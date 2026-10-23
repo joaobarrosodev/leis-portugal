@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2105747:por
-title: Portaria n.º 86/2004(2.ªsérie)
+title: Portaria n.º 86/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,30 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-2004-2105747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T16:48:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9092c70b6a749711a9c68ed6be8ea3b21699f353e6e4f49f740bfce8a71ccb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 987d5649885f9b12a971a7ab2ff7bbc3b39d8f5d9bf09bbc052f98a01ffd62e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:48:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ecologia
+- Peixe
+- Pesca
+- Pesca Profissional
+- Pescador
+- Proteção do Ambiente
+- Recursos Hídricos
+- Recursos Naturais
+- Reserva Natural
+- ZONA de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:453845:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453845:por
+  label: "Alterado o Ponto 1.º pela PORT.1046/2008.16.09.2008.MADRP, DR.IS [179] de 16.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1046-2008-453845
+  date: '2008-09-16'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -78,21 +93,45 @@ relationships:
   target: celex:31992L0043
   label: null
   source: null
+- type: cites
+  target: pt:dre:140162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:48:55Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 86/2004(2.ªsérie)
+# Portaria n.º 86/2004 (2.ª série)
 
 Portaria n.º 86/2004 (2.ª série). - Considerando que a pesca profissional na lagoa de Santo André é uma importante realidade sócio-económica;
 
@@ -136,7 +175,7 @@ A poente - pela duna.
 
 17 de Dezembro de 2003. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João M. A. Soares, Secretário de Estado das Florestas.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/2s/2004/01/006000000/0022700229.pdf))](https://files.diariodarepublica.pt/2s/2004/01/006000000/0022700229.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2004/01/006000000/0022700229.pdf)
 
 ## ANEXO II — Regulamento da zona de pesca profissional da Lagoa de Santo André
 

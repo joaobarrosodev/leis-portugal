@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2006/02/034000000/0226902270.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/384-2006-2132547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T17:02:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f74b11de509247655b52240ed0b9d2ff3c22c5066c1ae732dcd60f4bdae463a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55ff6d127dc06f25639f6eb76de8e9a66f36edc807af952bf5a135b84b3e66ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:02:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Militar
+- Missão Humanitária
+- Missão Militar
+- Missão no Estrangeiro
+- NATO
+- Terrorismo
 relationships:
 - type: amended_by
   target: pt:dre:1743432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3442349:por
+  label: "Alterado o nº7 da Port 726/2002, de 27-Jun, na redacção do presente diploma e das Ports. 292/2003, de 08-Abr, 500/2004,\
+    \ de 10-Maio e 778/2005 (2ªsérie), de 09-Ago, pela PORT.1201/2007.27.12.2007.MDN, DR.IIS [249] de 27.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1201-2007-3442349
+  date: '2007-12-27'
+- type: cites
+  target: pt:dre:140124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302519:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1743432:por
+  label: "Revoga a Port 726/2002, de 27-Jun, na redacção do presente diploma, pela PORT.228/2008.05.03.2008.MDN, DR.IIS [46]\
+    \ de 05.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2008-1743432
+  date: '2008-03-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:02:32Z'
   warnings: []
   errors: []
 ---

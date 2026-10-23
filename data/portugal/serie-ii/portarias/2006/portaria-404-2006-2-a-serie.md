@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/404-2006-1922540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T17:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6bb13d3299bf31e12452b164e8933b5d6b1c92140cfbc7454c5a7d23b858654
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fe0e57eee59c1f45beb2ae863a81fb449c7562c3d0a3576bd82e269433206bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:02:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fundo de Gestão de Património Imobiliário-fungepi-bes
+- Fundo de Investimento Imobiliário
+- Sociedade Gestora de Fundos de Investimento Imobiliário-gestimo Espírito Santo Irmãos
+relationships:
+- type: cites
+  target: pt:dre:517605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672660:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:02:38Z'
   warnings: []
   errors: []
 ---

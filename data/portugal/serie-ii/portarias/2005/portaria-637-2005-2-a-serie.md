@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/637-2005-2354706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T16:54:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbeb5ce530a2dd1f74f9f7abd223ebffeb121977106165ca9286d44e47f24a32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b34a680f162303e12b223dd9e570f54988e46cd91e913ceb48d01b9fcecb039
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:54:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Funcionário Público
+- Livre Trânsito
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Pessoal de Gabinete
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:547070:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:54:03Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +102,9 @@ Manda o Governo, pelo Ministro do Ambiente, do Ordenamento do Território e do D
 
 1.º São aprovados os seguintes modelos de cartão de identificação para uso do pessoal que integra o Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional (MAOTDR), constantes dos anexos à presente portaria:
 
-## Anexo I - para uso do pessoal dos gabinetes dos membros do Governo do MAOTDR, bem como dos titulares dos cargos de direcção superior e de direcção intermédia dos serviços de administração directa e dos titulares dos órgãos dirigentes máximos dos organismos sob superintendência e tutela do Ministério, bem como para uso do pessoal cuja especificidade da função exercida assim o exija, que não disponham de modelos próprios;
+Anexo I - para uso do pessoal dos gabinetes dos membros do Governo do MAOTDR, bem como dos titulares dos cargos de direcção superior e de direcção intermédia dos serviços de administração directa e dos titulares dos órgãos dirigentes máximos dos organismos sob superintendência e tutela do Ministério, bem como para uso do pessoal cuja especificidade da função exercida assim o exija, que não disponham de modelos próprios;
 
-## Anexo II - para uso do restante pessoal, funcionários e agentes, dos serviços e organismos do Ministério que não disponham de modelos próprios.
+Anexo II - para uso do restante pessoal, funcionários e agentes, dos serviços e organismos do Ministério que não disponham de modelos próprios.
 
 2.º Os cartões de identificação são de cor branca, com Escudo e letras de cor preta, com a designação "Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional", acrescido da menção da respectiva designação orgânica, a inscrever imediatamente sob a designação do Ministério, dimensões de 10,5 cmx7,5 cm, tendo uma faixa com as cores verde e vermelha no canto superior esquerdo, contendo o modelo constante do anexo I a menção "livre trânsito" em letras maiúsculas, de cor vermelha.
 
@@ -118,8 +128,8 @@ Manda o Governo, pelo Ministro do Ambiente, do Ordenamento do Território e do D
 
 ## ANEXO I — Modelo de cartão de identidade - Pessoal dos gabinetes e pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2005/06/108000000/0847408475.pdf))](https://files.diariodarepublica.pt/2s/2005/06/108000000/0847408475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2005/06/108000000/0847408475.pdf)
 
 ## ANEXO II — Modelo de cartão de identidade - Funcionários
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2005/06/108000000/0847408475.pdf))](https://files.diariodarepublica.pt/2s/2005/06/108000000/0847408475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2005/06/108000000/0847408475.pdf)

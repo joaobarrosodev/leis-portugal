@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1361524:por
-title: Portaria n.º 722/2004(2.ªsérie)
+title: Portaria n.º 722/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-2004-1361524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T16:48:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd6289bb8d2c745fe7fe912b42471c141eb442eb361fa5fc4da7cda24aaa8396
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35424406aafe71c1edc409b2d2351f205e3c12baa5658a9bf15e6acc8af70c96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:48:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de Solos
+- BENS Imóveis do Estado
+- Câmara Municipal
+- Vila Franca de Xira
+relationships:
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:48:03Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 722/2004(2.ªsérie)
+# Portaria n.º 722/2004 (2.ª série)
 
 Portaria n.º 722/2004 (2.ª série). - A Câmara Municipal de Vila Franca de Xira solicitou a cessão definitiva de uma parcela de terreno que se encontra concessionada à TER TIR - Terminais de PortugS. A., em Alverca, com a área de 1142,35 m2, destinada à construção da nova variante de Alverca.
 

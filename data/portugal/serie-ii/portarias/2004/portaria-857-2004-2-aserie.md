@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2577620:por
-title: Portaria n.º 857/2004(2.ªsérie)
+title: Portaria n.º 857/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2004/07/178000000/1152011521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,45 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/857-2004-2577620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T16:48:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0c201514f9843b60bf7d64c38d9fbab02c8ddba5ba58a99b819a0ece3eb47dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aec1c10b4f33f3ac80e7dd9250d7a9928b6e7a64d7263d0130502a7840f45a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:48:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Prazo
+- Projeto
+- Regime de Apoio à Reconversão e Reestruturação das Vinhas
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:619548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:423931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589770:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:619548:por
+  label: "Revogada pela PORT.1141/2004.13.09.2004.MAPF, DR.IS-B [216] de 13.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1141-2004-619548
+  date: '2004-09-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:48:54Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 857/2004(2.ªsérie)
+# Portaria n.º 857/2004 (2.ª série)
 
 Portaria n.º 857/2004 (2.ª série). - A [Portaria n.º 685/2000](https://diariodarepublica.pt/dr/detalhe/portaria/685-2000-581238), de 30 de Agosto, veio estabelecer, para o continente, as normas complementares de execução do regime de apoio à reconversão e reestruturação das vinhas, sendo, mais tarde, revogada pela [Portaria n.º 1259/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2001-589770), de 30 de Outubro.
 

@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:3271224:por
-title: Portaria n.º 619/2004(2.ªsérie)
+title: Portaria n.º 619/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/619-2004-3271224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T16:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5b138a340e77b1261c9f716dbc6f05960d7a904913f1e788fc2c06114cef173
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89e3772ca91814c6b6b3cd8bf89611dfb6487c97f8080ee80417cdb3f7fee16b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Equipamento Informático
+- Instituto de Gestão do Fundo Social Europeu
+- Ministério da Segurança Social e do Trabalho
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:47:29Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 619/2004(2.ªsérie)
+# Portaria n.º 619/2004 (2.ª série)
 
 Portaria n.º 619/2004 (2.ª série). - Na sequência de concurso público internacional, foi adjudicado à empresa Accenture, Consultores de Gestão, S. A., a concepção e a construção de um sistema integrado de informação do Fundo Social Europeu (SIIFSE), necessário à gestão, avaliação e controlo dos apoios concedidos no âmbito deste Fundo, a qual criou, assim, a plataforma de base indispensável à existência de um sistema de informação na área de intervenção do FSE no actual quadro de programação.
 

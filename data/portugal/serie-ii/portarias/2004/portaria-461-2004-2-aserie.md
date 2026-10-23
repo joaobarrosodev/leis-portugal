@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1468390:por
-title: Portaria n.º 461/2004(2.ªsérie)
+title: Portaria n.º 461/2004 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,45 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/461-2004-1468390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T16:46:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 379b4b122dd3eac9422af7a3266b3a6923bfe348f36df73eaf21d81984ca64eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 032b4f971ccddf41e3d3a42843469bbd7b8ce437777d030266e42ce379baa16d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:46:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Contrato
+- Direcção Geral do Património
+- Secretário de Estado do Tesouro e das Finanças
+- Veículo
+- Veículo do Estado
 relationships:
 - type: amended_by
   target: pt:dre:3042255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3598485:por
+  label: "Alterada pela PORT.715/2005(2ªSérie).27.05.2005.MFAP, DR.IIS [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-2005-3598485
+  date: '2005-05-27'
+- type: amended_by
+  target: pt:dre:1975008:por
+  label: "Alterada pela PORT.280/2007.30.01.2007.SETF-MFAP, DR.IIS [47] de 07.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-2007-1975008
+  date: '2007-01-30'
+- type: amended_by
+  target: pt:dre:2901711:por
+  label: "Aditada pelo AV-EXT.7764/2007.12.02.2007.DGP-MFAP, DR.IIS [82] de 27.04.2007 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extracto/7764-2007-2901711
+  date: '2007-02-12'
+- type: amended_by
+  target: pt:dre:2901712:por
+  label: "Aditada pelo AV-EXT.7765/2007.23.03.2007.DGP-MFAP, DR.IIS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extracto/7765-2007-2901712
+  date: '2007-03-23'
+- type: amended_by
+  target: pt:dre:3042254:por
+  label: "Alterada pela PORT.377/2007.23.03.2007.SETF-MFAP, DR.IIS [77] de 19.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-2007-3042254
+  date: '2007-03-23'
+- type: amended_by
+  target: pt:dre:3042255:por
+  label: "Alterada pela PORT.378/2007.23.03.2007.SETF-MFAP, DR.IIS [77] de 19.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-2007-3042255
+  date: '2007-03-23'
+- type: cites
+  target: pt:dre:166231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:46:47Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 461/2004(2.ªsérie)
+# Portaria n.º 461/2004 (2.ª série)
 
 Portaria n.º 461/2004 (2.ª série). - A Direcção-Geral do Património levou a efeito o concurso público internacional com vista à celebração de contratos públicos de aprovisionamento de veículos automóveis e motociclos, equipamentos e peças.
 
@@ -128,7 +184,7 @@ Subgrupo 1.5 - furgões, sem limite de cilindrada;
 
 Subgrupo 1.6 - veículos eléctricos.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf))](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
 
 Grupo 2 - veículos ligeiros de mercadorias - veículos com peso bruto até 3500 kg que se destinam ao transporte de carga:
 
@@ -142,7 +198,7 @@ Subgrupo 2.4 - derivados comerciais, cilindrada até 1900 c. c. (G) ou 2200 c. c
 
 Subgrupo 2.5 - veículos eléctricos.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf))](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
 
 Grupo 3 - veículos pesados de passageiros - veículos com peso bruto superior a 3500 kg que se destinam ao transporte de pessoas:
 
@@ -152,7 +208,7 @@ Subgrupo 3.2 - autocarro médio, até 35 lugares;
 
 Subgrupo 3.3 - autocarro grande, mais de 35 lugares.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf))](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
 
 Grupo 4 - veículos pesados de mercadorias - veículos com peso bruto superior a 3500 kg que se destinam ao transporte de carga:
 
@@ -162,7 +218,7 @@ Subgrupo 4.2 - châssis-cabine com e sem transformação;
 
 Subgrupo 4.3 - tractores.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf))](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
 
 Grupo 5 - veículos especiais - veículos destinados ao desempenho de uma função específica, diferente do transporte normal de passageiros ou de carga, ou que pelas suas características não se enquadrem em nenhum dos grupos anteriores:
 
@@ -170,7 +226,7 @@ Subgrupo 5.1 - ambulâncias;
 
 Subgrupo 5.2 - veículos de higiene urbana.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf))](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
 
 Grupo 6 - motociclos - veículos dotados de duas, três ou quatro rodas, com motor de propulsão com cilindrada superior a 50 c. c., ou que, por construção, exceda em patamar a velocidade de 45 km/h:
 
@@ -178,4 +234,4 @@ Subgrupo 6.1 - motociclos;
 
 Subgrupo 6.2 - quadriciclo.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf))](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/04/097000000/0629606298.pdf)
